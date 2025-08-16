@@ -90,7 +90,7 @@ share: true
     > [What Non-Muslims Say About Muhammad ﷺ](https://al-islam.org/articles/personalities-what-non-muslims-say-about-muhammad-prophet-islam)
 1. The more you learn about his life, the more you will love him for his **unmatched character, compassion, and mercy**, and the clearer the **evidence** for his prophethood will become.
 1. Many many **evidences of his prophethood** from his own **life story** and **actions**. This is a whole area to research on its own, however here are some examples:
-1. At the start of his message, his people tried to **bribe** Prophet Muhammad ﷺ with wealth, status, and power to make him **abandon his call to God**—but he **refused without hesitation**.
+1. At the start of his message, Prophet Muhammad's ﷺ people tried to **bribe** him with wealth, status, and power to make him **abandon his call to God**—but he **refused without hesitation**.
 1. Even later in life, when he held **authority over Arabia** and could have **claimed immense wealth**, he chose to **live simply and humbly**, **giving away** what he had and leaving this world with almost **no worldly possessions**.
 1. Even **respected Christian scholars** acknowledge him as a **true prophet of God**.
     > [Reverend Professor Keith Ward  \| Blogging Theology](https://www.youtube.com/live/ftRsC_2sjg8)
