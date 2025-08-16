@@ -1,7 +1,7 @@
 ---
 title: "Qur'an: A Divine Miracle"
 description: "Key aspects of the Qur’an which, taken together and in relation to one another, demonstrate its miraculous nature."
-image: /assets/images/quran_preview.jpg
+og_image: /assets/images/quran_preview.jpg
 
 permalink: /quran
 
@@ -11,6 +11,8 @@ toc: true
 toc_label: "Table of Contents"
 toc_icon: "bars"
 toc_sticky: true
+
+share: true
 ---
 
 ## The Book
