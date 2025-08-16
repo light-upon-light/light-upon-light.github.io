@@ -31,7 +31,7 @@ share: true
 1. **Perfect reference** for Arabic grammar. Has zero grammatical errors.
 1. Ring structure: Displays intricate **symmetrical patterns** (chiastic structures) within verses, chapters, and even across chapters—achieved without chronological sequencing or later editing
     > This in combination with the partial, out-of-order, one shot, no take-backs revelation, and all of the above is miraculous on its own, let alone in addition to everything else. ([Marvels of the Qur'an \| Dr. Ali Ataie](https://www.youtube.com/watch?v=9gJWIGLJhHM))
-1. The Qur’an even refers explicitly to **Prophet Muhammad's ﷺ illiteracy**.
+1. The Qur’an even refers explicitly to **Prophet Muhammad's ﷺ non-literacy**.
     > “You ˹O Prophet˺ could not read any writing ˹even˺ before this ˹revelation˺, nor could you write at all. Otherwise, the people of falsehood would have been suspicious.” (**Al-‘Ankabut 29:48**)
 1. Can be **read in any order** of chapters while retaining coherence, guidance, and thematic unity—unlike typical narratives.
 1. Claims to be the **final divine revelation** to humanity.
@@ -81,7 +81,7 @@ share: true
 1. Amazing video on the miraculousness of the Quran: [Marvels of the Qur'an \| Dr. Ali Ataie](https://youtu.be/9gJWIGLJhHM).
 
 ## The Messenger of God
-1. All this from the mouth of **one illiterate bedouin man** from the desert more than 1400 years ago.
+1. All of that from the mouth of **one non-literate bedouin man** from the desert more than 1400 years ago.
 1. Who is considered to be one of the **most influential figures** in human history.
     > [The 100: A Ranking of the Most Influential Persons in History](https://en.wikipedia.org/wiki/The_100:_A_Ranking_of_the_Most_Influential_Persons_in_History)
 
