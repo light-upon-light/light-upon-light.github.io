@@ -38,7 +38,7 @@ share: true
     > History confirms no later religion has spread on a fraction of its scale.
 1. As the final message, the Qur’an comes from the same **Divine Author**, **affirming** earlier scriptures, **expanding** their guidance, and **restoring** the truth where it had been altered.
 1. Main messages of **love, mercy and compassion**.
-1. Tells stories from the bible, but **precisely avoids and corrects its historical inaccuracies**.
+1. Tells stories from the Bible, but **precisely avoids and corrects its historical inaccuracies**.
     > e.g. Title of Pharoah vs King at time of Moses vs Jospeh, Jews few in number at the time of the exodus, etc.
 1. Provides a complete **moral and legal framework** that guided a flourishing civilization.
 1. Provides an **ethical system** balancing **justice, mercy, and compassion**.
