@@ -43,7 +43,7 @@ share: true
 1. Provides a complete **moral and legal framework** that guided a flourishing civilization.
 1. Provides an **ethical system** balancing **justice, mercy, and compassion**.
 1. **Scientific knowledge** (much that was unknowable at the time).
-    > [Quran on Embryology 1. Professor Keith L. Moore](https://youtu.be/J_Dllu42eEA) and many other videos
+    > [Quran on Embryology 1. Professor Keith L. Moore](https://youtu.be/J_Dllu42eEA), etc.
 1. Miraculous **mathematical structures**.
     > [Mathematical Miracles in the Qur'an: A Measured Approach](https://youtu.be/QC3sDbVcAbw)
 1. **Aptronym**-like references to other languages that Prophet Muhammad ﷺ **didn’t know how to speak**.
@@ -51,7 +51,7 @@ share: true
 1. Fulfilled **future prophecies**.
     > e.g. Protection of the Qur’an from corruption, Ease of memorization, Islam’s global spread, Defeat of those who try to outdo the Qur’an, The defeat of Meccan opposition, Abu Lahab’s eternal loss, Preservation of the drowned Pharoah’s body, the defeat and victory of byzantium, etc.
 1. Very **accurate historical information**. And some that was only later confirmed by modern historians to be true.
-    > [The Qur'an and the Secrets of Egypt](https://youtu.be/c2ovILc_sKY) and many other videos
+    > [The Qur'an and the Secrets of Egypt](https://youtu.be/c2ovILc_sKY), etc.
 1. Claims it is the **verbatim word of God**. No other book written by a human makes that claim about itself, nonetheless any that is this **widespread and miraculous**.
 1. Modern **linguistic analysis** of the **Hadith** (Prophet Muhammad’s ﷺ own speech) and the **Qur’an** shows clear, consistent differences in style and structure, indicating **distinct sources**.
     > It would be virtually impossible for a non-literate person to alter his natural mode of expression so completely and exclusively when orally revealing the Qur’an, especially in light of all other characteristics of the text.
@@ -78,7 +78,6 @@ share: true
 1. **Easily memorized**. It is common and normal for muslims to memorize it fully. There are **millions of people** today who **memorize** it from **cover to cover** perfectly.
 1. **Prophesies** its own **ease of memorization** and transmission: “And We have certainly made the Qur’an easy for remembrance, so is there any who will remember?” (**Al-Qamar 54:17**)
 1. If somehow all the physical Qurans were **burned in an instant**, we would be able to **recreate it perfectly** from people’s memory **within a day**. No other book can make that claim.
-1. Amazing video on the miraculousness of the Quran: [Marvels of the Qur'an \| Dr. Ali Ataie](https://youtu.be/9gJWIGLJhHM).
 
 ## The Messenger of God
 1. All of that from the mouth of **one non-literate bedouin man** from the desert more than 1400 years ago.
@@ -96,11 +95,14 @@ share: true
     > [Reverend Professor Keith Ward  \| Blogging Theology](https://www.youtube.com/live/ftRsC_2sjg8)
 
 ## Links
-- [Truthfulness of the Prophet (Instagram Reel)](https://www.instagram.com/reel/DIxiB27oyqR)
+- Amazing video on the miraculousness of the Quran
+    > [Marvels of the Qur'an \| Dr. Ali Ataie](https://youtu.be/9gJWIGLJhHM)
 - [Evidences for the truth of Islam – Mohammed Hijab Official (Website)](https://mohammedhijab.com/articles/evidences-for-the-truth-of-islam/)
+- [Truthfulness of the Prophet (Instagram Reel)](https://www.instagram.com/reel/DIxiB27oyqR)
 
 ## Playlist
-- Playlist on miraculousness of the Quran and various other evidences for God and Islam: [Evidence for God and Islam (Youtube Playlist)](https://youtube.com/playlist?list=PLwIWQeA8Aq55xC3RctNBswajRBuWgl7Tr)
+- Playlist on miraculousness of the Quran and various other evidences for God and Islam
+    > [Evidence for God and Islam (Youtube Playlist)](https://youtube.com/playlist?list=PLwIWQeA8Aq55xC3RctNBswajRBuWgl7Tr)
 
 ## Answers to Common Misconceptions
 Q: Is the Qur'an really preserved as it was revealed?
