@@ -43,7 +43,7 @@ share: true
 1. Provides a complete **moral and legal framework** that guided a flourishing civilization.
 1. Provides an **ethical system** balancing **justice, mercy, and compassion**.
 1. **Scientific knowledge** (much that was unknowable at the time).
-    > [Quran on Embryology - Professor Keith L. Moore](https://youtu.be/J_Dllu42eEA), etc.
+    > [Quran on Embryology - Professor Keith L. Moore](https://youtu.be/J_Dllu42eEA)
 1. Miraculous **mathematical structures**.
     > [Mathematical Miracles in the Qur'an: A Measured Approach](https://youtu.be/QC3sDbVcAbw)
 1. **Aptronym**-like references to other languages that Prophet Muhammad ﷺ **didn’t know how to speak**.
@@ -51,7 +51,7 @@ share: true
 1. Fulfilled **future prophecies**.
     > e.g. Protection of the Qur’an from corruption, Ease of memorization, Islam’s global spread, Defeat of those who try to outdo the Qur’an, The defeat of Meccan opposition, Abu Lahab’s eternal loss, Preservation of the drowned Pharoah’s body, the defeat and victory of byzantium, etc.
 1. Very **accurate historical information**. And some that was only later confirmed by modern historians to be true.
-    > [The Qur'an and the Secrets of Egypt](https://youtu.be/c2ovILc_sKY), etc.
+    > [The Qur'an and the Secrets of Egypt](https://youtu.be/c2ovILc_sKY)
 1. Claims it is the **verbatim word of God**. No other book written by a human makes that claim about itself, nonetheless any that is this **widespread and miraculous**.
 1. Modern **linguistic analysis** of the **Hadith** (Prophet Muhammad’s ﷺ own speech) and the **Qur’an** shows clear, consistent differences in style and structure, indicating **distinct sources**.
     > It would be virtually impossible for a non-literate person to alter his natural mode of expression so completely and exclusively when orally revealing the Qur’an, especially in light of all other characteristics of the text.
