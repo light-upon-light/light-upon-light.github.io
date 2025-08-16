@@ -43,7 +43,7 @@ share: true
 1. Provides a complete **moral and legal framework** that guided a flourishing civilization.
 1. Provides an **ethical system** balancing **justice, mercy, and compassion**.
 1. **Scientific knowledge** (much that was unknowable at the time).
-    > [Quran on Embryology 1. Professor Keith L. Moore](https://youtu.be/J_Dllu42eEA), etc.
+    > [Quran on Embryology - Professor Keith L. Moore](https://youtu.be/J_Dllu42eEA), etc.
 1. Miraculous **mathematical structures**.
     > [Mathematical Miracles in the Qur'an: A Measured Approach](https://youtu.be/QC3sDbVcAbw)
 1. **Aptronym**-like references to other languages that Prophet Muhammad ﷺ **didn’t know how to speak**.
