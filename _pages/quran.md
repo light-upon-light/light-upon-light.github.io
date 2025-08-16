@@ -79,6 +79,8 @@ share: true
 1. **Prophesies** its own **ease of memorization** and transmission: “And We have certainly made the Qur’an easy for remembrance, so is there any who will remember?” (**Al-Qamar 54:17**)
 1. If somehow all the physical Qurans were **burned in an instant**, we would be able to **recreate it perfectly** from people’s memory **within a day**. No other book can make that claim.
 
+> *Note: These are brief points highlighting key ideas. While more general verification and further details can be found through a quick search, some links to helpful videos are provided. This page is a work in progress.*
+
 ## The Messenger of God
 1. All of that from the mouth of **one non-literate bedouin man** from the desert more than 1400 years ago.
 1. Who is considered to be one of the **most influential figures** in human history.
