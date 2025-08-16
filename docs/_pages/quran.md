@@ -1,7 +1,7 @@
 ---
 title: "Qur'an: A Divine Miracle"
 permalink: /quran
-layout: singl-zen
+layout: single-zen
 toc: true
 toc_label: "Table of Contents"
 toc_icon: "bars"
