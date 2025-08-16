@@ -1,8 +1,7 @@
 ---
 title: "Qur'an: A Divine Miracle"
 permalink: /quran
-# layout: archive
-# classes: wide
+layout: singl-zen
 toc: true
 toc_label: "Table of Contents"
 toc_icon: "bars"
@@ -12,7 +11,7 @@ toc_sticky: true
 ## The Book
 > Key aspects of the Qur’an which, taken together and in relation to one another, demonstrate its miraculous nature:
 
-1. Revealed **entirely by oral recitation** through an **_illiterate_ bedouin man** in the desert more than 1400 years ago.
+1. Revealed **entirely by oral recitation** to Prophet Muhammad ﷺ, a bedouin man in the desert who could **neither read nor write** more than 1400 years ago.
 1. Revealed over 23 years, in **partial portions** and **out of chronological order**, often responding to unforeseen events, which would make long-term preplanning impossible.
 1. One Shot Wonder: Once revealed and spoken, verses were **fixed permanently** without **retraction** or **alteration**, yet together they form a perfectly coherent whole.
 1. Length of **600+ pages**.
@@ -26,11 +25,12 @@ toc_sticky: true
 1. **Perfect reference** for Arabic grammar. Has zero grammatical errors.
 1. Ring structure: Displays intricate **symmetrical patterns** (chiastic structures) within verses, chapters, and even across chapters—achieved without chronological sequencing or later editing
     > This in combination with the partial, out-of-order, one shot, no take-backs revelation, and all of the above is miraculous on its own, let alone in addition to everything else. ([Marvels of the Qur'an \| Dr. Ali Ataie](https://www.youtube.com/watch?v=9gJWIGLJhHM))
-1. Revealed **entirely by oral recitation** to Prophet Muhammad ﷺ, who could **neither read nor write**, in a culture without printing or mass recording.
-1. Which is even pointed to in the Qur’an itself: “You ˹O Prophet˺ could not read any writing ˹even˺ before this ˹revelation˺, nor could you write at all. Otherwise, the people of falsehood would have been suspicious.” (**Al-‘Ankabut 29:48**)
-1. Can be **read in any order** while retaining coherence, guidance, and thematic unity—unlike typical narratives.
-1. Builds on the **Abrahamic religions** and comes as the final message, confirming all religions before it and building on them.
-1. Claims to be the **last divine revelation** to humanity, and history confirms no later religion has spread on a fraction of its scale.
+1. The Qur’an even refers explicitly to **Prophet Muhammad's ﷺ illiteracy**.
+    > “You ˹O Prophet˺ could not read any writing ˹even˺ before this ˹revelation˺, nor could you write at all. Otherwise, the people of falsehood would have been suspicious.” (**Al-‘Ankabut 29:48**)
+1. Can be **read in any order** of chapters while retaining coherence, guidance, and thematic unity—unlike typical narratives.
+1. Claims to be the **final divine revelation** to humanity.
+    > History confirms no later religion has spread on a fraction of its scale.
+1. As the final message, the Qur’an comes from the same **Divine Author**, **affirming** earlier scriptures, **expanding** their guidance, and **restoring** the truth where it had been altered.
 1. Main messages of **love, mercy and compassion**.
 1. Tells stories from the bible, but **precisely avoids and corrects its historical inaccuracies**.
     > e.g. Title of Pharoah vs King at time of Moses vs Jospeh, Jews few in number at the time of the exodus, etc.
@@ -77,6 +77,11 @@ toc_sticky: true
 ## The Messenger of God
 1. All this from the mouth of **one illiterate bedouin man** from the desert more than 1400 years ago.
 1. Who is considered to be one of the **most influential figures** in human history.
+    > [The 100: A Ranking of the Most Influential Persons in History](https://en.wikipedia.org/wiki/The_100:_A_Ranking_of_the_Most_Influential_Persons_in_History)
+
+    > [Prophet Muhammad Honored By the U.S. Supreme Court As One Of The Greatest Lawgivers Of The World In 1935](https://www.soundvision.com/article/prophet-muhammad-honored-by-the-us-supreme-court-as-one-of-the-greatest-lawgivers-of-the)
+
+    > [What Non-Muslims Say About Muhammad ﷺ](https://al-islam.org/articles/personalities-what-non-muslims-say-about-muhammad-prophet-islam)
 1. The more you learn about his life, the more you will love him for his **unmatched character, compassion, and mercy**, and the clearer the **evidence** for his prophethood will become.
 1. Many many **evidences of his prophethood** from his own **life story** and **actions**. This is a whole area to research on its own, however here are some examples:
 1. At the start of his message, his people tried to **bribe** Prophet Muhammad ﷺ with wealth, status, and power to make him **abandon his call to God**—but he **refused without hesitation**.

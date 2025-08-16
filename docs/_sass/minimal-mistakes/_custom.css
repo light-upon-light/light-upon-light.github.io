@@ -1,0 +1,13 @@
+/* Zen layout tweaks */
+body.layout--zen .initial-content {
+  max-width: 100%;       /* full width */
+  padding: 2rem;         /* optional padding */
+}
+
+body.layout--zen .sidebar {
+  display: none;         /* hide sidebars if any */
+}
+
+body.layout--zen .page__inner-wrap {
+  padding: 0;            /* remove extra padding */
+}
