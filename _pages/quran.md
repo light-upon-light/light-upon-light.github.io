@@ -126,8 +126,9 @@ share: true
     > [Evidence for God and Islam (Youtube Playlist)](https://youtube.com/playlist?list=PLwIWQeA8Aq55xC3RctNBswajRBuWgl7Tr)
 
 ## Answers to Common Misconceptions
-- Q: Is the Qur'an really preserved as it was revealed?
-- A:
-    > [Has the Qur'an been reliably preserved?](https://youtu.be/WKlSJa-ZnJQ)
+- Is the Qur'an really preserved as it was revealed?
+    > [Has the Qur'an been reliably preserved? \| Blogging Theology](https://youtu.be/WKlSJa-ZnJQ)
 
     > [The most DIRECT proof that the Qur'an is from Allah \| Arabic101](https://youtu.be/4l7pbX5J8Lg)
+- Did Prophet Muhammad ﷺ really exist?
+    > [Did Muhammad ﷺ really exist? \| Blogging Theology](https://youtu.be/_mZgSIlX20U)
