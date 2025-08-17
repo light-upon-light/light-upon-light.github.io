@@ -66,6 +66,7 @@ share: true
 ### Knowledge: Historical, Scientific and Linguistic
 1. **Scientific knowledge** (much that was unknowable at the time).
     > [Quran on Embryology - Professor Keith L. Moore](https://youtu.be/J_Dllu42eEA)
+    
     > [Are there scientific miracles in the Qur'an?](https://youtu.be/DoP6Ft-VE70)
 1. Very **accurate historical information**, some only confirmed by modern historians.
     > [The Qur'an and the Secrets of Egypt](https://youtu.be/c2ovILc_sKY)
