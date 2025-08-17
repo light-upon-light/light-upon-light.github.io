@@ -120,7 +120,7 @@ share: true
     > [Marvels of the Qur'an \| Dr. Ali Ataie](https://youtu.be/9gJWIGLJhHM)
 - [Evidences for the truth of Islam \| Mohammed Hijab (Website)](https://mohammedhijab.com/articles/evidences-for-the-truth-of-islam/)
 - [Truthfulness of the Prophet (Instagram Reel)](https://www.instagram.com/reel/DIxiB27oyqR)
-
+- [I've read the Qur'an as a non-muslim](https://youtu.be/G5nSm73o4bw)
 ## Playlist
 - Playlist on miraculousness of the Quran and various other evidences for God and Islam
     > [Evidence for God and Islam (Youtube Playlist)](https://youtube.com/playlist?list=PLwIWQeA8Aq55xC3RctNBswajRBuWgl7Tr)
