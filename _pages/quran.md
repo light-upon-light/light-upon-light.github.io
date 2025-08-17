@@ -128,4 +128,6 @@ share: true
 ## Answers to Common Misconceptions
 Q: Is the Qur'an really preserved as it was revealed?
 
-A:
+A: 
+    > [Has the Qur'an been reliably preserved?](https://youtu.be/WKlSJa-ZnJQ)
+    > [The most DIRECT proof that the Qur'an is from Allah \| Arabic101](https://youtu.be/4l7pbX5J8Lg)
