@@ -15,7 +15,7 @@ share: true
 ---
 
 ## The Book
-> Key aspects of the Qur’an which, taken together and in relation to one another, demonstrate its miraculous nature:
+> Key aspects of the Qur’an which, taken together and in relation to one another, demonstrate its miraculous nature.
 
 ### Mode of Revelation
 1. Revealed **entirely by oral recitation** to Prophet Muhammad ﷺ, a bedouin man in the desert who could **neither read nor write** more than 1400 years ago.
