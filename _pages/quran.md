@@ -43,7 +43,7 @@ share: true
 1. **Flows perfectly** and is **beautifully melodic**. Even non-Arabic speakers are moved to tears upon hearing its recitation from its profound **effect on the hearts** of people.
 
 ### Bold Claims and Challenges
-1. Claims it is the **verbatim word of God**. No chother book written by a human makes that claim about itself, nonetheless any that is this **widespread and miraculous**.
+1. Claims it is the **verbatim word of God**. No other book written by a human makes that claim about itself, nonetheless any that is this **widespread and miraculous**.
 1. The very **first sentence** after the opening chapter says: “This is the Book! There is no doubt about it—a guide for those mindful ˹of God˺” (**Al-Baqarah 2:2**). Extremely bold claims off the rip.
 1. Claims it has **no contradictions**, and that if it were man-made you would find many contradictions in it. And the test of time proves that it does not have any contradictions.
     > People have been trying to find any for 1400+ years and if there really were any, the whole claim from God would fall apart very quickly
