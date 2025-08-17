@@ -118,7 +118,7 @@ share: true
 ## Links
 - Amazing video on the miraculousness of the Quran
     > [Marvels of the Qur'an \| Dr. Ali Ataie](https://youtu.be/9gJWIGLJhHM)
-- [Evidences for the truth of Islam – Mohammed Hijab Official (Website)](https://mohammedhijab.com/articles/evidences-for-the-truth-of-islam/)
+- [Evidences for the truth of Islam \| Mohammed Hijab (Website)](https://mohammedhijab.com/articles/evidences-for-the-truth-of-islam/)
 - [Truthfulness of the Prophet (Instagram Reel)](https://www.instagram.com/reel/DIxiB27oyqR)
 
 ## Playlist
@@ -126,6 +126,10 @@ share: true
     > [Evidence for God and Islam (Youtube Playlist)](https://youtube.com/playlist?list=PLwIWQeA8Aq55xC3RctNBswajRBuWgl7Tr)
 
 ## Answers to Common Misconceptions
+- Does Islam really preach Love and Mercy as the main message?
+    > [The Power of Love \| Al-Habib Ali Al-Jifri](https://youtu.be/KQFrovc_1G0) (turn on English captions)
+- Is the Shari'ah law really cruel like  what is portrayed in Western media?
+    > [What the West Needs to Know About the Shari’ah \| Blogging Theology](https://youtu.be/AHOH_t03sIc)
 - Is the Qur'an really preserved as it was revealed?
     > [Has the Qur'an been reliably preserved? \| Blogging Theology](https://youtu.be/WKlSJa-ZnJQ)
 
