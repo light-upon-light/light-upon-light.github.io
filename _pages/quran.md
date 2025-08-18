@@ -14,6 +14,7 @@ toc_sticky: true
 share: true
 ---
 
+
 ## The Book
 > Key aspects of the Qur’an which, taken together and in relation to one another, demonstrate its miraculous nature.
 
@@ -100,6 +101,7 @@ share: true
 
 > *Note: These are brief points highlighting key ideas. While more general verification and further details can be found through a quick search, some links to helpful videos are provided. This page is a work in progress.*
 
+
 ## The Messenger of God
 1. All of that from the mouth of **one non-literate bedouin man** from the desert more than 1400 years ago.
 1. Who is considered to be one of the **most influential figures** in human history.
@@ -115,6 +117,7 @@ share: true
 1. Even **respected Christian scholars** acknowledge him as a **true prophet of God**.
     > [Reverend Professor Keith Ward  \| Blogging Theology](https://www.youtube.com/live/ftRsC_2sjg8)
 
+
 ## Links
 - Amazing video on the miraculousness of the Quran
     > [Marvels of the Qur'an \| Dr. Ali Ataie](https://youtu.be/9gJWIGLJhHM)
@@ -124,6 +127,7 @@ share: true
 ## Playlist
 - Playlist on miraculousness of the Quran and various other evidences for God and Islam
     > [Evidence for God and Islam (Youtube Playlist)](https://youtube.com/playlist?list=PLwIWQeA8Aq55xC3RctNBswajRBuWgl7Tr)
+
 
 ## Answers to Common Misconceptions
 - Does Islam really preach Love and Mercy as the main message?
