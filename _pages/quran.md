@@ -117,7 +117,7 @@ share: true
 1. Even **respected Christian scholars** acknowledge him as a **true prophet of God**.
     > [Top Christian scholars affirm that Prophet Muhammad ﷺ was an authentic prophet of God (Instagram Reel)](https://www.instagram.com/reel/DJooWIRtUQs)
     
-    > [Reverend Professor Keith Ward  \| Blogging Theology](https://www.youtube.com/live/ftRsC_2sjg8)
+    > [Reverend Professor Keith Ward on Blogging Theology](https://www.youtube.com/live/ftRsC_2sjg8)
 
 
 ## Links
