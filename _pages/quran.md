@@ -14,11 +14,12 @@ toc_sticky: true
 share: true
 ---
 
-
 ## The Book
+
 > Key aspects of the Qur’an which, taken together and in relation to one another, demonstrate its miraculous nature.
 
 ### Mode of Revelation
+
 1. Revealed **entirely by oral recitation** to Prophet Muhammad ﷺ, a bedouin man in the desert who could **neither read nor write** more than 1400 years ago.
 1. Revealed over 23 years, in **partial portions** and **out of chronological order**, often in response to unforeseen events, which would make long-term preplanning impossible.
 1. One Shot Wonder: Once revealed and spoken, verses were **fixed permanently** without **retraction** or **alteration**, yet together they form a perfectly coherent whole.
@@ -26,6 +27,7 @@ share: true
     > “You ˹O Prophet˺ could not read any writing ˹even˺ before this ˹revelation˺, nor could you write at all. Otherwise, the people of falsehood would have been suspicious.” (**Al-‘Ankabut 29:48**)
 
 ### Literary Miracle
+
 1. Length of **600+ pages**.
 1. Recognized by experts throughout the ages as the **pinnacle of Arabic eloquence**.
 1. Neither poetry nor prose, but a **unique literary form** which combines rhythmic beauty and precision of meaning.
@@ -44,6 +46,7 @@ share: true
 1. **Flows perfectly** and is **beautifully melodic**. Even non-Arabic speakers are moved to tears upon hearing its recitation from its profound **effect on the hearts** of people.
 
 ### Bold Claims and Challenges
+
 1. Claims it is the **verbatim word of God**. No other book written by a human makes that claim about itself, nonetheless any that is this **widespread and miraculous**.
 1. The very **first sentence** after the opening chapter says: “This is the Book! There is no doubt about it—a guide for those mindful ˹of God˺” (**Al-Baqarah 2:2**). Extremely bold claims off the rip.
 1. Claims it has **no contradictions**, and that if it were man-made you would find many contradictions in it. And the test of time proves that it does not have any contradictions.
@@ -56,6 +59,7 @@ share: true
     > “And if you are in doubt about what We have revealed to Our servant, then produce a sûrah like it and call your helpers other than Allah, if what you say is true. But if you are unable to do so—and you will never be able to do so—then fear the Fire fuelled with people and stones, which is prepared for the disbelievers.” (**Al-Baqarah 2:23-24**)
 
 ### Guidance, Law, and Morality
+
 1. Claims to be the **final divine revelation** to humanity.
     > History confirms no later religion has spread on a fraction of its scale.
 1. As the final message, the Qur’an comes from the same **Divine Author**, **affirming** earlier scriptures, **expanding** their guidance, and **restoring** the truth where it had been altered.
@@ -65,6 +69,7 @@ share: true
 1. Remains **universally relevant**, addressing 7th-century Arabs and modern readers without cultural obsolescence.
 
 ### Knowledge: Historical, Scientific and Linguistic
+
 1. **Scientific knowledge** (much that was unknowable at the time).
     > [Quran on Embryology - Professor Keith L. Moore](https://youtu.be/J_Dllu42eEA)
 
@@ -79,6 +84,7 @@ share: true
     > [The Hebrew word that PROVED that the Quran is from Allah](https://youtu.be/wA4v8MrBHHc)
 
 ### Preservation and Memorization
+
 1. The Qur’an has been **perfectly preserved** for over 1,400 years through **mass oral transmission** (and supported by written records).
     > No other text in human history, especially one from such antiquity or claiming divine origin, has been preserved in this way, free from loss, alteration, or dependency on human translation and interpretation.
 1. **Easily memorized**. It is common and normal for muslims to memorize it fully. There are **millions of people** today who **memorize** it from **cover to cover** perfectly.
@@ -86,6 +92,7 @@ share: true
 1. If somehow all the physical evidence of the Quran **suddenly disappeared**, we would be able to **recreate it perfectly** from people’s memory **within a day**.
 
 ### Prophecies
+
 1. **Prophesies** its own widespread.
 1. **Prophesies** its own **perfect preservation** and that God will protect it until the end of time.
 1. **Prophesies** its own **ease of memorization**:
@@ -94,6 +101,7 @@ share: true
     > e.g. Defeat of those who try to outdo the Qur’an, Defeat of Meccan opposition, Abu Lahab’s eternal loss, Preservation of the drowned Pharoah’s body, the defeat and victory of byzantium, etc.
 
 ### Historical Impact and Transformation
+
 1. Vast majority of **Arabs became Muslims** as a result of it.
 1. **Inspired millions** of people throughout history, and **2+ billion muslims today**.
 1. Resulted in the **second-most widespread religion** after Christianity.
@@ -103,6 +111,7 @@ share: true
 
 
 ## The Messenger of God
+
 1. All of that from the mouth of **one non-literate bedouin man** from the desert more than 1400 years ago.
 1. Who is considered to be one of the **most influential figures** in human history.
     > [The 100: A Ranking of the Most Influential Persons in History](https://en.wikipedia.org/wiki/The_100:_A_Ranking_of_the_Most_Influential_Persons_in_History)
@@ -121,17 +130,21 @@ share: true
 
 
 ## Links
+
 - Amazing video on the miraculousness of the Quran
     > [Marvels of the Qur'an \| Dr. Ali Ataie](https://youtu.be/9gJWIGLJhHM)
 - [Evidences for the truth of Islam \| Mohammed Hijab (Website)](https://mohammedhijab.com/articles/evidences-for-the-truth-of-islam/)
 - [Truthfulness of the Prophet (Instagram Reel)](https://www.instagram.com/reel/DIxiB27oyqR)
 - [I've read the Qur'an as a non-muslim](https://youtu.be/G5nSm73o4bw)
+
 ## Playlist
-- Playlist on miraculousness of the Quran and various other topics on God and Islam
+
+- Playlist on miraculousness of the Quran and various other evidences for God and Islam
     > [Evidence for God and Islam (Youtube Playlist)](https://youtube.com/playlist?list=PLwIWQeA8Aq55xC3RctNBswajRBuWgl7Tr)
 
 
 ## Common Misconceptions
+
 - Does Islam really preach Love and Mercy as the main message?
     > [The Power of Love \| Al-Habib Ali Al-Jifri](https://youtu.be/KQFrovc_1G0) (turn on English captions)
 - Is the Shari'ah law really cruel like  what is portrayed in Western media?
