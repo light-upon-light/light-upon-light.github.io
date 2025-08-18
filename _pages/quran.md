@@ -16,7 +16,7 @@ share: true
 
 ## The Book
 
-> Key aspects of the Qur’an which, taken together and in relation to one another, demonstrate its miraculous nature.
+> Key aspects of the Qur'an that reveal its miraculous nature. While each point alone may not be miraculous, together they demonstrate that the Qur'an is a divine miracle.
 
 ### Mode of Revelation
 
