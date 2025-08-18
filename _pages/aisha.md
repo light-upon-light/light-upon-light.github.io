@@ -3,6 +3,89 @@ https://www.youtube.com/shorts/OoIa_W0M8To
 
 ### Prophet Muhammad's marriage to our Lady Aisha
 
+# Answering the Slander Against the Marriage of the Prophet ﷺ to Our Lady Aisha
+
+Few topics have been more misused by detractors of Islam than the Prophet Muhammad’s ﷺ marriage to our Mother Aisha (may Allah be pleased with her). Critics today attempt to paint it as immoral. But when weighed against historical reality, Islamic principles, and the Prophet’s ﷺ own character, this accusation collapses.
+
+---
+
+## 1. The Silence of His Enemies
+The Prophet ﷺ faced relentless hostility from Quraysh: they called him a sorcerer, a poet, a madman, and worse. Yet not once did they mention his marriage to Aisha as a scandal. If it were truly immoral in their society, his fiercest enemies would have seized it as a weapon. Their silence is itself evidence that nothing was unusual about it.
+
+---
+
+## 2. Marriage Norms Across Civilizations
+Modern critics impose 21st-century Western norms on a 7th-century Arabian context. But until only about a century ago, the “age of marriage” across civilizations was far younger than today.
+- In Christian Europe, marriage at 12 for girls was legally valid until the late 19th century.
+- Jewish law likewise recognized marriage upon puberty.
+- In the West, as recently as two generations ago, our grandparents lived entirely different lives at the same ages we do today.
+
+If this was normal in recent centuries, then in Arabia 1,400 years ago—where men themselves commonly married between 12–18—it was even more so. To condemn the Prophet ﷺ for this is not historical analysis but anachronism.
+
+---
+
+## 3. Islam’s Criteria for Suitability in Marriage
+Islam does not tie marriage to a fixed number of years. The Shari‘ah sets the standard as mental, physical, and emotional readiness for the responsibilities of married life. There is no forced marriage in Islam. A general principle, stated by the Prophet ﷺ, is *la darar wa la dirar*—there is no harming and no reciprocating harm.
+
+This means:
+- If marriage would cause physical or psychological harm, even if technically permissible, it becomes unlawful.
+- In today’s context, a marriage at Aisha’s reported age would indeed be harmful, and that is why scholars forbid it now.
+
+This shows the adaptability of Islamic law. Its wisdom is not in binding every society to one rigid rule, but in ensuring justice and wellbeing for all times and places.
+
+---
+
+## 4. The Prophet’s Marriage Pattern
+Far from being driven by desire, the Prophet’s ﷺ marital history demonstrates restraint, responsibility, and purpose.
+- He spent 25 years in monogamy with Khadija, who was about 15 years older and twice widowed.
+- All his other wives, except Aisha, were either widows or divorcees, often married for their protection or to cement alliances.
+- If his motive were self-indulgence, this consistent pattern makes no sense.
+
+The marriage to Aisha must therefore be understood as part of a broader divine and social wisdom.
+
+---
+
+## 5. The Role of Aisha (ra)
+Aisha did not live as a silenced victim. She became one of the greatest scholars in Islam: sharp in intellect, decisive in judgment, and bold in public engagement. She narrated over two thousand hadiths, corrected senior companions, and became a legal authority in her own right. Her testimony about her marriage was always one of love and respect, never of regret.
+
+Her legacy demonstrates that the marriage produced not harm but benefit for the ummah. Through her, aspects of the Prophet’s ﷺ private life, spiritual practices, and household conduct were preserved—knowledge no one else could have transmitted.
+
+---
+
+## 6. Human Development Then and Now
+Critics assume that human psychological and physical development has always been the same. But the evidence says otherwise.
+- In hot climates like Arabia, puberty arrived earlier.
+- Life responsibilities came far sooner. Men at 14–16 often managed households and fought in battles.
+- Even our grandparents, just two or three generations ago, lived very differently at the same ages we do now.
+
+If this difference is visible in 100 years, what of 1,400? To equate their maturity with ours is historically shallow.
+
+---
+
+## 7. The Absence of Criticism Until Modern Times
+For over 1,300 years, no serious critic of Islam—whether Christian, Jewish, or otherwise—used this marriage as an attack. Only in the 20th century, when Western marriage laws shifted, did it suddenly become an accusation. This proves that the outrage is not historical but ideological, born of projecting one society’s standards onto another.
+
+---
+
+## 8. The Prophet’s ﷺ Emphasis on Kindness to Women
+The Prophet ﷺ consistently taught men to treat women with dignity. In his Farewell Sermon, he repeated three times: *“Take care of women.”* He said, *“The best of you are those who are best to their wives, and I am the best of you to my wives.”*
+
+This ethos makes it impossible to accept that his marriage to Aisha was anything but conducted with care, compassion, and respect.
+
+---
+
+## 9. Divine Wisdom
+Believers see beyond sociology and history: the Prophet ﷺ acted under divine guidance. The marriage to Aisha positioned her to live for decades after his passing, preserving knowledge that became indispensable to Islamic scholarship. What critics see as a scandal was, in reality, a means by which God safeguarded the religion.
+
+---
+
+## Conclusion
+The slander against the Prophet ﷺ over his marriage to Aisha (ra) collapses under scrutiny. His enemies never raised it, his pattern of marriages shows no indulgence, Islamic law itself forbids harm, and history proves different standards of maturity. Above all, Aisha herself emerged as a towering scholar, not a victim.
+
+To judge the Prophet ﷺ by modern assumptions is to judge without honesty. The reality is that this marriage, like every act of his life, was marked by wisdom, compassion, and divine guidance.
+
+
+
 - Prophet Muhammad was slandered by his enemies to be many things, but never said anything about this.
 - All his wives except her were divorced or widows.
 - His first wife was ~15 years older than him and was divorced and he was monogamously married to her until she died.
