@@ -127,7 +127,7 @@ share: true
 - [Truthfulness of the Prophet (Instagram Reel)](https://www.instagram.com/reel/DIxiB27oyqR)
 - [I've read the Qur'an as a non-muslim](https://youtu.be/G5nSm73o4bw)
 ## Playlist
-- Playlist on miraculousness of the Quran and various other evidences for God and Islam
+- Playlist on miraculousness of the Quran and various other topics on God and Islam
     > [Evidence for God and Islam (Youtube Playlist)](https://youtube.com/playlist?list=PLwIWQeA8Aq55xC3RctNBswajRBuWgl7Tr)
 
 
