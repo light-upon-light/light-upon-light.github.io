@@ -33,7 +33,7 @@ share: true
 1. Neither poetry nor prose, but a **unique literary form** which combines rhythmic beauty and precision of meaning.
 1. Maintains the same **peak literary quality across all 23 years** of revelation, unlike any human author whose style evolves over time.
 1. The Prophet’s ﷺ personal life, emotions, and grievances **never distort the Qur’an’s message**; it maintains an **objective, divine voice**.
-1. Serves as a **perfect reference** for Arabic grammar since it contains no linguistic errors.
+1. Serves as a **perfect reference** for Arabic grammar and contains no linguistic errors.
 1. Came in the height of Arabic eloquency and **challenged the Arabs** to produce anything like it.
 1. Despite intense hostility, **no** contemporary or later **critic** has succeeded in **producing a work** that the Arabic-speaking world accepts as **equal or superior** or even remotely close.
 1. Arabs had to resort to calling Prophet Muhammad ﷺ a **magician or sent by satan** when the miraculousness of the Quran trumped them.
@@ -125,7 +125,7 @@ share: true
 1. Even later in life, when he held **authority over Arabia** and could have **claimed immense wealth**, he chose to **live simply and humbly**, **giving away** what he had and leaving this world with almost **no worldly possessions**.
 1. Even **respected Christian scholars** acknowledge him as a **true prophet of God**.
     > [Keith Ward: Top Christian scholars affirm that Prophet Muhammad ﷺ was an authentic prophet of God (Youtube Short)](https://youtube.com/shorts/Zoz0q-vp7UU)
-    
+
     > [Reverend Professor Keith Ward on Blogging Theology](https://www.youtube.com/live/ftRsC_2sjg8)
 
 
