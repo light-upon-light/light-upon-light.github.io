@@ -134,7 +134,7 @@ share: true
 - Amazing video on the miraculousness of the Quran
     > [Marvels of the Qur'an \| Dr. Ali Ataie](https://youtu.be/9gJWIGLJhHM)
 - [Evidences for the truth of Islam \| Mohammed Hijab (Website)](https://mohammedhijab.com/articles/evidences-for-the-truth-of-islam/)
-- [Truthfulness of the Prophet (Instagram Reel)](https://www.instagram.com/reel/DIxiB27oyqR)
+- [Truthfulness of the Prophet](https://youtube.com/shorts/HcViZkHoxK0)
 - [I've read the Qur'an as a non-muslim](https://youtu.be/G5nSm73o4bw)
 
 ## Playlist
