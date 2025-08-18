@@ -124,7 +124,7 @@ share: true
 1. At the start of his message, Prophet Muhammad's ﷺ people tried to **bribe** him with wealth, status, and power to make him **abandon his call to God**—but he **refused without hesitation**.
 1. Even later in life, when he held **authority over Arabia** and could have **claimed immense wealth**, he chose to **live simply and humbly**, **giving away** what he had and leaving this world with almost **no worldly possessions**.
 1. Even **respected Christian scholars** acknowledge him as a **true prophet of God**.
-    > [Keith Ward: Top Christian scholars affirm that Prophet Muhammad ﷺ was an authentic prophet of God](https://youtube.com/shorts/Zoz0q-vp7UU)
+    > [Keith Ward: Top Christian scholars affirm that Prophet Muhammad ﷺ was an authentic prophet of God (Youtube Short)](https://youtube.com/shorts/Zoz0q-vp7UU)
     
     > [Reverend Professor Keith Ward on Blogging Theology](https://www.youtube.com/live/ftRsC_2sjg8)
 
@@ -134,7 +134,7 @@ share: true
 - Amazing video on the miraculousness of the Quran
     > [Marvels of the Qur'an \| Dr. Ali Ataie](https://youtu.be/9gJWIGLJhHM)
 - [Evidences for the truth of Islam \| Mohammed Hijab (Website)](https://mohammedhijab.com/articles/evidences-for-the-truth-of-islam/)
-- [Truthfulness of the Prophet](https://youtube.com/shorts/HcViZkHoxK0)
+- [Truthfulness of the Prophet (Youtube Short)](https://youtube.com/shorts/HcViZkHoxK0)
 - [I've read the Qur'an as a non-muslim](https://youtu.be/G5nSm73o4bw)
 
 ## Playlist
