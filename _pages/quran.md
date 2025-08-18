@@ -116,6 +116,7 @@ share: true
 1. Even later in life, when he held **authority over Arabia** and could have **claimed immense wealth**, he chose to **live simply and humbly**, **giving away** what he had and leaving this world with almost **no worldly possessions**.
 1. Even **respected Christian scholars** acknowledge him as a **true prophet of God**.
     > [Top Christian scholars affirm that Prophet Muhammad ﷺ was an authentic prophet of God (Instagram Reel)](https://www.instagram.com/reel/DJooWIRtUQs)
+    
     > [Reverend Professor Keith Ward  \| Blogging Theology](https://www.youtube.com/live/ftRsC_2sjg8)
 
 
