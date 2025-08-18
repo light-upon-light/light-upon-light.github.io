@@ -130,7 +130,7 @@ share: true
     > [Evidence for God and Islam (Youtube Playlist)](https://youtube.com/playlist?list=PLwIWQeA8Aq55xC3RctNBswajRBuWgl7Tr)
 
 
-## Answers to Common Misconceptions
+## Common Misconceptions
 - Does Islam really preach Love and Mercy as the main message?
     > [The Power of Love \| Al-Habib Ali Al-Jifri](https://youtu.be/KQFrovc_1G0) (turn on English captions)
 - Is the Shari'ah law really cruel like  what is portrayed in Western media?
