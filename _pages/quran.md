@@ -43,6 +43,9 @@ share: true
 1. Can be **read in any order** of chapters while retaining coherence, guidance, and thematic unity—unlike typical narratives.
 1. Modern **linguistic analysis** of the **Hadith** (Prophet Muhammad’s ﷺ own speech) and the **Qur’an** shows clear, consistent differences in style and structure, indicating **distinct sources**.
     > It would be virtually impossible for a non-literate person to alter his natural mode of expression so completely and exclusively when orally revealing the Qur’an, especially in light of all other characteristics of the text.
+
+    > [Conquering Doubts \| Ali Ataie](https://youtu.be/_HlpfgaDATU)
+
 1. **Flows perfectly** and is **beautifully melodic**. Even non-Arabic speakers are moved to tears upon hearing its recitation from its profound **effect on the hearts** of people.
 
 ### Bold Claims and Challenges
@@ -129,29 +132,42 @@ share: true
     > [Reverend Professor Keith Ward on Blogging Theology](https://www.youtube.com/live/ftRsC_2sjg8)
 
 
-## Links
-
-- Amazing video on the miraculousness of the Quran
-    > [Marvels of the Qur'an \| Dr. Ali Ataie](https://youtu.be/9gJWIGLJhHM)
-- [Evidences for the truth of Islam \| Mohammed Hijab (Website)](https://mohammedhijab.com/articles/evidences-for-the-truth-of-islam/)
-- [Truthfulness of the Prophet (Youtube Short)](https://youtube.com/shorts/HcViZkHoxK0)
-- [I've read the Qur'an as a non-muslim](https://youtu.be/G5nSm73o4bw)
-
 ## Playlist
 
 - Playlist on miraculousness of the Quran and various other evidences for God and Islam
     > [Evidence for God and Islam (Youtube Playlist)](https://youtube.com/playlist?list=PLwIWQeA8Aq55xC3RctNBswajRBuWgl7Tr)
 
 
-## Common Misconceptions
+## Links
+
+- Amazing videos on the miraculousness of the Quran
+    > [Marvels of the Qur'an \| Dr. Ali Ataie](https://youtu.be/9gJWIGLJhHM)
+
+    > [Conquering Doubts \| Ali Ataie](https://youtu.be/_HlpfgaDATU)
+
+- [Evidences for the truth of Islam \| Mohammed Hijab (Website)](https://mohammedhijab.com/articles/evidences-for-the-truth-of-islam/)
+- [Truthfulness of the Prophet (Youtube Short)](https://youtube.com/shorts/HcViZkHoxK0)
+- [I read the Qur'an as a non-muslim](https://youtu.be/G5nSm73o4bw)
+
+## Common Questions
+
+- Why believe?
+    > [Conquering Doubts \| Ali Ataie](https://youtu.be/_HlpfgaDATU)
+
+    > [Millenials are returning to God - Here's why \| Blogging Theology](https://youtu.be/VjIL0Gio4yA)
 
 - Does Islam really preach Love and Mercy as the main message?
     > [The Power of Love \| Al-Habib Ali Al-Jifri](https://youtu.be/KQFrovc_1G0) (turn on English captions)
+
+    > [Love & Faith \| Al-Habib Ali Al-Jifri](https://youtu.be/TD3jqd-YWec)
+
 - Is the Shari'ah law really cruel like  what is portrayed in Western media?
     > [What the West Needs to Know About the Shari’ah \| Blogging Theology](https://youtu.be/AHOH_t03sIc)
+
 - Is the Qur'an really preserved as it was revealed?
     > [Has the Qur'an been reliably preserved? \| Blogging Theology](https://youtu.be/WKlSJa-ZnJQ)
 
     > [The most DIRECT proof that the Qur'an is from Allah \| Arabic101](https://youtu.be/4l7pbX5J8Lg)
+
 - Did Prophet Muhammad ﷺ really exist?
     > [Did Muhammad ﷺ really exist? \| Blogging Theology](https://youtu.be/_mZgSIlX20U)
