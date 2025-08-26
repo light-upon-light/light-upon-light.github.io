@@ -44,7 +44,7 @@ share: true
 1. Modern **linguistic analysis** of the **Hadith** (Prophet Muhammad’s ﷺ own speech) and the **Qur’an** shows clear, consistent differences in style and structure, indicating **distinct sources**.
     > It would be virtually impossible for a non-literate person to alter his natural mode of expression so completely and exclusively when orally revealing the Qur’an, especially in light of all other characteristics of the text.
 
-    > [Conquering Doubts \| Ali Ataie](https://youtu.be/_HlpfgaDATU)
+    > [Conquering Doubts & Confidently Defending Islam \| Ali Ataie](https://youtu.be/_HlpfgaDATU) (The whole of this video is great)
 
 1. **Flows perfectly** and is **beautifully melodic**. Even non-Arabic speakers are moved to tears upon hearing its recitation from its profound **effect on the hearts** of people.
 
@@ -152,7 +152,7 @@ share: true
 ## Common Questions
 
 - Why believe?
-    > [Conquering Doubts \| Ali Ataie](https://youtu.be/_HlpfgaDATU)
+    > [Conquering Doubts & Confidently Defending Islam \| Ali Ataie](https://youtu.be/_HlpfgaDATU)
 
     > [Millenials are returning to God - Here's why \| Blogging Theology](https://youtu.be/VjIL0Gio4yA)
 
