@@ -31,25 +31,47 @@ One of the most cited accusations against Islam is the claim that it sanctions d
 ## 5. Islam’s directives specific to women
 Beyond its general ethos, Islam provides explicit, repeated instructions regarding the treatment of women, especially wives. These verses and sayings of the Prophet ﷺ are unambiguous:
 
-### Qur’anic directives
-- *“And live with them in kindness (bi’l-maʿrūf).”* (4:19)
-- *“Do not retain them to harm them, so that you transgress.”* (2:231)
+### A) Qur’anic directives and protections
+- **Kindness as the rule:** *“عاشِرُوهُنَّ بالمعروف — Live with them in kindness.”* (4:19)
+- **No harm in retention/divorce:** *“Do not retain them to harm them so that you transgress.”* (2:231)
 - *“Do not forget graciousness between you.”* (2:237)
-- *“They (wives) are a garment for you, and you are a garment for them.”* (2:187) — a metaphor of intimacy, protection, and comfort.
-- *“And among His signs is that He created for you from yourselves spouses that you may find tranquility in them, and He placed between you love (mawadda) and mercy (raḥma).”* (30:21)
+- **Grace even when parting:** *“فإمساكٌ بمعروف أو تسريحٌ بإحسان — Keep in kindness or release with excellence.”* (2:229)
+- **No obstruction of remarriage:** (2:232)
+- **Mutual protection/intimacy:** *“هن لباسٌ لكم وأنتم لباسٌ لهن — They are a garment for you and you are a garment for them.”* (2:187)
+- **Tranquility, love, mercy as the marital aim:** *“And among His signs is that He created for you from yourselves spouses that you may find tranquility in them, and He placed between you love (mawadda) and mercy (raḥma).”* (30:21)
+- **Arbitration before breakdown:** *“فابعثوا حكمًا من أهله وحكمًا من أهلها — Appoint an arbiter from his people and hers.”* (4:35)
+- **No harassment during ‘iddah:** *“ولا تُضارُّوهُنَّ لتضيِّقوا عليهن — Do not harm them so as to distress them.”* (65:6)
+- **Reconciliation is best:** (4:128)
+- **Believing men and women are allies/protectors of each other:** (9:71)
+- **Equal moral agency and reward:** (16:97; 33:35)
 
-### Prophetic teachings
-- *“The best of you are those who are best to their wives, and I am the best of you to my wives.”* (Tirmidhī)
-- *“The most perfect of the believers in faith are those who are the best in character, and the best of you are the best to your women.”* (Tirmidhī, Aḥmad)
-- *“Do not beat the female servants of Allah.”* (Abū Dāwūd, Ibn Mājah; later reports show the Prophet ﷺ was angered when some men did so after this instruction)
-- *“A believer must not hate a believing woman (his wife). If he dislikes one of her traits, he will be pleased with another.”* (Muslim)
+### B) Prophetic commands (verbal)
+- **“استوصوا بالنساء خيرا” — “Treat women well; I urge you to be good to women.”**
+  — in the Farewell Sermon and other reports *(Ṣaḥīḥ Muslim; also in Bukhārī with related wording).*
+- **“لا تضربوا إماء الله” — “Do not beat the female servants of Allah.”**
+  — initial prohibition; later, after complaints reached the Prophet ﷺ about men beating, he said:
+  **“لقد طاف بآل محمد نساءٌ كثير يشكون أزواجهن؛ ليس أولئك بخياركم”**
+  *“Many women have come to the family of Muhammad complaining about their husbands; those (men) are not the best among you.”* *(Abū Dāwūd, Ibn Mājah).*
+- **“خيركم خيركم لأهله، وأنا خيركم لأهلي” — “The best of you are the best to their families, and I am the best to my family.”** *(Tirmidhī, Aḥmad).*
+- **“لا يجلد أحدكم امرأته جلد العبد ثم يجامعها في آخر اليوم”**
+  *“Let none of you flog his wife like a slave, then sleep with her at day’s end.”* *(Bukhārī, Muslim).*
+- **“أوصيكم بالنساء خيرا” / “اتقوا الله في النساء” — “I enjoin you to treat women well; fear God regarding women.”**
+  — *“For you have taken them by God’s trust (bi-amānati llāh)…”* *(Muslim; Farewell Sermon).*
+- **“النساء شقائق الرجال” — “Women are the counterparts (twin halves) of men.”** *(Abū Dāwūd, Tirmidhī — hasan with supporting routes).*
+- **“اللهم إني أحرج حق الضعيفين: المرأة واليتيم”**
+  *“O Allah, I strongly enjoin (make sacrosanct) the rights of the two vulnerable ones: the woman and the orphan.”* *(Aḥmad, Ibn Mājah; graded ḥasan by some).*
 
-### His lived example
-- He ﷺ never struck a woman or servant in his life (Ṣaḥīḥ Muslim).
-- He helped with household chores, mended his clothes, milked animals, and served his family (Ṣaḥīḥ Bukhārī).
-- His marriages embodied patience, kindness, and compassion, even during conflict.
+### C) Prophetic character and household practice (actions)
+- **Never struck a woman or a servant.** *(Ṣaḥīḥ Muslim).*
+- **Served his family, mended clothes, did housework.** *(Bukhārī and others).*
+- **Handled conflict without humiliation;** reconciled, advised, or took dignified steps rather than harm.
 
-Taken together, the Qur’an and Sunnah establish a clear ethic: women are to be honored, protected, and treated with consistent kindness. Abuse is *ẓulm* (oppression), and oppression is categorically forbidden.
+### D) Legal-ethical maxims and remedies applied to women
+- **“لا ضرر ولا ضرار” — No harm and no reciprocating harm** → abuse is intrinsically unlawful.
+- **Judicial recourse:** harm (*ḍarar*), abandonment, or cruelty can justify **tafrīq** (court-ordered separation) or **khulʿ**; damages/discipline apply to the aggressor.
+- **Contractual safeguards:** conditions in the marriage contract (shurūṭ) enforce rights and enable dissolution upon breach.
+
+**Bottom line of Section 6:** The Qur’an mandates kindness, forbids harmful retention or harassment, and frames marriage as mercy and a solemn covenant. The Sunnah adds repeated, explicit commands to treat women well (**“استوصوا بالنساء خيرا”**), condemns wife-beating as conduct of the *worst* men, bans striking the face, and records a Prophet ﷺ who never harmed his wives and actively helped at home. Abuse is *ẓulm*; Islamic law provides remedies against it.
 
 ## 6. Islam’s core ethos: mercy, love, and compassion
 Any reading of Qur’an 4:34 must be measured against the Qur’an’s *overarching principles*. The central values of Islam are mercy, compassion, and mutual love:
