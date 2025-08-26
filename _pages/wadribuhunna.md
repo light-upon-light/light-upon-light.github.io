@@ -28,38 +28,52 @@ One of the most cited accusations against Islam is the claim that it sanctions d
   - It was often judged *makrūh* (morally repugnant, though technically allowed).
 - Abuse (*ḍarar*) or harm is a recognized ground for divorce in Islamic law, and a husband who harms his wife is accountable before God and the courts.
 
-## 5. Qur’anic ethos: kindness as the rule
-- The Qur’an repeatedly commands good treatment specifically to wives:
-  - *“Live with them in kindness (bi’l-maʿrūf)”* (4:19).
-  - *“Do not retain them to harm them”* (2:231).
-  - *“Do not forget graciousness between you”* (2:237).
-- Any interpretation of 4:34 that contradicts these overarching principles is inconsistent with the Qur’an’s moral fabric.
+## 5. Islam’s directives specific to women
+Beyond its general ethos, Islam provides explicit, repeated instructions regarding the treatment of women, especially wives. These verses and sayings of the Prophet ﷺ are unambiguous:
 
-## 5. Islam’s core ethos: mercy, love, and compassion
+### Qur’anic directives
+- *“And live with them in kindness (bi’l-maʿrūf).”* (4:19)
+- *“Do not retain them to harm them, so that you transgress.”* (2:231)
+- *“Do not forget graciousness between you.”* (2:237)
+- *“They (wives) are a garment for you, and you are a garment for them.”* (2:187) — a metaphor of intimacy, protection, and comfort.
+- *“And among His signs is that He created for you from yourselves spouses that you may find tranquility in them, and He placed between you love (mawadda) and mercy (raḥma).”* (30:21)
+
+### Prophetic teachings
+- *“The best of you are those who are best to their wives, and I am the best of you to my wives.”* (Tirmidhī)
+- *“The most perfect of the believers in faith are those who are the best in character, and the best of you are the best to your women.”* (Tirmidhī, Aḥmad)
+- *“Do not beat the female servants of Allah.”* (Abū Dāwūd, Ibn Mājah; later reports show the Prophet ﷺ was angered when some men did so after this instruction)
+- *“A believer must not hate a believing woman (his wife). If he dislikes one of her traits, he will be pleased with another.”* (Muslim)
+
+### His lived example
+- He ﷺ never struck a woman or servant in his life (Ṣaḥīḥ Muslim).
+- He helped with household chores, mended his clothes, milked animals, and served his family (Ṣaḥīḥ Bukhārī).
+- His marriages embodied patience, kindness, and compassion, even during conflict.
+
+Taken together, the Qur’an and Sunnah establish a clear ethic: women are to be honored, protected, and treated with consistent kindness. Abuse is *ẓulm* (oppression), and oppression is categorically forbidden.
+
+## 6. Islam’s core ethos: mercy, love, and compassion
 Any reading of Qur’an 4:34 must be measured against the Qur’an’s *overarching principles*. The central values of Islam are mercy, compassion, and mutual love:
 
-- **God’s very essence is mercy:** Every chapter of the Qur’an (except one) begins with *“In the name of Allah, the Most Merciful, the Most Compassionate (al-Raḥmān al-Raḥīm).”* This is the lens through which all verses are read.
-- **Marriage is founded on love and tranquility:**
-  *“And among His signs is that He created for you from yourselves spouses that you may find tranquility in them, and He placed between you love (mawadda) and mercy (raḥma).”* (30:21)
-- **Mutual kindness is a duty:**
-  *“And live with them in kindness (bi’l-maʿrūf).”* (4:19)
-- **The Prophet ﷺ defined his mission as mercy itself:**
+- **God’s very essence is mercy:** Every chapter of the Qur’an (except one) begins with *“In the name of Allah, the Most Merciful, the Most Compassionate (al-Raḥmān al-Raḥīm).”*
+- **Mercy as the Prophet’s mission:**
   *“We have not sent you except as a mercy to the worlds.”* (21:107)
-- **His instruction regarding women was explicit:**
-  *“Treat women kindly, for they are your partners and trusted companions.”* (Reported in Tirmidhī).
+- **Compassion as a divine trait extended to creation:**
+  *“My mercy encompasses all things.”* (7:156)
+- **Mutual love as the basis of human relationships:**
+  *“Indeed, Allah loves those who rely upon Him”* (3:159), *“Allah loves those who do good”* (2:195).
 
-The Qur’an’s ethical vision is clear: mercy and compassion are the foundation. Any interpretation that produces cruelty or abuse is in contradiction with the very spirit of the revelation.
+Islam’s *moral grammar* is mercy and love. Any interpretation that legitimizes cruelty, abuse, or oppression cannot stand when measured against these axioms.
 
-## 6. Misuse versus intended meaning
+## 7. Misuse versus intended meaning
 - Abusers citing the verse are misusing it, just as people have twisted laws or scriptures in every tradition to justify wrongdoing.
 - Islam provides internal safeguards: a wife can seek judicial relief, stipulate terms in her marriage contract, and dissolve the marriage if subjected to harm.
 
-## 7. Diversity of scholarly interpretation
+## 8. Diversity of scholarly interpretation
 - **Ibn ʿAshūr** (d. 1973) held that the verse referred to deterrence, not harm, and that in modern contexts it should be understood as separation.
 - Scholars like **Muḥammad ʿAbduh** and **Rashīd Riḍā** categorically rejected that the verse permits hitting.
 - This diversity underscores that non-violent readings are the base in Islamic scholarship.
 
-## 8. The Prophet’s moral teaching
+## 9. The Prophet’s moral teaching
 - The Prophet ﷺ declared: *“The best of you are those who are best to their wives, and I am the best among you to my wives.”* (Tirmidhī).
 - Abuse falls under *ẓulm* (oppression), which the Qur’an and Sunnah consistently condemn as among the gravest sins.
 
