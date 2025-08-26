@@ -48,7 +48,7 @@ share: true
 
 1. **Flows perfectly** and is **beautifully melodic**. Even non-Arabic speakers are moved to tears upon hearing its recitation from its profound **effect on the hearts** of people.
 
-### Bold Claims and Challenges
+### Challenges and Bold Claims
 
 1. Claims it is the **verbatim word of God**. No other book written by a human makes that claim about itself, nonetheless any that is this **widespread and miraculous**.
 1. The very **first sentence** after the opening chapter says: “This is the Book! There is no doubt about it—a guide for those mindful ˹of God˺” (**Al-Baqarah 2:2**). Extremely bold claims off the rip.
