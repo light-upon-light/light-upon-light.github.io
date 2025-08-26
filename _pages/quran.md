@@ -37,7 +37,7 @@ share: true
 1. It emerged at the **pinnacle of Arabic** eloquence, **challenging the Arabs** to produce anything comparable.
     > The Qur'an was revealed in an era when the **Arabs** had reached the very **summit of Arabic** language eloquence and rhetoric. **Poetry** was not mere entertainment; it was the **lifeblood of their culture**, the **measure of honor**, and even a **weapon in war**—tribes would settle disputes or ignite battles through verses. In this context, where **pride in language** was unrivaled and **mastery of Arabic** expression was their greatest art, the **Qur'an openly challenged** them to produce anything like it. Despite their unmatched command of Arabic and every worldly motive to discredit the Prophet ﷺ, they were unable to respond, and **their failure** itself became a **perpetual testimony** to the **Qur'an's inimitability**.
 1. Despite intense hostility, **no** contemporary or later **critic** has succeeded in **producing a work** that the Arabic-speaking world accepts as **equal or superior** or even remotely close.
-1. Arabs had to resort to calling Prophet Muhammad ﷺ a **magician or sent by satan** when the miraculousness of the Quran trumped them.
+1. Arabs had to resort to calling Prophet Muhammad ﷺ a **magician or sent by satan** when the miraculousness of the Qur'an trumped them.
 1. Layers and **layers of meaning**. Multiple meanings at different levels for verses.
 1. Ring structure: Displays intricate **symmetrical patterns** (chiastic structures) within verses, chapters, and even across chapters—achieved without chronological sequencing or later editing.
     > This in combination with revelation that is: partial, out of order, one shot and with no take backs is miraculous in its own right, let alone in addition to all the other aspects. ([Marvels of the Qur'an \| Dr. Ali Ataie](https://www.youtube.com/watch?v=9gJWIGLJhHM))
@@ -56,9 +56,9 @@ share: true
 1. Claims it has **no contradictions**, and that if it were man-made you would find many contradictions in it. And the test of time proves that it does not have any contradictions.
     > People have been trying to find any for 1400+ years and if there really were any, the whole claim from God would fall apart very quickly
 1. **Challenges** the whole of **human kind** to produce **something like it**, even 10 chapters, even 1 chapter like it and call upon people to follow them. No one has been able to do so.
-    > “Say, ˹O Prophet,˺ ‘If ˹all˺ humans and jinn were to come together to produce the equivalent of this Quran, they could not produce its equal, no matter how they supported each other.'” (**Al-Isrā' 17:88**)
+    > “Say, ˹O Prophet,˺ ‘If ˹all˺ humans and jinn were to come together to produce the equivalent of this Qur'an, they could not produce its equal, no matter how they supported each other.'” (**Al-Isrā' 17:88**)
 
-    > “Or do they say, ‘He has fabricated this ˹Quran˺!'? Say, ˹O Prophet,˺ ‘Produce ten fabricated sûrahs like it and seek help from whoever you can—other than Allah—if what you say is true!' But if your helpers fail you, then know that it has been revealed with the knowledge of Allah, and that there is no god ˹worthy of worship˺ except Him! Will you ˹not˺ then submit ˹to Allah˺?” (**Hūd 11:13-14**)
+    > “Or do they say, ‘He has fabricated this ˹Qur'an˺!'? Say, ˹O Prophet,˺ ‘Produce ten fabricated sûrahs like it and seek help from whoever you can—other than Allah—if what you say is true!' But if your helpers fail you, then know that it has been revealed with the knowledge of Allah, and that there is no god ˹worthy of worship˺ except Him! Will you ˹not˺ then submit ˹to Allah˺?” (**Hūd 11:13-14**)
 
     > “And if you are in doubt about what We have revealed to Our servant, then produce a sûrah like it and call your helpers other than Allah, if what you say is true. But if you are unable to do so—and you will never be able to do so—then fear the Fire fuelled with people and stones, which is prepared for the disbelievers.” (**Al-Baqarah 2:23-24**)
 
@@ -75,7 +75,7 @@ share: true
 ### Knowledge: Historical, Scientific and Linguistic
 
 1. **Scientific knowledge** (much that was unknowable at the time).
-    > [Quran on Embryology - Professor Keith L. Moore](https://youtu.be/J_Dllu42eEA)
+    > [Qur'an on Embryology - Professor Keith L. Moore](https://youtu.be/J_Dllu42eEA)
 
     > [Are there scientific miracles in the Qur'an?](https://youtu.be/DoP6Ft-VE70)
 1. Very **accurate historical information**, some only confirmed by modern historians.
@@ -85,7 +85,7 @@ share: true
 1. Miraculous **mathematical structures**.
     > [Mathematical Miracles in the Qur'an: A Measured Approach](https://youtu.be/QC3sDbVcAbw)
 1. **Aptronym**-like references to other languages that Prophet Muhammad ﷺ **didn't know how to speak**.
-    > [The Hebrew word that PROVED that the Quran is from Allah](https://youtu.be/wA4v8MrBHHc)
+    > [The Hebrew word that PROVED that the Qur'an is from Allah](https://youtu.be/wA4v8MrBHHc)
 
 ### Preservation and Memorization
 
@@ -93,7 +93,7 @@ share: true
     > No other text in human history, especially one from such antiquity or claiming divine origin, has been preserved in this way, free from loss, alteration, or dependency on human translation and interpretation.
 1. **Easily memorized**. It is common and normal for muslims to memorize it fully. There are **millions of people** today who **memorize** it from **cover to cover** perfectly.
     > The majoriy of which are non native Arabic speakers. In fact, Arabic is not the first language of around 80% of Muslims today.
-1. If somehow all the physical evidence of the Quran **suddenly disappeared**, we would be able to **recreate it perfectly** from people's memory **within a day**.
+1. If somehow all the physical evidence of the Qur'an **suddenly disappeared**, we would be able to **recreate it perfectly** from people's memory **within a day**.
 
 ### Prophecies
 
@@ -135,13 +135,13 @@ share: true
 
 ## Playlist
 
-- Accompanying playlist on miraculousness of the Quran and various other evidences for God and Islam
+- Accompanying playlist on miraculousness of the Qur'an and various other evidences for God and Islam
     > [Evidence for God and Islam (Youtube Playlist)](https://youtube.com/playlist?list=PLwIWQeA8Aq55xC3RctNBswajRBuWgl7Tr)
 
 
 ## Links
 
-- Amazing videos on the miraculousness of the Quran
+- Amazing videos on the miraculousness of the Qur'an
     > [Marvels of the Qur'an \| Dr. Ali Ataie](https://youtu.be/9gJWIGLJhHM)
 
     > [Conquering Doubts \| Ali Ataie](https://youtu.be/_HlpfgaDATU)
