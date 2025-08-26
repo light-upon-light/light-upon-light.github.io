@@ -134,7 +134,7 @@ share: true
 
 ## Playlist
 
-- Playlist on miraculousness of the Quran and various other evidences for God and Islam
+- Accompanying playlist on miraculousness of the Quran and various other evidences for God and Islam
     > [Evidence for God and Islam (Youtube Playlist)](https://youtube.com/playlist?list=PLwIWQeA8Aq55xC3RctNBswajRBuWgl7Tr)
 
 
