@@ -171,3 +171,6 @@ share: true
 
 - Did Prophet Muhammad ﷺ really exist?
     > [Did Muhammad ﷺ really exist? \| Blogging Theology](https://youtu.be/_mZgSIlX20U)
+
+- Was Prophet Muhammad ﷺ mentioned in previous religions?
+    > [The Praised One ﷺ in World Scriptures | Hamza Yusuf](https://youtu.be/OzSyIla5Z-Q)
