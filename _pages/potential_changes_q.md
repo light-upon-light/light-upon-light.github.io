@@ -12,3 +12,4 @@ point 3 in Memorization: merge into another point
 
 Move point 1 of Guidance... to Prophecies + add perspective of influential religious figures
 
+esm el rasool the most praised one and he is that, no one is more praised than him
