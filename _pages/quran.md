@@ -14,9 +14,9 @@ toc_sticky: true
 share: true
 ---
 
-## The Book
+> This page outlines a number of aspects that demonstrate the **miraculous nature** of the **Qur'an** and the **prophethood** of **Prophet Muhammad** ﷺ. While each point may not constitute a miracle or a decisive proof of prophethood on its own, together they provide compelling evidence for the Qur'an's divine origin and the authenticity of prophet Muhammad's ﷺ mission.
 
-> Key aspects of the Qur'an that reveal its miraculous nature. While each point on its own may not constitute a miracle, together they demonstrate the Qur'an's divine origin.
+## The Book
 
 ### Mode of Revelation
 
@@ -174,4 +174,4 @@ share: true
     > [Did Muhammad ﷺ really exist? \| Blogging Theology](https://youtu.be/_mZgSIlX20U)
 
 - Was Prophet Muhammad ﷺ mentioned in previous religions?
-    > [The Praised One ﷺ in World Scriptures | Hamza Yusuf](https://youtu.be/OzSyIla5Z-Q)
+    > [The Praised One ﷺ in World Scriptures \| Hamza Yusuf](https://youtu.be/OzSyIla5Z-Q)
