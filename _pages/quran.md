@@ -20,7 +20,7 @@ share: true
 
 ### Mode of Revelation
 
-1. Revealed **entirely by oral recitation** to Prophet Muhammad ﷺ, a bedouin man in the desert who could **neither read nor write** more than 1400 years ago.
+1. Revealed **entirely by oral recitation** through Prophet Muhammad ﷺ, a bedouin man in the desert who could **neither read nor write** more than 1400 years ago.
 1. Revealed over 23 years, in **partial portions** and **out of chronological order**, often in response to unforeseen events, which would make long-term preplanning impossible.
 1. One Shot Wonder: Once revealed and spoken, verses were **fixed permanently** without **retraction** or **alteration**, yet together they form a perfectly coherent whole.
 1. The Qur'an itself affirms the **Prophet's ﷺ non-literacy**.
