@@ -116,6 +116,7 @@ share: true
 1. Resulted in the currently **second-most widespread religion** after Christianity, its own predecessor. And rapidly growing to be the most widespread religion in the world.
 1. For the first 13 years in Makkah, Prophet Muhammad ﷺ and his followers were mocked, beaten, starved, stripped of status and wealth, cut off by boycott, exiled, and robbed of safety—yet they **refused to abandon the message**.
 
+
 > *Note: These are brief points highlighting key ideas. While more general verification and further details can be found through some research, some links to helpful videos are provided. This page is a work in progress.*
 
 
