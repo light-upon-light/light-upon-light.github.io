@@ -141,13 +141,13 @@ share: true
 
 ## Playlist
 
-- Accompanying playlist on miraculousness of the Qur'an and various other evidences for God and Islam
+- The following is a playlist, that is meant to accompany this page, on miraculousness of the Qur'an and various other evidences and topics about God and Islam:
     > [Evidence for God and Islam (Youtube Playlist)](https://youtube.com/playlist?list=PLwIWQeA8Aq55xC3RctNBswajRBuWgl7Tr)
 
 
 ## Links
 
-- Amazing videos on the miraculousness of the Qur'an
+- Amazing videos on the miraculousness of the Qur'an:
     > [Marvels of the Qur'an \| Dr. Ali Ataie](https://youtu.be/9gJWIGLJhHM)
 
     > [Conquering Doubts \| Ali Ataie](https://youtu.be/_HlpfgaDATU)
