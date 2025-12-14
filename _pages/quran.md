@@ -129,11 +129,11 @@ share: true
     > [Prophet Muhammad Honored By the U.S. Supreme Court As One Of The Greatest Lawgivers Of The World In 1935](https://www.soundvision.com/article/prophet-muhammad-honored-by-the-us-supreme-court-as-one-of-the-greatest-lawgivers-of-the)
 
     > [What Non-Muslims Say About Muhammad ﷺ](https://al-islam.org/articles/personalities-what-non-muslims-say-about-muhammad-prophet-islam)
-1. The more you learn about his life, the more you will love him for his **unmatched character, compassion, and mercy**, and the clearer the **evidence** for his prophethood will become.
-1. Many many **evidences of his prophethood** from his own **life story** and **actions**. This is a whole area to research on its own, however here are some examples:
+1. The more you learn about his life, the more you will grow to love him for his **unmatched character, compassion, and mercy**, and the clearer the **evidence** for his prophethood will become.
+1. There is an unending amount of **evidences of his prophethood** from his **life story** and **actions**. This is a whole area to research on its own, however below are some examples.
 1. At the start of his message, Prophet Muhammad's ﷺ people tried to **bribe** him with wealth, status, and power to make him **abandon his call to God**—but he **refused without hesitation**.
 1. Even later in life, when he held **authority over Arabia** and could have **claimed immense wealth**, he chose to **live simply and humbly**, **giving away** what he had and leaving this world with almost **no worldly possessions**.
-1. Even **respected Christian scholars** acknowledge him as a **true prophet of God**.
+1. Even **respected Christian and Jewish scholars** acknowledge him as a **true prophet of God**.
     > [Keith Ward: Top Christian scholars affirm that Prophet Muhammad ﷺ was an authentic prophet of God (Youtube Short)](https://youtube.com/shorts/Zoz0q-vp7UU)
 
     > [Reverend Professor Keith Ward on Blogging Theology](https://www.youtube.com/live/ftRsC_2sjg8)
