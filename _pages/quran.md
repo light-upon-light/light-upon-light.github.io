@@ -37,13 +37,13 @@ share: true
 1. It emerged at the **pinnacle of Arabic** eloquence, **challenging the Arabs** to produce anything comparable.
     > The Qur'an was revealed in an era when the **Arabs** had reached the very **summit of Arabic** language eloquence and rhetoric. **Poetry** was not mere entertainment; it was the **lifeblood of their culture**, the **measure of honor**, and even a **weapon in war**—tribes would settle disputes or ignite battles through verses. In this context, where **pride in language** was unrivaled and **mastery of Arabic** expression was their greatest art, the **Qur'an openly challenged** them to produce anything like it. Despite their unmatched command of Arabic and every worldly motive to discredit the Prophet ﷺ, they were unable to respond, and **their failure** itself became a **perpetual testimony** to the **Qur'an's inimitability**.
 1. Despite intense hostility, **no** contemporary or later **critic** has succeeded in **producing a work** that the Arabic-speaking world accepts as **equal or superior** or even remotely close.
-1. Arabs had to resort to accusing Prophet Muhammad ﷺ of being a **magician or sent by satan** when they were trumped by the miraculousness of the Qur'an.
+1. Arabs had to resort to accusing Prophet Muhammad ﷺ of being a **magician or inspired by satan** when they were trumped by the miraculousness of the Qur'an.
 1. Encompasses **multiple layers** of meaning within its verses, including the apparent, exoteric sense as well as deeper, often multilayered esoteric significances.
 1. Ring structure: Displays intricate **symmetrical patterns** (chiastic structures) within verses, chapters, and even across chapters—achieved without chronological sequencing or later editing.
-    > This in combination with revelation that is: partial, out of order, one shot and with no take backs is miraculous in its own right, let alone in addition to all the other aspects. ([Marvels of the Qur'an \| Dr. Ali Ataie](https://www.youtube.com/watch?v=9gJWIGLJhHM))
+    > This point in combination with revelation that is: partial, out of order, one shot and with no take backs is miraculous in its own right, let alone in addition to all the other aspects. ([Marvels of the Qur'an \| Dr. Ali Ataie](https://www.youtube.com/watch?v=9gJWIGLJhHM))
 1. Can be **read in any order** of chapters while retaining coherence, guidance, and thematic unity—unlike typical narratives.
-1. Modern **linguistic analysis** of the **Hadith** (Prophet Muhammad's ﷺ own speech) and the **Qur'an** shows clear, consistent differences in style and structure, indicating **distinct sources**.
-    > It would be virtually impossible for a non-literate person to alter his natural mode of expression so completely and exclusively when orally revealing the Qur'an, especially in light of all other characteristics of the text.
+1. Modern **linguistic analysis** of the **Hadith** (The corpus of Prophet Muhammad's ﷺ own personal speech) and the **Qur'an** shows clear, consistent differences in style and structure, indicating **distinct sources**.
+    > It would be virtually impossible for a non-literate person to alter his natural mode of expression so completely and consistently exclusively when orally revealing the Qur'an, especially in light of all other characteristics of the text.
 
     > [Conquering Doubts & Confidently Defending Islam \| Ali Ataie](https://youtu.be/_HlpfgaDATU) (The whole of this video is great)
 
@@ -52,7 +52,7 @@ share: true
 ### Challenges and Bold Claims
 
 1. Claims it is the **verbatim word of God**. No other book written by a human makes that claim about itself, nonetheless any that is this **widespread and miraculous**.
-1. The very **first sentence** after the opening chapter says: “This is the Book! There is no doubt about it—a guide for those mindful ˹of God˺” (**Al-Baqarah 2:2**). Extremely bold claims off the rip.
+1. The very **first sentence** after the opening chapter says: “This is the Book! There is no doubt about it—a guide for those mindful ˹of God˺” (**Al-Baqarah 2:2**). Extremely bold claim off the rip.
 1. Claims it has **no contradictions**, and that if it were man-made you would find many contradictions in it. And the test of time proves that it does not have any contradictions.
     > People have been trying to find any for 1400+ years and if there really were any, the whole claim from God would fall apart very quickly
 1. **Challenges** the whole of **human kind** to produce **something like it**, even 10 chapters, even 1 chapter like it and call upon people to follow them. No one has been able to do so.
@@ -67,38 +67,43 @@ share: true
 1. Claims to be the **final divine revelation** to humanity.
     > History confirms no later religion has spread on a fraction of its scale.
 1. As the final message, the Qur'an comes from the same **Divine Author**, **affirming** earlier scriptures, **expanding** their guidance, and **restoring** the truth where it had been altered.
-1. Main messages of **love, mercy and compassion**.
-1. Provides a complete **moral and legal framework** that guided a flourishing civilization.
-1. Provides an **ethical system** balancing **justice, mercy, and compassion**.
+1. Main messages of **love, mercy and compassion** and alignment with the **Goodness** and **Truth** that is **God**.
+1. Provides a complete **moral and legal framework** that guided a **flourishing civilization**, underpinned by an ethical system balancing **justice, mercy, and compassion**.
 1. Remains **universally relevant**, addressing 7th-century Arabs and modern readers without cultural obsolescence.
 
 ### Knowledge: Historical, Scientific and Linguistic
 
-1. **Scientific knowledge** (much that was unknowable at the time).
+1. Contains tons of **scientific knowledge**, much of which was unknowable at the time.
     > [Qur'an on Embryology - Professor Keith L. Moore](https://youtu.be/J_Dllu42eEA)
 
     > [Are there scientific miracles in the Qur'an?](https://youtu.be/DoP6Ft-VE70)
-1. Very **accurate historical information**, some only confirmed by modern historians.
+1. Very **accurate historical information**, some of which was only confirmed recently by modern historians.
     > [The Qur'an and the Secrets of Egypt](https://youtu.be/c2ovILc_sKY)
-1. Tells stories from the Bible, but **precisely avoids and corrects its historical inaccuracies**.
+1. Tells stories from the Bible, but precisely **avoids** and **corrects** its **historical inaccuracies**.
     > e.g. Title of Pharoah vs King at time of Moses vs Jospeh, Jews few in number at the time of the exodus, etc.
-1. Miraculous **mathematical structures**.
+1. Unbelievable **mathematical structures** embedded in the text.
     > [Mathematical Miracles in the Qur'an: A Measured Approach](https://youtu.be/QC3sDbVcAbw)
-1. **Aptronym**-like references to other languages that Prophet Muhammad ﷺ **didn't know how to speak**.
+1. Subtle **aptronym**-like references to other languages (that Prophet Muhammad ﷺ didn't know how to speak), which wouldn't have been possible without mastery over both Arabic and these other languages.
     > [The Hebrew word that PROVED that the Qur'an is from Allah](https://youtu.be/wA4v8MrBHHc)
 
 ### Preservation and Memorization
 
-1. The Qur'an has been **perfectly preserved** for over 1,400 years through **mass oral transmission** (and supported by written records).
+1. The Qur'an has been **perfectly preserved** for over 1,400 years through **mass oral transmission**, and supported by a plethora of written records over the years that have been carbon dated.
     > No other text in human history, especially one from such antiquity or claiming divine origin, has been preserved in this way, free from loss, alteration, or dependency on human translation and interpretation.
-1. **Easily memorized**. It is common and normal for muslims to memorize it fully. There are **millions of people** today who **memorize** it from **cover to cover** perfectly.
-    > The majoriy of which are non native Arabic speakers. In fact, Arabic is not the first language of around 80% of Muslims today.
-1. If somehow all the physical evidence of the Qur'an **suddenly disappeared**, we would be able to **recreate it perfectly** from people's memory **within a day**.
+
+    > [The Most DIRECT Proof That The Quran is From Allah](https://youtu.be/4l7pbX5J8Lg)
+1. It is **easily memorized**. It is common and normal for muslims to memorize its 600+ pages fully. There are **millions of people** today who have it **memorized** from **cover to cover** perfectly.
+    > The majoriy of which are non-native Arabic speakers. In fact, Arabic is not the first language of around 80% of Muslims today.
+1. If somehow all the physical evidence of the Qur'an **suddenly disappeared**, we would be able to immediatlty **recreate it perfectly** from people's memories.
 
 ### Prophecies
 
 1. **Prophesies** its own widespread.
+    > "He is the One Who has sent His Messenger with ˹right˺ guidance and the religion of truth, making it prevail over all others. And sufficient is Allah as a Witness." (**Al-Fath (48:28)**)
 1. **Prophesies** its own **perfect preservation** and that God will protect it until the end of time.
+    > "Indeed, it is We who sent down the message [i.e., the Qur’ān], and indeed, We will be its guardian." (**Al-Hijr (15:9)**)
+
+    > "The Word of your Lord has been perfected in truth and justice. None can change His Words. And He is the All-Hearing, All- Knowing." (**Al-An’am (6:115)**)
 1. **Prophesies** its own **ease of memorization**:
     > “And We have certainly made the Qur'an easy for remembrance, so is there any who will remember?” (**Al-Qamar 54:17**)
 1. Contains many other fulfilled **future prophecies**:
@@ -108,10 +113,10 @@ share: true
 
 1. Vast majority of **Arabs became Muslims** as a result of it.
 1. **Inspired millions** of people throughout history, and **2+ billion muslims today**.
-1. Resulted in the **second-most widespread religion** after Christianity.
+1. Resulted in the currently **second-most widespread religion** after Christianity, its own predecessor. And rapidly growing to be the most widespread religion in the world.
 1. For the first 13 years in Makkah, Prophet Muhammad ﷺ and his followers were mocked, beaten, starved, stripped of status and wealth, cut off by boycott, exiled, and robbed of safety—yet they **refused to abandon the message**.
 
-> *Note: These are brief points highlighting key ideas. While more general verification and further details can be found through a quick search, some links to helpful videos are provided. This page is a work in progress.*
+> *Note: These are brief points highlighting key ideas. While more general verification and further details can be found through some research, some links to helpful videos are provided. This page is a work in progress.*
 
 
 ## The Messenger of God
