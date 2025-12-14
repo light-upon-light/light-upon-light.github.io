@@ -14,7 +14,7 @@ toc_sticky: true
 share: true
 ---
 
-> This page outlines a number of aspects that demonstrate the **miraculous nature** of the **Qur'an** and the **prophethood** of **Prophet Muhammad** ﷺ. While each point may not constitute a miracle or a decisive proof of prophethood on its own, together they provide compelling evidence for the Qur'an's divine origin and the authenticity of prophet Muhammad's ﷺ mission.
+> This page outlines a number of aspects that demonstrate the **miraculous nature** of the **Qur'an** and the **prophethood** of **Prophet Muhammad** ﷺ. While each point may not constitute a miracle or a decisive proof of prophethood on its own, together they provide compelling evidence for the Qur'an's divine origin and authenticity of the prophet's mission.
 
 ## The Book
 
