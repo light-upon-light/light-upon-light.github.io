@@ -22,7 +22,7 @@ share: true
 
 1. Revealed **entirely by oral recitation** through Prophet Muhammad ﷺ, a bedouin man in the desert who could **neither read nor write** more than 1400 years ago.
 1. Revealed over 23 years, in **partial portions** and **out of order**, often in direct response to unforeseen events (which would make long-term preplanning impossible). And then when put in place they fit together like a majestic  literary puzzle.
-1. One Shot Wonder: Once revealed and spoken, verses were **fixed permanently** without **retraction** or **alteration**, yet together they form a perfectly coherent whole.
+1. **One shot wonder**: Once revealed and spoken, verses were **fixed permanently** without **retraction** or **alteration**, yet together they form a perfectly coherent whole.
 1. The Qur'an itself affirms the **Prophet's ﷺ non-literacy**.
     > “You ˹O Prophet˺ could not read any writing ˹even˺ before this ˹revelation˺, nor could you write at all. Otherwise, the people of falsehood would have been suspicious.” (**Al-‘Ankabut 29:48**)
 
@@ -39,7 +39,7 @@ share: true
 1. Maintains the same **peak literary quality across all 23 years** of revelation, unlike any human author whose style evolves over time.
 1. Serves as a **perfect reference** for Arabic grammar and contains no linguistic errors.
 1. Encompasses **multiple layers** of meaning within its verses, including the apparent, exoteric sense as well as deeper, often multilayered esoteric significances.
-1. Ring structure: Displays intricate **symmetrical patterns** (chiastic structures) within verses, chapters, and even across chapters—achieved without chronological sequencing or later editing.
+1. **Ring structure**: Displays intricate **symmetrical patterns** (chiastic structures) within verses, chapters, and even across chapters—achieved without chronological sequencing or later editing.
     > This point in combination with revelation that is: partial, out of order, one shot and with no take backs is miraculous in its own right, let alone in addition to all the other aspects.
 
     > [Marvels of the Qur'an \| Dr. Ali Ataie](https://www.youtube.com/watch?v=9gJWIGLJhHM)
@@ -50,7 +50,7 @@ share: true
 1. Can be **read in any order** of chapters while retaining coherence, guidance, and thematic unity—unlike typical narratives.
 1. It emerged at the **pinnacle of Arabic** eloquence, **challenging the Arabs** to produce anything comparable.
     > The Qur'an was revealed in an era when the **Arabs** had reached the very **summit of Arabic** language eloquence and rhetoric. **Poetry** was not mere entertainment; it was the **lifeblood of their culture**, the **measure of honor**, and even a **weapon in war**—tribes would settle disputes or ignite battles through verses. In this context, where **pride in language** was unrivaled and **mastery of Arabic** expression was their greatest art, the **Qur'an openly challenged** them to produce anything like it. Despite their unmatched command of Arabic and every worldly motive to discredit the Prophet ﷺ, they were unable to respond, and **their failure** itself became a **perpetual testimony** to the **Qur'an's inimitability**.
-1. Despite intense hostility, **no** contemporary or later **critic** has succeeded in **producing a work** that the Arabic-speaking world accepts as **equal or superior** or even remotely close.
+1. Despite intense hostility, **no** contemporary or later **critic** has succeeded in **producing a work** that is accepted as **equal or superior** or even remotely close.
 1. Arabs had to resort to accusing Prophet Muhammad ﷺ of being a **magician or inspired by satan** when they were trumped by the miraculousness of the Qur'an.
 1. The Prophet's ﷺ personal life, emotions, and grievances **never distort the Qur'an's message**; it maintains an **objective, divine voice**.
 1. Modern **linguistic analysis** of the **Hadith** (The corpus of Prophet Muhammad's ﷺ own personal speech) and the **Qur'an** shows clear, consistent differences in style and structure, indicating **distinct sources**.
