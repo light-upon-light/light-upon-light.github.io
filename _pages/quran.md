@@ -155,7 +155,7 @@ share: true
 
 ## The Messenger of God
 
-1. All of that from the mouth of **one non-literate bedouin man** from the desert more than 1400 years ago.
+1. All of above came from the mouth of **one non-literate man** from the desert more than 1400 years ago.
 1. Who is considered to be one of the **most influential figures** in human history.
     > [The 100: A Ranking of the Most Influential Persons in History](https://en.wikipedia.org/wiki/The_100:_A_Ranking_of_the_Most_Influential_Persons_in_History)
 
