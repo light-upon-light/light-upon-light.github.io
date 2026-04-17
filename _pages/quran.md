@@ -241,3 +241,6 @@ share: true
 
 - How can the Qur'an be a Miracle for NON-ARABIC Speakers?
     > [How can the Qur'an be a Miracle for NON-ARABIC Speakers? \| Arabic101](https://youtu.be/5fyF-35naDE)
+
+## Other useful links
+- [Is It Hypocritical for Muslims to Criticize Non-Muslim Occupation If Classical Islamic Law Permits Muslims to Rule over Non-Muslims?](https://seekersguidance.org/answers/general-answers-feeds/is-it-hypocritical-for-muslims-to-criticize-non-muslim-occupation-if-classical-islamic-law-permits-muslims-to-rule-over-non-muslims/)
