@@ -120,4 +120,6 @@ The charge that Islam authorizes domestic abuse by citing Qur’an 4:34 is built
 
 **Far from endorsing harm, Islam establishes safeguards to protect women and sets the Prophet ﷺ—who never harmed his wives—as the model of conduct. The verse is about resolving discord with restraint, not legitimizing abuse.**
 
+---
+
 [< Back to main page](/quran)

@@ -837,4 +837,6 @@ Our Mother Aisha was not the forgotten victim of the Prophet Muhammad ﷺ. She w
 
 [^6]: Sunan Abi Dawud, hadith 2578.
 
+---
+
 [< Back to main page](/quran)
