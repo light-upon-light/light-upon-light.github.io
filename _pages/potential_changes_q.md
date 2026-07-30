@@ -17,3 +17,7 @@ esm el rasool the most praised one and he is that, no one is more praised than h
 --
 
 add a question: how were the prophet's life and sayings perserved?
+
+--
+
+add women page + link in common misconceptions
