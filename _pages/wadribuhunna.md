@@ -14,6 +14,8 @@ toc_sticky: true
 share: true
 ---
 
+[< Back to main page](/quran)
+
 One of the most cited accusations against Islam is the claim that it sanctions domestic abuse, based on *Sūrat al-Nisā’* (4:34) where the verb **“waḍribūhunna”** appears. This reading, however, collapses under scrutiny. When the language, context, Prophetic practice, and juristic tradition are examined in full, it becomes evident that the verse does not license harm but outlines a framework for de-escalating marital conflict.
 
 ## 1. The elasticity of the word *daraba*
@@ -117,3 +119,5 @@ Islam’s *moral grammar* is mercy and love. Any interpretation that legitimizes
 The charge that Islam authorizes domestic abuse by citing Qur’an 4:34 is built on a shallow, selective reading. Linguistically, *daraba* carries multiple meanings. Contextually, the verse describes stages of reconciliation, not violence. Juristically, even the strictest interpretations prohibit harm. The Prophet’s practice and the Qur’an’s broader commands for kindness render abuse categorically forbidden.
 
 **Far from endorsing harm, Islam establishes safeguards to protect women and sets the Prophet ﷺ—who never harmed his wives—as the model of conduct. The verse is about resolving discord with restraint, not legitimizing abuse.**
+
+[< Back to main page](/quran)

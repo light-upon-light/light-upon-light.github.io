@@ -14,6 +14,8 @@ toc_sticky: true
 share: true
 ---
 
+[< Back to main page](/quran)
+
 Few events in the life of the Prophet Muhammad ﷺ have been more aggressively removed from their historical setting than his marriage to our Mother Aisha (may God be pleased with her). Modern critics frequently isolate the traditional report of her age, place it inside modern Western legal and social categories, attach a contemporary clinical label to the Prophet ﷺ, and then treat the accusation as self-evident.
 
 It is not self-evident.
@@ -90,7 +92,7 @@ It would also be simplistic to respond that puberty alone makes every person rea
 
 The Qur’an itself distinguishes between reaching a marriageable stage and demonstrating sound judgment when discussing the property of orphans:
 
-> “Test the orphans until they reach marriageable age. Then, if you perceive sound judgment in them, release their property to them.”  
+> “Test the orphans until they reach marriageable age. Then, if you perceive sound judgment in them, release their property to them.”
 > — Qur’an 4:6
 
 The verse indicates that physical development and sound judgment are related but distinct considerations.
@@ -150,16 +152,16 @@ These opponents had every incentive to expose sexual misconduct or deviance. Yet
 
 The Qur’an does not portray the Prophet ﷺ merely as a transmitter of rules. It repeatedly emphasizes his mercy and moral excellence:
 
-> “Indeed, you are truly a man of outstanding character.”  
+> “Indeed, you are truly a man of outstanding character.”
 > — Qur’an 68:4
 
-> “We have not sent you except as a mercy to all worlds.”  
+> “We have not sent you except as a mercy to all worlds.”
 > — Qur’an 21:107
 
-> “It was by God’s mercy that you were gentle with them. Had you been harsh and hard-hearted, they would certainly have dispersed from around you.”  
+> “It was by God’s mercy that you were gentle with them. Had you been harsh and hard-hearted, they would certainly have dispersed from around you.”
 > — Qur’an 3:159
 
-> “There has certainly come to you a messenger from among yourselves. Your suffering distresses him. He is deeply concerned for you and is gracious and merciful to the believers.”  
+> “There has certainly come to you a messenger from among yourselves. Your suffering distresses him. He is deeply concerned for you and is gracious and merciful to the believers.”
 > — Qur’an 9:128
 
 These descriptions were not abstract slogans. They were reflected in his conduct toward family, servants, children, the poor, enemies, strangers, and vulnerable members of society.
@@ -834,3 +836,5 @@ Our Mother Aisha was not the forgotten victim of the Prophet Muhammad ﷺ. She w
 [^5]: Sahih al-Bukhari, hadith 4358; Sahih Muslim, hadith 2384.
 
 [^6]: Sunan Abi Dawud, hadith 2578.
+
+[< Back to main page](/quran)
