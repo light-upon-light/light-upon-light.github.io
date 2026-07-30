@@ -242,5 +242,15 @@ share: true
 - How can the Qur'an be a Miracle for NON-ARABIC Speakers?
     > [How can the Qur'an be a Miracle for NON-ARABIC Speakers? \| Arabic101](https://youtu.be/5fyF-35naDE)
 
+## Common Misconceptions About Islam
+
+> Some teachings, verses, and historical events are frequently misunderstood, quoted without context, or misrepresented. This section examines some of the most common claims about Islam and provides the relevant historical, linguistic, and scholarly context, while considering the broader context of the Qur’an, the teachings of Prophet Muhammad ﷺ, and Islam’s core message as a whole, to help readers evaluate these topics fairly.
+
+- Islam and domestic violence
+    > [waddribuhuna](/waddribuhuna)
+
+- Prophet Muhammad's marriage to our mother Aisha
+    > [link to page](/aisha)
+
 ## Other useful links
 - [Is It Hypocritical for Muslims to Criticize Non-Muslim Occupation If Classical Islamic Law Permits Muslims to Rule over Non-Muslims?](https://seekersguidance.org/answers/general-answers-feeds/is-it-hypocritical-for-muslims-to-criticize-non-muslim-occupation-if-classical-islamic-law-permits-muslims-to-rule-over-non-muslims/)
