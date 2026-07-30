@@ -1,4 +1,18 @@
-# Islam and the Misreading of Qur’an 4:34: A Response to the Abuse Claim
+---
+title: "Islam and the Misreading of Qur'an 4:34: A Response to the Abuse Claim"
+description: "A response to the claim that Qur'an 4:34 sanctions domestic abuse, examining the linguistic, contextual, and juristic evidence."
+
+permalink: /waddribuhunna
+
+layout: single-zen
+
+toc: true
+toc_label: "Table of Contents"
+toc_icon: "bars"
+toc_sticky: true
+
+share: true
+---
 
 One of the most cited accusations against Islam is the claim that it sanctions domestic abuse, based on *Sūrat al-Nisā’* (4:34) where the verb **“waḍribūhunna”** appears. This reading, however, collapses under scrutiny. When the language, context, Prophetic practice, and juristic tradition are examined in full, it becomes evident that the verse does not license harm but outlines a framework for de-escalating marital conflict.
 

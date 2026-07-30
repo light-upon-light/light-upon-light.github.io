@@ -1,4 +1,18 @@
-# The Prophet Muhammad’s ﷺ Marriage to Aisha: A Historical, Moral, and Islamic Examination
+---
+title: "The Prophet Muhammad's ﷺ Marriage to Aisha: A Historical, Moral, and Islamic Examination"
+description: "A historical, moral, and Islamic examination of the Prophet Muhammad's ﷺ marriage to Aisha, addressing common criticisms and misconceptions."
+
+permalink: /aisha
+
+layout: single-zen
+
+toc: true
+toc_label: "Table of Contents"
+toc_icon: "bars"
+toc_sticky: true
+
+share: true
+---
 
 Few events in the life of the Prophet Muhammad ﷺ have been more aggressively removed from their historical setting than his marriage to our Mother Aisha (may God be pleased with her). Modern critics frequently isolate the traditional report of her age, place it inside modern Western legal and social categories, attach a contemporary clinical label to the Prophet ﷺ, and then treat the accusation as self-evident.
 
