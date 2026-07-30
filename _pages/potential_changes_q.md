@@ -21,3 +21,10 @@ add a question: how were the prophet's life and sayings perserved?
 --
 
 add women page + link in common misconceptions
+
+--
+
+in aisha page:
+- mix wording with other version i have on my phone
+- add more focus on the prophet's teachings related to women and generally about mercy and good moral character
+- add in above sections links to women page and prophet's character page
