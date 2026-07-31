@@ -23,7 +23,7 @@ One of the most cited accusations against Islam is the claim that it sanctions d
 - Many early scholars—including al-Ṭabarī—acknowledged multiple possible readings. Several interpreted *waḍribūhunna* as *“separate from them”* or *“part ways.”*
 - Even those who read it as a physical act explicitly ruled out harm. They stressed it must be **symbolic, non-injurious, and closer to a gesture than an act of violence.**
 
-## 2. Prophetic example as the living interpretaion of the Qur'an
+## 2. Prophetic example as the living interpretation of the Qur'an
 - The Qur’an itself commands: *“Indeed, in the Messenger of Allah you have an excellent example”* (33:21).
 - Authentic reports state:
   > “The Messenger of Allah never struck anything with his hand, neither a woman nor a servant…” (Ṣaḥīḥ Muslim).
