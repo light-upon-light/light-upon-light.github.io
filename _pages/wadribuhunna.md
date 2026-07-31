@@ -62,13 +62,13 @@ Beyond its general ethos, Islam provides explicit, repeated instructions regardi
 - **Equal moral agency and reward:** (16:97; 33:35)
 
 ### B) Prophetic commands (verbal)
+- The Prophet ﷺ declared: *“The best of you are those who are best to their wives, and I am the best among you to my wives.”* (Tirmidhī).
 - **“استوصوا بالنساء خيرا” — “Treat women well; I urge you to be good to women.”**
   — in the Farewell Sermon and other reports *(Ṣaḥīḥ Muslim; also in Bukhārī with related wording).*
 - **“لا تضربوا إماء الله” — “Do not beat the female servants of Allah.”**
   — initial prohibition; later, after complaints reached the Prophet ﷺ about men beating, he said:
   **“لقد طاف بآل محمد نساءٌ كثير يشكون أزواجهن؛ ليس أولئك بخياركم”**
   *“Many women have come to the family of Muhammad complaining about their husbands; those (men) are not the best among you.”* *(Abū Dāwūd, Ibn Mājah).*
-- **“خيركم خيركم لأهله، وأنا خيركم لأهلي” — “The best of you are the best to their families, and I am the best to my family.”** *(Tirmidhī, Aḥmad).*
 - **“لا يجلد أحدكم امرأته جلد العبد ثم يجامعها في آخر اليوم”**
   *“Let none of you flog his wife like a slave, then sleep with her at day’s end.”* *(Bukhārī, Muslim).*
 - **“أوصيكم بالنساء خيرا” / “اتقوا الله في النساء” — “I enjoin you to treat women well; fear God regarding women.”**
@@ -77,7 +77,7 @@ Beyond its general ethos, Islam provides explicit, repeated instructions regardi
 - **“اللهم إني أحرج حق الضعيفين: المرأة واليتيم”**
   *“O Allah, I strongly enjoin (make sacrosanct) the rights of the two vulnerable ones: the woman and the orphan.”* *(Aḥmad, Ibn Mājah; graded ḥasan by some).*
 
-### C) Prophetic character and household practice (actions)
+### C) Prophetic character and moral example
 - **Never struck a woman or a servant.** *(Ṣaḥīḥ Muslim).*
 - **Served his family, mended clothes, did housework.** *(Bukhārī and others).*
 - **Handled conflict without humiliation;** reconciled, advised, or took dignified steps rather than harm.
@@ -99,6 +99,7 @@ Any reading of Qur’an 4:34 must be measured against the Qur’an’s *overarch
   *“My mercy encompasses all things.”* (7:156)
 - **Mutual love as the basis of human relationships:**
   *“Indeed, Allah loves those who rely upon Him”* (3:159), *“Allah loves those who do good”* (2:195).
+- Abuse falls under *ẓulm* (oppression), which the Qur’an and Sunnah consistently condemn as among the gravest sins.
 
 Islam’s *moral grammar* is mercy and love. Any interpretation that legitimizes cruelty, abuse, or oppression cannot stand when measured against these axioms.
 
@@ -108,12 +109,7 @@ Islam’s *moral grammar* is mercy and love. Any interpretation that legitimizes
 
 ## 8. Diversity of scholarly interpretation
 - **Ibn ʿAshūr** (d. 1973) held that the verse referred to deterrence, not harm, and that in modern contexts it should be understood as separation.
-- Scholars like **Muḥammad ʿAbduh** and **Rashīd Riḍā** categorically rejected that the verse permits hitting.
-- This diversity underscores that non-violent readings are the base in Islamic scholarship.
-
-## 9. The Prophet’s moral teaching
-- The Prophet ﷺ declared: *“The best of you are those who are best to their wives, and I am the best among you to my wives.”* (Tirmidhī).
-- Abuse falls under *ẓulm* (oppression), which the Qur’an and Sunnah consistently condemn as among the gravest sins.
+- The diversity in interpretation underscores that the verse's initial impression is not the clear-cut singular reading.
 
 ## Conclusion
 The charge that Islam authorizes domestic abuse by citing Qur’an 4:34 is built on a shallow, selective reading. Linguistically, *daraba* carries multiple meanings. Contextually, the verse describes stages of reconciliation, not violence. Juristically, even the strictest interpretations prohibit harm. The Prophet’s practice and the Qur’an’s broader commands for kindness render abuse categorically forbidden.
