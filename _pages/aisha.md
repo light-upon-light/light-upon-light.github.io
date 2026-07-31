@@ -58,6 +58,8 @@ The Qur'an keeps physical readiness and judgment distinct in its treatment of or
 
 > "Test the orphans until they reach marriageable age. Then, if you perceive sound judgment in them, release their property to them."
 > — Qur'an 4:6
+>
+> <div dir="rtl" lang="ar" class="quran-arabic">وَٱبْتَلُوا۟ ٱلْيَتَٰمَىٰ حَتَّىٰٓ إِذَا بَلَغُوا۟ ٱلنِّكَاحَ فَإِنْ ءَانَسْتُم مِّنْهُمْ رُشْدًۭا فَٱدْفَعُوٓا۟ إِلَيْهِمْ أَمْوَٰلَهُمْ</div>
 
 Age is therefore not irrelevant. It carries no fixed meaning in isolation from biology, capacity, environment, custom, and the conditions of a particular society.
 
@@ -102,6 +104,22 @@ Accepting the accusation means setting aside almost everything else known about 
 **Before prophethood.** Mecca called him al-Amin, the trustworthy, years before he claimed anything. Men who later fought him went on leaving their valuables in his keeping; his honesty was not in dispute even when everything else about him was.
 
 **The Qur'an's description.** It calls him "truly a man of outstanding character" (68:4) and "a mercy to all worlds" (21:107). It tells him that his gentleness held people to him and that harshness would have scattered them (3:159), and describes him as distressed by the suffering of others (9:128). Asked to characterise him, Aisha said that his character was the Qur'an.[^3]
+
+> "Truly a man of outstanding character." — 68:4
+>
+> <div dir="rtl" lang="ar" class="quran-arabic">وَإِنَّكَ لَعَلَىٰ خُلُقٍ عَظِيمٍۢ</div>
+>
+> "A mercy to all worlds." — 21:107
+>
+> <div dir="rtl" lang="ar" class="quran-arabic">وَمَآ أَرْسَلْنَٰكَ إِلَّا رَحْمَةًۭ لِّلْعَٰلَمِينَ</div>
+>
+> "So by mercy from Allah, you were lenient with them. And if you had been rude and harsh in heart, they would have disbanded from about you." — 3:159
+>
+> <div dir="rtl" lang="ar" class="quran-arabic">فَبِمَا رَحْمَةٍۢ مِّنَ ٱللَّهِ لِنتَ لَهُمْ ۖ وَلَوْ كُنتَ فَظًّا غَلِيظَ ٱلْقَلْبِ لَٱنفَضُّوا۟ مِنْ حَوْلِكَ</div>
+>
+> "There has certainly come to you a Messenger from among yourselves. Grievous to him is what you suffer; he is concerned over you and to the believers is kind and merciful." — 9:128
+>
+> <div dir="rtl" lang="ar" class="quran-arabic">لَقَدْ جَآءَكُمْ رَسُولٌۭ مِّنْ أَنفُسِكُمْ عَزِيزٌ عَلَيْهِ مَا عَنِتُّمْ حَرِيصٌ عَلَيْكُم بِٱلْمُؤْمِنِينَ رَءُوفٌۭ رَّحِيمٌۭ</div>
 
 **Power and property.** He ended his life governing a state and owning almost nothing. Aisha recalled two months passing without a cooking fire being lit in his houses, the family living on dates and water.[^4] He slept on rough bedding, mended his own sandals, worked in the house, and left no estate. Earlier, in Mecca, the Quraysh had offered him wealth, standing, and leadership if he would drop his message; he took persecution instead. When the city that had expelled him fell to him, he took no reprisals.
 

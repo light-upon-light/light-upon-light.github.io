@@ -18,6 +18,14 @@ share: true
 
 One of the most cited accusations against Islam is the claim that it sanctions domestic abuse, based on *Sūrat al-Nisā’* (4:34) where the verb **“waḍribūhunna”** appears. This reading, however, collapses under scrutiny. When the language, context, Prophetic practice, and juristic tradition are examined in full, it becomes evident that the verse does not license harm but outlines a framework for de-escalating marital conflict.
 
+## The verse in question
+
+> “Men are in charge of women by ˹right of˺ what Allah has given one over the other and what they spend ˹for maintenance˺ from their wealth. So righteous women are devoutly obedient, guarding in ˹the husband’s˺ absence what Allah would have them guard. But those ˹wives˺ from whom you fear arrogance—˹first˺ advise them; ˹then if they persist˺, forsake them in bed; and ˹finally˺, *waḍribūhunna*. But if they obey you ˹once more˺, seek no means against them. Indeed, Allah is ever Exalted and Grand.” (**Al-Nisā’ 4:34**)
+>
+> <div dir="rtl" lang="ar" class="quran-arabic">ٱلرِّجَالُ قَوَّٰمُونَ عَلَى ٱلنِّسَآءِ بِمَا فَضَّلَ ٱللَّهُ بَعْضَهُمْ عَلَىٰ بَعْضٍۢ وَبِمَآ أَنفَقُوا۟ مِنْ أَمْوَٰلِهِمْ ۚ فَٱلصَّٰلِحَٰتُ قَٰنِتَٰتٌ حَٰفِظَٰتٌۭ لِّلْغَيْبِ بِمَا حَفِظَ ٱللَّهُ ۚ وَٱلَّٰتِى تَخَافُونَ نُشُوزَهُنَّ فَعِظُوهُنَّ وَٱهْجُرُوهُنَّ فِى ٱلْمَضَاجِعِ وَٱضْرِبُوهُنَّ ۖ فَإِنْ أَطَعْنَكُمْ فَلَا تَبْغُوا۟ عَلَيْهِنَّ سَبِيلًا ۗ إِنَّ ٱللَّهَ كَانَ عَلِيًّۭا كَبِيرًۭا</div>
+>
+> *Translation adapted from Saheeh International. The verb* waḍribūhunna *is left untranslated here because its meaning is precisely what the rest of this page examines; renderings range from “strike them” to “separate from them.”*
+
 ## 1. The elasticity of the word *daraba*
 - Arabic words carry layered meanings, and **daraba** is one of the most polysemous verbs in the language. It can mean *to strike*, but also *to travel, to separate, to set forth, to distance*.
 - Many early scholars—including al-Ṭabarī—acknowledged multiple possible readings. Several interpreted *waḍribūhunna* as *“separate from them”* or *“part ways.”*
@@ -25,15 +33,16 @@ One of the most cited accusations against Islam is the claim that it sanctions d
 
 ## 2. Prophetic example as the living interpretation of the Qur'an
 - The Qur’an itself commands: *“Indeed, in the Messenger of Allah you have an excellent example”* (33:21).
+  > <div dir="rtl" lang="ar" class="quran-arabic">لَّقَدْ كَانَ لَكُمْ فِى رَسُولِ ٱللَّهِ أُسْوَةٌ حَسَنَةٌۭ</div>
 - Authentic reports state:
   > “The Messenger of Allah never struck anything with his hand, neither a woman nor a servant…” (Ṣaḥīḥ Muslim).
 - This is decisive. The Prophet ﷺ is the *living exegesis* of the Qur’an. If the verse authorized harm, his conduct would have embodied it. His lifelong abstention from such behavior proves otherwise.
 
 ## 3. The verse as a graduated system of conflict resolution
 - 4:34 presents a **three-step sequence** for handling serious marital discord:
-  1. *Faʿiẓūhunna* → counsel, advise, engage in dialogue.
-  2. *Wahjurūhunna fī’l-maḍājiʿ* → withdraw from the marital bed, signaling disapproval without hostility.
-  3. *Waḍribūhunna* → understood either as separation or, at most, a symbolic gesture devoid of harm.
+  1. *Faʿiẓūhunna* (<span dir="rtl" lang="ar">فَعِظُوهُنَّ</span>) → counsel, advise, engage in dialogue.
+  2. *Wahjurūhunna fī’l-maḍājiʿ* (<span dir="rtl" lang="ar">وَٱهْجُرُوهُنَّ فِى ٱلْمَضَاجِعِ</span>) → withdraw from the marital bed, signaling disapproval without hostility.
+  3. *Waḍribūhunna* (<span dir="rtl" lang="ar">وَٱضْرِبُوهُنَّ</span>) → understood either as separation or, at most, a symbolic gesture devoid of harm.
 - The progression is clearly toward **defusing tension** and **conflict resolution**, not escalating it into injury.
 
 ## 4. Juristic restrictions and ethical framing
@@ -48,18 +57,32 @@ One of the most cited accusations against Islam is the claim that it sanctions d
 Beyond its general ethos, Islam provides explicit, repeated instructions regarding the treatment of women, especially wives. These verses and sayings of the Prophet ﷺ are unambiguous:
 
 ### A) Qur’anic directives and protections
-- **Kindness as the rule:** *“عاشِرُوهُنَّ بالمعروف — Live with them in kindness.”* (4:19)
+- **Kindness as the rule:** *“Live with them in kindness.”* (4:19)
+  > <div dir="rtl" lang="ar" class="quran-arabic">وَعَاشِرُوهُنَّ بِٱلْمَعْرُوفِ</div>
 - **No harm in retention/divorce:** *“Do not retain them to harm them so that you transgress.”* (2:231)
+  > <div dir="rtl" lang="ar" class="quran-arabic">وَلَا تُمْسِكُوهُنَّ ضِرَارًۭا لِّتَعْتَدُوا۟</div>
 - *“Do not forget graciousness between you.”* (2:237)
-- **Grace even when parting:** *“فإمساكٌ بمعروف أو تسريحٌ بإحسان — Keep in kindness or release with excellence.”* (2:229)
-- **No obstruction of remarriage:** (2:232)
-- **Mutual protection/intimacy:** *“هن لباسٌ لكم وأنتم لباسٌ لهن — They are a garment for you and you are a garment for them.”* (2:187)
+  > <div dir="rtl" lang="ar" class="quran-arabic">وَلَا تَنسَوُا۟ ٱلْفَضْلَ بَيْنَكُمْ</div>
+- **Grace even when parting:** *“Keep in kindness or release with excellence.”* (2:229)
+  > <div dir="rtl" lang="ar" class="quran-arabic">فَإِمْسَاكٌۢ بِمَعْرُوفٍ أَوْ تَسْرِيحٌۢ بِإِحْسَٰنٍۢ</div>
+- **No obstruction of remarriage:** *“Do not prevent them from remarrying their ˹former˺ husbands if they agree among themselves on an acceptable basis.”* (2:232)
+  > <div dir="rtl" lang="ar" class="quran-arabic">فَلَا تَعْضُلُوهُنَّ أَن يَنكِحْنَ أَزْوَٰجَهُنَّ إِذَا تَرَٰضَوْا۟ بَيْنَهُم بِٱلْمَعْرُوفِ</div>
+- **Mutual protection/intimacy:** *“They are a garment for you and you are a garment for them.”* (2:187)
+  > <div dir="rtl" lang="ar" class="quran-arabic">هُنَّ لِبَاسٌۭ لَّكُمْ وَأَنتُمْ لِبَاسٌۭ لَّهُنَّ</div>
 - **Tranquility, love, mercy as the marital aim:** *“And among His signs is that He created for you from yourselves spouses that you may find tranquility in them, and He placed between you love (mawadda) and mercy (raḥma).”* (30:21)
-- **Arbitration before breakdown:** *“فابعثوا حكمًا من أهله وحكمًا من أهلها — Appoint an arbiter from his people and hers.”* (4:35)
-- **No harassment during ‘iddah:** *“ولا تُضارُّوهُنَّ لتضيِّقوا عليهن — Do not harm them so as to distress them.”* (65:6)
-- **Reconciliation is best:** (4:128)
-- **Believing men and women are allies/protectors of each other:** (9:71)
-- **Equal moral agency and reward:** (16:97; 33:35)
+  > <div dir="rtl" lang="ar" class="quran-arabic">وَمِنْ ءَايَٰتِهِۦٓ أَنْ خَلَقَ لَكُم مِّنْ أَنفُسِكُمْ أَزْوَٰجًۭا لِّتَسْكُنُوٓا۟ إِلَيْهَا وَجَعَلَ بَيْنَكُم مَّوَدَّةًۭ وَرَحْمَةً</div>
+- **Arbitration before breakdown:** *“Appoint an arbiter from his people and an arbiter from hers.”* (4:35)
+  > <div dir="rtl" lang="ar" class="quran-arabic">فَٱبْعَثُوا۟ حَكَمًۭا مِّنْ أَهْلِهِۦ وَحَكَمًۭا مِّنْ أَهْلِهَآ</div>
+- **No harassment during ‘iddah:** *“Do not harm them so as to distress them.”* (65:6)
+  > <div dir="rtl" lang="ar" class="quran-arabic">وَلَا تُضَآرُّوهُنَّ لِتُضَيِّقُوا۟ عَلَيْهِنَّ</div>
+- **Reconciliation is best:** *“There is no sin upon them if they make terms of settlement between them—and settlement is best.”* (4:128)
+  > <div dir="rtl" lang="ar" class="quran-arabic">فَلَا جُنَاحَ عَلَيْهِمَآ أَن يُصْلِحَا بَيْنَهُمَا صُلْحًۭا ۚ وَٱلصُّلْحُ خَيْرٌۭ</div>
+- **Believing men and women are allies/protectors of each other:** *“The believing men and believing women are allies of one another.”* (9:71)
+  > <div dir="rtl" lang="ar" class="quran-arabic">وَٱلْمُؤْمِنُونَ وَٱلْمُؤْمِنَٰتُ بَعْضُهُمْ أَوْلِيَآءُ بَعْضٍۢ</div>
+- **Equal moral agency and reward:** *“Whoever does righteousness, whether male or female, while he is a believer—We will surely cause him to live a good life, and We will surely give them their reward according to the best of what they used to do.”* (16:97)
+  > <div dir="rtl" lang="ar" class="quran-arabic">مَنْ عَمِلَ صَٰلِحًۭا مِّن ذَكَرٍ أَوْ أُنثَىٰ وَهُوَ مُؤْمِنٌۭ فَلَنُحْيِيَنَّهُۥ حَيَوٰةًۭ طَيِّبَةًۭ ۖ وَلَنَجْزِيَنَّهُمْ أَجْرَهُم بِأَحْسَنِ مَا كَانُوا۟ يَعْمَلُونَ</div>
+- **Men and women listed as equals, promised the same reward:** *“Indeed, the Muslim men and Muslim women, the believing men and believing women… for them Allah has prepared forgiveness and a great reward.”* (33:35)
+  > <div dir="rtl" lang="ar" class="quran-arabic">إِنَّ ٱلْمُسْلِمِينَ وَٱلْمُسْلِمَٰتِ وَٱلْمُؤْمِنِينَ وَٱلْمُؤْمِنَٰتِ وَٱلْقَٰنِتِينَ وَٱلْقَٰنِتَٰتِ وَٱلصَّٰدِقِينَ وَٱلصَّٰدِقَٰتِ وَٱلصَّٰبِرِينَ وَٱلصَّٰبِرَٰتِ وَٱلْخَٰشِعِينَ وَٱلْخَٰشِعَٰتِ وَٱلْمُتَصَدِّقِينَ وَٱلْمُتَصَدِّقَٰتِ وَٱلصَّٰٓئِمِينَ وَٱلصَّٰٓئِمَٰتِ وَٱلْحَٰفِظِينَ فُرُوجَهُمْ وَٱلْحَٰفِظَٰتِ وَٱلذَّٰكِرِينَ ٱللَّهَ كَثِيرًۭا وَٱلذَّٰكِرَٰتِ أَعَدَّ ٱللَّهُ لَهُم مَّغْفِرَةًۭ وَأَجْرًا عَظِيمًۭا</div>
 
 ### B) Prophetic commands (verbal)
 - The Prophet ﷺ declared: *“The best of you are those who are best to their wives, and I am the best among you to my wives.”* (Tirmidhī).
@@ -93,12 +116,18 @@ Beyond its general ethos, Islam provides explicit, repeated instructions regardi
 Any reading of Qur’an 4:34 must be measured against the Qur’an’s *overarching principles*. The central values of Islam are mercy, compassion, and mutual love:
 
 - **God’s very essence is mercy:** Every chapter of the Qur’an (except one) begins with *“In the name of Allah, the Most Merciful, the Most Compassionate (al-Raḥmān al-Raḥīm).”*
+  > <div dir="rtl" lang="ar" class="quran-arabic">بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ</div>
 - **Mercy as the Prophet’s mission:**
   *“We have not sent you except as a mercy to the worlds.”* (21:107)
+  > <div dir="rtl" lang="ar" class="quran-arabic">وَمَآ أَرْسَلْنَٰكَ إِلَّا رَحْمَةًۭ لِّلْعَٰلَمِينَ</div>
 - **Compassion as a divine trait extended to creation:**
   *“My mercy encompasses all things.”* (7:156)
+  > <div dir="rtl" lang="ar" class="quran-arabic">وَرَحْمَتِى وَسِعَتْ كُلَّ شَىْءٍۢ</div>
 - **Mutual love as the basis of human relationships:**
   *“Indeed, Allah loves those who rely upon Him”* (3:159), *“Allah loves those who do good”* (2:195).
+  > <div dir="rtl" lang="ar" class="quran-arabic">إِنَّ ٱللَّهَ يُحِبُّ ٱلْمُتَوَكِّلِينَ</div>
+  >
+  > <div dir="rtl" lang="ar" class="quran-arabic">إِنَّ ٱللَّهَ يُحِبُّ ٱلْمُحْسِنِينَ</div>
 - Abuse falls under *ẓulm* (oppression), which the Qur’an and Sunnah consistently condemn as among the gravest sins.
 
 Islam’s *moral grammar* is mercy and love. Any interpretation that legitimizes cruelty, abuse, or oppression cannot stand when measured against these axioms.
