@@ -2,6 +2,7 @@ Todos:
 
 general:
 - Let claude implement the improvements it suggested when quota resets
+- add global instructions to use subagents (with simpler models) when needed and to ask questions for clarification when needed.
 - add instructions on how to retrieve arabic version of verses and to always put them
 - ask claude on the "Add Quranic Arabic text..." chat: Given the work we did in this session, what would you suggest we add to this repo's claude.md?
 - And do something like the above but more generally for the whole repo
