@@ -30,4 +30,6 @@ add women page + link in common misconceptions
 ----
 aish.md
 
+- have claude produce a bullet point outline of the structure, and main points under each. Very brief. And ask some LLM to rewrite everything while giving strict and clear guidelines for writing style. Because it's currently quite bad lol.
+
 - add in above sections links to women page and prophet's character page
