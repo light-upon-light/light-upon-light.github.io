@@ -3,15 +3,8 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+This site collects a small number of long-form articles on the Qur'an and the life of the Prophet Muhammad ﷺ.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+One article outlines aspects of the Qur'an's text and transmission that its author considers evidence of the Qur'an's miraculous nature and of Prophet Muhammad's ﷺ prophethood. Another examines the Prophet's ﷺ marriage to Aisha, addressing common historical and moral criticisms raised against it. A third responds to the claim that Qur'an 4:34 sanctions domestic abuse, examining the verse's language, its historical context, and its treatment in the juristic tradition.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+See the [homepage](/) for links to all three articles.
