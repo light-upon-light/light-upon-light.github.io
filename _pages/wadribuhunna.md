@@ -87,7 +87,7 @@ Beyond its general ethos, Islam provides explicit, repeated instructions regardi
 - **Judicial recourse:** harm (*ḍarar*), abandonment, or cruelty can justify **tafrīq** (court-ordered separation) or **khulʿ**; damages/discipline apply to the aggressor.
 - **Contractual safeguards:** conditions in the marriage contract (shurūṭ) enforce rights and enable dissolution upon breach.
 
-**Bottom line of Section 6:** The Qur’an mandates kindness, forbids harmful retention or harassment, and frames marriage as mercy and a solemn covenant. The Sunnah adds repeated, explicit commands to treat women well (**“استوصوا بالنساء خيرا”**), condemns wife-beating as conduct of the *worst* men, bans striking the face, and records a Prophet ﷺ who never harmed his wives and actively helped at home. Abuse is *ẓulm*; Islamic law provides remedies against it.
+**Bottom line of Section 5:** The Qur’an mandates kindness, forbids harmful retention or harassment, and frames marriage as mercy and a solemn covenant. The Sunnah adds repeated, explicit commands to treat women well (**“استوصوا بالنساء خيرا”**), condemns wife-beating as conduct of the *worst* men, bans striking the face, and records a Prophet ﷺ who never harmed his wives and actively helped at home. Abuse is *ẓulm*; Islamic law provides remedies against it.
 
 ## 6. Islam’s core ethos: mercy, love, and compassion
 Any reading of Qur’an 4:34 must be measured against the Qur’an’s *overarching principles*. The central values of Islam are mercy, compassion, and mutual love:
