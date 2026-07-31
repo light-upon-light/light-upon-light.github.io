@@ -168,7 +168,7 @@ share: true
 
 ---
 
-> *Note: These are brief points highlighting key ideas. While more general verification and further details can be found through some research, some links to helpful videos are provided. This page is a work in progress.*
+> *Note: These are brief points highlighting key ideas. While more general verification and further details can be found through some research, some links to helpful videos are provided above. This page is a work in progress.*
 
 ## The Messenger of God ﷺ
 
