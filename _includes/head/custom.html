@@ -1,14 +1,32 @@
 <!-- start custom head snippets -->
 
+<!-- Amiri: designed for Qur'anic typesetting. Loaded so the end-of-ayah marker
+     (U+06DD) encloses its digits and the ornate parentheses (U+FD3E/FD3F)
+     render correctly, rather than depending on the reader's installed fonts. -->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Amiri:wght@400;700&display=swap">
+
 <style>
   /* Qur'anic Arabic (Uthmani script) shown alongside English translations */
   .quran-arabic {
-    font-family: "Scheherazade New", "Amiri", "Noto Naskh Arabic",
+    font-family: "Amiri", "Scheherazade New", "Noto Naskh Arabic",
                  "Traditional Arabic", "Arabic Typesetting", serif;
     font-size: 1.4em;
     line-height: 2.1;
     text-align: right;
     margin: 0.4em 0;
+    /* the theme italicises blockquotes; Arabic has no true italic, so the
+       browser fakes an oblique slant. Cancel it. */
+    font-style: normal;
+  }
+
+  /* trailing reference: end-of-ayah marker for whole verses,
+     [surah: number] for partial quotations */
+  .quran-arabic .ayah-ref {
+    font-size: 0.75em;
+    opacity: 0.7;
+    white-space: nowrap;
   }
 </style>
 
