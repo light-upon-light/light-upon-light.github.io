@@ -155,10 +155,24 @@ independent things break, and both were shipped and reverted:
   like the fix and is not one.
 
 Cloning sidesteps both: the article is never touched, and the panel is already
-a child of `<body>`. The cost is the scrollspy `.active` highlight, which stays
-bound to the original node and does not follow the clone. The theme's `.toc` /
-`.toc__menu` rules are unscoped, so the clone is styled for free. Keep the
-clone's ids unique — only the cloned `nav` gets one (`toc-drawer`).
+a child of `<body>`. The theme's `.toc` / `.toc__menu` rules are unscoped, so
+the clone is styled for free. Keep the clone's ids unique — only the clone's
+root gets one (`toc-drawer`).
+
+**The clone is a `<div class="toc">`, never a `<nav>`.** The theme drives its
+scrollspy with `new Gumshoe("nav.toc a")`, and Gumshoe resolves duplicate links
+to the *last* match in document order. A cloned `<nav class="toc">` therefore
+steals the highlight from the real TOC and keeps it even at desktop width,
+where the panel is `display: none` and the sticky sidebar is the only TOC on
+screen — the visible one silently stops highlighting anything. A `div` keeps
+the styling and misses the selector; `role="navigation"` and `aria-label`
+restore the landmark. `syncActive()` then copies the current `li.active` onto
+the clone by matching `href` when the panel opens, so both highlight. Once per
+open is enough: the backdrop blocks scrolling, so the section cannot change
+while the panel is up.
+
+Check this at *both* widths. The desktop breakage is invisible from a phone
+viewport, and vice versa.
 
 **The scroll lock cannot be the theme's `overflow--hidden`.** `overflow: hidden`
 on `<body>` establishes a block formatting context, and reflowing the theme's

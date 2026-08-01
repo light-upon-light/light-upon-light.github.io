@@ -253,8 +253,19 @@
       // home and about have no TOC; hide that button and keep back-to-top
       nav.classList.add("no-toc");
     } else {
-      drawer = sourceToc.cloneNode(true);
+      /* A <div>, deliberately, not a <nav>. The theme drives its scrollspy
+         with `new Gumshoe("nav.toc a")`, and Gumshoe resolves duplicate links
+         to the *last* match in document order — so a cloned <nav class="toc">
+         steals the highlight from the real TOC and holds it even at desktop
+         width, where the panel is `display: none` and the sticky sidebar is
+         the only one on screen. Not matching that selector leaves the real
+         TOC alone; syncActive() mirrors the state back on open. */
+      drawer = document.createElement("div");
+      drawer.className = sourceToc.className;
       drawer.id = "toc-drawer";
+      drawer.setAttribute("role", "navigation");
+      drawer.setAttribute("aria-label", "Table of contents");
+      drawer.innerHTML = sourceToc.innerHTML;
 
       panel = document.createElement("div");
       panel.id = "toc-panel";
@@ -324,9 +335,32 @@
       }
     }
 
+    /* Copy the scrollspy's current highlight from the real TOC onto the
+       clone. Doing it once per open is enough: the backdrop blocks scrolling
+       while the panel is up, so the reader cannot leave the section. */
+    function syncActive() {
+      if (!drawer || !sourceToc) return;
+
+      var stale = drawer.querySelectorAll(".active");
+      for (var i = 0; i < stale.length; i++) stale[i].classList.remove("active");
+
+      var current = sourceToc.querySelector("li.active > a, li.active a");
+      if (!current) return;
+
+      var href = current.getAttribute("href");
+      var links = drawer.querySelectorAll("a[href]");
+      for (var j = 0; j < links.length; j++) {
+        if (links[j].getAttribute("href") !== href) continue;
+        var li = links[j].closest("li");
+        if (li) li.classList.add("active");
+        return;
+      }
+    }
+
     function openDrawer() {
       if (!panel || isOpen()) return;
       window.clearTimeout(closeTimer);
+      syncActive();
 
       backdrop.hidden = false;
       // force a reflow so the fade has a starting point to run from
