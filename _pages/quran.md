@@ -21,7 +21,7 @@ share: true
 ### Mode of Revelation
 
 1. Revealed **entirely by oral recitation** through Prophet Muhammad ﷺ, a bedouin man in the desert who could **neither read nor write** more than 1400 years ago.
-1. Revealed over 23 years, in **partial portions** and **out of order**, often in direct response to unforeseen events (which would make long-term preplanning impossible). And then when put in place they fit together like a majestic  literary puzzle.
+1. Revealed over 23 years, in **partial portions** and **out of order**, often in direct response to unforeseen events (which would make long-term preplanning impossible). And then when put in place they fit together like a majestic literary puzzle.
 1. **One shot wonder**: Once revealed and spoken, verses were **fixed permanently** without **retraction** or **alteration**, yet together they form a perfectly coherent whole.
 1. The Qur'an itself affirms the **Prophet's ﷺ non-literacy**.
     > “You ˹O Prophet˺ could not read any writing ˹even˺ before this ˹revelation˺, nor could you write at all. Otherwise, the people of falsehood would have been suspicious.” (**Al-‘Ankabut 29:48**)
@@ -100,7 +100,7 @@ share: true
 1. Very **accurate historical information**, some of which was only confirmed recently by modern historians.
     > [The Qur'an and the Secrets of Egypt](https://youtu.be/c2ovILc_sKY)
 1. Tells stories from the Bible, but precisely **avoids** and **corrects** its **historical inaccuracies**.
-    > e.g. Title of Pharoah vs King at time of Moses vs Jospeh, Jews few in number at the time of the exodus, etc.
+    > e.g. Title of Pharaoh vs King at time of Moses vs Joseph, Jews few in number at the time of the exodus, etc.
 
     > [Stories of the Prophets: Bible vs. Qur'an](https://youtu.be/lEc_ilaHim8)
 
@@ -123,25 +123,25 @@ share: true
 
     > [How To Prove The Quran Has Been Preserved Accurately](https://youtu.be/n281Zyywyn4)
 1. It is **easily memorized**. It is common and normal for muslims to memorize its 600+ pages fully. There are **millions of people** today who have it **memorized** from **cover to cover** perfectly.
-    > The majoriy of which are non-native Arabic speakers. In fact, Arabic is not the first language of around 80% of Muslims today.
+    > The majority of which are non-native Arabic speakers. In fact, Arabic is not the first language of around 80% of Muslims today.
 
     > [MIRACLE OF QURAN MEMORIZATION](https://youtu.be/s3WIOc2fHc0)
 
     > [How can the Qur'an be a Miracle for NON-ARABIC Speakers? \| Arabic101](https://youtu.be/5fyF-35naDE)
-1. If somehow all the physical evidence of the Qur'an **suddenly disappeared**, we would be able to immediatlty **recreate it perfectly** from people's memories.
+1. If somehow all the physical evidence of the Qur'an **suddenly disappeared**, we would be able to immediately **recreate it perfectly** from people's memories.
 
 ### Prophecies
 
 1. **Prophesies** its own widespread.
-    > "He is the One Who has sent His Messenger with ˹right˺ guidance and the religion of truth, making it prevail over all others. And sufficient is Allah as a Witness." (**Al-Fath (48:28)**)
+    > "He is the One Who has sent His Messenger with ˹right˺ guidance and the religion of truth, making it prevail over all others. And sufficient is Allah as a Witness." (**Al-Fath 48:28**)
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿هُوَ ٱلَّذِىٓ أَرْسَلَ رَسُولَهُۥ بِٱلْهُدَىٰ وَدِينِ ٱلْحَقِّ لِيُظْهِرَهُۥ عَلَى ٱلدِّينِ كُلِّهِۦ ۚ وَكَفَىٰ بِٱللَّهِ شَهِيدًۭا ۝٢٨﴾ <span class="ayah-ref">سُورَةُ الفَتۡحِ</span></div>
 1. **Prophesies** its own **perfect preservation** and that God will protect it until the end of time.
-    > "Indeed, it is We who sent down the message [i.e., the Qur’ān], and indeed, We will be its guardian." (**Al-Hijr (15:9)**)
+    > "Indeed, it is We who sent down the message [i.e., the Qur’ān], and indeed, We will be its guardian." (**Al-Hijr 15:9**)
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿إِنَّا نَحْنُ نَزَّلْنَا ٱلذِّكْرَ وَإِنَّا لَهُۥ لَحَٰفِظُونَ ۝٩﴾ <span class="ayah-ref">سُورَةُ الحِجۡرِ</span></div>
 
-    > "The Word of your Lord has been perfected in truth and justice. None can change His Words. And He is the All-Hearing, All- Knowing." (**Al-An’am (6:115)**)
+    > "The Word of your Lord has been perfected in truth and justice. None can change His Words. And He is the All-Hearing, All-Knowing." (**Al-An'am 6:115**)
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَتَمَّتْ كَلِمَتُ رَبِّكَ صِدْقًۭا وَعَدْلًۭا ۚ لَّا مُبَدِّلَ لِكَلِمَٰتِهِۦ ۚ وَهُوَ ٱلسَّمِيعُ ٱلْعَلِيمُ ۝١١٥﴾ <span class="ayah-ref">سُورَةُ الأَنۡعَامِ</span></div>
 1. **Prophesies** its own **ease of memorization**:
@@ -149,7 +149,7 @@ share: true
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَلَقَدْ يَسَّرْنَا ٱلْقُرْءَانَ لِلذِّكْرِ فَهَلْ مِن مُّدَّكِرٍۢ ۝١٧﴾ <span class="ayah-ref">سُورَةُ القَمَرِ</span></div>
 1. Contains many other fulfilled **future prophecies**:
-    > e.g. Defeat of those who try to outdo the Qur'an, Defeat of Meccan opposition, Abu Lahab's eternal loss, Preservation of the drowned Pharoah's body, the defeat and victory of byzantium, etc.
+    > e.g. Defeat of those who try to outdo the Qur'an, Defeat of Meccan opposition, Abu Lahab's eternal loss, Preservation of the drowned Pharaoh's body, the defeat and victory of Byzantium, etc.
 
     > [Mind Blowing Prophecies of Muhammad \| Part 1](https://youtu.be/xZIqd_-1Zus)
 
@@ -168,7 +168,7 @@ share: true
 
 ---
 
-> *Note: These are brief points highlighting key ideas. While more general verification and further details can be found through some research, some links to helpful videos are provided above. This page is a work in progress.*
+> *Note: These are brief points highlighting key ideas. While more general verification and further details can be found through some research, some links to helpful videos are provided above.*
 
 ## The Messenger of God ﷺ
 
@@ -236,7 +236,7 @@ share: true
 
     > [Love & Faith \| Al-Habib Ali Al-Jifri](https://youtu.be/TD3jqd-YWec)
 
-- Is the Shari'ah law really cruel like  what is portrayed in Western media?
+- Is the Shari'ah law really cruel like what is portrayed in Western media?
     > [What the West Needs to Know About the Shari'ah \| Blogging Theology](https://youtu.be/AHOH_t03sIc)
 
 - Is the Qur'an really preserved as it was revealed?
@@ -264,10 +264,10 @@ share: true
 > Some teachings, verses, and historical events are frequently misunderstood, quoted without context, or misrepresented. This section examines some of the most common claims about Islam and provides the relevant historical, linguistic, and scholarly context, while considering the broader context of the Qur’an, the teachings of Prophet Muhammad ﷺ, and Islam’s core message as a whole, to help readers evaluate these topics fairly.
 
 - Islam and domestic violence
-    > [link to page](/wadribuhunna)
+    > [Islam and the Misreading of Qur'an 4:34](/wadribuhunna)
 
 - Prophet Muhammad's marriage to our mother Aisha
-    > [link to page](/aisha)
+    > [The Prophet Muhammad's Marriage to Aisha](/aisha)
 
 ## Other useful links
 - [Is It Hypocritical for Muslims to Criticize Non-Muslim Occupation If Classical Islamic Law Permits Muslims to Rule over Non-Muslims?](https://seekersguidance.org/answers/general-answers-feeds/is-it-hypocritical-for-muslims-to-criticize-non-muslim-occupation-if-classical-islamic-law-permits-muslims-to-rule-over-non-muslims/)

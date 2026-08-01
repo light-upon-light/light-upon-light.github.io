@@ -10,11 +10,12 @@ toc: true
 toc_label: "Table of Contents"
 toc_icon: "bars"
 toc_sticky: true
+toc_levels: 2..3
 
 share: true
 ---
 
-[< Back to main page](/quran)
+[< Back to Qur'an: A Divine Miracle](/quran)
 
 The Prophet Muhammad's ﷺ marriage to Aisha (may God be pleased with her) is among the most common objections raised against Islam. The traditional sources give her age as nine when she entered his household, and the objection treats everything after that as settled.
 
@@ -56,8 +57,7 @@ The reply that puberty settles the question is equally inadequate. Islamic reaso
 
 The Qur'an keeps physical readiness and judgment distinct in its treatment of orphans' property:
 
-> "Test the orphans until they reach marriageable age. Then, if you perceive sound judgment in them, release their property to them."
-> — Qur'an 4:6
+> "Test the orphans until they reach marriageable age. Then, if you perceive sound judgment in them, release their property to them." — Qur'an 4:6
 >
 > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَٱبْتَلُوا۟ ٱلْيَتَٰمَىٰ حَتَّىٰٓ إِذَا بَلَغُوا۟ ٱلنِّكَاحَ فَإِنْ ءَانَسْتُم مِّنْهُمْ رُشْدًۭا فَٱدْفَعُوٓا۟ إِلَيْهِمْ أَمْوَٰلَهُمْ﴾ <span class="ayah-ref">[سُورَةُ النِّسَاءِ: ٦]</span></div>
 
@@ -105,19 +105,19 @@ Accepting the accusation means setting aside almost everything else known about 
 
 **The Qur'an's description.** It calls him "truly a man of outstanding character" (68:4) and "a mercy to all worlds" (21:107). It tells him that his gentleness held people to him and that harshness would have scattered them (3:159), and describes him as distressed by the suffering of others (9:128). Asked to characterise him, Aisha said that his character was the Qur'an.[^3]
 
-> "Truly a man of outstanding character." — 68:4
+> "Truly a man of outstanding character." — Qur'an 68:4
 >
 > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَإِنَّكَ لَعَلَىٰ خُلُقٍ عَظِيمٍۢ ۝٤﴾ <span class="ayah-ref">سُورَةُ القَلَمِ</span></div>
->
-> "A mercy to all worlds." — 21:107
+
+> "A mercy to all worlds." — Qur'an 21:107
 >
 > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَمَآ أَرْسَلْنَٰكَ إِلَّا رَحْمَةًۭ لِّلْعَٰلَمِينَ ۝١٠٧﴾ <span class="ayah-ref">سُورَةُ الأَنبِيَاءِ</span></div>
->
-> "So by mercy from Allah, you were lenient with them. And if you had been rude and harsh in heart, they would have disbanded from about you." — 3:159
+
+> "So by mercy from Allah, you were lenient with them. And if you had been rude and harsh in heart, they would have disbanded from about you." — Qur'an 3:159
 >
 > <div dir="rtl" lang="ar" class="quran-arabic">﴿فَبِمَا رَحْمَةٍۢ مِّنَ ٱللَّهِ لِنتَ لَهُمْ ۖ وَلَوْ كُنتَ فَظًّا غَلِيظَ ٱلْقَلْبِ لَٱنفَضُّوا۟ مِنْ حَوْلِكَ﴾ <span class="ayah-ref">[سُورَةُ آلِ عِمۡرَانَ: ١٥٩]</span></div>
->
-> "There has certainly come to you a Messenger from among yourselves. Grievous to him is what you suffer; he is concerned over you and to the believers is kind and merciful." — 9:128
+
+> "There has certainly come to you a Messenger from among yourselves. Grievous to him is what you suffer; he is concerned over you and to the believers is kind and merciful." — Qur'an 9:128
 >
 > <div dir="rtl" lang="ar" class="quran-arabic">﴿لَقَدْ جَآءَكُمْ رَسُولٌۭ مِّنْ أَنفُسِكُمْ عَزِيزٌ عَلَيْهِ مَا عَنِتُّمْ حَرِيصٌ عَلَيْكُم بِٱلْمُؤْمِنِينَ رَءُوفٌۭ رَّحِيمٌۭ ۝١٢٨﴾ <span class="ayah-ref">سُورَةُ التَّوۡبَةِ</span></div>
 
@@ -213,7 +213,7 @@ Muslims hold that this marriage, like the rest of the Prophet's ﷺ life, unfold
 
 **Two households.** The marriage bound the Prophet's ﷺ family to that of Abu Bakr, his closest companion, his companion on the migration, and the man who led the community after him.
 
-**The revelation on slander.** When rumour accused Aisha of adultery, the Qur'an answered in Surah al-Nur, and the answer became permanent law: accusations require proof, believers owe one another good faith, repeating a rumour is itself an offence, and the destruction of a reputation ranks among the graver ones.
+**The revelation on slander.** When rumour accused Aisha of adultery, the Qur'an answered in Sūrat al-Nūr, and the answer became permanent law: accusations require proof, believers owe one another good faith, repeating a rumour is itself an offence, and the destruction of a reputation ranks among the graver ones.
 
 **A record of marital affection.** He joked with his wife, raced her, listened to her, noticed her moods, drank from the place on the cup where her lips had been, and said publicly that he loved her. Tenderness toward a wife entered Islam as part of the prophetic example rather than as a private matter. The same narrations show him tired, amused, or at prayer through the night, which is why the biography reads as a life rather than a legend.
 
@@ -305,52 +305,48 @@ Aisha outlived her husband by close to fifty years, under no one's authority, an
 
 ---
 
-## References
+[< Back to Qur'an: A Divine Miracle](/quran)
 
-[^1]: *Sahih al-Bukhari*, Book of Marriage, hadiths 5133 and 5158; *Sahih Muslim*, Book of Marriage, hadith 1422.
+## Further reading
+
+[^1]: *Ṣaḥīḥ al-Bukhārī*, Book of Marriage, hadiths 5133 and 5158; *Ṣaḥīḥ Muslim*, Book of Marriage, hadith 1422.
 
 [^2]: Joshua Little, *The Hadith of ʿĀʾisha's Marital Age: A Study in the Evolution of Early Islamic Historical Memory* (University of Oxford, DPhil thesis, 2023).
 
-[^3]: *Sahih Muslim*, hadith 746.
+[^3]: *Ṣaḥīḥ Muslim*, hadith 746.
 
-[^4]: *Sahih al-Bukhari*, hadith 6459; *Sahih Muslim*, hadith 2972.
+[^4]: *Ṣaḥīḥ al-Bukhārī*, hadith 6459; *Ṣaḥīḥ Muslim*, hadith 2972.
 
-[^5]: *Jami al-Tirmidhi*, hadith 3895; *Sunan Ibn Majah*, hadith 1977.
+[^5]: *Jāmiʿ al-Tirmidhī*, hadith 3895; *Sunan Ibn Mājah*, hadith 1977.
 
-[^6]: *Sahih Muslim*, hadith 2328.
+[^6]: *Ṣaḥīḥ Muslim*, hadith 2328.
 
-[^7]: *Sahih al-Bukhari*, hadith 710.
+[^7]: *Ṣaḥīḥ al-Bukhārī*, hadith 710.
 
-[^8]: *Sahih al-Bukhari*, hadith 5997; *Sahih Muslim*, hadith 2318.
+[^8]: *Ṣaḥīḥ al-Bukhārī*, hadith 5997; *Ṣaḥīḥ Muslim*, hadith 2318.
 
-[^9]: *Sahih al-Bukhari*, hadith 3818; *Sahih Muslim*, hadith 2435.
+[^9]: *Ṣaḥīḥ al-Bukhārī*, hadith 3818; *Ṣaḥīḥ Muslim*, hadith 2435.
 
-[^10]: *Sahih al-Bukhari*, hadith 4358; *Sahih Muslim*, hadith 2384.
+[^10]: *Ṣaḥīḥ al-Bukhārī*, hadith 4358; *Ṣaḥīḥ Muslim*, hadith 2384.
 
-[^11]: *Sunan Abi Dawud*, hadith 2578.
+[^11]: *Sunan Abī Dāwūd*, hadith 2578.
 
-[^12]: *Sahih al-Bukhari*, hadith 5228; *Sahih Muslim*, hadith 2439.
+[^12]: *Ṣaḥīḥ al-Bukhārī*, hadith 5228; *Ṣaḥīḥ Muslim*, hadith 2439.
 
-[^13]: *Sahih al-Bukhari*, hadith 6130.
+[^13]: *Ṣaḥīḥ al-Bukhārī*, hadith 6130.
 
 [^14]: al-Zarkashi, *Al-Ijaba li-Irad ma Istadrakathu Aisha ala al-Sahaba*.
 
-[^15]: *Jami al-Tirmidhi*, hadith 3883.
-
-### Further reading
+[^15]: *Jāmiʿ al-Tirmidhī*, hadith 3883.
 
 Qur'an 3:159; 4:6; 9:128; 21:107; 24:11–20; 68:4.
 
-#### Classical biographical and scholarly works
+### Classical biographical and scholarly works
 
 - al-Dhahabi, *Siyar Alam al-Nubala'*
 - Ibn Hajar al-Asqalani, *Al-Isaba fi Tamyiz al-Sahaba*
 - al-Zarkashi, *Al-Ijaba li-Irad ma Istadrakathu Aisha ala al-Sahaba*
 
-#### Modern scholarship
+### Modern scholarship
 
 - Joshua Little, *The Hadith of ʿĀʾisha's Marital Age: A Study in the Evolution of Early Islamic Historical Memory* (University of Oxford, DPhil thesis, 2023)
-
----
-
-[< Back to main page](/quran)

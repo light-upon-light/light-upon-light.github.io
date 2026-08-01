@@ -22,6 +22,8 @@ One of the most cited accusations against Islam is the claim that it sanctions d
 
 ## The verse in question
 
+> "Men are the caretakers of women, as men have been provisioned by Allah over women and tasked with supporting them financially. And righteous women are devoutly obedient and, when alone, protective of what Allah has entrusted them with. And if you sense ill-conduct from your women, advise them ˹first˺, ˹if they persist,˺ do not share their beds, ˹but if they still persist,˺ then discipline them ˹gently˺. But if they change their ways, do not be unjust to them. Surely Allah is Most High, All-Great." (**Sūrat al-Nisāʾ 4:34**), Dr. Mustafa Khattab, *The Clear Quran*
+>
 > <div dir="rtl" lang="ar" class="quran-arabic">﴿ٱلرِّجَالُ قَوَّٰمُونَ عَلَى ٱلنِّسَآءِ بِمَا فَضَّلَ ٱللَّهُ بَعْضَهُمْ عَلَىٰ بَعْضٍۢ وَبِمَآ أَنفَقُوا۟ مِنْ أَمْوَٰلِهِمْ ۚ فَٱلصَّٰلِحَٰتُ قَٰنِتَٰتٌ حَٰفِظَٰتٌۭ لِّلْغَيْبِ بِمَا حَفِظَ ٱللَّهُ ۚ وَٱلَّٰتِى تَخَافُونَ نُشُوزَهُنَّ فَعِظُوهُنَّ وَٱهْجُرُوهُنَّ فِى ٱلْمَضَاجِعِ وَٱضْرِبُوهُنَّ ۖ فَإِنْ أَطَعْنَكُمْ فَلَا تَبْغُوا۟ عَلَيْهِنَّ سَبِيلًا ۗ إِنَّ ٱللَّهَ كَانَ عَلِيًّۭا كَبِيرًۭا ۝٣٤﴾ <span class="ayah-ref">سُورَةُ النِّسَاءِ</span></div>
 
 ## 1. The elasticity of the word *daraba*
@@ -30,7 +32,7 @@ One of the most cited accusations against Islam is the claim that it sanctions d
 - Even those who read it as a physical act explicitly ruled out harm. They stressed it must be **symbolic, non-injurious, and closer to a gesture than an act of violence.**
 
 ## 2. Prophetic example as the living interpretation of the Qur'an
-- The Qur’an itself commands: *“Indeed, in the Messenger of Allah you have an excellent example”* (33:21).
+- The Qur’an itself commands: *“Indeed, in the Messenger of Allah you have an excellent example”* (**Sūrat al-Aḥzāb 33:21**).
   > <div dir="rtl" lang="ar" class="quran-arabic">﴿لَّقَدْ كَانَ لَكُمْ فِى رَسُولِ ٱللَّهِ أُسْوَةٌ حَسَنَةٌۭ﴾ <span class="ayah-ref">[سُورَةُ الأَحۡزَابِ: ٢١]</span></div>
 - Authentic reports state:
   > “The Messenger of Allah never struck anything with his hand, neither a woman nor a servant…” (Ṣaḥīḥ Muslim).
@@ -55,47 +57,47 @@ One of the most cited accusations against Islam is the claim that it sanctions d
 Beyond its general ethos, Islam provides explicit, repeated instructions regarding the treatment of women, especially wives. These verses and sayings of the Prophet ﷺ are unambiguous:
 
 ### A) Qur’anic directives and protections
-- **Kindness as the rule:** *“Live with them in kindness.”* (4:19)
+- **Kindness as the rule:** *“Live with them in kindness.”* (**Sūrat al-Nisāʾ 4:19**)
   > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَعَاشِرُوهُنَّ بِٱلْمَعْرُوفِ﴾ <span class="ayah-ref">[سُورَةُ النِّسَاءِ: ١٩]</span></div>
-- **No harm in retention/divorce:** *“Do not retain them to harm them so that you transgress.”* (2:231)
+- **No harm in retention/divorce:** *“Do not retain them to harm them so that you transgress.”* (**Sūrat al-Baqarah 2:231**)
   > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَلَا تُمْسِكُوهُنَّ ضِرَارًۭا لِّتَعْتَدُوا۟﴾ <span class="ayah-ref">[سُورَةُ البَقَرَةِ: ٢٣١]</span></div>
-- *“Do not forget graciousness between you.”* (2:237)
+- *“Do not forget graciousness between you.”* (**Sūrat al-Baqarah 2:237**)
   > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَلَا تَنسَوُا۟ ٱلْفَضْلَ بَيْنَكُمْ﴾ <span class="ayah-ref">[سُورَةُ البَقَرَةِ: ٢٣٧]</span></div>
-- **Grace even when parting:** *“Keep in kindness or release with excellence.”* (2:229)
+- **Grace even when parting:** *“Keep in kindness or release with excellence.”* (**Sūrat al-Baqarah 2:229**)
   > <div dir="rtl" lang="ar" class="quran-arabic">﴿فَإِمْسَاكٌۢ بِمَعْرُوفٍ أَوْ تَسْرِيحٌۢ بِإِحْسَٰنٍۢ﴾ <span class="ayah-ref">[سُورَةُ البَقَرَةِ: ٢٢٩]</span></div>
-- **No obstruction of remarriage:** *“Do not prevent them from remarrying their ˹former˺ husbands if they agree among themselves on an acceptable basis.”* (2:232)
+- **No obstruction of remarriage:** *“Do not prevent them from remarrying their ˹former˺ husbands if they agree among themselves on an acceptable basis.”* (**Sūrat al-Baqarah 2:232**)
   > <div dir="rtl" lang="ar" class="quran-arabic">﴿فَلَا تَعْضُلُوهُنَّ أَن يَنكِحْنَ أَزْوَٰجَهُنَّ إِذَا تَرَٰضَوْا۟ بَيْنَهُم بِٱلْمَعْرُوفِ﴾ <span class="ayah-ref">[سُورَةُ البَقَرَةِ: ٢٣٢]</span></div>
-- **Mutual protection/intimacy:** *“They are a garment for you and you are a garment for them.”* (2:187)
+- **Mutual protection/intimacy:** *“They are a garment for you and you are a garment for them.”* (**Sūrat al-Baqarah 2:187**)
   > <div dir="rtl" lang="ar" class="quran-arabic">﴿هُنَّ لِبَاسٌۭ لَّكُمْ وَأَنتُمْ لِبَاسٌۭ لَّهُنَّ﴾ <span class="ayah-ref">[سُورَةُ البَقَرَةِ: ١٨٧]</span></div>
-- **Tranquility, love, mercy as the marital aim:** *“And among His signs is that He created for you from yourselves spouses that you may find tranquility in them, and He placed between you love (mawadda) and mercy (raḥma).”* (30:21)
+- **Tranquility, love, mercy as the marital aim:** *“And among His signs is that He created for you from yourselves spouses that you may find tranquility in them, and He placed between you love (mawadda) and mercy (raḥma).”* (**Sūrat al-Rūm 30:21**)
   > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَمِنْ ءَايَٰتِهِۦٓ أَنْ خَلَقَ لَكُم مِّنْ أَنفُسِكُمْ أَزْوَٰجًۭا لِّتَسْكُنُوٓا۟ إِلَيْهَا وَجَعَلَ بَيْنَكُم مَّوَدَّةًۭ وَرَحْمَةً﴾ <span class="ayah-ref">[سُورَةُ الرُّومِ: ٢١]</span></div>
-- **Arbitration before breakdown:** *“Appoint an arbiter from his people and an arbiter from hers.”* (4:35)
+- **Arbitration before breakdown:** *“Appoint an arbiter from his people and an arbiter from hers.”* (**Sūrat al-Nisāʾ 4:35**)
   > <div dir="rtl" lang="ar" class="quran-arabic">﴿فَٱبْعَثُوا۟ حَكَمًۭا مِّنْ أَهْلِهِۦ وَحَكَمًۭا مِّنْ أَهْلِهَآ﴾ <span class="ayah-ref">[سُورَةُ النِّسَاءِ: ٣٥]</span></div>
-- **No harassment during ‘iddah:** *“Do not harm them so as to distress them.”* (65:6)
+- **No harassment during ‘iddah:** *“Do not harm them so as to distress them.”* (**Sūrat al-Ṭalāq 65:6**)
   > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَلَا تُضَآرُّوهُنَّ لِتُضَيِّقُوا۟ عَلَيْهِنَّ﴾ <span class="ayah-ref">[سُورَةُ الطَّلَاقِ: ٦]</span></div>
-- **Reconciliation is best:** *“There is no sin upon them if they make terms of settlement between them—and settlement is best.”* (4:128)
+- **Reconciliation is best:** *“There is no sin upon them if they make terms of settlement between them—and settlement is best.”* (**Sūrat al-Nisāʾ 4:128**)
   > <div dir="rtl" lang="ar" class="quran-arabic">﴿فَلَا جُنَاحَ عَلَيْهِمَآ أَن يُصْلِحَا بَيْنَهُمَا صُلْحًۭا ۚ وَٱلصُّلْحُ خَيْرٌۭ﴾ <span class="ayah-ref">[سُورَةُ النِّسَاءِ: ١٢٨]</span></div>
-- **Believing men and women are allies/protectors of each other:** *“The believing men and believing women are allies of one another.”* (9:71)
+- **Believing men and women are allies/protectors of each other:** *“The believing men and believing women are allies of one another.”* (**Sūrat al-Tawbah 9:71**)
   > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَٱلْمُؤْمِنُونَ وَٱلْمُؤْمِنَٰتُ بَعْضُهُمْ أَوْلِيَآءُ بَعْضٍۢ﴾ <span class="ayah-ref">[سُورَةُ التَّوۡبَةِ: ٧١]</span></div>
-- **Equal moral agency and reward:** *“Whoever does righteousness, whether male or female, while he is a believer—We will surely cause him to live a good life, and We will surely give them their reward according to the best of what they used to do.”* (16:97)
+- **Equal moral agency and reward:** *“Whoever does righteousness, whether male or female, while he is a believer—We will surely cause him to live a good life, and We will surely give them their reward according to the best of what they used to do.”* (**Sūrat al-Naḥl 16:97**)
   > <div dir="rtl" lang="ar" class="quran-arabic">﴿مَنْ عَمِلَ صَٰلِحًۭا مِّن ذَكَرٍ أَوْ أُنثَىٰ وَهُوَ مُؤْمِنٌۭ فَلَنُحْيِيَنَّهُۥ حَيَوٰةًۭ طَيِّبَةًۭ ۖ وَلَنَجْزِيَنَّهُمْ أَجْرَهُم بِأَحْسَنِ مَا كَانُوا۟ يَعْمَلُونَ ۝٩٧﴾ <span class="ayah-ref">سُورَةُ النَّحۡلِ</span></div>
-- **Men and women listed as equals, promised the same reward:** *“Indeed, the Muslim men and Muslim women, the believing men and believing women… for them Allah has prepared forgiveness and a great reward.”* (33:35)
+- **Men and women listed as equals, promised the same reward:** *“Indeed, the Muslim men and Muslim women, the believing men and believing women… for them Allah has prepared forgiveness and a great reward.”* (**Sūrat al-Aḥzāb 33:35**)
   > <div dir="rtl" lang="ar" class="quran-arabic">﴿إِنَّ ٱلْمُسْلِمِينَ وَٱلْمُسْلِمَٰتِ وَٱلْمُؤْمِنِينَ وَٱلْمُؤْمِنَٰتِ وَٱلْقَٰنِتِينَ وَٱلْقَٰنِتَٰتِ وَٱلصَّٰدِقِينَ وَٱلصَّٰدِقَٰتِ وَٱلصَّٰبِرِينَ وَٱلصَّٰبِرَٰتِ وَٱلْخَٰشِعِينَ وَٱلْخَٰشِعَٰتِ وَٱلْمُتَصَدِّقِينَ وَٱلْمُتَصَدِّقَٰتِ وَٱلصَّٰٓئِمِينَ وَٱلصَّٰٓئِمَٰتِ وَٱلْحَٰفِظِينَ فُرُوجَهُمْ وَٱلْحَٰفِظَٰتِ وَٱلذَّٰكِرِينَ ٱللَّهَ كَثِيرًۭا وَٱلذَّٰكِرَٰتِ أَعَدَّ ٱللَّهُ لَهُم مَّغْفِرَةًۭ وَأَجْرًا عَظِيمًۭا ۝٣٥﴾ <span class="ayah-ref">سُورَةُ الأَحۡزَابِ</span></div>
 
 ### B) Prophetic commands (verbal)
 - The Prophet ﷺ declared: *“The best of you are those who are best to their wives, and I am the best among you to my wives.”* (Tirmidhī).
-- **“استوصوا بالنساء خيرا” — “Treat women well; I urge you to be good to women.”**
+- **“<span dir="rtl" lang="ar">استوصوا بالنساء خيرا</span>” — “Treat women well; I urge you to be good to women.”**
   — in the Farewell Sermon and other reports *(Ṣaḥīḥ Muslim; also in Bukhārī with related wording).*
-- **“لا تضربوا إماء الله” — “Do not beat the female servants of Allah.”**
+- **“<span dir="rtl" lang="ar">لا تضربوا إماء الله</span>” — “Do not beat the female servants of Allah.”**
   — initial prohibition; later, after complaints reached the Prophet ﷺ about men beating, he said:
-  **“لقد طاف بآل محمد نساءٌ كثير يشكون أزواجهن؛ ليس أولئك بخياركم”**
+  **“<span dir="rtl" lang="ar">لقد طاف بآل محمد نساءٌ كثير يشكون أزواجهن؛ ليس أولئك بخياركم</span>”**
   *“Many women have come to the family of Muhammad complaining about their husbands; those (men) are not the best among you.”* *(Abū Dāwūd, Ibn Mājah).*
-- **“لا يجلد أحدكم امرأته جلد العبد ثم يجامعها في آخر اليوم”**
+- **“<span dir="rtl" lang="ar">لا يجلد أحدكم امرأته جلد العبد ثم يجامعها في آخر اليوم</span>”**
   *“Let none of you flog his wife like a slave, then sleep with her at day’s end.”* *(Bukhārī, Muslim).*
-- **“أوصيكم بالنساء خيرا” / “اتقوا الله في النساء” — “I enjoin you to treat women well; fear God regarding women.”**
+- **“<span dir="rtl" lang="ar">أوصيكم بالنساء خيرا</span>” / “<span dir="rtl" lang="ar">اتقوا الله في النساء</span>” — “I enjoin you to treat women well; fear God regarding women.”**
   — *“For you have taken them by God’s trust (bi-amānati llāh)…”* *(Muslim; Farewell Sermon).*
-- **“النساء شقائق الرجال” — “Women are the counterparts (twin halves) of men.”** *(Abū Dāwūd, Tirmidhī — hasan with supporting routes).*
-- **“اللهم إني أحرج حق الضعيفين: المرأة واليتيم”**
+- **“<span dir="rtl" lang="ar">النساء شقائق الرجال</span>” — “Women are the counterparts (twin halves) of men.”** *(Abū Dāwūd, Tirmidhī — hasan with supporting routes).*
+- **“<span dir="rtl" lang="ar">اللهم إني أحرج حق الضعيفين: المرأة واليتيم</span>”**
   *“O Allah, I strongly enjoin (make sacrosanct) the rights of the two vulnerable ones: the woman and the orphan.”* *(Aḥmad, Ibn Mājah; graded ḥasan by some).*
 
 ### C) Prophetic character and moral example
@@ -104,7 +106,7 @@ Beyond its general ethos, Islam provides explicit, repeated instructions regardi
 - **Handled conflict without humiliation;** reconciled, advised, or took dignified steps rather than harm.
 
 ### D) Legal-ethical maxims and remedies applied to women
-- **“لا ضرر ولا ضرار” — No harm and no reciprocating harm** → abuse is intrinsically unlawful.
+- **“<span dir="rtl" lang="ar">لا ضرر ولا ضرار</span>” — No harm and no reciprocating harm** → abuse is intrinsically unlawful.
 - **Judicial recourse:** harm (*ḍarar*), abandonment, or cruelty can justify **tafrīq** (court-ordered separation) or **khulʿ**; damages/discipline apply to the aggressor.
 - **Contractual safeguards:** conditions in the marriage contract (shurūṭ) enforce rights and enable dissolution upon breach.
 
@@ -114,15 +116,15 @@ Beyond its general ethos, Islam provides explicit, repeated instructions regardi
 Any reading of Qur’an 4:34 must be measured against the Qur’an’s *overarching principles*. The central values of Islam are mercy, compassion, and mutual love:
 
 - **God’s very essence is mercy:** Every chapter of the Qur’an (except one) begins with *“In the name of Allah, the Most Merciful, the Most Compassionate (al-Raḥmān al-Raḥīm).”*
-  > <div dir="rtl" lang="ar" class="quran-arabic">﴿بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ﴾</div>
+  > <div dir="rtl" lang="ar" class="quran-arabic">﴿بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ﴾ <span class="ayah-ref">[سُورَةُ الفَاتِحَةِ: ١]</span></div>
 - **Mercy as the Prophet’s mission:**
-  *“We have not sent you except as a mercy to the worlds.”* (21:107)
+  *“We have not sent you except as a mercy to the worlds.”* (**Sūrat al-Anbiyāʾ 21:107**)
   > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَمَآ أَرْسَلْنَٰكَ إِلَّا رَحْمَةًۭ لِّلْعَٰلَمِينَ ۝١٠٧﴾ <span class="ayah-ref">سُورَةُ الأَنبِيَاءِ</span></div>
 - **Compassion as a divine trait extended to creation:**
-  *“My mercy encompasses all things.”* (7:156)
+  *“My mercy encompasses all things.”* (**Sūrat al-Aʿrāf 7:156**)
   > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَرَحْمَتِى وَسِعَتْ كُلَّ شَىْءٍۢ﴾ <span class="ayah-ref">[سُورَةُ الأَعۡرَافِ: ١٥٦]</span></div>
 - **Mutual love as the basis of human relationships:**
-  *“Indeed, Allah loves those who rely upon Him”* (3:159), *“Allah loves those who do good”* (2:195).
+  *“Indeed, Allah loves those who rely upon Him”* (**Sūrat Āl ʿImrān 3:159**), *“Allah loves those who do good”* (**Sūrat al-Baqarah 2:195**).
   > <div dir="rtl" lang="ar" class="quran-arabic">﴿إِنَّ ٱللَّهَ يُحِبُّ ٱلْمُتَوَكِّلِينَ﴾ <span class="ayah-ref">[سُورَةُ آلِ عِمۡرَانَ: ١٥٩]</span></div>
   >
   > <div dir="rtl" lang="ar" class="quran-arabic">﴿إِنَّ ٱللَّهَ يُحِبُّ ٱلْمُحْسِنِينَ﴾ <span class="ayah-ref">[سُورَةُ البَقَرَةِ: ١٩٥]</span></div>
