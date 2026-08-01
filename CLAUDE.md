@@ -126,6 +126,16 @@ scrollspy `.active` highlighting keep working on the real node. This is safe
 because below `$large` the theme gives that node nothing but `margin-bottom`,
 and no ancestor is transformed, so `position: fixed` behaves.
 
+**The drawer must be reparented to `<body>` while open.** The theme puts
+`animation: intro` on `#main`, and an element with an animation in effect is a
+stacking context — so `z-index` on anything inside `#main` cannot beat the
+body-level backdrop, no matter how large. Left in place the backdrop paints
+*over* the sheet, greying it out and swallowing every tap, which looks like a
+dead drawer. The original parent and next sibling are captured once at load,
+never per-open, so repeated toggles cannot lose the origin. Verify this with
+`document.elementFromPoint` over the sheet: it must return a TOC `<a>`, not
+`#toc-backdrop`. Raising `z-index` is not a fix and will look like one.
+
 Two body classes, not one: `toc-active` mounts the sheet off-screen and
 `toc-open` slides it in. The split is what lets the *close* animate — the node
 has to stay `fixed` until the transition ends, so `toc-active` is removed on a

@@ -219,6 +219,14 @@
     var drawer = document.querySelector(".sidebar__right");
     var toc = drawer ? drawer.querySelector(".toc") : null;
 
+    /* The theme puts `animation: intro` on #main, which makes it a stacking
+       context. Inside it the drawer's z-index cannot beat the body-level
+       backdrop, so the backdrop paints over the sheet and eats every tap.
+       Park the drawer on <body> while it is open and put it back after.
+       Captured once, at load, so repeated toggles cannot lose the origin. */
+    var homeParent = drawer ? drawer.parentNode : null;
+    var homeNext = drawer ? drawer.nextSibling : null;
+
     // home and about have no TOC; hide that button and keep back-to-top
     var closeBtn = null;
 
@@ -280,6 +288,7 @@
       window.clearTimeout(closeTimer);
 
       backdrop.hidden = false;
+      body.appendChild(drawer);
       body.classList.add("toc-active", "overflow--hidden");
       // force a reflow so the slide-in transition has a starting point
       void drawer.offsetHeight;
@@ -302,6 +311,7 @@
         body.classList.remove("toc-active", "overflow--hidden");
         backdrop.hidden = true;
         toc.removeAttribute("tabindex");
+        if (homeParent) homeParent.insertBefore(drawer, homeNext);
       };
 
       if (reduceMotion()) finish();
