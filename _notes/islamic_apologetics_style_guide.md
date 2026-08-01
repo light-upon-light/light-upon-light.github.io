@@ -19,7 +19,10 @@ The goal is to produce writing that is:
 - persuasive without exaggeration;
 - historically informed without reducing morality to historical relativism;
 - intellectually honest without weakening the argument;
+- warm without becoming casual;
 - clear enough for a general reader and rigorous enough to earn trust.
+
+These articles are long and nobody is obliged to finish one. The prose has to earn the next paragraph rather than assume it.
 
 A useful name for this house style is **Reverent Analytical Apologetics**
 
@@ -27,21 +30,48 @@ A useful name for this house style is **Reverent Analytical Apologetics**
 
 ## Core Voice
 
-Write in a **reverent, analytical apologetic style** for an educated general audience.
+Write in a **reverent, analytical apologetic style** for one intelligent reader who is curious, sceptical, and free to close the tab.
 
 The overall voice should be:
 
-- dignified;
-- composed;
+- warm;
+- direct;
+- confident but measured;
 - intellectually serious;
 - textually precise;
 - historically grounded;
 - logically structured;
-- confident but measured;
 - fair-minded toward objections;
+- vivid enough to be remembered;
 - accessible to readers who do not know Arabic or Islamic technical terminology.
 
 The writing should be scholarly enough to earn trust, clear enough for ordinary readers, reverent enough for the subject, and restrained enough to avoid sounding like propaganda.
+
+Dignity comes from the seriousness of the material and the care of the reasoning. It does not have to be manufactured by the diction. Prose that reaches for dignity through formality reads as distant instead, and distance is the one thing this subject cannot afford: a reader who arrives worried, or hostile, or half-persuaded by a critic has to feel spoken to.
+
+### Speak to the reader
+
+Use *you* where the sentence is about the reader's own reaction, knowledge, or likely objection.
+
+Prefer:
+
+> If you grew up somewhere adulthood starts at eighteen, the number nine hits you before you've had a chance to think.
+
+Avoid:
+
+> A reader raised in a society that fixes adulthood at eighteen encounters the number nine with a specific and immediate reaction.
+
+The second version holds the reader at arm's length at exactly the moment the writing should be closest to them. It also spends fourteen words describing a person who is sitting right there.
+
+Reserve *you* for the reader's own position. Do not use it to address the critic, which turns an argument into a confrontation, and do not scatter it through passages of ordinary exposition, where it becomes a tic.
+
+### Use contractions
+
+*Isn't*, *doesn't*, *that's*, *you've*, *he'd*. Their absence alone accounts for much of the stiffness in earlier drafts on this site.
+
+Drop them where a sentence needs weight — a conclusion, a concession, a line the argument turns on — rather than as the default setting. The full form should read as deliberate, which it cannot do if it is the only form available.
+
+Reverence does not require the uncontracted form. *He never struck anyone in his household* and *he didn't strike anyone in his household* are equally respectful; the second is how English is actually spoken.
 
 ---
 
@@ -61,6 +91,8 @@ Use a tone that is:
 - intellectually serious.
 
 Avoid sentimental excess, devotional filler, or declarations of certainty that are not supported by the argument.
+
+Reverence is a matter of what you say about the subject, not the register you say it in. Formality is not reverence and stiffness is not respect. The most reverent sentence in a section is often the plainest one in it.
 
 ---
 
@@ -134,9 +166,9 @@ Avoid unnecessary jargon. When technical language is required, explain why the d
 
 The sections above govern what an article argues. This one governs how the sentences carry it. Most of the difficulty readers actually report comes from below the paragraph, in prose that is well formed sentence by sentence and hard to move through in bulk.
 
-### State the inference; do not imply it
+### State the load-bearing inference; trust the reader with the rest
 
-Where a fact supports a conclusion, write the conclusion as a clause with a subject and a verb. Do not leave it to an aphorism, an implied contrast, or an em dash.
+Where a fact carries the weight of an argument, write the conclusion as a clause with a subject and a verb. Do not leave it to an aphorism, an implied contrast, or an em dash.
 
 Prefer:
 
@@ -147,6 +179,12 @@ Avoid:
 > Power arrived, and the behaviour did not change.
 
 The second version is more elegant and costs the reader a second pass. It states the fact and withholds the middle term that makes the fact matter. Every such sentence transfers work from the writer to the reader, and the reader is the one who has less context.
+
+**The rule is for the steps the argument rests on, and it does real damage applied to all of them.** Prose that states every inference explains itself continuously, restates its own point at each turn, and reads as though it doesn't trust you to have followed. Long stretches of the articles on this site currently read that way. Where a step is one any attentive reader has already taken, leaving it unsaid isn't compression — it's ordinary courtesy, and the paragraph moves faster without it.
+
+The test is whether a reader could reach the next paragraph having drawn the *wrong* conclusion. If they could, state it. If the only risk is that they got there a beat before you said it, cut the sentence.
+
+The same test kills the article's commentary on itself. *The argument of this article is that it does not. Each is taken in turn. The sections that follow answer them one at a time. Two notes on method.* None of these are inferences a reader is at risk of missing; they are the writer narrating the writing. Put the caveat where it bites instead — "'everyone did it back then' is not a defence, and it isn't the one being made here" — or cut it.
 
 A trailing aphorism draws its force from scarcity. Used once in a section it lands. Used in every item it becomes a rhythm the reader stops hearing, and each instance still withholds its middle term. Compression is not concision: concision removes words, compression removes steps.
 
@@ -171,7 +209,13 @@ The devices below delay the point of a sentence. Each is worth its cost occasion
 
 The em dash is not on the list, and no fixed ration applies to it. A pair of dashes enclosing an aside is doing a job no other punctuation does as well, and a single dash before a final clause is often exactly right. What to watch for is the dash used as a substitute for a full stop several sentences running, so that the reader never gets the pause needed to bank one clause before starting the next. That is a symptom of monotony, not of the dash itself.
 
-The same applies to rhetorical questions. One that genuinely turns the argument earns its place; a run of them in place of statements does not.
+Questions are a different case, and an earlier version of this guide was wrong to file them with the devices above. A question is the most natural way to raise a doubt the reader is already having, and it hands them the objection instead of leaving them to formulate it alone:
+
+> So why would he marry someone that young?
+>
+> Was nine the same thing then that it is now?
+
+Ask the question the reader is actually asking, then answer it. What to avoid is the question that isn't one: the loaded prompt with a foregone answer (*Is it any wonder that…?*), and the run of three or four where plain statements would carry the argument better.
 
 ### Prefer positive statements
 
@@ -203,6 +247,29 @@ Prefer verbs to nominalizations, and people to categories.
 | reclassified as brothers, with a concrete legal standard attached rather than a sentiment | called brothers, with a rule attached to the word: feed them what you eat |
 | a mechanism that steadily drained the institution from within | every broken oath set someone free, so the law kept emptying the institution |
 | most of the points admit of some ordinary explanation | taken one at a time, each point has an ordinary explanation |
+
+**Make a person the subject.** The articles on this site are dominated by abstract grammatical subjects — *the objection, the criticism, the record, the reply, the observation, the claim, the term, the process* — and the effect accumulates even where no individual sentence is wrong. A page about people should have people doing things in it.
+
+| Abstract subject | Human subject |
+| --- | --- |
+| The criticism carries its force through a chain of assumptions that are rarely stated | The objection only works because of things nobody says out loud |
+| The reports of their life together do not describe an isolated or frightened young woman | She raced him, teased him, argued with him, and told the whole community about it afterwards |
+| The record supplies the opposite pattern | He spent his twenties, thirties and forties married to one woman, and she was older than he was |
+
+Where the subject genuinely is an argument rather than a person, keep it. The failure is the default, not the individual case.
+
+**Prefer the plain word.** Latinate diction is the other half of the seminar register, and it usually buys nothing.
+
+| Reaching | Plain |
+| --- | --- |
+| imports a specific modern instrument | borrows a modern tool |
+| discloses a sexual preference | tells you what someone wants |
+| premises 2 and 3 carry the weight | premises 2 and 3 do the real work |
+| it establishes less than it appears to | it proves less than it looks like it proves |
+| a claim that cannot be contradicted by any possible evidence | if nothing could ever count against a claim, it has stopped being a claim about history |
+| the avoidance of harm | not harming anyone |
+
+This is not a licence for slang, and the technical vocabulary stays. *ʿAqd*, *rushd*, *maṣlaḥa* and *thayyib* are precise terms with no English equivalent, and they get glossed rather than replaced. What goes is the ordinary English word dressed up: *supplies* for *gives*, *obtains* for *is true*, *consists in* for *is*, *evidences* for *shows*.
 
 Watch for register spikes: a passage of plain narrative interrupted by one sentence in philosophical idiom (*admits of*, *obtains*, *on the present account*, *the evidential value*). The individual sentence is fine. The alternation is what makes a section feel bumpy, because the reader has to change gear on every paragraph.
 
@@ -493,7 +560,24 @@ Never invent a quotation, source, consensus, historical fact, or citation.
 
 ## Organization and Structure
 
-Use descriptive headings that communicate the argument rather than vague labels.
+### Headings
+
+Use descriptive headings that communicate the argument rather than vague labels. Where a section answers a question the reader is already asking, make the heading that question.
+
+| Label | Question |
+| --- | --- |
+| What an age meant | Was nine the same thing then that it is now? |
+| The assumptions the objection depends on | What is the objection quietly assuming? |
+| Consent in Islamic law and in the record | Did she have any say in it? |
+| The cumulative record of his character | What kind of man was he the rest of the time? |
+
+A question heading earns its place twice over. It sets the tone of an answer rather than a lecture, and because readers arrive through a table of contents or a search result, it tells them whether this is the section they came for.
+
+Not every heading should be one. A page of them reads as an FAQ, and a section making a positive case rather than answering a challenge is better as a statement. Use questions for the sections that answer an objection, statements for the sections that build the argument.
+
+### Cut the article's commentary on itself
+
+No section should open by announcing what it is about to do, and none should close by announcing what comes next. *Two notes on method. Each is taken in turn. The sections that follow answer them one at a time. The argument of this article is that it does not.* The headings and the table of contents already do this, and a reader who wants to know the shape of the page can see it.
 
 Preferred section structure:
 
@@ -521,6 +605,19 @@ Conclusions should synthesize the reasoning rather than merely repeat the introd
 ---
 
 ## Preferred Language
+
+The formulations below are the analytical backbone of the style and they are precise. They are also the single biggest source of its stiffness, because a section where every paragraph opens from this list reads as a seminar transcript. Vary them, and take the plainer version wherever nothing is lost:
+
+| Formal | Plainer |
+| --- | --- |
+| “This objection assumes that…” | “That only follows if you already believe…” |
+| “The relevant distinction is…” | “There's a difference between X and Y, and it matters here.” |
+| “This conclusion does not follow unless…” | “The conclusion needs one more thing to be true, and it isn't.” |
+| “The criticism conflates…” | “The criticism runs two different things together.” |
+| “The available evidence supports…” | “Here is what the sources actually show.” |
+| “A fair assessment must distinguish…” | “Two things are worth keeping apart here.” |
+
+Both columns are usable and the formal one is often right, particularly where a distinction has to be exact. The fault is the monotony, not the phrase.
 
 Use formulations such as:
 
@@ -581,7 +678,11 @@ Also avoid, at the level of the sentence:
 - stacked appositives between a subject and its verb;
 - register spikes into philosophical idiom (*admits of*, *obtains*, *the evidential value*);
 - the passive voice combined with a negation;
-- runs of sentences built to the same shape.
+- runs of sentences built to the same shape;
+- abstract nouns as the subject of nearly every sentence in a passage;
+- uncontracted forms used by default rather than for weight;
+- the article narrating its own structure;
+- a formal synonym where the ordinary word would do (*supplies*, *obtains*, *consists in*, *evidences*).
 
 ---
 
@@ -603,7 +704,7 @@ Avoid:
 - artificial quotations;
 - choppy transitions;
 - excessive adjectives;
-- overuse of rhetorical questions;
+- loaded rhetorical questions with foregone answers;
 - repetitive “not only X, but also Y” constructions;
 - excessive metaphors;
 - unexplained Arabic terminology;
@@ -624,11 +725,11 @@ Write in a reverent, evidence-first, analytical apologetic style for an educated
 
 The article should defend Islamic teachings or explain the miraculous nature of the Qur’an through careful reasoning, reliable sources, historical context, textual analysis, and fair treatment of objections.
 
-Use a confident, composed, dignified, and intellectually serious voice. Present the strongest reasonable version of opposing arguments before answering them. Identify the assumptions behind each criticism, distinguish factual claims from moral judgments, and explain precisely where the reasoning succeeds or fails.
+Use a warm, direct voice that stays intellectually serious. Speak to the reader as *you* where the point concerns their own reaction, knowledge, or likely objection, and use contractions by default, keeping the full form for sentences that need weight. Dignity comes from the care of the reasoning, not from formal diction. Present the strongest reasonable version of opposing arguments before answering them. Identify the assumptions behind each criticism, distinguish factual claims from moral judgments, and explain precisely where the reasoning succeeds or fails.
 
-Use clear, accessible English. Define all Arabic and technical terms immediately, and again in each major section where they recur. Organize the article with descriptive headings and logically connected sections. Each paragraph should advance one distinct point.
+Use clear, accessible English, and the plain word rather than the formal synonym. Define all Arabic and technical terms immediately, and again in each major section where they recur. Use descriptive headings, phrased as the question the reader is asking wherever a section answers an objection. Do not narrate the article's own structure or announce what the next section will do. Each paragraph should advance one distinct point.
 
-Write the sentences to be read once. Where a fact supports a conclusion, state the conclusion as a clause with a subject and a verb rather than implying it through an aphorism, a bare contrast, or an em dash. Vary sentence length and shape, and follow a long sentence with a short one. Do not split a sentence whose halves express one idea; over-splitting reads as choppy, not clear. Prefer positive statements to negated ones, and never combine the passive voice with a negation. Prefer verbs to abstract nouns and people to categories. A trailing epigram is worth using once in a section and never as a default ending.
+Write the sentences to be read once. Where a fact carries the weight of the argument, state the conclusion as a clause with a subject and a verb rather than implying it through an aphorism, a bare contrast, or an em dash. Do this for the load-bearing steps only: prose that states every inference explains itself continuously and reads as though it does not trust the reader. Make a person the subject of the sentence wherever a person is available, since abstract grammatical subjects are the main cause of an academic register. Vary sentence length and shape, and follow a long sentence with a short one. Do not split a sentence whose halves express one idea; over-splitting reads as choppy, not clear. Prefer positive statements to negated ones, and never combine the passive voice with a negation. A question is a legitimate way to raise a doubt the reader already has; avoid only the loaded kind with a foregone answer. A trailing epigram is worth using once in a section and never as a default ending.
 
 When discussing historical context, use it to clarify the realities and meanings of events without reducing morality to historical relativism. Explain the timeless Islamic principles governing the issue.
 
@@ -702,9 +803,9 @@ Use this when a shorter instruction is needed:
 ```text
 Use a reverent, analytical apologetic style. Write for an educated general audience in clear, precise English. Present objections fairly and in their strongest form, identify their assumptions, and answer them through reliable sources, historical context, textual analysis, and logical reasoning.
 
-Be confident, composed, dignified, and intellectually honest. Distinguish established facts, mainstream positions, disputed interpretations, and speculation. Define Arabic and technical terms immediately, and again in each section where they recur.
+Be warm, direct, confident, and intellectually honest. Speak to the reader as *you*, use contractions, and take the plain word over the formal synonym. Distinguish established facts, mainstream positions, disputed interpretations, and speculation. Define Arabic and technical terms immediately, and again in each section where they recur.
 
-State every inference outright instead of implying it through an aphorism, a contrast, or an em dash. Vary sentence length and shape, and follow long sentences with short ones, but do not split a sentence whose halves express one idea. Prefer positive statements, concrete verbs, and named people over negations, abstract nouns, and categories.
+State the load-bearing inferences outright instead of implying them through an aphorism, a contrast, or an em dash, and leave the rest to the reader rather than explaining every step. Vary sentence length and shape, and follow long sentences with short ones, but do not split a sentence whose halves express one idea. Prefer positive statements, concrete verbs, and named people over negations, abstract nouns, and categories. Head a section with the question it answers where it answers one, and never narrate the article's own structure.
 
 Contextualize historical issues without reducing morality to relativism. Build cumulative arguments and avoid sensational scientific, numerical, or historical claims. Do not use mockery, hostility, triumphalist rhetoric, clichés, filler, repetition, vague claims, or unsupported certainty.
 
@@ -733,6 +834,8 @@ Before finalizing an article, verify that it:
 - explains the positive Islamic framework;
 - uses clear headings and focused paragraphs;
 - avoids repetition and generic filler;
+- speaks to the reader rather than about a hypothetical one;
+- reads as though written for someone free to stop reading;
 - ends with a substantive synthesis rather than a slogan.
 
 The items above are judgment calls. The following are countable, and should be checked mechanically:
@@ -746,6 +849,10 @@ The items above are judgment calls. The following are countable, and should be c
 - every source-led and commentary block carries its `{: .src }` or `{: .gloss }` tag;
 - no bullet carries more than one commentary block;
 - every Arabic or technical term is glossed within its own section;
-- no passage of quoted material or commentary is repeated elsewhere in the article.
+- no passage of quoted material or commentary is repeated elsewhere in the article;
+- no sentence describes what the article or a later section is going to do;
+- no paragraph opens with an abstract subject where a person was available;
+- no run of five consecutive sentences is free of contractions by accident rather than for weight;
+- sections answering an objection are headed with the question they answer.
 
 Finally, read the section aloud. Anywhere a sentence needs a second pass, the missing step is almost always an inference the writer implied instead of stating.

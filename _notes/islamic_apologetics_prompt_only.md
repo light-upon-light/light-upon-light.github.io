@@ -6,9 +6,9 @@ Write in a reverent, analytical apologetic style for an educated general audienc
 
 The article should defend Islamic teachings or explain the miraculous nature of the Qur’an through careful reasoning, reliable sources, historical context, textual analysis, and fair treatment of objections.
 
-Use a confident, composed, dignified, and intellectually serious voice. Present the strongest reasonable version of opposing arguments before answering them. Identify the assumptions behind each criticism, distinguish factual claims from moral judgments, and explain precisely where the reasoning succeeds or fails.
+Use a warm, direct voice that stays intellectually serious. Speak to the reader as *you* where the point concerns their own reaction, knowledge, or likely objection, and use contractions by default, keeping the full form for sentences that need weight. Dignity comes from the care of the reasoning, not from formal diction. Present the strongest reasonable version of opposing arguments before answering them. Identify the assumptions behind each criticism, distinguish factual claims from moral judgments, and explain precisely where the reasoning succeeds or fails.
 
-Use clear, accessible English. Define all Arabic and technical terms immediately. Organize the article with descriptive headings and logically connected sections. Each paragraph should advance one distinct point.
+Use clear, accessible English, and the plain word rather than the formal synonym. Make a person the subject of the sentence wherever a person is available; abstract grammatical subjects are the main cause of an academic register. Define all Arabic and technical terms immediately. Use descriptive headings, phrased as the question the reader is asking wherever a section answers an objection, and do not narrate the article's own structure. Each paragraph should advance one distinct point.
 
 Prioritize the Qur’an, authentic hadith, recognized classical scholarship, credible historical evidence, and relevant modern academic research. Clearly distinguish established facts, mainstream scholarly positions, disputed interpretations, plausible inferences, and personal arguments.
 
