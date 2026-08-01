@@ -97,6 +97,7 @@ The Qur'an keeps physical readiness and judgment distinct in its treatment of or
 > "And test the orphans [in their abilities] until they reach marriageable age. Then if you perceive in them sound judgement, release their property to them." (**Sūrat al-Nisāʾ 4:6**), Saheeh International
 >
 > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَٱبْتَلُوا۟ ٱلْيَتَٰمَىٰ حَتَّىٰٓ إِذَا بَلَغُوا۟ ٱلنِّكَاحَ فَإِنْ ءَانَسْتُم مِّنْهُمْ رُشْدًۭا فَٱدْفَعُوٓا۟ إِلَيْهِمْ أَمْوَٰلَهُمْ﴾ <span class="ayah-ref">[سُورَةُ النِّسَاءِ: ٦]</span></div>
+{: .quote }
 
 Age is therefore not irrelevant. It carries no fixed meaning in isolation from biology, capacity, environment, custom, and the conditions of a particular society.
 
@@ -143,24 +144,28 @@ This is not an appeal to reputation in place of evidence. It is the ordinary req
 > "And indeed, you are of a great moral character." (**Sūrat al-Qalam 68:4**), Saheeh International
 >
 > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَإِنَّكَ لَعَلَىٰ خُلُقٍ عَظِيمٍۢ ۝٤﴾ <span class="ayah-ref">سُورَةُ القَلَمِ</span></div>
+{: .quote }
 
 The scope of that description is not confined to those who followed him:
 
 > "And We have not sent you, [O Muḥammad], except as a mercy to the worlds." (**Sūrat al-Anbiyāʾ 21:107**), Saheeh International
 >
 > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَمَآ أَرْسَلْنَٰكَ إِلَّا رَحْمَةًۭ لِّلْعَٰلَمِينَ ۝١٠٧﴾ <span class="ayah-ref">سُورَةُ الأَنبِيَاءِ</span></div>
+{: .quote }
 
 It attributes the cohesion of the community around him to his gentleness, and states plainly what harshness would have cost him:
 
 > "So by mercy from Allāh, [O Muḥammad], you were lenient with them. And if you had been rude [in speech] and harsh in heart, they would have disbanded from about you." (**Sūrat Āl ʿImrān 3:159**), Saheeh International
 >
 > <div dir="rtl" lang="ar" class="quran-arabic">﴿فَبِمَا رَحْمَةٍۢ مِّنَ ٱللَّهِ لِنتَ لَهُمْ ۖ وَلَوْ كُنتَ فَظًّا غَلِيظَ ٱلْقَلْبِ لَٱنفَضُّوا۟ مِنْ حَوْلِكَ﴾ <span class="ayah-ref">[سُورَةُ آلِ عِمۡرَانَ: ١٥٩]</span></div>
+{: .quote }
 
 And it describes his disposition toward the people in his care:
 
 > "There has certainly come to you a Messenger from among yourselves. Grievous to him is what you suffer; [he is] concerned over you [i.e., your guidance] and to the believers is kind and merciful." (**Sūrat al-Tawbah 9:128**), Saheeh International
 >
 > <div dir="rtl" lang="ar" class="quran-arabic">﴿لَقَدْ جَآءَكُمْ رَسُولٌۭ مِّنْ أَنفُسِكُمْ عَزِيزٌ عَلَيْهِ مَا عَنِتُّمْ حَرِيصٌ عَلَيْكُم بِٱلْمُؤْمِنِينَ رَءُوفٌۭ رَّحِيمٌۭ ۝١٢٨﴾ <span class="ayah-ref">سُورَةُ التَّوۡبَةِ</span></div>
+{: .quote }
 
 **Power and property.** He ended his life governing a state and owning almost nothing. Aisha recalled two months passing without a cooking fire being lit in his houses, the family living on dates and water.[^4] He slept on rough bedding, mended his own sandals, worked in the house, and left no estate. Earlier, in Mecca, the Quraysh had offered him wealth, standing, and leadership if he would drop his message; he took persecution instead. When the city that had expelled him fell to him, he took no reprisals.
 
@@ -339,6 +344,7 @@ The same reasoning answers the objection that a universal example ought to be re
 > "There has certainly been for you in the Messenger of Allāh an excellent pattern" (**Sūrat al-Aḥzāb 33:21**), Saheeh International
 >
 > <div dir="rtl" lang="ar" class="quran-arabic">﴿لَّقَدْ كَانَ لَكُمْ فِى رَسُولِ ٱللَّهِ أُسْوَةٌ حَسَنَةٌۭ﴾ <span class="ayah-ref">[سُورَةُ الأَحۡزَابِ: ٢١]</span></div>
+{: .quote }
 
 He travelled by camel, dressed as a seventh-century Arab, used the medicine available to him, and administered a state with the instruments of his century. Muslims follow his honesty, mercy, justice, and patience without treating every tool and custom as binding. The distinction between what is prophetic and what is circumstantial is not an evasion invented for this question; it is how Islamic law has always read his life.
 
@@ -367,6 +373,7 @@ Muslims hold that this marriage, like the rest of the Prophet's ﷺ life, unfold
 > "Why, when you heard it, did not the believing men and believing women think good of themselves [i.e., one another] and say, 'This is an obvious falsehood'?" (**Sūrat al-Nūr 24:12**), Saheeh International
 >
 > <div dir="rtl" lang="ar" class="quran-arabic">﴿لَّوْلَآ إِذْ سَمِعْتُمُوهُ ظَنَّ ٱلْمُؤْمِنُونَ وَٱلْمُؤْمِنَٰتُ بِأَنفُسِهِمْ خَيْرًۭا وَقَالُوا۟ هَٰذَآ إِفْكٌۭ مُّبِينٌۭ ۝١٢﴾ <span class="ayah-ref">سُورَةُ النُّورِ</span></div>
+{: .quote }
 
 One qualification applies to all of it. That a marriage contracted at nine produced a scholar of the first rank is not an argument that young people generally should marry, and should not be used as one. It shows something smaller: a chronological figure does not by itself predict what a person will become.
 
@@ -381,12 +388,14 @@ The objection is answered above. What Islam positively teaches about marriage is
 > "And of His signs is that He created for you from yourselves mates that you may find tranquility in them; and He placed between you affection and mercy." (**Sūrat al-Rūm 30:21**), Saheeh International
 >
 > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَمِنْ ءَايَٰتِهِۦٓ أَنْ خَلَقَ لَكُم مِّنْ أَنفُسِكُمْ أَزْوَٰجًۭا لِّتَسْكُنُوٓا۟ إِلَيْهَا وَجَعَلَ بَيْنَكُم مَّوَدَّةًۭ وَرَحْمَةً﴾ <span class="ayah-ref">[سُورَةُ الرُّومِ: ٢١]</span></div>
+{: .quote }
 
 **The standard of conduct within it is kindness.** The Qur'anic instruction to husbands is *ʿishra bi'l-maʿrūf*, companionship according to what is recognised as good — a general obligation binding in every circumstance, including the circumstance of wanting to leave:
 
 > "And live with them in kindness." (**Sūrat al-Nisāʾ 4:19**), Saheeh International
 >
 > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَعَاشِرُوهُنَّ بِٱلْمَعْرُوفِ﴾ <span class="ayah-ref">[سُورَةُ النِّسَاءِ: ١٩]</span></div>
+{: .quote }
 
 **Consent is a condition of validity, not a courtesy.** A marriage contracted over a woman's refusal is void, and the Prophet ﷺ dissolved one on that ground.[^14] Whatever a given society's marriage customs, Islamic law does not recognise a marriage a woman has rejected.
 
