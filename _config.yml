@@ -169,6 +169,7 @@ include:
   - _pages
 exclude:
   - _notes
+  - _pages/drafts
   - "*.sublime-project"
   - "*.sublime-workspace"
   - vendor
