@@ -128,11 +128,18 @@ by hand.
 
 ### The TOC drawer
 
-`#toc-toggle` repositions the theme's own `.sidebar__right` into a bottom sheet
-rather than cloning it, so the theme's `.toc` / `.toc__menu` rules and its
-scrollspy `.active` highlighting keep working on the real node. This is safe
-because below `$large` the theme gives that node nothing but `margin-bottom`,
-and no ancestor is transformed, so `position: fixed` behaves.
+`#toc-toggle` repositions the theme's own `.sidebar__right` into a full-height
+panel sliding in from the right edge, rather than cloning it, so the theme's
+`.toc` / `.toc__menu` rules and its scrollspy `.active` highlighting keep
+working on the real node. This is safe because below `$large` the theme gives
+that node nothing but `margin-bottom`, and no ancestor is transformed, so
+`position: fixed` behaves.
+
+Its width is `min(86vw, 21rem)` — the `vw` term guarantees a strip of backdrop
+survives on the left, so there is always somewhere to tap to dismiss. Running
+flush to the top and right edges means the theme's `.toc` border radius and
+`.nav__title` corner rounding both have to be zeroed, or they show as notches
+against the viewport edge.
 
 **The drawer must be reparented to `<body>` while open.** The theme puts
 `animation: intro` on `#main`, and an element with an animation in effect is a
