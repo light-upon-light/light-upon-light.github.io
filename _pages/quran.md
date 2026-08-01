@@ -171,7 +171,7 @@ share: true
 
 ## The Messenger of God ﷺ
 
-Everything described above was recited by **one man** who could **neither read nor write**. It came over twenty-three years, in seventh-century Arabia. The Qur'an cannot be separated from the life of the man who delivered it, and that life is documented in unusual detail. His followers recorded it, and so did his family, his servants, and his enemies.
+Everything described above was recited by **one man** who could **neither read nor write**, over twenty-three years, in seventh-century Arabia. The Qur'an cannot be separated from the life of the man who delivered it, and that life is documented in unusual detail — by his followers, his family, his servants, and his enemies.
 
 The argument of this section is **cumulative**. No single episode below is offered as a miracle on its own. Each one records how a particular man behaved when he had every opportunity to behave otherwise. The question is what explanation accounts for **all of them together**.
 
@@ -180,34 +180,34 @@ The argument of this section is **cumulative**. No single episode below is offer
 ### The Man Before the Message
 
 1. For **forty years before he claimed anything**, he lived among the people who would later become his fiercest opponents. They had four decades in which to find something to use against him. When the time came, they accused him of magic and of poetry, and never of a fault in his conduct.
-1. Mecca called him **al-Amīn**, "the trustworthy," and al-Ṣādiq, "the truthful," long before there was a message to defend. The society that gave him those names is the society that later tried to destroy him.
+1. Mecca called him **al-Amīn**, "the trustworthy," and **al-Ṣādiq**, "the truthful," long before there was a message to defend. The society that gave him those names is the society that later tried to destroy him.
     > *Sīra*: Ibn Hishām, *Al-Sīra al-Nabawiyya*. The Qur'an appeals to this reputation directly, telling him to remind them that he had lived a whole lifetime among them before the revelation came.
-1. He was **chosen to arbitrate** when the clans of Mecca nearly went to war over which of them would lift the Black Stone into place. He laid the stone on a cloak and had one man from each clan take an edge, so that all of them raised it together.
+1. He was **chosen to arbitrate** when the clans of Mecca nearly came to **war over which of them would lift the Black Stone** into place. He laid the stone on a cloak and had a representative of **each clan** take an edge, so that all of them raised it together.
     > *Sīra*: Ibn Hishām. He was about thirty-five and held no office in the city. The Quraysh, the tribe that ruled Mecca, accepted his judgment because every side trusted him.
 1. As a young man he joined **Ḥilf al-Fuḍūl**, a pact among Meccan clans to defend anyone wronged in the city. Its protection covered outsiders who had no tribe of their own. Decades later, as head of a state, he said he would still answer a call to such a pact.
     > *Sīra*, also *Musnad Aḥmad*. He was raised in a society that expected a man to back his own tribe whether it was right or wrong. Before there was any message to defend, he had already committed himself to the wronged party instead.
-1. Arabia prized eloquence above almost everything else and kept careful record of its poets. For forty years he appears in that record **nowhere**: no poetry, no oratory, no priesthood, no religious claim. He then delivered a text his opponents could not match.
-1. When revelation first came to him in the cave he went home **terrified**, trembling, and asked to be covered. His wife Khadīja reassured him by reciting his own character back to him. He kept ties of kinship, carried the burden of the weak, gave to the poor, honoured his guests, and helped those struck by calamity.
+1. Arabia prized eloquence above almost everything else and kept careful record of its poets. For forty years he appears in that record **nowhere**: **no poetry, no oratory, no priesthood, no religious claim**. He then delivered a text his opponents could not match.
+1. When revelation first came to him in the cave he went home **terrified**, trembling, and asked to be covered. His wife Khadīja reassured him by reciting his own character back to him: he kept ties of kinship, carried the burden of the weak, gave to the poor, honoured his guests, and helped those struck by calamity.
     > *Ṣaḥīḥ al-Bukhārī* 3. A man carrying out a plan announces it. This one thought he was losing his mind, and the first person to believe him was his wife of fifteen years, who of everyone alive was best placed to know whether he was honest.
 1. His name, **Muhammad**, means "the one who is repeatedly praised." He was given it at birth, spent much of his adult life reviled, and is now named in prayer by billions of people every day. No one naming a child in sixth-century Mecca could have expected that.
 
 ### What the Message Cost Him
 
-1. The Quraysh offered him **wealth, kingship, and the most desirable marriages in Arabia**, along with medical treatment if he was ill. The single condition was that he stop. He refused, and the persecution followed.
+1. The Quraysh understood exactly what motivates men, and they made him a formal offer: **wealth**, **kingship**, the **most desirable marriages**, and medical treatment if he was ill — on the single condition that he **stop**. He refused, and the persecution followed.
     > *Sīra*: Ibn Hishām records the delegation of ʿUtba ibn Rabīʿa, and his reply that if they placed the sun in his right hand and the moon in his left, he would not abandon the matter.
 
     > Everything a fabricator could want was offered to him openly, early, and at no cost. He turned it down and took thirteen years of persecution instead.
-1. For **thirteen years in Mecca** he and his followers were mocked, beaten, tortured, starved, boycotted, and exiled. Some were killed. He had no army and no state, and nothing protected him beyond his own clan.
-1. His clan was placed under a **three-year boycott**: no trade, no marriage, no contact. They were reduced to eating leaves. The boycott was aimed at his family in order to break him.
-1. In a single year he lost **Khadīja**, his wife of twenty-five years, and Abū Ṭālib, the uncle whose protection kept him alive. The tradition calls it the Year of Sorrow. He continued.
-1. He went to **Ṭāʾif** seeking refuge and was driven out by a mob that stoned him until he bled. An angel offered to destroy the city. He declined, and said he hoped their descendants would come to worship God.
+1. For **thirteen years in Mecca** he and his followers were **mocked, beaten, tortured, starved, boycotted, and exiled**. Some were killed. He had no army and no state, and nothing protected him beyond his own clan.
+1. His clan was placed under a **three-year boycott** — no trade, no marriage, no contact — that reduced them to eating leaves. It was aimed at his family in order to break him.
+1. In a single year he lost **Khadīja**, his wife of twenty-five years, and **Abū Ṭālib**, the uncle whose protection kept him alive. The tradition calls it the **Year of Sorrow**. He continued.
+1. He went to **Ṭāʾif** seeking refuge and was driven out by a mob that stoned him until he bled. An angel offered to destroy the city, and he **declined**, hoping instead that their descendants would come to worship God.
     > *Ṣaḥīḥ al-Bukhārī* 3231. Aisha asked him whether any day had been harder than the battle of Uhud, and this was the day he named. The angel of the mountains offered to crush the two mountains upon the town. He answered: "No, but I hope that God will bring forth from their loins those who worship God alone."
 
     > A man inventing a divine mandate had just been handed the perfect proof of it, in front of the town that had driven him out. He refused it.
-1. When his own people resolved to **assassinate him**, he left Mecca. Before leaving he arranged for his cousin ʿAlī to return the property that the men plotting his death had left with him for safekeeping.
+1. When his own people finally resolved to **assassinate him**, he left Mecca — but first arranged for **ʿAlī to return the property** that the very men plotting his death had left with him for safekeeping.
     > *Sīra*: Ibn Hishām. They wanted him dead and still trusted him with their savings, which is its own measure of how his honesty was regarded.
-1. He **buried all but one of his children**. Only his daughter Fāṭima outlived him, and she by a few months. He grieved openly each time, and never suggested that prophethood exempted him from loss.
-1. Twenty-three years of this bought him nothing he could hold. At the end he **governed Arabia** and owned almost nothing.
+1. He **buried all but one of his children** — every one of them except his daughter Fāṭima, who outlived him by months. He grieved openly each time, and never suggested that prophethood exempted him from loss.
+1. Twenty-three years of this bought him nothing he could hold. At the end he **governed Arabia** and **owned almost nothing**.
 
 ### The Qur'an's Treatment of Its Own Messenger
 
@@ -219,7 +219,7 @@ If the Qur'an were his own composition, the way it treats him is hard to explain
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿عَبَسَ وَتَوَلَّىٰٓ ۝١ أَن جَآءَهُ ٱلْأَعْمَىٰ ۝٢ وَمَا يُدْرِيكَ لَعَلَّهُۥ يَزَّكَّىٰٓ ۝٣ أَوْ يَذَّكَّرُ فَتَنفَعَهُ ٱلذِّكْرَىٰٓ ۝٤﴾ <span class="ayah-ref">سُورَةُ عَبَسَ</span></div>
 
     > An author writing his own scripture keeps his worst moment out of it. This one put his into the permanent liturgy of everyone who would follow him, in a passage that faults him for favouring the powerful over the poor.
-1. It rebukes him for a **concession he made to please his wives**, and again for excusing men he should have questioned.
+1. It rebukes him for a **concession he made to please his wives**, and again for **excusing men** he should have questioned.
     > "O Prophet! Why do you prohibit ˹yourself˺ from what Allah has made lawful to you, seeking to please your wives? And Allah is All-Forgiving, Most Merciful." (**Sūrat al-Taḥrīm 66:1**), Dr. Mustafa Khattab, *The Clear Quran*
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿يَٰٓأَيُّهَا ٱلنَّبِىُّ لِمَ تُحَرِّمُ مَآ أَحَلَّ ٱللَّهُ لَكَ ۖ تَبْتَغِى مَرْضَاتَ أَزْوَٰجِكَ ۚ وَٱللَّهُ غَفُورٌۭ رَّحِيمٌۭ ۝١﴾ <span class="ayah-ref">سُورَةُ التَّحۡرِيمِ</span></div>
@@ -227,7 +227,7 @@ If the Qur'an were his own composition, the way it treats him is hard to explain
     > "May Allah pardon you ˹O Prophet˺! Why did you give them permission ˹to stay behind˺ before those who told the truth were distinguished from those who were lying?" (**Sūrat al-Tawbah 9:43**), Dr. Mustafa Khattab, *The Clear Quran*
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿عَفَا ٱللَّهُ عَنكَ لِمَ أَذِنتَ لَهُمْ حَتَّىٰ يَتَبَيَّنَ لَكَ ٱلَّذِينَ صَدَقُوا۟ وَتَعْلَمَ ٱلْكَٰذِبِينَ ۝٤٣﴾ <span class="ayah-ref">سُورَةُ التَّوۡبَةِ</span></div>
-1. It exposes his **inner state** at a moment he would have preferred to keep private. He had concealed something out of fear of what people would say, and the verse says so.
+1. It exposes his **inner state** at a moment he would have preferred to keep private. He had concealed something out of **fear of what people would say**, and the verse says so.
     > "And you concealed within yourself what Allah was going to reveal, fearing the people, while Allah has more right that you fear Him." (**Sūrat al-Aḥzāb 33:37**), Saheeh International
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَتُخْفِى فِى نَفْسِكَ مَا ٱللَّهُ مُبْدِيهِ وَتَخْشَى ٱلنَّاسَ وَٱللَّهُ أَحَقُّ أَن تَخْشَىٰهُ﴾ <span class="ayah-ref">[سُورَةُ الأَحۡزَابِ: ٣٧]</span></div>
@@ -261,7 +261,7 @@ If the Qur'an were his own composition, the way it treats him is hard to explain
     > "Had he made up something in Our Name, We would have certainly seized him by his right hand, then severed his aorta, and none of you could have shielded him ˹from Us˺!" (**Sūrat al-Ḥāqqah 69:44-47**), Dr. Mustafa Khattab, *The Clear Quran*
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَلَوْ تَقَوَّلَ عَلَيْنَا بَعْضَ ٱلْأَقَاوِيلِ ۝٤٤ لَأَخَذْنَا مِنْهُ بِٱلْيَمِينِ ۝٤٥ ثُمَّ لَقَطَعْنَا مِنْهُ ٱلْوَتِينَ ۝٤٦ فَمَا مِنكُم مِّنْ أَحَدٍ عَنْهُ حَٰجِزِينَ ۝٤٧﴾ <span class="ayah-ref">سُورَةُ الحَاقَّةِ</span></div>
-1. It **delayed when he needed answers most**. Questions were put to him in public and the response took days or weeks. In one case it took a month, while his own wife stood publicly accused and his household suffered.
+1. It **delayed** when he needed answers most. Questions were put to him in public and the response took days or weeks. In one case it took a month, while his own wife stood publicly accused and his household suffered.
     > A man producing revelation on demand answers on the day he is asked. This one was left waiting a month for the verse that would clear his wife.
 1. The Qur'an and his own speech read as **two different voices**. Modern linguistic comparison of the Qur'an with the hadith, which record his speech, shows consistent structural differences between them. The section above sets this out.
 1. He **refused to let a natural event be read as a sign for him**. The sun eclipsed on the day his infant son Ibrāhīm died, and people said it had eclipsed for the death. He corrected them from the pulpit.
@@ -275,7 +275,7 @@ The people with the most access to him were his servants, his wives, and his fam
 
 1. **Anas ibn Mālik served him for ten years**, starting as a child. His testimony describes what the man was like when there was no audience.
     > "I served the Prophet ﷺ for ten years, and he never said to me 'Uff', nor did he ever say about anything, 'Why did you do that?' or 'Why did you not do that?'" — *Ṣaḥīḥ al-Bukhārī* 6038
-1. He **never struck anyone** on his own account: not a woman, not a servant. He never avenged a personal grievance either.
+1. He **never struck anyone** on his own account — not a woman, not a servant — and **never avenged a personal grievance**.
     > "The Messenger of Allah ﷺ never beat anyone with his hand, neither a woman nor a servant … and he never took revenge for anything unless the things made inviolable by Allah were violated." — *Ṣaḥīḥ Muslim* 2328a
 
     > He held absolute authority over a state for years. The one exception he allowed himself was punishment for violating God's limits, and never for an offence against himself.
@@ -304,13 +304,13 @@ The people with the most access to him were his servants, his wives, and his fam
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَمَآ أَرْسَلْنَٰكَ إِلَّا رَحْمَةًۭ لِّلْعَٰلَمِينَ ۝١٠٧﴾ <span class="ayah-ref">سُورَةُ الأَنبِيَاءِ</span></div>
 1. He was asked to **invoke a curse** on those persecuting his community, and refused on the grounds of what he had been sent to be.
     > "I have not been sent as the invoker of curse, but I have been sent as mercy." — *Ṣaḥīḥ Muslim* 2599
-1. **The conquest of Mecca** is the clearest case. After twenty-one years of persecution, torture, exile, and war, he entered the city that had expelled him at the head of an army no one opposed. He declared a general amnesty.
+1. **The conquest of Mecca** is the clearest case. After twenty-one years of persecution, torture, exile, and war, he entered the city that had expelled him at the head of an unopposed army — and declared a **general amnesty**.
     > *Sīra*: Ibn Hishām records his words to the assembled Quraysh: "Go, for you are free."
 
-    > Those pardoned included the men who had tortured his followers. They included the woman who had mutilated the body of his uncle Ḥamza, and Ḥamza's killer. They included the commanders who had fought him at the battles of Badr and Uhud. The city was not plundered, its people were not executed, and no account was settled. For twenty-one years he had lacked the power to punish anyone. He now had it, and he used it to let them go.
+    > Those pardoned included the men who had tortured his followers, the woman who had mutilated his uncle Ḥamza's body, Ḥamza's killer, and the commanders who had fought him at Badr and Uhud. There were no executions of the population, no reprisals, no plunder of the city, and no settling of accounts. For twenty-one years he had lacked the power to punish anyone. He now had it, and he used it to let them go.
 1. A **bedouin took his sword** while he slept, stood over him, and asked who would protect him now. He answered "God." The man dropped the sword, and he let him go.
     > *Ṣaḥīḥ al-Bukhārī* 2910
-1. When a **bedouin urinated inside the mosque**, the congregation moved to beat him. He stopped them, let the man finish, and had water poured over the spot.
+1. When a **bedouin urinated inside the mosque** and the congregation moved to beat him, he stopped them, let the man finish, and had water poured over the spot.
     > *Ṣaḥīḥ al-Bukhārī* 6025, 220, 6128. The governing instruction: "Make things easy for the people and do not make things difficult for them." (*Ṣaḥīḥ al-Bukhārī* 6125)
 1. In a warrior culture, **strength** meant winning a fight. He redefined it as controlling yourself.
     > "The strong is not the one who overcomes people by his strength, but the strong is the one who controls himself while in anger." — *Ṣaḥīḥ al-Bukhārī* 6114
@@ -322,7 +322,7 @@ The people with the most access to him were his servants, his wives, and his fam
     > "There has certainly come to you a Messenger from among yourselves. Grievous to him is what you suffer; ˹he is˺ concerned over you and to the believers is kind and merciful." (**Sūrat al-Tawbah 9:128**), Saheeh International
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿لَقَدْ جَآءَكُمْ رَسُولٌۭ مِّنْ أَنفُسِكُمْ عَزِيزٌ عَلَيْهِ مَا عَنِتُّمْ حَرِيصٌ عَلَيْكُم بِٱلْمُؤْمِنِينَ رَءُوفٌۭ رَّحِيمٌۭ ۝١٢٨﴾ <span class="ayah-ref">سُورَةُ التَّوۡبَةِ</span></div>
-1. For dealing with hostility he taught **reversal rather than retaliation**.
+1. The instruction he taught for dealing with hostility was **reversal rather than retaliation**.
     > "Good and evil cannot be equal. Respond ˹to evil˺ with what is best, then the one you are in a feud with will be like a close friend." (**Sūrat Fuṣṣilat 41:34**), Dr. Mustafa Khattab, *The Clear Quran*
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَلَا تَسْتَوِى ٱلْحَسَنَةُ وَلَا ٱلسَّيِّئَةُ ۚ ٱدْفَعْ بِٱلَّتِى هِىَ أَحْسَنُ فَإِذَا ٱلَّذِى بَيْنَكَ وَبَيْنَهُۥ عَدَٰوَةٌۭ كَأَنَّهُۥ وَلِىٌّ حَمِيمٌۭ ۝٣٤﴾ <span class="ayah-ref">سُورَةُ فُصِّلَتۡ</span></div>
@@ -334,7 +334,7 @@ The people with the most access to him were his servants, his wives, and his fam
 
     > He named his own daughter. A leader building a dynasty makes his family the exception, and this one made them the example.
 1. He **redefined tribal loyalty**, the organizing principle of his society, and turned it against itself.
-    > "Help your brother, whether he is an oppressor or is oppressed." He was asked how one helps an oppressor, and answered: by stopping him. — *Ṣaḥīḥ al-Bukhārī* 2443, 2444, 6952
+    > "Help your brother, whether he is an oppressor or is oppressed." He was asked how one helps an oppressor, and answered: by **restraining him** from oppression. — *Ṣaḥīḥ al-Bukhārī* 2443, 2444, 6952
 1. He **barred his own family from receiving charity**, the obligatory alms called *ṣadaqāt*. That closed the most obvious route to wealth open to a religious leader.
     > "It does not become the family of Muhammad ﷺ to accept ṣadaqāt, for they are the impurities of people." — *Ṣaḥīḥ Muslim* 1072a
 
@@ -354,9 +354,9 @@ The people with the most access to him were his servants, his wives, and his fam
 
 The clearest measure of a person is how they treat those who can neither repay them nor retaliate. Measured against seventh-century Arabia, this is where his teaching departs furthest from what surrounded it.
 
-1. He called **enslaved people the brothers of those who held them**, and attached a rule to the word. Feed them what you eat, and clothe them in what you wear.
+1. He called **enslaved people** the **brothers of those who held them**, and attached a rule to the word: feed them what you eat, clothe them in what you wear.
     > "Your slaves are your brothers whom Allah has put under your authority. So whoever has his brother under his authority should feed him from what he eats and clothe him from what he wears. Do not burden them beyond their capacity, and if you do, help them." — *Ṣaḥīḥ al-Bukhārī* 30 (see also 6050)
-1. He made **freeing a slave** one of the highest acts of worship. The law made it the standard penalty for a broken oath or an accidental killing. Every such lapse set someone free, so the legal system kept draining the institution from the inside.
+1. He made **freeing a slave** one of the highest acts of worship, and the law made it the standard penalty for a broken oath or an accidental killing. Every such lapse set someone free, so the legal system kept draining the institution from the inside.
     > "Whoever frees a Muslim slave, Allah will save every limb of his from the Fire for every limb of the slave he freed." — *Ṣaḥīḥ al-Bukhārī* 2517
 
     > Among the earliest and most honoured Muslims were formerly enslaved people: Bilāl ibn Rabāḥ, Zayd ibn Ḥāritha, and ʿAmmār ibn Yāsir with his family. Zayd's son Usāma was appointed to command an army that included the most senior Companions.
@@ -386,7 +386,7 @@ The clearest measure of a person is how they treat those who can neither repay t
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَإِذَا ٱلْمَوْءُۥدَةُ سُئِلَتْ ۝٨ بِأَىِّ ذَنۢبٍۢ قُتِلَتْ ۝٩﴾ <span class="ayah-ref">سُورَةُ التَّكۡوِيرِ</span></div>
 
-    > In the same society, and within the same generation, women were given rights of inheritance, independent property, and consent in marriage. They were also given standing to bring a complaint directly to the head of state.
+    > In the same society, and within the same generation, women were given rights of **inheritance**, **independent property**, and **consent in marriage**, along with standing to bring a complaint directly to the head of state.
 1. He was **openly affectionate with children** in a culture that gave a man no credit for it. A chief told him he had ten children and had never kissed one of them. He replied that whoever shows no mercy will be shown none.
     > *Ṣaḥīḥ al-Bukhārī* 5997
 1. He **carried his infant granddaughter Umāma while leading congregational prayer**, setting her down when he prostrated and lifting her when he rose.
@@ -431,7 +431,7 @@ The most testable claim about any religious founder is what happened once they h
     > *Ṣaḥīḥ al-Bukhārī* 2916, 4467. At the time he was the effective head of state in Arabia.
 1. **Months passed without a cooking fire** being lit in his houses.
     > "We used to see three crescents in two months, and no fire used to be lit in the houses of the Messenger of Allah ﷺ." Aisha was asked what sustained them, and answered: "The two black things — dates and water." (*Ṣaḥīḥ al-Bukhārī* 6459, see also 5383, 5442)
-1. He **built no palace and founded no dynasty**. Every one of his sons died in infancy, and he made no arrangement to put anyone from his family in power.
+1. He **built no palace** and **founded no dynasty**. Every one of his sons died in infancy, and he made no arrangement to put anyone from his family in power.
 1. He was **the most generous of people**, and gave away what came to him instead of keeping it.
     > *Ṣaḥīḥ al-Bukhārī* 6, 1902, 3220
 1. He **refused every marker of rank**. He rode ordinary mounts, stopped people from standing up for him, and sat among his Companions so plainly that visitors had to ask which man he was.
@@ -440,12 +440,12 @@ The most testable claim about any religious founder is what happened once they h
 
 ### The Society He Left Behind
 
-1. In **twenty-three years** a fragmented, illiterate, tribal society became a single polity with law, literacy, and a working state. It had been organized around blood feud, idolatry, female infanticide, and constant warfare. Historians argue over the causes and the pace, and the transformation itself is common ground.
+1. In **twenty-three years** a fragmented, illiterate, tribal society organized around blood feud, idolatry, female infanticide, and endemic warfare became a unified polity with law, literacy, and a functioning state. Historians dispute the causes and the pace, and the transformation itself is common ground.
 1. **Alcohol** ran through Arabian social life, and it was abandoned on the strength of a single announcement.
     > Anas, who was serving wine at the time, described the vessels being emptied when the prohibition was proclaimed. — *Ṣaḥīḥ al-Bukhārī* 4620, 2464
 
     > Elsewhere, banning alcohol has taken police, courts, and prisons, and has usually failed anyway. In Medina it took one announcement.
-1. He abolished **blood vengeance** and usury by declaration, and in each case he began with the claims of his own family.
+1. He abolished **blood vengeance** and **usury** by declaration, and in each case he began with the claims of his own family.
     > *Sīra*: in the Farewell Sermon he annulled the blood claims of the pre-Islamic period beginning with the claim of his own relative, and the usury of the period beginning with that owed to his uncle ʿAbbās.
 1. He delivered the **Farewell Sermon** to the assembled pilgrims near the end of his life. In it he set out principles that read as a summary of the mission.
     > "Your blood, your property, and your honour are sacred to one another, as sacred as this day of yours, in this month of yours." — *Ṣaḥīḥ al-Bukhārī* 105, 67
@@ -459,12 +459,12 @@ The most testable claim about any religious founder is what happened once they h
     > "He is the One Who raised for the illiterate ˹people˺ a messenger from among themselves—reciting to them His revelations, purifying them, and teaching them the Book and wisdom, for indeed they had previously been in clear misguidance." (**Sūrat al-Jumuʿah 62:2**), Dr. Mustafa Khattab, *The Clear Quran*
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿هُوَ ٱلَّذِى بَعَثَ فِى ٱلْأُمِّيِّۦنَ رَسُولًۭا مِّنْهُمْ يَتْلُوا۟ عَلَيْهِمْ ءَايَٰتِهِۦ وَيُزَكِّيهِمْ وَيُعَلِّمُهُمُ ٱلْكِتَٰبَ وَٱلْحِكْمَةَ وَإِن كَانُوا۟ مِن قَبْلُ لَفِى ضَلَٰلٍۢ مُّبِينٍۢ ۝٢﴾ <span class="ayah-ref">سُورَةُ الجُمُعَةِ</span></div>
-1. The **generation he produced** is itself evidence. Men who had buried daughters alive and fought over pasture became administrators, jurists, and transmitters. They preserved a text and a legal tradition with obsessive precision, and when he died they did not make him a god.
+1. The **generation he produced** is itself evidence. Men who had buried daughters alive and fought over pasture became administrators, jurists, and transmitters who preserved a text and a legal tradition with obsessive precision. When he died, they did not make him a god.
     > The crowd refused to believe he had died. Abū Bakr answered them by reciting the verse that calls Muhammad ﷺ a messenger who would pass away like the messengers before him. The community absorbed the loss of its founder and left him a man, which is what he had spent twenty-three years insisting he was.
 
 ### Predictions Recorded Before Their Fulfilment
 
-A prediction is worth something only if the record of it is older than the event. The hadith collections were compiled and closed in the third Islamic century, roughly the ninth century CE. Anything fulfilled after that date is recorded in a text demonstrably older than what it describes. Those are the cases cited here, and reports with weak chains of transmission are left out.
+A prediction is worth something only if the record of it is older than the event. The hadith collections were compiled and closed in the third Islamic century, roughly the ninth century CE, so anything fulfilled after that date is recorded in a text demonstrably older than what it describes. Those are the cases cited here, and reports with weak chains of transmission are left out.
 
 1. The **fire of the Ḥijāz**. Recorded in a collection completed in the ninth century CE.
     > "The Hour will not be established till a fire will come out of the land of Ḥijāz, and it will throw light on the necks of the camels at Buṣrā." — *Ṣaḥīḥ al-Bukhārī* 7118
@@ -512,7 +512,7 @@ A prediction is worth something only if the record of it is older than the event
     > [The Jews of Medina were expecting a Prophet](https://youtu.be/Z4pm2fSYhCI)
 
     > [Muhammad ﷺ in Song of Solomon](https://youtu.be/rk1S_Ovt5Ms)
-1. The message he preached stands in **direct continuity** with that of Moses and Jesus: devotion to one God, moral accountability, and righteous conduct. The Qur'an presents his mission as a restoration of that message rather than as a new religion. The core belief and the ethical demand hold steady across vast differences of time, place, and circumstance.
+1. The message he preached stands in **direct continuity** with that of Moses and Jesus: devotion to one God, moral accountability, and righteous conduct. The Qur'an presents his mission as a **restoration** of that message rather than as a new religion — consistent in core belief and ethical demand despite vast differences of time, place, and circumstance.
     > [Moses, Jesus & Muhammad: Three Brothers in Faith \| Ustadh Dr. Ali Ataie](https://youtu.be/_DnP0wxvnH4)
 
     > [Muhammad ﷺ the Prophet like Moses](https://youtu.be/RRlhH3_iedU)
@@ -540,7 +540,7 @@ A prediction is worth something only if the record of it is older than the event
 
 Taken one at a time, most of the points above have an ordinary explanation. The difficulty is accounting for them **together**, in one life, in one place, in twenty-three years. There are three standard alternatives to the claim he made about himself, and each one carries a cost.
 
-1. **That he was an impostor.** An impostor needs a motive, and the record removes each candidate in turn. Wealth was offered and refused, and he died in debt. Power was offered and refused, and once he held it he neither enriched himself nor founded a dynasty. Status was offered and refused, and he barred his own family from the charity collection and left them no inheritance. The theory also requires a fabricator to write his own faults into his own scripture. That scripture rebukes him for slighting a blind man and reprimands him for pleasing his wives. It exposes his private fear, denies him any power to alter the text, and warns that inventing revelation would cost him his life. The theory then requires him to stand in front of his followers and take apart an eclipse they had already read as a sign for him.
+1. **That he was an impostor.** An impostor needs a motive, and the record removes each candidate in turn. Wealth was offered and refused, and he died in debt. Power was offered and refused, and once he held it he neither enriched himself nor founded a dynasty. Status was offered and refused, and he barred his own family from the charity collection and left them no inheritance. The theory also requires a fabricator to write into his own scripture a rebuke for slighting a blind man, a reprimand for pleasing his wives, an exposure of his private fear, a denial of his power to alter the text, and a warning that inventing revelation would cost him his life. It then requires him to stand in front of his followers and take apart an eclipse they had already read as a sign for him.
 1. **That he was sincere but deluded.** This accounts for his integrity and leaves his output unexplained. The text came in fragments across twenty-three years, assembled into a coherent whole, and the finest rhetoricians of the age could not match it. Alongside it came two decades of sound legal, military, and political judgment, and a legal framework durable enough to govern a civilization. A man deluded about revelation would also have accepted the omen the crowd handed him, rather than dismantling it.
 1. **That the record is legend.** This is the most serious of the three, and it runs into the character of the material. The reports are early, they were transmitted along many independent chains, and they were screened by a discipline built to detect fabrication. The content tells more than the chains do. Legends do not preserve their hero being corrected by God, weeping, mistaken in his judgment, mortgaging his armour, or refusing a miracle credited to him. Admiring biography edits those moments out, and this material keeps them in.
 

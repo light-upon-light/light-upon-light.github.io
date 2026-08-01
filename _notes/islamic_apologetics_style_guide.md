@@ -160,18 +160,18 @@ Write the step out. If doing so flattens the sentence, the sentence was carrying
 
 ### Budget the rhetorical devices
 
-Each device below delays the point of its sentence. Each is worth its cost occasionally and worthless in bulk, because a device the reader can predict has stopped functioning as a device.
+The devices below delay the point of a sentence. Each is worth its cost occasionally and loses its effect in bulk, because a device the reader can predict has stopped functioning as a device. These are budgets to notice when exceeded, not limits to enforce blindly.
 
 | Device | Budget |
 | --- | --- |
 | Sentence ending in an em-dash punchline | 1 per subsection |
-| Em dash | 1 per sentence |
 | Fronted participial opener (*Asked…*, *Told…*, *Offered…*) | 1 per subsection |
-| Rhetorical question | 1 per article |
 | Words between a subject and its verb | 6 |
 | Semicolon joining independent clauses | 1 per paragraph |
 
-When the budget is spent, the fix is nearly always a full stop. An em dash that joins two independent clauses is a full stop the writer declined to use, and it removes the pause the reader needs in order to bank the first clause before starting the second.
+The em dash is not on the list, and no fixed ration applies to it. A pair of dashes enclosing an aside is doing a job no other punctuation does as well, and a single dash before a final clause is often exactly right. What to watch for is the dash used as a substitute for a full stop several sentences running, so that the reader never gets the pause needed to bank one clause before starting the next. That is a symptom of monotony, not of the dash itself.
+
+The same applies to rhetorical questions. One that genuinely turns the argument earns its place; a run of them in place of statements does not.
 
 ### Prefer positive statements
 
@@ -208,12 +208,23 @@ Watch for register spikes: a passage of plain narrative interrupted by one sente
 
 ### Rhythm
 
-- One idea per sentence.
-- Median sentence length at or under 20 words.
-- No sentence over 35 words.
-- Follow any sentence over 30 words with one under 12.
+- Keep the median sentence at or under 20 words.
+- Follow a long sentence with a short one.
+- Vary the shape of consecutive sentences, not only their length.
 
-Long sentences are not the problem on their own. Uniformly long sentences are, because the reader never gets the short one that lets them bank what they have just read.
+Long sentences are not the problem on their own, and there is no word ceiling. A sentence that carries a list, a qualification, or a chain of related clauses is often clearer whole than chopped up. Uniformly long sentences are the problem, because the reader never gets the short one that lets them bank what they have just read.
+
+**Do not over-split.** Breaking a sentence in two is only an improvement when the halves are genuinely separate points. Splitting a single idea forces the subject to be restated, drops the connective that showed how the halves related, and produces a stack of short declaratives that reads as choppy rather than clear.
+
+Prefer:
+
+> Everything described above was recited by one man who could neither read nor write, over twenty-three years, in seventh-century Arabia.
+
+Avoid:
+
+> Everything described above was recited by one man who could neither read nor write. It came over twenty-three years, in seventh-century Arabia.
+
+The three circumstances belong to one claim. The second version separates them, gains nothing, and spends a sentence on a pronoun. "One idea per sentence" is a caution against cramming, not a licence to fragment.
 
 ---
 
@@ -221,7 +232,11 @@ Long sentences are not the problem on their own. Uniformly long sentences are, b
 
 Long articles on this site carry their evidence as a numbered claim followed by indented supporting lines. That structure only works if each line has one job and the reader can tell which job it is before reading it.
 
-**The claim line.** One bolded phrase per bullet, inside the first sentence, positioned so that the bolded words alone state the point when the page is scanned. The lead sentence stays at or under 25 words. Anything longer belongs in the lines beneath it.
+**The claim line.** Bold the words a reader scanning the page needs, and start in the first sentence so the point registers before the detail does. Use as many bolded spans as there are key terms: a bullet naming four things the Quraysh offered him should bold all four, not summarise them under one span. What makes bolding fail is bolding an unremarkable phrase, or bolding so much of a bullet that nothing stands out — not the count.
+
+Read each bullet's bolded words on their own. They should state the claim, and a reader moving down the page at speed should be able to follow the argument from them alone.
+
+Keep the lead sentence at or under 25 words where the sense allows. Long supporting detail belongs in the lines beneath it.
 
 **The supporting lines**, in this order, each as its own indented block:
 
@@ -537,7 +552,8 @@ Also avoid:
 Also avoid, at the level of the sentence:
 
 - gnomic aphorisms standing in for a stated conclusion;
-- em dashes used where a full stop belongs;
+- runs of sentences that all end on an em-dash clause;
+- sentences split in two where one idea spans both halves;
 - stacked appositives between a subject and its verb;
 - register spikes into philosophical idiom (*admits of*, *obtains*, *the evidential value*);
 - the passive voice combined with a negation;
@@ -588,7 +604,7 @@ Use a confident, composed, dignified, and intellectually serious voice. Present 
 
 Use clear, accessible English. Define all Arabic and technical terms immediately, and again in each major section where they recur. Organize the article with descriptive headings and logically connected sections. Each paragraph should advance one distinct point.
 
-Write the sentences to be read once. Where a fact supports a conclusion, state the conclusion as a clause with a subject and a verb rather than implying it through an aphorism, a bare contrast, or an em dash. Keep one idea per sentence, one em dash per sentence at most, and no sentence over 35 words. Vary sentence length, and follow a long sentence with a short one. Prefer positive statements to negated ones, and never combine the passive voice with a negation. Prefer verbs to abstract nouns and people to categories. A trailing epigram is worth using once in a section and never as a default ending.
+Write the sentences to be read once. Where a fact supports a conclusion, state the conclusion as a clause with a subject and a verb rather than implying it through an aphorism, a bare contrast, or an em dash. Vary sentence length and shape, and follow a long sentence with a short one. Do not split a sentence whose halves express one idea; over-splitting reads as choppy, not clear. Prefer positive statements to negated ones, and never combine the passive voice with a negation. Prefer verbs to abstract nouns and people to categories. A trailing epigram is worth using once in a section and never as a default ending.
 
 When discussing historical context, use it to clarify the realities and meanings of events without reducing morality to historical relativism. Explain the timeless Islamic principles governing the issue.
 
@@ -664,7 +680,7 @@ Use a reverent, analytical apologetic style. Write for an educated general audie
 
 Be confident, composed, dignified, and intellectually honest. Distinguish established facts, mainstream positions, disputed interpretations, and speculation. Define Arabic and technical terms immediately, and again in each section where they recur.
 
-State every inference outright instead of implying it through an aphorism, a contrast, or an em dash. One idea per sentence, one em dash per sentence at most, nothing over 35 words, and long sentences followed by short ones. Prefer positive statements, concrete verbs, and named people over negations, abstract nouns, and categories.
+State every inference outright instead of implying it through an aphorism, a contrast, or an em dash. Vary sentence length and shape, and follow long sentences with short ones, but do not split a sentence whose halves express one idea. Prefer positive statements, concrete verbs, and named people over negations, abstract nouns, and categories.
 
 Contextualize historical issues without reducing morality to relativism. Build cumulative arguments and avoid sensational scientific, numerical, or historical claims. Do not use mockery, hostility, triumphalist rhetoric, clichés, filler, repetition, vague claims, or unsupported certainty.
 
@@ -697,12 +713,11 @@ Before finalizing an article, verify that it:
 
 The items above are judgment calls. The following are countable, and should be checked mechanically:
 
-- no sentence runs over 35 words;
-- no sentence carries two em dashes;
 - no subsection ends more than one item on a trailing punchline;
 - no bullet opens with a fronted participle more than once per subsection;
-- every bullet carries exactly one bolded phrase, and that phrase states the claim when read alone;
-- every bullet's lead sentence runs to 25 words or fewer;
+- every bullet carries bolding, and its bolded words state the claim when read alone;
+- no run of consecutive sentences shares the same length and shape;
+- every bullet's lead sentence runs to 25 words or fewer, unless the sense requires more;
 - indented lines under a bullet follow the fixed order, with the source leading every commentary block;
 - no bullet carries more than one commentary block;
 - every Arabic or technical term is glossed within its own section;
