@@ -2,5 +2,6 @@
   "$schema": "https://raw.githubusercontent.com/DavidAnson/markdownlint/main/schema/markdownlint-config-schema.json",
   "MD033": {
     "allowed_elements": ["div", "span"]
-  }
+  },
+  "MD013": false
 }
