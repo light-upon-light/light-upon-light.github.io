@@ -4,6 +4,15 @@ Jekyll site (GitHub Pages) using the `minimal-mistakes` theme via `remote_theme`
 Pages live in `_pages/`, build with `bundle exec jekyll build`, output is flat
 (`_site/quran.html`, not `_site/quran/index.html`).
 
+## Site description
+
+Two strings in `_config.yml`, each with one job — don't reintroduce a third:
+
+- `description` — the SEO string. The theme feeds it to `<meta name="description">`
+  and `og:description`. Plain, no ﷺ, since it renders in search snippets.
+- `blurb` — the prose sentence. The homepage and the about page render
+  `{{ site.blurb }}`; nothing hardcodes it.
+
 ## Qur'an citations
 
 **Never write Qur'anic Arabic from memory.** Fetch it:

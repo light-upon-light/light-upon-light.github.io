@@ -21,7 +21,8 @@ title                    : "Light"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Light upon Light"
-description              : "Articles on the Qur'an, the life of the Prophet Muhammad, and responses to common objections raised against Islam."
+description              : "Articles on the Qur'an, the life of the Prophet Muhammad, and responses to common misrepresentations of Islam."
+blurb                    : "This site collects articles examining the Qur'an and the life of the Prophet Muhammad ﷺ, and responding to common misrepresentations of Islam."
 url                      : "https://light-upon-light.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 domain                   : light-upon-light.github.io
 baseurl                  : # the subpath of your site, e.g. "/blog"
