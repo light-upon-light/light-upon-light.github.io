@@ -105,13 +105,48 @@ reader has installed.
 
 Anything that needs to be *in* `<body>` goes in `_includes/footer/custom.html`,
 the theme's other hook (`_layouts/default.html` includes it just inside the
-footer). `#back-to-top` lives there — button, style, and script together, since
-it is self-contained. It is hidden at `64em` and up, where the theme's sticky
-TOC sidebar is already on screen; below that the TOC collapses inline to the
-top of the article and scrolling is the only way back to it. Skin colours are
-hardcoded from `_sass/minimal-mistakes/skins/_dirt.scss` — the theme exposes
-its palette as Sass variables, not CSS custom properties, so an include cannot
-read them. Changing `minimal_mistakes_skin` means updating them by hand.
+footer). `#floating-nav` lives there — markup, style, and script together,
+since it is self-contained. It holds two stacked buttons, `#toc-toggle` above
+`#back-to-top`, both revealed once the reader is one viewport down.
+
+All of it is hidden at `64em` and up, where the theme's sticky TOC sidebar is
+already on screen. Below that the TOC collapses inline to the top of the
+article, so the buttons are the only way back to it.
+
+Skin colours are hardcoded from `_sass/minimal-mistakes/skins/_dirt.scss` — the
+theme exposes its palette as Sass variables, not CSS custom properties, so an
+include cannot read them. Changing `minimal_mistakes_skin` means updating them
+by hand.
+
+### The TOC drawer
+
+`#toc-toggle` repositions the theme's own `.sidebar__right` into a bottom sheet
+rather than cloning it, so the theme's `.toc` / `.toc__menu` rules and its
+scrollspy `.active` highlighting keep working on the real node. This is safe
+because below `$large` the theme gives that node nothing but `margin-bottom`,
+and no ancestor is transformed, so `position: fixed` behaves.
+
+Two body classes, not one: `toc-active` mounts the sheet off-screen and
+`toc-open` slides it in. The split is what lets the *close* animate — the node
+has to stay `fixed` until the transition ends, so `toc-active` is removed on a
+timer. Opening forces a reflow between the two, or there is no starting point
+to transition from. Scroll-locking reuses the theme's own `overflow--hidden`.
+
+The close `×` is injected by script into the theme's TOC `<header>`, so it must
+be `display: none` by default — otherwise it shows up in the inline TOC too.
+Making `.nav__title` a flex container to centre it drops the whitespace between
+the theme's icon and its label; `gap` puts it back.
+
+Pages without a TOC (home, about) have no `.sidebar__right` at all. The script
+detects that and sets `.no-toc`, which hides `#toc-toggle` and leaves
+`#back-to-top` alone.
+
+Headless Chrome is poor at verifying this: it will not composite scrolled
+regions (screenshots come out blank), `--virtual-time-budget` freezes the CSS
+transition clock so opacity and transform read their *start* values, and the
+window cannot go narrower than a ~504px viewport. Force the end state directly
+— add `is-visible`, click the toggle, disable transitions — and assert on
+`getBoundingClientRect` and class lists instead of pixels.
 
 The theme sets `blockquote { font-style: italic }`. Arabic has no true italic,
 so browsers synthesise an oblique slant that mangles the joins — `.quran-arabic`

@@ -1,24 +1,69 @@
 <!-- start custom footer snippets -->
 
-<!-- Back-to-top button. On narrow viewports the theme's sticky TOC sidebar
-     collapses to an inline block at the top of the article, so the only way
-     back to the contents is scrolling. Hidden at $large (1024px) and up,
-     where the sticky sidebar is visible alongside the text. -->
-<button id="back-to-top" type="button" aria-label="Back to top" title="Back to top">
-  <svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true" focusable="false">
-    <path d="M12 5.5 L5 12.5 M12 5.5 L19 12.5 M12 5.5 L12 19"
-          fill="none" stroke="currentColor" stroke-width="2.2"
-          stroke-linecap="round" stroke-linejoin="round" />
-  </svg>
-</button>
+<!-- Floating navigation for narrow viewports. At $large and up the theme's
+     sticky TOC sidebar sits alongside the text, so none of this is needed and
+     all of it is hidden. Below that the TOC collapses to an inline block at
+     the top of the article and scrolling is the only way back to it.
+
+     The drawer repositions the theme's own `.sidebar__right` node rather than
+     cloning it, so the theme's `.toc` / `.toc__menu` styling and its scrollspy
+     `.active` highlighting keep working. Below $large the theme gives that
+     node nothing but `margin-bottom`, and no ancestor is transformed, so
+     `position: fixed` behaves. -->
+
+<div id="floating-nav">
+  <button id="toc-toggle" type="button" aria-expanded="false" aria-label="Table of contents" title="Table of contents">
+    <svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true" focusable="false">
+      <path d="M4 6.5h16 M4 12h16 M4 17.5h16" fill="none" stroke="currentColor"
+            stroke-width="2.2" stroke-linecap="round" />
+    </svg>
+  </button>
+  <button id="back-to-top" type="button" aria-label="Back to top" title="Back to top">
+    <svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true" focusable="false">
+      <path d="M12 5.5 L5 12.5 M12 5.5 L19 12.5 M12 5.5 L12 19"
+            fill="none" stroke="currentColor" stroke-width="2.2"
+            stroke-linecap="round" stroke-linejoin="round" />
+    </svg>
+  </button>
+</div>
+
+<div id="toc-backdrop" hidden></div>
 
 <style>
-  #back-to-top {
+  /* ------------------------------------------------------------------
+     Floating buttons
+     ------------------------------------------------------------------ */
+
+  #floating-nav {
     position: fixed;
     right: 1rem;
     bottom: calc(1rem + env(safe-area-inset-bottom, 0px));
     z-index: 100;
 
+    display: flex;
+    flex-direction: column;
+    gap: 0.6rem;
+
+    /* hidden until scrolled; visibility (not just opacity) keeps the buttons
+       out of the tab order and the accessibility tree while they are off */
+    opacity: 0;
+    visibility: hidden;
+    transform: translateY(0.5rem);
+    transition: opacity 0.2s ease, transform 0.2s ease, visibility 0.2s;
+  }
+
+  #floating-nav.is-visible {
+    opacity: 0.9;
+    visibility: visible;
+    transform: translateY(0);
+  }
+
+  #floating-nav:hover,
+  #floating-nav:focus-within {
+    opacity: 1;
+  }
+
+  #floating-nav button {
     /* 44px: minimum comfortable touch target */
     width: 2.75rem;
     height: 2.75rem;
@@ -34,44 +79,174 @@
     border-radius: 50%;
     box-shadow: 0 2px 6px rgba(0, 0, 0, 0.3);
     cursor: pointer;
+  }
 
-    /* hidden until scrolled; visibility (not just opacity) keeps it out of
-       the tab order and the accessibility tree while it is off */
+  /* pages without a TOC (home, about) keep only the back-to-top button */
+  #floating-nav.no-toc #toc-toggle {
+    display: none;
+  }
+
+  /* the close button is injected into the theme's own TOC header, so it has to
+     stay invisible in the inline TOC and only appear in drawer mode */
+  #toc-close {
+    display: none;
+  }
+
+  /* ------------------------------------------------------------------
+     TOC drawer
+     ------------------------------------------------------------------ */
+
+  #toc-backdrop {
+    position: fixed;
+    inset: 0;
+    z-index: 105;
+    background-color: rgba(52, 52, 52, 0.5);
     opacity: 0;
-    visibility: hidden;
-    transform: translateY(0.5rem);
-    transition: opacity 0.2s ease, transform 0.2s ease, visibility 0.2s;
+    transition: opacity 0.25s ease;
   }
 
-  #back-to-top.is-visible {
-    opacity: 0.9;
-    visibility: visible;
-    transform: translateY(0);
-  }
-
-  #back-to-top:hover,
-  #back-to-top:focus {
+  #toc-backdrop.is-open {
     opacity: 1;
   }
 
-  @media (prefers-reduced-motion: reduce) {
-    #back-to-top { transition: none; }
+  /* $large — from here up the sticky sidebar is on screen and the drawer,
+     the backdrop and the buttons are all redundant */
+  @media (max-width: 63.99em) {
+    /* `toc-active` mounts the drawer off-screen; `toc-open` slides it in.
+       Splitting the two is what allows the close to animate — on close the
+       node must stay fixed until the transition finishes. */
+    body.toc-active .sidebar__right {
+      position: fixed;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      z-index: 110;
+
+      margin: 0;
+      max-height: 75vh;
+      display: flex;
+      flex-direction: column;
+
+      transform: translateY(100%);
+      transition: transform 0.25s ease;
+    }
+
+    body.toc-active.toc-open .sidebar__right {
+      transform: translateY(0);
+    }
+
+    /* let the menu scroll inside the sheet rather than the sheet growing */
+    body.toc-active .sidebar__right .toc {
+      display: flex;
+      flex-direction: column;
+      min-height: 0;
+      margin: 0;
+      border-bottom: 0;
+    }
+
+    body.toc-active .sidebar__right .toc__menu {
+      min-height: 0;
+      overflow-y: auto;
+      -webkit-overflow-scrolling: touch;
+      padding-bottom: env(safe-area-inset-bottom, 0px);
+    }
+
+    /* while the sheet is open it covers the floating buttons, so the header
+       carries the only visible dismiss control (backdrop tap and Escape also
+       close it). Give the title bar a full 44px so the target is reachable. */
+    body.toc-active .sidebar__right .toc > header {
+      position: relative;
+    }
+
+    body.toc-active .sidebar__right .toc .nav__title {
+      display: flex;
+      align-items: center;
+      /* flex drops the whitespace between the theme's icon and its label */
+      gap: 0.5em;
+      min-height: 2.75rem;
+      padding-inline-end: 3rem;
+    }
+
+    body.toc-active #toc-close {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      position: absolute;
+      top: 0;
+      inset-inline-end: 0;
+      width: 2.75rem;
+      height: 2.75rem;
+      padding: 0;
+      color: #fff;
+      background: none;
+      border: 0;
+      cursor: pointer;
+    }
   }
 
-  /* $large — the sticky TOC sidebar is on screen from here up */
   @media (min-width: 64em) {
-    #back-to-top { display: none; }
+    #floating-nav,
+    #toc-backdrop {
+      display: none;
+    }
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    #floating-nav,
+    #toc-backdrop,
+    body.toc-active .sidebar__right {
+      transition: none;
+    }
   }
 
   @media print {
-    #back-to-top { display: none; }
+    #floating-nav,
+    #toc-backdrop {
+      display: none;
+    }
   }
 </style>
 
 <script>
   (function () {
-    var btn = document.getElementById("back-to-top");
-    if (!btn) return;
+    var nav = document.getElementById("floating-nav");
+    var backdrop = document.getElementById("toc-backdrop");
+    var topBtn = document.getElementById("back-to-top");
+    var tocBtn = document.getElementById("toc-toggle");
+    if (!nav) return;
+
+    var body = document.body;
+    var drawer = document.querySelector(".sidebar__right");
+    var toc = drawer ? drawer.querySelector(".toc") : null;
+
+    // home and about have no TOC; hide that button and keep back-to-top
+    var closeBtn = null;
+
+    if (!toc) {
+      nav.classList.add("no-toc");
+    } else {
+      if (!toc.id) toc.id = "toc-drawer";
+      tocBtn.setAttribute("aria-controls", toc.id);
+
+      var tocHeader = toc.querySelector("header");
+      if (tocHeader) {
+        closeBtn = document.createElement("button");
+        closeBtn.id = "toc-close";
+        closeBtn.type = "button";
+        closeBtn.setAttribute("aria-label", "Close table of contents");
+        closeBtn.innerHTML =
+          '<svg viewBox="0 0 24 24" width="18" height="18" aria-hidden="true" focusable="false">' +
+          '<path d="M6 6 L18 18 M18 6 L6 18" fill="none" stroke="currentColor" ' +
+          'stroke-width="2.2" stroke-linecap="round" /></svg>';
+        tocHeader.appendChild(closeBtn);
+      }
+    }
+
+    function reduceMotion() {
+      return window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+    }
+
+    /* --- show / hide the buttons on scroll --- */
 
     var shown = false;
     var ticking = false;
@@ -81,7 +256,7 @@
       var should = window.pageYOffset > window.innerHeight;
       if (should !== shown) {
         shown = should;
-        btn.classList.toggle("is-visible", shown);
+        nav.classList.toggle("is-visible", shown);
       }
     }
 
@@ -92,9 +267,85 @@
       }
     }, { passive: true });
 
-    btn.addEventListener("click", function () {
-      var reduce = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
-      window.scrollTo({ top: 0, behavior: reduce ? "auto" : "smooth" });
+    /* --- drawer --- */
+
+    var closeTimer = null;
+
+    function isOpen() {
+      return body.classList.contains("toc-open");
+    }
+
+    function openDrawer() {
+      if (!toc || isOpen()) return;
+      window.clearTimeout(closeTimer);
+
+      backdrop.hidden = false;
+      body.classList.add("toc-active", "overflow--hidden");
+      // force a reflow so the slide-in transition has a starting point
+      void drawer.offsetHeight;
+      body.classList.add("toc-open");
+      backdrop.classList.add("is-open");
+
+      tocBtn.setAttribute("aria-expanded", "true");
+      toc.setAttribute("tabindex", "-1");
+      toc.focus();
+    }
+
+    function closeDrawer(returnFocus) {
+      if (!toc || !isOpen()) return;
+
+      body.classList.remove("toc-open");
+      backdrop.classList.remove("is-open");
+      tocBtn.setAttribute("aria-expanded", "false");
+
+      var finish = function () {
+        body.classList.remove("toc-active", "overflow--hidden");
+        backdrop.hidden = true;
+        toc.removeAttribute("tabindex");
+      };
+
+      if (reduceMotion()) finish();
+      else closeTimer = window.setTimeout(finish, 250);
+
+      if (returnFocus) tocBtn.focus();
+    }
+
+    tocBtn.addEventListener("click", function () {
+      if (isOpen()) closeDrawer(true);
+      else openDrawer();
+    });
+
+    backdrop.addEventListener("click", function () {
+      closeDrawer(true);
+    });
+
+    if (closeBtn) {
+      closeBtn.addEventListener("click", function () {
+        closeDrawer(true);
+      });
+    }
+
+    document.addEventListener("keydown", function (e) {
+      if (e.key === "Escape" || e.key === "Esc") closeDrawer(true);
+    });
+
+    // jumping to a heading should dismiss the sheet
+    if (toc) {
+      toc.addEventListener("click", function (e) {
+        if (e.target.closest("a")) closeDrawer(false);
+      });
+    }
+
+    // the drawer only exists below $large; don't let it linger past a rotate
+    window.addEventListener("resize", function () {
+      if (isOpen() && window.innerWidth >= 1024) closeDrawer(false);
+    });
+
+    /* --- back to top --- */
+
+    topBtn.addEventListener("click", function () {
+      closeDrawer(false);
+      window.scrollTo({ top: 0, behavior: reduceMotion() ? "auto" : "smooth" });
     });
 
     update();
