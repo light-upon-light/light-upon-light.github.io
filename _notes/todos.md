@@ -8,6 +8,13 @@ general:
 - And do something like the above but more generally for the whole repo
 
 quran.md:
+- remove the diactricts from names and from sahih bukhari
+- make all translations saheeh international
+- page titles and stuff focus on quran, but i want to focus on quran + his life together as one single unit demonstrating his prophethood.
+- alternative that he was sent by satan and is a false prophet.
+- more rigorous details about how hadith was perserved, similar to quran.
+- the writing style is a bit hard to understand right away, mix of vocab + sentence structure
+- more and more examples and events from his life adn teachings that show his unmatched moral character, love, kindness and mercy.
 
 merge 1 and 4 section 1
 
