@@ -1,0 +1,180 @@
+---
+# Front matter (even empty) is what makes Jekyll run this through Sass.
+search: false
+---
+
+/* ==========================================================================
+   Dark mode
+   ==========================================================================
+
+   A second, complete copy of the theme compiled with a dark palette. It is
+   loaded alongside main.css and switched on and off with the <link> media
+   attribute — see _includes/head/custom.html.
+
+   Why a whole second stylesheet rather than CSS custom properties: a
+   minimal-mistakes skin is a set of *Sass* variables, and the theme runs Sass
+   colour functions over them (mix(), rgba(), yiq-contrasted()). `mix(#fff,
+   var(--x), 20%)` does not compile, so the palette has to be resolved at build
+   time. Compiling the theme twice is the only way to get every component
+   covered without hand-maintaining a list of overrides.
+
+   Since main.css and this file are generated from the same partials, every
+   selector here matches one there exactly. Source order decides the winner, so
+   this file must be linked *after* main.css.
+
+   The palette is hand-derived from the dirt skin — a night version of the same
+   warm, illuminated-manuscript scheme — not one of the theme's stock dark
+   skins, whose cool teal has nothing to do with this site.
+
+   Contrast against the #1c1a17 background (WCAG 2.1):
+
+     body text   #e6ded2   13.0:1   AAA
+     muted       #a2988a    6.1:1   AA
+     .src text   #b8ab97    7.7:1   AA  (recedes, as 5.4:1 does in light)
+     #fff on $primary-color  6.2:1   AA
+     blockquote rule vs page 3.3:1   AA non-text
+
+   Re-check these by hand if any value below changes. */
+
+/* Colors */
+$background-color: #1c1a17; // warm near-black
+$text-color: #e6ded2; // cream
+$muted-text-color: #a2988a;
+$border-color: #4a4238;
+$footer-background-color: #2a251e;
+
+/* $primary-color does two opposing jobs: it is the background *behind* white
+   text (.nav__title, .btn--primary, the current pagination item) and it is the
+   default blockquote rule drawn *on* the page background. Light enough for the
+   first, dark enough for the second — this is the compromise. The blockquote
+   rule is re-set explicitly after the import below, which decouples the two. */
+$primary-color: #6f5f48;
+
+/* the scrollspy highlight in the TOC. The theme picks the text colour with
+   yiq-contrasted(), so this has to stay dark enough that white wins: at 10%
+   white the YIQ is 113 (threshold 175) and white clears AA at 4.9:1. The stock
+   80% would give a near-white pill on a dark page. */
+$active-color: mix(#fff, $primary-color, 10%);
+
+/* focus rings: $primary-color is only 2:1 against the background here, which is
+   not a visible focus indicator. Gold is, and it is already in the palette. */
+$focus-color: #d4a04a;
+
+$code-background-color: #26221c;
+$code-background-color-dark: #16140f;
+$form-background-color: #26221c;
+
+/* dirt is monochrome — link colour is the text colour, and links are told apart
+   by the underline on hover. Keep that. Hover and visited have to move the
+   opposite way from the light skin: lighter, not darker. */
+$link-color: $text-color;
+$link-color-hover: mix(#fff, $text-color, 25%);
+$link-color-visited: mix(#000, $text-color, 15%);
+$masthead-link-color: $text-color;
+$masthead-link-color-hover: mix(#fff, $text-color, 25%);
+$navicon-link-color-hover: mix(#fff, $background-color, 20%);
+
+/* dirt syntax highlighting (base16) — already a dark scheme, so code blocks
+   look the same in both modes. base00 (#231e18) sits just above the page
+   background, which reads as a panel. Kept verbatim from _dirt.scss. */
+$base00: #231e18;
+$base01: #302b25;
+$base02: #48413a;
+$base03: #9d8b70;
+$base04: #b4a490;
+$base05: #cabcb1;
+$base06: #d7c8bc;
+$base07: #e4d4c8;
+$base08: #d35c5c;
+$base09: #ca7f32;
+$base0a: #e0ac16;
+$base0b: #b7ba53;
+$base0c: #6eb958;
+$base0d: #88a4d3;
+$base0e: #bb90e2;
+$base0f: #b49368;
+
+@import "minimal-mistakes";
+
+/* ==========================================================================
+   Everything below overrides a rule the import above just emitted, so it has
+   to come after it.
+   ========================================================================== */
+
+/* form controls, scrollbars and the like */
+:root {
+  color-scheme: dark;
+}
+
+::selection {
+  color: $background-color;
+  background: #d4a04a;
+}
+
+/* an untagged blockquote — a bare link, a prose aside — keeps the theme's
+   default rule. Decoupled from $primary-color, which is chosen for white text
+   on top of it and is too dark to read as a rule here. */
+blockquote {
+  border-inline-start-color: #6b6152;
+}
+
+/* the two masthead controls are controls, not surfaces: at $primary-color they
+   are 2:1 against the background. #theme-toggle is this repo's own button, in
+   _includes/masthead.html, styled next to the theme's in head/custom.html. */
+.search__toggle,
+#theme-toggle {
+  color: $text-color;
+
+  &:hover {
+    color: mix(#fff, $text-color, 25%);
+  }
+}
+
+/* --------------------------------------------------------------------------
+   Evidence blocks — the dark half of the palette in _includes/head/custom.html.
+   Same three kinds, same meanings: gold for revealed text, taupe for the
+   apparatus, verdigris for the author's commentary.
+
+   .src sets a `color`, never an `opacity`, for the same reason it does in light
+   mode: opacity fades any link inside the block along with the text.
+   -------------------------------------------------------------------------- */
+
+/* revealed text: gold */
+blockquote.quote {
+  border-inline-start-color: #d4a04a;
+}
+
+/* apparatus: taupe rule, warm grey text. Recedes. */
+blockquote.src {
+  color: #b8ab97;
+  border-inline-start-color: #8a7d68;
+}
+
+/* the author's own voice: verdigris rule and the faintest wash */
+blockquote.gloss {
+  border-inline-start-color: #4fa89c;
+  background-color: rgba(79, 168, 156, 0.08);
+}
+
+/* --------------------------------------------------------------------------
+   Floating nav and TOC drawer.
+
+   These are styled by an inline <style> in _includes/footer/custom.html, which
+   sits inside <body> and therefore *after* this stylesheet in the document.
+   Equal specificity would lose on source order, so each selector here is
+   prefixed with `body` to win outright. Do not drop that prefix.
+
+   #toc-panel .nav__title and #toc-close need nothing: both key off
+   $primary-color, which is dark in either mode, so white text still works.
+   -------------------------------------------------------------------------- */
+
+body #floating-nav button {
+  color: $text-color;
+  background-color: #2f2a23;
+  border-color: $primary-color;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.6);
+}
+
+body #toc-backdrop {
+  background-color: rgba(0, 0, 0, 0.65);
+}

@@ -159,6 +159,9 @@ the link colour. `.src` sets `color`, never `opacity`, because opacity fades any
 link inside the block along with the text; at `#6f6152` it clears WCAG AA for
 small text at 5.4:1. Re-check these by hand if the skin changes.
 
+Every colour here has a dark counterpart in `assets/css/dark.scss` — see
+[Dark mode](#dark-mode) before changing any of them.
+
 Anything that needs to be *in* `<body>` goes in `_includes/footer/custom.html`,
 the theme's other hook (`_layouts/default.html` includes it just inside the
 footer). `#floating-nav` lives there — markup, style, and script together,
@@ -172,7 +175,77 @@ article, so the buttons are the only way back to it.
 Skin colours are hardcoded from `_sass/minimal-mistakes/skins/_dirt.scss` — the
 theme exposes its palette as Sass variables, not CSS custom properties, so an
 include cannot read them. Changing `minimal_mistakes_skin` means updating them
-by hand.
+by hand, in both palettes.
+
+### Dark mode
+
+`assets/css/dark.scss` compiles **the whole theme a second time** with a dark
+palette. `_includes/head/custom.html` links the result last in `<head>` and
+switches it on and off with the `<link media>` attribute:
+
+```text
+main.css   dirt skin, always applied
+dark.css   dark palette, media toggled — loads second, so it wins
+```
+
+**Custom properties cannot do this job.** A minimal-mistakes skin is a set of
+*Sass* variables and the theme runs Sass colour functions over them — `mix()`,
+`rgba()`, `yiq-contrasted()`. `mix(#fff, var(--x), 20%)` does not compile, so
+the palette has to be resolved at build time. Compiling twice costs ~70 KB
+minified (~10 KB gzipped) and in exchange covers every theme component,
+including ones the site doesn't use yet.
+
+Because both files come from the same partials, **every selector matches
+exactly and source order decides the winner**. Three consequences:
+
+- The `dark.css` link must stay the **last** stylesheet in the head. It is
+  already after the `<style>` block in the same include, which is what lets it
+  override the custom light-mode CSS there.
+- Dark variants of this repo's own CSS belong **in `dark.scss`**, not behind a
+  `prefers-color-scheme` block or an `html[data-theme]` selector somewhere else.
+  One toggled stylesheet is the single source of truth, and it is what makes the
+  no-JavaScript path come out right.
+- Rules defined in `_includes/footer/custom.html` are an inline `<style>` inside
+  `<body>`, so they come *after* `dark.css` and would win a tie. Their dark
+  counterparts are prefixed with `body` (`body #floating-nav button`) to raise
+  specificity. **Do not drop that prefix.**
+
+The palette is hand-derived from dirt — a night version of the same warm
+scheme — not one of the theme's stock dark skins, whose cool teal has nothing
+to do with this site. `dark.scss` lists the computed contrast ratios; re-check
+them by hand if any value changes. Two of the choices are not free:
+
+- `$primary-color` (`#6f5f48`) does two opposing jobs: it is the background
+  *behind* white text (`.nav__title`, `.btn--primary`) and the default
+  `blockquote` rule drawn *on* the page background. It is a compromise between
+  them, and the blockquote rule is then re-set after the import to decouple the
+  two. `#toc-panel .nav__title` and `#toc-close` need no dark rule at all
+  because of this — primary is dark in both modes, so white text still works.
+- `$active-color` (the TOC scrollspy highlight) has to stay dark enough that
+  the theme's `yiq-contrasted()` still picks white. The stock 80%-white value
+  would paint a near-white pill on a dark page.
+
+Dirt's base16 syntax colours are already a dark scheme, so they are carried over
+verbatim and code blocks look the same in both modes.
+
+**Mode selection.** The `media` attribute ships as `(prefers-color-scheme: dark)`,
+so a reader with JavaScript off still gets dark on a dark-preferring system. The
+inline script in `head/custom.html` pins it to `all` / `not all` once there is an
+explicit choice in `localStorage`, and mirrors the result onto
+`documentElement.dataset.theme`, which is what picks the button's icon and label.
+It runs in `<head>`, before the masthead is parsed, so the page never paints in
+the wrong mode and there is no frame where both icons show. Choosing the mode the
+system already prefers **clears** the stored value rather than pinning it, so the
+site goes back to following the system.
+
+`_includes/masthead.html` is a **fork of the theme's file**, verbatim for
+4.28.0 apart from the `#theme-toggle` button. The theme has no hook inside the
+masthead. If the `remote_theme` pin in `_config.yml` moves, diff this file
+against the new release. GreedyNav measures the space left for nav links by
+subtracting the title and the search toggle from the nav width and knows nothing
+about `#theme-toggle`, so it thinks it has ~2.6rem more room than it does —
+harmless while `_data/navigation.yml` holds one short link, worth revisiting if
+the nav grows.
 
 ### The TOC drawer
 

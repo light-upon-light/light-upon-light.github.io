@@ -1,0 +1,74 @@
+{%- comment -%}
+  A local copy of minimal-mistakes 4.28.0's _includes/masthead.html, verbatim
+  except for the #theme-toggle button below. The theme offers no hook inside the
+  masthead, so overriding the whole file is the only way to put a control there.
+  Injecting it with JavaScript (the way footer/custom.html builds the TOC
+  drawer) would work, but the button would pop in after load.
+
+  The theme is pinned to 4.28.0 in _config.yml, so this fork is stable. If that
+  pin moves, diff this file against the new release.
+
+  One knock-on: GreedyNav (assets/js/plugins/jquery.greedy-navigation.js)
+  measures the space available for nav links by subtracting the site title and
+  the search toggle from the nav width. It knows nothing about #theme-toggle, so
+  it believes it has ~2.6rem more room than it does. Harmless while
+  _data/navigation.yml holds a single short link — it cannot overflow at any
+  width. Revisit if the nav grows.
+{%- endcomment -%}
+{% assign locale = include.locale | default: site.locale %}
+{% capture logo_path %}{{ site.logo }}{% endcapture %}
+
+<div class="masthead">
+  <div class="masthead__inner-wrap">
+    <div class="masthead__menu">
+      <nav id="site-nav" class="greedy-nav" aria-label="Primary navigation">
+        {% unless logo_path == empty %}
+          <a class="site-logo" href="{{ '/' | relative_url }}"><img src="{{ logo_path | relative_url }}" alt="{{ site.masthead_title | default: site.title }}"></a>
+        {% endunless %}
+        <a class="site-title" href="{{ '/' | relative_url }}">
+          {{ site.masthead_title | default: site.title | escape_once | strip }}
+          {% if site.subtitle %}<span class="site-subtitle">{{ site.subtitle | escape_once | strip }}</span>{% endif %}
+        </a>
+        <ul class="visible-links">
+          {%- for link in site.data.navigation.main -%}
+            <li class="masthead__menu-item">
+              <a
+                href="{{ link.url | relative_url }}"
+                {% if link.description %} title="{{ link.description }}"{% endif %}
+                {% if link.target %} target="{{ link.target }}"{% endif %}
+              >{{ link.title }}</a>
+            </li>
+          {%- endfor -%}
+        </ul>
+        {%- comment -%}
+          Light / dark toggle. The label and which of the two icons is shown are
+          set by the script in _includes/head/custom.html, which has already run
+          by the time this is parsed. Both are given here as a sane starting
+          point for the no-JavaScript case, where the button is hidden anyway.
+        {%- endcomment -%}
+        <button id="theme-toggle" type="button" aria-label="Switch to dark mode" title="Switch to dark mode">
+          <svg class="theme-toggle__moon" viewBox="0 0 24 24" width="18" height="18" aria-hidden="true" focusable="false">
+            <path d="M20.5 14.6A8.6 8.6 0 0 1 9.4 3.5a8.6 8.6 0 1 0 11.1 11.1Z"
+                  fill="currentColor" />
+          </svg>
+          <svg class="theme-toggle__sun" viewBox="0 0 24 24" width="18" height="18" aria-hidden="true" focusable="false">
+            <circle cx="12" cy="12" r="4.2" fill="currentColor" />
+            <path d="M12 1.8v2.6 M12 19.6v2.6 M1.8 12h2.6 M19.6 12h2.6 M4.8 4.8l1.9 1.9 M17.3 17.3l1.9 1.9 M19.2 4.8l-1.9 1.9 M6.7 17.3l-1.9 1.9"
+                  fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" />
+          </svg>
+        </button>
+        {% if site.search == true %}
+        <button class="search__toggle" type="button">
+          <span class="visually-hidden">{{ site.data.ui-text[locale].search_label | default: "Toggle search" }}</span>
+          <i class="fas fa-search"></i>
+        </button>
+        {% endif %}
+        <button class="greedy-nav__toggle hidden" type="button">
+          <span class="visually-hidden">{{ site.data.ui-text[locale].menu_label | default: "Toggle menu" }}</span>
+          <div class="navicon"></div>
+        </button>
+        <ul class="hidden-links hidden"></ul>
+      </nav>
+    </div>
+  </div>
+</div>

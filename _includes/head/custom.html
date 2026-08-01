@@ -8,6 +8,61 @@
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Amiri:wght@400;700&display=swap">
 
 <style>
+  /* form controls, scrollbars and the like. assets/css/dark.scss sets the
+     dark counterpart. */
+  :root {
+    color-scheme: light;
+  }
+
+  /* The mode toggle in the masthead, styled to match the theme's adjacent
+     .search__toggle (height 2rem, borderless, $primary-color). No end margin,
+     so the search toggle's own 1rem is the whole gap between the pair rather
+     than 2rem of stacked margins.
+
+     Colours are hardcoded from the dirt skin, like everything else in this
+     file; assets/css/dark.scss carries the dark values. */
+  #theme-toggle {
+    margin-inline-start: 1rem;
+    margin-inline-end: 0;
+    height: 2rem;
+    padding: 0;
+    display: flex;
+    align-items: center;
+    color: #343434;
+    background-color: transparent;
+    border: 0;
+    outline: none;
+    cursor: pointer;
+    transition: color 0.2s;
+  }
+
+  #theme-toggle:hover {
+    color: #8e8b82;
+  }
+
+  /* Which icon shows is "what clicking does", not "what mode this is": the sun
+     appears in dark mode because it switches back to light.
+
+     The inline script in this file sets data-theme before the masthead is
+     parsed, so there is no frame where both are visible. Without JavaScript
+     there is no data-theme and no working toggle, so the button is hidden
+     entirely — the theme puts the `js` class on <html> in its own head. */
+  #theme-toggle .theme-toggle__sun {
+    display: none;
+  }
+
+  [data-theme="dark"] #theme-toggle .theme-toggle__sun {
+    display: block;
+  }
+
+  [data-theme="dark"] #theme-toggle .theme-toggle__moon {
+    display: none;
+  }
+
+  html:not(.js) #theme-toggle {
+    display: none;
+  }
+
   /* Qur'anic Arabic (Uthmani script) shown alongside English translations */
   .quran-arabic {
     font-family: "Amiri", "Scheherazade New", "Noto Naskh Arabic",
@@ -78,5 +133,100 @@
     padding-block: 0.6em;
   }
 </style>
+
+<!-- Dark mode.
+
+     assets/css/dark.scss compiles the whole theme a second time with a dark
+     palette; this link switches it on and off. It has to stay the *last*
+     stylesheet in the document head: dark.css and main.css are generated from
+     the same partials, so every selector matches exactly and source order is
+     what decides the winner. That includes the custom CSS above — the dark
+     halves of those rules live in dark.scss.
+
+     The media attribute ships as the system query, so a reader with JavaScript
+     disabled still gets dark on a dark-preferring system. The script below then
+     pins it to `all` / `not all` once there is an explicit choice, and because
+     it runs here in <head> the page never paints in the wrong mode. -->
+<link id="theme-dark-css" rel="stylesheet" media="(prefers-color-scheme: dark)"
+      href="{{ '/assets/css/dark.css' | relative_url }}">
+
+<script>
+  (function () {
+    var KEY = "theme";
+    var SYSTEM_MEDIA = "(prefers-color-scheme: dark)";
+
+    var link = document.getElementById("theme-dark-css");
+    var system = window.matchMedia(SYSTEM_MEDIA);
+
+    // null means "follow the system"; localStorage throws in some privacy modes
+    var stored = null;
+    try {
+      stored = window.localStorage.getItem(KEY);
+    } catch (e) {}
+    if (stored !== "light" && stored !== "dark") stored = null;
+
+    function systemMode() {
+      return system.matches ? "dark" : "light";
+    }
+
+    function resolved() {
+      return stored || systemMode();
+    }
+
+    function apply() {
+      // with no explicit choice, leave the media query in place and let the
+      // stylesheet keep tracking the system by itself
+      link.media = stored === null ? SYSTEM_MEDIA
+                 : stored === "dark" ? "all"
+                 : "not all";
+
+      var mode = resolved();
+      document.documentElement.setAttribute("data-theme", mode);
+
+      // not present yet on the first call — this runs before the masthead
+      var btn = document.getElementById("theme-toggle");
+      if (btn) {
+        var label = "Switch to " + (mode === "dark" ? "light" : "dark") + " mode";
+        btn.setAttribute("aria-label", label);
+        btn.setAttribute("title", label);
+      }
+    }
+
+    apply();
+
+    function toggle() {
+      var next = resolved() === "dark" ? "light" : "dark";
+      // picking the mode the system already prefers means going back to
+      // following it, rather than pinning the same value forever
+      stored = next === systemMode() ? null : next;
+
+      try {
+        if (stored === null) window.localStorage.removeItem(KEY);
+        else window.localStorage.setItem(KEY, stored);
+      } catch (e) {}
+
+      apply();
+    }
+
+    function ready() {
+      var btn = document.getElementById("theme-toggle");
+      if (btn) btn.addEventListener("click", toggle);
+      apply();
+    }
+
+    if (document.readyState === "loading") {
+      document.addEventListener("DOMContentLoaded", ready);
+    } else {
+      ready();
+    }
+
+    // only matters while following the system, but apply() is cheap
+    if (system.addEventListener) {
+      system.addEventListener("change", apply);
+    } else if (system.addListener) {
+      system.addListener(apply); // Safari < 14
+    }
+  })();
+</script>
 
 <!-- end custom head snippets -->
