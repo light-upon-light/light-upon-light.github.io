@@ -18,7 +18,7 @@ share: true
 
 [< Back to main page](/quran)
 
-One of the most cited accusations against Islam is the claim that it sanctions domestic abuse, based on *Sūrat al-Nisā’* (4:34) where the verb **“waḍribūhunna”** appears. This reading, however, collapses under scrutiny. When the language, context, Prophetic practice, and juristic tradition are examined in full, it becomes evident that the verse does not license harm but outlines a framework for de-escalating marital conflict.
+One of the most cited accusations against Islam is the claim that it sanctions domestic abuse, based on *Sūrat al-Nisāʾ* (4:34) where the verb **“waḍribūhunna”** appears. This reading, however, collapses under scrutiny. When the language, context, Prophetic practice, and juristic tradition are examined in full, it becomes evident that the verse does not license harm but outlines a framework for de-escalating marital conflict.
 
 ## The verse in question
 
@@ -26,37 +26,37 @@ One of the most cited accusations against Islam is the claim that it sanctions d
 >
 > <div dir="rtl" lang="ar" class="quran-arabic">﴿ٱلرِّجَالُ قَوَّٰمُونَ عَلَى ٱلنِّسَآءِ بِمَا فَضَّلَ ٱللَّهُ بَعْضَهُمْ عَلَىٰ بَعْضٍۢ وَبِمَآ أَنفَقُوا۟ مِنْ أَمْوَٰلِهِمْ ۚ فَٱلصَّٰلِحَٰتُ قَٰنِتَٰتٌ حَٰفِظَٰتٌۭ لِّلْغَيْبِ بِمَا حَفِظَ ٱللَّهُ ۚ وَٱلَّٰتِى تَخَافُونَ نُشُوزَهُنَّ فَعِظُوهُنَّ وَٱهْجُرُوهُنَّ فِى ٱلْمَضَاجِعِ وَٱضْرِبُوهُنَّ ۖ فَإِنْ أَطَعْنَكُمْ فَلَا تَبْغُوا۟ عَلَيْهِنَّ سَبِيلًا ۗ إِنَّ ٱللَّهَ كَانَ عَلِيًّۭا كَبِيرًۭا ۝٣٤﴾ <span class="ayah-ref">سُورَةُ النِّسَاءِ</span></div>
 
-## 1. The elasticity of the word *daraba*
-- Arabic words carry layered meanings, and **daraba** is one of the most polysemous verbs in the language. It can mean *to strike*, but also *to travel, to separate, to set forth, to distance*.
+## 1. The elasticity of the word *ḍaraba*
+- Arabic words carry layered meanings, and **ḍaraba** is one of the most polysemous verbs in the language. It can mean *to strike*, but also *to travel, to separate, to set forth, to distance*.
 - Many early scholars—including al-Ṭabarī—acknowledged multiple possible readings. Several interpreted *waḍribūhunna* as *“separate from them”* or *“part ways.”*
-- Even those who read it as a physical act explicitly ruled out harm. They stressed it must be **symbolic, non-injurious, and closer to a gesture than an act of violence.**
+- Even those who read it as a physical act ruled out harm outright — see Section 4 below for the specific restrictions jurists imposed on it.
 
 ## 2. Prophetic example as the living interpretation of the Qur'an
-- The Qur’an itself commands: *“Indeed, in the Messenger of Allah you have an excellent example”* (**Sūrat al-Aḥzāb 33:21**).
+- The Qur'an itself commands: *“Indeed, in the Messenger of Allah you have an excellent example”* (**Sūrat al-Aḥzāb 33:21**).
   > <div dir="rtl" lang="ar" class="quran-arabic">﴿لَّقَدْ كَانَ لَكُمْ فِى رَسُولِ ٱللَّهِ أُسْوَةٌ حَسَنَةٌۭ﴾ <span class="ayah-ref">[سُورَةُ الأَحۡزَابِ: ٢١]</span></div>
 - Authentic reports state:
   > “The Messenger of Allah never struck anything with his hand, neither a woman nor a servant…” (Ṣaḥīḥ Muslim).
-- This is decisive. The Prophet ﷺ is the *living exegesis* of the Qur’an. If the verse authorized harm, his conduct would have embodied it. His lifelong abstention from such behavior proves otherwise.
+- This is decisive. The Prophet ﷺ is the *living exegesis* of the Qur'an. If the verse authorized harm, his conduct would have embodied it. His lifelong abstention from such behavior proves otherwise.
 
 ## 3. The verse as a graduated system of conflict resolution
 - 4:34 presents a **three-step sequence** for handling serious marital discord:
   1. *Faʿiẓūhunna* (<span dir="rtl" lang="ar">فَعِظُوهُنَّ</span>) → counsel, advise, engage in dialogue.
-  2. *Wahjurūhunna fī’l-maḍājiʿ* (<span dir="rtl" lang="ar">وَٱهْجُرُوهُنَّ فِى ٱلْمَضَاجِعِ</span>) → withdraw from the marital bed, signaling disapproval without hostility.
+  2. *Wahjurūhunna fī'l-maḍājiʿ* (<span dir="rtl" lang="ar">وَٱهْجُرُوهُنَّ فِى ٱلْمَضَاجِعِ</span>) → withdraw from the marital bed, signaling disapproval without hostility.
   3. *Waḍribūhunna* (<span dir="rtl" lang="ar">وَٱضْرِبُوهُنَّ</span>) → understood either as separation or, at most, a symbolic gesture devoid of harm.
 - The progression is clearly toward **defusing tension** and **conflict resolution**, not escalating it into injury.
 
 ## 4. Juristic restrictions and ethical framing
-- Classical jurists who accepted the physical sense of *daraba* set **severe restrictions**:
+- Classical jurists who accepted the physical sense of *ḍaraba* set **severe restrictions**:
   - It must be symbolic and devoid of harm.
   - It must not inflict pain, leave marks, or touch the face or any sensitive area.
   - It cannot be habitual.
   - It was often judged *makrūh* (morally repugnant, though technically allowed).
 - Abuse (*ḍarar*) or harm is a recognized ground for divorce in Islamic law, and a husband who harms his wife is accountable before God and the courts.
 
-## 5. Islam’s directives specific to women
+## 5. Islam's directives specific to women
 Beyond its general ethos, Islam provides explicit, repeated instructions regarding the treatment of women, especially wives. These verses and sayings of the Prophet ﷺ are unambiguous:
 
-### A) Qur’anic directives and protections
+### A) Qur'anic directives and protections
 - **Kindness as the rule:** *“Live with them in kindness.”* (**Sūrat al-Nisāʾ 4:19**)
   > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَعَاشِرُوهُنَّ بِٱلْمَعْرُوفِ﴾ <span class="ayah-ref">[سُورَةُ النِّسَاءِ: ١٩]</span></div>
 - **No harm in retention/divorce:** *“Do not retain them to harm them so that you transgress.”* (**Sūrat al-Baqarah 2:231**)
@@ -87,22 +87,22 @@ Beyond its general ethos, Islam provides explicit, repeated instructions regardi
 ### B) Prophetic commands (verbal)
 - The Prophet ﷺ declared: *“The best of you are those who are best to their wives, and I am the best among you to my wives.”* (Tirmidhī).
 - **“<span dir="rtl" lang="ar">استوصوا بالنساء خيرا</span>” — “Treat women well; I urge you to be good to women.”**
-  — in the Farewell Sermon and other reports *(Ṣaḥīḥ Muslim; also in Bukhārī with related wording).*
+  — in the Farewell Sermon and other reports (Ṣaḥīḥ Muslim; also in Bukhārī with related wording).
 - **“<span dir="rtl" lang="ar">لا تضربوا إماء الله</span>” — “Do not beat the female servants of Allah.”**
   — initial prohibition; later, after complaints reached the Prophet ﷺ about men beating, he said:
   **“<span dir="rtl" lang="ar">لقد طاف بآل محمد نساءٌ كثير يشكون أزواجهن؛ ليس أولئك بخياركم</span>”**
-  *“Many women have come to the family of Muhammad complaining about their husbands; those (men) are not the best among you.”* *(Abū Dāwūd, Ibn Mājah).*
+  *“Many women have come to the family of Muhammad complaining about their husbands; those (men) are not the best among you.”* (Abū Dāwūd, Ibn Mājah).
 - **“<span dir="rtl" lang="ar">لا يجلد أحدكم امرأته جلد العبد ثم يجامعها في آخر اليوم</span>”**
-  *“Let none of you flog his wife like a slave, then sleep with her at day’s end.”* *(Bukhārī, Muslim).*
+  *“Let none of you flog his wife like a slave, then sleep with her at day's end.”* (Bukhārī, Muslim).
 - **“<span dir="rtl" lang="ar">أوصيكم بالنساء خيرا</span>” / “<span dir="rtl" lang="ar">اتقوا الله في النساء</span>” — “I enjoin you to treat women well; fear God regarding women.”**
-  — *“For you have taken them by God’s trust (bi-amānati llāh)…”* *(Muslim; Farewell Sermon).*
-- **“<span dir="rtl" lang="ar">النساء شقائق الرجال</span>” — “Women are the counterparts (twin halves) of men.”** *(Abū Dāwūd, Tirmidhī — hasan with supporting routes).*
+  — *“For you have taken them by God's trust (bi-amānati llāh)…”* (Muslim; Farewell Sermon).
+- **“<span dir="rtl" lang="ar">النساء شقائق الرجال</span>” — “Women are the counterparts (twin halves) of men.”** (Abū Dāwūd, Tirmidhī — ḥasan with supporting routes).
 - **“<span dir="rtl" lang="ar">اللهم إني أحرج حق الضعيفين: المرأة واليتيم</span>”**
-  *“O Allah, I strongly enjoin (make sacrosanct) the rights of the two vulnerable ones: the woman and the orphan.”* *(Aḥmad, Ibn Mājah; graded ḥasan by some).*
+  *“O Allah, I strongly enjoin (make sacrosanct) the rights of the two vulnerable ones: the woman and the orphan.”* (Aḥmad, Ibn Mājah; graded ḥasan by some).
 
 ### C) Prophetic character and moral example
-- **Never struck a woman or a servant.** *(Ṣaḥīḥ Muslim).*
-- **Served his family, mended clothes, did housework.** *(Bukhārī and others).*
+- **Never struck a woman or a servant.** (Ṣaḥīḥ Muslim).
+- **Served his family, mended clothes, did housework.** (Bukhārī and others).
 - **Handled conflict without humiliation;** reconciled, advised, or took dignified steps rather than harm.
 
 ### D) Legal-ethical maxims and remedies applied to women
@@ -110,14 +110,14 @@ Beyond its general ethos, Islam provides explicit, repeated instructions regardi
 - **Judicial recourse:** harm (*ḍarar*), abandonment, or cruelty can justify **tafrīq** (court-ordered separation) or **khulʿ**; damages/discipline apply to the aggressor.
 - **Contractual safeguards:** conditions in the marriage contract (shurūṭ) enforce rights and enable dissolution upon breach.
 
-**Bottom line of Section 5:** The Qur’an mandates kindness, forbids harmful retention or harassment, and frames marriage as mercy and a solemn covenant. The Sunnah adds repeated, explicit commands to treat women well (**“استوصوا بالنساء خيرا”**), condemns wife-beating as conduct of the *worst* men, bans striking the face, and records a Prophet ﷺ who never harmed his wives and actively helped at home. Abuse is *ẓulm*; Islamic law provides remedies against it.
+**Bottom line:** The Qur'an mandates kindness, forbids harmful retention or harassment, and frames marriage as mercy and a solemn covenant. The Sunnah adds repeated, explicit commands to treat women well (**“<span dir="rtl" lang="ar">استوصوا بالنساء خيرا</span>”**), condemns wife-beating as conduct of the *worst* men, bans striking the face, and records a Prophet ﷺ who never harmed his wives and actively helped at home. Abuse is *ẓulm*; Islamic law provides remedies against it.
 
-## 6. Islam’s core ethos: mercy, love, and compassion
-Any reading of Qur’an 4:34 must be measured against the Qur’an’s *overarching principles*. The central values of Islam are mercy, compassion, and mutual love:
+## 6. Islam's core ethos: mercy, love, and compassion
+Any reading of Qur'an 4:34 must be measured against the Qur'an's *overarching principles*. The central values of Islam are mercy, compassion, and mutual love:
 
-- **God’s very essence is mercy:** Every chapter of the Qur’an (except one) begins with *“In the name of Allah, the Most Merciful, the Most Compassionate (al-Raḥmān al-Raḥīm).”*
+- **God's very essence is mercy:** Every chapter of the Qur'an (except one) begins with *“In the name of Allah, the Most Merciful, the Most Compassionate (al-Raḥmān al-Raḥīm).”*
   > <div dir="rtl" lang="ar" class="quran-arabic">﴿بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ﴾ <span class="ayah-ref">[سُورَةُ الفَاتِحَةِ: ١]</span></div>
-- **Mercy as the Prophet’s mission:**
+- **Mercy as the Prophet's mission:**
   *“We have not sent you except as a mercy to the worlds.”* (**Sūrat al-Anbiyāʾ 21:107**)
   > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَمَآ أَرْسَلْنَٰكَ إِلَّا رَحْمَةًۭ لِّلْعَٰلَمِينَ ۝١٠٧﴾ <span class="ayah-ref">سُورَةُ الأَنبِيَاءِ</span></div>
 - **Compassion as a divine trait extended to creation:**
@@ -128,20 +128,20 @@ Any reading of Qur’an 4:34 must be measured against the Qur’an’s *overarch
   > <div dir="rtl" lang="ar" class="quran-arabic">﴿إِنَّ ٱللَّهَ يُحِبُّ ٱلْمُتَوَكِّلِينَ﴾ <span class="ayah-ref">[سُورَةُ آلِ عِمۡرَانَ: ١٥٩]</span></div>
   >
   > <div dir="rtl" lang="ar" class="quran-arabic">﴿إِنَّ ٱللَّهَ يُحِبُّ ٱلْمُحْسِنِينَ﴾ <span class="ayah-ref">[سُورَةُ البَقَرَةِ: ١٩٥]</span></div>
-- Abuse falls under *ẓulm* (oppression), which the Qur’an and Sunnah consistently condemn as among the gravest sins.
+- Abuse falls under *ẓulm* (oppression), which the Qur'an and Sunnah consistently condemn as among the gravest sins.
 
-Islam’s *moral grammar* is mercy and love. Any interpretation that legitimizes cruelty, abuse, or oppression cannot stand when measured against these axioms.
+Islam's *moral grammar* is mercy and love. Any interpretation that legitimizes cruelty, abuse, or oppression cannot stand when measured against these axioms.
 
 ## 7. Misuse versus intended meaning
 - Abusers citing the verse are misusing it, just as people have twisted laws or scriptures in every tradition to justify wrongdoing.
-- Islam provides internal safeguards: a wife can seek judicial relief, stipulate terms in her marriage contract, and dissolve the marriage if subjected to harm.
+- Islam provides internal safeguards against such misuse — see Section 5D above for the judicial and contractual remedies available to a wife who is harmed.
 
-## 8. Diversity of scholarly interpretation
+## 8. A modern reassessment of the verse's meaning
 - **Ibn ʿAshūr** (d. 1973) held that the verse referred to deterrence, not harm, and that in modern contexts it should be understood as separation.
 - The diversity in interpretation underscores that the verse's initial impression is not the clear-cut singular reading.
 
 ## Conclusion
-The charge that Islam authorizes domestic abuse by citing Qur’an 4:34 is built on a shallow, selective reading. Linguistically, *daraba* carries multiple meanings. Contextually, the verse describes stages of reconciliation, not violence. Juristically, even the strictest interpretations prohibit harm. The Prophet’s practice and the Qur’an’s broader commands for kindness render abuse categorically forbidden.
+The charge that Islam authorizes domestic abuse by citing Qur'an 4:34 is built on a shallow, selective reading. Linguistically, *ḍaraba* carries multiple meanings. Contextually, the verse describes stages of reconciliation, not violence. Juristically, even the strictest interpretations prohibit harm. The Prophet's practice and the Qur'an's broader commands for kindness render abuse categorically forbidden.
 
 **Far from endorsing harm, Islam establishes safeguards to protect women and sets the Prophet ﷺ—who never harmed his wives—as the model of conduct. The verse is about resolving discord with restraint, not legitimizing abuse.**
 

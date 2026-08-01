@@ -24,7 +24,7 @@ share: true
 1. Revealed over 23 years, in **partial portions** and **out of order**, often in direct response to unforeseen events (which would make long-term preplanning impossible). And then when put in place they fit together like a majestic literary puzzle.
 1. **One shot wonder**: Once revealed and spoken, verses were **fixed permanently** without **retraction** or **alteration**, yet together they form a perfectly coherent whole.
 1. The Qur'an itself affirms the **Prophet's ﷺ non-literacy**.
-    > “You ˹O Prophet˺ could not read any writing ˹even˺ before this ˹revelation˺, nor could you write at all. Otherwise, the people of falsehood would have been suspicious.” (**Al-‘Ankabut 29:48**)
+    > “You ˹O Prophet˺ could not read any writing ˹even˺ before this ˹revelation˺, nor could you write at all. Otherwise, the people of falsehood would have been suspicious.” (**Sūrat al-ʿAnkabūt 29:48**), Dr. Mustafa Khattab, *The Clear Quran*
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَمَا كُنتَ تَتْلُوا۟ مِن قَبْلِهِۦ مِن كِتَٰبٍۢ وَلَا تَخُطُّهُۥ بِيَمِينِكَ ۖ إِذًۭا لَّٱرْتَابَ ٱلْمُبْطِلُونَ ۝٤٨﴾ <span class="ayah-ref">سُورَةُ العَنكَبُوتِ</span></div>
 
@@ -42,15 +42,15 @@ share: true
 1. Serves as a **perfect reference** for Arabic grammar and contains no linguistic errors.
 1. Encompasses **multiple layers** of meaning within its verses, including the apparent, exoteric sense as well as deeper, often multilayered esoteric significances.
 1. **Ring structure**: Displays intricate **symmetrical patterns** (chiastic structures) within verses, chapters, and even across chapters—achieved without chronological sequencing or later editing.
-    > This point in combination with revelation that is: partial, out of order, one shot and with no take backs is miraculous in its own right, let alone in addition to all the other aspects.
+    > This point in combination with the constraints on revelation described above is miraculous in its own right, let alone in addition to all the other aspects.
 
-    > [Marvels of the Qur'an \| Dr. Ali Ataie](https://www.youtube.com/watch?v=9gJWIGLJhHM)
+    > [Marvels of the Qur'an \| Dr. Ali Ataie](https://youtu.be/9gJWIGLJhHM)
 
     > [Mind Blowing Symmetry in Quran Pages! - The Miracle You’ll Hear for the First Time!](https://youtu.be/2iiGZlyDOXk)
 
     > [THE RING COMPOSITION! - Remarkable Structure of the Quran](https://youtu.be/b5Y5gMc_XZo)
 1. Can be **read in any order** of chapters while retaining coherence, guidance, and thematic unity—unlike typical narratives.
-1. It emerged at the **pinnacle of Arabic** eloquence, **challenging the Arabs** to produce anything comparable.
+1. It **challenged the Arabs** to produce anything comparable to it.
     > The Qur'an was revealed in an era when the **Arabs** had reached the very **summit of Arabic** language eloquence and rhetoric. **Poetry** was not mere entertainment; it was the **lifeblood of their culture**, the **measure of honor**, and even a **weapon in war**—tribes would settle disputes or ignite battles through verses. In this context, where **pride in language** was unrivaled and **mastery of Arabic** expression was their greatest art, the **Qur'an openly challenged** them to produce anything like it. Despite their unmatched command of Arabic and every worldly motive to discredit the Prophet ﷺ, they were unable to respond, and **their failure** itself became a **perpetual testimony** to the **Qur'an's inimitability**.
 1. Despite intense hostility, **no** contemporary or later **critic** has succeeded in **producing a work** that is accepted as **equal or superior** or even remotely close.
 1. Arabs had to resort to accusing Prophet Muhammad ﷺ of being a **magician or inspired by satan** when they were trumped by the miraculousness of the Qur'an.
@@ -65,20 +65,20 @@ share: true
 ### Challenges and Bold Claims
 
 1. Claims it is the **verbatim word of God**. No other book written by a human makes that claim about itself, nonetheless any that is this **widespread and miraculous**.
-1. The very **first sentence** after the opening chapter says: “This is the Book! There is no doubt about it—a guide for those mindful ˹of God˺” (**Al-Baqarah 2:2**). Extremely bold claim off the rip.
+1. The very **first sentence** after the opening chapter says: “This is the Book! There is no doubt about it—a guide for those mindful ˹of God˺” (**Sūrat al-Baqarah 2:2**), Dr. Mustafa Khattab, *The Clear Quran*. Extremely bold claim right from the start.
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿ذَٰلِكَ ٱلْكِتَٰبُ لَا رَيْبَ ۛ فِيهِ ۛ هُدًۭى لِّلْمُتَّقِينَ ۝٢﴾ <span class="ayah-ref">سُورَةُ البَقَرَةِ</span></div>
 1. Claims it has **no contradictions**, and that if it were man-made you would find many contradictions in it. And the test of time proves that it does not have any contradictions.
     > People have been trying to find any for 1400+ years and if there really were any, the whole claim from God would fall apart very quickly
 1. **Challenges** the whole of **human kind** to produce **something like it**, even 10 chapters, even 1 chapter like it and call upon people to follow them. No one has been able to do so.
-    > “Say, ˹O Prophet,˺ ‘If ˹all˺ humans and jinn were to come together to produce the equivalent of this Qur'an, they could not produce its equal, no matter how they supported each other.'” (**Al-Isrā' 17:88**)
+    > “Say, ˹O Prophet,˺ ‘If ˹all˺ humans and jinn were to come together to produce the equivalent of this Qur'an, they could not produce its equal, no matter how they supported each other.'” (**Sūrat al-Isrāʾ 17:88**), Dr. Mustafa Khattab, *The Clear Quran*
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿قُل لَّئِنِ ٱجْتَمَعَتِ ٱلْإِنسُ وَٱلْجِنُّ عَلَىٰٓ أَن يَأْتُوا۟ بِمِثْلِ هَٰذَا ٱلْقُرْءَانِ لَا يَأْتُونَ بِمِثْلِهِۦ وَلَوْ كَانَ بَعْضُهُمْ لِبَعْضٍۢ ظَهِيرًۭا ۝٨٨﴾ <span class="ayah-ref">سُورَةُ الإِسۡرَاءِ</span></div>
 
-    > “Or do they say, ‘He has fabricated this ˹Qur'an˺!'? Say, ˹O Prophet,˺ ‘Produce ten fabricated sûrahs like it and seek help from whoever you can—other than Allah—if what you say is true!' But if your helpers fail you, then know that it has been revealed with the knowledge of Allah, and that there is no god ˹worthy of worship˺ except Him! Will you ˹not˺ then submit ˹to Allah˺?” (**Hūd 11:13-14**)
+    > “Or do they say, ‘He has fabricated this ˹Qur'an˺!'? Say, ˹O Prophet,˺ ‘Produce ten fabricated sûrahs like it and seek help from whoever you can—other than Allah—if what you say is true!' But if your helpers fail you, then know that it has been revealed with the knowledge of Allah, and that there is no god ˹worthy of worship˺ except Him! Will you ˹not˺ then submit ˹to Allah˺?” (**Sūrat Hūd 11:13-14**), Dr. Mustafa Khattab, *The Clear Quran*
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿أَمْ يَقُولُونَ ٱفْتَرَىٰهُ ۖ قُلْ فَأْتُوا۟ بِعَشْرِ سُوَرٍۢ مِّثْلِهِۦ مُفْتَرَيَٰتٍۢ وَٱدْعُوا۟ مَنِ ٱسْتَطَعْتُم مِّن دُونِ ٱللَّهِ إِن كُنتُمْ صَٰدِقِينَ ۝١٣ فَإِلَّمْ يَسْتَجِيبُوا۟ لَكُمْ فَٱعْلَمُوٓا۟ أَنَّمَآ أُنزِلَ بِعِلْمِ ٱللَّهِ وَأَن لَّآ إِلَٰهَ إِلَّا هُوَ ۖ فَهَلْ أَنتُم مُّسْلِمُونَ ۝١٤﴾ <span class="ayah-ref">سُورَةُ هُودٍ</span></div>
 
-    > “And if you are in doubt about what We have revealed to Our servant, then produce a sûrah like it and call your helpers other than Allah, if what you say is true. But if you are unable to do so—and you will never be able to do so—then fear the Fire fuelled with people and stones, which is prepared for the disbelievers.” (**Al-Baqarah 2:23-24**)
+    > “And if you are in doubt about what We have revealed to Our servant, then produce a sûrah like it and call your helpers other than Allah, if what you say is true. But if you are unable to do so—and you will never be able to do so—then fear the Fire fuelled with people and stones, which is prepared for the disbelievers.” (**Sūrat al-Baqarah 2:23-24**), Dr. Mustafa Khattab, *The Clear Quran*
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَإِن كُنتُمْ فِى رَيْبٍۢ مِّمَّا نَزَّلْنَا عَلَىٰ عَبْدِنَا فَأْتُوا۟ بِسُورَةٍۢ مِّن مِّثْلِهِۦ وَٱدْعُوا۟ شُهَدَآءَكُم مِّن دُونِ ٱللَّهِ إِن كُنتُمْ صَٰدِقِينَ ۝٢٣ فَإِن لَّمْ تَفْعَلُوا۟ وَلَن تَفْعَلُوا۟ فَٱتَّقُوا۟ ٱلنَّارَ ٱلَّتِى وَقُودُهَا ٱلنَّاسُ وَٱلْحِجَارَةُ ۖ أُعِدَّتْ لِلْكَٰفِرِينَ ۝٢٤﴾ <span class="ayah-ref">سُورَةُ البَقَرَةِ</span></div>
 
@@ -93,7 +93,7 @@ share: true
 
 ### Knowledge: Historical, Scientific and Linguistic
 
-1. Contains tons of **scientific knowledge**, much of which was unknowable at the time.
+1. Contains an enormous amount of **scientific knowledge**, much of which was unknowable at the time.
     > [Qur'an on Embryology - Professor Keith L. Moore](https://youtu.be/J_Dllu42eEA)
 
     > [Are there scientific miracles in the Qur'an?](https://youtu.be/DoP6Ft-VE70)
@@ -117,35 +117,34 @@ share: true
 1. The Qur'an has been **perfectly preserved** for over 1,400 years through **mass oral transmission**, and supported by a plethora of written records over the years that have been carbon dated.
     > No other text in human history, especially one from such antiquity or claiming divine origin, has been preserved in this way, free from loss, alteration, or dependency on human translation and interpretation.
 
-    > [The Most DIRECT Proof That The Quran is From Allah](https://youtu.be/4l7pbX5J8Lg)
+    > [The Most DIRECT Proof That The Qur'an is From Allah \| Arabic101](https://youtu.be/4l7pbX5J8Lg)
 
     > [There are No Holes in the Qur'anic Narrative \| Dr. Ali Ataie](https://youtu.be/zbM7qpBe5DM)
 
-    > [How To Prove The Quran Has Been Preserved Accurately](https://youtu.be/n281Zyywyn4)
+    > [How To Prove The Qur'an Has Been Preserved Accurately](https://youtu.be/n281Zyywyn4)
 1. It is **easily memorized**. It is common and normal for muslims to memorize its 600+ pages fully. There are **millions of people** today who have it **memorized** from **cover to cover** perfectly.
     > The majority of which are non-native Arabic speakers. In fact, Arabic is not the first language of around 80% of Muslims today.
 
     > [MIRACLE OF QURAN MEMORIZATION](https://youtu.be/s3WIOc2fHc0)
 
     > [How can the Qur'an be a Miracle for NON-ARABIC Speakers? \| Arabic101](https://youtu.be/5fyF-35naDE)
-1. If somehow all the physical evidence of the Qur'an **suddenly disappeared**, we would be able to immediately **recreate it perfectly** from people's memories.
 
 ### Prophecies
 
 1. **Prophesies** its own widespread.
-    > "He is the One Who has sent His Messenger with ˹right˺ guidance and the religion of truth, making it prevail over all others. And sufficient is Allah as a Witness." (**Al-Fath 48:28**)
+    > "He is the One Who has sent His Messenger with ˹right˺ guidance and the religion of truth, making it prevail over all others. And sufficient is Allah as a Witness." (**Sūrat al-Fatḥ 48:28**), Dr. Mustafa Khattab, *The Clear Quran*
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿هُوَ ٱلَّذِىٓ أَرْسَلَ رَسُولَهُۥ بِٱلْهُدَىٰ وَدِينِ ٱلْحَقِّ لِيُظْهِرَهُۥ عَلَى ٱلدِّينِ كُلِّهِۦ ۚ وَكَفَىٰ بِٱللَّهِ شَهِيدًۭا ۝٢٨﴾ <span class="ayah-ref">سُورَةُ الفَتۡحِ</span></div>
 1. **Prophesies** its own **perfect preservation** and that God will protect it until the end of time.
-    > "Indeed, it is We who sent down the message [i.e., the Qur’ān], and indeed, We will be its guardian." (**Al-Hijr 15:9**)
+    > "Indeed, it is We who sent down the message [i.e., the Qur’ān], and indeed, We will be its guardian." (**Sūrat al-Ḥijr 15:9**), Saheeh International
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿إِنَّا نَحْنُ نَزَّلْنَا ٱلذِّكْرَ وَإِنَّا لَهُۥ لَحَٰفِظُونَ ۝٩﴾ <span class="ayah-ref">سُورَةُ الحِجۡرِ</span></div>
 
-    > "The Word of your Lord has been perfected in truth and justice. None can change His Words. And He is the All-Hearing, All-Knowing." (**Al-An'am 6:115**)
+    > "The Word of your Lord has been perfected in truth and justice. None can change His Words. And He is the All-Hearing, All-Knowing." (**Sūrat al-Anʿām 6:115**), Dr. Mustafa Khattab, *The Clear Quran*
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَتَمَّتْ كَلِمَتُ رَبِّكَ صِدْقًۭا وَعَدْلًۭا ۚ لَّا مُبَدِّلَ لِكَلِمَٰتِهِۦ ۚ وَهُوَ ٱلسَّمِيعُ ٱلْعَلِيمُ ۝١١٥﴾ <span class="ayah-ref">سُورَةُ الأَنۡعَامِ</span></div>
 1. **Prophesies** its own **ease of memorization**:
-    > “And We have certainly made the Qur'an easy for remembrance, so is there any who will remember?” (**Al-Qamar 54:17**)
+    > “And We have certainly made the Qur'an easy for remembrance, so is there any who will remember?” (**Sūrat al-Qamar 54:17**), Saheeh International
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَلَقَدْ يَسَّرْنَا ٱلْقُرْءَانَ لِلذِّكْرِ فَهَلْ مِن مُّدَّكِرٍۢ ۝١٧﴾ <span class="ayah-ref">سُورَةُ القَمَرِ</span></div>
 1. Contains many other fulfilled **future prophecies**:
@@ -180,7 +179,7 @@ share: true
 
     > [What Non-Muslims Say About Muhammad ﷺ](https://al-islam.org/articles/personalities-what-non-muslims-say-about-muhammad-prophet-islam)
 1. The more you learn about his life, the more you will grow to love him for his **unmatched character, compassion, and mercy**, and the clearer the **evidence** for his prophethood will become.
-1. There is an unending amount of **evidences of his prophethood** from his **life story** and **actions**. This is a whole area to research on its own, however below are some examples.
+1. This is a whole area to research on its own; below are some examples from his **life story** and **actions**.
 1. At the start of his message, Prophet Muhammad's ﷺ people tried to **bribe** him with wealth, status, and power to make him **abandon his call to God**—but he **refused without hesitation**.
 1. Even later in life, when he held **authority over Arabia** and could have **claimed immense wealth**, he chose to **live simply and humbly**, **giving away** what he had and leaving this world with almost **no worldly possessions**.
 1. Even **respected Christian and Jewish scholars** acknowledge him as a **true prophet of God**.
@@ -218,7 +217,7 @@ share: true
 - Amazing videos on the miraculousness of the Qur'an:
     > [Marvels of the Qur'an \| Dr. Ali Ataie](https://youtu.be/9gJWIGLJhHM)
 
-    > [Conquering Doubts \| Ali Ataie](https://youtu.be/_HlpfgaDATU)
+    > [Conquering Doubts & Confidently Defending Islam \| Ali Ataie](https://youtu.be/_HlpfgaDATU)
 
 - [Evidences for the truth of Islam \| Mohammed Hijab (Website)](https://mohammedhijab.com/articles/evidences-for-the-truth-of-islam/)
 - [Truthfulness of the Prophet (Youtube Short)](https://youtube.com/shorts/HcViZkHoxK0)
@@ -240,7 +239,7 @@ share: true
     > [What the West Needs to Know About the Shari'ah \| Blogging Theology](https://youtu.be/AHOH_t03sIc)
 
 - Is the Qur'an really preserved as it was revealed?
-    > [The most DIRECT proof that the Qur'an is from Allah \| Arabic101](https://youtu.be/4l7pbX5J8Lg)
+    > [The Most DIRECT Proof That The Qur'an is From Allah \| Arabic101](https://youtu.be/4l7pbX5J8Lg)
 
     > [Has the Qur'an been reliably preserved? \| Blogging Theology](https://youtu.be/WKlSJa-ZnJQ)
 
@@ -248,7 +247,7 @@ share: true
 
     > [There are No Holes in the Qur'anic Narrative \| Dr. Ali Ataie](https://youtu.be/zbM7qpBe5DM)
 
-    > [How To Prove The Quran Has Been Preserved Accurately](https://youtu.be/n281Zyywyn4)
+    > [How To Prove The Qur'an Has Been Preserved Accurately](https://youtu.be/n281Zyywyn4)
 
 - Did Prophet Muhammad ﷺ really exist?
     > [Did Muhammad ﷺ really exist? \| Blogging Theology](https://youtu.be/_mZgSIlX20U)

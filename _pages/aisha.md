@@ -25,7 +25,7 @@ The conclusion rests on assumptions that are rarely stated: that the modern lega
 
 ## The age reported in the sources
 
-The traditional Sunni position rests on Aisha's own testimony. Bukhari and Muslim record that the marriage contract was concluded when she was six or seven, and that she entered the Prophet's ﷺ household at nine.[^1] She remained his wife until his death some nine years later, when she was approximately eighteen.
+The traditional Sunni position rests on Aisha's own testimony. *Ṣaḥīḥ al-Bukhārī* and *Ṣaḥīḥ Muslim* record that the marriage contract was concluded when she was six or seven, and that she entered the Prophet's ﷺ household at nine.[^1] She remained his wife until his death some nine years later, when she was approximately eighteen.
 
 Those are two events, separated by roughly three years. Contract and cohabitation were distinct stages in seventh-century Arabia, as they were across much of the premodern world, and collapsing them into one moment misstates the sequence before any argument has been made.
 
@@ -71,7 +71,7 @@ The critical argument contains an unstated move. From the premise that anyone un
 
 A nine-year-old today is the product of a system built on prolonged schooling, near-total dependence, minimal household responsibility, and extended adolescence. A girl in a tribal society was formed by different demands and lived inside a different structure. Two people may share a number and share very little else.
 
-None of this reduces morality to local custom. Societies have normalised grave wrongs, and the observation that a practice was widespread settles nothing by itself. What historical context supplies is a set of questions that can be answered from evidence. Was she capable within that setting? Was the marriage recognised as legitimate by those around her? Was there coercion? Was she injured, isolated, or prevented from developing? Was the conduct consistent with what is otherwise known of the man? The number nine answers none of these.
+None of this reduces morality to local custom, though societies have normalised grave wrongs before. What historical context supplies is a set of questions that can be answered from evidence. Was she capable within that setting? Was the marriage recognised as legitimate by those around her? Was there coercion? Was she injured, isolated, or prevented from developing? Was the conduct consistent with what is otherwise known of the man? The number nine answers none of these.
 
 ---
 
@@ -101,9 +101,9 @@ The relevant question is therefore not whether such a marriage would be lawful i
 
 Accepting the accusation means setting aside almost everything else known about him, and a great deal is known. His character is not reconstructed from a handful of anecdotes but from decades of documented conduct concerning power, money, enemies, servants, and his own household.
 
-**Before prophethood.** Mecca called him al-Amin, the trustworthy, years before he claimed anything. Men who later fought him went on leaving their valuables in his keeping; his honesty was not in dispute even when everything else about him was.
+**Before prophethood.** Mecca called him al-Amīn, the trustworthy, years before he claimed anything. Men who later fought him went on leaving their valuables in his keeping; his honesty was not in dispute even when everything else about him was.
 
-**The Qur'an's description.** It calls him "truly a man of outstanding character" (68:4) and "a mercy to all worlds" (21:107). It tells him that his gentleness held people to him and that harshness would have scattered them (3:159), and describes him as distressed by the suffering of others (9:128). Asked to characterise him, Aisha said that his character was the Qur'an.[^3]
+**The Qur'an's description.** The Qur'an describes his character directly. Asked to characterise him, Aisha said that his character was the Qur'an.[^3]
 
 > "Truly a man of outstanding character." — Qur'an 68:4
 >
@@ -161,8 +161,6 @@ The reports of their life together are unusually detailed, and they do not descr
 
 **Her moods.** He told her he could always tell when she was pleased with him and when she was angry, from the way she addressed him.[^12]
 
-**Dolls and friends.** She kept her toys, and her friends were admitted to play with her.[^13]
-
 **An education by proximity.** She observed revelation as it arrived, watched law being formulated, saw a community governed and a household managed, and questioned all of it. The woman who emerged from that marriage disputed with senior Companions, corrected men twice her age, and eventually took a public position in the conflict over the leadership of the Muslim state.
 
 ---
@@ -207,9 +205,9 @@ Muslims hold that this marriage, like the rest of the Prophet's ﷺ life, unfold
 
 **His private conduct.** A considerable portion of Islamic practice concerns what happens inside the home: how he prayed at night, how he behaved toward his wives, how he handled purification, illness, and grief, how he conducted himself unobserved. His Companions in the mosque could witness none of it. Aisha could, and had the memory, precision, and confidence to record it.
 
-**Decades of instruction.** Her youth is what made this possible. She was present for the first generation's questions and still present for the third generation's. Had she been his contemporary in age, most of that teaching would have been lost.
+**Decades of instruction.** Her youth is what made this possible: had she been his contemporary in age, most of that teaching would have been lost.
 
-**A woman at the centre of scholarship.** Senior men studied under her, deferred to her, and recorded her corrections of them, early enough that the precedent could not afterwards be dislodged. That a woman could be a jurist and an authority on the tradition did not need arguing later; it was already in the foundations. Her house being her classroom also settled the supposed opposition between domestic life and intellectual work.
+**A woman at the centre of scholarship.** Her authority as a jurist was recognised early enough that the precedent could not afterwards be dislodged: it did not need arguing later, because it was already in the foundations. Her house being her classroom also settled the supposed opposition between domestic life and intellectual work.
 
 **Two households.** The marriage bound the Prophet's ﷺ family to that of Abu Bakr, his closest companion, his companion on the migration, and the man who led the community after him.
 
@@ -225,7 +223,7 @@ One qualification applies to all of it. That a marriage contracted at nine produ
 
 The term is applied here for its force rather than its accuracy. In clinical usage it denotes a persistent or predominant sexual attraction to prepubescent children, and so describes a pattern of desire rather than a single act.
 
-The record supplies the opposite pattern: twenty-five monogamous years with an older woman, no second marriage during his youth, plural marriage beginning only after fifty, wives who were overwhelmingly widows and divorcees, several of them older and several with children, and one virgin in a lifetime.
+The record supplies the opposite pattern: decades of monogamy with an older woman, no second marriage during his youth, plural marriage beginning only after fifty, wives who were overwhelmingly widows and divorcees, several of them older and several with children, and one virgin in a lifetime.
 
 The word is not a synonym for marriage below the modern age of consent. It names a specific pathology, and nothing in his life evidences one. Used here it supplies the emotional weight of an argument in place of the argument.
 
@@ -233,7 +231,7 @@ The word is not a synonym for marriage below the modern age of consent. It names
 
 ## The dolls
 
-Aisha recalled playing with dolls and her friends coming to play with her. The detail is often presented as decisive.
+Aisha recalled playing with dolls and her friends coming to play with her.[^13] The detail is often presented as decisive.
 
 It establishes less than it appears to. Development is uneven, and play, physical maturity, competence, and judgment do not advance in step; adolescents and adults today keep interests associated with childhood without anyone inferring incapacity from it. Premodern societies also never built the long, sharply bounded adolescence that makes the detail so jarring to a modern ear.
 
@@ -269,7 +267,7 @@ If marriage below eighteen makes a person a sexual criminal, the charge does not
 
 Roman law fixed twelve as the marriageable age for girls. Medieval canon law in Christian Europe kept the same figure, with fourteen for boys, though practice varied considerably by region and class. Jewish, Byzantine, African, and Asian legal traditions all worked with thresholds that modern Western law would reject, and the recorded marriage ages of European royalty would surprise most readers who looked them up. The vocabulary reserved for the Prophet ﷺ is almost never applied to any of these.
 
-The point is not that the practice was widespread and therefore acceptable, which would be a poor argument and is not the one being made. The point is that the modern threshold is a recent and local convention rather than a standard every civilisation independently recognised and one man uniquely violated. Consistency requires either that historical societies be assessed with attention to their circumstances, or that most of human history be condemned by a single measure.
+The point is not that the practice was widespread — that alone settles nothing — but that the modern threshold is a recent and local convention rather than a standard every civilisation independently recognised and one man uniquely violated. Consistency requires either that historical societies be assessed with attention to their circumstances, or that most of human history be condemned by a single measure.
 
 ---
 
