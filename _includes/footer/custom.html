@@ -5,11 +5,20 @@
      all of it is hidden. Below that the TOC collapses to an inline block at
      the top of the article and scrolling is the only way back to it.
 
-     The drawer repositions the theme's own `.sidebar__right` node rather than
-     cloning it, so the theme's `.toc` / `.toc__menu` styling and its scrollspy
-     `.active` highlighting keep working. Below $large the theme gives that
-     node nothing but `margin-bottom`, and no ancestor is transformed, so
-     `position: fixed` behaves. -->
+     The panel is built from a *clone* of the theme's TOC. Repositioning the
+     real `.sidebar__right` looks tidier but cannot work: going `position:
+     fixed` pulls that node out of the document flow, and it is a tall block
+     near the top of the article, so everything below it jumps up by its full
+     height. To a reader scrolled halfway down, the page lurches to a
+     different section the moment the drawer opens.
+
+     Cloning also keeps the panel a direct child of <body>, clear of the
+     stacking context the theme's `animation: intro` creates on #main — from
+     inside that context no z-index can lift the panel above the backdrop.
+
+     The theme's `.toc` / `.toc__menu` rules are unscoped, so the clone picks
+     up the styling for free. What it does not inherit is the scrollspy
+     `.active` highlight, which is bound to the original node. -->
 
 <div id="floating-nav">
   <button id="toc-toggle" type="button" aria-expanded="false" aria-label="Table of contents" title="Table of contents">
@@ -86,14 +95,8 @@
     display: none;
   }
 
-  /* the close button is injected into the theme's own TOC header, so it has to
-     stay invisible in the inline TOC and only appear in drawer mode */
-  #toc-close {
-    display: none;
-  }
-
   /* ------------------------------------------------------------------
-     TOC drawer
+     TOC panel
      ------------------------------------------------------------------ */
 
   #toc-backdrop {
@@ -103,102 +106,109 @@
     background-color: rgba(52, 52, 52, 0.5);
     opacity: 0;
     transition: opacity 0.25s ease;
+    /* swallows pan gestures, which is the whole scroll lock. The theme's
+       `overflow--hidden` body class is NOT usable here: `overflow: hidden`
+       on <body> establishes a block formatting context, and reflowing the
+       theme's layout under it shortens the page by well over a thousand
+       pixels — the reader watches the article jump to another section. */
+    touch-action: none;
   }
 
   #toc-backdrop.is-open {
     opacity: 1;
   }
 
-  /* $large — from here up the sticky sidebar is on screen and the drawer,
-     the backdrop and the buttons are all redundant */
-  @media (max-width: 63.99em) {
-    /* A full-height panel sliding in from the right edge.
-       `toc-active` mounts the drawer off-screen; `toc-open` slides it in.
-       Splitting the two is what allows the close to animate — on close the
-       node must stay fixed until the transition finishes. */
-    body.toc-active .sidebar__right {
-      position: fixed;
-      top: 0;
-      bottom: 0;
-      right: 0;
-      left: auto;
-      z-index: 110;
+  /* Always mounted and always fixed, so it never takes part in layout and
+     there is nothing to move on open. Off-screen and `visibility: hidden`
+     keeps it out of the tab order until it is wanted. */
+  #toc-panel {
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    z-index: 110;
 
-      margin: 0;
-      /* leave a strip of backdrop on the left so there is always somewhere
-         to tap to dismiss, but cap the width on wider phones and tablets */
-      width: min(86vw, 21rem);
-      display: flex;
-      flex-direction: column;
+    /* the vw term guarantees a strip of backdrop survives on the left, so
+       there is always somewhere to tap to dismiss */
+    width: min(86vw, 21rem);
+    display: flex;
+    flex-direction: column;
 
-      transform: translateX(100%);
-      transition: transform 0.25s ease;
-    }
-
-    body.toc-active.toc-open .sidebar__right {
-      transform: translateX(0);
-    }
-
-    /* fill the full height and let the menu scroll inside it; flush against
-       the top and right edges, so the theme's rounding has to go */
-    body.toc-active .sidebar__right .toc {
-      display: flex;
-      flex-direction: column;
-      flex: 1 1 auto;
-      min-height: 0;
-      margin: 0;
-      border-radius: 0;
-      border-top: 0;
-      border-right: 0;
-      border-bottom: 0;
-    }
-
-    body.toc-active .sidebar__right .toc__menu {
-      min-height: 0;
-      overflow-y: auto;
-      -webkit-overflow-scrolling: touch;
-      padding-bottom: env(safe-area-inset-bottom, 0px);
-    }
-
-    /* while the panel is open it covers the floating buttons, so the header
-       carries the only visible dismiss control (backdrop tap and Escape also
-       close it). Give the title bar a full 44px so the target is reachable. */
-    body.toc-active .sidebar__right .toc > header {
-      position: relative;
-    }
-
-    body.toc-active .sidebar__right .toc .nav__title {
-      display: flex;
-      align-items: center;
-      /* flex drops the whitespace between the theme's icon and its label */
-      gap: 0.5em;
-      min-height: 2.75rem;
-      padding-inline-end: 3rem;
-      border-radius: 0;
-      /* clears the notch / status bar when the sheet runs to the top edge */
-      padding-top: env(safe-area-inset-top, 0px);
-    }
-
-    body.toc-active #toc-close {
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      position: absolute;
-      top: 0;
-      inset-inline-end: 0;
-      width: 2.75rem;
-      height: 2.75rem;
-      padding: 0;
-      color: #fff;
-      background: none;
-      border: 0;
-      cursor: pointer;
-    }
+    transform: translateX(100%);
+    visibility: hidden;
+    transition: transform 0.25s ease, visibility 0.25s;
   }
 
+  #toc-panel.is-open {
+    transform: translateX(0);
+    visibility: visible;
+  }
+
+  /* fill the panel and let the menu scroll inside it; it runs flush to the
+     top and right edges, so the theme's rounding has to go or it shows as
+     notches against the viewport corners */
+  #toc-panel .toc {
+    display: flex;
+    flex-direction: column;
+    flex: 1 1 auto;
+    min-height: 0;
+    margin: 0;
+    border-radius: 0;
+    border-top: 0;
+    border-right: 0;
+    border-bottom: 0;
+  }
+
+  #toc-panel .toc__menu {
+    min-height: 0;
+    overflow-y: auto;
+    -webkit-overflow-scrolling: touch;
+    /* stops a flick that runs past the end of the list from chaining into
+       the article behind it */
+    overscroll-behavior: contain;
+    padding-bottom: env(safe-area-inset-bottom, 0px);
+  }
+
+  /* the panel covers the floating buttons, so its header carries the only
+     visible dismiss control (backdrop tap and Escape also close it) */
+  #toc-panel .toc > header {
+    position: relative;
+  }
+
+  #toc-panel .nav__title {
+    display: flex;
+    align-items: center;
+    /* flex drops the whitespace between the theme's icon and its label */
+    gap: 0.5em;
+    min-height: 2.75rem;
+    padding-inline-end: 3rem;
+    border-radius: 0;
+    /* clears the notch / status bar, since the panel reaches the top edge */
+    padding-top: env(safe-area-inset-top, 0px);
+  }
+
+  #toc-close {
+    position: absolute;
+    top: 0;
+    inset-inline-end: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 2.75rem;
+    height: 2.75rem;
+    padding: 0;
+    color: #fff;
+    background: none;
+    border: 0;
+    cursor: pointer;
+  }
+
+  /* $large — from here up the sticky sidebar is on screen and all of this
+     is redundant */
   @media (min-width: 64em) {
     #floating-nav,
-    #toc-backdrop {
+    #toc-backdrop,
+    #toc-panel {
       display: none;
     }
   }
@@ -206,14 +216,15 @@
   @media (prefers-reduced-motion: reduce) {
     #floating-nav,
     #toc-backdrop,
-    body.toc-active .sidebar__right {
+    #toc-panel {
       transition: none;
     }
   }
 
   @media print {
     #floating-nav,
-    #toc-backdrop {
+    #toc-backdrop,
+    #toc-panel {
       display: none;
     }
   }
@@ -228,29 +239,33 @@
     if (!nav) return;
 
     var body = document.body;
-    var drawer = document.querySelector(".sidebar__right");
-    var toc = drawer ? drawer.querySelector(".toc") : null;
+    var sourceToc = document.querySelector(".sidebar__right .toc");
+    var panel = null;
+    var drawer = null;
 
-    /* The theme puts `animation: intro` on #main, which makes it a stacking
-       context. Inside it the drawer's z-index cannot beat the body-level
-       backdrop, so the backdrop paints over the sheet and eats every tap.
-       Park the drawer on <body> while it is open and put it back after.
-       Captured once, at load, so repeated toggles cannot lose the origin. */
-    var homeParent = drawer ? drawer.parentNode : null;
-    var homeNext = drawer ? drawer.nextSibling : null;
+    function reduceMotion() {
+      return window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+    }
 
-    // home and about have no TOC; hide that button and keep back-to-top
-    var closeBtn = null;
+    /* --- build the panel from a clone; the page's own TOC is never touched --- */
 
-    if (!toc) {
+    if (!sourceToc) {
+      // home and about have no TOC; hide that button and keep back-to-top
       nav.classList.add("no-toc");
     } else {
-      if (!toc.id) toc.id = "toc-drawer";
-      tocBtn.setAttribute("aria-controls", toc.id);
+      drawer = sourceToc.cloneNode(true);
+      drawer.id = "toc-drawer";
 
-      var tocHeader = toc.querySelector("header");
-      if (tocHeader) {
-        closeBtn = document.createElement("button");
+      panel = document.createElement("div");
+      panel.id = "toc-panel";
+      panel.appendChild(drawer);
+      body.appendChild(panel);
+
+      tocBtn.setAttribute("aria-controls", "toc-drawer");
+
+      var header = drawer.querySelector("header");
+      if (header) {
+        var closeBtn = document.createElement("button");
         closeBtn.id = "toc-close";
         closeBtn.type = "button";
         closeBtn.setAttribute("aria-label", "Close table of contents");
@@ -258,12 +273,16 @@
           '<svg viewBox="0 0 24 24" width="18" height="18" aria-hidden="true" focusable="false">' +
           '<path d="M6 6 L18 18 M18 6 L6 18" fill="none" stroke="currentColor" ' +
           'stroke-width="2.2" stroke-linecap="round" /></svg>';
-        tocHeader.appendChild(closeBtn);
+        closeBtn.addEventListener("click", function () {
+          closeDrawer(true);
+        });
+        header.appendChild(closeBtn);
       }
-    }
 
-    function reduceMotion() {
-      return window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+      // jumping to a heading should dismiss the panel
+      drawer.addEventListener("click", function (e) {
+        if (e.target.closest("a")) closeDrawer(false);
+      });
     }
 
     /* --- show / hide the buttons on scroll --- */
@@ -287,49 +306,54 @@
       }
     }, { passive: true });
 
-    /* --- drawer --- */
+    /* --- open / close --- */
 
     var closeTimer = null;
 
     function isOpen() {
-      return body.classList.contains("toc-open");
+      return !!panel && panel.classList.contains("is-open");
+    }
+
+    // focusing inside a fixed panel will scroll the document unless asked not
+    // to, which is exactly the lurch this whole approach exists to avoid
+    function focusQuietly(el) {
+      try {
+        el.focus({ preventScroll: true });
+      } catch (e) {
+        el.focus();
+      }
     }
 
     function openDrawer() {
-      if (!toc || isOpen()) return;
+      if (!panel || isOpen()) return;
       window.clearTimeout(closeTimer);
 
       backdrop.hidden = false;
-      body.appendChild(drawer);
-      body.classList.add("toc-active", "overflow--hidden");
-      // force a reflow so the slide-in transition has a starting point
-      void drawer.offsetHeight;
-      body.classList.add("toc-open");
+      // force a reflow so the fade has a starting point to run from
+      void backdrop.offsetHeight;
+
+      panel.classList.add("is-open");
       backdrop.classList.add("is-open");
 
       tocBtn.setAttribute("aria-expanded", "true");
-      toc.setAttribute("tabindex", "-1");
-      toc.focus();
+      drawer.setAttribute("tabindex", "-1");
+      focusQuietly(drawer);
     }
 
     function closeDrawer(returnFocus) {
-      if (!toc || !isOpen()) return;
+      if (!panel || !isOpen()) return;
 
-      body.classList.remove("toc-open");
+      panel.classList.remove("is-open");
       backdrop.classList.remove("is-open");
       tocBtn.setAttribute("aria-expanded", "false");
+      drawer.removeAttribute("tabindex");
 
-      var finish = function () {
-        body.classList.remove("toc-active", "overflow--hidden");
+      window.clearTimeout(closeTimer);
+      closeTimer = window.setTimeout(function () {
         backdrop.hidden = true;
-        toc.removeAttribute("tabindex");
-        if (homeParent) homeParent.insertBefore(drawer, homeNext);
-      };
+      }, reduceMotion() ? 0 : 250);
 
-      if (reduceMotion()) finish();
-      else closeTimer = window.setTimeout(finish, 250);
-
-      if (returnFocus) tocBtn.focus();
+      if (returnFocus) focusQuietly(tocBtn);
     }
 
     tocBtn.addEventListener("click", function () {
@@ -341,24 +365,11 @@
       closeDrawer(true);
     });
 
-    if (closeBtn) {
-      closeBtn.addEventListener("click", function () {
-        closeDrawer(true);
-      });
-    }
-
     document.addEventListener("keydown", function (e) {
       if (e.key === "Escape" || e.key === "Esc") closeDrawer(true);
     });
 
-    // jumping to a heading should dismiss the sheet
-    if (toc) {
-      toc.addEventListener("click", function (e) {
-        if (e.target.closest("a")) closeDrawer(false);
-      });
-    }
-
-    // the drawer only exists below $large; don't let it linger past a rotate
+    // the panel only exists below $large; don't let it linger past a rotate
     window.addEventListener("resize", function () {
       if (isOpen() && window.innerWidth >= 1024) closeDrawer(false);
     });

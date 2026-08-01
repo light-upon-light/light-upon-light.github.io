@@ -136,43 +136,56 @@ by hand.
 
 ### The TOC drawer
 
-`#toc-toggle` repositions the theme's own `.sidebar__right` into a full-height
-panel sliding in from the right edge, rather than cloning it, so the theme's
-`.toc` / `.toc__menu` rules and its scrollspy `.active` highlighting keep
-working on the real node. This is safe because below `$large` the theme gives
-that node nothing but `margin-bottom`, and no ancestor is transformed, so
-`position: fixed` behaves.
+`#toc-toggle` opens `#toc-panel`, a full-height panel sliding in from the right
+edge. The panel is built at load from a **clone** of the theme's TOC and
+appended to `<body>`; it is always mounted and always `position: fixed`, parked
+off-screen behind `visibility: hidden`.
 
-Its width is `min(86vw, 21rem)` — the `vw` term guarantees a strip of backdrop
+**Do not "improve" this by repositioning the real `.sidebar__right`.** Two
+independent things break, and both were shipped and reverted:
+
+- Going `position: fixed` pulls that node out of the document flow. It is a
+  tall block near the top of the article — on `/quran` roughly a thousand
+  pixels — so everything below it jumps up by its full height. A reader
+  scrolled halfway down watches the page cut to a different section.
+- The theme puts `animation: intro` on `#main`, and an element with an
+  animation in effect is a stacking context. From inside it no `z-index` can
+  lift the panel above a body-level backdrop, so the backdrop paints *over*
+  the panel, greying it out and swallowing every tap. Raising `z-index` looks
+  like the fix and is not one.
+
+Cloning sidesteps both: the article is never touched, and the panel is already
+a child of `<body>`. The cost is the scrollspy `.active` highlight, which stays
+bound to the original node and does not follow the clone. The theme's `.toc` /
+`.toc__menu` rules are unscoped, so the clone is styled for free. Keep the
+clone's ids unique — only the cloned `nav` gets one (`toc-drawer`).
+
+**The scroll lock cannot be the theme's `overflow--hidden`.** `overflow: hidden`
+on `<body>` establishes a block formatting context, and reflowing the theme's
+layout under it shortens the page by ~1400px — the same visible lurch, from a
+different cause. `touch-action: none` on the backdrop swallows pan gestures
+instead, with `overscroll-behavior: contain` on `.toc__menu` so a flick past
+the end of the list does not chain into the article. Neither touches layout.
+Focus moves with `preventScroll: true` for the same reason.
+
+Width is `min(86vw, 21rem)` — the `vw` term guarantees a strip of backdrop
 survives on the left, so there is always somewhere to tap to dismiss. Running
 flush to the top and right edges means the theme's `.toc` border radius and
 `.nav__title` corner rounding both have to be zeroed, or they show as notches
-against the viewport edge.
+against the viewport corners.
 
-**The drawer must be reparented to `<body>` while open.** The theme puts
-`animation: intro` on `#main`, and an element with an animation in effect is a
-stacking context — so `z-index` on anything inside `#main` cannot beat the
-body-level backdrop, no matter how large. Left in place the backdrop paints
-*over* the sheet, greying it out and swallowing every tap, which looks like a
-dead drawer. The original parent and next sibling are captured once at load,
-never per-open, so repeated toggles cannot lose the origin. Verify this with
-`document.elementFromPoint` over the sheet: it must return a TOC `<a>`, not
-`#toc-backdrop`. Raising `z-index` is not a fix and will look like one.
-
-Two body classes, not one: `toc-active` mounts the sheet off-screen and
-`toc-open` slides it in. The split is what lets the *close* animate — the node
-has to stay `fixed` until the transition ends, so `toc-active` is removed on a
-timer. Opening forces a reflow between the two, or there is no starting point
-to transition from. Scroll-locking reuses the theme's own `overflow--hidden`.
-
-The close `×` is injected by script into the theme's TOC `<header>`, so it must
-be `display: none` by default — otherwise it shows up in the inline TOC too.
-Making `.nav__title` a flex container to centre it drops the whitespace between
-the theme's icon and its label; `gap` puts it back.
+Making `.nav__title` a flex container to centre the close `×` drops the
+whitespace between the theme's icon and its label; `gap` puts it back.
 
 Pages without a TOC (home, about) have no `.sidebar__right` at all. The script
-detects that and sets `.no-toc`, which hides `#toc-toggle` and leaves
-`#back-to-top` alone.
+detects that, builds no panel, and sets `.no-toc`, which hides `#toc-toggle`
+and leaves `#back-to-top` alone.
+
+The regression test for all of this is three numbers — `scrollY`,
+`documentElement.scrollHeight`, and the `getBoundingClientRect().top` of a
+heading — sampled before opening, while open, and after closing. All three must
+be identical across the three samples. Then `document.elementFromPoint` over
+the panel must return a TOC `<a>`, not `#toc-backdrop`.
 
 Headless Chrome is poor at verifying this: it will not composite scrolled
 regions (screenshots come out blank), `--virtual-time-budget` freezes the CSS
