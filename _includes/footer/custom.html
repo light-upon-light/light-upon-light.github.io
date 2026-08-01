@@ -144,6 +144,15 @@
     visibility: visible;
   }
 
+  /* the clone's <nav> wrapper has to pass the panel's height through to the
+     `.toc` inside it, or the menu has nothing to scroll within */
+  #toc-panel > nav {
+    display: flex;
+    flex-direction: column;
+    flex: 1 1 auto;
+    min-height: 0;
+  }
+
   /* fill the panel and let the menu scroll inside it; it runs flush to the
      top and right edges, so the theme's rounding has to go or it shows as
      notches against the viewport corners */
@@ -253,19 +262,31 @@
       // home and about have no TOC; hide that button and keep back-to-top
       nav.classList.add("no-toc");
     } else {
-      /* A <div>, deliberately, not a <nav>. The theme drives its scrollspy
-         with `new Gumshoe("nav.toc a")`, and Gumshoe resolves duplicate links
-         to the *last* match in document order — so a cloned <nav class="toc">
-         steals the highlight from the real TOC and holds it even at desktop
-         width, where the panel is `display: none` and the sticky sidebar is
-         the only one on screen. Not matching that selector leaves the real
-         TOC alone; syncActive() mirrors the state back on open. */
-      drawer = document.createElement("div");
-      drawer.className = sourceToc.className;
+      /* A <nav> that does NOT carry the `toc` class, wrapping a div that
+         does. Both halves are load-bearing:
+
+         - It must be a <nav>. `_base.scss` scopes the list reset to `nav`
+           — `li { list-style: none }`, `a { text-decoration: none }`,
+           `ul { margin: 0; padding: 0 }`. Any other element and the menu
+           comes back with bullets, underlines and a browser's default
+           indent.
+         - The <nav> must not match `nav.toc a`. The theme drives its
+           scrollspy with `new Gumshoe("nav.toc a")`, and Gumshoe resolves
+           duplicate links to the *last* match in document order, so a
+           cloned <nav class="toc"> steals the highlight from the real TOC
+           and keeps it even at desktop width, where the panel is
+           `display: none` and the sticky sidebar is the only one on screen.
+
+         Holding `toc` on the inner div satisfies both, since the theme's
+         `.toc` rules never mention the element they sit on. */
+      drawer = document.createElement("nav");
       drawer.id = "toc-drawer";
-      drawer.setAttribute("role", "navigation");
       drawer.setAttribute("aria-label", "Table of contents");
-      drawer.innerHTML = sourceToc.innerHTML;
+
+      var tocBox = document.createElement("div");
+      tocBox.className = sourceToc.className;
+      tocBox.innerHTML = sourceToc.innerHTML;
+      drawer.appendChild(tocBox);
 
       panel = document.createElement("div");
       panel.id = "toc-panel";
