@@ -170,6 +170,7 @@ include:
   - _pages
 exclude:
   - _notes
+  - CLAUDE.md
   - "*.sublime-project"
   - "*.sublime-workspace"
   - vendor

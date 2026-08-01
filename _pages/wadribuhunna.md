@@ -3,10 +3,8 @@ title: "Islam and the Misreading of Qur'an 4:34: A Response to the Abuse Claim"
 description: "A response to the claim that Qur'an 4:34 sanctions domestic abuse, examining the linguistic, contextual, and juristic evidence."
 
 permalink: /wadribuhunna
-redirect_from:
-  - /waddribuhunna
 
-layout: single-zen
+layout: single
 
 toc: true
 toc_label: "Table of Contents"

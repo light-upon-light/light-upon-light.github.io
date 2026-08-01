@@ -4,7 +4,7 @@ description: "Key aspects of the Qur'an which, taken together and in relation to
 
 permalink: /quran
 
-layout: single-zen
+layout: single
 
 toc: true
 toc_label: "Table of Contents"

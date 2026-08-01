@@ -1,8 +1,26 @@
 # CLAUDE.md
 
-Jekyll site (GitHub Pages) using the `minimal-mistakes` theme via `remote_theme`.
-Pages live in `_pages/`, build with `bundle exec jekyll build`, output is flat
-(`_site/quran.html`, not `_site/quran/index.html`).
+Jekyll site (GitHub Pages) using the `minimal-mistakes` theme via `remote_theme`,
+pinned to 4.28.0. Pages live in `_pages/`. Build with
+`bundle exec jekyll build`.
+
+## What gets published
+
+GitHub Pages builds from `main`, so pushing is publishing. There is no CI, no
+staging, and no tests — a local build and a look at `_site/` is the only check
+there is.
+
+The `github-pages` gem bundles `jekyll-optional-front-matter`, so **every
+markdown file the build can see becomes a page**, front matter or not, and lands
+in `sitemap.xml`. `include: [_pages]` publishes everything under `_pages/`
+regardless of any `published:` flag.
+
+## URLs
+
+The article pages set `permalink: /quran` with no trailing slash, so they build
+flat (`_site/quran.html`, not `_site/quran/index.html`). Link to them the same
+way — `/quran`, not `/quran/`, which 404s on GitHub Pages. `about.markdown` uses
+`/about/` and does build to a directory; the asymmetry is deliberate.
 
 ## Site description
 
@@ -32,6 +50,29 @@ Existing citations follow these conventions — match them:
 The end-of-ayah marker (U+06DD + Arabic-Indic digits) goes *inside* the quoted
 text where the verse ends — never in the citation label, and never after a
 fragment, because no verse ends there.
+
+### The markup
+
+A quotation is one blockquote: the English, its attribution, a bare `>` line,
+then the Arabic in a `div`.
+
+```markdown
+> "…translation…" (**Sūrat al-Nisāʾ 4:34**), Dr. Mustafa Khattab, *The Clear Quran*
+>
+> <div dir="rtl" lang="ar" class="quran-arabic">…Arabic…<span class="ayah-ref">…label…</span></div>
+```
+
+`dir="rtl"` and `lang="ar"` are load-bearing. Without `dir`, the div inherits
+the page's LTR paragraph direction from `<body dir="ltr">`, and the ornate
+brackets and the trailing `.ayah-ref` span — all bidi-neutral — get ordered as
+though the line were English. `lang` drives font selection and tells assistive
+technology what it is reading. Both are easy to drop when copying an existing
+block.
+
+`.markdownlint.json` permits only `div` and `span` under MD033 (and turns off
+MD013 line length) precisely because of this pattern. A new inline element means
+updating that config, not quietly failing the lint.
+
 
 ### The bracket trap
 

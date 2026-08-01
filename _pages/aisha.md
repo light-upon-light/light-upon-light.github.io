@@ -4,7 +4,7 @@ description: "A historical, moral, and Islamic examination of the Prophet Muhamm
 
 permalink: /aisha
 
-layout: single-zen
+layout: single
 
 toc: true
 toc_label: "Table of Contents"
