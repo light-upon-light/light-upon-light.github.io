@@ -4,8 +4,6 @@ Jekyll site (GitHub Pages) using the `minimal-mistakes` theme via `remote_theme`
 Pages live in `_pages/`, build with `bundle exec jekyll build`, output is flat
 (`_site/quran.html`, not `_site/quran/index.html`).
 
-`_pages/drafts/` is intentionally untracked. Don't commit it.
-
 ## Qur'an citations
 
 **Never write Qur'anic Arabic from memory.** Fetch it:
