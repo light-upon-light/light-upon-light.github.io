@@ -20,28 +20,28 @@ share: true
 
 ### Mode of Revelation
 
-1. Revealed **entirely by oral recitation** through Prophet Muhammad ﷺ, a man of seventh-century Mecca who could **neither read nor write**. The Qur'an says so to the one audience able to contradict it.
+1. Revealed **entirely by oral recitation** through Prophet Muhammad ﷺ, a man of seventh-century Mecca who could **neither read nor write**. The Qur'an says so to the one audience that could have contradicted it.
     > “You ˹O Prophet˺ could not read any writing ˹even˺ before this ˹revelation˺, nor could you write at all. Otherwise, the people of falsehood would have been suspicious.” (**Sūrat al-ʿAnkabūt 29:48**), Dr. Mustafa Khattab, *The Clear Quran*
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَمَا كُنتَ تَتْلُوا۟ مِن قَبْلِهِۦ مِن كِتَٰبٍۢ وَلَا تَخُطُّهُۥ بِيَمِينِكَ ۖ إِذًۭا لَّٱرْتَابَ ٱلْمُبْطِلُونَ ۝٤٨﴾ <span class="ayah-ref">سُورَةُ العَنكَبُوتِ</span></div>
     {: .quote }
-1. Revealed over **23 years** in **separate portions** and **out of order**, often in direct response to **events no one saw coming**. Set in its final arrangement, it reads as one continuous composition.
-1. **Fixed at the moment of utterance**: a verse stood in the wording it was first recited in. Later revelation could change a ruling, and the earlier wording stayed in the text unaltered.
+1. Revealed over **23 years** in **separate portions** and **out of order**, often in direct answer to **events nobody saw coming**. And when set in its final arrangement, it reads as one continuous composition.
+1. **No second drafts.** Once he spoke a verse it was fixed with **no retraction or revision**.
 
 ### Literary Miracle
 
-1. Runs to **more than 600 pages** of recited text. Everything claimed below concerns a work of that length, not a handful of memorable sayings.
-1. Recognized in **every generation since** as the **summit of Arabic eloquence**, by its admirers and by its opponents.
+1. Runs to **more than 600 pages** — a full-length book, not a handful of memorable sayings.
+1. Recognized in **every generation since** as the **summit of Arabic eloquence**, by its admirers and by its enemies.
     > [Linguistic Miracle of the Qur'an](https://youtu.be/abzZL_3Av2E)
 
     > [Incredible Word Patterns found in the Quran](https://youtu.be/vady0SQGHCU)
 
     > [ONE WORD Proving the Quran is Allah's Words \| Arabic101](https://youtu.be/OED98p4bpx0)
-1. Belongs to **neither poetry nor prose** but to a **form of its own**, holding rhythmic beauty and precision of meaning together.
-1. Holds the **same peak quality across all 23 years**. A human author's style develops, tires, and shifts with his circumstances; this text keeps one register from the first revelation to the last.
-1. Became the **standard against which Arabic grammar was codified**. Grammarians drew their rules from the text rather than measuring the text against rules already in place.
-1. Carries **several layers of meaning in the same words**: a plain sense any listener can act on, and deeper senses scholars have drawn out for centuries without displacing the first.
-1. **Ring structure**: verses, chapters, and even groups of chapters fall into **symmetrical patterns** (chiastic structures), built with no chronological sequencing and no later editing.
+1. Belongs to **neither poetry nor prose** but to a **unique form of its own**, which combines rhythmic beauty and precision of meaning.
+1. Maintains the same **literary quality across all 23 years** of revelation, unlike any human author whose style evolves over time.
+1. It is the **reference text for Arabic grammar itself**. When the grammarians came to record the rules down, they took the Qur'an as the standard of correct Arabic since it contains **no linguistic errors**. And fourteen centuries of scrutiny have **turned up no error in it**.
+1. Carries **multiple layers of meaning** in the same words. The **exoteric** sense is the apparent one. Beneath it are the **esoteric** meanings, several layers of them, which scholars have been drawing out for fourteen centuries without exhausting them.
+1. **Ring structure**: There are intricate **symmetrical patterns** (chiastic structures) embedded within verses, chapters, and even across chapters.
     > Revelation that arrived in pieces, out of order, and fixed on first utterance is the hardest possible condition under which to build a symmetry across a whole book. This point would be remarkable on its own, before it is added to the others.
     {: .gloss }
 
@@ -50,41 +50,47 @@ share: true
     > [Mind Blowing Symmetry in Quran Pages! - The Miracle You’ll Hear for the First Time!](https://youtu.be/2iiGZlyDOXk)
 
     > [THE RING COMPOSITION! - Remarkable Structure of the Quran](https://youtu.be/b5Y5gMc_XZo)
-1. Can be **read in any order** of chapters and still holds its coherence, guidance, and thematic unity, which an ordinary narrative cannot do.
-1. It **challenged the Arabs** to match it at the height of their command of Arabic. They had the **skill** to answer it and every **motive**.
-    > Ibn Rashīq, *al-ʿUmda*, records that when a poet emerged in a tribe the neighbouring tribes came to congratulate it, with feasting and singing as at a wedding. Poets competed publicly at the annual fair of ʿUkāẓ; the *rajaz* metre existed largely for verse improvised on the battlefield, where champions traded lines before they traded blows; and *hijāʾ*, satire aimed at a rival tribe, counted as an act of war and could settle a quarrel in place of one. The Prophet ﷺ later set his own poet Ḥassān ibn Thābit against the Quraysh in verse: "Lampoon them, and Gabriel is with you" (*Ṣaḥīḥ al-Bukhārī* 3213), because satire "is more grievous to them than the hurt of an arrow" (*Ṣaḥīḥ Muslim* 2490).
-    {: .src }
-
-    > These were people who let no challenge to their eloquence pass. Answering this one in verse would have ended the matter at no cost, and verse was the art they prized above every other. They went to war instead.
+1. Can be **read in any order** of chapters and still holds its coherence, guidance, and thematic unity. Try that with a novel or a history.
+1. It **challenged the Arabs** to match it at the height of their command of Arabic. They had the **skill** to answer and every **motive**.
+    > The Qur'an was revealed in an era when the **Arabs** had reached the very **summit of Arabic** language eloquence and rhetoric. **Poetry** was not mere entertainment; it was the **lifeblood of their culture**, the **measure of honor**, and even a **weapon in war**—tribes would settle disputes or ignite battles through verses. In this context, where **pride in language** was unrivaled and **mastery of Arabic** expression was their greatest art, the **Qur'an openly challenged** them to produce anything like it. Despite their unmatched command of Arabic and every worldly motive to discredit the Prophet ﷺ, they were unable to respond, and **their failure** itself became a **perpetual testimony** to the **Qur'an's inimitability**.
     {: .gloss }
+
+    > Ibn Rashīq, *al-ʿUmda*: when a poet appeared in a tribe, the neighbouring tribes came to congratulate it, with feasting and singing as at a wedding.
+    >
+    > Poets competed in public at the annual fair of ʿUkāẓ, and the *rajaz* metre existed largely for verse improvised on the battlefield, where champions traded lines before they traded blows.
+    >
+    > *Hijāʾ*, satire aimed at a rival tribe, counted as an act of war in itself, and could settle a quarrel in place of one.
+    >
+    > *Ṣaḥīḥ al-Bukhārī* 3213 and *Ṣaḥīḥ Muslim* 2490: the Prophet ﷺ set his own poet Ḥassān ibn Thābit on the Quraysh — "Lampoon them, and Gabriel is with you" — because satire "is more grievous to them than the hurt of an arrow".
+    {: .src }
 1. **No rival text has been accepted as its equal** in the fourteen centuries since, including by the people with the strongest reasons to produce one.
-1. Opponents fell back on calling him a **magician**, a man **possessed**, or a man **taught by someone else**. Each of those explanations grants the text its effect and disputes only its source.
+1. Opponents fell back on calling him a **magician**, a man **possessed**, or a man **taught by someone else**. Every one of those grants the text its effect and only argues about where it came from.
 1. The Prophet's ﷺ **personal life, grief, and grievances leave no mark on the message**. The text keeps an **objective, divine voice** even where it deals with his own household.
-1. Modern **linguistic comparison** of the Qur'an with the **hadith**, the separate record of his own speech, finds **consistent differences** in style and structure. The two read as **distinct sources**.
-    > A non-literate speaker would have to switch his natural mode of expression completely and consistently, and only when reciting revelation, and sustain it for twenty-three years.
+1. Modern **linguistic analysis** of the **Hadith** (The corpus of Prophet Muhammad's ﷺ own personal speech) and the **Qur'an** shows clear, consistent differences in style and structure, indicating **distinct sources**.
+    > Think what faking that would take. A man who can't read holds one voice for his own speech and a completely different one for the revelation, never slips once in public, and keeps it up for twenty-three years.
     {: .gloss }
 
     > [Conquering Doubts & Confidently Defending Islam \| Ali Ataie](https://youtu.be/_HlpfgaDATU) (The whole of this video is great)
 
-1. **Recitation carries across the language barrier.** Listeners with no Arabic at all are moved to tears by the sound of it, before anyone translates a word.
+1. **Flows perfectly** and is **beautifully melodic**, with a **profound effect on the heart**. It's common for people who don't speak a word of Arabic to weep when listening to it, without even knowing what it means.
 
 ### Challenges and Bold Claims
 
-1. Claims to be the **verbatim word of God**, rather than a report about God or an inspired human account of Him. No other book of comparable reach makes that claim about itself.
-1. The **second verse of the whole book**, before a single narrative or law, declares it to be **beyond doubt**.
+1. Claims to be the **verbatim word of God**: not a report about Him, not an inspired human account of Him. No other book with anything like this reach says that about itself.
+1. The **second verse of the whole book**, before a single story or law, declares it **beyond doubt**.
     > "This is the Book! There is no doubt about it—a guide for those mindful ˹of God˺" (**Sūrat al-Baqarah 2:2**), Dr. Mustafa Khattab, *The Clear Quran*
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿ذَٰلِكَ ٱلْكِتَٰبُ لَا رَيْبَ ۛ فِيهِ ۛ هُدًۭى لِّلْمُتَّقِينَ ۝٢﴾ <span class="ayah-ref">سُورَةُ البَقَرَةِ</span></div>
     {: .quote }
-1. Stakes its own authenticity on **containing no contradictions**, and names that as the test a reader should run against it.
+1. Stakes its own authenticity on **having no contradictions**, and hands you the test to run.
     > "Then do they not reflect upon the Qur’ān? If it had been from [any] other than Allāh, they would have found within it much contradiction." (**Sūrat al-Nisāʾ 4:82**), Saheeh International
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿أَفَلَا يَتَدَبَّرُونَ ٱلْقُرْءَانَ ۚ وَلَوْ كَانَ مِنْ عِندِ غَيْرِ ٱللَّهِ لَوَجَدُوا۟ فِيهِ ٱخْتِلَٰفًۭا كَثِيرًۭا ۝٨٢﴾ <span class="ayah-ref">سُورَةُ النِّسَاءِ</span></div>
     {: .quote }
 
-    > The verse invites the search rather than forbidding it, and fourteen centuries of motivated readers have run it. One established contradiction would settle the question; none has been established.
+    > The verse invites the search instead of forbidding it, and fourteen centuries of motivated readers have taken it up. One established contradiction would end the claim. Nobody has produced one.
     {: .gloss }
-1. **Challenges all of humanity** to produce something like it. The bar then drops to **ten chapters**, then to **one chapter**, with **any help they can find**.
+1. **Challenges all of humanity** to produce something like it. Then later the bar drops to **ten chapters**, then to **one chapter**, with **any help they can find**.
     > “Say, ˹O Prophet,˺ ‘If ˹all˺ humans and jinn were to come together to produce the equivalent of this Qur'an, they could not produce its equal, no matter how they supported each other.'” (**Sūrat al-Isrāʾ 17:88**), Dr. Mustafa Khattab, *The Clear Quran*
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿قُل لَّئِنِ ٱجْتَمَعَتِ ٱلْإِنسُ وَٱلْجِنُّ عَلَىٰٓ أَن يَأْتُوا۟ بِمِثْلِ هَٰذَا ٱلْقُرْءَانِ لَا يَأْتُونَ بِمِثْلِهِۦ وَلَوْ كَانَ بَعْضُهُمْ لِبَعْضٍۢ ظَهِيرًۭا ۝٨٨﴾ <span class="ayah-ref">سُورَةُ الإِسۡرَاءِ</span></div>
@@ -100,25 +106,26 @@ share: true
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَإِن كُنتُمْ فِى رَيْبٍۢ مِّمَّا نَزَّلْنَا عَلَىٰ عَبْدِنَا فَأْتُوا۟ بِسُورَةٍۢ مِّن مِّثْلِهِۦ وَٱدْعُوا۟ شُهَدَآءَكُم مِّن دُونِ ٱللَّهِ إِن كُنتُمْ صَٰدِقِينَ ۝٢٣ فَإِن لَّمْ تَفْعَلُوا۟ وَلَن تَفْعَلُوا۟ فَٱتَّقُوا۟ ٱلنَّارَ ٱلَّتِى وَقُودُهَا ٱلنَّاسُ وَٱلْحِجَارَةُ ۖ أُعِدَّتْ لِلْكَٰفِرِينَ ۝٢٤﴾ <span class="ayah-ref">سُورَةُ البَقَرَةِ</span></div>
     {: .quote }
 
-    > The terms are set to make the challenge as easy to meet as possible: the smallest unit of the text, unlimited collaboration, and no time limit. It has stood open since it was issued.
+    > "Like it" is neither vague nor a low bar. A rival chapter has to match the Qur'an where it actually stands out — the eloquence, the structure, the meaning, the guidance, and most importantly the transformational effect on people's hearts — all at once and sustained the whole way through. Attempts were made, and Musaylima's are the famous ones: classical Arabic sources record them as parody, and no critic since has put them forward as a serious rival. The judges were the Arabs of that century, the people best qualified in all of history to make the call and the ones who most wanted a winner.
     {: .gloss }
 
 ### Guidance, Law, and Morality
 
-1. Presents itself as coming from the **same Divine Author** as the earlier scriptures. It **confirms** what they taught, **expands** their guidance, and **restores** what had been altered in transmission.
-1. Its central message is **mercy, compassion, and love**, resting on the claim that **goodness and truth** are attributes of God rather than human conventions.
-1. Provides a complete **moral and legal framework**, balancing **justice, mercy, and compassion**, which guided a **flourishing civilization**. **Fourteen centuries on it still reads as current**, addressing seventh-century Arabs and modern readers on the same terms.
+1. Presents itself as coming from the **same Divine Author** as the earlier scriptures. It **confirms** what they taught, **expands** their guidance, and **restores** what had been altered along the way.
+1. Its central message is **love, mercy, and compassion**, and it roots them in God Himself. **Goodness** and **truth** aren't conventions we agreed on; they are what He is.
+1. Provides a complete **moral and legal framework**, holding **justice, mercy, and compassion** in balance, and it guided a **flourishing civilization** for centuries.
+1. Its **guidance, its teachings, and the lessons in its stories all still land**. What it said to seventh-century Arabs it says to you now, and fourteen centuries have dated none of it.
 
 ### Knowledge: Historical, Scientific and Linguistic
 
-1. Describes **features of the natural world**, embryological development among them, that were not established until many centuries later.
-    > This line of argument supports the case rather than carrying it. Its weight depends on reading a verse as its first audience would have read it, not on importing a modern meaning into an ambiguous word.
+1. Describes **features of the natural world** that nobody established for centuries afterwards, some of them not until there were instruments to see them with.
+    > Weigh these one at a time. The strong examples are the ones where the verse says something specific and the specific thing turned out to be true. The weak ones stretch a vague word to fit a modern discovery after the fact, and those are worth nothing to the argument.
     {: .gloss }
 
     > [Qur'an on Embryology - Professor Keith L. Moore](https://youtu.be/J_Dllu42eEA)
 
     > [Are there scientific miracles in the Qur'an?](https://youtu.be/DoP6Ft-VE70)
-1. Gives **accurate historical detail**, some of it confirmed only by modern scholarship.
+1. Gives **strikingly accurate historical detail**, some of it confirmed only by modern scholarship.
     > [The Qur'an and the Secrets of Egypt](https://youtu.be/c2ovILc_sKY)
 1. Retells the narratives it shares with the Bible while **correcting their historical errors** rather than inheriting them.
     > For example: the title of Pharaoh in the time of Moses against that of the ruler in the time of Joseph, and the small number of Israelites at the exodus.
@@ -127,20 +134,20 @@ share: true
     > [Stories of the Prophets: Bible vs. Qur'an](https://youtu.be/lEc_ilaHim8)
 
     > [The Qur'an and the Secrets of Egypt](https://youtu.be/c2ovILc_sKY)
-1. Contains **numerical and structural patterns** running through the text.
-    > These are supporting observations, not proofs. Popular versions of the argument often depend on selective counting, and the first link below separates the patterns that survive scrutiny from those that do not.
+1. **Astonishing mathematical structures** are embedded in the text: word counts, symmetries, and correspondences that hold across the whole book.
+    > This is the area where careless claims do the most damage. Plenty of the viral versions depend on counting things in a way nobody would count them otherwise, and they collapse the moment someone checks. The measured treatment in the first link below is the one worth your time.
     {: .gloss }
 
     > [Mathematical Miracles in the Qur'an: A Measured Approach](https://youtu.be/QC3sDbVcAbw)
 
     > [The Numerical Miracles in the Quran \| Arabic101](https://youtu.be/11dDOBdQobQ)
-1. Uses **words from other languages** at points where the sense in the source language fits exactly. The man reciting the text spoke only Arabic.
+1. Uses **words from other languages**, Hebrew among them, at the exact point where the meaning in *that* language is what's being said. **Muhammad ﷺ spoke none of them**, and catching a play like that takes command of both.
     > [The Hebrew word that PROVED that the Qur'an is from Allah](https://youtu.be/wA4v8MrBHHc)
 
 ### Preservation and Memorization
 
 1. **Perfectly preserved for over 1,400 years** through **mass oral transmission**, with a written record running alongside it the whole way. Early manuscripts of it have been carbon dated.
-    > Every other text of comparable age reaches a modern reader through losses, competing recensions, or a translation standing between them and the original. This one reaches them in the words it was recited in.
+    > No other book reaches you like this. Every other text of that age comes down through losses, competing versions, or a translation standing between you and the original.
     {: .gloss }
 
     > [The Most DIRECT Proof That The Qur'an is From Allah \| Arabic101](https://youtu.be/4l7pbX5J8Lg)
@@ -149,7 +156,7 @@ share: true
 
     > [How To Prove The Qur'an Has Been Preserved Accurately](https://youtu.be/n281Zyywyn4)
 1. **Easily memorized.** Holding all 600+ pages in memory is ordinary among Muslims, and **millions of people alive today** carry the **entire text word for word**.
-    > Most of them are not native Arabic speakers. Arabic is not the first language of roughly 80% of Muslims today.
+    > Most of them are not native Arabic speakers. Arabic isn't the first language of roughly 80% of Muslims today.
     {: .gloss }
 
     > [MIRACLE OF QURAN MEMORIZATION](https://youtu.be/s3WIOc2fHc0)
@@ -164,7 +171,7 @@ share: true
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿مَّا كَانَ مُحَمَّدٌ أَبَآ أَحَدٍۢ مِّن رِّجَالِكُمْ وَلَٰكِن رَّسُولَ ٱللَّهِ وَخَاتَمَ ٱلنَّبِيِّۦنَ ۗ وَكَانَ ٱللَّهُ بِكُلِّ شَىْءٍ عَلِيمًۭا ۝٤٠﴾ <span class="ayah-ref">سُورَةُ الأَحۡزَابِ</span></div>
     {: .quote }
 
-    > Fourteen centuries have produced new religious movements, and several of them are large. The claim is not only that none has spread as far, but that none has arrived with a comparable case behind it: a text presented as the direct speech of God, unmatched in its own language, preserved and memorized at scale, and delivered by a man whose life is documented in detail by his followers and his enemies alike. A later claimant would have to match that whole combination, not any one part of it.
+    > Fourteen centuries have produced new religious movements, and several of them are large. The claim isn't only that none of them spread as far. It's that none arrived with anything like the same case behind it: a text presented as God's own speech, unmatched in its own language, preserved and memorized at scale, delivered by a man whose life his enemies documented alongside his followers. A later claimant would have to match all of that at once.
     {: .gloss }
 1. **Prophesies its own spread** over the religions of the world, at a time when its followers were a persecuted minority in a single city.
     > "He is the One Who has sent His Messenger with ˹right˺ guidance and the religion of truth, making it prevail over all others. And sufficient is Allah as a Witness." (**Sūrat al-Fatḥ 48:28**), Dr. Mustafa Khattab, *The Clear Quran*
@@ -207,11 +214,12 @@ share: true
 1. It produced the **second-largest religion on earth**, after the Christianity that preceded it, and the **fastest-growing** of the major religions.
     > *Pew Research Center* projects near parity by 2050, at roughly 2.8 billion Muslims and 2.9 billion Christians.
     {: .src }
-1. Its **first hearers held to it through thirteen years of persecution** in Mecca: mockery, beating, starvation, boycott, and exile. Giving it up would have ended all of that at once, and they kept it. The next section sets out what it cost the man who brought it.
+1. Its **first hearers held to it through thirteen years of persecution** in Mecca: mockery, beatings, starvation, boycott, exile. Giving it up would have ended all of that in a day, and they didn't give it up.
 
 ---
 
-> *Note: These are brief points highlighting key ideas. While more general verification and further details can be found through research, some links to helpful videos are provided above.*
+> *Note: These are brief points highlighting key ideas. While more general verification and further details can be found through some research, some links to helpful videos are provided above.*
+
 
 ## The Messenger of God ﷺ
 
