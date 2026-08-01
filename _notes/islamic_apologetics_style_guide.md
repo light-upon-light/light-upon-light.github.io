@@ -116,15 +116,128 @@ Use:
 - smooth transitions;
 - one main idea per paragraph.
 
-Define every Arabic or technical term immediately on first use.
+Define every Arabic or technical term immediately on first use **in each major section**, not merely on first use in the article. Readers arrive through a table of contents, through a search result, or through a link someone sent them. A gloss delivered forty paragraphs earlier does not reach them.
 
 Example:
 
 > *Tawhid*, the absolute oneness and uniqueness of God
 
+Keep an explicit list of the technical vocabulary an article uses, and check it section by section before publishing. Terms that recur throughout a long section are better handled once, in a short orientation note under the heading, than glossed again at every occurrence.
+
 Do not leave untranslated Arabic terms in the middle of an English explanation unless the translation or explanation is given immediately.
 
 Avoid unnecessary jargon. When technical language is required, explain why the distinction matters.
+
+---
+
+## Sentence-Level Craft
+
+The sections above govern what an article argues. This one governs how the sentences carry it. Most of the difficulty readers actually report comes from below the paragraph, in prose that is well formed sentence by sentence and hard to move through in bulk.
+
+### State the inference; do not imply it
+
+Where a fact supports a conclusion, write the conclusion as a clause with a subject and a verb. Do not leave it to an aphorism, an implied contrast, or an em dash.
+
+Prefer:
+
+> For twenty-one years he had no power to punish anyone. He now had it over the people who had tortured his followers, and he used it to let them go.
+
+Avoid:
+
+> Power arrived, and the behaviour did not change.
+
+The second version is more elegant and costs the reader a second pass. It states the fact and withholds the middle term that makes the fact matter. Every such sentence transfers work from the writer to the reader, and the reader is the one who has less context.
+
+A trailing aphorism draws its force from scarcity. Used once in a section it lands. Used in every item it becomes a rhythm the reader stops hearing, and each instance still withholds its middle term. Compression is not concision: concision removes words, compression removes steps.
+
+Related failures, all with the same remedy:
+
+- ending on a gnomic sentence whose subject is abstract (*That combination is unusual*);
+- ending on a bare contrast whose two halves the reader must fill in (*Hagiography removes such things; this material retains them*);
+- ending on an ellipsis of the argument (*Here it required an announcement*).
+
+Write the step out. If doing so flattens the sentence, the sentence was carrying the argument by implication.
+
+### Budget the rhetorical devices
+
+Each device below delays the point of its sentence. Each is worth its cost occasionally and worthless in bulk, because a device the reader can predict has stopped functioning as a device.
+
+| Device | Budget |
+| --- | --- |
+| Sentence ending in an em-dash punchline | 1 per subsection |
+| Em dash | 1 per sentence |
+| Fronted participial opener (*Asked…*, *Told…*, *Offered…*) | 1 per subsection |
+| Rhetorical question | 1 per article |
+| Words between a subject and its verb | 6 |
+| Semicolon joining independent clauses | 1 per paragraph |
+
+When the budget is spent, the fix is nearly always a full stop. An em dash that joins two independent clauses is a full stop the writer declined to use, and it removes the pause the reader needs in order to bank the first clause before starting the second.
+
+### Prefer positive statements
+
+State what is true before stating what is not. A negated claim has to be understood positively and then inverted, and stacked negations multiply that cost.
+
+Never combine the passive voice with negation. The two together invert silently and reliably:
+
+Wrong:
+
+> He was never once refused a request that he was able to grant.
+
+Right:
+
+> He never refused a request he was able to grant.
+
+The first sentence says that other people never refused *him*, which is not the claim and not what the cited source says.
+
+Where the negative *is* the claim — an absence of evidence, a pattern that does not exist — establish the positive ground first, then negate:
+
+> His life is documented down to how he slept and what he ate. Fourteen centuries of hostile scrutiny of that record have turned up no pattern of cruelty, dishonesty, or self-enrichment.
+
+### Concrete over abstract
+
+Prefer verbs to nominalizations, and people to categories.
+
+| Abstract | Concrete |
+| --- | --- |
+| removing the incentive structure that produces dynasties | so that no one stood to gain by keeping power in his family |
+| reclassified as brothers, with a concrete legal standard attached rather than a sentiment | called brothers, with a rule attached to the word: feed them what you eat |
+| a mechanism that steadily drained the institution from within | every broken oath set someone free, so the law kept emptying the institution |
+| most of the points admit of some ordinary explanation | taken one at a time, each point has an ordinary explanation |
+
+Watch for register spikes: a passage of plain narrative interrupted by one sentence in philosophical idiom (*admits of*, *obtains*, *on the present account*, *the evidential value*). The individual sentence is fine. The alternation is what makes a section feel bumpy, because the reader has to change gear on every paragraph.
+
+### Rhythm
+
+- One idea per sentence.
+- Median sentence length at or under 20 words.
+- No sentence over 35 words.
+- Follow any sentence over 30 words with one under 12.
+
+Long sentences are not the problem on their own. Uniformly long sentences are, because the reader never gets the short one that lets them bank what they have just read.
+
+---
+
+## Bullet and Evidence Formatting
+
+Long articles on this site carry their evidence as a numbered claim followed by indented supporting lines. That structure only works if each line has one job and the reader can tell which job it is before reading it.
+
+**The claim line.** One bolded phrase per bullet, inside the first sentence, positioned so that the bolded words alone state the point when the page is scanned. The lead sentence stays at or under 25 words. Anything longer belongs in the lines beneath it.
+
+**The supporting lines**, in this order, each as its own indented block:
+
+1. the quotation, with its translator or collection attributed at the end of the quoted text;
+2. the Arabic, where the quotation is Qur'anic;
+3. the commentary, at most one block per bullet.
+
+A commentary block always opens with its source, before any argument:
+
+> *Ṣaḥīḥ al-Bukhārī* 3231. Aisha asked him whether any day had been harder than the battle of Uhud, and this was the day he named.
+
+The position of the source is what makes the block predictable. A quotation carries its attribution at the end; everything else carries it at the front. A reader who cannot tell in advance whether the next indented line is a reference, a fact, or an inference has to parse every one of them from scratch.
+
+Do not attach two separate commentary blocks to one bullet. If a bullet needs two comments, it is two bullets.
+
+**Consistency across a section matters more than the merits of any single bullet.** A section where bullets run from eleven to a hundred and thirty words, some bolded and some not, reads as harder than the same content evenly cut, whatever the quality of the individual sentences.
 
 ---
 
@@ -421,6 +534,15 @@ Also avoid:
 - excessive defensiveness;
 - assuming bad faith when a misunderstanding is sufficient to explain the objection.
 
+Also avoid, at the level of the sentence:
+
+- gnomic aphorisms standing in for a stated conclusion;
+- em dashes used where a full stop belongs;
+- stacked appositives between a subject and its verb;
+- register spikes into philosophical idiom (*admits of*, *obtains*, *the evidential value*);
+- the passive voice combined with a negation;
+- runs of sentences built to the same shape.
+
 ---
 
 ## General Writing Restrictions
@@ -464,7 +586,9 @@ The article should defend Islamic teachings or explain the miraculous nature of 
 
 Use a confident, composed, dignified, and intellectually serious voice. Present the strongest reasonable version of opposing arguments before answering them. Identify the assumptions behind each criticism, distinguish factual claims from moral judgments, and explain precisely where the reasoning succeeds or fails.
 
-Use clear, accessible English. Define all Arabic and technical terms immediately. Organize the article with descriptive headings and logically connected sections. Each paragraph should advance one distinct point.
+Use clear, accessible English. Define all Arabic and technical terms immediately, and again in each major section where they recur. Organize the article with descriptive headings and logically connected sections. Each paragraph should advance one distinct point.
+
+Write the sentences to be read once. Where a fact supports a conclusion, state the conclusion as a clause with a subject and a verb rather than implying it through an aphorism, a bare contrast, or an em dash. Keep one idea per sentence, one em dash per sentence at most, and no sentence over 35 words. Vary sentence length, and follow a long sentence with a short one. Prefer positive statements to negated ones, and never combine the passive voice with a negation. Prefer verbs to abstract nouns and people to categories. A trailing epigram is worth using once in a section and never as a default ending.
 
 When discussing historical context, use it to clarify the realities and meanings of events without reducing morality to historical relativism. Explain the timeless Islamic principles governing the issue.
 
@@ -538,7 +662,9 @@ Use this when a shorter instruction is needed:
 ```text
 Use a reverent, analytical apologetic style. Write for an educated general audience in clear, precise English. Present objections fairly and in their strongest form, identify their assumptions, and answer them through reliable sources, historical context, textual analysis, and logical reasoning.
 
-Be confident, composed, dignified, and intellectually honest. Distinguish established facts, mainstream positions, disputed interpretations, and speculation. Define Arabic and technical terms immediately.
+Be confident, composed, dignified, and intellectually honest. Distinguish established facts, mainstream positions, disputed interpretations, and speculation. Define Arabic and technical terms immediately, and again in each section where they recur.
+
+State every inference outright instead of implying it through an aphorism, a contrast, or an em dash. One idea per sentence, one em dash per sentence at most, nothing over 35 words, and long sentences followed by short ones. Prefer positive statements, concrete verbs, and named people over negations, abstract nouns, and categories.
 
 Contextualize historical issues without reducing morality to relativism. Build cumulative arguments and avoid sensational scientific, numerical, or historical claims. Do not use mockery, hostility, triumphalist rhetoric, clichés, filler, repetition, vague claims, or unsupported certainty.
 
@@ -568,3 +694,18 @@ Before finalizing an article, verify that it:
 - uses clear headings and focused paragraphs;
 - avoids repetition and generic filler;
 - ends with a substantive synthesis rather than a slogan.
+
+The items above are judgment calls. The following are countable, and should be checked mechanically:
+
+- no sentence runs over 35 words;
+- no sentence carries two em dashes;
+- no subsection ends more than one item on a trailing punchline;
+- no bullet opens with a fronted participle more than once per subsection;
+- every bullet carries exactly one bolded phrase, and that phrase states the claim when read alone;
+- every bullet's lead sentence runs to 25 words or fewer;
+- indented lines under a bullet follow the fixed order, with the source leading every commentary block;
+- no bullet carries more than one commentary block;
+- every Arabic or technical term is glossed within its own section;
+- no passage of quoted material or commentary is repeated elsewhere in the article.
+
+Finally, read the section aloud. Anywhere a sentence needs a second pass, the missing step is almost always an inference the writer implied instead of stating.
