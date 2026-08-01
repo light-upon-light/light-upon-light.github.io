@@ -103,6 +103,16 @@ Arabic uses `.quran-arabic`, citation labels `.ayah-ref`. Amiri is loaded from
 Google Fonts so the ayah marker encloses its digits regardless of what the
 reader has installed.
 
+Anything that needs to be *in* `<body>` goes in `_includes/footer/custom.html`,
+the theme's other hook (`_layouts/default.html` includes it just inside the
+footer). `#back-to-top` lives there — button, style, and script together, since
+it is self-contained. It is hidden at `64em` and up, where the theme's sticky
+TOC sidebar is already on screen; below that the TOC collapses inline to the
+top of the article and scrolling is the only way back to it. Skin colours are
+hardcoded from `_sass/minimal-mistakes/skins/_dirt.scss` — the theme exposes
+its palette as Sass variables, not CSS custom properties, so an include cannot
+read them. Changing `minimal_mistakes_skin` means updating them by hand.
+
 The theme sets `blockquote { font-style: italic }`. Arabic has no true italic,
 so browsers synthesise an oblique slant that mangles the joins — `.quran-arabic`
 cancels it with `font-style: normal`.
