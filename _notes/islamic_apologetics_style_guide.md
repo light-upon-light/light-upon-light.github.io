@@ -266,13 +266,15 @@ Position alone is a weak signal on a long page, so the three kinds are also styl
 
 | Kind | Tag | Rendering |
 | --- | --- | --- |
-| Quotation of scripture or hadith | none | theme default: italic, thin dark rule |
-| Source-led reference or detail | `{: .src }` | upright, smaller, muted, pale rule |
-| The author's own commentary | `{: .gloss }` | upright, full size, thick dark rule |
+| Revealed text: Qur'an or hadith | `{: .quote }` | italic, **gold** rule |
+| Source-led reference or detail | `{: .src }` | upright, smaller, sepia text, **taupe** rule |
+| The author's own commentary | `{: .gloss }` | upright, faint wash, thick **verdigris** rule |
 
-The attribute list is plain kramdown, so no inline HTML is involved and the MD033 allowance in `.markdownlint.json` does not need widening. The styles live in `_includes/head/custom.html` alongside `.quran-arabic`, and their colours are hardcoded from the dirt skin for the reason given in `CLAUDE.md`.
+The colours are an illuminated-manuscript scheme: gold for the revealed text, verdigris for the author's voice, and a taupe between them for the apparatus. The point is that a reader recognises a block by its colour before reading a word of it, so keep the association strict. Gold means scripture and nothing else.
 
-Blocks holding only a link stay untagged, and so do blockquotes at the top level of a page, which are prose asides rather than evidence under a claim.
+Tag a quotation wherever it appears, including at the top level of a page. `.src` and `.gloss` describe evidence sitting under a claim, so they only appear indented under a bullet. A blockquote holding only a link, and a prose aside, stay untagged and keep the theme's neutral dark rule.
+
+The attribute list is plain kramdown, so no inline HTML is involved and the MD033 allowance in `.markdownlint.json` does not need widening. The styles live in `_includes/head/custom.html` alongside `.quran-arabic`.
 
 **Consistency across a section matters more than the merits of any single bullet.** A section where bullets run from eleven to a hundred and thirty words, some bolded and some not, reads as harder than the same content evenly cut, whatever the quality of the individual sentences.
 

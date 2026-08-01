@@ -103,13 +103,21 @@ Arabic uses `.quran-arabic`, citation labels `.ayah-ref`. Amiri is loaded from
 Google Fonts so the ayah marker encloses its digits regardless of what the
 reader has installed.
 
-Indented blockquotes under a claim come in three kinds, styled so the reader
-can tell them apart: a **quotation** (untagged, theme default), a
-**source-led** block (`{: .src }`), and the author's **commentary**
-(`{: .gloss }`). The tag is a kramdown inline attribute list on the line
-directly after the block — plain markdown, so MD033 stays as it is. Blocks
-holding only a link, and blockquotes at the top level of a page, stay
-untagged. `_notes/islamic_apologetics_style_guide.md` has the full convention.
+Blockquotes carrying evidence come in three kinds, each with its own rule
+colour: **revealed text** (`{: .quote }`, gold `#a8792a`), a **source-led**
+block (`{: .src }`, taupe `#a1937c` with sepia `#6f6152` text), and the
+author's **commentary** (`{: .gloss }`, verdigris `#2e6b63` with a 5% wash).
+The tag is a kramdown inline attribute list on the line directly after the
+block — plain markdown, so MD033 stays as it is. Tag a quotation anywhere;
+`.src` and `.gloss` only appear indented under a bullet. A blockquote holding
+only a link, or a prose aside, stays untagged and keeps the theme's dark rule.
+`_notes/islamic_apologetics_style_guide.md` has the full convention.
+
+Unlike the button colours below, that palette is **deliberately not the skin's**
+— it is chosen to sit beside dirt's warm accents on `#f3f3f3` without borrowing
+the link colour. `.src` sets `color`, never `opacity`, because opacity fades any
+link inside the block along with the text; at `#6f6152` it clears WCAG AA for
+small text at 5.4:1. Re-check these by hand if the skin changes.
 
 Anything that needs to be *in* `<body>` goes in `_includes/footer/custom.html`,
 the theme's other hook (`_layouts/default.html` includes it just inside the
