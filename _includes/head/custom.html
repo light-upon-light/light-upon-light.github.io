@@ -28,6 +28,35 @@
     opacity: 0.7;
     white-space: nowrap;
   }
+
+  /* Evidence blocks indented under a claim come in three kinds, styled so a
+     reader can tell which is which before reading it:
+
+       quotation  - no class; the theme's default italic + 0.25em #343434 rule
+       .src       - a block led by its source reference; recedes
+       .gloss     - the author's own commentary; asserts
+
+     Applied in markdown with a kramdown attribute list on the line directly
+     after the block ({: .src }), so no inline HTML is involved and MD033 in
+     .markdownlint.json does not need widening.
+
+     Colours are hardcoded from _sass/minimal-mistakes/skins/_dirt.scss
+     ($primary-color #343434, $border-color #e9dcbe) because the theme exposes
+     its palette as Sass variables, not CSS custom properties. Changing
+     minimal_mistakes_skin means updating them here by hand. */
+  blockquote.src {
+    /* the theme italicises blockquotes; a citation is not a quotation */
+    font-style: normal;
+    font-size: 0.9em;
+    opacity: 0.72;
+    border-inline-start-color: #e9dcbe;
+  }
+
+  blockquote.gloss {
+    font-style: normal;
+    border-inline-start-width: 0.4em;
+    border-inline-start-color: #343434;
+  }
 </style>
 
 <!-- end custom head snippets -->

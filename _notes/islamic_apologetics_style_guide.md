@@ -248,9 +248,31 @@ A commentary block always opens with its source, before any argument:
 
 > *Ṣaḥīḥ al-Bukhārī* 3231. Aisha asked him whether any day had been harder than the battle of Uhud, and this was the day he named.
 
-The position of the source is what makes the block predictable. A quotation carries its attribution at the end; everything else carries it at the front. A reader who cannot tell in advance whether the next indented line is a reference, a fact, or an inference has to parse every one of them from scratch.
+The position of the source is what makes the block predictable. A quotation carries its attribution at the end; everything else carries it at the front.
 
 Do not attach two separate commentary blocks to one bullet. If a bullet needs two comments, it is two bullets.
+
+### Marking the block types
+
+Position alone is a weak signal on a long page, so the three kinds are also styled differently. Tag them with a kramdown attribute list on the line directly after the block:
+
+```markdown
+    > *Ṣaḥīḥ al-Bukhārī* 3231. Aisha asked him whether any day had been harder.
+    {: .src }
+
+    > A man inventing a divine mandate had just been handed the perfect proof of it.
+    {: .gloss }
+```
+
+| Kind | Tag | Rendering |
+| --- | --- | --- |
+| Quotation of scripture or hadith | none | theme default: italic, thin dark rule |
+| Source-led reference or detail | `{: .src }` | upright, smaller, muted, pale rule |
+| The author's own commentary | `{: .gloss }` | upright, full size, thick dark rule |
+
+The attribute list is plain kramdown, so no inline HTML is involved and the MD033 allowance in `.markdownlint.json` does not need widening. The styles live in `_includes/head/custom.html` alongside `.quran-arabic`, and their colours are hardcoded from the dirt skin for the reason given in `CLAUDE.md`.
+
+Blocks holding only a link stay untagged, and so do blockquotes at the top level of a page, which are prose asides rather than evidence under a claim.
 
 **Consistency across a section matters more than the merits of any single bullet.** A section where bullets run from eleven to a hundred and thirty words, some bolded and some not, reads as harder than the same content evenly cut, whatever the quality of the individual sentences.
 
@@ -719,6 +741,7 @@ The items above are judgment calls. The following are countable, and should be c
 - no run of consecutive sentences shares the same length and shape;
 - every bullet's lead sentence runs to 25 words or fewer, unless the sense requires more;
 - indented lines under a bullet follow the fixed order, with the source leading every commentary block;
+- every source-led and commentary block carries its `{: .src }` or `{: .gloss }` tag;
 - no bullet carries more than one commentary block;
 - every Arabic or technical term is glossed within its own section;
 - no passage of quoted material or commentary is repeated elsewhere in the article.

@@ -103,6 +103,14 @@ Arabic uses `.quran-arabic`, citation labels `.ayah-ref`. Amiri is loaded from
 Google Fonts so the ayah marker encloses its digits regardless of what the
 reader has installed.
 
+Indented blockquotes under a claim come in three kinds, styled so the reader
+can tell them apart: a **quotation** (untagged, theme default), a
+**source-led** block (`{: .src }`), and the author's **commentary**
+(`{: .gloss }`). The tag is a kramdown inline attribute list on the line
+directly after the block — plain markdown, so MD033 stays as it is. Blocks
+holding only a link, and blockquotes at the top level of a page, stay
+untagged. `_notes/islamic_apologetics_style_guide.md` has the full convention.
+
 Anything that needs to be *in* `<body>` goes in `_includes/footer/custom.html`,
 the theme's other hook (`_layouts/default.html` includes it just inside the
 footer). `#floating-nav` lives there — markup, style, and script together,

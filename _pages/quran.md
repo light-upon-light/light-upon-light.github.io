@@ -43,6 +43,7 @@ share: true
 1. Encompasses **multiple layers** of meaning within its verses, including the apparent, exoteric sense as well as deeper, often multilayered esoteric significances.
 1. **Ring structure**: Displays intricate **symmetrical patterns** (chiastic structures) within verses, chapters, and even across chapters—achieved without chronological sequencing or later editing.
     > This point in combination with the constraints on revelation described above is miraculous in its own right, let alone in addition to all the other aspects.
+    {: .gloss }
 
     > [Marvels of the Qur'an \| Dr. Ali Ataie](https://youtu.be/9gJWIGLJhHM)
 
@@ -52,11 +53,13 @@ share: true
 1. Can be **read in any order** of chapters while retaining coherence, guidance, and thematic unity—unlike typical narratives.
 1. It **challenged the Arabs** to produce anything comparable to it.
     > The Qur'an was revealed in an era when the **Arabs** had reached the very **summit of Arabic** language eloquence and rhetoric. **Poetry** was not mere entertainment; it was the **lifeblood of their culture**, the **measure of honor**, and even a **weapon in war**—tribes would settle disputes or ignite battles through verses. In this context, where **pride in language** was unrivaled and **mastery of Arabic** expression was their greatest art, the **Qur'an openly challenged** them to produce anything like it. Despite their unmatched command of Arabic and every worldly motive to discredit the Prophet ﷺ, they were unable to respond, and **their failure** itself became a **perpetual testimony** to the **Qur'an's inimitability**.
+    {: .gloss }
 1. Despite intense hostility, **no** contemporary or later **critic** has succeeded in **producing a work** that is accepted as **equal or superior** or even remotely close.
 1. Arabs had to resort to accusing Prophet Muhammad ﷺ of being a **magician or inspired by satan** when they were trumped by the miraculousness of the Qur'an.
 1. The Prophet's ﷺ personal life, emotions, and grievances **never distort the Qur'an's message**; it maintains an **objective, divine voice**.
 1. Modern **linguistic analysis** of the **Hadith** (The corpus of Prophet Muhammad's ﷺ own personal speech) and the **Qur'an** shows clear, consistent differences in style and structure, indicating **distinct sources**.
     > It would be virtually impossible for a non-literate person to alter his natural mode of expression so completely and consistently exclusively when orally revealing the Qur'an, especially in light of all other characteristics of the text.
+    {: .gloss }
 
     > [Conquering Doubts & Confidently Defending Islam \| Ali Ataie](https://youtu.be/_HlpfgaDATU) (The whole of this video is great)
 
@@ -69,6 +72,7 @@ share: true
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿ذَٰلِكَ ٱلْكِتَٰبُ لَا رَيْبَ ۛ فِيهِ ۛ هُدًۭى لِّلْمُتَّقِينَ ۝٢﴾ <span class="ayah-ref">سُورَةُ البَقَرَةِ</span></div>
 1. Claims it has **no contradictions**, and that if it were man-made you would find many contradictions in it. And the test of time proves that it does not have any contradictions.
     > People have been trying to find any for 1400+ years and if there really were any, the whole claim from God would fall apart very quickly
+    {: .gloss }
 1. **Challenges** the whole of **human kind** to produce **something like it**, even 10 chapters, even 1 chapter like it and call upon people to follow them. No one has been able to do so.
     > “Say, ˹O Prophet,˺ ‘If ˹all˺ humans and jinn were to come together to produce the equivalent of this Qur'an, they could not produce its equal, no matter how they supported each other.'” (**Sūrat al-Isrāʾ 17:88**), Dr. Mustafa Khattab, *The Clear Quran*
     >
@@ -86,6 +90,7 @@ share: true
 
 1. Claims to be the **final divine revelation** to humanity.
     > History confirms no later religion has spread on a fraction of its scale.
+    {: .gloss }
 1. As the final message, the Qur'an comes from the same **Divine Author**, **affirming** earlier scriptures, **expanding** their guidance, and **restoring** the truth where it had been altered.
 1. Main messages of **love, mercy and compassion** and alignment with the **Goodness** and **Truth** that is **God**.
 1. Provides a complete **moral and legal framework** that guided a **flourishing civilization**, underpinned by an ethical system balancing **justice, mercy, and compassion**.
@@ -101,6 +106,7 @@ share: true
     > [The Qur'an and the Secrets of Egypt](https://youtu.be/c2ovILc_sKY)
 1. Tells stories from the Bible, but precisely **avoids** and **corrects** its **historical inaccuracies**.
     > e.g. Title of Pharaoh vs King at time of Moses vs Joseph, Jews few in number at the time of the exodus, etc.
+    {: .gloss }
 
     > [Stories of the Prophets: Bible vs. Qur'an](https://youtu.be/lEc_ilaHim8)
 
@@ -116,6 +122,7 @@ share: true
 
 1. The Qur'an has been **perfectly preserved** for over 1,400 years through **mass oral transmission**, and supported by a plethora of written records over the years that have been carbon dated.
     > No other text in human history, especially one from such antiquity or claiming divine origin, has been preserved in this way, free from loss, alteration, or dependency on human translation and interpretation.
+    {: .gloss }
 
     > [The Most DIRECT Proof That The Qur'an is From Allah \| Arabic101](https://youtu.be/4l7pbX5J8Lg)
 
@@ -124,6 +131,7 @@ share: true
     > [How To Prove The Qur'an Has Been Preserved Accurately](https://youtu.be/n281Zyywyn4)
 1. It is **easily memorized**. It is common and normal for muslims to memorize its 600+ pages fully. There are **millions of people** today who have it **memorized** from **cover to cover** perfectly.
     > The majority of which are non-native Arabic speakers. In fact, Arabic is not the first language of around 80% of Muslims today.
+    {: .gloss }
 
     > [MIRACLE OF QURAN MEMORIZATION](https://youtu.be/s3WIOc2fHc0)
 
@@ -149,6 +157,7 @@ share: true
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَلَقَدْ يَسَّرْنَا ٱلْقُرْءَانَ لِلذِّكْرِ فَهَلْ مِن مُّدَّكِرٍۢ ۝١٧﴾ <span class="ayah-ref">سُورَةُ القَمَرِ</span></div>
 1. Contains many other fulfilled **future prophecies**:
     > e.g. Defeat of those who try to outdo the Qur'an, Defeat of Meccan opposition, Abu Lahab's eternal loss, Preservation of the drowned Pharaoh's body, the defeat and victory of Byzantium, etc.
+    {: .gloss }
 
     > [Mind Blowing Prophecies of Muhammad \| Part 1](https://youtu.be/xZIqd_-1Zus)
 
@@ -182,30 +191,39 @@ The argument of this section is **cumulative**. No single episode below is offer
 1. For **forty years before he claimed anything**, he lived among the people who would later become his fiercest opponents. They had four decades in which to find something to use against him. When the time came, they accused him of magic and of poetry, and never of a fault in his conduct.
 1. Mecca called him **al-Amīn**, "the trustworthy," and **al-Ṣādiq**, "the truthful," long before there was a message to defend. The society that gave him those names is the society that later tried to destroy him.
     > *Sīra*: Ibn Hishām, *Al-Sīra al-Nabawiyya*. The Qur'an appeals to this reputation directly, telling him to remind them that he had lived a whole lifetime among them before the revelation came.
+    {: .src }
 1. He was **chosen to arbitrate** when the clans of Mecca nearly came to **war over which of them would lift the Black Stone** into place. He laid the stone on a cloak and had a representative of **each clan** take an edge, so that all of them raised it together.
     > *Sīra*: Ibn Hishām. He was about thirty-five and held no office in the city. The Quraysh, the tribe that ruled Mecca, accepted his judgment because every side trusted him.
+    {: .src }
 1. As a young man he joined **Ḥilf al-Fuḍūl**, a pact among Meccan clans to defend anyone wronged in the city. Its protection covered outsiders who had no tribe of their own. Decades later, as head of a state, he said he would still answer a call to such a pact.
     > *Sīra*, also *Musnad Aḥmad*. He was raised in a society that expected a man to back his own tribe whether it was right or wrong. Before there was any message to defend, he had already committed himself to the wronged party instead.
+    {: .src }
 1. Arabia prized eloquence above almost everything else and kept careful record of its poets. For forty years he appears in that record **nowhere**: **no poetry, no oratory, no priesthood, no religious claim**. He then delivered a text his opponents could not match.
 1. When revelation first came to him in the cave he went home **terrified**, trembling, and asked to be covered. His wife Khadīja reassured him by reciting his own character back to him: he kept ties of kinship, carried the burden of the weak, gave to the poor, honoured his guests, and helped those struck by calamity.
     > *Ṣaḥīḥ al-Bukhārī* 3. A man carrying out a plan announces it. This one thought he was losing his mind, and the first person to believe him was his wife of fifteen years, who of everyone alive was best placed to know whether he was honest.
+    {: .src }
 1. His name, **Muhammad**, means "the one who is repeatedly praised." He was given it at birth, spent much of his adult life reviled, and is now named in prayer by billions of people every day. No one naming a child in sixth-century Mecca could have expected that.
 
 ### What the Message Cost Him
 
 1. The Quraysh understood exactly what motivates men, and they made him a formal offer: **wealth**, **kingship**, the **most desirable marriages**, and medical treatment if he was ill — on the single condition that he **stop**. He refused, and the persecution followed.
     > *Sīra*: Ibn Hishām records the delegation of ʿUtba ibn Rabīʿa, and his reply that if they placed the sun in his right hand and the moon in his left, he would not abandon the matter.
+    {: .src }
 
     > Everything a fabricator could want was offered to him openly, early, and at no cost. He turned it down and took thirteen years of persecution instead.
+    {: .gloss }
 1. For **thirteen years in Mecca** he and his followers were **mocked, beaten, tortured, starved, boycotted, and exiled**. Some were killed. He had no army and no state, and nothing protected him beyond his own clan.
 1. His clan was placed under a **three-year boycott** — no trade, no marriage, no contact — that reduced them to eating leaves. It was aimed at his family in order to break him.
 1. In a single year he lost **Khadīja**, his wife of twenty-five years, and **Abū Ṭālib**, the uncle whose protection kept him alive. The tradition calls it the **Year of Sorrow**. He continued.
 1. He went to **Ṭāʾif** seeking refuge and was driven out by a mob that stoned him until he bled. An angel offered to destroy the city, and he **declined**, hoping instead that their descendants would come to worship God.
     > *Ṣaḥīḥ al-Bukhārī* 3231. Aisha asked him whether any day had been harder than the battle of Uhud, and this was the day he named. The angel of the mountains offered to crush the two mountains upon the town. He answered: "No, but I hope that God will bring forth from their loins those who worship God alone."
+    {: .src }
 
     > A man inventing a divine mandate had just been handed the perfect proof of it, in front of the town that had driven him out. He refused it.
+    {: .gloss }
 1. When his own people finally resolved to **assassinate him**, he left Mecca — but first arranged for **ʿAlī to return the property** that the very men plotting his death had left with him for safekeeping.
     > *Sīra*: Ibn Hishām. They wanted him dead and still trusted him with their savings, which is its own measure of how his honesty was regarded.
+    {: .src }
 1. He **buried all but one of his children** — every one of them except his daughter Fāṭima, who outlived him by months. He grieved openly each time, and never suggested that prophethood exempted him from loss.
 1. Twenty-three years of this bought him nothing he could hold. At the end he **governed Arabia** and **owned almost nothing**.
 
@@ -219,6 +237,7 @@ If the Qur'an were his own composition, the way it treats him is hard to explain
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿عَبَسَ وَتَوَلَّىٰٓ ۝١ أَن جَآءَهُ ٱلْأَعْمَىٰ ۝٢ وَمَا يُدْرِيكَ لَعَلَّهُۥ يَزَّكَّىٰٓ ۝٣ أَوْ يَذَّكَّرُ فَتَنفَعَهُ ٱلذِّكْرَىٰٓ ۝٤﴾ <span class="ayah-ref">سُورَةُ عَبَسَ</span></div>
 
     > An author writing his own scripture keeps his worst moment out of it. This one put his into the permanent liturgy of everyone who would follow him, in a passage that faults him for favouring the powerful over the poor.
+    {: .gloss }
 1. It rebukes him for a **concession he made to please his wives**, and again for **excusing men** he should have questioned.
     > "O Prophet! Why do you prohibit ˹yourself˺ from what Allah has made lawful to you, seeking to please your wives? And Allah is All-Forgiving, Most Merciful." (**Sūrat al-Taḥrīm 66:1**), Dr. Mustafa Khattab, *The Clear Quran*
     >
@@ -241,6 +260,7 @@ If the Qur'an were his own composition, the way it treats him is hard to explain
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿قُل لَّوْ شَآءَ ٱللَّهُ مَا تَلَوْتُهُۥ عَلَيْكُمْ وَلَآ أَدْرَىٰكُم بِهِۦ ۖ فَقَدْ لَبِثْتُ فِيكُمْ عُمُرًۭا مِّن قَبْلِهِۦٓ ۚ أَفَلَا تَعْقِلُونَ ۝١٦﴾ <span class="ayah-ref">سُورَةُ يُونُسَ</span></div>
 
     > The argument rests entirely on his forty-year record among them. He made it to the one audience able to contradict him, and it only works if that record was clean.
+    {: .gloss }
 1. It **strips him of any supernatural persona**. He is made to say, again and again, that he is a man, that he controls neither benefit nor harm, and that he knows neither the unseen nor his own fate.
     > "Say, ˹O Prophet,˺ 'I am only a man like you, ˹but˺ it has been revealed to me that your God is only One God.'" (**Sūrat al-Kahf 18:110**), Dr. Mustafa Khattab, *The Clear Quran*
     >
@@ -263,11 +283,13 @@ If the Qur'an were his own composition, the way it treats him is hard to explain
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَلَوْ تَقَوَّلَ عَلَيْنَا بَعْضَ ٱلْأَقَاوِيلِ ۝٤٤ لَأَخَذْنَا مِنْهُ بِٱلْيَمِينِ ۝٤٥ ثُمَّ لَقَطَعْنَا مِنْهُ ٱلْوَتِينَ ۝٤٦ فَمَا مِنكُم مِّنْ أَحَدٍ عَنْهُ حَٰجِزِينَ ۝٤٧﴾ <span class="ayah-ref">سُورَةُ الحَاقَّةِ</span></div>
 1. It **delayed** when he needed answers most. Questions were put to him in public and the response took days or weeks. In one case it took a month, while his own wife stood publicly accused and his household suffered.
     > A man producing revelation on demand answers on the day he is asked. This one was left waiting a month for the verse that would clear his wife.
+    {: .gloss }
 1. The Qur'an and his own speech read as **two different voices**. Modern linguistic comparison of the Qur'an with the hadith, which record his speech, shows consistent structural differences between them. The section above sets this out.
 1. He **refused to let a natural event be read as a sign for him**. The sun eclipsed on the day his infant son Ibrāhīm died, and people said it had eclipsed for the death. He corrected them from the pulpit.
     > "The sun and the moon do not eclipse because of the death or life of someone." — *Ṣaḥīḥ al-Bukhārī* 1043
 
     > This is the clearest test of motive in his biography. A grieving father with a devoted following was handed a cosmic omen that the crowd had already read in his favour. He took it apart in public, on the day he buried his son.
+    {: .gloss }
 
 ### Private Conduct Matched Public Teaching
 
@@ -279,8 +301,10 @@ The people with the most access to him were his servants, his wives, and his fam
     > "The Messenger of Allah ﷺ never beat anyone with his hand, neither a woman nor a servant … and he never took revenge for anything unless the things made inviolable by Allah were violated." — *Ṣaḥīḥ Muslim* 2328a
 
     > He held absolute authority over a state for years. The one exception he allowed himself was punishment for violating God's limits, and never for an offence against himself.
+    {: .gloss }
 1. Aisha was asked what he did at home. He was **occupied with serving his family**, she said, and went out when the prayer was called.
     > *Ṣaḥīḥ al-Bukhārī* 676 and 6039. He mended his own sandals and patched his own clothes.
+    {: .src }
 1. He kept his speech clean under every provocation: **never coarse, never obscene, and never cursing anyone**.
     > "The Prophet ﷺ was not one who would abuse others, or say obscene words, or curse others." — *Ṣaḥīḥ al-Bukhārī* 6031
 
@@ -289,8 +313,10 @@ The people with the most access to him were his servants, his wives, and his fam
     > "Never was the Prophet ﷺ asked for a thing to be given for which his answer was 'no'." — *Ṣaḥīḥ al-Bukhārī* 6034
 1. His **worship was heaviest when no one was watching**. He prayed at night until his feet swelled. He was asked why he did this when he was already forgiven, and answered: "Should I not be a thankful servant?"
     > *Ṣaḥīḥ al-Bukhārī* 1130. He taught that the deeds most beloved to God are the small ones done consistently (*Ṣaḥīḥ al-Bukhārī* 6464, 6462), and he held himself to that standard before anyone else.
+    {: .src }
 1. Aisha was asked to sum up his character, and answered that **his character was the Qur'an**. No one was better placed to notice a gap between the public man and the private one.
     > *Ṣaḥīḥ Muslim* 746. She outlived him by nearly fifty years, held public standing for much of that time, and had every opportunity to say otherwise.
+    {: .src }
 1. The Qur'an's own description of him praises his **character** rather than his piety:
     > "And indeed, you are of a great moral character." (**Sūrat al-Qalam 68:4**), Saheeh International
     >
@@ -306,12 +332,16 @@ The people with the most access to him were his servants, his wives, and his fam
     > "I have not been sent as the invoker of curse, but I have been sent as mercy." — *Ṣaḥīḥ Muslim* 2599
 1. **The conquest of Mecca** is the clearest case. After twenty-one years of persecution, torture, exile, and war, he entered the city that had expelled him at the head of an unopposed army — and declared a **general amnesty**.
     > *Sīra*: Ibn Hishām records his words to the assembled Quraysh: "Go, for you are free."
+    {: .src }
 
     > Those pardoned included the men who had tortured his followers, the woman who had mutilated his uncle Ḥamza's body, Ḥamza's killer, and the commanders who had fought him at Badr and Uhud. There were no executions of the population, no reprisals, no plunder of the city, and no settling of accounts. For twenty-one years he had lacked the power to punish anyone. He now had it, and he used it to let them go.
+    {: .gloss }
 1. A **bedouin took his sword** while he slept, stood over him, and asked who would protect him now. He answered "God." The man dropped the sword, and he let him go.
     > *Ṣaḥīḥ al-Bukhārī* 2910
+    {: .src }
 1. When a **bedouin urinated inside the mosque** and the congregation moved to beat him, he stopped them, let the man finish, and had water poured over the spot.
     > *Ṣaḥīḥ al-Bukhārī* 6025, 220, 6128. The governing instruction: "Make things easy for the people and do not make things difficult for them." (*Ṣaḥīḥ al-Bukhārī* 6125)
+    {: .src }
 1. In a warrior culture, **strength** meant winning a fight. He redefined it as controlling yourself.
     > "The strong is not the one who overcomes people by his strength, but the strong is the one who controls himself while in anger." — *Ṣaḥīḥ al-Bukhārī* 6114
 1. The Qur'an credits the **cohesion of the community** to his gentleness, and says plainly what harshness would have cost him.
@@ -333,14 +363,17 @@ The people with the most access to him were his servants, his wives, and his fam
     > "The people before you were destroyed because when a noble person among them stole, they let him go; and when a weak person stole, they carried out the punishment on him. By God, if Fāṭima the daughter of Muhammad were to steal, I would cut off her hand." — *Ṣaḥīḥ al-Bukhārī* 3475 (also 6787, 3732, 4304)
 
     > He named his own daughter. A leader building a dynasty makes his family the exception, and this one made them the example.
+    {: .gloss }
 1. He **redefined tribal loyalty**, the organizing principle of his society, and turned it against itself.
     > "Help your brother, whether he is an oppressor or is oppressed." He was asked how one helps an oppressor, and answered: by **restraining him** from oppression. — *Ṣaḥīḥ al-Bukhārī* 2443, 2444, 6952
 1. He **barred his own family from receiving charity**, the obligatory alms called *ṣadaqāt*. That closed the most obvious route to wealth open to a religious leader.
     > "It does not become the family of Muhammad ﷺ to accept ṣadaqāt, for they are the impurities of people." — *Ṣaḥīḥ Muslim* 1072a
 
     > When his grandson Ḥasan, still a child, put a date from the charity collection in his mouth, he made him take it out. (*Ṣaḥīḥ al-Bukhārī* 1491, see also 2432)
+    {: .gloss }
 1. He established that his own household would **inherit nothing** from him, so that no one stood to gain by keeping power in his family.
     > *Ṣaḥīḥ al-Bukhārī* 3092, 3093. His daughter Fāṭima requested her inheritance and was told there was none to give.
+    {: .src }
 1. The Qur'an binds justice to **testimony against oneself and one's own kin**, and forbids letting hatred of a people distort it.
     > "O believers! Stand firm for justice as witnesses for Allah even if it is against yourselves, your parents, or close relatives." (**Sūrat al-Nisāʾ 4:135**), Dr. Mustafa Khattab, *The Clear Quran*
     >
@@ -360,16 +393,21 @@ The clearest measure of a person is how they treat those who can neither repay t
     > "Whoever frees a Muslim slave, Allah will save every limb of his from the Fire for every limb of the slave he freed." — *Ṣaḥīḥ al-Bukhārī* 2517
 
     > Among the earliest and most honoured Muslims were formerly enslaved people: Bilāl ibn Rabāḥ, Zayd ibn Ḥāritha, and ʿAmmār ibn Yāsir with his family. Zayd's son Usāma was appointed to command an army that included the most senior Companions.
+    {: .gloss }
 1. He tied care of the **orphan** to his own standing in the next life.
     > "I and the one who looks after an orphan will be like this in Paradise," holding up his index and middle fingers together. — *Ṣaḥīḥ al-Bukhārī* 5304, 6005
 
     > He had been an orphan himself: his father died before his birth, his mother when he was six, his grandfather when he was eight.
+    {: .gloss }
 1. He gave **animals** a claim on human conduct at a time when almost no legal tradition did.
     > A woman was punished for confining a cat until it died, neither feeding it nor releasing it. (*Ṣaḥīḥ al-Bukhārī* 3482)
+    {: .gloss }
 
     > A man who climbed into a well to bring water to a dying dog was forgiven for it. He was asked whether there was reward in serving animals, and answered: "There is a reward for serving any living being." (*Ṣaḥīḥ al-Bukhārī* 2466, 3321)
+    {: .gloss }
 
     > He cursed the branding of animals on the face (*Sunan Abī Dāwūd* 2564) and forbade using living animals as targets (*Sunan Abī Dāwūd* 2816). He ordered chicks taken from a distressed bird returned to her (*Sunan Abī Dāwūd* 2675), and told the owner of an emaciated camel: "Fear Allah regarding these dumb animals." (*Sunan Abī Dāwūd* 2548)
+    {: .gloss }
 1. **Neighbours** were given a claim so strong that he expected them to be made heirs, and he set no condition of religion on it.
     > "Gabriel continued to recommend me about treating neighbours kindly, so much so that I thought he would order me to make them heirs." — *Ṣaḥīḥ al-Bukhārī* 6014, 6015
 1. He defined the **standard of faith itself** as wanting for others what you want for yourself.
@@ -387,16 +425,20 @@ The clearest measure of a person is how they treat those who can neither repay t
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَإِذَا ٱلْمَوْءُۥدَةُ سُئِلَتْ ۝٨ بِأَىِّ ذَنۢبٍۢ قُتِلَتْ ۝٩﴾ <span class="ayah-ref">سُورَةُ التَّكۡوِيرِ</span></div>
 
     > In the same society, and within the same generation, women were given rights of **inheritance**, **independent property**, and **consent in marriage**, along with standing to bring a complaint directly to the head of state.
+    {: .gloss }
 1. He was **openly affectionate with children** in a culture that gave a man no credit for it. A chief told him he had ten children and had never kissed one of them. He replied that whoever shows no mercy will be shown none.
     > *Ṣaḥīḥ al-Bukhārī* 5997
+    {: .src }
 1. He **carried his infant granddaughter Umāma while leading congregational prayer**, setting her down when he prostrated and lifting her when he rose.
     > *Ṣaḥīḥ al-Bukhārī* 516
+    {: .src }
 1. He **shortened the prayer he was leading** when he heard a baby cry, out of consideration for the mother standing behind him.
     > "When I stand for prayer, I intend to prolong it, but on hearing the cries of a child I cut it short, as I dislike to trouble the child's mother." — *Ṣaḥīḥ al-Bukhārī* 707, 710
 1. He made **mercy toward the young and respect for the old** a condition of belonging to the community.
     > "He is not one of us who does not have mercy on our young and does not respect our elders." — *Jāmiʿ al-Tirmidhī* 1919, 1920, 1921; *Sunan Abī Dāwūd* 4943
 1. He was asked who most deserves a person's good company, and named the **mother three times** before naming the father.
     > *Ṣaḥīḥ al-Bukhārī* 5971
+    {: .src }
 1. He **wept** at the death of his infant son, and refused to treat grief as a failure of faith when he was questioned about it.
     > "The eyes shed tears and the heart grieves, but we say only what pleases our Lord." — *Ṣaḥīḥ al-Bukhārī* 1303
 
@@ -406,14 +448,18 @@ The clearest measure of a person is how they treat those who can neither repay t
     > "Was he not a soul?" — *Ṣaḥīḥ al-Bukhārī* 1312, 1313
 1. He **visited a sick Jewish boy** who had served him, sitting by his head.
     > *Ṣaḥīḥ al-Bukhārī* 1356, 5657
+    {: .src }
 1. He attached a **severe penalty to wronging a non-Muslim under state protection**.
     > "Whoever killed a person having a treaty with the Muslims shall not smell the fragrance of Paradise, though its fragrance is perceived from a distance of forty years of travel." — *Ṣaḥīḥ al-Bukhārī* 3166, 6914
 1. He **forbade the killing of women and children** in warfare when he found a woman among the slain.
     > *Ṣaḥīḥ al-Bukhārī* 3015. His standing instructions to armies forbade treachery, mutilation, and the killing of children (*Sunan Abī Dāwūd* 2613).
+    {: .src }
 1. The **Constitution of Medina** bound Muslim and Jewish tribes into one political community, with mutual defence obligations and religious autonomy for each. Arrangements of that kind had few parallels at the time.
     > *Sīra*: Ibn Hishām preserves the text.
+    {: .src }
 1. At **Ḥudaybiyya** he accepted a treaty his own Companions found humiliating. He let his prophetic title be struck from the document and agreed to return refugees, in order to secure a peace. That truce, and not any battle, produced the largest wave of conversions.
     > *Ṣaḥīḥ al-Bukhārī* 2698, 2700
+    {: .src }
 1. Toward non-Muslims who are not fighting them, the Qur'an sets the standard at **kindness and fairness**, and it forbids compulsion in religion outright.
     > "Allah does not forbid you from dealing kindly and fairly with those who have neither fought nor driven you out of your homes. Surely Allah loves those who are fair." (**Sūrat al-Mumtaḥanah 60:8**), Dr. Mustafa Khattab, *The Clear Quran*
     >
@@ -429,13 +475,16 @@ The most testable claim about any religious founder is what happened once they h
 
 1. He died with his **armour pledged to a Jewish creditor**, held against a loan of barley to feed his family.
     > *Ṣaḥīḥ al-Bukhārī* 2916, 4467. At the time he was the effective head of state in Arabia.
+    {: .src }
 1. **Months passed without a cooking fire** being lit in his houses.
     > "We used to see three crescents in two months, and no fire used to be lit in the houses of the Messenger of Allah ﷺ." Aisha was asked what sustained them, and answered: "The two black things — dates and water." (*Ṣaḥīḥ al-Bukhārī* 6459, see also 5383, 5442)
 1. He **built no palace** and **founded no dynasty**. Every one of his sons died in infancy, and he made no arrangement to put anyone from his family in power.
 1. He was **the most generous of people**, and gave away what came to him instead of keeping it.
     > *Ṣaḥīḥ al-Bukhārī* 6, 1902, 3220
+    {: .src }
 1. He **refused every marker of rank**. He rode ordinary mounts, stopped people from standing up for him, and sat among his Companions so plainly that visitors had to ask which man he was.
     > This is documented across the sīra and the hadith literature. It is also why the collections record his physical description at such length: there was nothing else to pick him out by.
+    {: .gloss }
 1. He held **total authority** in a society with no court, council, or tribe able to overrule a ruler. The only limits on his conduct were the ones he set himself, and he kept them as strictly in power as he had in poverty.
 
 ### The Society He Left Behind
@@ -443,10 +492,13 @@ The most testable claim about any religious founder is what happened once they h
 1. In **twenty-three years** a fragmented, illiterate, tribal society organized around blood feud, idolatry, female infanticide, and endemic warfare became a unified polity with law, literacy, and a functioning state. Historians dispute the causes and the pace, and the transformation itself is common ground.
 1. **Alcohol** ran through Arabian social life, and it was abandoned on the strength of a single announcement.
     > Anas, who was serving wine at the time, described the vessels being emptied when the prohibition was proclaimed. — *Ṣaḥīḥ al-Bukhārī* 4620, 2464
+    {: .gloss }
 
     > Elsewhere, banning alcohol has taken police, courts, and prisons, and has usually failed anyway. In Medina it took one announcement.
+    {: .gloss }
 1. He abolished **blood vengeance** and **usury** by declaration, and in each case he began with the claims of his own family.
     > *Sīra*: in the Farewell Sermon he annulled the blood claims of the pre-Islamic period beginning with the claim of his own relative, and the usury of the period beginning with that owed to his uncle ʿAbbās.
+    {: .src }
 1. He delivered the **Farewell Sermon** to the assembled pilgrims near the end of his life. In it he set out principles that read as a summary of the mission.
     > "Your blood, your property, and your honour are sacred to one another, as sacred as this day of yours, in this month of yours." — *Ṣaḥīḥ al-Bukhārī* 105, 67
 
@@ -461,6 +513,7 @@ The most testable claim about any religious founder is what happened once they h
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿هُوَ ٱلَّذِى بَعَثَ فِى ٱلْأُمِّيِّۦنَ رَسُولًۭا مِّنْهُمْ يَتْلُوا۟ عَلَيْهِمْ ءَايَٰتِهِۦ وَيُزَكِّيهِمْ وَيُعَلِّمُهُمُ ٱلْكِتَٰبَ وَٱلْحِكْمَةَ وَإِن كَانُوا۟ مِن قَبْلُ لَفِى ضَلَٰلٍۢ مُّبِينٍۢ ۝٢﴾ <span class="ayah-ref">سُورَةُ الجُمُعَةِ</span></div>
 1. The **generation he produced** is itself evidence. Men who had buried daughters alive and fought over pasture became administrators, jurists, and transmitters who preserved a text and a legal tradition with obsessive precision. When he died, they did not make him a god.
     > The crowd refused to believe he had died. Abū Bakr answered them by reciting the verse that calls Muhammad ﷺ a messenger who would pass away like the messengers before him. The community absorbed the loss of its founder and left him a man, which is what he had spent twenty-three years insisting he was.
+    {: .gloss }
 
 ### Predictions Recorded Before Their Fulfilment
 
@@ -470,24 +523,31 @@ A prediction is worth something only if the record of it is older than the event
     > "The Hour will not be established till a fire will come out of the land of Ḥijāz, and it will throw light on the necks of the camels at Buṣrā." — *Ṣaḥīḥ al-Bukhārī* 7118
 
     > In 654 AH / 1256 CE the Harrat Rahat volcanic field erupted roughly 20 km from Medina, producing lava flows that travelled some 23 km and stopped about 4 km short of the city. Medieval chroniclers describe the glow being visible at great distance. See [the Smithsonian Global Volcanism Program record](https://volcano.si.edu/volcano.cfm?vn=231070) and El-Masry, Moufti, Németh, Murcia, Qaddah & Abdelwahed, "Historical Accounts of the AD 1256 Eruption near Al-Madinah," *International Journal of Earth Sciences* (2013).
+    {: .gloss }
 1. The **fall of the Persian and Byzantine imperial houses**, stated while the Muslims were a single besieged town.
     > "Khosrau will be ruined, and there will be no Khosrau after him; and Caesar will surely be ruined and there will be no Caesar after him." — *Ṣaḥīḥ al-Bukhārī* 3027, 3028, 3120
 
     > The Sasanian dynasty was extinguished within roughly two decades. Byzantium lost Syria, Egypt, and North Africa and never held them again.
+    {: .gloss }
 1. **Security across Arabia and the opening of the Persian treasuries**, told to a man complaining about highway robbery.
     > "If you should live long, you will see a woman travelling from al-Ḥīra until she performs circuits of the Kaʿba, fearing none but Allah … and if you should live long, the treasures of Khosrau will be opened." — *Ṣaḥīḥ al-Bukhārī* 3595
 
     > The same narration carries its own fulfilment. ʿAdī ibn Ḥātim heard it as a young man, in a Medina where highway robbery was the complaint of the day. He added at the end, describing a woman travelling in a howdah, the covered seat carried on a camel: "Later on I saw a lady in a howdah travelling from al-Ḥīra till she performed the circuits of the Kaʿba, fearing none but Allah. And I was one of those who opened the treasures of Khosrau, son of Hurmuz."
+    {: .gloss }
 1. A **naval expedition**, told to Umm Ḥarām, who asked to be included and was told she would be.
     > *Ṣaḥīḥ al-Bukhārī* 2788, 2789. She died on the maritime campaign to Cyprus about twenty years later. Arabia at the time had no navy and no maritime tradition.
+    {: .src }
 1. He predicted that **ʿAmmār ibn Yāsir** would be killed by a transgressing faction. Followers invent predictions of victory. This one had Muslims killing one of their own best men.
     > *Ṣaḥīḥ al-Bukhārī* 447. ʿAmmār was killed at the battle of Ṣiffīn in 657 CE, during the first Muslim civil war.
+    {: .src }
 1. His grandson **al-Ḥasan** would reconcile two large factions of Muslims.
     > "This son of mine is a chief, and I hope that Allah will reconcile two great groups of Muslims through him." — *Ṣaḥīḥ al-Bukhārī* 3629. Al-Ḥasan abdicated the caliphate in 661 CE to end the civil war.
 1. He described signs of the end times, among them that **destitute barefoot shepherds would compete in constructing tall buildings**.
     > *Ṣaḥīḥ al-Bukhārī* 50 (and *Ṣaḥīḥ Muslim* 8, the hadith of Gabriel). Readers may weigh this one for themselves.
+    {: .src }
 
     > This category needs care. Some widely circulated "prophecies" rest on weak chains of transmission. The well-known report about the conquest of Constantinople is one of them, since contemporary hadith scholars grade its chain weak, and it is therefore not used here. The argument is stronger for leaving such reports out.
+    {: .gloss }
 
 ### The Testimony of Those Who Knew Him Best
 
@@ -496,8 +556,10 @@ A prediction is worth something only if the record of it is older than the event
 1. **His enemies became his followers.** ʿUmar ibn al-Khaṭṭāb set out to kill him and became his second successor. Khālid ibn al-Walīd commanded the cavalry that broke the Muslims at Uhud and became their most effective general. Abū Sufyān led the war against him for years, and his son Muʿāwiya became a scribe of revelation. Movements built on deception lose their sharpest opponents; they do not recruit them.
 1. **His enemies confirmed his honesty even while opposing him.** The clearest instance is preserved in an exchange between the Byzantine emperor Heraclius and Abū Sufyān, who was then still leading the war against him.
     > Heraclius asked whether they had ever accused him of lying before he made his claim. Abū Sufyān, by his own admission looking for anything damaging to say, answered no. Heraclius replied that a man who does not lie about people does not then go and lie about God. — *Ṣaḥīḥ al-Bukhārī* 7 (also 3174, 4553)
+    {: .gloss }
 
     > The reasoning is the emperor's, the testimony is a hostile witness's, and the report is preserved in the Muslims' own most rigorous collection.
+    {: .gloss }
 1. His life is documented down to how he slept and what he ate. **Fourteen centuries of hostile scrutiny** of that record have turned up no pattern of cruelty, dishonesty, self-enrichment, or hypocrisy.
 
 ### Foretold in Earlier Scriptures
@@ -535,6 +597,7 @@ A prediction is worth something only if the record of it is older than the event
     > "His readiness to undergo persecution for his beliefs, the high moral character of the men who believed in him and looked up to him as leader, and the greatness of his ultimate achievement — all argue his fundamental integrity. To suppose Muhammad an impostor raises more problems than it solves."
 
     > W. Montgomery Watt, *Muhammad at Mecca* (Oxford: Clarendon Press, 1953), p. 52.
+    {: .gloss }
 
 ### Why the Alternatives Do Not Explain Him
 
