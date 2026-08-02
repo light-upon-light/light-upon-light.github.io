@@ -165,4 +165,4 @@ A common objection to Islam is that the Prophet Muhammad ﷺ copied the Qur’an
 
 ### Example 5
 
-The Qur’an was revealed over twenty-three years in response to changing events. Its message remained consistent throughout, without later revisions to repair supposed **contradictions**.
+The Qur’an was revealed **over twenty-three years in response to changing events**. Its **message remained consistent** throughout, without later revisions to repair supposed contradictions.
