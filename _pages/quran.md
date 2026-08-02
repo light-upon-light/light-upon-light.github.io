@@ -698,11 +698,27 @@ A prediction is worth something only if the record of it is older than the event
 
 ### Why the Alternatives Do Not Explain Him
 
-Taken one at a time, most of the points on this page have an ordinary explanation. The difficulty is accounting for them all **together**. There are three standard alternatives to the claim he made about himself, and each one carries a cost.
+Taken one at a time, most of the points on this page have an ordinary explanation. The difficulty is accounting for them all **together**. There are four standard alternatives to the claim he made about himself, and each one carries a cost.
 
 1. **That he was an impostor.** An impostor needs a motive, and the record removes each candidate in turn. Wealth was offered and refused, and he lived humbly. Power was offered and refused, and once he held it he neither enriched himself nor founded a dynasty. Status was offered and refused, and he barred his own family from the charity collection and left them no inheritance. The theory also requires a fabricator to write into his own scripture a rebuke for slighting a blind man, a reprimand for pleasing his wives, an exposure of his private fear, a denial of his power to alter the text, and a warning that inventing revelation would cost him his life. It then requires him to stand in front of his followers and take apart an eclipse they had already read as a sign for him.
 1. **That he was sincere but deluded.** This accounts for his integrity and leaves his output unexplained. The text came in fragments across twenty-three years, assembled into a coherent whole, and the finest rhetoricians of the age could not match it. Alongside it came two decades of sound legal, military, and political judgment, and a legal framework durable enough to govern a civilization. A man deluded about revelation would also have accepted the omen the crowd handed him, rather than dismantling it.
-1. **That the record is legend.** This is the most serious of the three, and it runs into the character of the material. The reports are early, they were transmitted along many independent chains, and they were screened by a discipline built to detect fabrication. The content tells more than the chains do. Legends do not preserve their hero being corrected by God, weeping, mistaken in his judgment, mortgaging his armour, or refusing a miracle credited to him. Admiring biography edits those moments out, and this material keeps them in.
+1. **That the record is legend.** This is the most serious of the natural explanations, and it runs into the character of the material. The reports are early, they were transmitted along many independent chains, and they were screened by a discipline built to detect fabrication. The content tells more than the chains do. Legends do not preserve their hero being corrected by God, weeping, mistaken in his judgment, mortgaging his armour, or refusing a miracle credited to him. Admiring biography edits those moments out, and this material keeps them in.
+1. **That he was inspired by Satan.** Christian critics return to this one more often than to any of the others, and it is the oldest of the four. His Meccan opponents said the same thing, calling him possessed and his recitation the speech of a soothsayer, and the Qur'an answers the charge where it is made.
+    > "It was not the devils who brought this ˹Quran˺ down: it is not for them ˹to do so˺, nor can they, for they are strictly barred from ˹even˺ overhearing ˹it˺." (**Sūrat al-Shuʿarāʾ 26:210-212**), Dr. Mustafa Khattab, *The Clear Quran*
+    >
+    > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَمَا تَنَزَّلَتْ بِهِ ٱلشَّيَٰطِينُ ۝٢١٠ وَمَا يَنۢبَغِى لَهُمْ وَمَا يَسْتَطِيعُونَ ۝٢١١ إِنَّهُمْ عَنِ ٱلسَّمْعِ لَمَعْزُولُونَ ۝٢١٢﴾ <span class="ayah-ref">سُورَةُ الشُّعَرَاءِ</span></div>
+    {: .quote }
+
+    > "And this ˹Quran˺ is not the word of an outcast devil." (**Sūrat al-Takwīr 81:25**), Dr. Mustafa Khattab, *The Clear Quran*
+    >
+    > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَمَا هُوَ بِقَوْلِ شَيْطَٰنٍۢ رَّجِيمٍۢ ۝٢٥﴾ <span class="ayah-ref">سُورَةُ التَّكۡوِيرِ</span></div>
+    {: .quote }
+
+    > The objection also has to be judged by the standard the Gospels set for it. When Jesus was accused of casting out demons by Beelzebul, his answer was that a kingdom divided against itself cannot stand (Matthew 12:25-28; Mark 3:23-26): **work that destroys Satan's hold is not work Satan is doing**. Measured that way the charge fails on what the man actually taught. He ended idolatry across Arabia and directed all worship to one God, forbade sorcery, divination, and the reading of omens, stopped the burial of infant daughters, and made cursing Satan and seeking refuge from him a fixed part of daily prayer and the set opening of every recitation of the Qur'an.
+    {: .gloss }
+
+    > The theory is also the most expensive of the four for the person advancing it. It concedes the hardest part of the evidence — that something beyond ordinary human capacity stands behind the Qur'an and the life around it — and then credits it to the one agent whose aims that Qur'an spends its length dismantling.
+    {: .gloss }
 
 None of this compels belief, and it is not offered as though it does. What it does is move the burden. Any account that denies his prophethood has to explain the whole of the evidence rather than the most convenient part of it. The Qur'an makes the same appeal, pointing to a life its audience had watched for forty years, and offers that life as the thing worth following.
 
