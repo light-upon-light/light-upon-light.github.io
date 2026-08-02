@@ -14,7 +14,7 @@ toc_sticky: true
 share: true
 ---
 
-> This page outlines a number of aspects that demonstrate the **miraculous nature** of the **Qur'an** and the **prophethood** of **Prophet Muhammad** ﷺ. While each point may not constitute a miracle or a decisive proof of prophethood on its own, together they provide compelling evidence for the Qur'an's divine origin and authenticity of the prophet's mission. -- *note: this page is a work in progress*
+> The points below provide evidence for the **miraculous nature** of the **Qur'an** and the **prophethood** of **Prophet Muhammad** ﷺ. Few of them amount to a miracle or a decisive proof on their own; taken together they make a compelling case for the Qur'an's divine origin and authenticity of the prophet's mission. -- *note: this page is a work in progress*
 
 ## The Book
 
@@ -25,12 +25,12 @@ share: true
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَمَا كُنتَ تَتْلُوا۟ مِن قَبْلِهِۦ مِن كِتَٰبٍۢ وَلَا تَخُطُّهُۥ بِيَمِينِكَ ۖ إِذًۭا لَّٱرْتَابَ ٱلْمُبْطِلُونَ ۝٤٨﴾ <span class="ayah-ref">سُورَةُ العَنكَبُوتِ</span></div>
     {: .quote }
-1. Revealed over **23 years** in **separate portions** and **out of order**, often in direct answer to **events nobody saw coming**. And when set in its final arrangement, it reads as one continuous composition.
-1. **No second drafts.** Once he spoke a verse it was fixed with **no retraction or revision**.
+1. Revealed over **23 years** in **separate portions** and **out of order**, often in direct answer to **events nobody could have anticipated**. Set in its final arrangement, it reads as one continuous composition.
+1. Once he had spoken a verse it was fixed, with **no retraction, no revision, and no second draft**.
 
 ### Literary Miracle
 
-1. Runs to **more than 600 pages** of recited text. Everything claimed concerns a work of that length.
+1. Runs to **more than 600 pages** of recited text. Everything below is said of a work of that size, not of a short passage.
 1. Recognized in **every generation since** as the **summit of Arabic eloquence**, by its admirers and by its enemies.
     > [Linguistic Miracle of the Qur'an](https://youtu.be/abzZL_3Av2E)
 
@@ -38,11 +38,11 @@ share: true
 
     > [ONE WORD Proving the Quran is Allah's Words \| Arabic101](https://youtu.be/OED98p4bpx0)
 1. Belongs to **neither poetry nor prose** but to a **unique form of its own**, which combines rhythmic beauty and precision of meaning.
-1. Maintains the same **literary quality across all 23 years** of revelation, unlike any human author whose style evolves over time.
+1. Maintains the same **literary quality across all 23 years** of revelation, unlike any human authorwhose style shifts over the course of a career.
 1. It is the **reference text for Arabic grammar itself**. When the grammarians came to record the rules down, they took the Qur'an as the standard of correct Arabic since it contains **no linguistic errors**. And fourteen centuries of scrutiny have **turned up no error in it**.
 1. Carries **multiple layers of meaning** in the same words. The **exoteric** sense is the apparent one. Beneath it are the **esoteric** meanings, several layers of them, which scholars have been drawing out for fourteen centuries without exhausting them.
-1. **Ring structure**: There are intricate **symmetrical patterns** (chiastic structures) embedded within verses, chapters, and even across chapters.
-    > Revelation that arrived in pieces, out of order, and fixed on first utterance is the hardest possible condition under which to build a symmetry across a whole book. This point would be remarkable on its own, before it is added to the others.
+1. **Ring structure**: intricate **symmetrical patterns** (chiastic structures) run through individual verses, whole chapters, and across chapters.
+    > Text that arrived in pieces, out of order, and fixed on first utterance is close to the worst material anyone could work with to build a symmetry across a whole book. An author with the manuscript in front of him and the freedom to revise it would find the same task hard.
     {: .gloss }
 
     > [Marvels of the Qur'an \| Dr. Ali Ataie](https://youtu.be/9gJWIGLJhHM)
@@ -50,7 +50,7 @@ share: true
     > [Mind Blowing Symmetry in Quran Pages! - The Miracle You’ll Hear for the First Time!](https://youtu.be/2iiGZlyDOXk)
 
     > [THE RING COMPOSITION! - Remarkable Structure of the Quran](https://youtu.be/b5Y5gMc_XZo)
-1. Can be **read in any order** of chapters and still holds its coherence, guidance, and thematic unity, which an ordinary narrative cannot do.
+1. Can be **read in any order** of chapters without losing its coherence or its guidance, which an ordinary narrative cannot do.
 1. It **challenged the Arabs** to match it at the height of their command of Arabic. They had the **skill** to answer and every **motive**.
     > The Qur'an was revealed in an era when the **Arabs** had reached the very **summit of Arabic** language eloquence and rhetoric. **Poetry** was not mere entertainment; it was the **lifeblood of their culture**, the **measure of honor**, and even a **weapon in war**—tribes would settle disputes or ignite battles through verses. In this context, where **pride in language** was unrivaled and **mastery of Arabic** expression was their greatest art, the **Qur'an openly challenged** them to produce anything like it. Despite their unmatched command of Arabic and every worldly motive to discredit the Prophet ﷺ, they were unable to respond, and **their failure** itself became a **perpetual testimony** to the **Qur'an's inimitability**.
     {: .gloss }
@@ -66,8 +66,8 @@ share: true
 1. **No rival text has been accepted as its equal** in the fourteen centuries since, including by the people with the strongest reasons to produce one.
 1. Opponents fell back on calling him a **magician**, a man **possessed**, or a man **taught by someone else**. Every one of those grants the text its effect and only argues about where it came from.
 1. The Prophet's ﷺ **personal life, grief, and grievances leave no mark on the message**. The text keeps an **objective, divine voice** even where it deals with his own household.
-1. Modern **linguistic analysis** of the **Hadith** (The corpus of Prophet Muhammad's ﷺ own personal speech) and the **Qur'an** shows clear, consistent differences in style and structure, indicating **distinct sources**.
-    > Think what faking that would take. A man who can't read holds one voice for his own speech and a completely different one for the revelation, never slips once in public, and keeps it up for twenty-three years.
+1. Modern **linguistic analysis** of the **hadith**, the record of Prophet Muhammad's ﷺ own speech, finds consistent differences of style and structure between it and the **Qur'an**, pointing to **two distinct sources**.
+    > Faking that is no small feat. A man who cannot read would have to hold one voice for his own speech and a wholly different one for the revelation, never slip once in public, and keep it up for twenty-three years.
     {: .gloss }
 
     > [Conquering Doubts & Confidently Defending Islam \| Ali Ataie](https://youtu.be/_HlpfgaDATU) (The whole of this video is great)
@@ -76,19 +76,19 @@ share: true
 
 ### Challenges and Bold Claims
 
-1. Claims to be the **verbatim word of God**: not a report about Him, not an inspired human account of Him. No other book with anything like this reach says that about itself.
+1. Claims to be the **verbatim word of God**: not a report about Him, not an inspired human account of Him. No other book with anything like its reach makes that claim about itself.
 1. The **second verse of the whole book**, before a single story or law, declares it **beyond doubt**.
     > "This is the Book! There is no doubt about it—a guide for those mindful ˹of God˺" (**Sūrat al-Baqarah 2:2**), Dr. Mustafa Khattab, *The Clear Quran*
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿ذَٰلِكَ ٱلْكِتَٰبُ لَا رَيْبَ ۛ فِيهِ ۛ هُدًۭى لِّلْمُتَّقِينَ ۝٢﴾ <span class="ayah-ref">سُورَةُ البَقَرَةِ</span></div>
     {: .quote }
-1. Stakes its own authenticity on **having no contradictions**, and hands you the test to run.
+1. Stakes its own authenticity on **having no contradictions**, and names the test by which that can be checked.
     > "Then do they not reflect upon the Qur’ān? If it had been from [any] other than Allāh, they would have found within it much contradiction." (**Sūrat al-Nisāʾ 4:82**), Saheeh International
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿أَفَلَا يَتَدَبَّرُونَ ٱلْقُرْءَانَ ۚ وَلَوْ كَانَ مِنْ عِندِ غَيْرِ ٱللَّهِ لَوَجَدُوا۟ فِيهِ ٱخْتِلَٰفًۭا كَثِيرًۭا ۝٨٢﴾ <span class="ayah-ref">سُورَةُ النِّسَاءِ</span></div>
     {: .quote }
 
-    > The verse invites the search instead of forbidding it, and fourteen centuries of motivated readers have taken it up. One established contradiction would end the claim. Nobody has produced one.
+    > The verse invites the search instead of forbidding it, and motivated readers have taken it up ever since. A single established contradiction would end the claim, and none has been produced.
     {: .gloss }
 1. **Challenges all of humanity** to produce something like it. Then later the bar drops to **ten chapters**, then to **one chapter**, with **any help they can find**.
     > “Say, ˹O Prophet,˺ ‘If ˹all˺ humans and jinn were to come together to produce the equivalent of this Qur'an, they could not produce its equal, no matter how they supported each other.'” (**Sūrat al-Isrāʾ 17:88**), Dr. Mustafa Khattab, *The Clear Quran*
@@ -106,20 +106,20 @@ share: true
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَإِن كُنتُمْ فِى رَيْبٍۢ مِّمَّا نَزَّلْنَا عَلَىٰ عَبْدِنَا فَأْتُوا۟ بِسُورَةٍۢ مِّن مِّثْلِهِۦ وَٱدْعُوا۟ شُهَدَآءَكُم مِّن دُونِ ٱللَّهِ إِن كُنتُمْ صَٰدِقِينَ ۝٢٣ فَإِن لَّمْ تَفْعَلُوا۟ وَلَن تَفْعَلُوا۟ فَٱتَّقُوا۟ ٱلنَّارَ ٱلَّتِى وَقُودُهَا ٱلنَّاسُ وَٱلْحِجَارَةُ ۖ أُعِدَّتْ لِلْكَٰفِرِينَ ۝٢٤﴾ <span class="ayah-ref">سُورَةُ البَقَرَةِ</span></div>
     {: .quote }
 
-    > "Like it" is neither vague nor a low bar. A rival chapter has to match the Qur'an where it actually stands out — the eloquence, the structure, the meaning, the guidance, and most importantly the transformational effect on people's hearts — all at once and sustained the whole way through. Attempts were made, and Musaylima's are the famous ones: classical Arabic sources record them as parody, and no critic since has put them forward as a serious rival. The judges were the Arabs of that century, the people best qualified in all of history to make the call and the ones who most wanted a winner.
+    > "Like it" sets a demanding bar. A rival chapter has to match the Qur'an where it actually stands out — in eloquence, in structure, in meaning, in guidance, and most importantly the transformational effect on people's hearts — all at once and sustained the whole way through. Attempts were made, Musaylima's being the famous ones, and the classical Arabic sources record them as parody; no critic since has put them forward as a serious rival. The judging was done by the Arabs of that century, who were both the best qualified to make the call and the readiest to award it against the Qur'an.
     {: .gloss }
 
 ### Guidance, Law, and Morality
 
 1. Presents itself as coming from the **same Divine Author** as the earlier scriptures. It **confirms** what they taught, **expands** their guidance, and **restores** what had been altered along the way.
-1. Its central message is **love, mercy, and compassion**, and it roots them in God Himself. **Goodness** and **truth** aren't conventions we agreed on; they are what He is.
+1. Its central message is **love, mercy, and compassion**, and it roots them in God Himself as the source of **Goodness** and **Truth**.
 1. Provides a complete **moral and legal framework**, holding **justice, mercy, and compassion** in balance, and it guided a **flourishing civilization** for centuries.
-1. Its **guidance, its teachings, and the lessons in its stories all still land**. What it said to seventh-century Arabs it says to you now, and fourteen centuries have dated none of it.
+1. Its **guidance and the lessons in its stories still apply directly**. What it addressed to seventh-century Arabs it still addresses to a reader today.
 
 ### Knowledge: Historical, Scientific and Linguistic
 
 1. Describes **features of the natural world** that nobody established for centuries afterwards, some of them not until there were instruments to see them with.
-    > Weigh these one at a time. The strong examples are the ones where the verse says something specific and the specific thing turned out to be true. The weak ones stretch a vague word to fit a modern discovery after the fact, and those are worth nothing to the argument.
+    > These are worth weighing one at a time. The strong examples are the ones where the verse says something specific and the specific thing turned out to be true. The weak ones stretch a vague word to fit a modern discovery after the fact, and they are worth nothing to the argument.
     {: .gloss }
 
     > [Qur'an on Embryology - Professor Keith L. Moore](https://youtu.be/J_Dllu42eEA)
@@ -134,8 +134,8 @@ share: true
     > [Stories of the Prophets: Bible vs. Qur'an](https://youtu.be/lEc_ilaHim8)
 
     > [The Qur'an and the Secrets of Egypt](https://youtu.be/c2ovILc_sKY)
-1. **Astonishing mathematical structures** are embedded in the text: word counts, symmetries, and correspondences that hold across the whole book.
-    > This is the area where careless claims do the most damage. Plenty of the viral versions depend on counting things in a way nobody would count them otherwise, and they collapse the moment someone checks. The measured treatment in the first link below is the one worth your time.
+1. **Mathematical structures** are embedded in the text: word counts, symmetries, and correspondences that hold across the whole book.
+    > This is the area where careless claims do the most damage. Plenty of the viral versions depend on counting things in a way nobody would count them otherwise, and they collapse the moment someone checks. The first link below is a measured treatment and a good one to start with.
     {: .gloss }
 
     > [Mathematical Miracles in the Qur'an: A Measured Approach](https://youtu.be/QC3sDbVcAbw)
@@ -147,7 +147,7 @@ share: true
 ### Preservation and Memorization
 
 1. **Perfectly preserved for over 1,400 years** through **mass oral transmission**, with a written record running alongside it the whole way. Early manuscripts of it have been carbon dated.
-    > No other book reaches you like this. Every other text of that age comes down through losses, competing versions, or a translation standing between you and the original.
+    > No other book of that age arrives to us on these terms. The rest come down through losses, alterations, competing versions, or a translation (which is inherently an interpretation) standing between the reader and the original.
     {: .gloss }
 
     > [The Most DIRECT Proof That The Qur'an is From Allah \| Arabic101](https://youtu.be/4l7pbX5J8Lg)
@@ -171,7 +171,7 @@ share: true
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿مَّا كَانَ مُحَمَّدٌ أَبَآ أَحَدٍۢ مِّن رِّجَالِكُمْ وَلَٰكِن رَّسُولَ ٱللَّهِ وَخَاتَمَ ٱلنَّبِيِّۦنَ ۗ وَكَانَ ٱللَّهُ بِكُلِّ شَىْءٍ عَلِيمًۭا ۝٤٠﴾ <span class="ayah-ref">سُورَةُ الأَحۡزَابِ</span></div>
     {: .quote }
 
-    > Fourteen centuries have produced new religious movements, and several of them are large. The claim isn't only that none of them spread as far. It's that none arrived with anything like the same case behind it: a text presented as God's own speech, unmatched in its own language, preserved and memorized at scale, delivered by a man whose life his enemies documented alongside his followers. A later claimant would have to match all of that at once.
+    > Later centuries have produced new religious movements, several of them large. What none of them arrived with is anything like the same case behind it: a text presented as God's own speech, unmatched in its own language, preserved and memorized at scale, delivered by a man whose life his enemies documented alongside his followers and recognized as one of the most influential figures in human history. A later claimant would have to match all of that.
     {: .gloss }
 1. **Prophesies its own spread** over the religions of the world, at a time when its followers were a persecuted minority in a single city.
     > "He is the One Who has sent His Messenger with ˹right˺ guidance and the religion of truth, making it prevail over all others. And sufficient is Allah as a Witness." (**Sūrat al-Fatḥ 48:28**), Dr. Mustafa Khattab, *The Clear Quran*
@@ -218,7 +218,7 @@ share: true
 
 ---
 
-> *Note: These are brief points highlighting key ideas. While more general verification and further details can be found through some research, some links to helpful videos are provided above.*
+> *Note: These are brief points highlighting key ideas. While more general verification and further details can be found through research, some links to helpful videos are provided above.*
 
 
 ## The Messenger of God ﷺ
@@ -262,7 +262,7 @@ The argument of this section is **cumulative**. No single episode below is offer
     > *Sahih al-Bukhari* 3231. Aisha asked him whether any day had been harder than the battle of Uhud, and this was the day he named. The angel of the mountains offered to crush the two mountains upon the town. He answered: "No, but I hope that God will bring forth from their loins those who worship God alone."
     {: .src }
 
-    > A man inventing a divine mandate had just been handed the perfect proof of it, in front of the town that had driven him out. He refused it.
+    > A man inventing a divine mandate has just been handed the proof of it, in front of the town that drove him out, and he turns it down in favour of the descendants of the people who stoned him.
     {: .gloss }
 1. When his own people finally resolved to **assassinate him**, he left Mecca — but first arranged for **Ali to return the property** that the very men plotting his death had left with him for safekeeping.
     > *Sīra*: Ibn Hisham. They wanted him dead and still trusted him with their savings, which is its own measure of how his honesty was regarded.
@@ -280,7 +280,7 @@ If the Qur'an were his own composition, the way it treats him is hard to explain
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿عَبَسَ وَتَوَلَّىٰٓ ۝١ أَن جَآءَهُ ٱلْأَعْمَىٰ ۝٢ وَمَا يُدْرِيكَ لَعَلَّهُۥ يَزَّكَّىٰٓ ۝٣ أَوْ يَذَّكَّرُ فَتَنفَعَهُ ٱلذِّكْرَىٰٓ ۝٤﴾ <span class="ayah-ref">سُورَةُ عَبَسَ</span></div>
     {: .quote }
 
-    > An author writing his own scripture keeps his worst moment out of it. This one put his into the permanent liturgy of everyone who would follow him, in a passage that faults him for favouring the powerful over the poor.
+    > An author writing his own scripture keeps his worst moment out of it. Here that moment went into the permanent liturgy of everyone who would follow him, in a passage that faults him for favouring the powerful over the poor.
     {: .gloss }
 1. It rebukes him for a **concession he made to please his wives**, and again for **excusing men** he should have questioned.
     > "O Prophet! Why do you prohibit ˹yourself˺ from what Allah has made lawful to you, seeking to please your wives? And Allah is All-Forgiving, Most Merciful." (**Sūrat al-Taḥrīm 66:1**), Dr. Mustafa Khattab, *The Clear Quran*
@@ -336,14 +336,14 @@ If the Qur'an were his own composition, the way it treats him is hard to explain
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَلَوْ تَقَوَّلَ عَلَيْنَا بَعْضَ ٱلْأَقَاوِيلِ ۝٤٤ لَأَخَذْنَا مِنْهُ بِٱلْيَمِينِ ۝٤٥ ثُمَّ لَقَطَعْنَا مِنْهُ ٱلْوَتِينَ ۝٤٦ فَمَا مِنكُم مِّنْ أَحَدٍ عَنْهُ حَٰجِزِينَ ۝٤٧﴾ <span class="ayah-ref">سُورَةُ الحَاقَّةِ</span></div>
     {: .quote }
 1. It **delayed** when he needed answers most. Questions were put to him in public and the response took days or weeks. In one case it took a month, while his own wife stood publicly accused and his household suffered.
-    > A man producing revelation on demand answers on the day he is asked. This one was left waiting a month for the verse that would clear his wife.
+    > A man producing revelation on demand answers on the day he is asked, and does not leave himself waiting a month for the verse that clears his own wife.
     {: .gloss }
 1. The Qur'an and his own speech read as **two different voices**. Modern linguistic comparison of the Qur'an with the hadith, which record his speech, shows consistent structural differences between them. The section above sets this out.
 1. He **refused to let a natural event be read as a sign for him**. The sun eclipsed on the day his infant son Ibrahim died, and people said it had eclipsed for the death. He corrected them from the pulpit.
     > "The sun and the moon do not eclipse because of the death or life of someone." — *Sahih al-Bukhari* 1043
     {: .quote }
 
-    > This is the clearest test of motive in his biography. A grieving father with a devoted following was handed a cosmic omen that the crowd had already read in his favour. He took it apart in public, on the day he buried his son.
+    > Of everything in his biography, this tests his motive most directly. A grieving father with a devoted following was handed an omen the crowd had already read in his favour, and he took it apart in public on the day he buried his son.
     {: .gloss }
 
 ### Private Conduct Matched Public Teaching
@@ -405,7 +405,7 @@ The people with the most access to him were his servants, his wives, and his fam
 1. When a **bedouin urinated inside the mosque** and the congregation moved to beat him, he stopped them, let the man finish, and had water poured over the spot.
     > *Sahih al-Bukhari* 6025, 220, 6128. The governing instruction: "Make things easy for the people and do not make things difficult for them." (*Sahih al-Bukhari* 6125)
     {: .src }
-1. In a warrior culture, **strength** meant winning a fight. He redefined it as controlling yourself.
+1. In a warrior culture, **strength** meant winning a fight. He redefined it as self-control.
     > "The strong is not the one who overcomes people by his strength, but the strong is the one who controls himself while in anger." — *Sahih al-Bukhari* 6114
     {: .quote }
 1. The Qur'an credits the **cohesion of the community** to his gentleness, and says plainly what harshness would have cost him.
@@ -418,7 +418,7 @@ The people with the most access to him were his servants, his wives, and his fam
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿لَقَدْ جَآءَكُمْ رَسُولٌۭ مِّنْ أَنفُسِكُمْ عَزِيزٌ عَلَيْهِ مَا عَنِتُّمْ حَرِيصٌ عَلَيْكُم بِٱلْمُؤْمِنِينَ رَءُوفٌۭ رَّحِيمٌۭ ۝١٢٨﴾ <span class="ayah-ref">سُورَةُ التَّوۡبَةِ</span></div>
     {: .quote }
-1. The instruction he taught for dealing with hostility was **reversal rather than retaliation**.
+1. What he taught for dealing with hostility was to **answer it with good** rather than repay it.
     > "Good and evil cannot be equal. Respond ˹to evil˺ with what is best, then the one you are in a feud with will be like a close friend." (**Sūrat Fuṣṣilat 41:34**), Dr. Mustafa Khattab, *The Clear Quran*
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَلَا تَسْتَوِى ٱلْحَسَنَةُ وَلَا ٱلسَّيِّئَةُ ۚ ٱدْفَعْ بِٱلَّتِى هِىَ أَحْسَنُ فَإِذَا ٱلَّذِى بَيْنَكَ وَبَيْنَهُۥ عَدَٰوَةٌۭ كَأَنَّهُۥ وَلِىٌّ حَمِيمٌۭ ۝٣٤﴾ <span class="ayah-ref">سُورَةُ فُصِّلَتۡ</span></div>
@@ -457,7 +457,7 @@ The people with the most access to him were his servants, his wives, and his fam
 
 ### Those With No Power to Reciprocate
 
-The clearest measure of a person is how they treat those who can neither repay them nor retaliate. Measured against seventh-century Arabia, this is where his teaching departs furthest from what surrounded it.
+Slaves, orphans, animals, and neighbours could neither repay a kindness nor punish a wrong, and seventh-century Arabia owed them little. This is where his teaching departs furthest from what surrounded it.
 
 1. He called **enslaved people** the **brothers of those who held them**, and attached a rule to the word: feed them what you eat, clothe them in what you wear.
     > "Your slaves are your brothers whom Allah has put under your authority. So whoever has his brother under his authority should feed him from what he eats and clothe him from what he wears. Do not burden them beyond their capacity, and if you do, help them." — *Sahih al-Bukhari* 30 (see also 6050)
@@ -558,7 +558,7 @@ The clearest measure of a person is how they treat those who can neither repay t
 
 ### Power Without Enrichment
 
-The most testable claim about any religious founder is what happened once they had won. His case is unusually well documented, because the people who recorded it lived in his house.
+What a religious founder does once he has won is the part of the record easiest to test, and his is unusually well documented, because the people who recorded it lived in his house.
 
 1. He died with his **armour pledged to a Jewish creditor**, held against a loan of barley to feed his family.
     > *Sahih al-Bukhari* 2916, 4467. At the time he was the effective head of state in Arabia.
@@ -582,7 +582,7 @@ The most testable claim about any religious founder is what happened once they h
     > Anas, who was serving wine at the time, described the vessels being emptied when the prohibition was proclaimed. — *Sahih al-Bukhari* 4620, 2464
     {: .gloss }
 
-    > Elsewhere, banning alcohol has taken police, courts, and prisons, and has usually failed anyway. In Medina it took one announcement.
+    > Prohibition elsewhere has needed police, courts, and prisons, and has still tended to fail. Here there was no enforcement machinery, and none was called for.
     {: .gloss }
 1. He abolished **blood vengeance** and **usury** by declaration, and in each case he began with the claims of his own family.
     > *Sīra*: in the Farewell Sermon he annulled the blood claims of the pre-Islamic period beginning with the claim of his own relative, and the usury of the period beginning with that owed to his uncle Abbas.
@@ -611,7 +611,7 @@ The most testable claim about any religious founder is what happened once they h
 
 A prediction is worth something only if the record of it is older than the event. The hadith collections were compiled and closed in the third Islamic century, roughly the ninth century CE, so anything fulfilled after that date is recorded in a text demonstrably older than what it describes. Those are the cases cited here, and reports with weak chains of transmission are left out.
 
-1. The **fire of the Hijaz**. Recorded in a collection completed in the ninth century CE.
+1. The **fire of the Hijaz**, recorded roughly four centuries before the eruption it matches.
     > "The Hour will not be established till a fire will come out of the land of Hijaz, and it will throw light on the necks of the camels at Busra." — *Sahih al-Bukhari* 7118
     {: .quote }
 
@@ -632,14 +632,14 @@ A prediction is worth something only if the record of it is older than the event
 1. A **naval expedition**, told to Umm Haram, who asked to be included and was told she would be.
     > *Sahih al-Bukhari* 2788, 2789. She died on the maritime campaign to Cyprus about twenty years later. Arabia at the time had no navy and no maritime tradition.
     {: .src }
-1. He predicted that **Ammar ibn Yasir** would be killed by a transgressing faction. Followers invent predictions of victory. This one had Muslims killing one of their own best men.
+1. He predicted that **Ammar ibn Yasir** would be killed by a transgressing faction, which is a prediction of Muslims killing one of their own best men. A community inventing predictions for itself invents victories.
     > *Sahih al-Bukhari* 447. Ammar was killed at the battle of Siffin in 657 CE, during the first Muslim civil war.
     {: .src }
 1. His grandson **al-Hasan** would reconcile two large factions of Muslims.
     > "This son of mine is a chief, and I hope that Allah will reconcile two great groups of Muslims through him." — *Sahih al-Bukhari* 3629. Al-Hasan abdicated the caliphate in 661 CE to end the civil war.
     {: .quote }
 1. He described signs of the end times, among them that **destitute barefoot shepherds would compete in constructing tall buildings**.
-    > *Sahih al-Bukhari* 50 (and *Sahih Muslim* 8, the hadith of Gabriel). Readers may weigh this one for themselves.
+    > *Sahih al-Bukhari* 50 (and *Sahih Muslim* 8, the hadith of Gabriel).
     {: .src }
 
     > This category needs care. Some widely circulated "prophecies" rest on weak chains of transmission. The well-known report about the conquest of Constantinople is one of them, since contemporary hadith scholars grade its chain weak, and it is therefore not used here. The argument is stronger for leaving such reports out.
@@ -650,7 +650,7 @@ A prediction is worth something only if the record of it is older than the event
 1. **Proximity increased devotion rather than eroding it.** His wives, servants, cousins, and lifelong companions were the most committed people in the community. They are also the source of the least flattering material about him. People protecting a fraud do not supply the evidence against it.
 1. **His wives transmitted his private life without cleaning it up.** They recorded his poverty, his moods, their own jealousy, their arguments with him, and the times he was tired or displeased. A household guarding an image keeps those details to itself.
 1. **His enemies became his followers.** Umar ibn al-Khattab set out to kill him and became his second successor. Khalid ibn al-Walid commanded the cavalry that broke the Muslims at Uhud and became their most effective general. Abu Sufyan led the war against him for years, and his son Muawiya became a scribe of revelation. Movements built on deception lose their sharpest opponents; they do not recruit them.
-1. **His enemies confirmed his honesty even while opposing him.** The clearest instance is preserved in an exchange between the Byzantine emperor Heraclius and Abu Sufyan, who was then still leading the war against him.
+1. **His enemies confirmed his honesty even while opposing him.** The best-known instance is preserved in an exchange between the Byzantine emperor Heraclius and Abu Sufyan, who was then still leading the war against him.
     > Heraclius asked whether they had ever accused him of lying before he made his claim. Abu Sufyan, by his own admission looking for anything damaging to say, answered no. Heraclius replied that a man who does not lie about people does not then go and lie about God. — *Sahih al-Bukhari* 7 (also 3174, 4553)
     {: .gloss }
 
@@ -660,7 +660,7 @@ A prediction is worth something only if the record of it is older than the event
 
 ### Foretold in Earlier Scriptures
 
-1. He was **foretold by Jesus** and identified in Jewish and other earlier scriptural traditions. Muslims make that claim, and a number of non-Muslim scholars have engaged with it seriously.
+1. Muslims hold that he was **foretold by Jesus** and identified in Jewish and other earlier scriptural traditions, a claim that a number of non-Muslim scholars have engaged with seriously.
     > [Jesus Foretold Muhammad ﷺ](https://youtu.be/EGZ2RibrJtc)
 
     > [The Praised One ﷺ in World Scriptures \| Hamza Yusuf](https://youtu.be/OzSyIla5Z-Q)
@@ -720,7 +720,7 @@ Taken one at a time, most of the points on this page have an ordinary explanatio
     > The theory is also the most expensive of the four for the person advancing it. It concedes the hardest part of the evidence — that something beyond ordinary human capacity stands behind the Qur'an and the life around it — and then credits it to the one agent whose aims that Qur'an spends its length dismantling.
     {: .gloss }
 
-None of this compels belief, and it is not offered as though it does. What it does is move the burden. Any account that denies his prophethood has to explain the whole of the evidence rather than the most convenient part of it. The Qur'an makes the same appeal, pointing to a life its audience had watched for forty years, and offers that life as the thing worth following.
+None of this compels belief, and it is not offered as though it does. What it does is shift the burden onto any account that denies his prophethood, which then has to explain the whole of the evidence rather than the most convenient part of it. The Qur'an makes the same appeal, pointing to a life its audience had watched for forty years, and offers that life as the thing worth following.
 
 > "Indeed, in the Messenger of Allah you have an excellent example for whoever has hope in Allah and the Last Day, and remembers Allah often." (**Sūrat al-Aḥzāb 33:21**), Dr. Mustafa Khattab, *The Clear Quran*
 >
@@ -757,12 +757,12 @@ The more of his life a person examines, the harder it becomes to explain as anyt
 
     > [Millenials are returning to God - Here's why \| Blogging Theology](https://youtu.be/VjIL0Gio4yA)
 
-- Does Islam really preach Love and Mercy as the main message?
+- Are love and mercy really Islam's central message?
     > [The Power of Love \| Al-Habib Ali Al-Jifri](https://youtu.be/KQFrovc_1G0) (turn on English captions)
 
     > [Love & Faith \| Al-Habib Ali Al-Jifri](https://youtu.be/TD3jqd-YWec)
 
-- Is the Shari'ah law really cruel like what is portrayed in Western media?
+- Is Shari'ah law as cruel as Western media portrays it?
     > [What the West Needs to Know About the Shari'ah \| Blogging Theology](https://youtu.be/AHOH_t03sIc)
 
 - Is the Qur'an really preserved as it was revealed?
@@ -796,4 +796,5 @@ The more of his life a person examines, the harder it becomes to explain as anyt
     > [The Prophet Muhammad's Marriage to Aisha](/aisha)
 
 ## Other useful links
+
 - [Is It Hypocritical for Muslims to Criticize Non-Muslim Occupation If Classical Islamic Law Permits Muslims to Rule over Non-Muslims?](https://seekersguidance.org/answers/general-answers-feeds/is-it-hypocritical-for-muslims-to-criticize-non-muslim-occupation-if-classical-islamic-law-permits-muslims-to-rule-over-non-muslims/)
