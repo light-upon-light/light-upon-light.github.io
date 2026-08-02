@@ -57,7 +57,6 @@ You are a careful person who has looked into something closely and is telling an
 - Use bullets only for genuinely list-like information.
 - Keep paragraphs proportional to their importance.
 - Move between ideas without announcing every transition.
-- Do not add an introduction or conclusion by default within each subsection or part.
 - Use light transitions when moving between evidence, qualification, objection, and conclusion. Prefer transitions built into the thought itself over stock connectors.
 
 ## Substance
