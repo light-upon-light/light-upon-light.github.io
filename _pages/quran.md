@@ -50,7 +50,7 @@ share: true
     > [Mind Blowing Symmetry in Quran Pages! - The Miracle You’ll Hear for the First Time!](https://youtu.be/2iiGZlyDOXk)
 
     > [THE RING COMPOSITION! - Remarkable Structure of the Quran](https://youtu.be/b5Y5gMc_XZo)
-1. Can be **read in any order** of chapters and still holds its coherence, guidance, and thematic unity. Try that with a novel or a history.
+1. Can be **read in any order** of chapters and still holds its coherence, guidance, and thematic unity, which an ordinary narrative cannot do.
 1. It **challenged the Arabs** to match it at the height of their command of Arabic. They had the **skill** to answer and every **motive**.
     > The Qur'an was revealed in an era when the **Arabs** had reached the very **summit of Arabic** language eloquence and rhetoric. **Poetry** was not mere entertainment; it was the **lifeblood of their culture**, the **measure of honor**, and even a **weapon in war**—tribes would settle disputes or ignite battles through verses. In this context, where **pride in language** was unrivaled and **mastery of Arabic** expression was their greatest art, the **Qur'an openly challenged** them to produce anything like it. Despite their unmatched command of Arabic and every worldly motive to discredit the Prophet ﷺ, they were unable to respond, and **their failure** itself became a **perpetual testimony** to the **Qur'an's inimitability**.
     {: .gloss }
