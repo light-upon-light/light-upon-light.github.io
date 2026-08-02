@@ -30,7 +30,7 @@ share: true
 
 ### Literary Miracle
 
-1. Runs to **more than 600 pages** — a full-length book, not a handful of memorable sayings.
+1. Runs to **more than 600 pages** of recited text. Everything claimed concerns a work of that length.
 1. Recognized in **every generation since** as the **summit of Arabic eloquence**, by its admirers and by its enemies.
     > [Linguistic Miracle of the Qur'an](https://youtu.be/abzZL_3Av2E)
 
