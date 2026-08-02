@@ -4,6 +4,10 @@ Jekyll site (GitHub Pages) using the `minimal-mistakes` theme via `remote_theme`
 pinned to 4.28.0. Pages live in `_pages/`. Build with
 `bundle exec jekyll build`.
 
+## Writing style guide
+
+Make sure to refer to _notes\islamic_apologetics_style_guide.md whenever you come to write anything.
+
 ## What gets published
 
 GitHub Pages builds from `main`, so pushing is publishing. There is no CI, no
@@ -119,7 +123,6 @@ block.
 `.markdownlint.json` permits only `div` and `span` under MD033 (and turns off
 MD013 line length) precisely because of this pattern. A new inline element means
 updating that config, not quietly failing the lint.
-
 
 ### The bracket trap
 
