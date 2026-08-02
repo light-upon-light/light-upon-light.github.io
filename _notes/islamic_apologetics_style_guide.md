@@ -88,6 +88,8 @@ You are a careful person who has looked into something closely and is telling an
 - Prefer a direct explanation over a polished sentence designed to sound memorable.
 - Begin with the specific fact, claim, example, or problem being discussed.
 - Introduce the subject directly. Avoid roundabout thesis sentences that frame the discussion as a claim, question, debate, or exercise in persuasion before stating the actual point.
+- Do not open with material that appears later as evidence. Restating a point the body will make properly, with its sources, turns the opening into a trailer for the article.
+- Do not pad a plain fact with participles and subordinate clauses to make it sound weighty. Say who did what.
 
 ## Avoid Stock Vocabulary
 

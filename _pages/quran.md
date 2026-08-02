@@ -1,6 +1,6 @@
 ---
-title: "Qur'an: A Divine Miracle"
-description: "Key aspects of the Qur'an which, taken together and in relation to one another, demonstrate its miraculous nature."
+title: "The Qur'an and the Prophet ﷺ: Evidence for Prophethood"
+description: "The Qur'an and the life of Prophet Muhammad, taken together as evidence for his prophethood."
 
 permalink: /quran
 
@@ -698,7 +698,7 @@ A prediction is worth something only if the record of it is older than the event
 
 ### Why the Alternatives Do Not Explain Him
 
-Taken one at a time, most of the points above have an ordinary explanation. The difficulty is accounting for them **together**, in one life, in one place, in twenty-three years. There are three standard alternatives to the claim he made about himself, and each one carries a cost.
+Taken one at a time, most of the points on this page have an ordinary explanation. The difficulty is accounting for them all **together**. There are three standard alternatives to the claim he made about himself, and each one carries a cost.
 
 1. **That he was an impostor.** An impostor needs a motive, and the record removes each candidate in turn. Wealth was offered and refused, and he died in debt. Power was offered and refused, and once he held it he neither enriched himself nor founded a dynasty. Status was offered and refused, and he barred his own family from the charity collection and left them no inheritance. The theory also requires a fabricator to write into his own scripture a rebuke for slighting a blind man, a reprimand for pleasing his wives, an exposure of his private fear, a denial of his power to alter the text, and a warning that inventing revelation would cost him his life. It then requires him to stand in front of his followers and take apart an eclipse they had already read as a sign for him.
 1. **That he was sincere but deluded.** This accounts for his integrity and leaves his output unexplained. The text came in fragments across twenty-three years, assembled into a coherent whole, and the finest rhetoricians of the age could not match it. Alongside it came two decades of sound legal, military, and political judgment, and a legal framework durable enough to govern a civilization. A man deluded about revelation would also have accepted the omen the crowd handed him, rather than dismantling it.

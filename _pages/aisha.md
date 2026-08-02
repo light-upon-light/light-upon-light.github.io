@@ -15,7 +15,7 @@ toc_levels: 2..3
 share: true
 ---
 
-[< Back to Qur'an: A Divine Miracle](/quran)
+[< Back to **The Qur'an and the Prophet ﷺ**](/quran)
 
 The Prophet Muhammad’s ﷺ marriage to Our Lady Aisha is often judged through modern assumptions about age, consent, and childhood. It is reported that she entered his household at nine, but that fact alone does not settle the moral question. A fair assessment must examine the historical setting, the Prophet’s conduct, Aisha’s own testimony, and the life she went on to lead.
 
@@ -368,6 +368,10 @@ Sustaining the objection requires setting all of that aside. Fourteen centuries 
 The discomfort is allowed to stand. It is an honest response to a number in a world where that number means what it now means. It simply cannot do the work of a finding of fact, and the finding of fact runs the other way.
 
 What the record supports is a set of commitments that outlast the argument: consent as a condition, kindness as the standard, harm as the limit, and a woman's learning as a good in itself.
+
+---
+
+[< Back to **The Qur'an and the Prophet ﷺ**](/quran)
 
 ---
 
