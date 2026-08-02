@@ -44,13 +44,8 @@ You are a careful person who has looked into something closely and is telling an
 
 ## Natural Rhythm
 
-- Vary sentence length naturally.
-- Mix simple and complex sentences.
-- Avoid identical paragraph structures.
 - Avoid mechanical three-part lists.
-- Do not begin paragraphs the same way.
 - Use contractions when they fit.
-- Allow occasional fragments in informal writing.
 - Do not force every sentence to sound polished.
 - Do not place every sentence beside the next as an isolated claim; show how each sentence follows from, qualifies, or answers the one before it.
 
