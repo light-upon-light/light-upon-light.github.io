@@ -25,7 +25,7 @@ Underneath all of them sits one claim: that she was harmed. That's a claim about
 
 None of what follows argues that anyone today should marry a nine-year-old. Islam has never asked that of anyone.
 
-**A note on the sources.** *Hadith* are transmitted reports of the Prophet's ﷺ words and actions. *Ṣaḥīḥ al-Bukhārī* and *Ṣaḥīḥ Muslim* are the two most rigorously screened Sunni collections of them. The *Companions* (*Ṣaḥāba*) are the generation who knew him personally and from whom those reports descend. Numbered notes and full references appear at the end of the page.
+**A note on the sources.** *Hadith* are transmitted reports of the Prophet's ﷺ words and actions. *Sahih al-Bukhari* and *Sahih Muslim* are the two most rigorously screened Sunni collections of them. The *Companions* (*Ṣaḥāba*) are the generation who knew him personally and from whom those reports descend. Numbered notes and full references appear at the end of the page.
 
 ---
 
@@ -60,11 +60,11 @@ Premise 1 is a report, and reports can be checked. Premise 4 is accurate as Musl
 
 ## What do the sources actually say?
 
-The traditional Sunni position rests on Aisha's own testimony. *Ṣaḥīḥ al-Bukhārī* and *Ṣaḥīḥ Muslim* record that the marriage contract was concluded when she was six or seven, and that she entered the Prophet's ﷺ household at nine.[^1] She stayed his wife until he died some nine years later, when she was around eighteen.
+The traditional Sunni position rests on Aisha's own testimony. *Sahih al-Bukhari* and *Sahih Muslim* record that the marriage contract was concluded when she was six or seven, and that she entered the Prophet's ﷺ household at nine.[^1] She stayed his wife until he died some nine years later, when she was around eighteen.
 
 Those are two events, roughly three years apart. The contract (*ʿaqd*, the binding agreement) and moving into the husband's household (*bināʾ*, the start of married life) were separate stages in seventh-century Arabia, as they were across most of the premodern world. Run them together into a single moment and you've misdescribed what happened before anyone has made an argument about it.
 
-Not every Muslim accepts the traditional figure. Some argue from the recorded age of her sister Asmāʾ, or from the chronology of the early community, that she was older. A different challenge comes from the academy: Joshua Little's Oxford doctoral thesis works through the chains of transmission behind the age reports and argues that they all descend from a single eighth-century Iraqi transmitter, and can't be traced securely back to Aisha herself.[^2]
+Not every Muslim accepts the traditional figure. Some argue from the recorded age of her sister Asma, or from the chronology of the early community, that she was older. A different challenge comes from the academy: Joshua Little's Oxford doctoral thesis works through the chains of transmission behind the age reports and argues that they all descend from a single eighth-century Iraqi transmitter, and can't be traced securely back to Aisha herself.[^2]
 
 Those arguments deserve weighing on their own evidence. But they're contested rather than settled. The classical Sunni hadith tradition accepts the reports, and Little's reconstruction is a recent thesis rather than a scholarly consensus, so nothing here depends on it. A defence that needs a disputed reconstruction to be treated as proven is weaker than one that doesn't need it at all.
 
@@ -139,7 +139,7 @@ To accept this accusation you have to set aside almost everything else we know a
 
 That isn't reputation standing in for evidence. It's the ordinary business of judging what a person did by the whole record rather than one item pulled out of it.
 
-**Before prophethood.** Mecca called him *al-Amīn*, the trustworthy, years before he claimed anything at all. Men who later took up arms against him carried on leaving their valuables in his keeping. His honesty stayed out of dispute even when everything else about him was in it.
+**Before prophethood.** Mecca called him *al-Amin*, the trustworthy, years before he claimed anything at all. Men who later took up arms against him carried on leaving their valuables in his keeping. His honesty stayed out of dispute even when everything else about him was in it.
 
 **The Qur'an's description.** Asked what he was like, Aisha said his character was the Qur'an.[^3] The Qur'an describes him directly:
 
@@ -189,7 +189,7 @@ You work out what someone desires from a pattern, not from a single instance. Hi
 
 **Khadija.** He married her at about twenty-five. She was older than he was, had been married before, and ran her own caravan business. He stayed married to her and to nobody else for around twenty-five years — his entire physical prime — until she died. He took no second wife while she lived, and he talked about her long afterwards, often enough that Aisha admitted being jealous of a woman she had never met.[^9]
 
-**The later marriages.** These start when he was around fifty, and you can't separate them from what was happening to the community: war, widowhood, tribal alliance, and the need for someone to carry the parts of religious law that concern domestic life. Sawda bint Zamʿa was a widow, and so were Ḥafṣa bint ʿUmar, Zaynab bint Khuzayma, Umm Ḥabība, Ṣafiyya bint Ḥuyayy, and Maymūna bint al-Ḥārith. Umm Salama was a widow with children. Zaynab bint Jaḥsh had been divorced. Marrying Juwayriya bint al-Ḥārith changed the standing of her recently defeated tribe. Several of these women were well past the age at which anyone marries for beauty or children.
+**The later marriages.** These start when he was around fifty, and you can't separate them from what was happening to the community: war, widowhood, tribal alliance, and the need for someone to carry the parts of religious law that concern domestic life. Sawda bint Zama was a widow, and so were Hafsa bint Umar, Zaynab bint Khuzayma, Umm Habiba, Safiyya bint Huyayy, and Maymuna bint al-Harith. Umm Salama was a widow with children. Zaynab bint Jahsh had been divorced. Marrying Juwayriya bint al-Harith changed the standing of her recently defeated tribe. Several of these women were well past the age at which anyone marries for beauty or children.
 
 **Aisha.** She was the only wife who hadn't been married before. That one exception carries the whole accusation, and an exception can't define a pattern while the pattern itself gets ignored. A man drawn to young girls doesn't spend his youth married to a single older widow and his fifties and sixties marrying more of them.
 
@@ -203,7 +203,7 @@ You work out what someone desires from a pattern, not from a single instance. Hi
 
 The reports of their life together are unusually detailed, and the woman in them is neither isolated nor frightened.
 
-**Open affection.** ʿAmr ibn al-ʿĀṣ asked the Prophet ﷺ who he loved most in the world. He was expecting a man's name. He got "Aisha." When he narrowed it to men, the answer was "her father."[^10] He said it in front of his army and saw nothing awkward in saying it.
+**Open affection.** Amr ibn al-As asked the Prophet ﷺ who he loved most in the world. He was expecting a man's name. He got "Aisha." When he narrowed it to men, the answer was "her father."[^10] He said it in front of his army and saw nothing awkward in saying it.
 
 **Racing.** On one journey she raced him and won. Years later, heavier by then, she raced him again and lost, and he told her the second race settled the first.[^11]
 
@@ -223,7 +223,7 @@ That doesn't make her willingness beside the point, because Islamic law has a co
 
 The Prophet ﷺ made a woman's agreement a condition of a valid marriage. He distinguished a *thayyib* (a woman married before) from a *bikr* (a woman never married): "A previously married woman is not to be given in marriage until she is consulted, and a virgin is not to be given in marriage until her permission is sought."[^13]
 
-He enforced it, too. Khansāʾ bint Khidhām said her father had married her to a man she disliked. She took it to the Prophet ﷺ and he annulled the marriage.[^14] So a father's decision was never enough on its own, and a marriage forced on a woman wasn't merely frowned on. It was void.
+He enforced it, too. Khansa bint Khidham said her father had married her to a man she disliked. She took it to the Prophet ﷺ and he annulled the marriage.[^14] So a father's decision was never enough on its own, and a marriage forced on a woman wasn't merely frowned on. It was void.
 
 ### What the record shows about Aisha
 
@@ -259,7 +259,7 @@ Used properly, the principle explains why a victim's silence isn't proof of cons
 
 **Corrections.** She corrected prominent Companions when she judged that they'd misheard or half-remembered something, arguing from the Qur'an, from close attention to wording, and from things about the Prophet's ﷺ private life that only she knew. Later scholars thought those corrections substantial enough to collect into books of their own.[^17]
 
-**Beyond law.** The early sources describe her knowledge of poetry, genealogy, history and medicine. Her nephew ʿUrwa ibn al-Zubayr, a leading scholar of the next generation himself, said he had never met anyone with a better command of law, medicine or poetry. Abū Mūsā al-Ashʿarī said that whenever a hadith gave the Companions trouble, they asked Aisha and she knew the answer.[^18]
+**Beyond law.** The early sources describe her knowledge of poetry, genealogy, history and medicine. Her nephew Urwa ibn al-Zubayr, a leading scholar of the next generation himself, said he had never met anyone with a better command of law, medicine or poetry. Abu Musa al-Ashari said that whenever a hadith gave the Companions trouble, they asked Aisha and she knew the answer.[^18]
 
 **Teaching after his death.** Because she married young, she was still teaching two generations later, when most of the senior Companions had died. Her students carried what she knew into the law, hadith and Qur'anic commentary of the following century.
 
@@ -309,11 +309,11 @@ Whatever that is, it isn't a person conditioned into submission. She held her gr
 
 **"Grooming" names a process, not an age gap.** The word describes a recognisable sequence. An adult cultivates secrecy, manufactures private access, cuts a child off from the adults who would protect her, wears her boundaries down by degrees, makes affection or status conditional on compliance, and secures her silence afterwards. Every one of those is a matter of fact, and you can check this marriage against each.
 
-Start with secrecy, because the process can't run without it — and it's entirely missing. The proposal was made openly, negotiated with her father, contracted publicly, and marked by an occasion the community attended. Nobody manufactured access either, because the proposal didn't start with him. After Khadija died it was Khawla bint Ḥakīm who raised the subject of his remarrying, put two names to him, and went to Abū Bakr's house herself. The same report records that Aisha was already promised elsewhere, to the family of al-Muṭʿim ibn ʿAdī, and that the earlier arrangement had to be released before anything could go ahead.[^23] That her society betrothed girls of her age is no defence of the practice and isn't offered as one. The narrow point is that the arrangement she was already in wasn't one he had designed for her, and the initiative here didn't come from him.
+Start with secrecy, because the process can't run without it — and it's entirely missing. The proposal was made openly, negotiated with her father, contracted publicly, and marked by an occasion the community attended. Nobody manufactured access either, because the proposal didn't start with him. After Khadija died it was Khawla bint Hakim who raised the subject of his remarrying, put two names to him, and went to Abu Bakr's house herself. The same report records that Aisha was already promised elsewhere, to the family of al-Mutim ibn Adi, and that the earlier arrangement had to be released before anything could go ahead.[^23] That her society betrothed girls of her age is no defence of the practice and isn't offered as one. The narrow point is that the arrangement she was already in wasn't one he had designed for her, and the initiative here didn't come from him.
 
-She wasn't cut off from anyone, either. Abū Bakr's house was minutes away and she went between the two. Her mother and her sister Asmāʾ stayed in her life. Her apartment adjoined the mosque, which made her household one of the most observed in Medina, and she travelled with him and appeared in public rather than being kept out of sight. The process aims finally at silence, since silence is what it exists to produce. She talked for fifty years, in detail, often unflatteringly, and nobody was in a position to stop her.
+She wasn't cut off from anyone, either. Abu Bakr's house was minutes away and she went between the two. Her mother and her sister Asma stayed in her life. Her apartment adjoined the mosque, which made her household one of the most observed in Medina, and she travelled with him and appeared in public rather than being kept out of sight. The process aims finally at silence, since silence is what it exists to produce. She talked for fifty years, in detail, often unflatteringly, and nobody was in a position to stop her.
 
-**"So why would he be with someone that young?"** It's a fair question, and it has answers that don't require the one the objection assumes. Marriage was how Arabian families bound themselves together, so asking why he married Abū Bakr's daughter is the same as asking why he married ʿUmar's, and why he married two of his own daughters to ʿUthmān. His household was also the community's only route to the parts of religious law that concern private life, and her youth is what carried that teaching two generations past his death. Neither of those argues that early marriage is good, and neither is offered as an argument for it.
+**"So why would he be with someone that young?"** It's a fair question, and it has answers that don't require the one the objection assumes. Marriage was how Arabian families bound themselves together, so asking why he married Abu Bakr's daughter is the same as asking why he married Umar's, and why he married two of his own daughters to Uthman. His household was also the community's only route to the parts of religious law that concern private life, and her youth is what carried that teaching two generations past his death. Neither of those argues that early marriage is good, and neither is offered as an argument for it.
 
 The motive the objection proposes makes a prediction too, and the prediction fails. If youth was the attraction, it should show up elsewhere in a life documented in unusual detail, and he had every means to indulge it: thirty more years of marriages, and eventually the authority of a head of state. Every marriage after this one was to a widow or a divorcee, several of them older women. The sequence says the same thing. The contract was concluded years before she entered his household, and a delay that long isn't what impatience looks like.
 
@@ -335,9 +335,9 @@ Defending this marriage doesn't commit any Muslim to defending child marriage no
 
 The conditions really have changed. Young people now face long schooling, late financial independence, a drawn-out adolescence, weaker extended families, and far more exposure when a marriage fails. Child marriage today comes bound up with coercion, poverty, interrupted education, isolation, domestic violence, and pregnancies that carry serious risk for adolescent girls. Muslims have no reason to dispute that evidence and no obligation to reproduce every practice seventh-century Arabia permitted.
 
-Islamic law hands you the governing principle directly. "There shall be no harm inflicted, and no harm reciprocated" is one of the foundational legal maxims of the tradition, taken from a hadith al-Nawawī included in his famous forty.[^20] Where something permitted reliably causes harm under changed conditions, restraining it is ordinary jurisprudence rather than a concession to outside pressure.
+Islamic law hands you the governing principle directly. "There shall be no harm inflicted, and no harm reciprocated" is one of the foundational legal maxims of the tradition, taken from a hadith al-Nawawi included in his famous forty.[^20] Where something permitted reliably causes harm under changed conditions, restraining it is ordinary jurisprudence rather than a concession to outside pressure.
 
-Scholars today differ over the mechanism rather than the concern. Egypt's Dār al-Iftāʾ has held that "setting an age limit for marriage benefits both parties" and that state enforcement of such limits "is good as long as all relevant circumstances are taken into account."[^16] Shaykh ʿAṭiyya Ṣaqr, former head of al-Azhar's Fatwa Committee, grounded the ruler's authority to legislate a minimum age in public interest (*maṣlaḥa*), and held that obeying such laws is obligatory where they benefit society; other scholars have argued that a fixed minimum of eighteen creates hardship in some circumstances.[^22] There's no settled consensus on the exact number. There is broad agreement on the principle underneath it: what governs is the welfare of the people involved.
+Scholars today differ over the mechanism rather than the concern. Egypt's Dar al-Ifta has held that "setting an age limit for marriage benefits both parties" and that state enforcement of such limits "is good as long as all relevant circumstances are taken into account."[^16] Shaykh Atiyya Saqr, former head of al-Azhar's Fatwa Committee, grounded the ruler's authority to legislate a minimum age in public interest (*maṣlaḥa*), and held that obeying such laws is obligatory where they benefit society; other scholars have argued that a fixed minimum of eighteen creates hardship in some circumstances.[^22] There's no settled consensus on the exact number. There is broad agreement on the principle underneath it: what governs is the welfare of the people involved.
 
 ### But isn't he meant to be an example for all time?
 
@@ -366,7 +366,7 @@ Muslims hold that this marriage, like the rest of the Prophet's ﷺ life, unfold
 
 **A woman at the centre of scholarship.** Her authority as a jurist was recognised early enough that nobody could dislodge the precedent afterwards. It never needed arguing for later, because it was already in the foundations. Her house doubling as her classroom also disposed of the supposed clash between domestic life and intellectual work.
 
-**Two households joined.** The marriage tied the Prophet's ﷺ family to Abū Bakr's — his closest friend, his companion on the migration, and the man who led the community after him.
+**Two households joined.** The marriage tied the Prophet's ﷺ family to Abu Bakr's — his closest friend, his companion on the migration, and the man who led the community after him.
 
 **A record of marital affection.** He joked with his wife, raced her, listened to her, noticed her moods, drank from the spot on the cup where her lips had been, and said in public that he loved her. Tenderness toward a wife entered Islam as part of the prophetic example rather than as a private matter. The same narrations show him tired, amused, or up praying all night, which is why his biography reads like a life instead of a legend.
 
@@ -429,61 +429,61 @@ Aisha outlived her husband by nearly fifty years, under nobody's authority, and 
 
 Numbered notes appear at the foot of the page.
 
-[^1]: *Ṣaḥīḥ al-Bukhārī*, Book of Marriage, hadiths 5133 and 5158; *Ṣaḥīḥ Muslim*, Book of Marriage, hadith 1422.
+[^1]: *Sahih al-Bukhari*, Book of Marriage, hadiths 5133 and 5158; *Sahih Muslim*, Book of Marriage, hadith 1422.
 
 [^2]: Joshua J. Little, *The Hadith of ʿĀʾišah's Marital Age: A Study in the Evolution of Early Islamic Historical Memory* (DPhil thesis, University of Oxford, 2022), [Oxford University Research Archive](https://ora.ox.ac.uk/objects/uuid:1bdb0eea-3610-498b-9dfd-cffdb54b8b9b). The thesis is a recent academic argument, not a position held by the classical Sunni hadith tradition, which accepts the reports.
 
-[^3]: *Ṣaḥīḥ Muslim*, hadith 746.
+[^3]: *Sahih Muslim*, hadith 746.
 
-[^4]: *Ṣaḥīḥ al-Bukhārī*, hadith 6459; *Ṣaḥīḥ Muslim*, hadith 2972.
+[^4]: *Sahih al-Bukhari*, hadith 6459; *Sahih Muslim*, hadith 2972.
 
-[^5]: *Jāmiʿ al-Tirmidhī*, hadith 3895; *Sunan Ibn Mājah*, hadith 1977.
+[^5]: *Jami al-Tirmidhi*, hadith 3895; *Sunan Ibn Majah*, hadith 1977.
 
-[^6]: *Ṣaḥīḥ Muslim*, hadith 2328.
+[^6]: *Sahih Muslim*, hadith 2328.
 
-[^7]: *Ṣaḥīḥ al-Bukhārī*, hadith 710.
+[^7]: *Sahih al-Bukhari*, hadith 710.
 
-[^8]: *Ṣaḥīḥ al-Bukhārī*, hadith 5997; *Ṣaḥīḥ Muslim*, hadith 2318.
+[^8]: *Sahih al-Bukhari*, hadith 5997; *Sahih Muslim*, hadith 2318.
 
-[^9]: *Ṣaḥīḥ al-Bukhārī*, hadith 3818; *Ṣaḥīḥ Muslim*, hadith 2435.
+[^9]: *Sahih al-Bukhari*, hadith 3818; *Sahih Muslim*, hadith 2435.
 
-[^10]: *Ṣaḥīḥ al-Bukhārī*, hadith 4358; *Ṣaḥīḥ Muslim*, hadith 2384.
+[^10]: *Sahih al-Bukhari*, hadith 4358; *Sahih Muslim*, hadith 2384.
 
-[^11]: *Sunan Abī Dāwūd*, hadith 2578.
+[^11]: *Sunan Abi Dawud*, hadith 2578.
 
-[^12]: *Ṣaḥīḥ al-Bukhārī*, hadith 5228; *Ṣaḥīḥ Muslim*, hadith 2439.
+[^12]: *Sahih al-Bukhari*, hadith 5228; *Sahih Muslim*, hadith 2439.
 
-[^13]: *Ṣaḥīḥ al-Bukhārī*, hadith 5136; *Ṣaḥīḥ Muslim*, hadith 1419.
+[^13]: *Sahih al-Bukhari*, hadith 5136; *Sahih Muslim*, hadith 1419.
 
-[^14]: *Ṣaḥīḥ al-Bukhārī*, hadith 5138.
+[^14]: *Sahih al-Bukhari*, hadith 5138.
 
-[^15]: *Ṣaḥīḥ al-Bukhārī*, hadith 4785; *Ṣaḥīḥ Muslim*, hadith 1475. The verse offering the choice is *Sūrat al-Aḥzāb* 33:28–29.
+[^15]: *Sahih al-Bukhari*, hadith 4785; *Sahih Muslim*, hadith 1475. The verse offering the choice is *Sūrat al-Aḥzāb* 33:28–29.
 
-[^16]: Dār al-Iftāʾ al-Miṣriyya, ["What is the ruling on marrying a minor?"](https://www.dar-alifta.org/en/fatwa/details/8184/what-is-the-ruling-on-marrying-a-minor).
+[^16]: Dar al-Ifta al-Misriyya, ["What is the ruling on marrying a minor?"](https://www.dar-alifta.org/en/fatwa/details/8184/what-is-the-ruling-on-marrying-a-minor).
 
-[^17]: al-Zarkashī, *Al-Ijāba li-Īrād mā Istadrakat-hu ʿĀʾisha ʿalā al-Ṣaḥāba*.
+[^17]: al-Zarkashi, *Al-Ijaba li-Irad ma Istadrakat-hu Aisha ala al-Sahaba*.
 
-[^18]: *Jāmiʿ al-Tirmidhī*, hadith 3883.
+[^18]: *Jami al-Tirmidhi*, hadith 3883.
 
-[^19]: *Ṣaḥīḥ al-Bukhārī*, hadith 6130.
+[^19]: *Sahih al-Bukhari*, hadith 6130.
 
-[^20]: *Sunan Ibn Mājah*, hadith 2341; al-Nawawī, *Al-Arbaʿūn al-Nawawiyya*, hadith 32.
+[^20]: *Sunan Ibn Majah*, hadith 2341; al-Nawawi, *Al-Arbaun al-Nawawiyya*, hadith 32.
 
-[^21]: *Ṣaḥīḥ al-Bukhārī*, hadith 4750; *Ṣaḥīḥ Muslim*, hadith 2770.
+[^21]: *Sahih al-Bukhari*, hadith 4750; *Sahih Muslim*, hadith 2770.
 
-[^22]: ʿAṭiyya Ṣaqr and Ḥusām al-Dīn ʿAfāna, ["Enacting Laws Specifying the Age of Marriage"](https://fiqh.islamonline.net/en/enacting-laws-specifying-the-age-of-marriage/), IslamOnline.
+[^22]: Atiyya Saqr and Husam al-Din Afana, ["Enacting Laws Specifying the Age of Marriage"](https://fiqh.islamonline.net/en/enacting-laws-specifying-the-age-of-marriage/), IslamOnline.
 
-[^23]: *Musnad Aḥmad*, hadith 25769, graded sound in its chain by Shuʿayb al-Arnaʾūṭ. The narration is Aisha's own, and reports both Khawla bint Ḥakīm's proposal and the earlier arrangement with the family of al-Muṭʿim ibn ʿAdī.
+[^23]: *Musnad Ahmad*, hadith 25769, graded sound in its chain by Shuayb al-Arnaut. The narration is Aisha's own, and reports both Khawla bint Hakim's proposal and the earlier arrangement with the family of al-Mutim ibn Adi.
 
-[^24]: *Ṣaḥīḥ al-Bukhārī*, hadith 4788; *Ṣaḥīḥ Muslim*, hadith 1464. The verse is *Sūrat al-Aḥzāb* 33:51.
+[^24]: *Sahih al-Bukhari*, hadith 4788; *Sahih Muslim*, hadith 1464. The verse is *Sūrat al-Aḥzāb* 33:51.
 
 Qur'an 3:159; 4:6; 4:19; 9:128; 21:107; 24:11–20; 30:21; 33:21; 33:28–29; 33:51; 68:4. Translations are Saheeh International.
 
 ### Classical biographical and scholarly works
 
-- al-Dhahabī, *Siyar Aʿlām al-Nubalāʾ*
-- Ibn Ḥajar al-ʿAsqalānī, *Al-Iṣāba fī Tamyīz al-Ṣaḥāba*
-- al-Zarkashī, *Al-Ijāba li-Īrād mā Istadrakat-hu ʿĀʾisha ʿalā al-Ṣaḥāba*
+- al-Dhahabi, *Siyar Alam al-Nubala*
+- Ibn Hajar al-Asqalani, *Al-Isaba fi Tamyiz al-Sahaba*
+- al-Zarkashi, *Al-Ijaba li-Irad ma Istadrakat-hu Aisha ala al-Sahaba*
 
 ### Modern scholarship
 

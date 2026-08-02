@@ -25,7 +25,7 @@ One of the most cited accusations against Islam is the claim that it sanctions d
 
 ## 1. The elasticity of the word *ḍaraba*
 - Arabic words carry layered meanings, and **ḍaraba** is one of the most polysemous verbs in the language. It can mean *to strike*, but also *to travel, to separate, to set forth, to distance*.
-- Many early scholars—including al-Ṭabarī—acknowledged multiple possible readings. Several interpreted *waḍribūhunna* as *“separate from them”* or *“part ways.”*
+- Many early scholars—including al-Tabari—acknowledged multiple possible readings. Several interpreted *waḍribūhunna* as *“separate from them”* or *“part ways.”*
 - Even those who read it as a physical act ruled out harm outright — see Section 4 below for the specific restrictions jurists imposed on it.
 
 ## 2. Prophetic example as the living interpretation of the Qur'an
@@ -33,7 +33,7 @@ One of the most cited accusations against Islam is the claim that it sanctions d
   > <div dir="rtl" lang="ar" class="quran-arabic">﴿لَّقَدْ كَانَ لَكُمْ فِى رَسُولِ ٱللَّهِ أُسْوَةٌ حَسَنَةٌۭ﴾ <span class="ayah-ref">[سُورَةُ الأَحۡزَابِ: ٢١]</span></div>
   {: .quote }
 - Authentic reports state:
-  > “The Messenger of Allah never struck anything with his hand, neither a woman nor a servant…” (Ṣaḥīḥ Muslim).
+  > “The Messenger of Allah never struck anything with his hand, neither a woman nor a servant…” (Sahih Muslim).
   {: .quote }
 - This is decisive. The Prophet ﷺ is the *living exegesis* of the Qur'an. If the verse authorized harm, his conduct would have embodied it. His lifelong abstention from such behavior proves otherwise.
 
@@ -97,24 +97,24 @@ Beyond its general ethos, Islam provides explicit, repeated instructions regardi
   {: .quote }
 
 ### B) Prophetic commands (verbal)
-- The Prophet ﷺ declared: *“The best of you are those who are best to their wives, and I am the best among you to my wives.”* (Tirmidhī).
+- The Prophet ﷺ declared: *“The best of you are those who are best to their wives, and I am the best among you to my wives.”* (Tirmidhi).
 - **“<span dir="rtl" lang="ar">استوصوا بالنساء خيرا</span>” — “Treat women well; I urge you to be good to women.”**
-  — in the Farewell Sermon and other reports (Ṣaḥīḥ Muslim; also in Bukhārī with related wording).
+  — in the Farewell Sermon and other reports (Sahih Muslim; also in Bukhari with related wording).
 - **“<span dir="rtl" lang="ar">لا تضربوا إماء الله</span>” — “Do not beat the female servants of Allah.”**
   — initial prohibition; later, after complaints reached the Prophet ﷺ about men beating, he said:
   **“<span dir="rtl" lang="ar">لقد طاف بآل محمد نساءٌ كثير يشكون أزواجهن؛ ليس أولئك بخياركم</span>”**
-  *“Many women have come to the family of Muhammad complaining about their husbands; those (men) are not the best among you.”* (Abū Dāwūd, Ibn Mājah).
+  *“Many women have come to the family of Muhammad complaining about their husbands; those (men) are not the best among you.”* (Abu Dawud, Ibn Majah).
 - **“<span dir="rtl" lang="ar">لا يجلد أحدكم امرأته جلد العبد ثم يجامعها في آخر اليوم</span>”**
-  *“Let none of you flog his wife like a slave, then sleep with her at day's end.”* (Bukhārī, Muslim).
+  *“Let none of you flog his wife like a slave, then sleep with her at day's end.”* (Bukhari, Muslim).
 - **“<span dir="rtl" lang="ar">أوصيكم بالنساء خيرا</span>” / “<span dir="rtl" lang="ar">اتقوا الله في النساء</span>” — “I enjoin you to treat women well; fear God regarding women.”**
   — *“For you have taken them by God's trust (bi-amānati llāh)…”* (Muslim; Farewell Sermon).
-- **“<span dir="rtl" lang="ar">النساء شقائق الرجال</span>” — “Women are the counterparts (twin halves) of men.”** (Abū Dāwūd, Tirmidhī — ḥasan with supporting routes).
+- **“<span dir="rtl" lang="ar">النساء شقائق الرجال</span>” — “Women are the counterparts (twin halves) of men.”** (Abu Dawud, Tirmidhi — ḥasan with supporting routes).
 - **“<span dir="rtl" lang="ar">اللهم إني أحرج حق الضعيفين: المرأة واليتيم</span>”**
-  *“O Allah, I strongly enjoin (make sacrosanct) the rights of the two vulnerable ones: the woman and the orphan.”* (Aḥmad, Ibn Mājah; graded ḥasan by some).
+  *“O Allah, I strongly enjoin (make sacrosanct) the rights of the two vulnerable ones: the woman and the orphan.”* (Ahmad, Ibn Majah; graded ḥasan by some).
 
 ### C) Prophetic character and moral example
-- **Never struck a woman or a servant.** (Ṣaḥīḥ Muslim).
-- **Served his family, mended clothes, did housework.** (Bukhārī and others).
+- **Never struck a woman or a servant.** (Sahih Muslim).
+- **Served his family, mended clothes, did housework.** (Bukhari and others).
 - **Handled conflict without humiliation;** reconciled, advised, or took dignified steps rather than harm.
 
 ### D) Legal-ethical maxims and remedies applied to women
@@ -153,7 +153,7 @@ Islam's *moral grammar* is mercy and love. Any interpretation that legitimizes c
 - Islam provides internal safeguards against such misuse — see Section 5D above for the judicial and contractual remedies available to a wife who is harmed.
 
 ## 8. A modern reassessment of the verse's meaning
-- **Ibn ʿAshūr** (d. 1973) held that the verse referred to deterrence, not harm, and that in modern contexts it should be understood as separation.
+- **Ibn Ashur** (d. 1973) held that the verse referred to deterrence, not harm, and that in modern contexts it should be understood as separation.
 - The diversity in interpretation underscores that the verse's initial impression is not the clear-cut singular reading.
 
 ## Conclusion
