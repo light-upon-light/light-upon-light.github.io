@@ -10,6 +10,13 @@ GitHub Pages builds from `main`, so pushing is publishing. There is no CI, no
 staging, and no tests — a local build and a look at `_site/` is the only check
 there is.
 
+**Commit to `main`. Never push.** Because the push is the publish, that step is
+the author's alone — never run `git push`, and don't offer to. Work goes
+straight onto `main`: no feature branches, no PRs. A branch cannot reach Pages,
+so it only adds a merge for someone else to do. Committing is safe precisely
+because it stops short of publishing, which is what leaves a reviewable diff
+sitting on `main` until the author decides it goes live.
+
 The `github-pages` gem bundles `jekyll-optional-front-matter`, so **every
 markdown file the build can see becomes a page**, front matter or not, and lands
 in `sitemap.xml`. `include: [_pages]` publishes everything under `_pages/`
