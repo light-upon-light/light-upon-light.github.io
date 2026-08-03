@@ -250,14 +250,15 @@ marriage. She went to the Prophet ﷺ.
     > — *Sahih Muslim* 989, 990 and 992; *Sunan Ibn Majah* 16, graded *sahih*[^6]
     {: .src }
 
-- **Aisha became a primary legal authority** whose rulings corrected senior
-  Companions, and roughly a quarter of the hadith corpus on domestic and personal
-  law runs through her. Her scholarship is treated in
+- **Aisha became a primary legal authority**, narrating a large body of the
+  hadith corpus and correcting senior Companions often enough that al-Zarkashi
+  compiled a book consisting solely of her corrections of them.[^7] Her
+  scholarship is treated in
   [The Prophet Muhammad's ﷺ Marriage to Aisha](/aisha).
 - **Women asked for their own teaching sessions and were given them.** The
   transmission of religious knowledge by women continued for centuries: Muhammad
   Akram Nadwi's biographical dictionary of women hadith scholars runs to dozens
-  of volumes and thousands of named women.[^7]
+  of volumes and thousands of named women.[^8]
 
 ## A woman argued with the Prophet ﷺ and the Qur'an took her side
 
@@ -282,7 +283,7 @@ The surah is named *al-Mujadila* — "the woman who argues."
 > me?" He said: **"Your mother."** He said: "Then who?" He said: **"Your
 > mother."** He said: "Then who?" He said: **"Your mother."** He said: "Then
 > who?" He said: "Then your father."
-> — *Sahih Muslim* 6500 and 6501[^8]
+> — *Sahih Muslim* 6500 and 6501[^9]
 {: .src }
 
 ## The measure the Prophet ﷺ set
@@ -292,13 +293,13 @@ The surah is named *al-Mujadila* — "the woman who argues."
 
     > "The best of you is the best to his wives, and I am the best of you to my
     > wives."
-    > — *Jami' at-Tirmidhi* 3895, graded *sahih*[^9]
+    > — *Jami' at-Tirmidhi* 3895, graded *sahih*[^10]
     {: .src }
 
 - In the Farewell Sermon, delivered to the largest audience he ever addressed,
   he set obligations running in both directions: *"There are rights for you upon
   your women, and rights for your women upon you,"* and instructed the men to
-  treat women well in what they clothe and feed them with.[^10]
+  treat women well in what they clothe and feed them with.[^11]
 
     > **The same sermon contains the sentence about striking**, qualified there
     > as "a beating that is not painful." It is not quoted selectively here: the
@@ -367,10 +368,11 @@ Set out at [The Prophet Muhammad's ﷺ Marriage to Aisha](/aisha).
   testimony refers to the 2:282 documentation rule already discussed.
 - The word *naqṣ* means a shortfall in an amount, as a debt or a measure falls
   short. It is not the vocabulary of essence.
-- And the conduct of the man who said it is the check on any reading: he made
-  **Aisha** the community's teacher on its most sensitive law, and told his
-  Companions to take a third of their religion from a woman's narration. A man
-  who thought women's minds unreliable made one of them a primary legal source.
+- And the conduct of the man who said it is the check on any reading. **He made
+  Aisha the community's authority on its most intimate law**, and the Companions
+  went to her for rulings and accepted her corrections of them. A man who thought
+  women's minds unreliable does not leave one of them as a primary legal source
+  for everyone who comes after him.
 
 ### "A people who put a woman in charge will not succeed"
 
@@ -389,9 +391,18 @@ Set out at [The Prophet Muhammad's ﷺ Marriage to Aisha](/aisha).
   its scope in modern states. Women have held judicial and ministerial office in
   Muslim polities with juristic backing.
 - What is not in dispute is that the same tradition records the Prophet ﷺ taking
-  the decisive political advice of his life from his wife **Umm Salama** at
-  Hudaybiyya, when the entire community had refused to obey him and her counsel
-  broke the deadlock.
+  political advice from his wife **Umm Salama** at Hudaybiyya, at the worst
+  moment of his leadership. He had ordered the Companions to slaughter their
+  sacrifices and shave their heads; he gave the order three times and **not one
+  of them moved.** He went to Umm Salama and told her. She advised him to say
+  nothing to anybody, go out, and do it himself. He did, and the whole camp
+  followed.[^12]
+
+    > A community that held it improper for a woman to have authority does not
+    > preserve, in its most rigorously screened collection, the story of its
+    > founder breaking the gravest crisis of obedience in his career by doing
+    > what his wife told him.
+    {: .gloss }
 
 ### Covering
 
@@ -447,6 +458,12 @@ sources, because it is not about the sources.
   needs no fault, the wife whose husband broke her arm and was ordered to let her
   go. Custom (*ʿurf*) has repeatedly been mistaken for religion, and the
   mistaking is not accidental where it happens to suit the person making it.
+- **The law supplies the ground to condemn them on.** The maxim *la darar wa la
+  dirar* — **"there should be neither harming nor reciprocating harm"** — is a
+  Prophetic ruling, and it is one of the foundations from which the jurists built
+  the whole apparatus of remedy.[^13] Harm within a marriage is not merely
+  discouraged; it is unlawful in itself, and it grounds a wife's right to have the
+  marriage dissolved.
 - **Communities do not enforce what they teach.** The remedies exist; the social
   cost of using them falls on the woman.
 
@@ -458,7 +475,7 @@ which is where it has the best chance of being listened to.
 
 ## Conclusion
 
-The Prophet ﷺ said **"I was sent to perfect good character,"**[^11] and made a
+The Prophet ﷺ said **"I was sent to perfect good character,"**[^14] and made a
 man's treatment of his wife the measure of him. That is the standard the
 tradition sets for itself, and it is the standard by which its adherents should
 be judged.
@@ -497,15 +514,21 @@ woman asked it to.**
 
 [^6]: *Sahih Muslim* 989, 990 and 992; *Sunan Ibn Majah* 16, graded *sahih* with cross-reference to *Sahih al-Bukhari*. *Sunan Abi Dawud* 567 carries an additional clause — "but their houses are better for them" — whose gradings in that collection's apparatus disagree.
 
-[^7]: Muhammad Akram Nadwi, *al-Muhaddithat: The Women Scholars in Islam*, and the multi-volume Arabic biographical dictionary behind it. The volume count and the number of women documented have grown across editions and are not stated precisely here. [unverified]
+[^7]: Badr al-Din al-Zarkashi, *al-Ijaba li-irad ma istadrakathu ʿAʾisha ʿala al-Sahaba* — "the corrections Aisha made to the Companions," a work devoted entirely to that subject. Estimates of the proportion of the hadith corpus narrated by her vary between sources and none is given here.
 
-[^8]: *Sahih Muslim* 6500 and 6501, from Abu Hurayra. Version 6501 gives the sequence as "your mother, again your mother, again your mother, then your father, then your nearest relatives."
+[^8]: Muhammad Akram Nadwi, *al-Muhaddithat: The Women Scholars in Islam*, and the multi-volume Arabic biographical dictionary behind it. The volume count and the number of women documented have grown across editions and are not stated precisely here. [unverified]
 
-[^9]: *Jami' at-Tirmidhi* 3895, from Aisha, graded *sahih* / *hasan sahih*.
+[^9]: *Sahih Muslim* 6500 and 6501, from Abu Hurayra. Version 6501 gives the sequence as "your mother, again your mother, again your mother, then your father, then your nearest relatives."
 
-[^11]: *Muwatta Malik* 1640, graded *sahih li-ghayrihi*: "I was sent to perfect good character." Malik transmits it as a *balagha* — a report reaching him without a full chain — but it is corroborated through other routes, which is what the grading records.
+[^10]: *Jami' at-Tirmidhi* 3895, from Aisha, graded *sahih* / *hasan sahih*.
 
-[^10]: *Jami' at-Tirmidhi* 3087, graded *hasan* / *hasan sahih*, reporting the Farewell Hajj sermon: "I order you to treat women well… Behold! There are rights for you upon your women, and rights for your women upon you… their rights upon you are that you treat them well in clothing them and feeding them." The same report contains the phrase about striking, qualified as "a beating that is not painful."
+[^11]: *Jami' at-Tirmidhi* 3087, graded *hasan* / *hasan sahih*, reporting the Farewell Hajj sermon: "I order you to treat women well… Behold! There are rights for you upon your women, and rights for your women upon you… their rights upon you are that you treat them well in clothing them and feeding them." The same report contains the phrase about striking, qualified as "a beating that is not painful."
+
+[^12]: *Sahih al-Bukhari* 2731 and 2732, the long report of al-Miswar ibn Makhrama and Marwan on Hudaybiyya. After the treaty was written, "Allah's Messenger ﷺ said to his companions, 'Get up and slaughter your sacrifices and get your heads shaved.' By Allah, none of them got up, and the Prophet ﷺ repeated his order thrice. When none of them got up, he left them and went to Umm Salama and told her of the people's attitude towards him." Her advice, and the camp following once he acted, are in the same report.
+
+[^13]: *Sunan Ibn Majah* 2340 and 2341, graded *sahih* and *sahih li-ghayrihi* with one dissenting *da'if*; *Muwatta Malik* 1432, graded *sahih li-ghayrihi*, in the wording "there is no injury nor return of injury"; also the thirty-second of al-Nawawi's *Forty Hadith*.
+
+[^14]: *Muwatta Malik* 1640, graded *sahih li-ghayrihi*: "I was sent to perfect good character." Malik transmits it as a *balagha* — a report reaching him without a full chain — but it is corroborated through other routes, which is what the grading records.
 
 ## Qur'an verses cited
 

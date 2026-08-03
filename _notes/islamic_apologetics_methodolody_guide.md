@@ -160,7 +160,7 @@ When responding to a common criticism or misrepresentation, follow this sequence
 4. Establish the relevant Islamic teaching, text, or historical facts.
 5. Distinguish facts from interpretations and moral judgments.
 6. Correct factual, linguistic, historical, or conceptual errors.
-7. Distinguish Islamic teachings from the conduct of particular Muslims, governments, cultures, or political movements.
+7. Clearly distinguish Islamic teachings from the conduct of particular Muslims, governments, cultures, or political movements. And state clearly that these actions are done for worldly whims and are against the teachings and spirit of Islam.
 8. Address the strongest counterargument rather than the weakest version.
 9. Explain why the critic’s conclusion does or does not follow.
 10. Present the positive Islamic understanding of the subject.
