@@ -82,11 +82,37 @@ article (`consummation`, `preservation`) is what actually proves
 
 ## Qur'an citations
 
-**Never write Qur'anic Arabic from memory.** Fetch it:
+**Never write Qur'anic Arabic from memory.** It's on disk, split one file per
+surah so a lookup only ever touches a few KB — read or grep it rather than
+fetching:
 
-- Primary: `https://api.alquran.cloud/v1/ayah/<surah>:<ayah>/quran-uthmani`
-- Cross-check: `https://api.quran.com/api/v4/quran/verses/uthmani?verse_key=<s>:<a>`
-- Arabic surah names come from the same response (`data.surah.name`).
+- `_notes/quran_arabic/<NNN>.json` — the complete Uthmani text, `NNN` the
+  3-digit surah number (e.g. `002.json` for al-Baqarah), each file
+  `{"quran": [{chapter, verse, text}]}`. 114 files, 6,236 verses total.
+- `_notes/quran_clear/<NNN>.json` — Dr. Mustafa Khattab, *The Clear Quran*,
+  same per-surah layout. No terminal punctuation; existing citations carry
+  one, so add the full stop when quoting.
+- `_notes/quran_saheeh/<NNN>.json` — Saheeh International, same per-surah
+  layout.
+- `_notes/quran_surah_names.json` — one file, not split (14 KB) — Arabic and
+  English surah names/counts as `{"surahs": [{number, name_ar, name_en,
+  name_translation_en, ayahs}]}`, for citation labels.
+- Cross-check only if a verse looks suspect:
+  `https://api.quran.com/api/v4/quran/verses/uthmani?verse_key=<s>:<a>`.
+
+To pull a specific verse or range, `Grep` for `"chapter":<s>,"verse":<a>` with
+`-o` (only-matching) against the relevant `<NNN>.json` — this returns just the
+matched substring, not the surrounding file. Don't `Read` a whole surah file
+when only a few verses are needed; do use `Read` when quoting most or all of a
+short surah, since the per-surah split already keeps that small.
+
+**Choosing between the two English translations:** for any given verse, read
+both and quote whichever reads more powerfully and accurately to an
+English-only, non-Muslim reader — the one that lands as clear, direct (and
+most importantly best represents the intended Arabic meaning) rather than the
+one that's more literal or more devotionally worded. Don't default to always
+using the same translation; pick per-quotation. Attribute whichever one is
+quoted (see the markup below).
 
 Existing citations follow these conventions — match them:
 
