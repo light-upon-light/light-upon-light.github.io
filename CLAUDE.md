@@ -17,9 +17,7 @@ there is.
 **Commit to `main`. Never push.** Because the push is the publish, that step is
 the author's alone — never run `git push`, and don't offer to. Work goes
 straight onto `main`: no feature branches, no PRs. A branch cannot reach Pages,
-so it only adds a merge for someone else to do. Committing is safe precisely
-because it stops short of publishing, which is what leaves a reviewable diff
-sitting on `main` until the author decides it goes live.
+so it only adds a merge for someone else to do.
 
 The `github-pages` gem bundles `jekyll-optional-front-matter`, so **every
 markdown file the build can see becomes a page**, front matter or not, and lands
@@ -151,7 +149,9 @@ comparison when testing for it.
 Custom CSS lives in `_includes/head/custom.html` (the theme's override point).
 Arabic uses `.quran-arabic`, citation labels `.ayah-ref`. Amiri is loaded from
 Google Fonts so the ayah marker encloses its digits regardless of what the
-reader has installed.
+reader has installed. The theme sets `blockquote { font-style: italic }`, and
+Arabic has no true italic — browsers synthesise a slant that mangles the joins,
+so `.quran-arabic` cancels it with `font-style: normal`.
 
 Blockquotes carrying evidence come in three kinds, each with its own rule
 colour: **revealed text** (`{: .quote }`, gold `#a8792a`), a **source-led**
@@ -163,187 +163,22 @@ block — plain markdown, so MD033 stays as it is. Tag a quotation anywhere;
 only a link, or a prose aside, stays untagged and keeps the theme's dark rule.
 `_notes/islamic_apologetics_style_guide.md` has the full convention.
 
-Unlike the button colours below, that palette is **deliberately not the skin's**
-— it is chosen to sit beside dirt's warm accents on `#f3f3f3` without borrowing
-the link colour. `.src` sets `color`, never `opacity`, because opacity fades any
-link inside the block along with the text; at `#6f6152` it clears WCAG AA for
-small text at 5.4:1. Re-check these by hand if the skin changes.
-
-Every colour here has a dark counterpart in `assets/css/dark.scss` — see
-[Dark mode](#dark-mode) before changing any of them.
+That palette is **deliberately not the skin's**. `.src` sets `color`, never
+`opacity`, because opacity fades any link inside the block along with the text;
+at `#6f6152` it clears WCAG AA for small text at 5.4:1. Every colour here has a
+dark counterpart in `assets/css/dark.scss` — re-check both by hand if the skin
+changes.
 
 Anything that needs to be *in* `<body>` goes in `_includes/footer/custom.html`,
-the theme's other hook (`_layouts/default.html` includes it just inside the
-footer). `#floating-nav` lives there — markup, style, and script together,
-since it is self-contained. It holds two stacked buttons, `#toc-toggle` above
-`#back-to-top`, both revealed once the reader is one viewport down.
-
-All of it is hidden at `64em` and up, where the theme's sticky TOC sidebar is
-already on screen. Below that the TOC collapses inline to the top of the
-article, so the buttons are the only way back to it.
+the theme's other hook. `#floating-nav` lives there — markup, style, and script
+together — holding `#toc-toggle` above `#back-to-top`. Both appear once the
+reader is one viewport down and are hidden at `64em` and up, where the theme's
+sticky TOC sidebar is already on screen.
 
 Skin colours are hardcoded from `_sass/minimal-mistakes/skins/_dirt.scss` — the
 theme exposes its palette as Sass variables, not CSS custom properties, so an
 include cannot read them. Changing `minimal_mistakes_skin` means updating them
 by hand, in both palettes.
 
-### Dark mode
-
-`assets/css/dark.scss` compiles **the whole theme a second time** with a dark
-palette. `_includes/head/custom.html` links the result last in `<head>` and
-switches it on and off with the `<link media>` attribute:
-
-```text
-main.css   dirt skin, always applied
-dark.css   dark palette, media toggled — loads second, so it wins
-```
-
-**Custom properties cannot do this job.** A minimal-mistakes skin is a set of
-*Sass* variables and the theme runs Sass colour functions over them — `mix()`,
-`rgba()`, `yiq-contrasted()`. `mix(#fff, var(--x), 20%)` does not compile, so
-the palette has to be resolved at build time. Compiling twice costs ~70 KB
-minified (~10 KB gzipped) and in exchange covers every theme component,
-including ones the site doesn't use yet.
-
-Because both files come from the same partials, **every selector matches
-exactly and source order decides the winner**. Three consequences:
-
-- The `dark.css` link must stay the **last** stylesheet in the head. It is
-  already after the `<style>` block in the same include, which is what lets it
-  override the custom light-mode CSS there.
-- Dark variants of this repo's own CSS belong **in `dark.scss`**, not behind a
-  `prefers-color-scheme` block or an `html[data-theme]` selector somewhere else.
-  One toggled stylesheet is the single source of truth, and it is what makes the
-  no-JavaScript path come out right.
-- Rules defined in `_includes/footer/custom.html` are an inline `<style>` inside
-  `<body>`, so they come *after* `dark.css` and would win a tie. Their dark
-  counterparts are prefixed with `body` (`body #floating-nav button`) to raise
-  specificity. **Do not drop that prefix.**
-
-The palette is hand-derived from dirt — a night version of the same warm
-scheme — not one of the theme's stock dark skins, whose cool teal has nothing
-to do with this site. `dark.scss` lists the computed contrast ratios; re-check
-them by hand if any value changes. Two of the choices are not free:
-
-- `$primary-color` (`#6f5f48`) does two opposing jobs: it is the background
-  *behind* white text (`.nav__title`, `.btn--primary`) and the default
-  `blockquote` rule drawn *on* the page background. It is a compromise between
-  them, and the blockquote rule is then re-set after the import to decouple the
-  two. `#toc-panel .nav__title` and `#toc-close` need no dark rule at all
-  because of this — primary is dark in both modes, so white text still works.
-- `$active-color` (the TOC scrollspy highlight) has to stay dark enough that
-  the theme's `yiq-contrasted()` still picks white. The stock 80%-white value
-  would paint a near-white pill on a dark page.
-
-Dirt's base16 syntax colours are already a dark scheme, so they are carried over
-verbatim and code blocks look the same in both modes.
-
-**Mode selection.** The `media` attribute ships as `(prefers-color-scheme: dark)`,
-so a reader with JavaScript off still gets dark on a dark-preferring system. The
-inline script in `head/custom.html` pins it to `all` / `not all` once there is an
-explicit choice in `localStorage`, and mirrors the result onto
-`documentElement.dataset.theme`, which is what picks the button's icon and label.
-It runs in `<head>`, before the masthead is parsed, so the page never paints in
-the wrong mode and there is no frame where both icons show. Choosing the mode the
-system already prefers **clears** the stored value rather than pinning it, so the
-site goes back to following the system.
-
-`_includes/masthead.html` is a **fork of the theme's file**, verbatim for
-4.28.0 apart from the `#theme-toggle` button. The theme has no hook inside the
-masthead. If the `remote_theme` pin in `_config.yml` moves, diff this file
-against the new release. GreedyNav measures the space left for nav links by
-subtracting the title and the search toggle from the nav width and knows nothing
-about `#theme-toggle`, so it thinks it has ~2.6rem more room than it does —
-harmless while `_data/navigation.yml` holds one short link, worth revisiting if
-the nav grows.
-
-### The TOC drawer
-
-`#toc-toggle` opens `#toc-panel`, a full-height panel sliding in from the right
-edge. The panel is built at load from a **clone** of the theme's TOC and
-appended to `<body>`; it is always mounted and always `position: fixed`, parked
-off-screen behind `visibility: hidden`.
-
-**Do not "improve" this by repositioning the real `.sidebar__right`.** Two
-independent things break, and both were shipped and reverted:
-
-- Going `position: fixed` pulls that node out of the document flow. It is a
-  tall block near the top of the article — on `/quran` roughly a thousand
-  pixels — so everything below it jumps up by its full height. A reader
-  scrolled halfway down watches the page cut to a different section.
-- The theme puts `animation: intro` on `#main`, and an element with an
-  animation in effect is a stacking context. From inside it no `z-index` can
-  lift the panel above a body-level backdrop, so the backdrop paints *over*
-  the panel, greying it out and swallowing every tap. Raising `z-index` looks
-  like the fix and is not one.
-
-Cloning sidesteps both: the article is never touched, and the panel is already
-a child of `<body>`. The theme's `.toc` / `.toc__menu` rules are unscoped, so
-the clone is styled for free. Keep the clone's ids unique — only the clone's
-root gets one (`toc-drawer`).
-
-**The clone is a bare `<nav>` wrapping a `<div class="toc">`.** That looks
-fussy and both halves are load-bearing — moving the class onto the `nav`, or
-dropping the `nav` for a `div`, each breaks something different:
-
-- **It must be a `<nav>`.** `_base.scss` scopes the list reset to `nav`:
-  `li { list-style: none }`, `a { text-decoration: none }`, `ul { margin: 0;
-  padding: 0 }`, plus two spacing rules. Any other element and the menu comes
-  back with bullets, underlines and the browser's default indent.
-- **The `<nav>` must not match `nav.toc a`.** The theme drives its scrollspy
-  with `new Gumshoe("nav.toc a")`, and Gumshoe resolves duplicate links to the
-  *last* match in document order. A cloned `<nav class="toc">` therefore
-  steals the highlight from the real TOC and keeps it even at desktop width,
-  where the panel is `display: none` and the sticky sidebar is the only TOC on
-  screen — the visible one silently stops marking anything.
-
-Holding `toc` on the inner div satisfies both, since the theme's `.toc` rules
-never mention the element they sit on. The wrapper then needs
-`#toc-panel > nav { display: flex; flex: 1 1 auto; min-height: 0 }` to pass
-the panel's height through, or the menu has nothing to scroll within.
-`syncActive()` copies the current `li.active` onto the clone by matching
-`href` when the panel opens, so both highlight. Once per open is enough: the
-backdrop blocks scrolling, so the section cannot change while the panel is up.
-
-Check this at *both* widths, and compare the clone's computed styles against
-the real TOC — `textDecorationLine`, `listStyleType`, the nested `ul` padding
-and the link indent should match exactly. The desktop breakage is invisible
-from a phone viewport, and vice versa.
-
-**The scroll lock cannot be the theme's `overflow--hidden`.** `overflow: hidden`
-on `<body>` establishes a block formatting context, and reflowing the theme's
-layout under it shortens the page by ~1400px — the same visible lurch, from a
-different cause. `touch-action: none` on the backdrop swallows pan gestures
-instead, with `overscroll-behavior: contain` on `.toc__menu` so a flick past
-the end of the list does not chain into the article. Neither touches layout.
-Focus moves with `preventScroll: true` for the same reason.
-
-Width is `min(86vw, 21rem)` — the `vw` term guarantees a strip of backdrop
-survives on the left, so there is always somewhere to tap to dismiss. Running
-flush to the top and right edges means the theme's `.toc` border radius and
-`.nav__title` corner rounding both have to be zeroed, or they show as notches
-against the viewport corners.
-
-Making `.nav__title` a flex container to centre the close `×` drops the
-whitespace between the theme's icon and its label; `gap` puts it back.
-
-Pages without a TOC (home, about) have no `.sidebar__right` at all. The script
-detects that, builds no panel, and sets `.no-toc`, which hides `#toc-toggle`
-and leaves `#back-to-top` alone.
-
-The regression test for all of this is three numbers — `scrollY`,
-`documentElement.scrollHeight`, and the `getBoundingClientRect().top` of a
-heading — sampled before opening, while open, and after closing. All three must
-be identical across the three samples. Then `document.elementFromPoint` over
-the panel must return a TOC `<a>`, not `#toc-backdrop`.
-
-Headless Chrome is poor at verifying this: it will not composite scrolled
-regions (screenshots come out blank), `--virtual-time-budget` freezes the CSS
-transition clock so opacity and transform read their *start* values, and the
-window cannot go narrower than a ~504px viewport. Force the end state directly
-— add `is-visible`, click the toggle, disable transitions — and assert on
-`getBoundingClientRect` and class lists instead of pixels.
-
-The theme sets `blockquote { font-style: italic }`. Arabic has no true italic,
-so browsers synthesise an oblique slant that mangles the joins — `.quran-arabic`
-cancels it with `font-style: normal`.
+**Dark mode and the TOC drawer have their own failure modes. Read
+`_notes/theme_internals.md` before changing either.**
