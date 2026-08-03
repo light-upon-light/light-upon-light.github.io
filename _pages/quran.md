@@ -289,7 +289,7 @@ The argument of this section is **cumulative**. No single episode below is offer
 
 If the Qur'an were his own composition, the way it treats him is hard to explain. It corrects him, restricts him, and repeatedly withholds the things a man in his position would want.
 
-1. It **rebukes him publicly**, and the rebukes went into the permanent liturgy of everyone who would follow him. He once turned away from a blind man who interrupted him while he was occupied with the chiefs of Mecca; he was faulted for a concession he made to please his wives; and he was faulted again for excusing men he should have questioned.
+1. It **rebukes him publicly**, and the rebukes went into the permanent liturgy of everyone who would follow him. He was pressing the message on the chiefs of Mecca when a blind man interrupted to ask him something, and he frowned and turned away; a whole chapter opens by describing him doing it. He swore off something lawful to settle a quarrel between his wives, and was corrected for that. He let men out of marching to Tabuk on excuses he had not tested, and was corrected for that too.
     > "He frowned and turned away, because the blind man came to him. But how do you know? Perhaps he might be purified, or he might be reminded, and the reminder would benefit him." (**Sūrat ʿAbasa 80:1-4**), Dr. Mustafa Khattab, *The Clear Quran*
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿عَبَسَ وَتَوَلَّىٰٓ ۝١ أَن جَآءَهُ ٱلْأَعْمَىٰ ۝٢ وَمَا يُدْرِيكَ لَعَلَّهُۥ يَزَّكَّىٰٓ ۝٣ أَوْ يَذَّكَّرُ فَتَنفَعَهُ ٱلذِّكْرَىٰٓ ۝٤﴾ <span class="ayah-ref">سُورَةُ عَبَسَ</span></div>
@@ -312,6 +312,9 @@ If the Qur'an were his own composition, the way it treats him is hard to explain
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَتُخْفِى فِى نَفْسِكَ مَا ٱللَّهُ مُبْدِيهِ وَتَخْشَى ٱلنَّاسَ وَٱللَّهُ أَحَقُّ أَن تَخْشَىٰهُ﴾ <span class="ayah-ref">[سُورَةُ الأَحۡزَابِ: ٣٧]</span></div>
     {: .quote }
+
+    > The occasion is his marriage to Zaynab bint Jahsh, who had been married to Zayd ibn Haritha, the freedman he had brought up as a son (*Sahih al-Bukhari* 4787). What he was keeping to himself was that the marriage was coming; what he feared was what Arabia would make of a man marrying the former wife of an adopted son. The verse continues by giving the reason it went ahead — so that no believer would be barred from such a marriage — and the same sura states outright that he is not the father of any of their men (**33:40**).
+    {: .src }
 1. It gives him **no authority over the text itself**. He cannot alter it, cannot withhold any part of it however much it costs him, and cannot hurry it.
     > "Say, ˹O Prophet,˺ 'It is not for me to change it on my own accord. I only follow what is revealed to me.'" (**Sūrat Yūnus 10:15**), Dr. Mustafa Khattab, *The Clear Quran*
     >
@@ -425,14 +428,15 @@ The forms of veneration his society knew how to give were all offered to him, an
 
     > Of everything in his biography, this tests his motive most directly. A grieving father with a devoted following was handed an omen the crowd had already read in his favour, and he took it apart in public on the day he buried his son.
     {: .gloss }
-1. He **conceded the limits of his own knowledge and judgment**, in public, on the two occasions where conceding them cost him most. Passing farmers pollinating their date palms he suggested it might do better left alone; the yield fell, and when they came back to him he answered plainly. To parties bringing him a dispute he said that his verdict might be wrong, and that a favourable judgment won by better advocacy was worth nothing.
+1. He **conceded the limits of his own knowledge and judgment**, in public, on the two occasions where conceding them cost him most. The first was about farming. He passed a group in Medina pollinating their date palms by hand and remarked that the trees might do just as well left alone. They took the remark as an instruction, stopped, and the crop failed. When they came back and told him, he did not explain the failure away or claim to have been misunderstood. He separated the message he had been sent with from his own opinion about a practical trade, and put the trade on their side of the line.
     > "You have better knowledge of the affairs of your world." — *Sahih Muslim* 2363
     {: .quote }
 
+    The second was about his own verdicts. Men brought him their disputes to decide, and he told them what a decision from him was worth: he heard two accounts and ruled on what he heard, so the better speaker could win a case he had no right to win. Winning it settled nothing — the property still belonged to the other man, and taking it was worse than losing.
     > "I am only a human being. You bring me your disputes, and one of you may be more persuasive in argument than another, so I judge by what I hear. If I award someone what belongs to his brother, let him not take it: I am only handing him a piece of the Fire." — *Sahih al-Bukhari* 2680 (also 7169)
     {: .quote }
 
-    > A man whose authority rests on privileged access to the unseen does not draw that line, and certainly not immediately after being shown to be wrong. Drawing it is what makes the rest of what he says testable.
+    > A man whose authority rests on privileged access to the unseen does not draw either line, and certainly not the first of them in the moment he has just been shown to be wrong. Drawing them is what makes the rest of what he says testable.
     {: .gloss }
 
     > These close, one at a time, the usual routes by which a movement turns its founder into something else: the honorific, the shrine, the claim to know everything, the ruling that cannot be questioned. He shut each of them while he was alive and in a position to have left them open.
@@ -665,11 +669,11 @@ Slaves, orphans, animals, and neighbours could neither repay a kindness nor puni
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿لَآ إِكْرَاهَ فِى ٱلدِّينِ ۖ قَد تَّبَيَّنَ ٱلرُّشْدُ مِنَ ٱلْغَىِّ﴾ <span class="ayah-ref">[سُورَةُ البَقَرَةِ: ٢٥٦]</span></div>
     {: .quote }
-1. His **own dealings with individual non-Muslims** ran the same way. He stood for the funeral procession of a Jewish man, and when it was pointed out that the deceased was a Jew he answered with a single question; he visited a sick Jewish boy who had served him, sitting by his head.
+1. His **own dealings with individual non-Muslims** ran the same way. A funeral procession went past him and he stood up for it. He was told that the dead man was a Jew, meaning that he need not have bothered, and he stayed standing and put one question back to them.
     > "Was he not a soul?" — *Sahih al-Bukhari* 1312, 1313
     {: .quote }
 
-    > *Sahih al-Bukhari* 1356, 5657 for the visit.
+    > A Jewish boy who worked for him fell ill, and he went to the house and sat by the boy's head — *Sahih al-Bukhari* 1356, with the same visit at 5657 under the chapter on visiting a sick unbeliever. He invited the boy to Islam; the boy looked to his father, who told him to do as Abu al-Qasim said.
     {: .src }
 1. He attached **legal protection to people outside the faith**, with a severe penalty for wronging a non-Muslim under state protection and a bar on killing non-combatants in war.
     > "Whoever killed a person having a treaty with the Muslims shall not smell the fragrance of Paradise, though its fragrance is perceived from a distance of forty years of travel." — *Sahih al-Bukhari* 3166, 6914
@@ -715,7 +719,7 @@ Most of what he laid down concerns things a religious founder need not have addr
 1. Three things were placed **outside private ownership**, in a desert economy where controlling the first of them was the readiest form of power.
     > "Muslims are partners in three: water, pasture, and fire." — *Sunan Abi Dawud* 3477, graded sound
     {: .quote }
-1. **Trade** was bound to disclosure. Putting his hand into a heap of grain in the market and finding it wet under the dry top, he made the rule on the spot.
+1. **Trade** was bound to disclosure. He passed a heap of food for sale in the market and pushed his hand down into it; his fingers came out wet, though the top of the heap was dry. The seller told him rain had got into it, and he asked why the wet grain had not been put where a buyer would see it.
     > "Why did you not put it on top of the food so that people could see it? Whoever deceives is not one of us." — *Sahih Muslim* 102
     {: .quote }
 1. The **smallest public acts** were given weight, down to clearing an obstruction out of a road.
@@ -744,9 +748,12 @@ The method is as well recorded as the content, and it is consistent: slow the si
 1. He **repeated a sentence three times** so that it would be understood, and spoke slowly enough that a listener could have counted the words.
     > *Sahih al-Bukhari* 95 and 3568. Aisha's complaint about a man who "never talked so quickly and vaguely" is preserved in the second.
     {: .src }
-1. He **joked, and did not lie in it**, which was noticed at the time and put to him directly. He told a man asking for a mount that he would give him the child of a she-camel, and left him to work out that every camel is one; he called Anas "the one with two ears".
-    > "They said: Messenger of God, you joke with us. He said: I do not say anything but the truth." — *Jami al-Tirmidhi* 1990, graded sound (see *Sunan Abi Dawud* 4998 and 5002)
+1. He **joked, and did not lie in it**, which was noticed at the time and put to him directly. A man came asking for a mount, and he answered that he would give him the child of a she-camel. The man objected that a young camel was no use to him — and was told that every camel is the child of a she-camel, the full-grown one he was about to be given included. Anas, who had served him since boyhood, he called "the one with two ears," which is true of everybody and so is not a lie either.
+    > "They said: Messenger of God, you joke with us. He said: I do not say anything but the truth." — *Jami al-Tirmidhi* 1990, graded sound
     {: .quote }
+
+    > *Sunan Abi Dawud* 4998 for the camel and 5002 for the nickname, both graded sound. The joke in each case is a statement that holds up if it is taken apart.
+    {: .src }
 1. The people who sat with him recorded what he was like in **ordinary company**.
     > "The Messenger of God ﷺ did not keep himself from me from the time I accepted Islam, and he never saw me without smiling at me." — Jarir ibn Abdullah, *Sahih al-Bukhari* 3035
     {: .quote }
