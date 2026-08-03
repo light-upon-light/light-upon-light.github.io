@@ -37,7 +37,7 @@ did, transmitted with a named chain and graded for reliability; *Sahih
 al-Bukhari* and *Sahih Muslim* are the most rigorously screened collections, and
 reports graded *da'if* are weak and cannot carry a legal ruling on their own.
 
-## The objection stated clearly
+## The objection
 
 1. Islam kills people for changing their minds about God, which is
    incompatible with freedom of conscience at the most basic level.
@@ -107,8 +107,9 @@ life.
 The classical position rests on hadith rather than on the Qur'an. Two reports
 carry it, and they do not say quite the same thing.
 
-- The short and most-quoted text comes through Ibn Abbas, in a report about Ali
-  burning a group of *zanadiqa* — heretics or subversives:
+- The short and most-quoted text comes through Ibn Abbas, in a report about
+  Ali, the Prophet's ﷺ cousin and son-in-law, burning a group of *zanadiqa* —
+  heretics or subversives:
 
     > Ibn Abbas said: "Had I been in his place I would not have burnt them, as
     > the Prophet ﷺ said, 'Do not punish anybody with Allah's punishment.' I
@@ -139,7 +140,7 @@ carry it, and they do not say quite the same thing.
   *zanadiqa*, and Ibn Abbas is discussing the manner of their execution, not
   establishing a rule for private unbelief.
 
-## The treason reading
+## Apostasy as political defection
 
 In a seventh-century polity there was no distinction between religious
 affiliation and political allegiance. Leaving the Muslim community was not a
@@ -147,10 +148,13 @@ change of private opinion; it was **switching sides in a conflict where the
 sides were defined religiously**. Three lines of evidence support reading the
 reports that way.
 
-- **The wars of the ridda were about state obligations, not belief.** When
-  tribes broke away after the Prophet's ﷺ death, Umar objected to fighting them
-  on the grounds that they still professed the testimony of faith. Abu Bakr's
-  answer was not that they had left Islam in their hearts:
+- **The wars of the ridda were about state obligations, not belief.** When the
+  Prophet ﷺ died in 632, many Arabian tribes renounced their allegiance to
+  Medina and stopped paying *zakat*; Abu Bakr, the first caliph, fought a
+  series of campaigns — the *ridda* wars — to hold the polity together. Umar,
+  who would become the second caliph two years later, objected to fighting
+  them on the grounds that they still professed the testimony of faith. Abu
+  Bakr's answer was not that they had left Islam in their hearts:
 
     > "I swear by God that I will certainly fight those who make a distinction
     > between prayer and *zakat*, for *zakat* is what is due from property."
@@ -187,7 +191,8 @@ reports that way.
     {: .gloss }
 
 - **He signed away his own side's converts to secure a truce.** At Hudaybiyya,
-  Suhayl ibn Amr insisted on a clause that anyone coming from Mecca to the
+  the 628 truce between the Prophet ﷺ and the Quraysh of Mecca, Suhayl ibn Amr
+  insisted on a clause that anyone coming from Mecca to the
   Prophet ﷺ be returned to the Quraysh **"even if he embraced your religion."**
   The Muslims objected bitterly; the Prophet ﷺ accepted the term and honoured it,
   sending back Abu Jandal, who had arrived in fetters.[^15]
@@ -284,7 +289,7 @@ difficult to satisfy even when everyone involved is trying to satisfy them.
     > failing on purpose.
     {: .gloss }
 
-### The maxim about doubt, stated honestly
+### The maxim about doubt
 
 Muslim jurists worked with the maxim *idraʾu al-hudud bi'l-shubuhat* — "avert
 the fixed penalties by doubts." It is genuinely operative across the schools and
@@ -326,9 +331,9 @@ which is unusual in a penal code.
 The classical jurists did not treat the *hudud* as applicable regardless of
 circumstances.
 
-- **Umar ibn al-Khattab suspended the penalty for theft during the famine year**
-  known as the *ʿam al-ramada*, on the reasoning that a man stealing to eat is
-  not the thief the penalty contemplates. The report is transmitted in the
+- By then the caliph, **Umar ibn al-Khattab suspended the penalty for theft
+  during the famine year** known as the *ʿam al-ramada*, on the reasoning that
+  a man stealing to eat is not the thief the penalty contemplates. The report is transmitted in the
   juristic literature rather than in the canonical hadith collections, and is
   cited by jurists as precedent for suspending a *hadd* when its social
   preconditions fail.[^14]

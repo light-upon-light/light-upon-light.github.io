@@ -20,9 +20,10 @@ share: true
 A woman came to the Prophet ﷺ and told him she had a complaint. **"I do not see
 but that everything is for the men, and I do not see anything being mentioned for
 the women."** Her name was Umm Umara — Nusayba bint Kaʿb, who would later defend
-him with her own body at Uhud. The answer she got was a passage of the Qur'an
-naming men and women separately in ten consecutive pairs and promising them the
-same reward.[^1]
+him with her own body at the Battle of Uhud, when the Muslim line broke and
+fighting reached the Prophet ﷺ himself. The answer she got was a passage of the
+Qur'an naming men and women separately in ten consecutive pairs and promising
+them the same reward.[^1]
 
 That exchange is the shape of the subject. A woman raised an objection, in
 person, and the objection was answered rather than dismissed. This page sets out
@@ -41,7 +42,7 @@ a report graded *da'if* is weak. *Mahr* is the marriage gift paid by the husband
 to the wife herself. *Khulʿ* is divorce initiated by the wife. The *Companions*
 are the generation who knew the Prophet ﷺ personally.
 
-## The objection stated clearly
+## The objection
 
 Put at its strongest, the case against is not one claim but a list, and the list
 is what gives it force:
@@ -391,8 +392,9 @@ Set out at [The Prophet Muhammad's ﷺ Marriage to Aisha](/aisha).
   its scope in modern states. Women have held judicial and ministerial office in
   Muslim polities with juristic backing.
 - What is not in dispute is that the same tradition records the Prophet ﷺ taking
-  political advice from his wife **Umm Salama** at Hudaybiyya, at the worst
-  moment of his leadership. He had ordered the Companions to slaughter their
+  political advice from his wife **Umm Salama** at Hudaybiyya, the 628 truce
+  with the Quraysh of Mecca and the worst moment of his leadership. He had
+  ordered the Companions to slaughter their
   sacrifices and shave their heads; he gave the order three times and **not one
   of them moved.** He went to Umm Salama and told her. She advised him to say
   nothing to anybody, go out, and do it himself. He did, and the whole camp

@@ -35,7 +35,7 @@ reliability; *Sahih al-Bukhari* and *Sahih Muslim* are the two most rigorously
 screened collections. *Mahr* is the marriage gift a husband pays to the wife
 herself.
 
-## The objection stated clearly
+## The objection
 
 At full strength:
 

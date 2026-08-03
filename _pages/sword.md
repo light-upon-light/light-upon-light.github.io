@@ -36,7 +36,7 @@ collections. *Jizya* is the tax non-Muslims paid under Muslim rule, treated
 separately in [The Jizya](/jizya). The *Companions* are the generation who knew
 the Prophet ﷺ personally.
 
-## The objection stated clearly
+## The objection
 
 Put at its strongest, the argument runs:
 
@@ -246,8 +246,9 @@ civilians. The rules recorded are the opposite, and they are well attested.
     {: .src }
 
 - One report gives the reasoning out loud, and shows the order being sent to a
-  named commander in the field. Hanzala al-Katib describes the Prophet ﷺ coming
-  upon the body of a woman the army had gathered around:
+  named commander in the field, Khalid ibn al-Walid, one of the Muslims' most
+  prominent generals. Hanzala al-Katib describes the Prophet ﷺ coming upon the
+  body of a woman the army had gathered around:
 
     > "This one was not among those who were fighting." Then he said to a man:
     > "Go to Khalid ibn al-Walid and tell him that the Messenger of Allah ﷺ
@@ -263,8 +264,9 @@ civilians. The rules recorded are the opposite, and they are well attested.
 
 - The standing charge to commanders forbids treachery, mutilation, and looting
   alongside the killing of children.[^1]
-- Abu Bakr's instructions to the armies sent to Syria extend the protection
-  further — no killing of women, children or the aged and infirm; no felling of
+- Abu Bakr — the Prophet's ﷺ closest companion, and the first caliph after his
+  death — gave instructions to the armies sent to Syria that extend the
+  protection further — no killing of women, children or the aged and infirm; no felling of
   fruit trees; no destruction of inhabited places; no slaughter of livestock
   except for food; monks in monasteries to be left alone.
 

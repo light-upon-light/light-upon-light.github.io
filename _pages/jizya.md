@@ -37,7 +37,7 @@ something the Prophet ﷺ said or did, graded for reliability by specialists;
 *Sahih al-Bukhari* and *Sahih Muslim* are the two most rigorously screened
 collections.
 
-## The objection stated clearly
+## The objection
 
 The strongest version of the criticism is not that a tax existed. It is that the
 tax was **designed to coerce belief**. Put as an argument:

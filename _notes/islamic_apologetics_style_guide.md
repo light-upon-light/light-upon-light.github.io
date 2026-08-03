@@ -90,6 +90,8 @@ Most pages do not.
 - Give each paragraph one clear purpose.
 - Follow the logic of the subject, not a fixed formula.
 - Use headings only when they improve navigation.
+- Name what a section argues, not the act of stating it or a clever turn of
+  phrase. Titles that describe the writing read as leaked process notes.
 - Use bullets only for genuinely list-like information — on prose-led pages. On
   bullet-led pages see *Page format* above.
 - Keep paragraphs proportional to their importance.
@@ -106,6 +108,7 @@ Most pages do not.
 - Include relevant nuance without adding empty caveats.
 - Do not invent quotations, experiences, or opinions.
 - When an incident is the evidence, narrate it: who was there, what they did, what happened next.
+- Identify a person or event on first mention — role, title, era — so the reader can judge why the example carries weight. Never give someone a title before they held it.
 - Give what he said, not the fact that he said it.
 - Do not compress an episode into a participial phrase, or stack two incidents in one sentence.
 - Represent each position at its full intended strength. Do not replace a precise claim with a safer, vaguer, or more moderate version.

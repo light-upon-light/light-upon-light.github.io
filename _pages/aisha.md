@@ -29,7 +29,7 @@ Nothing here argues that anyone today should marry a nine-year-old. Two sections
 
 **A note on sources.** A *hadith* is a report of something the Prophet said, did, or permitted, transmitted with a named chain of narrators and graded by specialists for reliability. *Sahih al-Bukhari* and *Sahih Muslim* are the two collections Sunni Muslims regard as the most rigorously screened; a report in both is about as strong as this material gets. The *Companions* are the generation who knew him personally and are the first link in almost every chain.
 
-## The objection stated clearly
+## The objection
 
 The version worth answering is as follows:
 
