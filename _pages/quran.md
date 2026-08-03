@@ -220,7 +220,6 @@ share: true
 
 > *Note: These are brief points highlighting key ideas. While more general verification and further details can be found through research, some links to helpful videos are provided above.*
 
-
 ## The Messenger of God ﷺ
 
 Everything described above was recited by **one man** who could **neither read nor write**, over twenty-three years, in seventh-century Arabia. The Qur'an cannot be separated from the life of the man who delivered it, and that life is documented in unusual detail — by his followers, his family, his servants, and his enemies.
@@ -1045,7 +1044,6 @@ The more of his life a person examines, the harder it becomes to explain as anyt
 
 - The following is a playlist, that is meant to accompany this page, on miraculousness of the Qur'an and various other evidences and topics about God and Islam:
     > [Evidence for God and Islam (Youtube Playlist)](https://youtube.com/playlist?list=PLwIWQeA8Aq55xC3RctNBswajRBuWgl7Tr)
-
 
 ## Links
 

@@ -117,7 +117,7 @@ quoted (see the markup below).
 Existing citations follow these conventions — match them:
 
 | Case | Form |
-|---|---|
+| --- | --- |
 | Whole verse | `﴿…verse… ۝٤٨﴾` + surah name in the trailing label |
 | Contiguous verses | one bracketed unit, a marker after each verse, one surah name |
 | Partial quotation | `﴿…fragment…﴾` + `[سُورَةُ النِّسَاءِ: ١٩]`, **no** marker |
@@ -147,6 +147,12 @@ block.
 `.markdownlint.json` permits only `div` and `span` under MD033 (and turns off
 MD013 line length) precisely because of this pattern. A new inline element means
 updating that config, not quietly failing the lint.
+
+The bare `>` line and the kramdown IAL tag sitting directly under a blockquote
+(no blank line, so it's a lazy continuation) both look like linter violations —
+MD028 (blank line inside blockquote) and MD027 (multiple spaces after
+blockquote symbol) — but are the intended markup. Both are disabled in
+`.markdownlint.json`.
 
 ### The bracket trap
 

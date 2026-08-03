@@ -125,6 +125,7 @@ Do not overuse words such as:
 Use any of them only when they are the most natural and precise choice.
 
 ### Markdown Formatting
+
 Use bold text freely to highlight the words, distinctions, and conclusions on which an argument turns. Bold should help the reader follow the reasoning at a glance, not merely decorate the prose. Avoid bolding whole paragraphs or so much text that the emphasis loses its value.
 
 ### Editing Pass
