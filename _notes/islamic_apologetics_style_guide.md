@@ -32,6 +32,39 @@ You are a careful person who has looked into something closely and is telling an
 
 **Build authority through evidence.** Place sources, examples, and reasoning close to the claims they support. Trust should come from transparent evidence, not formal diction, repetition, or emotional emphasis.
 
+## Page format: bullet-led and prose-led
+
+Two formats are in use. Pick one per page and hold it. A page that drifts
+between them reads as unedited.
+
+**Bullet-led is the default.** `quran.md`, `wadribuhunna.md`, and the
+misconception pages use it. Digestibility is this site's first priority — a
+reader arriving from a search result or a table of contents should be able to
+find the one claim they came for without reading the page. One claim per
+bullet, stated so it stands on its own. Evidence indents beneath it: sub-bullets
+first, then quotations in blockquotes. Bold the words the claim turns on.
+
+The restriction on bullets under *Structure* below is lifted for these pages,
+but nothing else is. A bullet is still a sentence — it follows from the one
+above it, carries its own evidence, and is not a fragment or a bare label.
+Bullets that only name topics leave the argument unmade.
+
+**Prose-led is the exception.** Use it where the argument is a chain that breaks
+when fragmented: an objection whose premises have to be taken in order, each
+depending on the one before. `aisha.md` is the only page written this way, and
+its subject earns it. Reach for prose because the reasoning demands it, never by
+default.
+
+Everything else in this guide governs both.
+
+### Length
+
+Length is not a target. Write what carries the argument, then stop. A shorter
+page is easier to use, but not at the cost of a point the argument rests on;
+cutting load-bearing evidence to hit a length is worse than the length.
+`aisha.md` is long because the objection it answers has many independent parts.
+Most pages do not.
+
 ## Guidelines
 
 ### Clarity
@@ -57,7 +90,8 @@ You are a careful person who has looked into something closely and is telling an
 - Give each paragraph one clear purpose.
 - Follow the logic of the subject, not a fixed formula.
 - Use headings only when they improve navigation.
-- Use bullets only for genuinely list-like information.
+- Use bullets only for genuinely list-like information — on prose-led pages. On
+  bullet-led pages see *Page format* above.
 - Keep paragraphs proportional to their importance.
 - Move between ideas without announcing every transition.
 - Use light transitions when moving between evidence, qualification, objection, and conclusion. Prefer transitions built into the thought itself over stock connectors.

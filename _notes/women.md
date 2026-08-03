@@ -1,7 +1,7 @@
 - https://youtu.be/ZdsFKC50zm4 this whole vid and the one before it.
 - https://youtu.be/10S94wqDN0o?si=vNis6paLDU6pyvhE this too
 - Ma akramohon ela kareem wa ma ahanohon ela la2eem.
-- Khairokom khairokom le ahleh wa ana khayrokom le ahly.
+- Khairokom khairokom le ahleh wa ana khayrokom le ahly (ahl here means wife).
 - Estawso bel nesa2 khayran 3 marrat (or something) fe khutbat al wada3.
 - la yofleh qawman walaw amrahom emra2a. This is actually not a diss for women. It’s a warning for men who put their own responsibilities and burdens on women, when they are not their responsibilities. We do not see leading as a privilege, it’s first and foremost a responsibility and a burden and God has decreed that responsibility and burden to be on men. So men who put their own responsibilities on women will not be successful.
 - It’s not that they can’t provide for themselves or protect themselves in certain scenarios, but God put that responsibility on men.

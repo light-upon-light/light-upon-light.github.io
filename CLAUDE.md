@@ -12,6 +12,12 @@ _notes\islamic_apologetics_methodolody_guide.md for the analytical approach —
 it governs articles on Qur'anic miraculousness, objections to the Prophet ﷺ,
 and moral/theological/legal criticisms of Islamic teachings.
 
+Articles come in two formats and the style guide's *Page format* section governs
+the choice. **Bullet-led is the default** — one claim per bullet, evidence
+indented beneath it — because digestibility is this site's first priority.
+Prose-led is for arguments that break when fragmented; `aisha.md` is the only
+page that qualifies. Don't imitate it by default.
+
 ## What gets published
 
 GitHub Pages builds from `main`, so pushing is publishing. There is no CI, no
@@ -164,6 +170,34 @@ blockquote symbol) — but are the intended markup. Both are disabled in
 `U+FD3F` is named "RIGHT" but is `Ps` (**open**). They do not bidi-mirror. So in
 logical order the **opening** bracket is `U+FD3F`. Emit both by codepoint rather
 than pasting glyphs.
+
+## Hadith citations
+
+**Never write a hadith number from memory.** `sunnah.com` returns 403 to
+WebFetch and its API needs a key requested by hand, so a reference cannot be
+checked online from here. The corpus is on disk instead, numbered exactly as
+sunnah.com numbers it — 36,512 hadith across the six canonical collections,
+Malik, and three "forties", English and Arabic:
+
+- `_notes/hadith/en/<collection>.jsonl` — `{"n", "b", "h", "g", "en"}`
+- `_notes/hadith/ar/<collection>.jsonl` — `{"n", "ar"}`
+
+One hadith per line. `Grep` for `^\{"n": <number>,` to check a reference, or
+grep the `en` files for a distinctive phrase to find one whose number is
+unknown. Roughly one record in eight is too long for the Grep tool, which
+reports `[Omitted long matching line]`; read those with the `uv run python`
+one-liner in `_notes/hadith/README.md`.
+
+**Check `g` before citing anything outside Bukhari and Muslim.** It carries the
+authenticity grading and is empty for those two by design, since inclusion is
+itself the grading. A report graded `Daif` is weak and cannot be presented as
+evidence without saying so.
+
+Musnad Ahmad, al-Darimi, Riyad as-Salihin, and al-Adab al-Mufrad are **not**
+covered, and existing pages cite Ahmad. Give collection, narrator, and content
+without a number rather than reconstructing one. `_notes/hadith/README.md` has
+the provenance, the verification performed, and why the larger
+`AhmedBaset/hadith-json` dataset is unusable here.
 
 ## Editing Arabic text
 
