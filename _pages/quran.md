@@ -14,13 +14,13 @@ toc_sticky: true
 share: true
 ---
 
-> The points below provide evidence for the **miraculous nature** of the **Qur'an** and the **prophethood** of **Prophet Muhammad** ﷺ. Few of them amount to a miracle or a decisive proof on their own; taken together they make a compelling case for the Qur'an's divine origin and authenticity of the prophet's mission. -- *note: this page is a work in progress*
+> This page provides evidence for the **miraculous nature** of the **Qur'an** and the **prophethood** of **Prophet Muhammad** ﷺ. While each point may not amount to a miracle or a decisive proof on its own, taken together they make a compelling case for the Qur'an's divine origin and authenticity of the prophet's mission. -- *note: this page is a work in progress*
 
 ## The Book
 
 ### Mode of Revelation
 
-1. Revealed **entirely by oral recitation** through Prophet Muhammad ﷺ, a man of seventh-century Mecca who could **neither read nor write**. The Qur'an says so to the one audience that could have contradicted it.
+1. Revealed **entirely by oral recitation** through Prophet Muhammad ﷺ, a man of seventh-century Mecca who could **neither read nor write**. The Qur'an says that to the one audience that could have contradicted it.
     > “You ˹O Prophet˺ could not read any writing ˹even˺ before this ˹revelation˺, nor could you write at all. Otherwise, the people of falsehood would have been suspicious.” (**Sūrat al-ʿAnkabūt 29:48**), Dr. Mustafa Khattab, *The Clear Quran*
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَمَا كُنتَ تَتْلُوا۟ مِن قَبْلِهِۦ مِن كِتَٰبٍۢ وَلَا تَخُطُّهُۥ بِيَمِينِكَ ۖ إِذًۭا لَّٱرْتَابَ ٱلْمُبْطِلُونَ ۝٤٨﴾ <span class="ayah-ref">سُورَةُ العَنكَبُوتِ</span></div>
@@ -440,7 +440,7 @@ The people with the most access to him were his servants, his wives, and his fam
     {: .quote }
 
     > When his grandson Hasan, still a child, put a date from the charity collection in his mouth, he made him take it out. (*Sahih al-Bukhari* 1491, see also 2432)
-    {: .gloss }
+    {: .src }
 1. He established that his own household would **inherit nothing** from him, so that no one stood to gain by keeping power in his family.
     > *Sahih al-Bukhari* 3092, 3093. His daughter Fatima requested her inheritance and was told there was none to give.
     {: .src }
@@ -476,13 +476,13 @@ Slaves, orphans, animals, and neighbours could neither repay a kindness nor puni
     {: .gloss }
 1. He gave **animals** a claim on human conduct at a time when almost no legal tradition did.
     > A woman was punished for confining a cat until it died, neither feeding it nor releasing it. (*Sahih al-Bukhari* 3482)
-    {: .gloss }
+    {: .src }
 
     > A man who climbed into a well to bring water to a dying dog was forgiven for it. He was asked whether there was reward in serving animals, and answered: "There is a reward for serving any living being." (*Sahih al-Bukhari* 2466, 3321)
-    {: .gloss }
+    {: .src }
 
     > He cursed the branding of animals on the face (*Sunan Abi Dawud* 2564) and forbade using living animals as targets (*Sunan Abi Dawud* 2816). He ordered chicks taken from a distressed bird returned to her (*Sunan Abi Dawud* 2675), and told the owner of an emaciated camel: "Fear Allah regarding these dumb animals." (*Sunan Abi Dawud* 2548)
-    {: .gloss }
+    {: .src }
 1. **Neighbours** were given a claim so strong that he expected them to be made heirs, and he set no condition of religion on it.
     > "Gabriel continued to recommend me about treating neighbours kindly, so much so that I thought he would order me to make them heirs." — *Sahih al-Bukhari* 6014, 6015
     {: .quote }
@@ -580,7 +580,7 @@ What a religious founder does once he has won is the part of the record easiest 
 1. In **twenty-three years** a fragmented, illiterate, tribal society organized around blood feud, idolatry, female infanticide, and endemic warfare became a unified polity with law, literacy, and a functioning state. Historians dispute the causes and the pace, and the transformation itself is common ground.
 1. **Alcohol** ran through Arabian social life, and it was abandoned on the strength of a single announcement.
     > Anas, who was serving wine at the time, described the vessels being emptied when the prohibition was proclaimed. — *Sahih al-Bukhari* 4620, 2464
-    {: .gloss }
+    {: .src }
 
     > Prohibition elsewhere has needed police, courts, and prisons, and has still tended to fail. Here there was no enforcement machinery, and none was called for.
     {: .gloss }
@@ -616,7 +616,7 @@ A prediction is worth something only if the record of it is older than the event
     {: .quote }
 
     > In 654 AH / 1256 CE the Harrat Rahat volcanic field erupted roughly 20 km from Medina, producing lava flows that travelled some 23 km and stopped about 4 km short of the city. Medieval chroniclers describe the glow being visible at great distance. See [the Smithsonian Global Volcanism Program record](https://volcano.si.edu/volcano.cfm?vn=231070) and El-Masry, Moufti, Németh, Murcia, Qaddah & Abdelwahed, "Historical Accounts of the AD 1256 Eruption near Al-Madinah," *International Journal of Earth Sciences* (2013).
-    {: .gloss }
+    {: .src }
 1. The **fall of the Persian and Byzantine imperial houses**, stated while the Muslims were a single besieged town.
     > "Khosrau will be ruined, and there will be no Khosrau after him; and Caesar will surely be ruined and there will be no Caesar after him." — *Sahih al-Bukhari* 3027, 3028, 3120
     {: .quote }
@@ -652,7 +652,7 @@ A prediction is worth something only if the record of it is older than the event
 1. **His enemies became his followers.** Umar ibn al-Khattab set out to kill him and became his second successor. Khalid ibn al-Walid commanded the cavalry that broke the Muslims at Uhud and became their most effective general. Abu Sufyan led the war against him for years, and his son Muawiya became a scribe of revelation. Movements built on deception lose their sharpest opponents; they do not recruit them.
 1. **His enemies confirmed his honesty even while opposing him.** The best-known instance is preserved in an exchange between the Byzantine emperor Heraclius and Abu Sufyan, who was then still leading the war against him.
     > Heraclius asked whether they had ever accused him of lying before he made his claim. Abu Sufyan, by his own admission looking for anything damaging to say, answered no. Heraclius replied that a man who does not lie about people does not then go and lie about God. — *Sahih al-Bukhari* 7 (also 3174, 4553)
-    {: .gloss }
+    {: .src }
 
     > The reasoning is the emperor's, the testimony is a hostile witness's, and the report is preserved in the Muslims' own most rigorous collection.
     {: .gloss }
@@ -694,7 +694,7 @@ A prediction is worth something only if the record of it is older than the event
     {: .quote }
 
     > W. Montgomery Watt, *Muhammad at Mecca* (Oxford: Clarendon Press, 1953), p. 52.
-    {: .gloss }
+    {: .src }
 
 ### Why the Alternatives Do Not Explain Him
 
