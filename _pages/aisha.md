@@ -71,6 +71,9 @@ Each of these is taken up below.
 
 The core report is Aisha's own, in both Bukhari and Muslim: the contract was made when she was six, she entered his household at nine, and she was with him for nine years.[^1] Some versions give seven for the contract.[^3] He died when she was about eighteen.
 
+> *Sahih al-Bukhari* 5134; *Sahih Muslim* 1422 — Aisha's own report: the contract at six, entry into the household at nine, and nine years of marriage.
+{: .src }
+
 Two stages are involved, and Arabic distinguishes them. The *ʿaqd* is the contract — the legal formation of the marriage, which in this period often preceded cohabitation by years. The *bināʾ* is the wife's entry into the husband's household, when the marriage begins in practice. Between the two, in this case, roughly three years passed, and Aisha remained in her parents' house throughout. Collapsing the two stages into a single event produces a picture of the marriage that no source describes.
 
 Three lines of dissent from the traditional figures deserve mention.
@@ -80,6 +83,9 @@ The first is chronological. Aisha's elder sister Asma is reported to have been t
 The second concerns her conversion. Aisha appears in early lists among those who accepted Islam in the first Meccan years, which is difficult to place if she was born after the revelation began.
 
 The third is recent and academic. Joshua Little's Oxford doctoral thesis argues that the age reports converge on a single eighth-century transmitter in Iraq, and that the tradition's spread from that point is traceable.[^5]
+
+> Joshua Little, *The Hadith of ʿĀʾishah's Marital Age: A Study in the Evolution of Early Islamic Historical Memory* (DPhil thesis, University of Oxford, 2023).
+{: .src }
 
 All three are contested, and this article does not rely on any of them. If one turns out to be right, the objection dissolves without further argument. The case below is built for the harder situation, in which the traditional figures stand exactly as reported.
 
@@ -100,6 +106,11 @@ Modern law knows this perfectly well. It uses different ages for driving, voting
 No, and that is not the Islamic position either, though it is often reported as such. Physical maturity is one condition among several in Islamic law, and it does not by itself confer full legal agency.
 
 The Qur'an makes the point directly about property. Orphans' wealth is to be handed over when they reach marriageable age *and* sound judgment is found in them — *rushd*, meaning the practical good sense to manage one's own affairs.[^6] Two conditions, not one, and the second is not reducible to the first. A tradition that requires more than puberty before a person may control money is not a tradition that treats puberty as settling everything else.
+
+> "Test ˹the competence of˺ the orphans until they reach a marriageable age. Then if you feel they are capable of sound judgment, return their wealth to them. And do not consume it wastefully and hastily before they grow up ˹to demand it˺. If the guardian is well-off, they should not take compensation; but if the guardian is poor, let them take a reasonable provision. When you give orphans back their property, call in witnesses. And sufficient is Allah as a ˹vigilant˺ Reckoner." (**Sūrat al-Nisāʾ 4:6**), Dr. Mustafa Khattab, *The Clear Quran*
+>
+> <div dir="rtl" lang="ar" class="quran-arabic">﴿وَٱبْتَلُوا۟ ٱلْيَتَٰمَىٰ حَتَّىٰٓ إِذَا بَلَغُوا۟ ٱلنِّكَاحَ فَإِنْ ءَانَسْتُم مِّنْهُمْ رُشْدًۭا فَٱدْفَعُوٓا۟ إِلَيْهِمْ أَمْوَٰلَهُمْ ۖ وَلَا تَأْكُلُوهَآ إِسْرَافًۭا وَبِدَارًا أَن يَكْبَرُوا۟ ۚ وَمَن كَانَ غَنِيًّۭا فَلْيَسْتَعْفِفْ ۖ وَمَن كَانَ فَقِيرًۭا فَلْيَأْكُلْ بِٱلْمَعْرُوفِ ۚ فَإِذَا دَفَعْتُمْ إِلَيْهِمْ أَمْوَٰلَهُمْ فَأَشْهِدُوا۟ عَلَيْهِمْ ۚ وَكَفَىٰ بِٱللَّهِ حَسِيبًۭا ۝٦﴾ <span class="ayah-ref">سُورَةُ النِّسَاءِ</span></div>
+{: .quote }
 
 ## Judging the seventh century by the twenty-first
 
@@ -127,7 +138,8 @@ Medieval Christian polemicists, who wrote about him at length and with no restra
 
 Neither did twelve centuries of Muslim scholars, who recorded the ages, discussed them in works of law, and treated the household as a subject of continuous study. They disagreed about a great deal in his biography. This was not among the disagreements.
 
-Silence is not proof. Practices can be wrong while nobody objects, which is precisely the lesson of slavery, and an argument that leaned on the silence would be the "everyone did it" argument again.
+> Silence is not proof. Practices can be wrong while nobody objects, which is precisely the lesson of slavery, and an argument that leaned on the silence would be the "everyone did it" argument again.
+{: .gloss }
 
 What the silence does establish is the shape of the question. The charge is a modern category being applied backwards across fourteen centuries. That is sometimes the right thing to do — moral discovery is real. But a category applied backwards carries a burden the objection usually skips: it has to show the harm rather than assume it, because the people present, including the hostile ones, did not see it.
 
@@ -137,23 +149,44 @@ A charge about a man's character is answerable from his character, and this is w
 
 Before he claimed prophethood he was known in Mecca as *al-Amin*, the trustworthy — a reputation so settled that his enemies went on depositing valuables with him for safekeeping after he began preaching against them, and on the night he fled the city he left Ali behind in his bed for the purpose of returning the deposits to their owners.[^7]
 
+> Ibn Hisham, *al-Sīra al-Nabawiyya*; trans. A. Guillaume, *The Life of Muhammad*. Also al-Bayhaqi, *Dalāʾil al-Nubuwwa*, on the deposits returned by Ali at the migration.
+{: .src }
+
 The Qur'an describes him as being of a great moral character, as a mercy to the worlds, as gentle where harshness would have scattered people, and as grieved by what others suffered.[^8] Asked what his character was like, Aisha said that his character was the Qur'an — that the book and the man matched.[^9]
+
+> *Sahih Muslim* 746; *Musnad Ahmad* 24645.
+{: .src }
 
 ### Power and property
 
 He governed a state and owned effectively nothing. Aisha reported that two or three months would pass with no cooking fire lit in his houses; they lived on dates and water, and on whatever neighbours sent.[^10]
 
+> *Sahih al-Bukhari* 6459; *Sahih Muslim* 2972.
+{: .src }
+
 When the Quraysh offered him wealth and rule over them to stop preaching, he refused, at a point when he had almost no followers and every practical reason to accept.[^7]
 
+> Ibn Hisham, *al-Sīra al-Nabawiyya*: the delegation of ʿUtba ibn Rabiʿa offered wealth, kingship, and medical treatment if his message was madness; he replied that if they placed the sun in his right hand and the moon in his left, he would not abandon the matter.
+{: .src }
+
 When Mecca finally fell to him he entered it with the men who had tortured his followers, killed his uncle, and driven him out entirely at his mercy, and released them.[^7] Men in his position, having waited twenty years, generally do something else.
+
+> al-Bayhaqi, *Dalāʾil al-Nubuwwa*; Ibn Hisham, *al-Sīra al-Nabawiyya* — the general amnesty declared at the conquest of Mecca.
+{: .src }
 
 ### Treatment of women
 
 He never struck a woman or a servant, by the explicit testimony of those who lived with him.[^11]
 
+> *Sahih Muslim* 2328; *Sunan Ibn Majah* 1984.
+{: .src }
+
 He established and enforced women's rights to own property, inherit, and give testimony, in a society that had treated inheritance as a matter for men. He annulled a marriage a father had imposed on his daughter against her will.[^12]
 
 His wives argued with him openly, in a household where a wife's raised voice was a scandal to visitors from Mecca. Umar, who found this alarming, described the transformation with some feeling: the men of Quraysh had ruled their women, and in Medina they found women who answered back, including the Prophet's own.[^13]
+
+> *Sahih al-Bukhari* 5191; also 4913–4915, in the commentary on *Sūrat al-Taḥrīm*.
+{: .src }
 
 The community preserved all of it. Reports that show him tired, irritated, mistaken about a worldly matter, or on the losing end of an argument with his wife survive in the most respected collections, transmitted by people who revered him. A tradition constructing a flattering portrait leaves that material out.
 
@@ -161,7 +194,8 @@ The community preserved all of it. Reports that show him tired, irritated, mista
 
 He was publicly affectionate with children in a culture that did not require it. He carried his granddaughter during congregational prayer, setting her down when he prostrated and lifting her again. He shortened prayer when he heard an infant crying, out of concern for the mother.[^14] When a chief boasted of having ten children and never kissing one of them, he told him that a man who shows no mercy is shown none.[^15]
 
-None of this proves anything about the marriage on its own. What it establishes is the setting: the marriage took place inside a life exposed to an unusual degree, and the exposure produced no trace of cruelty, no trace of concealment, and no trace of interest in children.
+> None of this proves anything about the marriage on its own. What it establishes is the setting: the marriage took place inside a life exposed to an unusual degree, and the exposure produced no trace of cruelty, no trace of concealment, and no trace of interest in children.
+{: .gloss }
 
 For the accusation to hold, a great many things would have to be true at once. A man of documented restraint about money, food, power, and revenge would have to have been unrestrained here. A household that recorded his failings would have to have suppressed this one. A wife who criticised him publicly for fifty years would have to have kept silent about the central fact of her life. And the objection offers no independent evidence of harm to make any of that necessary.
 
@@ -185,9 +219,18 @@ The record is domestic and specific, which is what makes it useful.
 
 Asked by a Companion which person he loved most, he named Aisha — publicly, in front of an army officer who had asked expecting a political answer.[^16]
 
+> *Sahih al-Bukhari* 3662; *Sahih Muslim* 2384. The questioner was ʿAmr ibn al-ʿAs.
+{: .src }
+
 They raced each other. She won the first race. Years later, after she had put on weight, he raced her again, won, and said that this one settled the first.[^17]
 
+> *Sunan Abu Dawud* 2578; *Musnad Ahmad*.
+{: .src }
+
 He could read her moods from the words she chose. He told her he knew when she was pleased with him and when she was angry, because when she was pleased she swore by the Lord of Muhammad, and when she was angry she swore by the Lord of Abraham. She confirmed it and said he was right, and that all she avoided was his name.[^18]
+
+> *Sahih al-Bukhari* 5228; *Sahih Muslim* 2439.
+{: .src }
 
 And she was learning the whole time. She was present when revelation came, when questions were brought, when disputes were judged, and she asked about what she did not understand and argued about what she did. The education was by proximity, over nine years, and it turned her into a public legal authority before she was twenty.
 
@@ -199,7 +242,13 @@ Statutory consent — a fixed age below which agreement has no legal weight — 
 
 The rule is stated directly. A *thayyib* — a woman previously married — may not be given in marriage until she is consulted. A *bikr* — one not previously married — may not be given until her permission is sought.[^19] Consent is a condition of validity, not a courtesy extended by a considerate guardian.
 
+> *Sahih al-Bukhari* 5136; *Sahih Muslim* 1419: a widow or divorcee must be consulted before marriage, and a woman not previously married must give her permission.
+{: .src }
+
 The enforcement is on record. Khansa bint Khidham came to the Prophet after her father had married her off against her wishes, and he annulled the marriage.[^12] A father, in a patriarchal society, with the deal already done, and the marriage was voided on the daughter's word. That makes forced marriage void in Islamic law rather than merely disfavoured, and it is the standard by which this marriage should be judged.
+
+> *Sahih al-Bukhari* 5138; also *Sunan Abu Dawud* 2096, *Sunan Ibn Majah* 1873.
+{: .src }
 
 ### What the record shows about Aisha
 
@@ -225,7 +274,8 @@ Yes, and the principle is real. Silence is not consent, disclosure is often dela
 
 Applied here, though, the principle makes the charge unfalsifiable. If Aisha had said nothing, the silence would be evidence. Because she spoke for fifty years, the speech is discounted as conditioning. There is then no possible testimony from her that could count against the accusation, which means her testimony is not being weighed at all.
 
-The principle explains why silence should not be read as consent. It does not explain why fifty years of detailed, critical, frequently unflattering speech should be read as nothing.
+> The principle explains why silence should not be read as consent. It does not explain why fifty years of detailed, critical, frequently unflattering speech should be read as nothing.
+{: .gloss }
 
 ## Aisha's scholarship
 
@@ -235,11 +285,17 @@ More than two thousand reports are transmitted from her, across worship, law, Qu
 
 Senior Companions came to her for rulings. Abu Musa al-Ash'ari said that whenever a report was unclear to them they asked Aisha, and always found she had knowledge of it.[^21] Men who had been with the Prophet for twenty years took their difficulties to a woman in her twenties.
 
+> *Sunan al-Tirmidhi* 3883.
+{: .src }
+
 Her house became a school. Students came in numbers, men and women both, and the second generation of scholars in Medina was substantially formed by her.
 
 She weighed reports rather than repeating them. When she thought a Companion had misheard or misapplied something, she said so and gave the reasoning — including corrections of Umar, Ibn Umar, and Abu Hurayra on well-known points. Her corrections of other Companions were eventually gathered into dedicated works; al-Zarkashi's book on them is the best known.[^22] That is the behaviour of a critical scholar, not a conduit.
 
 Her range went past religious law. Urwa ibn al-Zubayr, her nephew and student, said he had never seen anyone more knowledgeable in law, in medicine, or in poetry.[^23]
+
+> Reported from Urwa ibn al-Zubayr in Ibn Saʿd, *al-Ṭabaqāt*, and al-Hakim, *al-Mustadrak*.
+{: .src }
 
 She taught for nearly fifty years after his death, and the reason she could is that she married young and outlived almost everyone. Had she been thirty at the marriage, most of that teaching would not exist.
 
@@ -259,6 +315,9 @@ The word arrives carrying its findings with it — a compulsion, a victim, a con
 
 Aisha reported that she was playing with dolls when the Prophet came in, that her friends came to play with her, and that they would slip away when he arrived and he would send them back to her.[^24] Another report has him asking about a toy horse with cloth wings and laughing at the answer.[^25]
 
+> *Sahih al-Bukhari* 6130; the toy horse: *Sunan Abu Dawud* 4932.
+{: .src }
+
 The reports are usually presented as decisive, and they are informative, but not in the direction assumed.
 
 They confirm what has already been said about uneven development: someone can be married and still play, because the modern arrangement in which those are mutually exclusive stages is not a human universal. Premodern societies had no fenced-off adolescence in which a person is neither child nor adult; roles were taken up gradually, alongside each other.
@@ -277,13 +336,22 @@ He built her an exit. When his wives pressed him for a better standard of living
 
 And during the slander she held out against everyone. Accused of infidelity, with the community talking, her husband withdrawn and asking her to repent if she had done wrong, and her parents telling her to answer him, she refused both a false confession and a denial she thought no one would accept, and told them she would say what Jacob said and wait for God to show the truth. Her parents could not answer her. She was vindicated by revelation shortly afterwards.[^20]
 
-A common reply is that all of this comes from her later years and shows nothing about the child. It gets the sequence backwards. Coercive control is a claim about formation — about what sustained control makes a person into. It therefore predicts a particular adult: compliant, watchful, unable to contradict the person who shaped her, disinclined to speak. The record shows an adult who argued with him, corrected the men who succeeded him, and spent fifty years teaching in public. If the formation is the mechanism, the outcome is the test, and the outcome fails it. The one report that survives from the earliest period, the dolls, points the same way.
+> The long report of the *ifk* (the slander): *Sahih al-Bukhari* 4750; *Sahih Muslim* 2770.
+{: .src }
+
+A common reply is that all of this comes from her later years and shows nothing about the child. It gets the sequence backwards.
+
+> Coercive control is a claim about formation — about what sustained control makes a person into. It therefore predicts a particular adult: compliant, watchful, unable to contradict the person who shaped her, disinclined to speak. The record shows an adult who argued with him, corrected the men who succeeded him, and spent fifty years teaching in public. If the formation is the mechanism, the outcome is the test, and the outcome fails it. The one report that survives from the earliest period, the dolls, points the same way.
+{: .gloss }
 
 **"Grooming" names a process, and the process can be checked.** It has identifiable parts: secrecy, manufactured access, isolation from family and friends, and engineered silence afterwards. Each part fails here, and not by a small margin.
 
 *Secrecy.* The proposal was public and did not come from him. Khawla bint Hakim suggested the match, approached the family, and carried the negotiation.[^29] The marriage was announced and known.
 
 *Manufactured access.* He had been Abu Bakr's closest friend for years before any of this and was in the house constantly for reasons that had nothing to do with Aisha. She was already betrothed to Jubayr ibn Mutʿim, and that arrangement had to be dissolved by the other family before the marriage could go ahead.[^29] Access was not created; it already existed, and there was a competing claim on her to be cleared first.
+
+> *Musnad Ahmad*; Ibn Saʿd, *al-Ṭabaqāt*, vol. 8 — the proposal by Khawla bint Hakim, and the prior betrothal to Jubayr ibn Mutʿim.
+{: .src }
 
 *Isolation.* Her parents lived nearby, she went to them freely, and she stayed with her mother during the slander. The household was small, crowded, and permanently observed by a community that recorded what it saw.
 
@@ -311,9 +379,17 @@ Islamic law has a standing principle for exactly this situation: *lā ḍarar wa
 
 This is the position of major institutions. Dar al-Ifta al-Misriyya, Egypt's official fatwa body, holds that the state may set and enforce a minimum age for marriage on grounds of *maṣlaḥa* — public welfare, the interest the law exists to protect.[^31] Atiyya Saqr, former head of al-Azhar's Fatwa Committee, argued the same, holding that where early marriage harms girls the ruler may prevent it.[^32] Scholars differ on where the line should sit. They agree that welfare governs, and that a number is a means to it rather than a value in itself.
 
+> Dar al-Ifta al-Misriyya, fatwas on the state's authority to set a minimum age for marriage; Atiyya Saqr, former head of the Fatwa Committee of al-Azhar, fatwas published through IslamOnline.
+{: .src }
+
 ### But isn't he meant to be an example for all time?
 
 He is, and the verse that says so points at conduct.[^2] The word is *uswa ḥasana*, a good example — a model of character to be followed, not a set of circumstances to be copied.
+
+> "Indeed, in the Messenger of Allah you have an excellent example for whoever has hope in Allah and the Last Day, and remembers Allah often." (**Sūrat al-Aḥzāb 33:21**), Dr. Mustafa Khattab, *The Clear Quran*
+>
+> <div dir="rtl" lang="ar" class="quran-arabic">﴿لَّقَدْ كَانَ لَكُمْ فِى رَسُولِ ٱللَّهِ أُسْوَةٌ حَسَنَةٌۭ لِّمَن كَانَ يَرْجُوا۟ ٱللَّهَ وَٱلْيَوْمَ ٱلْءَاخِرَ وَذَكَرَ ٱللَّهَ كَثِيرًۭا ۝٢١﴾ <span class="ayah-ref">سُورَةُ الأَحۡزَابِ</span></div>
+{: .quote }
 
 Distinguishing the prophetic from the circumstantial is ordinary Islamic legal practice, applied everywhere else without controversy. He wore the clothing of seventh-century Arabia, ate its food, rode its animals, fought with its weapons, and traded in its markets. No school of law treats any of that as binding. He married nine wives; Muslim men are limited to four, on the Qur'an's own instruction, and the tradition has never found this puzzling.
 
@@ -344,6 +420,11 @@ None of this argues that young people should marry. It argues something narrower
 The principles the tradition derives from all of this are consistent and stated plainly.
 
 Marriage exists for tranquility, affection, and mercy between the spouses.[^34]
+
+> "And one of His signs is that He created for you spouses from among yourselves so that you may find comfort in them. And He has placed between you compassion and mercy. Surely in this are signs for people who reflect." (**Sūrat al-Rūm 30:21**), Dr. Mustafa Khattab, *The Clear Quran*
+>
+> <div dir="rtl" lang="ar" class="quran-arabic">﴿وَمِنْ ءَايَٰتِهِۦٓ أَنْ خَلَقَ لَكُم مِّنْ أَنفُسِكُمْ أَزْوَٰجًۭا لِّتَسْكُنُوٓا۟ إِلَيْهَا وَجَعَلَ بَيْنَكُم مَّوَدَّةًۭ وَرَحْمَةً ۚ إِنَّ فِى ذَٰلِكَ لَءَايَٰتٍۢ لِّقَوْمٍۢ يَتَفَكَّرُونَ ۝٢١﴾ <span class="ayah-ref">سُورَةُ الرُّومِ</span></div>
+{: .quote }
 
 Kindness — *maʿrūf*, what is right and recognised as right — is the standard of conduct within it.[^35]
 
