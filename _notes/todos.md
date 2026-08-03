@@ -11,10 +11,9 @@ book:
 
 messenger:
 
-- more rigorous details about how hadith was perserved, similar to quran.
-- more and more examples and events from his life adn teachings that show his unmatched moral character, love, kindness and mercy.
---
-add a question: how were the prophet's life and sayings perserved?
+- done: how the record was kept (isnad, rijal, grading, the published forgeries) + the matching common question.
+- done: six new subsections and ~45 new items across the existing ones.
+- still open: his marriages one by one — who each woman was and why. currently only aisha has a page.
 --
 add women page + link in common misconceptions
 

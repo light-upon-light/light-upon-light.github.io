@@ -246,6 +246,17 @@ The argument of this section is **cumulative**. No single episode below is offer
     > *Sahih al-Bukhari* 3. A man carrying out a plan announces it. This one thought he was losing his mind, and the first person to believe him was his wife of fifteen years, who of everyone alive was best placed to know whether he was honest.
     {: .src }
 1. His name, **Muhammad**, means "the one who is repeatedly praised." He was given it at birth, spent much of his adult life reviled, and is now named in prayer by billions of people every day. No one naming a child in sixth-century Mecca could have expected that.
+1. He **worked with his hands**. Before any of it he herded sheep for wages outside Mecca, and when he spoke about it later he put himself in a line with every prophet before him.
+    > "God sent no prophet who did not shepherd sheep." His Companions asked whether he had done so himself, and he said: "Yes. I used to shepherd the sheep of the people of Mecca for a few qirats." — *Sahih al-Bukhari* 2262
+    {: .quote }
+1. His **employer proposed marriage to him**. Khadija was a Meccan merchant who hired him to take her goods north to Syria, and it was she who made the offer when he returned. He was twenty-five and she was older, and he stayed married to her alone for twenty-five years, until she died, in a society that set no limit on the number of wives a man could take.
+    > *Sīra*: Ibn Hisham. Every one of his other marriages came after her death, when he was past fifty and leading a community.
+    {: .src }
+1. The Qur'an states that he had **no religious knowledge to draw on** before it came, and states it to the people who had watched him for forty years.
+    > “You did not know what is the Book or [what is] faith…” (**Sūrat al-Shūrā 42:52**), Saheeh International
+    >
+    > <div dir="rtl" lang="ar" class="quran-arabic">﴿مَا كُنتَ تَدْرِى مَا ٱلْكِتَٰبُ وَلَا ٱلْإِيمَٰنُ﴾ <span class="ayah-ref">[سُورَةُ الشُّورَىٰ: ٥٢]</span></div>
+    {: .quote }
 
 ### What the Message Cost Him
 
@@ -256,6 +267,9 @@ The argument of this section is **cumulative**. No single episode below is offer
     > Everything a fabricator could want was offered to him openly, early, and at no cost. He turned it down and took thirteen years of persecution instead.
     {: .gloss }
 1. For **thirteen years in Mecca** he and his followers were **mocked, beaten, tortured, starved, boycotted, and exiled**. Some were killed. He had no army and no state, and nothing protected him beyond his own clan.
+1. The abuse was **physical and public**. While he was prostrating at the Kaaba, one of Abu Jahl's companions fetched the stomach contents of a slaughtered camel and dropped them onto his back, and the group sat laughing until his daughter came and pulled them off him. On another day Uqba ibn Abi Muayt twisted a cloth around his neck and throttled him while he prayed, until Abu Bakr forced him off.
+    > *Sahih al-Bukhari* 240 and 3856. The second is what Abdullah ibn Amr named when he was asked for the worst thing the Meccans ever did to him.
+    {: .src }
 1. His clan was placed under a **three-year boycott** — no trade, no marriage, no contact — that reduced them to eating leaves. It was aimed at his family in order to break him.
 1. In a single year he lost **Khadija**, his wife of twenty-five years, and **Abu Talib**, the uncle whose protection kept him alive. The tradition calls it the **Year of Sorrow**. He continued.
 1. He went to **Taif** seeking refuge and was driven out by a mob that stoned him until he bled. An angel offered to destroy the city, and he **declined**, hoping instead that their descendants would come to worship God.
@@ -266,6 +280,15 @@ The argument of this section is **cumulative**. No single episode below is offer
     {: .gloss }
 1. When his own people finally resolved to **assassinate him**, he left Mecca — but first arranged for **Ali to return the property** that the very men plotting his death had left with him for safekeeping.
     > *Sīra*: Ibn Hisham. They wanted him dead and still trusted him with their savings, which is its own measure of how his honesty was regarded.
+    {: .src }
+1. At **Uhud** his front tooth was broken, his face was cut open, and the rings of his helmet were driven into his cheek. Anas recorded what he said while he was wiping the blood off his face.
+    > "How can a people prosper who have wounded their Prophet and broken his tooth while he calls them to God?" — *Sahih Muslim* 1791; the wounds are described in *Sahih al-Bukhari* 4075
+    {: .quote }
+1. He took the **same shortages as everyone else**. Digging the defensive trench at Medina, Jabir found him with a stone bound against his stomach because nobody had eaten for three days, and he took the pick himself when the diggers struck rock.
+    > *Sahih al-Bukhari* 4101
+    {: .src }
+1. He was **poisoned at Khaybar** and carried it for the rest of his life. In the illness he died of, he told Aisha he could still feel the food he had eaten there.
+    > *Sahih al-Bukhari* 4428
     {: .src }
 1. He **buried all but one of his children** — every one of them except his daughter Fatima, who outlived him by months. He grieved openly each time, and never suggested that prophethood exempted him from loss.
 1. Twenty-three years of this bought him nothing he could hold. At the end he **governed Arabia** and **owned almost nothing**.
@@ -345,6 +368,55 @@ If the Qur'an were his own composition, the way it treats him is hard to explain
 
     > Of everything in his biography, this tests his motive most directly. A grieving father with a devoted following was handed an omen the crowd had already read in his favour, and he took it apart in public on the day he buried his son.
     {: .gloss }
+1. It lays **extra obligations on him alone**. The night vigil is optional for everyone else and required of him.
+    > “And from [part of] the night, pray with it as additional [worship] for you; it is expected that your Lord will resurrect you to a praised station.” (**Sūrat al-Isrāʾ 17:79**), Saheeh International
+    >
+    > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَمِنَ ٱلَّيْلِ فَتَهَجَّدْ بِهِۦ نَافِلَةًۭ لَّكَ عَسَىٰٓ أَن يَبْعَثَكَ رَبُّكَ مَقَامًۭا مَّحْمُودًۭا ۝٧٩﴾ <span class="ayah-ref">سُورَةُ الإِسۡرَاءِ</span></div>
+    {: .quote }
+
+    > The command to stand through most of the night came earlier still, in one of the first chapters revealed to him (**Sūrat al-Muzzammil 73:1-4**).
+    {: .src }
+1. It **closes off further marriage to him**, at the point in his life when he held more power than at any earlier one.
+    > “Not lawful to you, [O Muhammad], are [any additional] women after [this], nor [is it] for you to exchange them for [other] wives, even if their beauty were to please you, except what your right hand possesses. And ever is Allah, over all things, an Observer.” (**Sūrat al-Aḥzāb 33:52**), Saheeh International
+    >
+    > <div dir="rtl" lang="ar" class="quran-arabic">﴿لَّا يَحِلُّ لَكَ ٱلنِّسَآءُ مِنۢ بَعْدُ وَلَآ أَن تَبَدَّلَ بِهِنَّ مِنْ أَزْوَٰجٍۢ وَلَوْ أَعْجَبَكَ حُسْنُهُنَّ إِلَّا مَا مَلَكَتْ يَمِينُكَ ۗ وَكَانَ ٱللَّهُ عَلَىٰ كُلِّ شَىْءٍۢ رَّقِيبًۭا ۝٥٢﴾ <span class="ayah-ref">سُورَةُ الأَحۡزَابِ</span></div>
+    {: .quote }
+
+    > The restriction arrives in Medina, not in Mecca. It binds the one man in Arabia whom no institution could have bound, and it is in the text he is accused of writing to serve himself.
+    {: .gloss }
+1. It has him **offer his wives their release**, and puts the choice to them in the starkest terms available: the comforts of this life, or him and what came with him.
+    > “O Prophet, say to your wives, ‘If you should desire the worldly life and its adornment, then come, I will provide for you and give you a gracious release. But if you should desire Allah and His Messenger and the home of the Hereafter — then indeed, Allah has prepared for the doers of good among you a great reward.’” (**Sūrat al-Aḥzāb 33:28-29**), Saheeh International
+    >
+    > <div dir="rtl" lang="ar" class="quran-arabic">﴿يَٰٓأَيُّهَا ٱلنَّبِىُّ قُل لِّأَزْوَٰجِكَ إِن كُنتُنَّ تُرِدْنَ ٱلْحَيَوٰةَ ٱلدُّنْيَا وَزِينَتَهَا فَتَعَالَيْنَ أُمَتِّعْكُنَّ وَأُسَرِّحْكُنَّ سَرَاحًۭا جَمِيلًۭا ۝٢٨ وَإِن كُنتُنَّ تُرِدْنَ ٱللَّهَ وَرَسُولَهُۥ وَٱلدَّارَ ٱلْءَاخِرَةَ فَإِنَّ ٱللَّهَ أَعَدَّ لِلْمُحْسِنَٰتِ مِنكُنَّ أَجْرًا عَظِيمًۭا ۝٢٩﴾ <span class="ayah-ref">سُورَةُ الأَحۡزَابِ</span></div>
+    {: .quote }
+1. It **refuses the miracles his opponents demand**, repeatedly, and sends them back to the recitation instead.
+    > “Say, ‘Exalted is my Lord! Was I ever but a human messenger?’” (**Sūrat al-Isrāʾ 17:93**), Saheeh International
+    >
+    > <div dir="rtl" lang="ar" class="quran-arabic">﴿قُلْ سُبْحَانَ رَبِّى هَلْ كُنتُ إِلَّا بَشَرًۭا رَّسُولًۭا﴾ <span class="ayah-ref">[سُورَةُ الإِسۡرَاءِ: ٩٣]</span></div>
+    {: .quote }
+
+    > “And is it not sufficient for them that We revealed to you the Book which is recited to them? Indeed in that is a mercy and reminder for a people who believe.” (**Sūrat al-ʿAnkabūt 29:51**), Saheeh International
+    >
+    > <div dir="rtl" lang="ar" class="quran-arabic">﴿أَوَلَمْ يَكْفِهِمْ أَنَّآ أَنزَلْنَا عَلَيْكَ ٱلْكِتَٰبَ يُتْلَىٰ عَلَيْهِمْ ۚ إِنَّ فِى ذَٰلِكَ لَرَحْمَةًۭ وَذِكْرَىٰ لِقَوْمٍۢ يُؤْمِنُونَ ۝٥١﴾ <span class="ayah-ref">سُورَةُ العَنكَبُوتِ</span></div>
+    {: .quote }
+
+    > The Meccans set out precisely what would convince them — a spring made to gush from the ground, a garden, a house of gold, a book let down from the sky, angels brought as witnesses. A man supplying his own credentials meets that list, or promises to meet it later. The text does neither. It answers that he is a man, and that the recitation they are already hearing is the sign on offer.
+    {: .gloss }
+1. It leaves him **no discretion to withhold anything**, including the parts that cost him.
+    > “O Messenger, announce that which has been revealed to you from your Lord, and if you do not, then you have not conveyed His message. And Allah will protect you from the people. Indeed, Allah does not guide the disbelieving people.” (**Sūrat al-Māʾidah 5:67**), Saheeh International
+    >
+    > <div dir="rtl" lang="ar" class="quran-arabic">﴿۞ يَٰٓأَيُّهَا ٱلرَّسُولُ بَلِّغْ مَآ أُنزِلَ إِلَيْكَ مِن رَّبِّكَ ۖ وَإِن لَّمْ تَفْعَلْ فَمَا بَلَّغْتَ رِسَالَتَهُۥ ۚ وَٱللَّهُ يَعْصِمُكَ مِنَ ٱلنَّاسِ ۗ إِنَّ ٱللَّهَ لَا يَهْدِى ٱلْقَوْمَ ٱلْكَٰفِرِينَ ۝٦٧﴾ <span class="ayah-ref">سُورَةُ المَائـِدَةِ</span></div>
+    {: .quote }
+1. It puts the **timing outside his control**, telling him not to move his tongue to hurry the recitation, and has him ask for knowledge rather than claim it.
+    > “Move not your tongue with it, [O Muhammad], to hasten with recitation of the Qur’ān. Indeed, upon Us is its collection [in your heart] and [to make possible] its recitation.” (**Sūrat al-Qiyāmah 75:16-17**), Saheeh International
+    >
+    > <div dir="rtl" lang="ar" class="quran-arabic">﴿لَا تُحَرِّكْ بِهِۦ لِسَانَكَ لِتَعْجَلَ بِهِۦٓ ۝١٦ إِنَّ عَلَيْنَا جَمْعَهُۥ وَقُرْءَانَهُۥ ۝١٧﴾ <span class="ayah-ref">سُورَةُ القِيَامَةِ</span></div>
+    {: .quote }
+
+    > “…and say, ‘My Lord, increase me in knowledge.’” (**Sūrat Ṭāhā 20:114**), Saheeh International
+    >
+    > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَقُل رَّبِّ زِدْنِى عِلْمًۭا﴾ <span class="ayah-ref">[سُورَةُ طه: ١١٤]</span></div>
+    {: .quote }
 
 ### Private Conduct Matched Public Teaching
 
@@ -382,6 +454,41 @@ The people with the most access to him were his servants, his wives, and his fam
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَإِنَّكَ لَعَلَىٰ خُلُقٍ عَظِيمٍۢ ۝٤﴾ <span class="ayah-ref">سُورَةُ القَلَمِ</span></div>
     {: .quote }
+1. He **asked to be forgiven constantly**, on his own account.
+    > "By God, I ask forgiveness of God and turn to Him in repentance more than seventy times a day." — *Sahih al-Bukhari* 6307
+    {: .quote }
+
+    > *Sahih Muslim* 2702 puts it at a hundred. He is the one man in the community with a stated guarantee behind him, and the record has him asking to be forgiven more often than anyone standing next to him.
+    {: .src }
+
+### He Refused to Be Venerated
+
+The forms of veneration his society knew how to give were all offered to him, and the record has him refusing them one at a time.
+
+1. He **forbade being praised beyond what was true**, and named the precedent he did not want followed.
+    > "Do not exaggerate in praising me as the Christians praised the son of Mary. I am only a slave, so say: the slave of God, and His Messenger." — *Sahih al-Bukhari* 3445
+    {: .quote }
+1. A delegation greeted him as **their lord, and the best and greatest among them**. He stopped them mid-sentence.
+    > "The Lord is God, blessed and exalted." Then: "Say what you have to say, or some of it, and do not let Satan make you his agents." — *Sunan Abi Dawud* 4806, graded sound
+    {: .quote }
+1. In his final illness he **warned against what would be done with his grave**, which is why there is no shrine over it.
+    > "God cursed the Jews and the Christians for taking the graves of their prophets as places of prayer." — *Sahih al-Bukhari* 1330
+    {: .quote }
+
+    > Aisha, who reports it, adds that his grave would otherwise have been made prominent, and that this was the reason it was not.
+    {: .src }
+1. He **conceded the limits of his own knowledge** in worldly matters, in public, after his advice had cost people a harvest. Passing farmers pollinating their date palms he suggested it might do better left alone; the yield fell, and when they came back to him he answered plainly.
+    > "You have better knowledge of the affairs of your world." — *Sahih Muslim* 2363
+    {: .quote }
+
+    > A man whose authority rests on privileged access to the unseen does not draw that line, and certainly not immediately after being shown to be wrong. Drawing it is what makes the rest of what he says testable.
+    {: .gloss }
+1. He **told the parties in front of him that his own verdict might be wrong**, and that a favourable judgment won by better advocacy was worth nothing.
+    > "I am only a human being. You bring me your disputes, and one of you may be more persuasive in argument than another, so I judge by what I hear. If I award someone what belongs to his brother, let him not take it: I am only handing him a piece of the Fire." — *Sahih al-Bukhari* 2680 (also 7169)
+    {: .quote }
+
+    > These close, one at a time, the usual routes by which a movement turns its founder into something else: the honorific, the shrine, the claim to know everything, the ruling that cannot be questioned. He shut each of them while he was alive and in a position to have left them open.
+    {: .gloss }
 
 ### Mercy as a Governing Principle
 
@@ -423,6 +530,21 @@ The people with the most access to him were his servants, his wives, and his fam
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَلَا تَسْتَوِى ٱلْحَسَنَةُ وَلَا ٱلسَّيِّئَةُ ۚ ٱدْفَعْ بِٱلَّتِى هِىَ أَحْسَنُ فَإِذَا ٱلَّذِى بَيْنَكَ وَبَيْنَهُۥ عَدَٰوَةٌۭ كَأَنَّهُۥ وَلِىٌّ حَمِيمٌۭ ۝٣٤﴾ <span class="ayah-ref">سُورَةُ فُصِّلَتۡ</span></div>
     {: .quote }
+1. **Thumama ibn Uthal**, a chief of Banu Hanifa, was captured and tied to a pillar of the mosque. Each day the Prophet ﷺ asked him what he had to say, and on the third day ordered him released with nothing asked in return. Thumama went out, washed, came back, and accepted Islam.
+    > *Sahih al-Bukhari* 4372. He had come to Medina intending to kill him.
+    {: .src }
+1. He **prayed at the funeral of Abdullah ibn Ubayy** and gave his own shirt to shroud him. Ibn Ubayy had led the opposition inside Medina for years and was the man behind the slander campaign against Aisha.
+    > *Sahih al-Bukhari* 1269 and 5796 for the funeral. Aisha's own account of the slander, *Sahih al-Bukhari* 2661, names him as the one who led it. Umar took hold of him and objected, and he went ahead.
+    {: .src }
+1. He **took no revenge for the poisoning at Khaybar**, which he was still suffering from when he died.
+    > *Sahih al-Bukhari* 5777. Reports differ over what became of the woman who prepared the meal: this one records that he did not punish her, and another has her handed over after a Companion died of the same food. In neither does he act on his own behalf.
+    {: .src }
+1. The rule he attached to mercy was **reciprocal**, and carried no qualification about who was owed it.
+    > "The Merciful shows mercy to those who are merciful. Show mercy to those on the earth, and the One above the heavens will show mercy to you." — *Sunan Abi Dawud* 4941 and *Jami al-Tirmidhi* 1924, graded sound
+    {: .quote }
+1. He forbade **separating a captive mother from her child**, at a time when captives were property and families were routinely broken up at sale.
+    > "Whoever separates a mother from her child, God will separate him from those he loves on the Day of Judgment." — *Jami al-Tirmidhi* 1566, graded hasan
+    {: .quote }
 
 ### Justice Against His Own Interest
 
@@ -454,6 +576,39 @@ The people with the most access to him were his servants, his wives, and his fam
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ كُونُوا۟ قَوَّٰمِينَ لِلَّهِ شُهَدَآءَ بِٱلْقِسْطِ ۖ وَلَا يَجْرِمَنَّكُمْ شَنَـَٔانُ قَوْمٍ عَلَىٰٓ أَلَّا تَعْدِلُوا۟ ۚ ٱعْدِلُوا۟ هُوَ أَقْرَبُ لِلتَّقْوَىٰ ۖ وَٱتَّقُوا۟ ٱللَّهَ ۚ إِنَّ ٱللَّهَ خَبِيرٌۢ بِمَا تَعْمَلُونَ ۝٨﴾ <span class="ayah-ref">سُورَةُ المَائـِدَةِ</span></div>
     {: .quote }
+1. When a **Muslim clan framed a Jewish man for theft** and the case reached him, the revelation came down against the Muslims and told him not to argue for them.
+    > “Indeed, We have revealed to you, [O Muhammad], the Book in truth so you may judge between the people by that which Allah has shown you. And do not be for the deceitful an advocate.” (**Sūrat al-Nisāʾ 4:105**), Saheeh International
+    >
+    > <div dir="rtl" lang="ar" class="quran-arabic">﴿إِنَّآ أَنزَلْنَآ إِلَيْكَ ٱلْكِتَٰبَ بِٱلْحَقِّ لِتَحْكُمَ بَيْنَ ٱلنَّاسِ بِمَآ أَرَىٰكَ ٱللَّهُ ۚ وَلَا تَكُن لِّلْخَآئِنِينَ خَصِيمًۭا ۝١٠٥﴾ <span class="ayah-ref">سُورَةُ النِّسَاءِ</span></div>
+    {: .quote }
+
+    > The occasion is reported in *Jami al-Tirmidhi* 3036, graded hasan: a family of Medina, the Banu Ubayriq, stole armour and planted the evidence on a Jewish man, then sent their clan to press the case. The passage runs on for several verses, clearing the accused and rebuking those who came to argue for their own people. A text written to consolidate a religious community does not adjudicate that way.
+    {: .gloss }
+1. In an irrigation dispute between **his own cousin Zubayr and a man of the Ansar**, his first ruling gave Zubayr less than his legal entitlement in order to leave something for the other man. Only when the Ansari accused him to his face of favouring a relative did he award Zubayr the full right.
+    > *Sahih al-Bukhari* 2359-2362. The account is preserved by Zubayr's own son, accusation included.
+    {: .src }
+
+### The Limits He Put on His Own Authority
+
+He held power that no court, council, or tribe in Arabia was in a position to overrule. What the record shows him doing with it is building constraints that had not existed before.
+
+1. The Qur'an **orders him to consult**, in the same verse that credits the community's cohesion to his gentleness.
+    > “…So pardon them and ask forgiveness for them and consult them in the matter.” (**Sūrat Āl ʿImrān 3:159**), Saheeh International
+    >
+    > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَشَاوِرْهُمْ فِى ٱلْأَمْرِ﴾ <span class="ayah-ref">[سُورَةُ آلِ عِمۡرَانَ: ١٥٩]</span></div>
+    {: .quote }
+1. He **acted on advice that ran against his own judgment**. Before Uhud his own view was to hold Medina; the majority wanted to march out, and he marched out. The trench that saved the city two years later was the suggestion of Salman, a Persian freedman, and had no precedent in Arabian warfare. At Hudaybiyya, when the Companions would not move, it was Umm Salama's advice he acted on.
+    > *Sīra* for Uhud and for the trench. For Hudaybiyya, *Sahih al-Bukhari* 2731-2732: she told him to go out and do it himself without speaking to anyone, and the whole camp followed.
+    {: .src }
+1. He **refused to fix prices** when the market rose and the people asked him to, on the grounds that it was not his to do.
+    > "God is the one who fixes prices, who withholds and gives lavishly and provides. I hope to meet God with no one holding a claim against me for an injustice in blood or property." — *Sunan Abi Dawud* 3451, graded sound
+    {: .quote }
+
+    > He had the authority to set the price and a popular demand that he do it. The reason he gives for refusing is not economic. It is that the injury would be on his own account.
+    {: .gloss }
+1. He **appointed on competence rather than kinship**, and held to it when it was unpopular. Usama ibn Zayd — the son of a freed slave, and about eighteen — was given command of an army in which the most senior Companions served. The objections were made openly, and he stood up and answered them.
+    > *Sahih al-Bukhari* 4469 (also 3730, 7187). He had made the same appointment to Usama's father before him, against the same objection.
+    {: .src }
 
 ### Those With No Power to Reciprocate
 
@@ -489,6 +644,12 @@ Slaves, orphans, animals, and neighbours could neither repay a kindness nor puni
 1. He defined the **standard of faith itself** as wanting for others what you want for yourself.
     > "None of you will have faith till he wishes for his brother what he likes for himself." — *Sahih al-Bukhari* 13
     {: .quote }
+1. His **last recorded instruction** named the prayer and the people with no standing to demand anything.
+    > "The prayer, the prayer — and those whom your right hands possess." — *Sunan Abi Dawud* 5156 and *Sunan Ibn Majah* 2698, graded sound
+    {: .quote }
+
+    > A man at the end of his life, leaving no property and no dynasty, spent his last words on the two things easiest for a community to let slip once he was gone.
+    {: .gloss }
 
 ### Women, Children, and the Household
 
@@ -524,6 +685,17 @@ Slaves, orphans, animals, and neighbours could neither repay a kindness nor puni
 1. He **wept** at the death of his infant son, and refused to treat grief as a failure of faith when he was questioned about it.
     > "The eyes shed tears and the heart grieves, but we say only what pleases our Lord." — *Sahih al-Bukhari* 1303
     {: .quote }
+1. When **Fatima** came to see him he stood up for her, took her hand, kissed her, and seated her where he had been sitting.
+    > *Sunan Abi Dawud* 5217, graded sound. Aisha, who reports it, adds that Fatima did exactly the same for him when he visited her.
+    {: .src }
+1. He **broke off a sermon** when his grandsons came in and stumbled, came down from the pulpit, picked them up, and carried them back up with him.
+    > *Sunan Abi Dawud* 1109, graded sound. He explained the interruption to the congregation by reciting the verse about children being a trial, and adding: "I saw these two, and I could not wait."
+    {: .src }
+1. Raising **daughters** he made into a route to the highest reward on offer, in a society that had counted a daughter as a liability.
+    > "Whoever brings up two girls until they come of age will come on the Day of Resurrection with me like this," and he brought his fingers together. — *Sahih Muslim* 2631
+    {: .quote }
+
+    > [The Prophet Muhammad's Marriage to Aisha](/aisha) treats his household in more detail.
 
 ### Those Outside the Faith
 
@@ -555,6 +727,85 @@ Slaves, orphans, animals, and neighbours could neither repay a kindness nor puni
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿لَآ إِكْرَاهَ فِى ٱلدِّينِ ۖ قَد تَّبَيَّنَ ٱلرُّشْدُ مِنَ ٱلْغَىِّ﴾ <span class="ayah-ref">[سُورَةُ البَقَرَةِ: ٢٥٦]</span></div>
     {: .quote }
+1. A **Christian delegation from Najran** was received in Medina, lodged at the mosque, and left to hold their own prayer inside it while the negotiations ran.
+    > *Sīra*: Ibn Hisham, with the same account in Ibn Sa'd's *Tabaqat*. The discussion lasted days and ended in a treaty, not a conversion.
+    {: .src }
+1. He **wrote to the rulers around him** — Heraclius in Byzantium, Khosrau in Persia, the Negus of Abyssinia, the governor of Egypt — in short, measured letters inviting them to what he was inviting everyone else to.
+    > *Sahih al-Bukhari* 7 preserves the text of the letter to Heraclius, inside the same report that carries Abu Sufyan's testimony against his own interest. An unlettered man in a desert town was addressing two empires that had just spent a generation exhausting each other.
+    {: .src }
+
+### What He Taught About Ordinary Life
+
+Most of what he laid down concerns things a religious founder need not have addressed at all: wages, debt, contagion, trees, the road, and what a person owes when nobody is watching.
+
+1. **Wages** were made due on completion, without the delay by which an employer holds power over a worker.
+    > "Give the worker his wage before his sweat dries." — *Sunan Ibn Majah* 2443, graded sound
+    {: .quote }
+
+    > "God said: I will be the adversary of three on the Day of Resurrection … and a man who hires a labourer, takes full work from him, and does not pay him his wage." — *Sahih al-Bukhari* 2270
+    {: .quote }
+1. **Debt** he treated as a serious matter and then took onto himself. He would not lead the funeral prayer over a man who died owing money until the debt was covered, and once the state had resources he covered such debts out of them.
+    > *Sahih al-Bukhari* 2289 and 2298: "Whoever dies leaving a debt, its payment is upon me; whoever leaves property, it belongs to his heirs." The Qur'an's longest verse (**Sūrat al-Baqarah 2:282**) is about putting a loan in writing, with witnesses and terms.
+    {: .src }
+1. **Contagion** was given a rule that works in both directions, which is what quarantine is.
+    > "If you hear of an outbreak of plague in a land, do not enter it. If it breaks out where you are, do not leave." — *Sahih al-Bukhari* 5728, *Sahih Muslim* 2218
+    {: .quote }
+
+    > He also forbade bringing diseased animals in among healthy ones (*Sahih al-Bukhari* 5771). No mechanism is offered for why any of this works, and the instruction does not need one, which is why it is still the right instruction.
+    {: .src }
+1. **Planting** was made worth doing for its own sake, and worth doing even when there is no future to do it for.
+    > "If the Hour comes upon one of you while he has a seedling in his hand, let him plant it." — *Musnad Ahmad* 12902, graded sound by the modern hadith editor Shuayb al-Arnaut
+    {: .quote }
+
+    > "No Muslim plants a tree or sows a crop from which a bird, a person, or an animal then eats, without it counting as charity for him." — *Sahih al-Bukhari* 2320
+    {: .quote }
+1. Three things were placed **outside private ownership**, in a desert economy where controlling the first of them was the readiest form of power.
+    > "Muslims are partners in three: water, pasture, and fire." — *Sunan Abi Dawud* 3477, graded sound
+    {: .quote }
+1. **Trade** was bound to disclosure. Putting his hand into a heap of grain in the market and finding it wet under the dry top, he made the rule on the spot.
+    > "Why did you not put it on top of the food so that people could see it? Whoever deceives is not one of us." — *Sahih Muslim* 102
+    {: .quote }
+1. The **smallest public acts** were given weight, down to clearing an obstruction out of a road.
+    > "Faith has some seventy branches, the highest of which is to declare that there is no god but God, and the lowest of which is to remove something harmful from the road." — *Sahih Muslim* 35
+    {: .quote }
+
+    > "Every joint of a person owes a charity every day the sun rises: to judge fairly between two people is a charity, to help a man onto his mount or lift his luggage for him is a charity, a good word is a charity, every step towards the prayer is a charity, and removing something harmful from the road is a charity." — *Sahih al-Bukhari* 2989, *Sahih Muslim* 1009
+    {: .quote }
+1. **Burning as a punishment** was withdrawn after he had ordered it, on a stated principle.
+    > "I ordered you to burn so-and-so and so-and-so, but none punishes with fire except the Lord of the fire. So if you find them, kill them." — *Sahih al-Bukhari* 3016 (also *Sunan Abi Dawud* 2673)
+    {: .quote }
+
+    > He had given the order and then sent after the detachment to withdraw it, replacing it with the ordinary penalty.
+    {: .src }
+1. The **measure of an act was moved inside the person performing it**. Al-Bukhari opens his entire collection with this one, before anything about law or ritual.
+    > "Actions are only by intentions, and each person has only what he intended." — *Sahih al-Bukhari* 1
+    {: .quote }
+1. A man asked him for **a single piece of advice**, and got the same one however many times he asked.
+    > A man said: "Advise me." He said: "Do not become angry." The man asked again, repeatedly, and each time the answer was the same. — *Sahih al-Bukhari* 6116
+    {: .quote }
+
+### How He Taught
+
+The method is as well recorded as the content, and it is consistent: slow the situation down, keep the person in front of him, and make the reasoning available rather than issue the ruling alone.
+
+1. A **young man asked his permission to commit adultery**. The congregation moved on him and he called the man closer, sat him down, and worked through it: would you want it for your mother? For your daughter? Your sister? Your aunt? Each time the answer was no, and each time he said that people feel the same about theirs.
+    > *Musnad Ahmad* 22211, graded sound by Shuayb al-Arnaut. He then put his hand on the man's chest and prayed for him, and the man said afterwards that nothing became more hateful to him than what he had come to ask for.
+    {: .src }
+1. **Ma'iz** came to confess a capital offence and was **turned away four times**, with questions put to him about his sanity and his marriage before the confession was accepted at all.
+    > *Sahih al-Bukhari* 6825. The penalty was severe and the procedure for reaching it was built to make arriving there difficult.
+    {: .src }
+1. He **repeated a sentence three times** so that it would be understood, and spoke slowly enough that a listener could have counted the words.
+    > *Sahih al-Bukhari* 95 and 3568. Aisha's complaint about a man who "never talked so quickly and vaguely" is preserved in the second.
+    {: .src }
+1. He **joked, and did not lie in it**, which was noticed at the time and put to him directly. He told a man asking for a mount that he would give him the child of a she-camel, and left him to work out that every camel is one; he called Anas "the one with two ears".
+    > "They said: Messenger of God, you joke with us. He said: I do not say anything but the truth." — *Jami al-Tirmidhi* 1990, graded sound (see *Sunan Abi Dawud* 4998 and 5002)
+    {: .quote }
+1. The people who sat with him recorded what he was like in **ordinary company**.
+    > "The Messenger of God ﷺ did not keep himself from me from the time I accepted Islam, and he never saw me without smiling at me." — Jarir ibn Abdullah, *Sahih al-Bukhari* 3035
+    {: .quote }
+
+    > Set beside the bedouin who urinated in the mosque and the instruction that follows it — "make things easy and do not make things difficult" — the method is the same whether the person in front of him is a Companion, an enemy, or someone who has just done something outrageous.
+    {: .gloss }
 
 ### Power Without Enrichment
 
@@ -606,6 +857,16 @@ What a religious founder does once he has won is the part of the record easiest 
 1. The **generation he produced** is itself evidence. Men who had buried daughters alive and fought over pasture became administrators, jurists, and transmitters who preserved a text and a legal tradition with obsessive precision. When he died, they did not make him a god.
     > The crowd refused to believe he had died. Abu Bakr answered them by reciting the verse that calls Muhammad ﷺ a messenger who would pass away like the messengers before him. The community absorbed the loss of its founder and left him a man, which is what he had spent twenty-three years insisting he was.
     {: .gloss }
+1. The two tribes of Medina, **Aws and Khazraj**, had fought each other for generations, most recently at Buath a few years before he arrived. Within a short time they were one community, and the Qur'an points at the change as the thing they should find hardest to account for.
+    > “…when you were enemies and He brought your hearts together and you became, by His favor, brothers.” (**Sūrat Āl ʿImrān 3:103**), Saheeh International
+    >
+    > <div dir="rtl" lang="ar" class="quran-arabic">﴿إِذْ كُنتُمْ أَعْدَآءًۭ فَأَلَّفَ بَيْنَ قُلُوبِكُمْ فَأَصْبَحْتُم بِنِعْمَتِهِۦٓ إِخْوَٰنًۭا﴾ <span class="ayah-ref">[سُورَةُ آلِ عِمۡرَانَ: ١٠٣]</span></div>
+    {: .quote }
+1. Refugees arriving from Mecca with nothing were **paired with households in Medina**, who took them in and fed them. The Qur'an describes what the hosts did in terms it does not use lightly.
+    > “…but give [them] preference over themselves, even though they are in privation.” (**Sūrat al-Ḥashr 59:9**), Saheeh International
+    >
+    > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَيُؤْثِرُونَ عَلَىٰٓ أَنفُسِهِمْ وَلَوْ كَانَ بِهِمْ خَصَاصَةٌۭ﴾ <span class="ayah-ref">[سُورَةُ الحَشۡرِ: ٩]</span></div>
+    {: .quote }
 
 ### Predictions Recorded Before Their Fulfilment
 
@@ -641,6 +902,23 @@ A prediction is worth something only if the record of it is older than the event
 1. He described signs of the end times, among them that **destitute barefoot shepherds would compete in constructing tall buildings**.
     > *Sahih al-Bukhari* 50 (and *Sahih Muslim* 8, the hadith of Gabriel).
     {: .src }
+1. A **short chapter condemning a named, living opponent**, which that opponent could have broken at any moment. Abu Lahab was his uncle and one of the most active enemies of his mission in Mecca. The chapter states that he will not be saved. He lived on for years afterwards, in a city where the wording was recited in public, and never once professed belief to falsify it.
+    > “May the hands of Abu Lahab be ruined, and ruined is he. His wealth will not avail him or that which he gained. He will [enter to] burn in a Fire of [blazing] flame.” (**Sūrat al-Masad 111:1-3**), Saheeh International
+    >
+    > <div dir="rtl" lang="ar" class="quran-arabic">﴿تَبَّتْ يَدَآ أَبِى لَهَبٍۢ وَتَبَّ ۝١ مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ ۝٢ سَيَصْلَىٰ نَارًۭا ذَاتَ لَهَبٍۢ ۝٣﴾ <span class="ayah-ref">سُورَةُ المَسَدِ</span></div>
+    {: .quote }
+
+    > Breaking it in front of the whole city would have taken one man saying a sentence he did not mean, and he had every reason to say it.
+    {: .gloss }
+1. He predicted a **violent faction coming out of his own following**, described how they would look and how they would sound, and did it in front of the man whose descendants he named.
+    > "Leave him. He has companions beside whom you would think your own prayer and fasting negligible. They recite the Qur'an and it does not go past their throats, and they will pass out of the religion as an arrow passes through game." — *Sahih al-Bukhari* 3610 (see also 6930)
+    {: .quote }
+
+    > The Khawarij appeared about a quarter of a century later, declared the rest of the community unbelievers, and killed Ali, the fourth caliph. A movement inventing predictions on its own behalf does not invent this one.
+    {: .gloss }
+1. He told **Fatima**, during his final illness, that she would be the first of his family to follow him. She died within six months.
+    > *Sahih al-Bukhari* 3623, 3624. Aisha, who was present, records that Fatima wept and then laughed, and would not say why until after his death.
+    {: .src }
 
     > This category needs care. Some widely circulated "prophecies" rest on weak chains of transmission. The well-known report about the conquest of Constantinople is one of them, since contemporary hadith scholars grade its chain weak, and it is therefore not used here. The argument is stronger for leaving such reports out.
     {: .gloss }
@@ -657,6 +935,34 @@ A prediction is worth something only if the record of it is older than the event
     > The reasoning is the emperor's, the testimony is a hostile witness's, and the report is preserved in the Muslims' own most rigorous collection.
     {: .gloss }
 1. His life is documented down to how he slept and what he ate. **Fourteen centuries of hostile scrutiny** of that record have turned up no pattern of cruelty, dishonesty, self-enrichment, or hypocrisy.
+
+### How the Record Was Kept
+
+Every claim above rests on the record being sound. The community that received it built a discipline for testing it, and that discipline is part of the evidence rather than a preliminary to it.
+
+1. Each report carries an **isnād**: a named chain of transmitters running from whoever wrote it down back to whoever witnessed it. A report arriving without one was not admissible.
+    > "The isnād is part of the religion. Were it not for the isnād, whoever wished could say whatever he wished." — ʿAbdullāh ibn al-Mubārak, reported by Muslim in the introduction to his *Ṣaḥīḥ*
+    {: .quote }
+1. Because the chains had to be checked, scholars catalogued the **transmitters themselves**: when each man was born and died, whom he studied under, whom he taught, how sound his memory stayed in old age, and whether anyone had ever caught him in a lie. The surviving dictionaries run to tens of thousands of entries.
+    > al-Mizzī's *Tahdhīb al-Kamāl* covers the narrators of the six main collections across thirty-five volumes. Ibn Hajar reduced it to *Tahdhīb al-Tahdhīb*, then to *Taqrīb al-Tahdhīb*, a single verdict on each man. al-Dhahabī's *Siyar Aʿlām al-Nubalāʾ* runs alongside them.
+    {: .src }
+1. The criticism ran **without exemption for kin or teachers**. ʿAlī ibn al-Madīnī, one of the founders of the discipline and a teacher of al-Bukhari, was asked about his own father as a transmitter and answered that his father was weak.
+    > The branch is called *al-jarḥ wa'l-taʿdīl*, impugning and accrediting. A scholar willing to put in writing that his own father cannot be relied on is not running a system built to protect reputations.
+    {: .gloss }
+1. Reports were **graded** — sound, good, weak, fabricated — and the forgeries were **collected and published** rather than quietly dropped. Ibn al-Jawzī's *al-Mawḍūʿāt* is a catalogue of sayings falsely attributed to the Prophet ﷺ, compiled by a Muslim scholar so that Muslims would stop repeating them.
+    > The material most damaging to the tradition's own literature was assembled and circulated by that tradition's own scholars, and it is still in print. It is how a reader today knows which famous sayings are not his.
+    {: .gloss }
+1. Writing ran **alongside the oral transmission from the beginning**. The *Ṣaḥīfa* of Hammām ibn Munabbih, a set of reports he took down directly from the Companion Abū Hurayra, still exists.
+    > Muhammad Hamidullah published it in 1953 from copies held in Damascus and Berlin — transmitted copies rather than Hammām's own sheet. It holds 137 reports, 99 of which appear in *Sahih al-Bukhari* and *Sahih Muslim*, having reached those collections along separate chains. A record written in the first Islamic century and one compiled in the third agree on the same material.
+    {: .src }
+1. Transmitters **travelled to hear a report first-hand** rather than take it at one remove, sometimes for months. The practice has a name of its own in the literature, *al-riḥla fī ṭalab al-ḥadīth*, the journey in search of hadith.
+1. What survives is the **residue of heavy filtering**. Al-Bukhari worked from a body of material far larger than what he published, and his *Ṣaḥīḥ* is what was left once his criteria had been applied to it, not a record of everything in circulation.
+1. Where a report reaches us along so many independent chains that agreement on a fabrication is not a live possibility, it is classed **mutawātir**. Where it does not, the collections say so, and the grade travels with the report.
+    > This is the answer to the charge that the record is legend. Legends are not built by people who publish the weaknesses in their own chains, catalogue the forgeries circulating in their own name, and grade a report about their own Prophet unreliable when its chain fails. The apparatus exists because the community drew a hard line between what God had said and what a man had said, and then spent three centuries policing the second.
+    {: .gloss }
+
+    > Dr. Jonathan Brown, *Hadith: Muhammad's Legacy in the Medieval and Modern World* (Oxford: Oneworld, 2009) is the standard academic survey of how the discipline worked and where its critics locate its limits.
+    {: .src }
 
 ### Foretold in Earlier Scriptures
 
@@ -696,13 +1002,48 @@ A prediction is worth something only if the record of it is older than the event
     > W. Montgomery Watt, *Muhammad at Mecca* (Oxford: Clarendon Press, 1953), p. 52.
     {: .src }
 
+### Reports of the Extraordinary
+
+Nothing above has depended on a miracle. The hadith literature does record physical ones, and they are set out separately because their weight as evidence is different: they rest entirely on the reliability of the transmission described above, whereas the rest of this section rests on things a hostile witness would concede. A reader who sets this subsection aside still has everything preceding it.
+
+What the cases below have in common is a public setting and an audience placed to contradict.
+
+1. The **splitting of the moon**. The Qur'an states it in Mecca, to the people who had been there, and records their reply — not that nothing happened, but that it was sorcery.
+    > “The Hour has come near, and the moon has split [in two]. And if they see a miracle, they turn away and say, ‘Passing magic.’” (**Sūrat al-Qamar 54:1-2**), Saheeh International
+    >
+    > <div dir="rtl" lang="ar" class="quran-arabic">﴿ٱقْتَرَبَتِ ٱلسَّاعَةُ وَٱنشَقَّ ٱلْقَمَرُ ۝١ وَإِن يَرَوْا۟ ءَايَةًۭ يُعْرِضُوا۟ وَيَقُولُوا۟ سِحْرٌۭ مُّسْتَمِرٌّۭ ۝٢﴾ <span class="ayah-ref">سُورَةُ القَمَرِ</span></div>
+    {: .quote }
+
+    > *Sahih al-Bukhari* 3636, where Ibn Mas'ud reports that he said "bear witness," and 3637, where Anas reports that the Meccans asked him for a sign and he showed them the moon split. The verse was recited in public in a city whose population had every motive to answer that it never happened, and the objection preserved in the text concedes the event and disputes its cause.
+    {: .src }
+1. **Water running from between his fingers**, reported by Companions who say they drank it and made ablution from it.
+    > *Sahih al-Bukhari* 3576 and 4152. Jabir was asked how many they were that day at Hudaybiyya: "Even if we had been a hundred thousand it would have been enough for us. We were fifteen hundred." Ibn Mas'ud reports the same thing from a different journey (*Sahih al-Bukhari* 3579).
+    {: .src }
+1. **The palm trunk.** He had preached leaning on a trunk in the mosque; when a pulpit was built and he used that instead, the trunk cried out, and he came down and put his hand on it until it settled.
+    > *Sahih al-Bukhari* 3583, 3584. Reported by more than one Companion, about the building the whole community prayed in every day.
+    {: .src }
+1. **Food multiplied at the Trench**, narrated by the man who supplied it. Jabir had one lamb and a measure of barley, and invited him quietly; his wife had asked him not to shame her in front of a crowd. He called the whole workforce.
+    > *Sahih al-Bukhari* 4102, *Sahih Muslim* 2039
+    {: .src }
+1. The **Night Journey**, stated in the Qur'an in a single verse. The challenge came the next morning: describe Jerusalem, to men who had traded there and knew what it looked like.
+    > “Exalted is He who took His Servant by night from al-Masjid al-Ḥarām to al-Masjid al-Aqṣā, whose surroundings We have blessed, to show him of Our signs.” (**Sūrat al-Isrāʾ 17:1**), Saheeh International
+    >
+    > <div dir="rtl" lang="ar" class="quran-arabic">﴿سُبْحَٰنَ ٱلَّذِىٓ أَسْرَىٰ بِعَبْدِهِۦ لَيْلًۭا مِّنَ ٱلْمَسْجِدِ ٱلْحَرَامِ إِلَى ٱلْمَسْجِدِ ٱلْأَقْصَا ٱلَّذِى بَٰرَكْنَا حَوْلَهُۥ لِنُرِيَهُۥ مِنْ ءَايَٰتِنَآ﴾ <span class="ayah-ref">[سُورَةُ الإِسۡرَاءِ: ١]</span></div>
+    {: .quote }
+
+    > "When the Quraysh disbelieved me, I stood in the Hijr, and God displayed Jerusalem to me, and I began describing its features to them while I was looking at it." — *Sahih al-Bukhari* 3886 (see also *Sahih Muslim* 170)
+    {: .quote }
+
+    > Abu Bakr's answer when the account was put to him — that if he said it, it is true — is where his title *al-Ṣiddīq* comes from. The sīra reports that others who had accepted him turned back over it, which is the opposite of what an invented credential is for.
+    {: .gloss }
+
 ### Why the Alternatives Do Not Explain Him
 
 Taken one at a time, most of the points on this page have an ordinary explanation. The difficulty is accounting for them all **together**. There are four standard alternatives to the claim he made about himself, and each one carries a cost.
 
 1. **That he was an impostor.** An impostor needs a motive, and the record removes each candidate in turn. Wealth was offered and refused, and he lived humbly. Power was offered and refused, and once he held it he neither enriched himself nor founded a dynasty. Status was offered and refused, and he barred his own family from the charity collection and left them no inheritance. The theory also requires a fabricator to write into his own scripture a rebuke for slighting a blind man, a reprimand for pleasing his wives, an exposure of his private fear, a denial of his power to alter the text, and a warning that inventing revelation would cost him his life. It then requires him to stand in front of his followers and take apart an eclipse they had already read as a sign for him.
 1. **That he was sincere but deluded.** This accounts for his integrity and leaves his output unexplained. The text came in fragments across twenty-three years, assembled into a coherent whole, and the finest rhetoricians of the age could not match it. Alongside it came two decades of sound legal, military, and political judgment, and a legal framework durable enough to govern a civilization. A man deluded about revelation would also have accepted the omen the crowd handed him, rather than dismantling it.
-1. **That the record is legend.** This is the most serious of the natural explanations, and it runs into the character of the material. The reports are early, they were transmitted along many independent chains, and they were screened by a discipline built to detect fabrication. The content tells more than the chains do. Legends do not preserve their hero being corrected by God, weeping, mistaken in his judgment, mortgaging his armour, or refusing a miracle credited to him. Admiring biography edits those moments out, and this material keeps them in.
+1. **That the record is legend.** This is the most serious of the natural explanations, and it runs into the character of the material. The reports are early, they were transmitted along many independent chains, and they were screened by a discipline built to detect fabrication — the subsection on [how the record was kept](#how-the-record-was-kept) sets that discipline out. The content tells more than the chains do. Legends do not preserve their hero being corrected by God, weeping, mistaken in his judgment, mortgaging his armour, or refusing a miracle credited to him. Admiring biography edits those moments out, and this material keeps them in.
 1. **That he was inspired by Satan.** Christian critics return to this one more often than to any of the others, and it is the oldest of the four. His Meccan opponents said the same thing, calling him possessed and his recitation the speech of a soothsayer, and the Qur'an answers the charge where it is made.
     > "It was not the devils who brought this ˹Quran˺ down: it is not for them ˹to do so˺, nor can they, for they are strictly barred from ˹even˺ overhearing ˹it˺." (**Sūrat al-Shuʿarāʾ 26:210-212**), Dr. Mustafa Khattab, *The Clear Quran*
     >
@@ -775,6 +1116,11 @@ The more of his life a person examines, the harder it becomes to explain as anyt
     > [There are No Holes in the Qur'anic Narrative \| Dr. Ali Ataie](https://youtu.be/zbM7qpBe5DM)
 
     > [How To Prove The Qur'an Has Been Preserved Accurately](https://youtu.be/n281Zyywyn4)
+
+- How were the Prophet's ﷺ own life and sayings preserved?
+    > [How the Record Was Kept](#how-the-record-was-kept) — the isnād, the biographical dictionaries, the grading of reports, and the published catalogues of forgeries
+
+    > [Blind Spots: The Origins of the Western Method of Critiquing Hadith \| Dr. Jonathan Brown](https://yaqeeninstitute.org/read/paper/blind-spots-the-origins-of-the-western-method-of-critiquing-hadith)
 
 - Did Prophet Muhammad ﷺ really exist?
     > [Did Muhammad ﷺ really exist? \| Blogging Theology](https://youtu.be/_mZgSIlX20U)
