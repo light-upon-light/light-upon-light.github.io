@@ -2,11 +2,15 @@
 
 Jekyll site (GitHub Pages) using the `minimal-mistakes` theme via `remote_theme`,
 pinned to 4.28.0. Pages live in `_pages/`. Build with
-`bundle exec jekyll build`.
+`bundle exec jekyll build`; preview locally with `bundle exec jekyll serve`.
 
 ## Writing style guide
 
-Make sure to refer to _notes\islamic_apologetics_style_guide.md whenever you come to write anything.
+Make sure to refer to _notes\islamic_apologetics_style_guide.md whenever you
+come to write anything, and to
+_notes\islamic_apologetics_methodolody_guide.md for the analytical approach —
+it governs articles on Qur'anic miraculousness, objections to the Prophet ﷺ,
+and moral/theological/legal criticisms of Islamic teachings.
 
 ## What gets published
 
@@ -209,8 +213,10 @@ sticky TOC sidebar is already on screen.
 
 Skin colours are hardcoded from `_sass/minimal-mistakes/skins/_dirt.scss` — the
 theme exposes its palette as Sass variables, not CSS custom properties, so an
-include cannot read them. Changing `minimal_mistakes_skin` means updating them
-by hand, in both palettes.
+include cannot read them. That path is inside the theme gem, not this repo
+(`remote_theme` never vendors it locally), so it isn't something to `Read` or
+`Grep` here — it's cited for provenance only. Changing `minimal_mistakes_skin`
+means updating the hardcoded values by hand, in both palettes.
 
 **Dark mode and the TOC drawer have their own failure modes. Read
 `_notes/theme_internals.md` before changing either.**
