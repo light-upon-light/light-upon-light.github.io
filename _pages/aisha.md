@@ -188,6 +188,10 @@ His wives argued with him openly, in a household where a wife's raised voice was
 > *Sahih al-Bukhari* 5191; also 4913–4915, in the commentary on *Sūrat al-Taḥrīm*.
 {: .src }
 
+The wider record of what Islam required of men towards women — consent, property,
+divorce at the wife's initiative, and the verses and reports usually quoted
+against it — is set out in [Islam and Women](/women).
+
 The community preserved all of it. Reports that show him tired, irritated, mistaken about a worldly matter, or on the losing end of an argument with his wife survive in the most respected collections, transmitted by people who revered him. A tradition constructing a flattering portrait leaves that material out.
 
 ### With children
@@ -201,7 +205,7 @@ For the accusation to hold, a great many things would have to be true at once. A
 
 ## Who else did he marry?
 
-The claim that this marriage reveals what he wanted is a claim about a pattern, and the pattern is available.
+The claim that this marriage reveals what he wanted is a claim about a pattern, and the pattern is available. What Islam permits by way of plural marriage, and the conditions it attaches, are treated separately in [Four Wives](/polygyny).
 
 **Khadija.** His first marriage lasted about twenty-five years. She was around fifteen years older than him, had been married twice before, and was a merchant of standing who had employed him before proposing to him. He took no other wife while she lived. That covers the whole of his physical prime, from his twenties to his fifties, in a society where polygamy was ordinary and unremarked. When she died he was around fifty.
 
