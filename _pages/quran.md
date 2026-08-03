@@ -189,7 +189,7 @@ share: true
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَتَمَّتْ كَلِمَتُ رَبِّكَ صِدْقًۭا وَعَدْلًۭا ۚ لَّا مُبَدِّلَ لِكَلِمَٰتِهِۦ ۚ وَهُوَ ٱلسَّمِيعُ ٱلْعَلِيمُ ۝١١٥﴾ <span class="ayah-ref">سُورَةُ الأَنۡعَامِ</span></div>
     {: .quote }
 1. **Prophesies its own ease of memorization**, which is now visible in the millions who have memorized it.
-    > “And We have certainly made the Qur'an easy for remembrance, so is there any who will remember?” (**Sūrat al-Qamar 54:17**), Saheeh International
+    > "And We have certainly made the Quran easy to remember. So is there anyone who will be mindful?" (**Sūrat al-Qamar 54:17**), Dr. Mustafa Khattab, *The Clear Quran*
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَلَقَدْ يَسَّرْنَا ٱلْقُرْءَانَ لِلذِّكْرِ فَهَلْ مِن مُّدَّكِرٍۢ ۝١٧﴾ <span class="ayah-ref">سُورَةُ القَمَرِ</span></div>
     {: .quote }
@@ -289,7 +289,7 @@ The argument of this section is **cumulative**. No single episode below is offer
 If the Qur'an were his own composition, the way it treats him is hard to explain. It corrects him, restricts him, and repeatedly withholds the things a man in his position would want.
 
 1. It **rebukes him publicly**, and the rebukes went into the permanent liturgy of everyone who would follow him. He was pressing the message on the chiefs of Mecca when a blind man interrupted to ask him something, and he frowned and turned away; a whole chapter opens by describing him doing it. He swore off something lawful to settle a quarrel between his wives, and was corrected for that. He let men out of marching to Tabuk on excuses he had not tested, and was corrected for that too.
-    > "He frowned and turned away, because the blind man came to him. But how do you know? Perhaps he might be purified, or he might be reminded, and the reminder would benefit him." (**Sūrat ʿAbasa 80:1-4**), Dr. Mustafa Khattab, *The Clear Quran*
+    > "He frowned and turned ˹his attention˺ away ˹simply˺ because the blind man came to him ˹interrupting˺. You never know ˹O Prophet˺, perhaps he may be purified or he may be mindful, benefitting from the reminder." (**Sūrat ʿAbasa 80:1-4**), Dr. Mustafa Khattab, *The Clear Quran*
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿عَبَسَ وَتَوَلَّىٰٓ ۝١ أَن جَآءَهُ ٱلْأَعْمَىٰ ۝٢ وَمَا يُدْرِيكَ لَعَلَّهُۥ يَزَّكَّىٰٓ ۝٣ أَوْ يَذَّكَّرُ فَتَنفَعَهُ ٱلذِّكْرَىٰٓ ۝٤﴾ <span class="ayah-ref">سُورَةُ عَبَسَ</span></div>
     {: .quote }
@@ -333,7 +333,7 @@ If the Qur'an were his own composition, the way it treats him is hard to explain
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿۞ يَٰٓأَيُّهَا ٱلرَّسُولُ بَلِّغْ مَآ أُنزِلَ إِلَيْكَ مِن رَّبِّكَ ۖ وَإِن لَّمْ تَفْعَلْ فَمَا بَلَّغْتَ رِسَالَتَهُۥ ۚ وَٱللَّهُ يَعْصِمُكَ مِنَ ٱلنَّاسِ ۗ إِنَّ ٱللَّهَ لَا يَهْدِى ٱلْقَوْمَ ٱلْكَٰفِرِينَ ۝٦٧﴾ <span class="ayah-ref">سُورَةُ المَائـِدَةِ</span></div>
     {: .quote }
 
-    > “Move not your tongue with it, [O Muhammad], to hasten with recitation of the Qur’ān. Indeed, upon Us is its collection [in your heart] and [to make possible] its recitation.” (**Sūrat al-Qiyāmah 75:16-17**), Saheeh International
+    > "Do not rush your tongue trying to memorize ˹a revelation of˺ the Quran. It is certainly upon Us to ˹make you˺ memorize and recite it." (**Sūrat al-Qiyāmah 75:16-17**), Dr. Mustafa Khattab, *The Clear Quran*
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿لَا تُحَرِّكْ بِهِۦ لِسَانَكَ لِتَعْجَلَ بِهِۦٓ ۝١٦ إِنَّ عَلَيْنَا جَمْعَهُۥ وَقُرْءَانَهُۥ ۝١٧﴾ <span class="ayah-ref">سُورَةُ القِيَامَةِ</span></div>
     {: .quote }
@@ -381,7 +381,7 @@ If the Qur'an were his own composition, the way it treats him is hard to explain
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَلَوْ تَقَوَّلَ عَلَيْنَا بَعْضَ ٱلْأَقَاوِيلِ ۝٤٤ لَأَخَذْنَا مِنْهُ بِٱلْيَمِينِ ۝٤٥ ثُمَّ لَقَطَعْنَا مِنْهُ ٱلْوَتِينَ ۝٤٦ فَمَا مِنكُم مِّنْ أَحَدٍ عَنْهُ حَٰجِزِينَ ۝٤٧﴾ <span class="ayah-ref">سُورَةُ الحَاقَّةِ</span></div>
     {: .quote }
 1. It lays **extra obligations on him alone**. The night vigil is optional for everyone else and required of him.
-    > “And from [part of] the night, pray with it as additional [worship] for you; it is expected that your Lord will resurrect you to a praised station.” (**Sūrat al-Isrāʾ 17:79**), Saheeh International
+    > "And rise at ˹the last˺ part of the night, offering additional prayers, so your Lord may raise you to a station of praise." (**Sūrat al-Isrāʾ 17:79**), Dr. Mustafa Khattab, *The Clear Quran*
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَمِنَ ٱلَّيْلِ فَتَهَجَّدْ بِهِۦ نَافِلَةًۭ لَّكَ عَسَىٰٓ أَن يَبْعَثَكَ رَبُّكَ مَقَامًۭا مَّحْمُودًۭا ۝٧٩﴾ <span class="ayah-ref">سُورَةُ الإِسۡرَاءِ</span></div>
     {: .quote }
@@ -389,12 +389,12 @@ If the Qur'an were his own composition, the way it treats him is hard to explain
     > The command to stand through most of the night came earlier still, in one of the first chapters revealed to him (**Sūrat al-Muzzammil 73:1-4**).
     {: .src }
 1. It **withholds what a man in his position would have wanted**, and it does so at the height of his power rather than at the start. Further marriage is closed off to him, and his existing wives are offered their release in the starkest terms available.
-    > “Not lawful to you, [O Muhammad], are [any additional] women after [this], nor [is it] for you to exchange them for [other] wives, even if their beauty were to please you, except what your right hand possesses. And ever is Allah, over all things, an Observer.” (**Sūrat al-Aḥzāb 33:52**), Saheeh International
+    > "It is not lawful for you ˹O Prophet˺ to marry more women after this, nor can you replace any of your present wives with another, even if her beauty may attract you—except those ˹bondwomen˺ in your possession. And Allah is ever Watchful over all things." (**Sūrat al-Aḥzāb 33:52**), Dr. Mustafa Khattab, *The Clear Quran*
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿لَّا يَحِلُّ لَكَ ٱلنِّسَآءُ مِنۢ بَعْدُ وَلَآ أَن تَبَدَّلَ بِهِنَّ مِنْ أَزْوَٰجٍۢ وَلَوْ أَعْجَبَكَ حُسْنُهُنَّ إِلَّا مَا مَلَكَتْ يَمِينُكَ ۗ وَكَانَ ٱللَّهُ عَلَىٰ كُلِّ شَىْءٍۢ رَّقِيبًۭا ۝٥٢﴾ <span class="ayah-ref">سُورَةُ الأَحۡزَابِ</span></div>
     {: .quote }
 
-    > “O Prophet, say to your wives, ‘If you should desire the worldly life and its adornment, then come, I will provide for you and give you a gracious release. But if you should desire Allah and His Messenger and the home of the Hereafter — then indeed, Allah has prepared for the doers of good among you a great reward.’” (**Sūrat al-Aḥzāb 33:28-29**), Saheeh International
+    > "O Prophet! Say to your wives, 'If you desire the life of this world and its luxury, then come, I will give you a ˹suitable˺ compensation ˹for divorce˺ and let you go graciously. But if you desire Allah and His Messenger and the ˹everlasting˺ Home of the Hereafter, then Surely Allah has prepared a great reward for those of you who do good.'" (**Sūrat al-Aḥzāb 33:28-29**), Dr. Mustafa Khattab, *The Clear Quran*
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿يَٰٓأَيُّهَا ٱلنَّبِىُّ قُل لِّأَزْوَٰجِكَ إِن كُنتُنَّ تُرِدْنَ ٱلْحَيَوٰةَ ٱلدُّنْيَا وَزِينَتَهَا فَتَعَالَيْنَ أُمَتِّعْكُنَّ وَأُسَرِّحْكُنَّ سَرَاحًۭا جَمِيلًۭا ۝٢٨ وَإِن كُنتُنَّ تُرِدْنَ ٱللَّهَ وَرَسُولَهُۥ وَٱلدَّارَ ٱلْءَاخِرَةَ فَإِنَّ ٱللَّهَ أَعَدَّ لِلْمُحْسِنَٰتِ مِنكُنَّ أَجْرًا عَظِيمًۭا ۝٢٩﴾ <span class="ayah-ref">سُورَةُ الأَحۡزَابِ</span></div>
     {: .quote }
@@ -482,7 +482,7 @@ The forms of veneration his society knew how to give were all offered to him, an
     > When his grandson Hasan, still a child, put a date from the charity collection in his mouth, he made him take it out (*Sahih al-Bukhari* 1491, see also 2432). On the inheritance, *Sahih al-Bukhari* 3092 and 3093: his daughter Fatima requested hers and was told there was none to give.
     {: .src }
 1. **Rulings went against his own side when the evidence did.** A Muslim clan framed a Jewish man for theft and sent their people to press the case; the revelation came down against them and told him not to argue for them. In an irrigation dispute between his own cousin Zubayr and a man of the Ansar, his first ruling gave Zubayr less than his legal entitlement in order to leave something for the other man.
-    > “Indeed, We have revealed to you, [O Muhammad], the Book in truth so you may judge between the people by that which Allah has shown you. And do not be for the deceitful an advocate.” (**Sūrat al-Nisāʾ 4:105**), Saheeh International
+    > "Indeed, We have sent down the Book to you ˹O Prophet˺ in truth to judge between people by means of what Allah has shown you. So do not be an advocate for the deceitful." (**Sūrat al-Nisāʾ 4:105**), Dr. Mustafa Khattab, *The Clear Quran*
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿إِنَّآ أَنزَلْنَآ إِلَيْكَ ٱلْكِتَٰبَ بِٱلْحَقِّ لِتَحْكُمَ بَيْنَ ٱلنَّاسِ بِمَآ أَرَىٰكَ ٱللَّهُ ۚ وَلَا تَكُن لِّلْخَآئِنِينَ خَصِيمًۭا ۝١٠٥﴾ <span class="ayah-ref">سُورَةُ النِّسَاءِ</span></div>
     {: .quote }
@@ -554,12 +554,12 @@ What a religious founder does once he has won is the part of the record easiest 
     > "The strong is not the one who overcomes people by his strength, but the strong is the one who controls himself while in anger." — *Sahih al-Bukhari* 6114
     {: .quote }
 1. The Qur'an describes the same disposition, crediting the **cohesion of the community** to his gentleness and saying plainly what harshness would have cost him.
-    > "So by mercy from Allāh, ˹O Muḥammad˺, you were lenient with them. And if you had been rude ˹in speech˺ and harsh in heart, they would have disbanded from about you." (**Sūrat Āl ʿImrān 3:159**), Saheeh International
+    > "It is out of Allah's mercy that you ˹O Prophet˺ have been lenient with them. Had you been cruel or hard-hearted, they would have certainly abandoned you." (**Sūrat Āl ʿImrān 3:159**), Dr. Mustafa Khattab, *The Clear Quran*
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿فَبِمَا رَحْمَةٍۢ مِّنَ ٱللَّهِ لِنتَ لَهُمْ ۖ وَلَوْ كُنتَ فَظًّا غَلِيظَ ٱلْقَلْبِ لَٱنفَضُّوا۟ مِنْ حَوْلِكَ﴾ <span class="ayah-ref">[سُورَةُ آلِ عِمۡرَانَ: ١٥٩]</span></div>
     {: .quote }
 
-    > "There has certainly come to you a Messenger from among yourselves. Grievous to him is what you suffer; ˹he is˺ concerned over you and to the believers is kind and merciful." (**Sūrat al-Tawbah 9:128**), Saheeh International
+    > "There certainly has come to you a messenger from among yourselves. He is concerned by your suffering, anxious for your well-being, and gracious and merciful to the believers." (**Sūrat al-Tawbah 9:128**), Dr. Mustafa Khattab, *The Clear Quran*
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿لَقَدْ جَآءَكُمْ رَسُولٌۭ مِّنْ أَنفُسِكُمْ عَزِيزٌ عَلَيْهِ مَا عَنِتُّمْ حَرِيصٌ عَلَيْكُم بِٱلْمُؤْمِنِينَ رَءُوفٌۭ رَّحِيمٌۭ ۝١٢٨﴾ <span class="ayah-ref">سُورَةُ التَّوۡبَةِ</span></div>
     {: .quote }
@@ -625,7 +625,7 @@ Slaves, orphans, animals, and neighbours could neither repay a kindness nor puni
     > "The most complete of the believers in faith is the one with the best character among them. And the best of you are those who are best to your wives." — *Jami al-Tirmidhi* 1162
     {: .quote }
 1. **A daughter had counted as a liability, and he made raising one a route to the highest reward on offer.** The Qur'an abolished female infanticide by putting the buried daughter herself on the stand at the Judgment, and he attached to raising girls the reward he elsewhere reserved for very little.
-    > "And when the baby girl, buried alive, is asked, for what crime she was killed." (**Sūrat al-Takwīr 81:8-9**), Dr. Mustafa Khattab, *The Clear Quran*
+    > "And when the girl [who was] buried alive is asked, for what sin she was killed." (**Sūrat al-Takwīr 81:8-9**), Saheeh International
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَإِذَا ٱلْمَوْءُۥدَةُ سُئِلَتْ ۝٨ بِأَىِّ ذَنۢبٍۢ قُتِلَتْ ۝٩﴾ <span class="ayah-ref">سُورَةُ التَّكۡوِيرِ</span></div>
     {: .quote }
@@ -885,7 +885,7 @@ Every claim above rests on the record being sound. The community that received i
 A prediction is worth something only if the record of it is older than the event. The hadith collections were compiled and closed in the third Islamic century, roughly the ninth century CE, so anything fulfilled after that date is recorded in a text demonstrably older than what it describes. Those are the cases cited here, and reports with weak chains of transmission are left out.
 
 1. He made **falsifiable public statements about named living opponents**, which those opponents could have broken at any moment. Abu Lahab was his uncle and one of the most active enemies of his mission in Mecca, and a short chapter states that he will not be saved. He lived on for years afterwards, in a city where the wording was recited in public, and never once professed belief to falsify it.
-    > “May the hands of Abu Lahab be ruined, and ruined is he. His wealth will not avail him or that which he gained. He will [enter to] burn in a Fire of [blazing] flame.” (**Sūrat al-Masad 111:1-3**), Saheeh International
+    > "May the hands of Abu Lahab perish, and he ˹himself˺ perish. Neither his wealth nor ˹worldly˺ gains will benefit him. He will burn in a flaming Fire." (**Sūrat al-Masad 111:1-3**), Dr. Mustafa Khattab, *The Clear Quran*
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿تَبَّتْ يَدَآ أَبِى لَهَبٍۢ وَتَبَّ ۝١ مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ ۝٢ سَيَصْلَىٰ نَارًۭا ذَاتَ لَهَبٍۢ ۝٣﴾ <span class="ayah-ref">سُورَةُ المَسَدِ</span></div>
     {: .quote }
@@ -942,7 +942,7 @@ Nothing above has depended on a miracle. The hadith literature does record physi
 What the cases below have in common is a public setting and an audience placed to contradict.
 
 1. The **splitting of the moon**. The Qur'an states it in Mecca, to the people who had been there, and records their reply — not that nothing happened, but that it was sorcery.
-    > “The Hour has come near, and the moon has split [in two]. And if they see a miracle, they turn away and say, ‘Passing magic.’” (**Sūrat al-Qamar 54:1-2**), Saheeh International
+    > "The Hour has drawn near and the moon was split ˹in two˺. Yet, whenever they see a sign, they turn away, saying, 'Same old magic!'" (**Sūrat al-Qamar 54:1-2**), Dr. Mustafa Khattab, *The Clear Quran*
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿ٱقْتَرَبَتِ ٱلسَّاعَةُ وَٱنشَقَّ ٱلْقَمَرُ ۝١ وَإِن يَرَوْا۟ ءَايَةًۭ يُعْرِضُوا۟ وَيَقُولُوا۟ سِحْرٌۭ مُّسْتَمِرٌّۭ ۝٢﴾ <span class="ayah-ref">سُورَةُ القَمَرِ</span></div>
     {: .quote }
@@ -959,7 +959,7 @@ What the cases below have in common is a public setting and an audience placed t
     > *Sahih al-Bukhari* 4102, *Sahih Muslim* 2039
     {: .src }
 1. The **Night Journey**, stated in the Qur'an in a single verse. The challenge came the next morning: describe Jerusalem, to men who had traded there and knew what it looked like.
-    > “Exalted is He who took His Servant by night from al-Masjid al-Ḥarām to al-Masjid al-Aqṣā, whose surroundings We have blessed, to show him of Our signs.” (**Sūrat al-Isrāʾ 17:1**), Saheeh International
+    > "Glory be to the One Who took His servant ˹Muḥammad˺ by night from the Sacred Mosque to the Farthest Mosque whose surroundings We have blessed, so that We may show him some of Our signs." (**Sūrat al-Isrāʾ 17:1**), Dr. Mustafa Khattab, *The Clear Quran*
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿سُبْحَٰنَ ٱلَّذِىٓ أَسْرَىٰ بِعَبْدِهِۦ لَيْلًۭا مِّنَ ٱلْمَسْجِدِ ٱلْحَرَامِ إِلَى ٱلْمَسْجِدِ ٱلْأَقْصَا ٱلَّذِى بَٰرَكْنَا حَوْلَهُۥ لِنُرِيَهُۥ مِنْ ءَايَٰتِنَآ﴾ <span class="ayah-ref">[سُورَةُ الإِسۡرَاءِ: ١]</span></div>
     {: .quote }
@@ -1018,7 +1018,7 @@ Taken one at a time, most of the points on this page have an ordinary explanatio
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَمَا تَنَزَّلَتْ بِهِ ٱلشَّيَٰطِينُ ۝٢١٠ وَمَا يَنۢبَغِى لَهُمْ وَمَا يَسْتَطِيعُونَ ۝٢١١ إِنَّهُمْ عَنِ ٱلسَّمْعِ لَمَعْزُولُونَ ۝٢١٢﴾ <span class="ayah-ref">سُورَةُ الشُّعَرَاءِ</span></div>
     {: .quote }
 
-    > "And this ˹Quran˺ is not the word of an outcast devil." (**Sūrat al-Takwīr 81:25**), Dr. Mustafa Khattab, *The Clear Quran*
+    > "And the Qur'an is not the word of a devil, expelled [from the heavens]." (**Sūrat al-Takwīr 81:25**), Saheeh International
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَمَا هُوَ بِقَوْلِ شَيْطَٰنٍۢ رَّجِيمٍۢ ۝٢٥﴾ <span class="ayah-ref">سُورَةُ التَّكۡوِيرِ</span></div>
     {: .quote }
