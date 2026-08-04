@@ -30,3 +30,9 @@ general:
 - punsihments and ridda: more of a social order thing, and not the punishment for the action itself (in the case of ridda it's more of a treason punishment, and someone who corrupts the social order by his ridda). evidenced by the fact that forgiveness and repentance is one of the most emphasized points in the quran and prophet's teachings. And that idra'ū al-ḥudūd bi'l-shubuhāt. And the 4 witnesses thing in punishments. And The amount of times these punishments were actually applied. And that in general the rulers shouldn't go after people to find their mistakes. It's clear that a person's journey is between themselves and God and that God is immediately forgiving for those, however when it comes to the social order and hurting others and undermining the order in society aspect, that's when serious and public punishments are invoked.
 - when giving examples of muslims or rulers that did things that were against the religion, make it clear "when" those were, since the closer you are to the prophet, the better rulers were and the more closely they followed the teachings.
 - add that the wadribuhunna is equivalent to the light shove that a spouse would do to the other when the latter initiates physical intimacy and the other is rejecting it out of being sad
+
+--
+
+aisha:
+- make it bullet points, add bolding
+- make style easier to read, add summary
