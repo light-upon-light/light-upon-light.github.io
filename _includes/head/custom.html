@@ -177,6 +177,24 @@
     margin-block: 1.3em !important;
   }
 
+  /* Lists and blockquotes were carrying the browser's UA default indents
+     (ul/ol padding-inline-start: 40px; blockquote margin-inline-start:
+     40px, which the theme's own blockquote rule below never touched).
+     On a bullet-led site that's a lot of reclaimable line width -- a
+     narrower line wraps to more lines, which costs far more vertical
+     space than the indent bought in scannability. Quotes nested inside a
+     bullet were paying both indents at once (list padding + blockquote
+     margin + blockquote padding), so this matters most there. */
+  .page__content ul,
+  .page__content ol {
+    padding-inline-start: 1.25em !important;
+  }
+
+  .page__content blockquote {
+    margin-inline: 0 !important;
+    padding-inline: 0.75em !important;
+  }
+
   /* generally smaller than body text, matching the existing .src
      convention below rather than inventing a second scale */
   .page__content blockquote {
