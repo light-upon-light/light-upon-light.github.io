@@ -135,6 +135,30 @@
      heading rules (e.g. h1 { font-size: 1.563em }) are already relative to
      this, so headings inside articles shrink proportionally along with
      paragraphs. */
+  /* Shrink article body text (not the masthead, nav, or TOC) so more of an
+     article fits on screen without scrolling. Em-based: the theme's own
+     heading rules (e.g. h1 { font-size: 1.563em }) are already relative to
+     this, so headings inside articles shrink proportionally along with
+     paragraphs. */
+  .page__content {
+    font-size: 0.85em;
+  }
+
+  /* The TOC widget (nav.toc, both the desktop sticky sidebar and the
+     mobile inline version) renders inside .page__content, so without this
+     it inherits the reduction above and reads smaller than the rest of
+     the site's navigation. rem, not em, so it's sized off the root and
+     doesn't restack with the ancestor's reduced font-size. */
+  .page__content .toc {
+    font-size: 1rem;
+  }
+
+  /* generally smaller than body text, matching the existing .src
+     convention below rather than inventing a second scale */
+  .page__content blockquote {
+    font-size: 0.9em !important;
+  }
+
   /* revealed text: gold */
   blockquote.quote {
     border-inline-start-color: #a8792a;
