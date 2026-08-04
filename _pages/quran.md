@@ -1098,7 +1098,7 @@ The more of his life a person examines, the harder it becomes to explain as anyt
 - How can the Qur'an be a Miracle for NON-ARABIC Speakers?
     > [How can the Qur'an be a Miracle for NON-ARABIC Speakers? \| Arabic101](https://youtu.be/5fyF-35naDE)
 
-## Common Misconceptions About Islam
+## Misconceptions About Islam
 
 > Some teachings, verses, and historical events are frequently misunderstood, quoted without context, or misrepresented. This section examines some of the most common claims about Islam and provides the relevant historical, linguistic, and scholarly context, while considering the broader context of the Qur’an, the teachings of Prophet Muhammad ﷺ, and Islam’s core message as a whole, to help readers evaluate these topics fairly.
 
@@ -1107,11 +1107,11 @@ The more of his life a person examines, the harder it becomes to explain as anyt
     > verses and reports most often quoted against it. Links out to the pages
     > below.
 
-- Islam and domestic violence
-    > [Islam and the Misreading of Qur'an 4:34](/wadribuhunna)
-
 - Prophet Muhammad's marriage to our mother Aisha
     > [The Prophet Muhammad's Marriage to Aisha](/aisha)
+
+- Islam and domestic violence
+    > [Islam and the Misreading of Qur'an 4:34](/wadribuhunna)
 
 - The jizya, the tax non-Muslims paid under Muslim rule
     > [The Jizya: What Non-Muslims Paid, and What For](/jizya)
