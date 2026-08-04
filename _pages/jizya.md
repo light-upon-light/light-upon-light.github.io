@@ -39,8 +39,8 @@ collections.
 
 ## The objection
 
-The strongest version of the criticism is not that a tax existed. It is that the
-tax was designed to coerce belief. Put as an argument:
+The strongest version of the criticism grants that a tax existed and objects to
+what it was for: designed to coerce belief.
 
 - Non-Muslims paid for being non-Muslim. Converting ended the liability at once,
   so the tax attached to the belief and to nothing else.
@@ -183,9 +183,9 @@ The verse closes with the words *ʿan yadin wa-hum ṣāghirūn*:
   through an intermediary. Read another way, taking *yad* in its ordinary sense
   of capacity or power, it means according to means, which is how the tiered
   rates were in fact assessed.[^6]
-- *ṣāghirūn* is the harder word. Translating it "humbled" is defensible, and
-  there is no point pretending otherwise. What is disputed is what the humbling
-  consists of. Al-Shafi'i, founder of one of the four schools of law, understood
+- *ṣāghirūn* is the harder word, and "humbled" is a fair translation of it. What
+  is disputed is what the humbling consists of. Al-Shafi'i, founder of one of the
+  four schools of law, understood
   it as submission to the law of the state: the acknowledgement that one now
   lives under a jurisdiction one did not choose. Other exegetes, al-Tabari among
   them, transmit reports describing a posture of visible submission at the moment
@@ -238,8 +238,7 @@ severe and well attested.
 
 ### When the state could not deliver, the money went back
 
-What happened when the protection failed says more than anything else about what
-the tax was for.
+What happened when the protection failed shows what the tax was actually for.
 
 - Before the battle of Yarmuk, with a large Byzantine army advancing and the
   Muslim forces pulling out of Syrian cities they could no longer hold, Abu
@@ -271,7 +270,7 @@ the tax was for.
 ## Where the criticism does land
 
 Islam should be judged by its authoritative teachings rather than by everything
-done in its name. That principle cuts both ways, so the departures need naming.
+done in its name. That cuts both ways: three real departures follow.
 
 - The discriminatory dress codes (*ghiyar*) enforced by the Abbasid caliph
   al-Mutawakkil from around 850 CE were a humiliation. They have no basis in the
@@ -284,9 +283,9 @@ done in its name. That principle cuts both ways, so the departures need naming.
   after his predecessor Akbar had abolished it. It was a political move against
   a Hindu majority, and contemporaries understood it as one.[^14]
 
-None of this is defensible, and defending the jizya does not require defending
-it. These are cases of particular rulers bending a legal category to political
-ends, which is not the claim the objection needs.
+None of this is defensible. But it is particular rulers bending a legal category
+to political ends, not the tax itself doing what the objection says it was built
+to do.
 
 ## Did it drive conversion?
 
@@ -333,10 +332,9 @@ Three things bear on it.
   bottom. That is an objection to a regressive head tax, and the Islamic sources
   supply the correction themselves: Abu Yusuf's rates are banded by wealth, and
   the obligation lapses altogether for the destitute.
-- The rulers the objection describes best are the ones who behaved worst.
-  Al-Mutawakkil's dress codes and Aurangzeb's reimposition were coercive in
-  intent. They are also the episodes classical and modern Muslim scholars have
-  criticised, and they look like departures because the sources give a standard
+- Al-Mutawakkil's dress codes and Aurangzeb's reimposition were coercive in
+  intent, and they are exactly the episodes classical and modern Muslim scholars
+  have criticised. They read as departures because the sources give a standard
   to depart from.
 
 The conquests themselves, and the wider claim that Islam spread by force, are
@@ -369,14 +367,14 @@ strength of one sentence from the Prophet ﷺ, and no source records anyone taki
 the governor's side. Later rulers who used the tax to degrade people were
 departing from the sources, not applying them.
 
-What survives of the objection is narrower than the original charge, and it is
-not nothing. A flat tax falling on one religious community did press hardest on
-the poorest members of it, and over centuries that pressure shows up in the
-conversion figures. What the record does not support is the claim that this was
-the point. A state built to manufacture converts would not exempt the destitute,
-pay their upkeep from the treasury, or refund the tax when its armies withdrew.
-Nor would it need a caliph to tell it that Muhammad ﷺ was sent as a prophet and
-not a tax collector.
+What survives of the objection is narrower than the original charge. A flat tax
+falling on one religious community did press hardest on the poorest members of
+it, and over centuries that pressure shows up in the conversion figures. What
+the record does not support is the claim that this was the point. A state built
+to manufacture converts would not exempt the destitute, pay their upkeep from
+the treasury, or refund the tax when its armies withdrew, and it would not need
+a caliph to remind it that Muhammad ﷺ was sent as a prophet and not a tax
+collector.
 
 ---
 
