@@ -1107,8 +1107,8 @@ The more of his life a person examines, the harder it becomes to explain as anyt
     > verses and reports most often quoted against it. Links out to the pages
     > below. -->
 
-- Prophet Muhammad's marriage to our mother Aisha
-    > [The Prophet Muhammad's Marriage to Aisha](/aisha)
+- Prophet Muhammad's marriage to our Lady Aisha
+    > [The Prophet Muhammad's Marriage to Lady Aisha](/aisha)
 
 - Islam and domestic violence
     > [Islam and the Misreading of Qur'an 4:34](/wadribuhunna)
