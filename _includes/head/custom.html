@@ -174,6 +174,15 @@
     margin-top: 0 !important;
   }
 
+  /* .page__content a:not(.btn):hover underlines every link inside an
+     article, and the TOC lives in .page__content (see above), so its
+     links picked up the underline too -- appropriate for prose links,
+     not for navigation. One more class than the theme rule so it wins
+     on specificity, matching the pattern above. */
+  .page__content .toc .toc__menu a:hover {
+    text-decoration: none;
+  }
+
   /* Font-size alone barely moves content-per-screen, since line-height and
      the em-based margins on headings/blockquotes ride along with it
      proportionally rather than compounding. Tightening them independently
@@ -244,6 +253,18 @@
     border-inline-start-color: #2e6b63;
     background-color: rgba(46, 107, 99, 0.05);
     padding-block: 0.6em;
+  }
+
+  /* The panel's own padding-block already sets the gap above and below the
+     text; without this, the <p>'s UA margin (~0.75em) stacks on top of it
+     on both ends, doubling the gap and reading as leftover empty space
+     inside the coloured panel. */
+  blockquote.gloss > p:first-child {
+    margin-top: 0;
+  }
+
+  blockquote.gloss > p:last-child {
+    margin-bottom: 0;
   }
 </style>
 

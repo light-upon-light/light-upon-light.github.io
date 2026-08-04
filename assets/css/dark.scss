@@ -185,3 +185,16 @@ body #toc-backdrop {
 body .toc__heading-row {
   border-bottom-color: $border-color;
 }
+
+/* Active-row highlight, dark counterpart of the rule in
+   _includes/footer/custom.html -- same colours as the theme's own
+   `.toc .active a` in this palette. */
+body .toc .active > .toc__heading-row {
+  background-color: #7d6f5a;
+}
+
+body .toc .active > .toc__heading-row,
+body .toc .active > .toc__heading-row a,
+body .toc .active > .toc__heading-row .toc__toggle {
+  color: #fff;
+}

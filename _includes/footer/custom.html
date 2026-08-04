@@ -285,6 +285,24 @@
     transition: transform 0.2s ease;
   }
 
+  /* The theme's own `.toc .active a` colours only the <a>, sized to its
+     own text (see above), so the toggle button sat outside the highlight
+     and looked unstyled next to it. Painting the whole row instead reads
+     as one continuous highlighted bar. The <a>'s own colour is repeated
+     explicitly rather than left to inherit from the row -- the theme's
+     `.toc__menu a` sets colour directly on the element, and a specified
+     value there always wins over an inherited one regardless of the
+     ancestor rule's specificity. */
+  .toc .active > .toc__heading-row {
+    background-color: #d6d6d6;
+  }
+
+  .toc .active > .toc__heading-row,
+  .toc .active > .toc__heading-row a,
+  .toc .active > .toc__heading-row .toc__toggle {
+    color: #3d4144;
+  }
+
   .toc__menu > li.is-collapsed > .toc__heading-row .toc__toggle svg {
     transform: rotate(-90deg);
   }
