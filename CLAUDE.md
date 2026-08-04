@@ -2,7 +2,7 @@
 
 Jekyll site (GitHub Pages) using the `minimal-mistakes` theme via `remote_theme`,
 pinned to 4.28.0. Pages live in `_pages/`. Build with
-`bundle exec jekyll build`; preview locally with `bundle exec jekyll serve`.
+`bundle exec jekyll build`.
 
 ## Writing style guide
 
