@@ -18,16 +18,16 @@ share: true
 {% include back-to-quran.html %}
 
 Under Muslim rule, non-Muslims paid a tax called the **jizya** that Muslims did
-not pay. The word appears once in the Qur'an, in a verse that tells Muslims to
-fight certain opponents *until they pay the jizya* — and that verse ends with a
-phrase usually rendered "while they are humbled."[^1] Critics read the
-arrangement as a fine for refusing to convert, or as a system built to make
-Islam the cheaper option.
+not pay. The word appears once in the Qur'an, in a verse telling Muslims to
+fight certain opponents *until they pay the jizya*, and that verse ends with a
+phrase usually rendered "while they are humbled."[^1] Critics read this as a
+fine for refusing to convert, or as a system designed to make Islam the cheaper
+option.
 
-The charge is worth answering with the verse and the phrase in full view rather
-than around them. What settles it is not the verse alone but the shape of the
-tax: **who was made to pay, who was excused, what Muslims owed instead, and what
-happened when the state failed to deliver its side.**
+Both the verse and the phrase are dealt with below. But the verse on its own
+settles very little. The shape of the tax settles more: who paid it, who was
+excused, what Muslims owed in its place, and what happened when the state could
+not deliver its side of the bargain.
 
 **A note on terms.** *Jizya* is the tax itself. *Dhimma* is the covenant of
 protection a Muslim state extended to non-Muslim subjects, and *ahl al-dhimma* —
@@ -40,94 +40,90 @@ collections.
 ## The objection
 
 The strongest version of the criticism is not that a tax existed. It is that the
-tax was **designed to coerce belief**. Put as an argument:
+tax was designed to coerce belief. Put as an argument:
 
-- Non-Muslims were made to pay for being non-Muslim. Conversion ended the
-  liability immediately, so the tax attached to the belief and nothing else.
+- Non-Muslims paid for being non-Muslim. Converting ended the liability at once,
+  so the tax attached to the belief and to nothing else.
 - The Qur'an ties the payment to fighting and ends the verse with a word about
-  humiliation, so degradation was part of the design rather than an abuse of it.
+  humiliation, so degradation was built in rather than an abuse of it.
 - A standing financial penalty on a disfavoured religion is coercion even
   without violence. People convert to stop paying, and the state gets the
-  conversions without having to force anyone.
+  conversions without forcing anyone.
 
-Each of these can be checked. The first is a factual claim about who was liable,
-the second a claim about a verse, and the third a claim about what actually
-happened to conversion rates. They do not all fail in the same way.
+Each of these can be checked. The first is a claim about who was liable, the
+second about what a verse means, the third about what happened to conversion
+rates. They do not all fail in the same way.
 
 ## What the jizya was
 
-- The jizya was a **tax on non-Muslim men of military age and means, paid in
+- The jizya was a tax on non-Muslim men of military age and means, paid in
   exchange for exemption from military service and for the protection of the
-  state.** It was one half of a contract — the *dhimma*, the covenant of
-  protection — and the other half bound the Muslim ruler.
-- The contract was written down and its terms were specific. The treaty with the
-  people of Hira has the protected party stating what they were buying: **"the
+  state. It was half of a contract — the *dhimma*, the covenant of protection —
+  and the other half bound the Muslim ruler.
+- The contract was written down and its terms were specific. In the treaty with
+  the people of Hira, the protected party states what they are buying: **"the
   Muslims and their leader protect us from those who would oppress us, whether
   they be Muslims or others."**[^2]
 
-    > The clause is worth reading twice. Protection was owed **against the
-    > Muslim authorities themselves**, not only against foreign armies. That is
-    > a strange thing to write into a document whose purpose was supposedly to
-    > degrade the person paying.
+    > Protection was owed against the Muslim authorities themselves, not only
+    > against foreign armies. That is an odd clause to put in a document meant
+    > to degrade the people signing it.
     {: .gloss }
 
-- It was **not levied on non-Muslims generally**, only on those living under
-  Muslim rule as covenanted subjects. Non-Muslims outside the territory paid
-  nothing, and neither did non-Muslim allies.
+- It was not levied on non-Muslims generally, only on those living under Muslim
+  rule as covenanted subjects. Non-Muslims outside the territory paid nothing,
+  and neither did non-Muslim allies.
 
 ## Who paid, and who did not
 
-The exemption list is the most informative fact about the tax, and it is where
-the "penalty for unbelief" reading first runs into trouble. Across all four
-Sunni schools of law, jizya fell only on **free, adult, sane, non-Muslim men who
-were physically capable and had the means to pay**.[^3] Exempt were:
+The exemption list is where the "penalty for unbelief" reading first runs into
+trouble. Across all four Sunni schools of law, jizya fell only on **free, adult,
+sane, non-Muslim men who were physically capable and had the means to
+pay**.[^3] Exempt were:
 
 - women and children;
 - the elderly;
 - the poor, and anyone dependent on charity;
 - the chronically ill, the disabled, and the blind;
 - monks and clergy living in monasteries;
-- **anyone who served in the army** — non-Muslims who fought alongside Muslim
-  forces paid nothing, because the payment and the service were alternatives to
-  one another.[^4]
+- anyone who served in the army — non-Muslims who fought alongside Muslim forces
+  paid nothing, because the payment and the service were alternatives to one
+  another.[^4]
 
-> That list is not a set of humane concessions bolted onto a religious penalty.
-> **It maps precisely onto the people a state would not conscript.** A tax
-> punishing unbelief would fall on the unbelieving grandmother, the unbelieving
-> child, and the unbelieving monk — who were, if anything, the most
-> conspicuously unbelieving people in the community. It fell on none of them. It
-> fell on exactly the men who would otherwise have been called to fight.
+> That list matches the people a state would not conscript. A tax on unbelief
+> would fall on non-Muslim women, children and monks, who were if anything the
+> most visibly non-Muslim people in the community. It fell on none of them. It
+> fell on the men who would otherwise have been called up to fight.
 {: .gloss }
 
 - Abu Yusuf, the Hanafi jurist who served as chief judge under Harun al-Rashid
-  and wrote the earliest surviving manual of Islamic public finance, goes further
-  than exemption. Where a man had become destitute or infirm, he held that **the
-  state owed him support out of the treasury** — the obligation ran the other
-  way.[^5]
+  and wrote the earliest surviving manual of Islamic public finance, went further
+  than exemption. Where a man had become destitute or infirm, he held that the
+  state owed him support out of the treasury.[^5]
 
 ## What Muslims owed instead
 
-The comparison the objection invites is "non-Muslims taxed, Muslims not taxed."
-That is not the comparison. A Muslim under the same state owed two things a
-*dhimmi* did not.
+The objection invites the comparison "non-Muslims taxed, Muslims not taxed." But
+a Muslim under the same state owed two things a *dhimmi* — a non-Muslim subject
+under the covenant of protection — did not.
 
 - **Zakat**, the obligatory annual charity, assessed at two and a half per cent
-  of accumulated wealth rather than of income — a standing levy on savings with
-  no exemption for the able-bodied, and a religious obligation rather than a
-  civic one.
+  of accumulated wealth rather than of income. It is a standing levy on savings,
+  with no exemption for the able-bodied, and a religious duty rather than a civic
+  one.
 - **Military service.** Muslims were liable to be called up. Non-Muslims were
-  not, and the jizya was what stood in place of that liability.
+  not, and the jizya stood in place of that liability.
 
-> Whether this worked out cheaper or dearer varied with the year, the province,
-> and the man's wealth, and the article does not claim the *dhimmi* came out
-> ahead. The point is narrower and harder to dispute: **the choice was never
-> between paying and not paying.** It was between two sets of obligations, one
-> of which carried the risk of dying in somebody else's war.
+> Which of the two worked out cheaper varied with the year, the province and the
+> man's wealth, and there is no claim here that the *dhimmi* came out ahead. The
+> narrower point is that the choice was never between paying and not paying. It
+> was between two sets of obligations, one of which could get you killed in
+> somebody else's war.
 {: .gloss }
 
 ## The verse, in full
 
-The whole of the objection's scriptural weight rests on one verse:
+All of the objection's scriptural weight rests on one verse:
 
 > "Fight those who do not believe in Allah or in the Last Day and who do not
 > consider unlawful what Allah and His Messenger have made unlawful and who do
@@ -138,17 +134,16 @@ The whole of the objection's scriptural weight rests on one verse:
 > <div dir="rtl" lang="ar" class="quran-arabic">﴿قَٰتِلُوا۟ ٱلَّذِينَ لَا يُؤْمِنُونَ بِٱللَّهِ وَلَا بِٱلْيَوْمِ ٱلْءَاخِرِ وَلَا يُحَرِّمُونَ مَا حَرَّمَ ٱللَّهُ وَرَسُولُهُۥ وَلَا يَدِينُونَ دِينَ ٱلْحَقِّ مِنَ ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَٰبَ حَتَّىٰ يُعْطُوا۟ ٱلْجِزْيَةَ عَن يَدٍۢ وَهُمْ صَٰغِرُونَ ۝٢٩﴾ <span class="ayah-ref">سُورَةُ التَّوۡبَةِ</span></div>
 {: .quote }
 
-Two things about this verse are commonly misstated, and one genuine difficulty
-remains after they are cleared away.
+Two things about this verse are commonly misstated. A third problem is real and
+remains once the first two are cleared away.
 
 ### It is addressed to a war already under way
 
-- The verse is a **rule for concluding a conflict, not for starting one**. It
-  names an enemy already being fought and specifies the terms on which the
-  fighting stops. Revealed in the context of the Tabuk expedition against the
-  Byzantine frontier, it tells Muslims what settlement to accept.
-- The Qur'an elsewhere restricts fighting to those who fight first, in terms
-  that leave little room:
+- The verse is a rule for ending a conflict, not for starting one. It names an
+  enemy already being fought and gives the terms on which the fighting stops.
+  Revealed around the Tabuk expedition against the Byzantine frontier, it tells
+  Muslims what settlement to accept.
+- Elsewhere the Qur'an restricts fighting to those who fight first:
 
     > "Fight in the cause of Allah ˹only˺ against those who wage war against
     > you, but do not exceed the limits. Allah does not like transgressors"
@@ -157,8 +152,7 @@ remains after they are cleared away.
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَقَٰتِلُوا۟ فِى سَبِيلِ ٱللَّهِ ٱلَّذِينَ يُقَٰتِلُونَكُمْ وَلَا تَعْتَدُوٓا۟ ۚ إِنَّ ٱللَّهَ لَا يُحِبُّ ٱلْمُعْتَدِينَ ۝١٩٠﴾ <span class="ayah-ref">سُورَةُ البَقَرَةِ</span></div>
     {: .quote }
 
-- The same book forbids compelled belief outright, in a phrase short enough that
-  it has survived every attempt to qualify it:
+- The same book forbids compelled belief outright:
 
     > "Let there be no compulsion in religion" (**Sūrat al-Baqarah 2:256**),
     > Dr. Mustafa Khattab, *The Clear Quran*
@@ -167,7 +161,7 @@ remains after they are cleared away.
     {: .quote }
 
 - And it commands fairness toward non-Muslims who are not at war with Muslims,
-  as a positive duty rather than mere tolerance:
+  as a duty rather than as mere tolerance:
 
     > "Allah does not forbid you from dealing kindly and fairly with those who
     > have neither fought nor driven you out of your homes. Surely Allah loves
@@ -177,34 +171,33 @@ remains after they are cleared away.
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿لَّا يَنْهَىٰكُمُ ٱللَّهُ عَنِ ٱلَّذِينَ لَمْ يُقَٰتِلُوكُمْ فِى ٱلدِّينِ وَلَمْ يُخْرِجُوكُم مِّن دِيَٰرِكُمْ أَن تَبَرُّوهُمْ وَتُقْسِطُوٓا۟ إِلَيْهِمْ ۚ إِنَّ ٱللَّهَ يُحِبُّ ٱلْمُقْسِطِينَ ۝٨﴾ <span class="ayah-ref">سُورَةُ المُمۡتَحنَةِ</span></div>
     {: .quote }
 
-### The phrase everything turns on
+### The closing phrase
 
-The closing words are *ʿan yadin wa-hum ṣāghirūn*:
+The verse closes with the words *ʿan yadin wa-hum ṣāghirūn*:
 
 > <div dir="rtl" lang="ar" class="quran-arabic">﴿حَتَّىٰ يُعْطُوا۟ ٱلْجِزْيَةَ عَن يَدٍۢ وَهُمْ صَٰغِرُونَ﴾ <span class="ayah-ref">[سُورَةُ التَّوۡبَةِ: ٢٩]</span></div>
 {: .quote }
 
-- *ʿan yadin* means literally "from a hand," and the exegetes divide on it.
-  Read one way it means **willingly, from one's own hand** — paid directly and
-  without reluctance, rather than through an intermediary. Read another way,
-  taking *yad* in its familiar sense of capacity or power, it means **according
-  to means**, which is how the tiered rates were in fact assessed.[^6]
-- *ṣāghirūn* is the harder word, and translating it "humbled" is defensible.
-  **This should be conceded rather than argued around.** The interpretive
-  question is what the humbling consists of. Al-Shafi'i, founder of one of the
-  four schools, understood it as **submission to the law of the state** — the
-  acknowledgement that one now lives under a jurisdiction one did not choose.
-  Other exegetes, al-Tabari among them, transmit reports describing a posture of
-  visible submission at the moment of payment.[^7]
-- Classical scholars did not agree about this, and the disagreement is real. But
-  the practical question — **may the collector degrade the payer?** — was
-  answered plainly, and answered against.
+- *ʿan yadin* means literally "from a hand," and the exegetes divide on it. Read
+  one way it means willingly, from one's own hand: paid directly rather than
+  through an intermediary. Read another way, taking *yad* in its ordinary sense
+  of capacity or power, it means according to means, which is how the tiered
+  rates were in fact assessed.[^6]
+- *ṣāghirūn* is the harder word. Translating it "humbled" is defensible, and
+  there is no point pretending otherwise. What is disputed is what the humbling
+  consists of. Al-Shafi'i, founder of one of the four schools of law, understood
+  it as submission to the law of the state: the acknowledgement that one now
+  lives under a jurisdiction one did not choose. Other exegetes, al-Tabari among
+  them, transmit reports describing a posture of visible submission at the moment
+  of payment.[^7]
+- Classical scholars did not agree on this. But the practical question — may the
+  collector degrade the payer? — was answered, and answered no.
 
 ## What the covenant obliged Muslims to do
 
-This is where the "designed to humiliate" reading has to confront the material
-directly, because the Prophet's ﷺ instructions about protected non-Muslims are
-severe and they are well attested.
+Whatever *ṣāghirūn* meant, it has to be read alongside the Prophet's ﷺ
+instructions about protected non-Muslims — the *ahl al-dhimma* — which are
+severe and well attested.
 
 - Killing a covenanted non-Muslim is placed among the gravest offences:
 
@@ -215,10 +208,10 @@ severe and they are well attested.
     > *sahih*, with the wording *ahl al-dhimma*[^8]
     {: .src }
 
-- Mistreating them in the course of collecting the tax is condemned in the
-  sharpest terms available. Hisham ibn Hakim came upon a governor of Hims making
-  Coptic Christians stand in the sun to force payment, and stopped him with a
-  saying he had heard from the Prophet ﷺ directly:
+- Mistreating them while collecting the tax is condemned just as sharply. Hisham
+  ibn Hakim came upon a governor of Hims making Coptic Christians stand in the
+  sun to force payment, and stopped him with a saying he had heard from the
+  Prophet ﷺ directly:
 
     > "I heard the Messenger of Allah ﷺ say: **Allah Most High will punish those
     > who punish people in this world.**"
@@ -226,11 +219,10 @@ severe and they are well attested.
     > *Sahih Muslim* 2613[^9]
     {: .src }
 
-    > The incident is not a general exhortation to kindness. It is a Companion
-    > intervening against a **serving governor**, mid-collection, and treating
-    > the matter as settled by a single sentence from the Prophet ﷺ. Whatever
-    > *ṣāghirūn* licensed, it did not license this — and the man who stopped it
-    > was in a position to know what the verse had meant.
+    > This is not general advice about kindness. It is a Companion stopping a
+    > serving governor mid-collection, and treating one sentence from the
+    > Prophet ﷺ as enough to settle it. Whoever else was unclear about what
+    > *ṣāghirūn* permitted, Hisham was not.
     {: .gloss }
 
 - A further report has the Prophet ﷺ making himself the adversary of anyone who
@@ -239,166 +231,152 @@ severe and they are well attested.
   him anything without his consent, I shall plead against him on the Day of
   Judgment."*
 
-    > *Sunan Abi Dawud* 3052. The gradings on this report **disagree** — it is
-    > graded *sahih* in two assessments and *daif*, weak, in a third. It is
-    > offered here as corroboration of a position already established by the
-    > two reports above, not as independent proof.
+    > *Sunan Abi Dawud* 3052. The gradings on this report disagree: *sahih* in
+    > two assessments, *daif* (weak) in a third. It corroborates the two reports
+    > above rather than proving anything on its own.
     {: .src }
 
 ### When the state could not deliver, the money went back
 
-The clearest evidence that the jizya was payment for a service is what happened
-when the service failed.
+What happened when the protection failed says more than anything else about what
+the tax was for.
 
 - Before the battle of Yarmuk, with a large Byzantine army advancing and the
-  Muslim forces withdrawing from Syrian cities they could no longer hold, **Abu
-  Ubayda ibn al-Jarrah ordered the collected jizya returned** to the inhabitants
-  of Hims and wrote to the commanders of the other conquered cities of the
-  Levant instructing them to do the same. The reason given was that the tax had
-  been taken for protection and the protection could no longer be provided.[^10]
-- Khalid ibn al-Walid had already written the principle into a treaty as an
-  explicit condition: **"If we are able to protect you, we deserve the
-  collection of the jizya; otherwise we shall not."**[^11]
+  Muslim forces pulling out of Syrian cities they could no longer hold, Abu
+  Ubayda ibn al-Jarrah ordered the collected jizya returned to the inhabitants of
+  Hims, and wrote to the commanders of the other conquered cities of the Levant
+  telling them to do the same. His stated reason was that the money had been
+  taken for protection and the protection could no longer be given.[^10]
+- Khalid ibn al-Walid had already written the same principle into a treaty as a
+  condition: **"If we are able to protect you, we deserve the collection of the
+  jizya; otherwise we shall not."**[^11]
 
-    > A tax levied as a penalty for unbelief has no reason to be refunded — the
-    > unbelief has not gone anywhere. A tax levied for defence has every reason,
-    > and was in fact refunded, by commanders in the field, under military
-    > pressure, at the worst possible moment for the treasury.
+    > A penalty for unbelief has no reason to be refunded; the unbelief is still
+    > there. This money was returned by commanders in the field, with the
+    > treasury under pressure and an army advancing on them.
     {: .gloss }
 
 ## The rates
 
-- Abu Yusuf records a **three-tier annual rate assessed on wealth**: forty-eight
-  dirhams for the rich, twenty-four for those of middling means, and twelve for
-  craftsmen and manual labourers.[^12] Rates varied by time and province; this
+- Abu Yusuf records a three-tier annual rate assessed on wealth: forty-eight
+  dirhams for the rich, twenty-four for those of middling means, twelve for
+  craftsmen and manual labourers.[^12] Rates varied by period and province; this
   is the structure most often cited.
-- It was **annual and per head**, falling only on the liable adult male, not on
-  his household.
-- Where a man could not pay, the liability lapsed. Abu Yusuf's ruling is that
-  the obligation is void for the decrepit, the chronically ill, and the
-  destitute — and that such a man's family expenses fall on the public
-  treasury.[^5]
+- It was annual and per head, falling on the liable adult male only, not on his
+  household.
+- Where a man could not pay, the liability lapsed. Abu Yusuf rules that the
+  obligation is void for the decrepit, the chronically ill and the destitute, and
+  that such a man's family expenses fall on the public treasury.[^5]
 
 ## Where the criticism does land
 
-Islam should be judged by its authoritative teachings, not by everything done in
-its name — but that principle cuts both ways, and it means naming the departures
-plainly rather than passing over them.
+Islam should be judged by its authoritative teachings rather than by everything
+done in its name. That principle cuts both ways, so the departures need naming.
 
-- **The discriminatory dress codes** (*ghiyar*) enforced by the Abbasid caliph
-  al-Mutawakkil from around 850 CE were a genuine humiliation, and they have no
-  basis in the Qur'an or in the practice of the Prophet ﷺ or the early
-  caliphs.[^13]
-- **Some later jurists described degrading rituals** for the moment of
-  collection — the payer struck or seized as he handed over the money. These
-  were contested within the tradition itself and rejected by major figures as
-  having no foundation; they are commentary that hardened into custom in some
-  places, not law derived from the sources.
-- **Aurangzeb's reimposition of the jizya in Mughal India in 1679** — after his
-  predecessor Akbar had abolished it more than a century earlier — was a
-  political act against a Hindu majority, and was understood as such by
-  contemporaries.[^14]
+- The discriminatory dress codes (*ghiyar*) enforced by the Abbasid caliph
+  al-Mutawakkil from around 850 CE were a humiliation. They have no basis in the
+  Qur'an or in the practice of the Prophet ﷺ or the early caliphs.[^13]
+- Some later jurists described degrading rituals for the moment of collection,
+  with the payer struck or seized as he handed over the money. Major figures in
+  the tradition rejected these as having no foundation. They are commentary that
+  hardened into local custom, not law drawn from the sources.
+- Aurangzeb reimposed the jizya in Mughal India in 1679, more than a century
+  after his predecessor Akbar had abolished it. It was a political move against
+  a Hindu majority, and contemporaries understood it as one.[^14]
 
-None of these is defensible, and the case for the jizya does not require
-defending them. What they show is a legal category being **bent to political
-ends by particular rulers**, which is a different claim from the one the
-objection needs.
+None of this is defensible, and defending the jizya does not require defending
+it. These are cases of particular rulers bending a legal category to political
+ends, which is not the claim the objection needs.
 
 ## Did it drive conversion?
 
 The subtlest form of the criticism needs no cruelty at all. It says the tax
 worked as a standing financial incentive, and that conversions followed the
-money. **This part of the objection is substantially correct, and the honest
-course is to say so before answering it.**
+money. This part of the objection is largely correct.
 
-- The best modern work on the question is quantitative. Using Egyptian
-  papyrological tax records and later census data, Mohamed Saleh and Jean Tirole
-  find that the poll tax was **regressive** — a flat head charge falls hardest on
-  the poorest — and that **poorer Copts converted at higher rates as a result**,
-  leaving the Coptic community by 1200 as a smaller and comparatively better-off
-  minority.[^15] The tax had an effect on belief, and it can be measured.
-- What the same evidence does not support is speed. Egypt's conversion runs from
-  the conquest of **641 to around 1200** — five and a half centuries, over which
-  Egypt spent a long stretch majority-Christian under Muslim rule.[^15] Whatever
-  the tax was doing, it was not producing conversion at the pace a coercive
-  instrument produces compliance.
-- **The state's own incentives ran against conversion**, because every convert
+- The best modern work on it is quantitative. Using Egyptian papyrological tax
+  records and later census data, Mohamed Saleh and Jean Tirole find that the poll
+  tax was regressive — a flat head charge falls hardest on the poorest — and that
+  poorer Copts converted at higher rates as a result, leaving the Coptic
+  community by 1200 a smaller and comparatively better-off minority.[^15] The tax
+  affected belief, and the effect can be measured.
+- The same evidence tells against speed. Egypt's conversion runs from the
+  conquest in 641 to around 1200, five and a half centuries, and for a long
+  stretch of that Egypt was a majority-Christian country under Muslim rule.[^15]
+  Coercion does not usually take that long to work.
+- The state's own incentives ran against conversion, because every convert
   removed a taxpayer. Under the Umayyads this eroded revenue in Egypt, Iraq and
   Khurasan badly enough that provincial governors resisted, in some cases
   continuing to collect from men who had already become Muslim.[^16]
-- The caliph **Umar ibn Abd al-Aziz (r. 717–720) ordered the tax lifted from
-  converts anyway**, against his own treasury and over the objection of his
+- The caliph Umar ibn Abd al-Aziz (r. 717–720) ordered the tax lifted from
+  converts anyway, against his own treasury and over the objection of his
   governor in Khurasan, whose delegation complained that converts were raiding
-  without pay while still being taxed. His reported answer is the one line worth
-  keeping from the whole episode: **"Muhammad was sent as a prophet and not as a
-  tax collector."**[^17]
+  without pay while still being taxed. His reported answer was: **"Muhammad was
+  sent as a prophet and not as a tax collector."**[^17]
 
 ### What remains of the objection
 
-Conceding the incentive leaves a real moral question rather than a settled
-charge, and it deserves stating at full strength: **a differential tax on a
-disfavoured religion creates pressure on belief even when nobody is threatened,
-and a state that keeps such a tax is content to profit from that pressure.**
+Granting the incentive leaves a moral question rather than a settled charge: a
+differential tax on a disfavoured religion puts pressure on belief even when
+nobody is threatened, and a state that keeps such a tax is content to profit
+from that pressure.
 
 Three things bear on it.
 
-- **The tax had a stated function that was actually performed.** It bought
-  exemption from conscription and a protection obligation that was enforced,
-  refunded when it failed, and litigated against serving governors. A charge
-  with a genuine consideration behind it is not the same object as a fine, even
-  where its side effects run in a direction the state does not mind.
-- **The pressure ran through poverty, not through belief.** Saleh and Tirole's
-  finding is that the *poor* converted, because a flat charge is heaviest at the
-  bottom. That is an indictment of a regressive head tax — a defect the Islamic
-  sources themselves supply the tools to correct, since Abu Yusuf's rates are
-  banded by wealth and the obligation lapses entirely for the destitute.
-- **The rulers who behaved worst are the ones the objection describes best.**
+- The tax had a stated function, and the function was performed. It bought
+  exemption from conscription and an obligation of protection that was enforced,
+  refunded when it failed, and litigated against serving governors. A charge with
+  something real given in return is not a fine, even where its side effects suit
+  the state.
+- The pressure ran through poverty rather than through belief. Saleh and Tirole
+  found that the *poor* converted, because a flat charge is heaviest at the
+  bottom. That is an objection to a regressive head tax, and the Islamic sources
+  supply the correction themselves: Abu Yusuf's rates are banded by wealth, and
+  the obligation lapses altogether for the destitute.
+- The rulers the objection describes best are the ones who behaved worst.
   Al-Mutawakkil's dress codes and Aurangzeb's reimposition were coercive in
-  intent. They are also the episodes that classical and modern Muslim scholars
-  have criticised, and they read as departures precisely because the sources give
-  a standard to depart from.
+  intent. They are also the episodes classical and modern Muslim scholars have
+  criticised, and they look like departures because the sources give a standard
+  to depart from.
 
 The conquests themselves, and the wider claim that Islam spread by force, are
 treated in [Did Islam Spread by the Sword?](/sword).
 
 ## The category no longer applies
 
-- The jizya presupposes a state that **conscripts one religious community and
-  exempts another**. Remove that, and the tax has nothing left to be in exchange
-  for.
+- The jizya presupposes a state that conscripts one religious community and
+  exempts another. Take that away and there is nothing left for the tax to be in
+  exchange for.
 - Modern states levy taxes and military obligations on citizens without
-  reference to religion. Egypt's Dar al-Ifta, among other authorities, holds
-  that **non-Muslims who have been full legal citizens with equal duties are not
-  liable to jizya at all** — the condition that generated the obligation is
-  gone.[^17]
-- This is not a modern embarrassment quietly retiring an awkward rule. It
-  follows from what the tax was for. An obligation contracted in exchange for
-  exemption from military service ends when the exemption ends.
+  reference to religion. Egypt's Dar al-Ifta, among other authorities, holds that
+  non-Muslims who hold full legal citizenship with equal duties are not liable to
+  jizya at all, because the condition that generated the obligation has
+  gone.[^18]
+- This follows from what the tax was for. An obligation contracted in exchange
+  for exemption from military service ends when the exemption ends.
 
 ## Conclusion
 
-The jizya was a **defence tax on men who were not being conscripted**, paid
-under a written covenant that bound the state to protect them and refunded when
-it could not. It exempted the very people a religious penalty would have
-targeted first, and it stood beside obligations of zakat and military service
-that fell on Muslims alone.
+The jizya was a defence tax on men who were not being conscripted, paid under a
+written covenant that bound the state to protect them and refunded when it could
+not. It exempted the very people a religious penalty would have targeted first,
+and it stood alongside zakat and military service, which fell on Muslims alone.
 
 The verse that authorises it is difficult, and *ṣāghirūn* is a hard word that
-translators have not softened. But whatever it meant, it did not license the
-treatment of the payer — a Companion stopped a governor mid-collection on the
-strength of a single sentence from the Prophet ﷺ, and the sources record no one
-defending the governor. Where later rulers made the tax an instrument of
-degradation, they departed from the sources rather than applied them.
+translators have not softened. But whatever it meant, it did not permit
+mistreating the payer. A Companion stopped a governor mid-collection on the
+strength of one sentence from the Prophet ﷺ, and no source records anyone taking
+the governor's side. Later rulers who used the tax to degrade people were
+departing from the sources, not applying them.
 
-What survives the examination is narrower than the original charge and should
-not be dressed up as nothing. **A flat tax falling on one religious community
-did exert pressure on the poorest members of it**, and over centuries that
-pressure showed up in the conversion figures. What the record does not support
-is the reading that makes this the point of the exercise: a state designing a
-conversion engine does not exempt the destitute, pay their upkeep out of the
-treasury, refund the tax when its armies withdraw, or have to be argued into
-releasing converts by a caliph telling it that Muhammad ﷺ was sent as a prophet
-and not a tax collector.
+What survives of the objection is narrower than the original charge, and it is
+not nothing. A flat tax falling on one religious community did press hardest on
+the poorest members of it, and over centuries that pressure shows up in the
+conversion figures. What the record does not support is the claim that this was
+the point. A state built to manufacture converts would not exempt the destitute,
+pay their upkeep from the treasury, or refund the tax when its armies withdrew.
+Nor would it need a caliph to tell it that Muhammad ﷺ was sent as a prophet and
+not a tax collector.
 
 ---
 
@@ -436,13 +414,13 @@ and not a tax collector.
 
 [^14]: Aurangzeb reimposed the jizya in 1679, reversing Akbar's abolition in the 1560s. Both dates are taken from standard reference accounts of Mughal India rather than from primary sources. [unverified]
 
-[^15]: Mohamed Saleh and Jean Tirole, [*Taxing Identity: Fiscal Policy and Conversions in Early Islam*](https://www.tse-fr.eu/sites/default/files/TSE/documents/doc/by/tirole/taxing_identity_051218.pdf), Toulouse School of Economics, 5 December 2018 — a theoretical model tested against Egyptian conversion between 641 and 1200. Summarising the earlier empirical result: "because the poll tax… was regressive in income, poorer Copts were more likely to convert to Islam. This led non-convert Copts to shrink into a better-off minority by 1200." The paper is cited here for a finding that runs against the argument of this section, and the concession is deliberate.
+[^15]: Mohamed Saleh and Jean Tirole, [*Taxing Identity: Fiscal Policy and Conversions in Early Islam*](https://www.tse-fr.eu/sites/default/files/TSE/documents/doc/by/tirole/taxing_identity_051218.pdf), Toulouse School of Economics, 5 December 2018 — a theoretical model tested against Egyptian conversion between 641 and 1200. Summarising the earlier empirical result: "because the poll tax… was regressive in income, poorer Copts were more likely to convert to Islam. This led non-convert Copts to shrink into a better-off minority by 1200." The finding runs against the argument of this section and is cited for that reason.
 
 [^16]: On conversion eroding the Umayyad tax base in Egypt, Iraq and Khurasan, see Saleh and Tirole as above, which frames the fiscal dilemma directly. The detail that some governors continued collecting from converts is reported in the scholarship surrounding the fiscal rescript of Umar II. [unverified]
 
 [^17]: **"Muhammad was sent as a prophet and not as a tax collector"** — attributed to Umar II and used as the epigraph of Saleh and Tirole, above. The delegation sent by al-Jarrah ibn Abd Allah al-Hakami, governor of Khurasan, complaining that *mawali* converts raided without pay while still being taxed, is reported in the scholarship on Islamization under Umar II; the primary chronicles have not been consulted directly here. [unverified]
 
-[^17]: Dar al-Ifta al-Misriyya, fatwa cited above: non-Muslims who have held full legal citizenship with equal obligations are not subject to jizya.
+[^18]: Dar al-Ifta al-Misriyya, fatwa cited above: non-Muslims who have held full legal citizenship with equal obligations are not subject to jizya.
 
 ## Qur'an verses cited
 
@@ -456,5 +434,5 @@ and not a tax collector.
 - Abu Yusuf, *Kitab al-Kharaj* — the earliest surviving manual of Islamic public finance, written for Harun al-Rashid
 - Al-Baladhuri, *Futuh al-Buldan*; trans. Philip Hitti, *The Origins of the Islamic State*
 - Thomas W. Arnold, *The Preaching of Islam: A History of the Propagation of the Muslim Faith*
-- Mohamed Saleh and Jean Tirole, *Taxing Identity: Fiscal Policy and Conversions in Early Islam* — quantitative work on Egyptian conversion, 641–1200, and the clearest statement of the case this article concedes
+- Mohamed Saleh and Jean Tirole, *Taxing Identity: Fiscal Policy and Conversions in Early Islam* — quantitative work on Egyptian conversion, 641–1200, and the clearest statement of the case this article grants
 - Dar al-Ifta al-Misriyya, [*Were Christians Forced to Pay the Jizyah to Spare Their Lives?*](https://www.dar-alifta.org/en/article/details/208/were-christians-forced-to-pay-the-jizyah-to-spare-their-lives)
