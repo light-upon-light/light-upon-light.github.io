@@ -2,16 +2,77 @@
 
 <!-- Amiri: designed for Qur'anic typesetting. Loaded so the end-of-ayah marker
      (U+06DD) encloses its digits and the ornate parentheses (U+FD3E/FD3F)
-     render correctly, rather than depending on the reader's installed fonts. -->
+     render correctly, rather than depending on the reader's installed fonts.
+
+     Source Serif 4: site-wide body/heading face, replacing the theme's
+     default system-UI sans stack.
+
+     Abril Fatface: masthead site-title only -- a heavier, more dramatic
+     display face reserved for the brand mark, distinct from the reading
+     type above. Single weight (400 is its only cut; the face is drawn
+     heavy by design, not by font-weight).
+
+     Karla: UI text that isn't reading content and isn't the brand mark --
+     the masthead nav link and the TOC. A humanist sans that complements
+     Source Serif 4 without competing with either the body serif or the
+     Abril Fatface title. -->
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Amiri:wght@400;700&display=swap">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Amiri:wght@400;700&family=Karla:wght@400;500;700&family=Source+Serif+4:ital,wght@0,400;0,600;0,700;1,400&display=swap">
 
 <style>
   /* form controls, scrollbars and the like. assets/css/dark.scss sets the
      dark counterpart. */
   :root {
     color-scheme: light;
+  }
+
+  /* Reading type face, replacing the theme's default system-UI sans stack
+     for body copy and headings. Deliberately scoped to body + headings, not
+     a blanket override: the theme gives nav/masthead/sidebar/buttons/TOC/
+     breadcrumbs/pagination/notices/tables their own explicit font-family
+     rule (same sans stack), so a `body *` wildcard would also have to fight
+     past those, plus Font Awesome's icon classes and the monospace code/
+     .quran-arabic rules below -- all of which need to keep their own font.
+     Leaving UI chrome in the system sans stack and reserving the serif for
+     reading content is also a deliberate, common editorial split, not just
+     the easy way out.
+
+     Plain paragraphs, lists, and blockquote text in .page__content have no
+     font-family rule of their own in the theme, so they already inherit
+     from body without needing to be named here.
+
+     !important for the same cascade-order reason as the other overrides in
+     this file: this include renders before main.css, so a plain override of
+     equal specificity loses to source order -- and the theme's own
+     h1-h6 rule is exactly that: equal specificity, defined later. */
+  body,
+  h1, h2, h3, h4, h5, h6 {
+    font-family: "Source Serif 4", Georgia, "Times New Roman", serif !important;
+  }
+
+  /* Masthead brand mark only -- a heavier, more dramatic display face than
+     the reading type above, reserved for the one-word site title. .site-title
+     has no font-family rule of its own in the theme (it inherits the sans
+     stack from its parent .masthead__inner-wrap), so this doesn't need
+     !important to win, but carries one anyway for consistency with the
+     cascade-order reasoning used throughout this file. font-weight: 400 is
+     Abril Fatface's only cut -- the face is drawn heavy, not made heavy by
+     weight. */
+  .site-title {
+    font-family: "Abril Fatface", "Source Serif 4", Georgia, serif !important;
+    font-weight: 400 !important;
+    letter-spacing: 0.01em;
+  }
+
+  /* Masthead nav link ("The Qur'an and the Messenger ﷺ") -- UI text, not
+     reading content and not the brand mark, so neither the serif nor the
+     display face belongs here. Like .site-title, this has no font-family
+     of its own in the theme (inherits sans from .masthead__inner-wrap), so
+     !important isn't required to win, but is kept for consistency. */
+  .masthead__menu-item a {
+    font-family: "Karla", -apple-system, BlinkMacSystemFont, "Roboto",
+                 "Segoe UI", Arial, sans-serif !important;
   }
 
   /* The mode toggle in the masthead, styled to match the theme's adjacent
@@ -153,6 +214,22 @@
     font-size: 1rem;
   }
 
+  /* TOC entries are UI navigation, not reading content, so they get the
+     same Karla treatment as the masthead nav link rather than the serif
+     reading face. .toc already has its own explicit sans-family rule in
+     the theme (equal specificity, defined later in main.css), hence
+     !important -- same cascade-order reason as elsewhere in this file.
+
+     #toc-panel is footer/custom.html's mobile floating-drawer clone of this
+     same widget, mounted outside .page__content -- without naming it here
+     too, the drawer would keep the theme's default sans while the desktop/
+     inline TOC switched to Karla. */
+  .page__content .toc,
+  #toc-panel .toc {
+    font-family: "Karla", -apple-system, BlinkMacSystemFont, "Roboto",
+                 "Segoe UI", Arial, sans-serif !important;
+  }
+
   /* Same problem as the font-size exemption above: the list-indent and
      heading-margin density rules further down also match .toc's own <ul>
      and its <h4> "On this page" title, adding an unwanted left indent and
@@ -172,6 +249,20 @@
 
   .page__content .toc .nav__title {
     margin-top: 0 !important;
+  }
+
+  /* "On this page" is UI chrome, like the rest of .toc, even though it
+     happens to render as an <h4>. Without this, the h1-h6 rule above pulls
+     just this title into the serif face while its sibling entries stay
+     Karla -- an inconsistency within one widget. Matches .toc's own font
+     above; more specific selector, so it wins regardless of the shared
+     !important. Also covers #toc-panel's clone, for the same reason as
+     the .toc rule above -- kept separate from the margin-top fix since
+     that one is inline-TOC-specific and this one isn't. */
+  .page__content .toc .nav__title,
+  #toc-panel .nav__title {
+    font-family: "Karla", -apple-system, BlinkMacSystemFont, "Roboto",
+                 "Segoe UI", Arial, sans-serif !important;
   }
 
   /* .page__content a:not(.btn):hover underlines every link inside an
