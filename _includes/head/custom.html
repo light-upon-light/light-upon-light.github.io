@@ -153,6 +153,30 @@
     font-size: 1rem;
   }
 
+  /* Font-size alone barely moves content-per-screen, since line-height and
+     the em-based margins on headings/blockquotes ride along with it
+     proportionally rather than compounding. Tightening them independently
+     (moderate cut, ~10-15%) is what actually buys more article per
+     viewport. !important for the same cascade-order reason as above;
+     specificity would otherwise tie with the theme's own .page__content
+     rules and lose to source order. */
+  .page__content {
+    line-height: 1.4 !important;
+  }
+
+  .page__content h1,
+  .page__content h2,
+  .page__content h3,
+  .page__content h4,
+  .page__content h5,
+  .page__content h6 {
+    margin-top: 1.3em !important;
+  }
+
+  .page__content blockquote {
+    margin-block: 1.3em !important;
+  }
+
   /* generally smaller than body text, matching the existing .src
      convention below rather than inventing a second scale */
   .page__content blockquote {
