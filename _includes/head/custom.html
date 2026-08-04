@@ -109,6 +109,32 @@
      11.2:1. Do not swap the .src colour back to an opacity -- opacity fades
      any link inside the block along with the text. */
 
+  /* minimal-mistakes reserves the right-sidebar gutter by floating .page
+     (and .archive) right and narrowing it by $right-sidebar-width(-narrow).
+     That only tiles correctly when a left `.sidebar` (author profile) fills
+     the space the float leaves behind on its left. author_profile is false
+     everywhere on this site, so nothing does, and the content column
+     rendered ~200-300px narrower than it needed to be with a blank gutter
+     to its left instead of its right. Dropping the float lets the block
+     sit flush left and use the full width; the padding-inline-end it
+     already carries still reserves room on the right for the TOC, which
+     pulls into that padding via its own negative margin. */
+  @media (min-width: 64em) {
+    /* !important: this include is emitted before the theme's own
+       stylesheet link, so a plain override of the same specificity loses
+       the cascade to main.css's later rules. */
+    .page,
+    .archive {
+      float: none !important;
+      width: 100% !important;
+    }
+  }
+
+  /* Shrink article body text (not the masthead, nav, or TOC) so more of an
+     article fits on screen without scrolling. Em-based: the theme's own
+     heading rules (e.g. h1 { font-size: 1.563em }) are already relative to
+     this, so headings inside articles shrink proportionally along with
+     paragraphs. */
   /* revealed text: gold */
   blockquote.quote {
     border-inline-start-color: #a8792a;
