@@ -1102,7 +1102,7 @@ The more of his life a person examines, the harder it becomes to explain as anyt
 
 > Some teachings, verses, and historical events are frequently misunderstood, quoted without context, or misrepresented. This section examines some of the most common claims about Islam and provides the relevant historical, linguistic, and scholarly context, while considering the broader context of the Qur’an, the teachings of Prophet Muhammad ﷺ, and Islam’s core message as a whole, to help readers evaluate these topics fairly.
 
-- Islam's treatment of women
+<!-- - Islam's treatment of women
     > [Islam and Women](/women) — the standing the Qur'an gives women, and the
     > verses and reports most often quoted against it. Links out to the pages
     > below.
@@ -1126,7 +1126,7 @@ The more of his life a person examines, the harder it becomes to explain as anyt
     > [Apostasy in Islam](/ridda)
 
 - The severe hudud punishments — amputation, stoning, flogging
-    > [The Hudud Punishments in Islam](/punishments)
+    > [The Hudud Punishments in Islam](/punishments) -->
 
 ## Other useful links
 
