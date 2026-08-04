@@ -1122,8 +1122,11 @@ The more of his life a person examines, the harder it becomes to explain as anyt
 - Why Islam permits a man more than one wife
     > [Four Wives: What the Qur'an Permits and What It Requires](/polygyny)
 
-- The death penalty for apostasy, and the severe punishments generally
-    > [Apostasy and the Severe Punishments in Islam](/punishments)
+- The death penalty for apostasy
+    > [Apostasy in Islam](/ridda)
+
+- The severe hudud punishments — amputation, stoning, flogging
+    > [The Hudud Punishments in Islam](/punishments)
 
 ## Other useful links
 

@@ -30,9 +30,9 @@ person, and the objection was answered rather than dismissed. This page sets out
 what Islam gave women, what it required of men, and what the verses and reports
 most often quoted against it say when they are read in full.
 
-**The difficult cases are not skipped.** Four of them have their own pages —
+**The difficult cases are not skipped.** Five of them have their own pages —
 [the verse about striking](/wadribuhunna), [plural marriage](/polygyny), [the
-marriage to Aisha](/aisha), and the general question of
+marriage to Aisha](/aisha), [apostasy](/ridda), and the general question of
 [severe punishments](/punishments) — and the rest are set out below.
 
 **A note on terms.** A *hadith* is a report of what the Prophet ﷺ said or did,
