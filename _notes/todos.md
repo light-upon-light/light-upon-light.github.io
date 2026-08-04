@@ -29,3 +29,5 @@ general:
 - Add a button to jump to next and prev sections
 - Issue when jumping to a section from the toc, all the intermediate ones open and close fast so it looks spazzy
 - When jumping from collapsible section title in toc to another, the part of it that collapses the section loses the highlight before the one with the text so it looks weird
+
+- Merge sections of messenger part to much less since they take up the whole toc now. keep the current titles as sub titles
