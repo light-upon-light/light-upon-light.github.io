@@ -15,7 +15,7 @@ toc_levels: 2..3
 share: true
 ---
 
-[< Back to **The Qur'an and the Messenger ﷺ**](/quran)
+{% include back-to-quran.html %}
 
 Islam permits a man to have up to four wives at once and does not permit a woman
 more than one husband. The asymmetry is real and is usually presented as
@@ -306,7 +306,7 @@ a second wife over his daughter.**
 
 ---
 
-[< Back to **The Qur'an and the Messenger ﷺ**](/quran)
+{% include back-to-quran.html %}
 
 ---
 

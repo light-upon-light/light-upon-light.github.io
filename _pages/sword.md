@@ -15,7 +15,7 @@ toc_levels: 2..3
 share: true
 ---
 
-[< Back to **The Qur'an and the Messenger ﷺ**](/quran)
+{% include back-to-quran.html %}
 
 Within roughly a century of the Prophet's ﷺ death in 632, armies fighting under
 the banner of Islam had taken Syria, Egypt, Iraq, Persia, North Africa and
@@ -343,7 +343,7 @@ not.**
 
 ---
 
-[< Back to **The Qur'an and the Messenger ﷺ**](/quran)
+{% include back-to-quran.html %}
 
 ---
 

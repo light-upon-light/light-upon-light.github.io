@@ -15,7 +15,7 @@ toc_levels: 2..3
 share: true
 ---
 
-[< Back to **The Qur'an and the Messenger ﷺ**](/quran)
+{% include back-to-quran.html %}
 
 Classical Islamic law prescribes death for apostasy — a Muslim leaving Islam.
 **This is severe, it is in the sources, and an article that begins by minimising
@@ -280,7 +280,7 @@ The unanimity claimed for it does not exist.**
 
 ---
 
-[< Back to **The Qur'an and the Messenger ﷺ**](/quran)
+{% include back-to-quran.html %}
 
 ---
 

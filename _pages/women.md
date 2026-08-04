@@ -15,7 +15,7 @@ toc_levels: 2..3
 share: true
 ---
 
-[< Back to **The Qur'an and the Messenger ﷺ**](/quran)
+{% include back-to-quran.html %}
 
 A woman came to the Prophet ﷺ and told him she had a complaint. **"I do not see
 but that everything is for the men, and I do not see anything being mentioned for
@@ -498,7 +498,7 @@ woman asked it to.**
 
 ---
 
-[< Back to **The Qur'an and the Messenger ﷺ**](/quran)
+{% include back-to-quran.html %}
 
 ---
 
