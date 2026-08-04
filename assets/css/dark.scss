@@ -178,3 +178,10 @@ body #floating-nav button {
 body #toc-backdrop {
   background-color: rgba(0, 0, 0, 0.65);
 }
+
+/* Collapsible TOC sections — the toggle icon inherits .toc's own colour so
+   it needs nothing, but the row's border is hardcoded in
+   _includes/footer/custom.html and needs the dark $border-color here. */
+body .toc__heading-row {
+  border-bottom-color: $border-color;
+}

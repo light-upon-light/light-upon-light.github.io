@@ -237,6 +237,63 @@
       display: none;
     }
   }
+
+  /* ------------------------------------------------------------------
+     Collapsible TOC sections. Applies wherever the theme's `.toc__menu`
+     renders — the desktop sticky sidebar and the mobile drawer clone
+     both pick this up, since the clone copies the sidebar's innerHTML
+     *after* the script below has already mutated it.
+     ------------------------------------------------------------------ */
+
+  .toc__heading-row {
+    display: flex;
+    align-items: stretch;
+    justify-content: space-between;
+    /* the <a> below only wraps its own text now, so the row itself is what
+       the reader clicks to toggle -- give the whole strip a hand cursor,
+       not just the text and the button */
+    cursor: pointer;
+    /* dirt skin $border-color; dark counterpart in assets/css/dark.scss.
+       Moved here from the <a> below so the rule spans the toggle too. */
+    border-bottom: 1px solid #e9dcbe;
+  }
+
+  /* Deliberately NOT flex: 1 1 auto. Stretching the <a> to fill the row
+     would make its clickable box cover the empty space between the text
+     and the toggle too, so a click there would navigate instead of
+     collapsing. Sized to its own text, the empty strip belongs to the row
+     (see the click handler below), and only the text and the button
+     themselves navigate or toggle respectively. */
+  .toc__heading-row > a {
+    border-bottom: 0;
+  }
+
+  .toc__toggle {
+    flex: 0 0 auto;
+    width: 2rem;
+    padding: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: inherit;
+    background: none;
+    border: 0;
+    cursor: pointer;
+  }
+
+  .toc__toggle svg {
+    transition: transform 0.2s ease;
+  }
+
+  .toc__menu > li.is-collapsed > .toc__heading-row .toc__toggle svg {
+    transform: rotate(-90deg);
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    .toc__toggle svg {
+      transition: none;
+    }
+  }
 </style>
 
 <script>
@@ -254,6 +311,113 @@
 
     function reduceMotion() {
       return window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+    }
+
+    /* --- collapse the big (h2) sections, collapsed by default ---
+
+       Runs on the real sidebar TOC before the drawer clone below copies its
+       innerHTML, so both the desktop sticky sidebar and the mobile drawer
+       pick up the same collapsed markup for free. A single delegated click
+       listener (bottom of this function) handles toggles in both copies,
+       since innerHTML cloning doesn't carry event listeners along with it. */
+    function makeCollapsible(tocNav) {
+      var topMenu = tocNav.querySelector(".toc__menu");
+      if (!topMenu) return;
+
+      var items = Array.prototype.slice.call(topMenu.children);
+      for (var i = 0; i < items.length; i++) {
+        var li = items[i];
+        var link = li.querySelector(":scope > a");
+        var submenu = li.querySelector(":scope > ul");
+        if (!link || !submenu) continue;
+
+        var row = document.createElement("div");
+        row.className = "toc__heading-row";
+        li.insertBefore(row, link);
+        row.appendChild(link);
+
+        var toggle = document.createElement("button");
+        toggle.type = "button";
+        toggle.className = "toc__toggle";
+        toggle.setAttribute("aria-expanded", "false");
+        toggle.setAttribute("aria-label", "Toggle " + link.textContent.trim() + " section");
+        toggle.innerHTML =
+          '<svg viewBox="0 0 24 24" width="14" height="14" aria-hidden="true" focusable="false">' +
+          '<path d="M7 10 L12 15 L17 10" fill="none" stroke="currentColor" ' +
+          'stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" /></svg>';
+        row.appendChild(toggle);
+
+        li.classList.add("is-collapsed");
+        submenu.hidden = true;
+      }
+    }
+
+    /* A click toggles unless it lands on the heading text itself (the <a>,
+       sized to its own text -- see the CSS above), which navigates as
+       normal. That covers the toggle button and the empty strip between
+       the text and the button, both of which belong to the row, not to
+       the link. */
+    document.addEventListener("click", function (e) {
+      var row = e.target.closest(".toc__heading-row");
+      if (!row || e.target.closest("a")) return;
+
+      var li = row.parentElement;
+      var submenu = li.querySelector(":scope > ul");
+      if (!submenu) return;
+
+      var collapsed = li.classList.toggle("is-collapsed");
+      submenu.hidden = collapsed;
+      var toggle = row.querySelector(".toc__toggle");
+      if (toggle) toggle.setAttribute("aria-expanded", collapsed ? "false" : "true");
+    });
+
+    /* --- open the section the reader is currently in, collapse the rest ---
+
+       Gumshoe (the theme's scrollspy) bubbles a `gumshoeActivate` event up
+       from whichever <li> it marks .active -- for every heading level it
+       tracks, not just the top ones (`nested: false` in the theme's own
+       init, so h3 activation doesn't also mark its parent h2). Walking up
+       from that <li> to its top-level ancestor in .toc__menu says which h2
+       section is current; every other top-level section collapses. */
+    function expandActiveSection(tocRoot, activeLink) {
+      var topMenu = tocRoot.querySelector(".toc__menu");
+      if (!topMenu || !activeLink) return;
+
+      var activeTop = null;
+      var li = activeLink.closest("li");
+      while (li) {
+        if (li.parentElement === topMenu) {
+          activeTop = li;
+          break;
+        }
+        li = li.parentElement && li.parentElement.closest("li");
+      }
+      if (!activeTop) return;
+
+      var items = topMenu.children;
+      for (var i = 0; i < items.length; i++) {
+        var top = items[i];
+        var submenu = top.querySelector(":scope > ul");
+        if (!submenu) continue; // not collapsible, nothing to do
+
+        var open = top === activeTop;
+        top.classList.toggle("is-collapsed", !open);
+        submenu.hidden = !open;
+        var toggle = top.querySelector(":scope > .toc__heading-row > .toc__toggle");
+        if (toggle) toggle.setAttribute("aria-expanded", open ? "true" : "false");
+      }
+    }
+
+    if (sourceToc) makeCollapsible(sourceToc);
+
+    /* Registered before scripts.html loads main.min.js further down the
+       page, so this is in place before the theme's own Gumshoe init runs
+       its first, synchronous detect() -- the event this listens for is not
+       missed on initial load. */
+    if (sourceToc) {
+      document.addEventListener("gumshoeActivate", function (e) {
+        expandActiveSection(sourceToc, e.detail && e.detail.link);
+      });
     }
 
     /* --- build the panel from a clone; the page's own TOC is never touched --- */
@@ -374,6 +538,7 @@
         if (links[j].getAttribute("href") !== href) continue;
         var li = links[j].closest("li");
         if (li) li.classList.add("active");
+        expandActiveSection(drawer, links[j]);
         return;
       }
     }

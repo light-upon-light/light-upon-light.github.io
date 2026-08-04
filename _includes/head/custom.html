@@ -153,6 +153,27 @@
     font-size: 1rem;
   }
 
+  /* Same problem as the font-size exemption above: the list-indent and
+     heading-margin density rules further down also match .toc's own <ul>
+     and its <h4> "On this page" title, adding an unwanted left indent and
+     a gap above the title. Both new selectors carry more classes than the
+     rules they're correcting, so specificity -- not source order -- is
+     what makes them win regardless of where they sit in the cascade.
+
+     The title's spacing is 0.5rem 0.75rem of *padding* (.nav__title's own
+     margin is already zero), so the fix is to zero the heading-margin
+     rule's contribution outright, not to reintroduce 0.5rem as a margin --
+     that would stack a second 0.5rem on top of the padding already doing
+     the job. */
+  .page__content .toc ul,
+  .page__content .toc ol {
+    padding-inline-start: 0 !important;
+  }
+
+  .page__content .toc .nav__title {
+    margin-top: 0 !important;
+  }
+
   /* Font-size alone barely moves content-per-screen, since line-height and
      the em-based margins on headings/blockquotes ride along with it
      proportionally rather than compounding. Tightening them independently
