@@ -1,5 +1,4 @@
 - https://youtu.be/ZdsFKC50zm4 this whole vid and the one before it.
-- https://youtu.be/10S94wqDN0o?si=vNis6paLDU6pyvhE this too
 - Ma akramohon ela kareem wa ma ahanohon ela la2eem.
 - Khairokom khairokom le ahleh wa ana khayrokom le ahly (ahl here means wife).
 - Estawso bel nesa2 khayran 3 marrat (or something) fe khutbat al wada3.

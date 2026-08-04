@@ -154,17 +154,17 @@ This is not an appeal to reputation in place of evidence. It is an insistence th
 
 When responding to a common criticism or misrepresentation, follow this sequence where appropriate:
 
-1. State the criticism accurately in recognizable form.
-2. Present its strongest reasonable form.
-3. Identify the assumptions on which it depends.
-4. Establish the relevant Islamic teaching, text, or historical facts.
-5. Distinguish facts from interpretations and moral judgments.
-6. Correct factual, linguistic, historical, or conceptual errors.
-7. Clearly distinguish Islamic teachings from the conduct of particular Muslims, governments, cultures, or political movements. And state clearly that these actions are done for worldly whims and are against the teachings and spirit of Islam.
-8. Address the strongest counterargument rather than the weakest version.
-9. Explain why the critic’s conclusion does or does not follow.
-10. Present the positive Islamic understanding of the subject.
-11. Connect the issue to the broader message and principles of Islam.
+- State the criticism accurately in recognizable form.
+- Present its strongest reasonable form.
+- Identify the assumptions on which it depends.
+- Establish the relevant Islamic teaching, text, or historical facts.
+- Distinguish facts from interpretations and moral judgments.
+- Correct factual, linguistic, historical, or conceptual errors.
+- Clearly distinguish Islamic teachings from the conduct of particular Muslims, governments, cultures, or political movements. And state clearly that these actions are done for worldly whims and are against the teachings and spirit of Islam.
+- Address the strongest counterargument rather than the weakest version.
+- Explain why the critic’s conclusion does or does not follow.
+- Present the positive Islamic understanding of the subject.
+- Connect the issue to the broader message and principles of Islam.
 
 Do not defend every action committed by Muslims. Islam should be evaluated according to its authoritative teachings, not every act performed in its name.
 

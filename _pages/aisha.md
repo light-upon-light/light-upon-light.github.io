@@ -49,9 +49,9 @@ Most replies answer a cruder version instead — the sneer, the meme, the captio
 
 The discomfort a modern reader feels at the number nine is not manufactured, and there is no reason to pretend it away. It is the correct reaction to that number in the world the reader knows. But a reaction is not a finding, and the distance between the two is where the rest of this article sits.
 
-## What the objection quietly assumes
+## The assumptions
 
-Six assumptions hold the argument up. None of them is usually stated, and most are not obvious once stated.
+Six assumptions hold the objection up. None of them is usually stated, and most are not obvious once stated.
 
 **That a number fixes capacity.** That "nine" describes a stage of body, mind, and social life reliably enough to settle a moral question on its own.
 
@@ -65,7 +65,7 @@ Six assumptions hold the argument up. None of them is usually stated, and most a
 
 **That a precedent is a recommendation.** That anything he did becomes a standing instruction, when the tradition has never read his life that way for anything else.
 
-Each of these is taken up below.
+Each of these is addressed below.
 
 ## What the sources say
 

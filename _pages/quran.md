@@ -1105,7 +1105,7 @@ The more of his life a person examines, the harder it becomes to explain as anyt
 <!-- - Islam's treatment of women
     > [Islam and Women](/women) — the standing the Qur'an gives women, and the
     > verses and reports most often quoted against it. Links out to the pages
-    > below.
+    > below. -->
 
 - Prophet Muhammad's marriage to our mother Aisha
     > [The Prophet Muhammad's Marriage to Aisha](/aisha)
@@ -1113,7 +1113,7 @@ The more of his life a person examines, the harder it becomes to explain as anyt
 - Islam and domestic violence
     > [Islam and the Misreading of Qur'an 4:34](/wadribuhunna)
 
-- The jizya, the tax non-Muslims paid under Muslim rule
+<!-- - The jizya, the tax non-Muslims paid under Muslim rule
     > [The Jizya: What Non-Muslims Paid, and What For](/jizya)
 
 - The claim that Islam was spread by the sword
