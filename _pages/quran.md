@@ -1,5 +1,5 @@
 ---
-title: "The Qur'an and the Prophet ﷺ: Evidence for Prophethood"
+title: "The Qur'an and the Messenger ﷺ: Evidence for Prophethood"
 description: "The Qur'an and the life of Prophet Muhammad, taken together as evidence for his prophethood."
 
 permalink: /quran

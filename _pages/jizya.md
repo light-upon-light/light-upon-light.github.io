@@ -15,7 +15,7 @@ toc_levels: 2..3
 share: true
 ---
 
-[< Back to **The Qur'an and the Prophet ﷺ**](/quran)
+[< Back to **The Qur'an and the Messenger ﷺ**](/quran)
 
 Under Muslim rule, non-Muslims paid a tax called the **jizya** that Muslims did
 not pay. The word appears once in the Qur'an, in a verse that tells Muslims to
@@ -402,7 +402,7 @@ and not a tax collector.
 
 ---
 
-[< Back to **The Qur'an and the Prophet ﷺ**](/quran)
+[< Back to **The Qur'an and the Messenger ﷺ**](/quran)
 
 ---
 

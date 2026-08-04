@@ -15,7 +15,7 @@ toc_levels: 2..3
 share: true
 ---
 
-[< Back to **The Qur'an and the Prophet ﷺ**](/quran)
+[< Back to **The Qur'an and the Messenger ﷺ**](/quran)
 
 Classical Islamic law prescribes amputation for theft, stoning for adultery by a
 married person, and flogging for fornication, false accusation and
@@ -185,7 +185,7 @@ describing a modern state by its maximum sentences and omitting the trial.
 
 ---
 
-[< Back to **The Qur'an and the Prophet ﷺ**](/quran)
+[< Back to **The Qur'an and the Messenger ﷺ**](/quran)
 
 ---
 

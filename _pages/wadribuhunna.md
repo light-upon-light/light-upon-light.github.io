@@ -14,7 +14,7 @@ toc_sticky: true
 share: true
 ---
 
-[< Back to **The Qur'an and the Prophet ﷺ**](/quran)
+[< Back to **The Qur'an and the Messenger ﷺ**](/quran)
 
 One of the most cited accusations against Islam is the claim that it sanctions domestic abuse, based on *Sūrat al-Nisāʾ* (4:34) where the verb **“waḍribūhunna”** appears. This reading, however, collapses under scrutiny. When the language, context, Prophetic practice, and juristic tradition are examined in full, it becomes evident that the verse does not license harm but outlines a framework for de-escalating marital conflict.
 
@@ -163,4 +163,4 @@ The charge that Islam authorizes domestic abuse by citing Qur'an 4:34 is built o
 
 ---
 
-[< Back to **The Qur'an and the Prophet ﷺ**](/quran)
+[< Back to **The Qur'an and the Messenger ﷺ**](/quran)
