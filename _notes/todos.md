@@ -7,17 +7,6 @@ general:
 
 ---
 
-- add back the part about different page styles in style guide and the part about argument in methodlogy? (or something else i wanted to restore)
-
-- build style guide and methodolody guide from example articles, and provides excerpts from them as the examples
-- make pages much much shorter. Put main points into short bullets, to be more digestible
-
-- add links to good articles at the bottom in further reading or whatever
-- add good arguments, points and sources from good links
-
-- modify style and methodoly guide according to articles I like
-- add the best example and tell it to imitate the writing style
-
 - clarify quote usage in site: separate quotes into quran verses, hadith, pure numerical references, and normal quotes
 - line around buttons when pressed looks bad
 - remove icon in table of contents title
@@ -28,7 +17,8 @@ general:
 
 - quran arabic sometimes puts the meem 3alama when it's not present int he original text. example tawbah verse 29 in jizya.
 
-- when giving examples of muslims or rulers that did things that were against the religion, make it clear "when" those were, since the closer you are to the prophet, the better rulers were and the more closely they followed the teachings.
+- add links to good articles at the bottom in further reading
+- add good arguments, points and sources from good links
 
 ---
 
