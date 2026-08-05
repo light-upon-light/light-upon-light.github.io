@@ -5,10 +5,9 @@ general:
 - proper themeing
 - web dev / jekyll / GFM / HTML best practices
 
---
+---
 
 - add back the part about different page styles in style guide and the part about argument in methodlogy? (or something else i wanted to restore)
-
 
 - build style guide and methodolody guide from example articles, and provides excerpts from them as the examples
 - make pages much much shorter. Put main points into short bullets, to be more digestible
@@ -27,24 +26,36 @@ general:
 - When jumping from collapsible section title in toc to another, the part of it that collapses the section loses the highlight before the one with the text so it looks weird
 - make text justified
 
-- Merge sections of messenger part to much less since they take up the whole toc now. keep the current titles as sub titles
-
 - quran arabic sometimes puts the meem 3alama when it's not present int he original text. example tawbah verse 29 in jizya.
 
-- wa lel rejal 3alayhenna daraja: one interpretation is that men should give women their full rights without expecting their full right to be given back in return
-- punsihments and ridda: more of a social order thing, and not the punishment for the action itself (in the case of ridda it's more of a treason punishment, and someone who corrupts the social order by his ridda). evidenced by the fact that forgiveness and repentance is one of the most emphasized points in the quran and prophet's teachings. And that idra'ū al-ḥudūd bi'l-shubuhāt. And the 4 witnesses thing in punishments. And The amount of times these punishments were actually applied. And that in general the rulers shouldn't go after people to find their mistakes. It's clear that a person's journey is between themselves and God and that God is immediately forgiving for those, however when it comes to the social order and hurting others and undermining the order in society aspect, that's when serious and public punishments are invoked.
 - when giving examples of muslims or rulers that did things that were against the religion, make it clear "when" those were, since the closer you are to the prophet, the better rulers were and the more closely they followed the teachings.
-- add that the wadribuhunna is equivalent to the light shove that a spouse would do to the other when the latter initiates physical intimacy and the other is rejecting it out of being sad
 
---
+---
+
+quran:
+
+- Merge sections of messenger part to much less since they take up the whole toc now. keep the current titles as sub titles
 
 aisha:
+
 - make it bullet points, add bolding
 - make style easier to read, add summary
 
+wadribuhunna:
+
+- add that the wadribuhunna is equivalent to the light shove that a spouse would do to the other when the latter initiates physical intimacy and the other is rejecting it out of being sad
+
 women:
+
+- wa lel rejal 3alayhenna daraja: one interpretation is that men should give women their full rights without expecting their full right to be given back in return
 - often in the quran, whenever a woman or women are addressed, it begins with the words: "Do not be saddened, do not be anxious, do not grieve, do not feel sorrow."
 
+ridda:
+
+- mostly a translation issue. ridda doesn't translate cleanly to apostasy. it carries more of a social order / treason meaning. people are free to make their own choices about their belief as long as they don't cause corruption in the society they live in.
+- punsihments and ridda: more of a social order thing, and not the punishment for the action itself (in the case of ridda it's more of a treason punishment, and someone who corrupts the social order by his ridda). evidenced by the fact that forgiveness and repentance is one of the most emphasized points in the quran and prophet's teachings. And that idra'ū al-ḥudūd bi'l-shubuhāt. And the 4 witnesses thing in punishments. And The amount of times these punishments were actually applied. And that in general the rulers shouldn't go after people to find their mistakes. It's clear that a person's journey is between themselves and God and that God is immediately forgiving for those, however when it comes to the social order and hurting others and undermining the order in society aspect, that's when serious and public punishments are invoked.
+
+---
 
 future features:
 
