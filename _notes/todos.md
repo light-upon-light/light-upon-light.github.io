@@ -8,7 +8,7 @@ general:
 ---
 
 - go over pages again and have it rewrite the stuff in quotations according to the style guide sicne i think it ignored them bec of how the prompt was before
-- after, try again but with 3 versions, the version that just removes the quote restriction, and another that says that he can make minimal changes to structure but not too much, and one that says nothing about structure (but make sure to keep the bullet let format).
+- after, try again but with 3 versions, the version that just removes the quote restriction, and another that says that he can make minimal changes to structure but not too much, and one that says nothing about structure (but make sure to keep the bullet led format). Try this with the two bases: before the good rewrite and after
 - assess if prose led or bullet led is better. and use above prompt to rewrite everything into one of them. (check first if no restrictions about structure prompt rewrites into prose led)
 - then re bold everything
 
@@ -21,6 +21,7 @@ general:
 - make text justified
 - quran arabic sometimes puts the meem 3alama when it's not present int he original text. example tawbah verse 29 in jizya.
 - scrolling issue on phone: when keeping finger on screen after scrolling, keeps spazzing out.
+- toc highlighting issue in messenger section (the sub expandable sections still have partial highlighting when highlighting the level above)
 
 - add links to good articles at the bottom in further reading
 - add good arguments, points and sources from good links
