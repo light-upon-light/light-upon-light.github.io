@@ -17,7 +17,7 @@ Below is an sample of a good writing style, please follow the style and voice, n
 
 ### Good writing example
 
-**Introduction**
+*Introduction*
 
 The Shari’ah consists of some laws that remain the same regardless of changing circumstances and others that change with them. Most of the Shari’ah is up to individual Muslims to follow in their own lives. Some are for judges to implement in courts. Finally, the third set of laws is for the ruler or political authority to implement based on the best interests of society. The Shari’ah ruling on Muslims who decide to leave Islam belongs to this third group. Implemented in the past to protect the integrity of the Muslim community, today this important goal can best be reached by Muslim governments using their right to set punishments for apostasy aside.
 
@@ -33,7 +33,7 @@ Interestingly, this dimension of apostasy as betraying and opposing one’s comm
 
 Along the same lines, the problem with *ridda* in Islam was not that a person was exercising their freedom of conscience and choosing to no longer follow the religion. The problem was when such a decision became a public act with political implications.
 
-**Religion in the Pre-Modern World**
+*Religion in the Pre-Modern World*
 
 As far back as the first complex societies in Mesopotamia, human society saw religion as essential. It secured the relationship of individuals and communities to some reality above and beyond the superficial world around them. It also transcended the personal and communal. Whether the rule of Pharaoh in ancient Egypt, Confucius’s ‘order under heaven’ or the divine right of European monarchs, religion underpinned the political and social order within human communities and the states they established. Roman emperors required all inhabitants of their empire to offer token sacrifices for the emperor’s divine guidance not because they were oppressive or intolerant; people could worship whatever gods they wanted. But they had to help maintain the pax deorum (the peace of the gods), the intermingled divine and earthly order that brought peace and prosperity to all. The Old Testament law of the Children of Israel reflected this overlap of religious affiliation and affirmation of a tribal and even state identity; those Jews who forsook the God of Israel to take up the worship of other deities were condemned to stoning (Deuteronomy 13:8-9; 17:2-7).
 
@@ -67,7 +67,7 @@ If a murder occurred, the ruling authority could not refuse to punish the guilty
 
 Our discussion here will show that dealing with apostasy, by contrast, fell wholly within the ruling authority’s discretion.
 
-**The New Role for Religion in the Modern & Global West**
+*The New Role for Religion in the Modern & Global West*
 
 Following Martin Luther’s challenge to papal authority (five hundred years ago this year), Western Europe was plunged into over a century of horrendous religious warfare. This finally came to an end when the battling monarchs agreed that the ruler of each state would choose which sect of Christianity it would follow. So exhausting had been the bloodshed and destruction wrought by religious demands violently put forth to the public that a gradual move began towards making religion a private matter. The Dutch Republic was in the lead. In the late sixteenth century it decided that, though its different component states each had official churches, dissenting individuals could not be discriminated against or persecuted for their beliefs.
 
@@ -87,7 +87,7 @@ What this meant was that religion was an increasingly—even exclusively—priva
 
 The rest of the world soon followed Western Europe’s lead, beginning with Egypt in the mid-nineteenth century, and followed by the other nation-states that the Great Powers carved out of multinational states like the Ottoman Empire or tethered together in new ‘nations’ like India (Churchill famously said India was only a geographical term). This new world of nation-states, in which religion either had no role (theoretically) outside of private life, or was visibly subordinated to a national identity, was the complete inverse from the pre-modern ‘order under heaven’ of Islamic civilization and Christendom alike.
 
-**The Punishment for Apostasy in the Islamic Juristic Tradition**
+*The Punishment for Apostasy in the Islamic Juristic Tradition*
 
 In the public and cosmic order of the ‘Abode of Islam,’ that grand fabric of diverse kingdoms and peoples bound together by a belief in Islam’s legal order and in belonging to the community (*umma*) of Muhammad ﷺ, it’s not surprising that the official punishment for apostasy was severe. In part this was because, as we have made clear elsewhere, pre-modern legal systems relied on severe punishments to make up in deterrence effect what was lacking in effective policing and law enforcement. But mainly what shaped the Muslim juristic tradition’s position on apostasy from Islam was how it understood order and identity. This influenced the rules on apostasy more than any clear prescription in the Qur’an or the Prophet ﷺ’s teachings.
 
@@ -119,7 +119,7 @@ Second, scholars disagreed on whether a Muslim who had renounced their religion 
 
 The vast majority of Muslim scholars held that this opportunity to recant should be given, based on a set of Hadiths in which the Prophet ﷺ mentioned giving apostates a chance to change their minds, as well as on the precedent of the caliph Umar. Most legal scholars gave a period of three days or three chances, and Ibn Ḥanbal (d. 855) and Abu Ḥanīfa (d. 767) gave opinions that the accused person should be given a month to repent. The famous scholar Ibn Ḥazm (d. 1064) reports one opinion that the apostate should be asked if they want to recant until… forever (yustatābu abadan wa lā yuqtalu), on the basis of a statement by Umar and a ruling by the early jurist al-Nakhaʿī (d. 717; though al-Nakhaʿī probably meant that a repeat apostate should be given a chance to repent every time).[^29]
 
-**Apostasy and the Practice of the Early Muslim Community**
+*Apostasy and the Practice of the Early Muslim Community*
 
 The way that the early Muslim community seems to have understood apostasy differs strikingly from the decisive rulings of the later schools of law. This is most clear in the rulings of the Prophet ﷺ himself. There is no reliable evidence that the Prophet ﷺ ever executed anyone for apostasy, as was observed by the famous scholar of Cordoba, Ibn al-Ṭallāʿ (d. 1103).[^30]
 
@@ -147,7 +147,7 @@ Similar findings come in a recent study of sixty cases in which people were exec
 
 Later, in the Ottoman Empire, a Muslim who had converted to Christianity and become a monk was brought to court to repent before a judge. When the judge offered the man coffee (presumably Turkish), he threw it in the judge’s face and began cursing Islam. The judge decided the man was insane. Only after he publicly insulted Islam three more times was the man executed.
 
-**Reconsidering Apostasy in the Modern Period**
+*Reconsidering Apostasy in the Modern Period*
 
 The tremendous changes in how the role of religion is viewed in societies strongly influenced by nationalism and Western secularism have led some Muslim scholars to investigate the Shari’ah heritage on apostasy. The notion that the crime of apostasy in Islam was more a matter of protecting a state and social order than of policing individual beliefs was articulated in the late nineteenth century by Syed Ameer Ali (d. 1928) and Rashīd Riḍā (d. 1935).[^42]
 
@@ -173,7 +173,7 @@ Scholars like Yūsuf al-Qaraḍāwī have therefore compared the punishment for 
 
 Al-Qaraḍāwī explains that there is no punishment for an individual’s decision to stop believing in Islam, since the Qur’an makes clear that “there is no compulsion in religion” (Qur’an 2:256). Only those who combine their leaving Islam with a public attempt to undermine the stability of the Muslim community can be punished for *ridda*. Al-Qaraḍāwī introduces the distinction between ‘transgressive apostasy (al-*ridda* al-mutaʿaddiyya)’ and ‘non-transgressive apostasy (al-*ridda* al-qāṣira).’ The former, in which a Muslim renounces their faith in a way that actively encourages others to do so or that undermines stability, is subject to the apostasy punishment. One who simply leaves Islam or embraces another religion privately is left alone.[^51]
 
-**How Should Muslims Think about Apostasy Today?**
+*How Should Muslims Think about Apostasy Today?*
 
 In an important sense, the question of how Muslims should tackle the issue of apostasy shows how much ‘Muslim’ issues are really global, human issues. Over half a century ago the Universal Declaration of Human Rights stated that “Everyone has the right to freedom of thought, conscience and religion; this right includes freedom to change his religion or belief, ... either alone or in community with others and in public or private…” (Article 18). Yet Article 29 of the same declaration mandates that the human rights it sets forth can be restricted for purposes of “meeting the just requirements of morality, public order and the general welfare in a democratic society.” Religious freedom is incredibly important, but it can be restricted. How does one know when this would be allowed, and how will differences in culture, political systems, and religious tradition affect this decision?
 
@@ -201,7 +201,7 @@ Neither is it consistent. As recently as 2015, the U.K. government was mulling l
 
 Malaysia provides an interesting case of a country that has tried to embody Islamic concerns over apostasy in a modern legal framework. The country’s official religion is Islam, but its constitution guarantees that other religions may be practiced “in peace and harmony” (about 40% of Malaysians are not Muslim). Though they are controversial in a country in which race, religion and politics are all tensely interlinked, some of Malaysia’s states have enacted their own approaches to dealing with apostasy. In the Malaysian state of Malacca, apostasy earns one up to 180 days of detention for rehabilitation. The Malaysian state of Negeri Sembilan has taken another approach: those who want to leave Islam apply for permission. After they have been interviewed to determine their seriousness, and counseled to try to convince them otherwise, they are allowed to apostatize (between 1998-2013, 17% of applications were accepted).[^54]
 
-**The Consequences of Apostasy Law**
+*The Consequences of Apostasy Law*
 
 What global policies should Muslims advocate today? Debates over freedom of religion are so contentious because different sides proceed from very different premises. The liberal ideal, so influential in the West, is that it’s wrong for governments to interfere in the question of what people believe for two reasons. First, because Europe’s bloody history shows that this all too often leads to tremendous violence. Second, because religious belief is seen as something that cannot really be forced on the private interior of a person’s heart, and God doesn’t want faith if it’s coerced anyway. It must be freely and sincerely offered.
 
@@ -213,7 +213,7 @@ It may be more useful to argue based on premises accepted by all involved. The h
 
 In the Shari’ah, the aim of punishing apostasy from Islam is to protect the communal faith and social order of a Muslim state. If punishing apostasy severely is driving Muslims away from their religion, then this policy is undermining its own purpose. It’s not clear what ‘order under heaven’ maintaining harsh punishments for apostasy would be upholding in our troubled world.
 
-**Notes**
+*Notes*
 
 [^1]: See Simon Cottee, The Apostates: When Muslims Leave Islam (London: Hurst, 2015), 13-16.
 
