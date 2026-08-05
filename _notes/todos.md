@@ -20,6 +20,7 @@ general:
 - When jumping from collapsible section title in toc to another, the part of it that collapses the section loses the highlight before the one with the text so it looks weird
 - make text justified
 - quran arabic sometimes puts the meem 3alama when it's not present int he original text. example tawbah verse 29 in jizya.
+- scrolling issue on phone: when keeping finger on screen after scrolling, keeps spazzing out.
 
 - add links to good articles at the bottom in further reading
 - add good arguments, points and sources from good links
