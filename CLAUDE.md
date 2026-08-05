@@ -4,19 +4,10 @@ Jekyll site (GitHub Pages) using the `minimal-mistakes` theme via `remote_theme`
 pinned to 4.28.0. Pages live in `_pages/`. Build with
 `bundle exec jekyll build`.
 
-## Writing style guide
+## Writing style, formatting and analytical approach guide
 
-Make sure to refer to _notes\islamic_apologetics_style_guide.md whenever you
-come to write anything, and to
-_notes\islamic_apologetics_methodolody_guide.md for the analytical approach —
-it governs articles on Qur'anic miraculousness, objections to the Prophet ﷺ,
-and moral/theological/legal criticisms of Islamic teachings.
-
-Articles come in two formats and the style guide's *Page format* section governs
-the choice. **Bullet-led is the default** — one claim per bullet, evidence
-indented beneath it — because digestibility is this site's first priority.
-Prose-led is for arguments that break when fragmented; `aisha.md` is the only
-page that qualifies. Don't imitate it by default.
+Make sure to refer to _notes\writing_style_guide.md and _notes\formatting_guide
+whenever you come to write anything, and to _notes\methodolody_guide.md for the analytical approach.
 
 ## What gets published
 
