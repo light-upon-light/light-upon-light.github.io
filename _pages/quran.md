@@ -52,7 +52,7 @@ share: true
     > [THE RING COMPOSITION! - Remarkable Structure of the Quran](https://youtu.be/b5Y5gMc_XZo)
 1. Its chapters can be **read in any order** without losing the book's coherence or guidance, unlike an ordinary narrative.
 1. It **challenged the Arabs** to match it when their command of Arabic was at its height. They had both the **skill** to answer and every **motive** to do so.
-    > The Qur'an appeared when **Arabic eloquence and rhetoric** held exceptional importance among the **Arabs**. **Poetry** shaped public reputation, preserved tribal memory, and could even intensify or settle conflict. The Qur'an therefore issued its challenge in the field its first audience knew best. Its opponents had both the linguistic ability and the motive to answer, yet no rival text gained acceptance as its equal.
+    > The Qur'an was revealed in an era when the **Arabs** had reached the very **summit of Arabic** language eloquence and rhetoric. **Poetry** was not mere entertainment; it was the **lifeblood of their culture**, the **measure of honor**, and even a **weapon in war**—tribes would settle disputes or ignite battles through verses. In this context, where **pride in language** was unrivaled and **mastery of Arabic** expression was their greatest art, the **Qur'an openly challenged** them to produce anything like it. Despite their unmatched command of Arabic and every worldly motive to discredit the Prophet ﷺ, they were unable to respond, and **their failure** itself became a **perpetual testimony** to the **Qur'an's inimitability**.
     {: .gloss }
 
     > Ibn Rashiq, *al-Umda*: when a poet emerged from a tribe, neighbouring tribes came to congratulate it, celebrating with feasting and singing as they would at a wedding.
