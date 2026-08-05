@@ -228,7 +228,9 @@ The argument of this section is **cumulative**. No single episode below is offer
 
 > **A note on the sources.** *Sīra* is the biographical literature on the Prophet's ﷺ life, the earliest surviving example being Ibn Hisham's recension of Ibn Ishaq. *Hadith* are reports of what he said and did, each carried by a named chain of transmitters. *Sahih al-Bukhari* and *Sahih Muslim* are the two collections that applied the strictest criteria to those chains, and the numbers cited below identify reports within them. The Companions are the generation who knew him personally.
 
-### The Man Before the Message
+### The Man and the Message
+
+#### The Man Before the Message
 
 1. For **forty years before he claimed anything**, he lived among the people who would later become his fiercest opponents. They had four decades in which to find something to use against him, and when the time came they accused him of magic and of poetry and never of a fault in his conduct. Mecca had called him **al-Amin**, "the trustworthy," and **al-Sadiq**, "the truthful," long before there was a message to defend.
     > *Sīra*: Ibn Hisham, *Al-Sira al-Nabawiyya*. The Qur'an appeals to this reputation directly, telling him to remind them that he had lived a whole lifetime among them before the revelation came. The society that gave him those names is the society that later tried to destroy him.
@@ -255,7 +257,7 @@ The argument of this section is **cumulative**. No single episode below is offer
     {: .src }
 1. His name, **Muhammad**, means "the one who is repeatedly praised." He was given it at birth, spent much of his adult life reviled, and is now named in prayer by billions of people every day. No one naming a child in sixth-century Mecca could have expected that.
 
-### What the Message Cost Him
+#### What the Message Cost Him
 
 1. The Quraysh understood exactly what motivates men, and they made him a formal offer: **wealth**, **kingship**, the **most desirable marriages**, and medical treatment if he was ill — on the single condition that he **stop**. He refused, and the persecution followed.
     > *Sīra*: Ibn Hisham records the delegation of Utba ibn Rabia, and his reply that if they placed the sun in his right hand and the moon in his left, he would not abandon the matter.
@@ -284,7 +286,7 @@ The argument of this section is **cumulative**. No single episode below is offer
     {: .src }
 1. Twenty-three years of this bought him nothing he could hold. At the end he **governed Arabia** and **owned almost nothing**.
 
-### The Qur'an's Treatment of Its Own Messenger
+#### The Qur'an's Treatment of Its Own Messenger
 
 If the Qur'an were his own composition, the way it treats him is hard to explain. It corrects him, restricts him, and repeatedly withholds the things a man in his position would want.
 
@@ -405,7 +407,9 @@ If the Qur'an were his own composition, the way it treats him is hard to explain
     > A man producing revelation on demand answers on the day he is asked, and does not leave himself waiting a month for the verse that clears his own wife.
     {: .gloss }
 
-### The Limits He Set on Himself
+### Restraint in Power
+
+#### The Limits He Set on Himself
 
 The forms of veneration his society knew how to give were all offered to him, and he held power that no court, council, or tribe in Arabia was in a position to overrule. The record has him refusing the first one at a time, and building constraints on the second that had not existed before.
 
@@ -464,7 +468,7 @@ The forms of veneration his society knew how to give were all offered to him, an
     > *Sahih al-Bukhari* 4469 (also 3730, 7187). He had made the same appointment to Usama's father before him, against the same objection.
     {: .src }
 
-### Justice Against His Own Interest
+#### Justice Against His Own Interest
 
 1. He **named his own daughter as the test case**. A woman of a noble clan committed theft, and the Quraysh sent Usama, whom he loved dearly, to ask that the penalty be waived. He was angered, and stated the principle in the hardest terms available to him.
     > "The people before you were destroyed because when a noble person among them stole, they let him go; and when a weak person stole, they carried out the punishment on him. By God, if Fatima the daughter of Muhammad were to steal, I would cut off her hand." — *Sahih al-Bukhari* 3475 (also 6787, 3732, 4304)
@@ -503,7 +507,7 @@ The forms of veneration his society knew how to give were all offered to him, an
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ كُونُوا۟ قَوَّٰمِينَ لِلَّهِ شُهَدَآءَ بِٱلْقِسْطِ ۖ وَلَا يَجْرِمَنَّكُمْ شَنَـَٔانُ قَوْمٍ عَلَىٰٓ أَلَّا تَعْدِلُوا۟ ۚ ٱعْدِلُوا۟ هُوَ أَقْرَبُ لِلتَّقْوَىٰ ۖ وَٱتَّقُوا۟ ٱللَّهَ ۚ إِنَّ ٱللَّهَ خَبِيرٌۢ بِمَا تَعْمَلُونَ ۝٨﴾ <span class="ayah-ref">سُورَةُ المَائـِدَةِ</span></div>
     {: .quote }
 
-### Power Without Enrichment
+#### Power Without Enrichment
 
 What a religious founder does once he has won is the part of the record easiest to test, and his is unusually well documented, because the people who recorded it lived in his house.
 
@@ -522,7 +526,9 @@ What a religious founder does once he has won is the part of the record easiest 
     {: .gloss }
 1. He held **total authority** in a society with no court, council, or tribe able to overrule a ruler. The only limits on his conduct were the ones he set himself, and he kept them as strictly in power as he had in poverty.
 
-### Mercy as a Governing Principle
+### Mercy in Practice
+
+#### Mercy as a Governing Principle
 
 1. The Qur'an states the **purpose of his mission** in a single phrase, extends it to everyone rather than to those who accepted him, and he applied it against himself when he was asked to invoke a curse on the people persecuting his community.
     > "And We have not sent you, ˹O Muḥammad˺, except as a mercy to the worlds." (**Sūrat al-Anbiyāʾ 21:107**), Saheeh International
@@ -575,7 +581,7 @@ What a religious founder does once he has won is the part of the record easiest 
     > "Whoever separates a mother from her child, God will separate him from those he loves on the Day of Judgment." — *Jami al-Tirmidhi* 1566, graded hasan
     {: .quote }
 
-### Those With No Power to Reciprocate
+#### Those With No Power to Reciprocate
 
 Slaves, orphans, animals, and neighbours could neither repay a kindness nor punish a wrong, and seventh-century Arabia owed them little. This is where his teaching departs furthest from what surrounded it.
 
@@ -616,7 +622,7 @@ Slaves, orphans, animals, and neighbours could neither repay a kindness nor puni
     > A man at the end of his life, leaving no property and no dynasty, spent his last words on the two things easiest for a community to let slip once he was gone.
     {: .gloss }
 
-### Women, Children, and the Household
+#### Women, Children, and the Household
 
 1. He made **how a man treats his family** the measure of his worth, in a society that considered domestic conduct nobody's business.
     > "The best of you is the best to his wives, and I am the best of you to my wives." — *Jami al-Tirmidhi* 3895 (see also *Sunan Ibn Majah* 1977)
@@ -656,7 +662,7 @@ Slaves, orphans, animals, and neighbours could neither repay a kindness nor puni
 
     > [The Prophet Muhammad's Marriage to Aisha](/aisha) treats his household in more detail.
 
-### Those Outside the Faith
+#### Those Outside the Faith
 
 1. The Qur'an sets the standard toward non-Muslims who are not fighting them at **kindness and fairness**, and forbids compulsion in religion outright.
     > "Allah does not forbid you from dealing kindly and fairly with those who have neither fought nor driven you out of your homes. Surely Allah loves those who are fair." (**Sūrat al-Mumtaḥanah 60:8**), Dr. Mustafa Khattab, *The Clear Quran*
@@ -690,7 +696,9 @@ Slaves, orphans, animals, and neighbours could neither repay a kindness nor puni
     > *Sahih al-Bukhari* 7 preserves the text of the letter to Heraclius, inside the same report that carries Abu Sufyan's testimony against his own interest. An unlettered man in a desert town was addressing two empires that had just spent a generation exhausting each other.
     {: .src }
 
-### What He Taught About Ordinary Life
+### What and How He Taught
+
+#### What He Taught About Ordinary Life
 
 Most of what he laid down concerns things a religious founder need not have addressed at all: wages, debt, contagion, trees, the road, and what a person owes when nobody is watching.
 
@@ -734,7 +742,7 @@ Most of what he laid down concerns things a religious founder need not have addr
     > A man said: "Advise me." He said: "Do not become angry." The man asked again, repeatedly, and each time the answer was the same. — *Sahih al-Bukhari* 6116
     {: .quote }
 
-### How He Taught
+#### How He Taught
 
 The method is as well recorded as the content, and it is consistent: slow the situation down, keep the person in front of him, and make the reasoning available rather than issue the ruling alone.
 
@@ -760,7 +768,9 @@ The method is as well recorded as the content, and it is consistent: slow the si
     > Set beside the bedouin who urinated in the mosque and the instruction that follows it — "make things easy and do not make things difficult" — the method is the same whether the person in front of him is a Companion, an enemy, or someone who has just done something outrageous.
     {: .gloss }
 
-### The Private Man, and Those Who Knew Him Best
+### The Private Man and His Legacy
+
+#### The Private Man, and Those Who Knew Him Best
 
 The people with the most access to him were his servants, his wives, and his family. They are the ones who transmitted his private life to the community, and the record they left is unusually unguarded.
 
@@ -811,7 +821,7 @@ The people with the most access to him were his servants, his wives, and his fam
     {: .gloss }
 1. His life is documented down to how he slept and what he ate. **Fourteen centuries of hostile scrutiny** of that record have turned up no pattern of cruelty, dishonesty, self-enrichment, or hypocrisy.
 
-### The Society He Left Behind
+#### The Society He Left Behind
 
 1. In **twenty-three years** a fragmented, illiterate, tribal society organized around blood feud, idolatry, female infanticide, and endemic warfare became a unified polity with law, literacy, and a functioning state. Historians dispute the causes and the pace, and the transformation itself is common ground. The Qur'an describes the change in terms of the **raw material he was given to work with**.
     > "He is the One Who raised for the illiterate ˹people˺ a messenger from among themselves—reciting to them His revelations, purifying them, and teaching them the Book and wisdom, for indeed they had previously been in clear misguidance." (**Sūrat al-Jumuʿah 62:2**), Dr. Mustafa Khattab, *The Clear Quran*
@@ -852,7 +862,9 @@ The people with the most access to him were his servants, his wives, and his fam
     > The crowd refused to believe he had died. Abu Bakr answered them by reciting the verse that calls Muhammad ﷺ a messenger who would pass away like the messengers before him. The community absorbed the loss of its founder and left him a man, which is what he had spent twenty-three years insisting he was.
     {: .gloss }
 
-### How the Record Was Kept
+### The Record and How It Was Kept
+
+#### How the Record Was Kept
 
 Every claim above rests on the record being sound. The community that received it built a discipline for testing it, and that discipline is part of the evidence rather than a preliminary to it.
 
@@ -880,7 +892,7 @@ Every claim above rests on the record being sound. The community that received i
     > Dr. Jonathan Brown, *Hadith: Muhammad's Legacy in the Medieval and Modern World* (Oxford: Oneworld, 2009) is the standard academic survey of how the discipline worked and where its critics locate its limits.
     {: .src }
 
-### Predictions Recorded Before Their Fulfilment
+#### Predictions Recorded Before Their Fulfilment
 
 A prediction is worth something only if the record of it is older than the event. The hadith collections were compiled and closed in the third Islamic century, roughly the ninth century CE, so anything fulfilled after that date is recorded in a text demonstrably older than what it describes. Those are the cases cited here, and reports with weak chains of transmission are left out.
 
@@ -935,7 +947,7 @@ A prediction is worth something only if the record of it is older than the event
     > This category needs care. Some widely circulated "prophecies" rest on weak chains of transmission. The well-known report about the conquest of Constantinople is one of them, since contemporary hadith scholars grade its chain weak, and it is therefore not used here. The argument is stronger for leaving such reports out.
     {: .gloss }
 
-### Reports of the Extraordinary
+#### Reports of the Extraordinary
 
 Nothing above has depended on a miracle. The hadith literature does record physical ones, and they are set out separately because their weight as evidence is different: they rest entirely on the reliability of the transmission described above, whereas the rest of this section rests on things a hostile witness would concede. A reader who sets this subsection aside still has everything preceding it.
 
@@ -970,7 +982,7 @@ What the cases below have in common is a public setting and an audience placed t
     > Abu Bakr's answer when the account was put to him — that if he said it, it is true — is where his title *al-Ṣiddīq* comes from. The sīra reports that others who had accepted him turned back over it, which is the opposite of what an invented credential is for.
     {: .gloss }
 
-### Recognition Outside Islam
+#### Recognition Outside Islam
 
 1. Muslims hold that he was **foretold by Jesus** and identified in Jewish and other earlier scriptural traditions, a claim that a number of non-Muslim scholars have engaged with seriously.
     > [Jesus Foretold Muhammad ﷺ](https://youtu.be/EGZ2RibrJtc)

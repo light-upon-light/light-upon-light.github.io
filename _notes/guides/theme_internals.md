@@ -128,6 +128,34 @@ Pages without a TOC (home, about) have no `.sidebar__right` at all. The script
 detects that, builds no panel, and sets `.no-toc`, which hides `#toc-toggle` and
 leaves `#back-to-top` alone.
 
+### Collapsing
+
+`makeCollapsible()` runs on the real sidebar TOC *before* the clone is taken, so
+both copies get the same collapsed markup. It decorates two levels — the h2
+items and the h3 items inside them — wrapping each heading's `<a>` in a
+`.toc__heading-row` beside a chevron button. An item with no sub-list gets
+neither, and keeps the theme's plain `<a>`; that looks the same, because
+`.toc__menu a` already carries the row's `border-bottom`.
+
+**Collapsing is the `hidden` attribute, not CSS.** The hiding comes from the UA
+stylesheet's `[hidden] { display: none }`, which never appears in
+`document.styleSheets` — so a probe that enumerates stylesheet rules will not
+find it and will misattribute the hiding to whatever rule it does find. Read
+`ul.hidden`.
+
+`expandActiveSection()` walks up from the `<li>` Gumshoe marked to the top of
+`.toc__menu`, opens every ancestor in that chain, collapses their siblings at
+each level, and collapses everything below where the chain ran out — without
+that last step, arriving at an h2 reopens it with whichever h3 group was last
+expanded. Gumshoe runs `nested: false`, so it activates the h4 itself and never
+its h3 group; the chain walk is what supplies the ancestors. Do not switch to
+keying off the h3 being active — a bare `### Group` immediately followed by
+`#### Sub` has almost no scroll height and is rarely activated.
+
+Only `sourceToc` is passed to it, and the clone is built once from `innerHTML`,
+so the drawer keeps whatever state existed at load: its sub-lists stay collapsed
+until tapped. That matches the existing h2 behaviour and is not a bug.
+
 ### Verifying it
 
 Check at *both* widths, and compare the clone's computed styles against the real
@@ -140,6 +168,17 @@ The regression test is three numbers — `scrollY`,
 heading — sampled before opening, while open, and after closing. All three must
 be identical across the three samples. Then `document.elementFromPoint` over the
 panel must return a TOC `<a>`, not `#toc-backdrop`.
+
+For the collapsing specifically, don't scroll-test — dispatch the event and read
+the DOM, which needs no layout:
+
+```js
+link.closest("li").dispatchEvent(
+  new CustomEvent("gumshoeActivate", { bubbles: true, detail: { link: link } }));
+```
+
+Then assert `li.classList.contains("is-collapsed")`, `ul.hidden`, and the
+toggle's `aria-expanded` on the chain *and* on a sibling that should have shut.
 
 Headless Chrome is poor at verifying this: it will not composite scrolled regions
 (screenshots come out blank), `--virtual-time-budget` freezes the CSS transition

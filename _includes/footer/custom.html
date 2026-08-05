@@ -303,7 +303,8 @@
     color: #3d4144;
   }
 
-  .toc__menu > li.is-collapsed > .toc__heading-row .toc__toggle svg {
+  /* Any depth, not just `.toc__menu > li` -- the h3 groups collapse too. */
+  .toc li.is-collapsed > .toc__heading-row .toc__toggle svg {
     transform: rotate(-90deg);
   }
 
@@ -331,18 +332,21 @@
       return window.matchMedia("(prefers-reduced-motion: reduce)").matches;
     }
 
-    /* --- collapse the big (h2) sections, collapsed by default ---
+    /* --- collapse the h2 sections and the h3 groups inside them ---
 
        Runs on the real sidebar TOC before the drawer clone below copies its
        innerHTML, so both the desktop sticky sidebar and the mobile drawer
        pick up the same collapsed markup for free. A single delegated click
        listener (bottom of this function) handles toggles in both copies,
-       since innerHTML cloning doesn't carry event listeners along with it. */
-    function makeCollapsible(tocNav) {
-      var topMenu = tocNav.querySelector(".toc__menu");
-      if (!topMenu) return;
+       since innerHTML cloning doesn't carry event listeners along with it.
 
-      var items = Array.prototype.slice.call(topMenu.children);
+       Collapsing is by the `hidden` attribute, not a CSS rule -- the UA
+       stylesheet's `[hidden] { display: none }` does the hiding, which is
+       why nothing here or in head/custom.html needs a display rule to
+       match. Anything that inspects TOC state must read `.hidden`, not
+       the document's own stylesheets. */
+    function decorateList(list) {
+      var items = Array.prototype.slice.call(list.children);
       for (var i = 0; i < items.length; i++) {
         var li = items[i];
         var link = li.querySelector(":scope > a");
@@ -370,6 +374,26 @@
       }
     }
 
+    /* Two levels, because a page with many h3s under one h2 (quran.md) fills
+       the whole sidebar the moment its h2 opens. Grouping those h3s and
+       collapsing them too means only the group the reader is actually in
+       shows its h4s.
+
+       The second pass reads `:scope > li > ul` *after* the first has run,
+       which is safe: decorateList moves only the <a> into the new row, so
+       the submenu stays a direct child of its <li>. An <li> with no
+       submenu -- an h3 with no h4s under it -- gets no row and no chevron
+       and stays a plain link. */
+    function makeCollapsible(tocNav) {
+      var topMenu = tocNav.querySelector(".toc__menu");
+      if (!topMenu) return;
+
+      decorateList(topMenu);
+
+      var subLists = topMenu.querySelectorAll(":scope > li > ul");
+      for (var i = 0; i < subLists.length; i++) decorateList(subLists[i]);
+    }
+
     /* A click toggles unless it lands on the heading text itself (the <a>,
        sized to its own text -- see the CSS above), which navigates as
        normal. That covers the toggle button and the empty strip between
@@ -395,35 +419,56 @@
        from whichever <li> it marks .active -- for every heading level it
        tracks, not just the top ones (`nested: false` in the theme's own
        init, so h3 activation doesn't also mark its parent h2). Walking up
-       from that <li> to its top-level ancestor in .toc__menu says which h2
-       section is current; every other top-level section collapses. */
+       from that <li> to its ancestors in .toc__menu gives the chain of
+       sections the reader is inside; each one opens and its siblings at
+       that level collapse. Two levels deep now, so landing in an h4 opens
+       its h2 *and* its h3 group while every other group stays shut.
+
+       Gumshoe activates the h4 directly, not its h3 group heading -- which
+       is also why the chain walk, rather than the h3 being active, is what
+       drives this: a bare `### Group` immediately followed by `#### Sub`
+       has almost no scroll height and is rarely the active item. */
+    function setOpenSibling(list, activeLi) {
+      var items = list.children;
+      for (var i = 0; i < items.length; i++) {
+        var item = items[i];
+        var submenu = item.querySelector(":scope > ul");
+        if (!submenu) continue; // not collapsible, nothing to do
+
+        var open = item === activeLi;
+        item.classList.toggle("is-collapsed", !open);
+        submenu.hidden = !open;
+        var toggle = item.querySelector(":scope > .toc__heading-row > .toc__toggle");
+        if (toggle) toggle.setAttribute("aria-expanded", open ? "true" : "false");
+      }
+    }
+
     function expandActiveSection(tocRoot, activeLink) {
       var topMenu = tocRoot.querySelector(".toc__menu");
       if (!topMenu || !activeLink) return;
 
-      var activeTop = null;
+      /* outermost first. The `contains` guard keeps a link from the drawer
+         clone (a separate DOM tree) from producing a bogus chain. */
+      var chain = [];
       var li = activeLink.closest("li");
-      while (li) {
-        if (li.parentElement === topMenu) {
-          activeTop = li;
-          break;
-        }
+      while (li && topMenu.contains(li)) {
+        chain.unshift(li);
         li = li.parentElement && li.parentElement.closest("li");
       }
-      if (!activeTop) return;
+      if (!chain.length) return;
 
-      var items = topMenu.children;
-      for (var i = 0; i < items.length; i++) {
-        var top = items[i];
-        var submenu = top.querySelector(":scope > ul");
-        if (!submenu) continue; // not collapsible, nothing to do
-
-        var open = top === activeTop;
-        top.classList.toggle("is-collapsed", !open);
-        submenu.hidden = !open;
-        var toggle = top.querySelector(":scope > .toc__heading-row > .toc__toggle");
-        if (toggle) toggle.setAttribute("aria-expanded", open ? "true" : "false");
+      var list = topMenu;
+      for (var d = 0; d < chain.length; d++) {
+        setOpenSibling(list, chain[d]);
+        list = chain[d].querySelector(":scope > ul");
+        if (!list) break;
       }
+
+      /* Anything below where the chain ran out closes. Without this,
+         arriving at an h2 heading (a chain of one) reopens that section
+         with whichever h3 group was last expanded still open, rather than
+         at its own top level. Passing no active item collapses them all. */
+      if (list) setOpenSibling(list, null);
     }
 
     if (sourceToc) makeCollapsible(sourceToc);
