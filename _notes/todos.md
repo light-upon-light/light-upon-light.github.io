@@ -21,6 +21,8 @@ general:
 
 - embed youtube links in collapsible boxes
 
+- re turn on search
+
 ---
 
 quran:
