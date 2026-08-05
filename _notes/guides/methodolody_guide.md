@@ -50,6 +50,8 @@ Use:
 
 Define every Arabic or technical term immediately on first use **in each major section**, not merely on first use in the article. Readers arrive through a table of contents, through a search result, or through a link someone sent them. A gloss delivered forty paragraphs earlier does not reach them.
 
+When giving examples of actions of muslims or rulers, make it clear how close they were to the Prophet's time, and if they were from the khulafa, if that strengthens then point being made. The closer you are to the prophet, the better rulers were and the more closely they followed the spirit and teachings of Islam, especially within the first four khulafa. Make that clear when it strengthens both the arguments that certain actions do or do not follow Islamic spirit and teachings.
+
 ---
 
 ## Correcting Common Misrepresentations
