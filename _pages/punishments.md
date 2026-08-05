@@ -19,65 +19,65 @@ share: true
 
 Classical Islamic law prescribes amputation for theft, stoning for adultery by a
 married person, and flogging for fornication, false accusation and
-intoxication. **These are severe, they are in the sources, and an article that
-begins by minimising them is not worth reading.**
+intoxication. **These penalties are severe, and they are plainly present in the
+sources. Any serious account should begin by acknowledging that.**
 
-What follows sets out what these penalties actually are, the procedure the
-classical sources attach to them, and why that procedure made conviction rare
-in practice.
+This article explains what the penalties are, the procedures that the classical
+sources require, and why those procedures made convictions rare in practice.
 
-The death penalty for apostasy is a related but distinct question, treated at
+The death penalty for apostasy is a related but separate issue, discussed at
 [Apostasy in Islam](/ridda).
 
-**A note on terms.** The *hudud* (singular *hadd*, "limit") are the small
-number of offences with fixed penalties specified in the sources, as opposed to
-*taʿzir*, discretionary punishment set by a judge. *Hiraba* is armed robbery or
-brigandage — violent predation on travellers and communities. A *hadith* is a
-report of what the Prophet ﷺ said or did, transmitted with a named chain and
-graded for reliability; *Sahih al-Bukhari* and *Sahih Muslim* are the most
-rigorously screened collections, and reports graded *da'if* are weak and cannot
-carry a legal ruling on their own.
+**A note on terms.** The *hudud* (singular *hadd*, "limit") are a small
+number of offences whose penalties are fixed in the sources, unlike *taʿzir*,
+which is discretionary punishment set by a judge. *Hiraba* means armed robbery
+or brigandage — violent attacks on travellers and communities. A *hadith* is a
+report of something the Prophet ﷺ said or did, transmitted through a named
+chain and assessed for reliability. *Sahih al-Bukhari* and *Sahih Muslim* are
+the most rigorously screened collections. Reports graded *da'if* are weak and
+cannot establish a legal ruling on their own.
 
 ## The objection
 
-1. It mutilates thieves and stones adulterers, penalties disproportionate to
-   the offences and cruel in themselves.
-2. This is not a fringe reading. It is in the canonical hadith collections and
-   in all four schools of law.
-3. Muslim-majority states enforce them today, so this is a live harm and not a
-   historical curiosity.
+1. It amputates the hands of thieves and stones adulterers, punishments that are
+   both disproportionate to the offences and cruel in themselves.
+2. This is not a marginal interpretation. These penalties appear in the
+   canonical hadith collections and in all four schools of law.
+3. Muslim-majority states still enforce them, so the harm is current rather
+   than merely historical.
 
-Point 2 is where the objection is strongest and also where it is least
-accurate. Point 3 is largely true and is dealt with at the end.
+The second point is the strongest part of the objection, but it is also the
+least accurate. The third is largely correct and will be addressed at the end.
 
 ## The hudud: what they are
 
-The *hudud* are a **short, closed list** — theft, brigandage, fornication, false
-accusation of fornication, and intoxication — with penalties fixed in the
-sources rather than left to a judge's discretion.
+The *hudud* form a **short, closed list** — theft, brigandage, fornication,
+false accusation of fornication, and intoxication. Their penalties are fixed in
+the sources rather than left to a judge's discretion.
 
-Two features of that design are usually missed.
+Two parts of this structure are often overlooked.
 
-- **Being fixed is a limit on the ruler, not a licence.** A defined offence with
-  a defined penalty is the opposite of arbitrary power to punish. Everything
-  outside the list is *taʿzir*, where a judge has discretion — and in practice
-  the overwhelming majority of criminal matters fell there.
-- **The penalty is a ceiling reached only through a procedure**, and the
-  procedure is where nearly all the work happens.
+- **Being fixed is a limit on the ruler, not a licence.** Defining both the
+  offence and its penalty restricts arbitrary punishment. Everything outside
+  this list falls under *taʿzir*, where the judge has discretion, and in
+  practice most criminal cases were handled there.
+- **The penalty is a ceiling reached only through a procedure**, and that
+  procedure determines whether the fixed penalty can be imposed at all.
 
 ## The evidentiary bar
 
-The standards of proof attached to the *hudud* are so demanding that they are
-difficult to satisfy even when everyone involved is trying to satisfy them.
+The standards of proof for the *hudud* are so demanding that they remain
+difficult to meet even when everyone involved is trying to meet them.
 
-- **Fornication requires four eyewitnesses to the act itself.** Not to
-  circumstances, not to a confession — to the act, by four people, agreeing.
+- **Fornication requires four eyewitnesses to the act itself.** Evidence of
+  surrounding circumstances is not enough. Four people must have witnessed the
+  act and must agree about what they saw.
 - **The accuser who fails to produce them is himself flogged eighty lashes and
-  his testimony is rejected permanently thereafter.** The rule makes accusation
-  dangerous, which is its point: it protects women from having their reputations
-  destroyed by allegation.[^1]
+  his testimony is rejected permanently thereafter.** This makes a false or
+  unsupported accusation dangerous for the accuser. The rule is meant to
+  protect women from having their reputations destroyed by allegation.[^1]
 - **Confession was actively discouraged.** When Maʿiz ibn Malik came to confess
-  fornication, the Prophet ﷺ turned him away, repeatedly:
+  fornication, the Prophet ﷺ repeatedly turned him away:
 
     > He came and said: "Messenger of Allah, I have committed fornication, so
     > inflict on me the punishment ordained by Allah." **He turned away from
@@ -87,7 +87,7 @@ difficult to satisfy even when everyone involved is trying to satisfy them.
     > there was anything wrong with his mind[^2]
     {: .src }
 
-- And when he persisted, he was offered exits:
+- When he continued to confess, he was offered other explanations:
 
     > "Perhaps you kissed, or squeezed, or looked?" He said: "No."
     > — *Sunan Abi Dawud* 4427, graded *sahih*; also *Sahih al-Bukhari* 6824[^3]
@@ -101,24 +101,24 @@ difficult to satisfy even when everyone involved is trying to satisfy them.
 
 ### The maxim about doubt
 
-Muslim jurists worked with the maxim *idraʾu al-hudud bi'l-shubuhat* — "avert
-the fixed penalties by doubts." It is genuinely operative across the schools and
-it is why the *hudud* were rarely carried out.
+Muslim jurists applied the maxim *idraʾu al-hudud bi'l-shubuhat* — "avert
+the fixed penalties by doubts." It operated across the schools and helped make
+the *hudud* rare in practice.
 
-**It is also weak as a hadith, and that should be said rather than glossed
-over.** The wording attributed to the Prophet ﷺ is graded *da'if* at *Jami'
+**The hadith commonly cited for this maxim is weak, and that should be stated
+clearly.** The wording attributed to the Prophet ﷺ is graded *da'if* at *Jami'
 at-Tirmidhi* 1424 and *da'if*, indeed "very *da'if*", at *Sunan Ibn Majah*
-2545.[^4] Its authority in law comes from its status as a **juristic maxim**
-supported by the practice recorded above and by reports from the Companions, not
-from a sound Prophetic chain. The point it carries is well founded; the usual
-citation for it is not.
+2545.[^4] The maxim's legal authority comes from its acceptance by jurists,
+supported by the practice described above and by reports from the Companions. It
+does not rest on a sound Prophetic chain. The principle is well established,
+even though the hadith usually quoted for it is not.
 
 ## Repentance suspends the penalty
 
-The Qur'an attaches a repentance clause directly to the punishment verses,
-which is unusual in a penal code.
+The Qur'an places a repentance clause directly alongside the punishment verses,
+an unusual feature in a penal code.
 
-- To the *hiraba* penalty:
+- For the *hiraba* penalty:
 
     > "Except for those who return [repenting] before you apprehend them. And
     > know that Allah is Forgiving and Merciful." (**Sūrat al-Māʾidah 5:34**),
@@ -127,7 +127,7 @@ which is unusual in a penal code.
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿إِلَّا ٱلَّذِينَ تَابُوا۟ مِن قَبْلِ أَن تَقْدِرُوا۟ عَلَيْهِمْ ۖ فَٱعْلَمُوٓا۟ أَنَّ ٱللَّهَ غَفُورٌۭ رَّحِيمٌۭ ۝٣٤﴾ <span class="ayah-ref">سُورَةُ المَائـِدَةِ</span></div>
     {: .quote }
 
-- And to theft, in the verse immediately after the amputation verse:
+- For theft, in the verse immediately after the amputation verse:
 
     > "But whoever repents after his wrongdoing and reforms, indeed, Allah will
     > turn to him in forgiveness." (**Sūrat al-Māʾidah 5:39**),
@@ -138,50 +138,51 @@ which is unusual in a penal code.
 
 ## The penalties are conditional on the society
 
-The classical jurists did not treat the *hudud* as applicable regardless of
-circumstances.
+Classical jurists did not regard the *hudud* as applicable without regard to
+social conditions.
 
-- By then the caliph, **Umar ibn al-Khattab suspended the penalty for theft
-  during the famine year** known as the *ʿam al-ramada*, on the reasoning that
-  a man stealing to eat is not the thief the penalty contemplates. The report is transmitted in the
-  juristic literature rather than in the canonical hadith collections, and is
-  cited by jurists as precedent for suspending a *hadd* when its social
-  preconditions fail.[^5]
-- The principle generalises: **a penalty for theft presupposes a society in
-  which nobody needs to steal to survive** — one that has already discharged its
-  own obligations of zakat, maintenance and public provision. Applying the
-  penalty while neglecting those obligations inverts the order.
+- As caliph, **Umar ibn al-Khattab suspended the penalty for theft
+  during the famine year** known as the *ʿam al-ramada*. His reasoning was that
+  a person who steals food to survive is not the kind of thief contemplated by
+  the penalty. The report appears in juristic literature rather than the
+  canonical hadith collections, and jurists cite it as a precedent for
+  suspending a *hadd* when its social preconditions are absent.[^5]
+- The broader principle is that **a penalty for theft presupposes a society in
+  which nobody needs to steal to survive** — a society that has already met its
+  obligations of zakat, maintenance and public provision. Imposing the penalty
+  while neglecting those obligations reverses the proper order.
 
 ## Where the criticism does land
 
-The third point in the objection is largely correct and should not be answered
-with more theory.
+The third point in the objection is largely correct and cannot be answered by
+appealing to legal theory alone.
 
 - **States apply these penalties without the preconditions.** The evidentiary
   standards, the doubt maxim, the repentance clauses and the social obligations
-  are the whole structure that made the *hudud* rare in classical practice. A
-  state that keeps the penalties and drops the procedure is not applying Islamic
-  law; it is borrowing its severity.
-- **Zina accusations are used against women who report rape.** This inverts the
-  purpose of the four-witness rule, which exists to make accusation costly and
-  protect the accused. Using it to convict the complainant is a straightforward
-  perversion of the mechanism.
+  formed the structure that made the *hudud* rare in classical practice. A
+  state that retains the penalties while discarding that procedure is not
+  applying Islamic law. It is preserving the severity while abandoning the
+  law's restraints.
+- **Zina accusations are used against women who report rape.** This reverses the
+  purpose of the four-witness rule, which makes accusation costly in order to
+  protect the accused. Using the rule to convict the complainant directly
+  contradicts its purpose.
 
-None of this is a defence of those states, and the Islamic case against them is
-available from within the sources rather than only from outside.
+This does not defend those states. The case against their conduct can be made
+from within the Islamic sources, not only from outside them.
 
 ## Conclusion
 
-The *hudud* penalties are severe and are in the sources. What is also in the
-sources is a procedure designed so stringently that conviction was close to
-unattainable — four eyewitnesses to the act, an accuser flogged for failing,
-confessions refused and redirected, doubt resolved in the defendant's favour,
-repentance suspending the penalty, and the whole apparatus conditioned on a
-society that has met its own obligations first.
+The *hudud* penalties are severe and are present in the sources. The same
+sources also impose procedures so strict that conviction was nearly impossible:
+four eyewitnesses to the act, punishment for an accuser who fails to prove the
+charge, confessions refused and redirected, doubt resolved in the defendant's
+favour, repentance suspending the penalty, and the entire system conditioned on
+a society that has first met its own obligations.
 
-**A legal system is its procedure as much as its penalties.** Reading the
-penalties alone gives an account of Islamic criminal law about as accurate as
-describing a modern state by its maximum sentences and omitting the trial.
+**The penalties cannot be understood apart from the procedures governing
+them.** An account that lists only the maximum punishments while omitting the
+standards of proof and trial gives a distorted picture of Islamic criminal law.
 
 ---
 
