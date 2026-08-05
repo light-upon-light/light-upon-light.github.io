@@ -17,43 +17,44 @@ share: true
 
 {% include back-to-quran.html %}
 
-Islam permits a man to have up to four wives at once and does not permit a woman
-more than one husband. The asymmetry is real and is usually presented as
-self-evidently degrading — proof that Islamic marriage treats a wife as one item
-in a collection.
+Islam permits a man to have up to four wives at one time, while a woman may have
+only one husband. The asymmetry is real. Critics often treat it as sufficient in
+itself to show that Islamic marriage reduces a wife to one member of a
+collection.
 
-What the permission actually consists of is less often examined. The verse that
-grants it **opens by talking about orphans**, ends by telling men to marry one if
-they cannot be fair, and is followed a hundred and twenty-six verses later by a
-statement that they will never manage it. Read whole, it is a restriction on an
-existing practice, hedged by a condition most men cannot meet.
+What receives less attention is the form of the permission. The verse that
+grants it **begins by discussing orphans**, directs men to marry only one if they
+fear they cannot be just, and is followed a hundred and twenty-six verses later
+by a statement that complete justice will never be possible. Read as a whole,
+the verse limits an existing practice and makes its exercise conditional.
 
-**A note on terms.** *Polygyny* is one man with several wives; *polygamy* covers
-plural marriage of either kind, and *polyandry* is one woman with several
-husbands. A *hadith* is a report of what the Prophet ﷺ said or did, graded for
-reliability; *Sahih al-Bukhari* and *Sahih Muslim* are the two most rigorously
-screened collections. *Mahr* is the marriage gift a husband pays to the wife
-herself.
+**A note on terms.** *Polygyny* means one man having several wives. *Polygamy*
+refers more broadly to plural marriage of either kind, while *polyandry* means
+one woman having several husbands. A *hadith* is a report about what the Prophet
+ﷺ said or did, assessed according to its reliability; *Sahih al-Bukhari* and
+*Sahih Muslim* are the two most rigorously screened collections. *Mahr* is the
+marriage gift that a husband pays directly to his wife.
 
 ## The objection
 
-At full strength:
+Stated in its strongest form:
 
-1. Islam permits men four wives and women one husband, so the rule is
-   asymmetrical by design.
-2. The asymmetry serves male sexual interest, which is why the permission runs
-   in that direction and not the other.
-3. A wife who must share her husband is placed below him in the marriage, and no
-   amount of procedural fairness about nights and money changes that.
-4. The Prophet ﷺ himself had more wives than the four the Qur'an allows, so the
-   limit binds ordinary men and not the man who delivered it.
+1. Islam permits a man to have four wives but permits a woman only one husband,
+   so the law is deliberately asymmetrical.
+2. This asymmetry serves male sexual interests, which explains why the
+   permission applies to men but not to women.
+3. Requiring a wife to share her husband places her below him within the
+   marriage, regardless of any rules about equal time or financial support.
+4. The Prophet ﷺ had more wives than the four permitted to ordinary men, so the
+   limit applied to his followers but not to the man who conveyed it.
 
-Points 1 and 4 are factually correct. The argument stands or falls on 2 and 3.
+Points 1 and 4 are factually correct. The force of the objection therefore rests
+on points 2 and 3.
 
 ## What 4:3 actually says
 
-Almost every discussion of this verse begins at the words "two, three, or four."
-The verse does not begin there.
+Discussions of this verse often begin with the words "two, three, or four." The
+verse itself begins elsewhere.
 
 > "If you fear you might fail to give orphan women their ˹due˺ rights ˹if you
 > were to marry them˺, then marry other women of your choice — two, three, or
@@ -65,27 +66,27 @@ The verse does not begin there.
 > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَإِنْ خِفْتُمْ أَلَّا تُقْسِطُوا۟ فِى ٱلْيَتَٰمَىٰ فَٱنكِحُوا۟ مَا طَابَ لَكُم مِّنَ ٱلنِّسَآءِ مَثْنَىٰ وَثُلَٰثَ وَرُبَٰعَ ۖ فَإِنْ خِفْتُمْ أَلَّا تَعْدِلُوا۟ فَوَٰحِدَةً أَوْ مَا مَلَكَتْ أَيْمَٰنُكُمْ ۚ ذَٰلِكَ أَدْنَىٰٓ أَلَّا تَعُولُوا۟ ۝٣﴾ <span class="ayah-ref">سُورَةُ النِّسَاءِ</span></div>
 {: .quote }
 
-- **The subject of the sentence is orphans, not appetite.** The verse addresses
-  guardians managing the property and marriages of orphaned girls, and its
-  concern is that they will exploit them. The permission to marry other women is
-  offered as the way *out* of that abuse.
-- **The context is a battlefield.** The passage belongs to the period after
-  Uhud, where the Muslim community lost a substantial part of its fighting men in
-  a single afternoon and was left with widows and orphaned children who had no
-  independent means of support. Plural marriage in that setting is a mechanism
-  for absorbing them.
-- **The verse restricts a practice it did not invent.** Pre-Islamic Arabia had
-  no limit on the number of wives a man could take. The Qur'an caps the number at
-  four and attaches a condition to it. Men who already had more than four were
-  required to release the surplus.
+- **The sentence is about orphans, not appetite.** It addresses guardians who
+  controlled the property and marriage arrangements of orphaned girls and warns
+  against exploiting them. Marrying other women is presented as the alternative
+  to committing that abuse.
+- **The setting is the aftermath of battle.** The passage was revealed after
+  Uhud, when the Muslim community had lost many fighting men in a single day and
+  was left with widows and orphaned children who lacked independent means of
+  support. In that setting, plural marriage provided a way to bring them into
+  households responsible for their care.
+- **The verse limits a practice that already existed.** Pre-Islamic Arabia placed
+  no fixed limit on the number of wives a man could have. The Qur'an set the
+  maximum at four and made justice a condition. Men who already had more than
+  four wives were required to release those beyond the limit.
 
     > The direction of travel matters. This is not a permission extending what
     > men could previously do; it is a **ceiling lowered onto an unlimited
     > practice**, in a society where nobody had asked for one.
     {: .gloss }
 
-- **The verse ends by pointing back to one.** The clause is conditional in both
-  directions: if you fear you will not be just, then one.
+- **The verse directs the reader back to one.** The permission is expressly
+  conditional: if a man fears that he will not be just, he is to marry one.
 
     > "But if you fear that you will not be just, then [marry only] one"
     > (**Sūrat al-Nisāʾ 4:3**), Saheeh International
@@ -93,16 +94,17 @@ The verse does not begin there.
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿فَإِنْ خِفْتُمْ أَلَّا تَعْدِلُوا۟ فَوَٰحِدَةً﴾ <span class="ayah-ref">[سُورَةُ النِّسَاءِ: ٣]</span></div>
     {: .quote }
 
-**On the closing clause.** The verse's final option refers to women held in
-slavery, an institution the Qur'an addresses in the society it was revealed
-into. That is a separate question with its own literature and is not treated on
-this page; it is noted here rather than passed over, because the verse is quoted
-in full above and the clause is in it.
+**On the closing clause.** The final option in the verse refers to women held in
+slavery, an institution that the Qur'an addressed in the society into which it
+was revealed. That subject has its own literature and is not examined on this
+page. It is mentioned here rather than omitted because the verse has been quoted
+in full and the clause is part of it.
 
 ## The condition nobody can satisfy
 
-The permission is conditional on justice. A hundred and twenty-six verses later,
-the same surah says the condition cannot be fully met.
+Qur'an 4:3 makes justice the condition for plural marriage. A hundred and
+twenty-six verses later, the same surah states that this justice can never be
+complete.
 
 > "You will never be able to maintain ˹emotional˺ justice between your wives —
 > no matter how keen you are. So do not totally incline towards one leaving the
@@ -112,14 +114,14 @@ the same surah says the condition cannot be fully met.
 > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَلَن تَسْتَطِيعُوٓا۟ أَن تَعْدِلُوا۟ بَيْنَ ٱلنِّسَآءِ وَلَوْ حَرَصْتُمْ﴾ <span class="ayah-ref">[سُورَةُ النِّسَاءِ: ١٢٩]</span></div>
 {: .quote }
 
-- Taken together, 4:3 and 4:129 are **a permission and a warning about the
-  permission**, in the same chapter, addressed to the same audience.
-- The classical resolution is that 4:129 concerns **the heart**, which cannot be
-  commanded, while 4:3 requires **justice in what can be measured** — time,
-  housing, maintenance, attention. That reading is what the verse's own
-  continuation supports: it does not say *therefore do not marry more than one*,
-  it says *do not lean so far that you leave one hanging*.
-- The obligation is enforceable and the failure is punished:
+- Read together, 4:3 and 4:129 give **a permission followed by a warning about
+  that permission** in the same chapter and to the same audience.
+- The classical explanation is that 4:129 concerns **the heart**, which cannot be
+  commanded, while 4:3 requires **justice in matters that can be measured**:
+  time, housing, maintenance, and attention. The rest of 4:129 supports this
+  reading. It does not say *therefore do not marry more than one*; it says *do
+  not lean so far towards one wife that the other is left hanging*.
+- The duty is enforceable, and failing it carries a punishment:
 
     > "When a man has two wives and he is inclined to one of them, he will come
     > on the Day of Resurrection with a side hanging down."
@@ -128,9 +130,9 @@ the same surah says the condition cannot be fully met.
     > dissenting *da'if*.[^1]
     {: .src }
 
-- In law, this became concrete duties: **equal division of nights, equal
-  maintenance, and separate accommodation for each wife.** A wife could take a
-  husband who failed these to court.
+- Islamic law translated this requirement into specific duties: **equal division
+  of nights, equal maintenance, and separate accommodation for each wife.** A
+  wife could take a husband who failed to meet them to court.
 
     > A man who wants a second wife must be able to fund a second household and
     > divide his time by the clock, and is answerable if he does not. Whatever
@@ -140,11 +142,11 @@ the same surah says the condition cannot be fully met.
 
 ## Permitted is not recommended
 
-- The Qur'an nowhere presents plural marriage as **better**, as a reward, or as
-  something to aspire to. It is permitted under conditions, in a passage about
-  protecting dependents.
-- The Qur'an's own picture of marriage is drawn in the singular, and it is about
-  companionship rather than provision:
+- The Qur'an never describes plural marriage as **better**, as a reward, or as a
+  practice men should seek. It permits it under conditions in a passage concerned
+  with protecting dependents.
+- Elsewhere, the Qur'an describes marriage in the singular and presents it in
+  terms of companionship rather than material provision:
 
     > "And one of His signs is that He created for you spouses from among
     > yourselves so that you may find comfort in them. And He has placed between
@@ -154,8 +156,8 @@ the same surah says the condition cannot be fully met.
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَمِنْ ءَايَٰتِهِۦٓ أَنْ خَلَقَ لَكُم مِّنْ أَنفُسِكُمْ أَزْوَٰجًۭا لِّتَسْكُنُوٓا۟ إِلَيْهَا وَجَعَلَ بَيْنَكُم مَّوَدَّةًۭ وَرَحْمَةً ۚ إِنَّ فِى ذَٰلِكَ لَءَايَٰتٍۢ لِّقَوْمٍۢ يَتَفَكَّرُونَ ۝٢١﴾ <span class="ayah-ref">سُورَةُ الرُّومِ</span></div>
     {: .quote }
 
-- The standing rule for how a wife is to be treated admits no exception for
-  households with more than one:
+- The general command governing a husband's treatment of his wife contains no
+  exception for a household with more than one wife:
 
     > "And live with them in kindness" (**Sūrat al-Nisāʾ 4:19**),
     > Saheeh International
@@ -163,28 +165,29 @@ the same surah says the condition cannot be fully met.
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَعَاشِرُوهُنَّ بِٱلْمَعْرُوفِ﴾ <span class="ayah-ref">[سُورَةُ النِّسَاءِ: ١٩]</span></div>
     {: .quote }
 
-- In practice plural marriage has always been **a minority arrangement** in
-  Muslim societies, constrained by the cost of maintaining separate households
-  as much as by anything else.
+- In practice, plural marriage has always been **a minority arrangement** in
+  Muslim societies. The expense of maintaining separate households has itself
+  limited how common it could become.
 
 ## What the Prophet ﷺ did
 
-The fourth objection — that he exceeded his own limit — is worth taking directly.
+The fourth objection is that the Prophet ﷺ exceeded the limit he conveyed to
+others. This deserves a direct answer.
 
-- **He was married to one woman for twenty-five years.** From the age of about
-  twenty-five until Khadija died when he was around fifty, he took no other
-  wife. This covers the whole of the period when a man is most able to, and the
-  entire early phase of his mission.
-- **The plural marriages came late, after Khadija's death and mostly after the
-  migration to Medina.** Most were to widows, several to women past youth, and
-  several sealed alliances between clans. The pattern is examined alongside the
-  criticisms of it in
+- **He was married to one woman for twenty-five years.** From about the age of
+  twenty-five until Khadija died when he was around fifty, he took no other wife.
+  This period included his early adulthood and the entire first phase of his
+  mission.
+- **His plural marriages came late, after Khadija's death and mostly after the
+  migration to Medina.** Most were to widows, several were to women past youth,
+  and several established alliances between clans. This pattern, together with
+  the criticisms made of it, is examined in
   [The Prophet Muhammad's ﷺ Marriage to Aisha](/aisha).
-- **The Qur'an addresses his household as a special case**, granting him a
-  dispensation from the ordinary limit and then, in the same surah, forbidding
-  him to marry further. His wives were also forbidden to remarry after his
-  death, and were given a choice between the world and remaining with him on the
-  terms he could offer.[^2]
+- **The Qur'an treats his household as a special case.** It grants him a
+  dispensation from the ordinary limit and then, in the same surah, prohibits him
+  from marrying further. His wives were also forbidden to remarry after his
+  death and were offered a choice between the life of the world and remaining
+  with him under the conditions he could provide.[^2]
 
     > A dispensation that comes attached to a prohibition on marrying again, a
     > ban on his widows remarrying, and an offer to release them if they wanted
@@ -194,12 +197,11 @@ The fourth objection — that he exceeded his own limit — is worth taking dire
 
 ## The permission is not unconditional
 
-One report shows plural marriage being refused outright, in public, by the
-Prophet ﷺ himself.
+One report records the Prophet ﷺ publicly refusing a proposed second marriage.
 
-Ali ibn Abi Talib, married to the Prophet's ﷺ daughter Fatima, sought the hand
-of a second wife — the daughter of Abu Jahl. Fatima went to her father. He went
-to the pulpit.
+Ali ibn Abi Talib was married to the Prophet's ﷺ daughter Fatima when he sought
+to marry a second woman, the daughter of Abu Jahl. Fatima went to her father,
+and he addressed the community from the pulpit.
 
 > "Banu Hisham ibn al-Mughira have requested me to allow them to marry their
 > daughter to Ali ibn Abi Talib. **I do not give permission, and will not give
@@ -210,53 +212,52 @@ to the pulpit.
 > 6309–6310[^3]
 {: .src }
 
-Ali dropped the proposal.
+Ali abandoned the proposal.
 
-- **How far this generalises should be stated carefully.** The reasoning cites
-  Fatima's particular position as the Prophet's ﷺ daughter, and the other report
-  adds that the daughter of the Messenger of Allah and the daughter of the enemy
-  of God should not be the wives of one man. It is not a general prohibition and
-  is not being presented as one.
-- What it does establish is narrower and still substantial: **the harm a second
-  marriage would do to an existing wife is a reason that can defeat the
-  permission**, and it defeated it here in the most public way available, in
-  front of the community, against a man of Ali's standing.
+- **The scope of this report should not be overstated.** Its reasoning refers to
+  Fatima's particular status as the Prophet's ﷺ daughter. A parallel report also
+  says that the daughter of the Messenger of God and the daughter of the enemy
+  of God should not be wives of the same man. The report does not establish a
+  general prohibition, and it is not being presented as one.
+- Its narrower conclusion is still important: **the harm that a second marriage
+  would cause an existing wife can be a reason to prevent it.** In this case, it
+  prevented the marriage publicly and despite Ali's standing in the community.
 
 ## A wife can rule it out in advance
 
-- Islamic marriage is a **contract**, and conditions written into it are
-  enforceable. A woman may stipulate that her husband will not take another
-  wife.
-- Schools differ on the remedy. The Hanbali position, the most explicit, holds
-  such a condition binding, and its breach gives the wife the right to dissolve
-  the marriage.[^4]
-- The bargaining position this creates is not theoretical. It means monogamy is
-  available to any woman who asks for it at the point where she has the most
-  leverage — before consenting to the marriage at all.
+- An Islamic marriage is a **contract**, and conditions included in that contract
+  can be enforceable. A woman may stipulate that her husband will not marry
+  another wife.
+- The legal schools differ over the remedy. The Hanbali position is the most
+  explicit: it treats the condition as binding and gives the wife the right to
+  dissolve the marriage if her husband breaks it.[^4]
+- This gives the woman a practical means of securing monogamy before the marriage
+  begins, at the stage when her consent is still required and her bargaining
+  position is strongest.
 
 ## The asymmetry itself
 
-The strongest form of the objection is not about procedure. It is that the rule
-runs one way, and that the reason it runs that way is male desire.
+The strongest objection is not about whether the conditions are fair. It is that
+the permission runs only one way and appears to do so for the sake of male
+desire.
 
-- **The lineage answer is the classical one**, and it is honest but incomplete:
-  under polyandry the paternity of a child is indeterminate, and Islamic law
-  attaches concrete obligations to paternity — inheritance shares, maintenance,
-  guardianship, the prohibited degrees of marriage. Those obligations need a
-  determinate father. This was decisive before genetic testing existed; it is
-  weaker now, and a reader is entitled to say so.
-- **The obligations answer is the stronger one.** In Islamic law the financial
-  burden of marriage falls entirely on the husband: the *mahr* paid to the wife
-  herself, her maintenance, her housing, and the support of the children, with
-  no claim on her property or her earnings, which remain hers. Plural marriage
-  under those terms multiplies a man's liabilities without adding to his
+- **The classical answer concerns lineage**, though it does not answer every
+  difficulty. Under polyandry, a child's paternity was uncertain, while Islamic
+  law assigns specific obligations according to paternity: inheritance,
+  maintenance, guardianship, and the prohibited degrees of marriage. Those rules
+  require an identifiable father. This argument was decisive before genetic
+  testing; it is less forceful now, and that limitation should be acknowledged.
+- **The stronger answer concerns obligations.** Islamic law places the financial
+  burden of marriage on the husband: the *mahr* paid directly to the wife, her
+  maintenance and housing, and the support of the children. He acquires no claim
+  over her property or earnings, which remain hers. Under these rules, plural
+  marriage multiplies his liabilities without increasing his legal
   entitlements.
-- **The historical function is the one the verse names.** A society that loses
-  its men in war is left with women and children who, in the absence of
-  independent income, have the choice between a household and destitution. Plural
-  marriage brings them inside a family with enforceable claims on it. This does
-  not settle whether the rule should apply now, and it is not offered as though
-  it did.
+- **The verse itself points to a historical function.** When war leaves a society
+  with widows and children who have no independent income, their alternatives may
+  be entry into a household or destitution. Plural marriage brings them into a
+  family against which they have enforceable claims. This historical function
+  does not by itself settle how the permission should operate today.
 
     > These answers do not dissolve the asymmetry, and it would be dishonest to
     > present them as if they did. What they do is show that the rule is attached
@@ -267,42 +268,42 @@ runs one way, and that the reason it runs that way is male desire.
 
 ## Where the criticism does land
 
-Islam should be judged by its teachings rather than by everything done in its
-name, which means naming what is done badly.
+Islam should be assessed by its teachings rather than by every practice carried
+out in its name. That requires acknowledging where those teachings are ignored.
 
-- **The conditions are widely ignored.** Men take second wives without the means
-  to maintain two households, without dividing their time, and sometimes without
-  telling the first wife. That is not permitted plural marriage; it is a breach
-  of the condition on which the permission rests.
-- **Communities rarely enforce it.** The remedies exist in law and go unused,
-  because the social cost of a woman going to court falls on her.
-- **The verse gets quoted from the middle.** "Marry two, three, or four" is cited
-  without the orphan clause it depends on and without the fallback to one that
-  ends it. The misquotation is not always innocent.
+- **The conditions are often disregarded.** Some men take second wives without
+  the means to maintain two households, without dividing their time fairly, and
+  sometimes without informing the first wife. This is not plural marriage carried
+  out under the Qur'anic condition; it is a violation of that condition.
+- **Communities often fail to enforce the rules.** Legal remedies may exist, but
+  women frequently bear the social cost of trying to use them.
+- **The verse is often quoted from the middle.** "Marry two, three, or four" is
+  repeated without the opening concern for orphans or the instruction to marry
+  one that closes the permission. That omission is not always innocent.
 
-Modern Muslim states have responded by regulating it. Tunisia prohibits plural
-marriage outright; a number of other Muslim-majority jurisdictions require
-judicial permission, proof of means, or notification of the existing wife.[^5]
-That such laws are debated within Islamic legal frameworks rather than against
-them reflects the conditional structure of 4:3: **a permission attached to a
-condition can be restricted by a state that finds the condition is not being
-met.**
+Modern Muslim states have responded by regulating plural marriage. Tunisia
+prohibits it outright, while several other Muslim-majority jurisdictions require
+judicial permission, proof of financial means, or notification of an existing
+wife.[^5] These regulations are debated within Islamic legal frameworks because
+4:3 is conditional: **a state may restrict a permission when it concludes that
+the condition attached to it is not being met.**
 
 ## Conclusion
 
-Qur'an 4:3 is **a cap placed on an unlimited practice**, introduced in a passage
-about protecting orphans, conditioned on a justice its own chapter says will
-never be complete, and closing with an instruction to marry one where that
-justice is in doubt. The duties it imposes are financial and enforceable, and
-run against the interest of the man taking them on.
+Qur'an 4:3 **sets a limit on a previously unlimited practice**. It appears in a
+passage concerned with protecting orphans, makes justice a condition, and directs
+a man to marry one when he fears that he cannot meet it. Later in the same
+chapter, the Qur'an states that complete justice between wives will remain
+unattainable. The legal duties attached to the permission are financial,
+specific, and enforceable.
 
-The asymmetry with polyandry is real, and the answers to it — determinate
-lineage, one-sided financial liability, the absorption of widows and orphans —
-explain the rule without making the discomfort disappear. What the evidence does
-not support is the reading of plural marriage as an indulgence granted to male
-appetite. **The man who delivered the verse spent twenty-five years married to
-one woman, and refused from the pulpit to let his own cousin and son-in-law take
-a second wife over his daughter.**
+The asymmetry with polyandry remains real. The usual explanations — determinate
+lineage, the husband's exclusive financial liability, and the provision of
+households for widows and orphans — explain the legal structure without removing
+every reason for discomfort. What the evidence does not support is treating
+plural marriage as a simple concession to male appetite. **The Prophet ﷺ spent
+twenty-five years married to one woman and later refused from the pulpit to allow
+his cousin and son-in-law to take a second wife over his daughter.**
 
 ---
 
@@ -312,15 +313,15 @@ a second wife over his daughter.**
 
 ## Notes
 
-[^1]: *Sunan Abi Dawud* 2133, *Jami' at-Tirmidhi* 1141, *Sunan an-Nasa'i* 3942, *Sunan Ibn Majah* 1969, all from Abu Hurayra. The gradings recorded in these collections' apparatus are *sahih* in three assessments and *da'if* in one; the disagreement is noted rather than resolved here.
+[^1]: *Sunan Abi Dawud* 2133, *Jami' at-Tirmidhi* 1141, *Sunan an-Nasa'i* 3942, and *Sunan Ibn Majah* 1969 all transmit this report from Abu Hurayra. The gradings recorded in the collections' apparatus are *sahih* in three assessments and *da'if* in one. The disagreement is noted here rather than resolved.
 
-[^2]: Qur'an 33:50 (the dispensation specific to the Prophet ﷺ), 33:52 (the prohibition on marrying further), 33:53 (his wives not to be married after him), and 33:28–29 (the verse of choice, *ayat al-takhyir*, offering his wives release if they preferred the life of the world).
+[^2]: Qur'an 33:50 contains the dispensation specific to the Prophet ﷺ; 33:52 prohibits him from marrying further; 33:53 prohibits marriage to his wives after his death; and 33:28–29 contains the verse of choice, *ayat al-takhyir*, offering his wives release if they preferred the life of the world.
 
-[^3]: *Sahih al-Bukhari* 5230, with parallel wording at 3729 and *Sahih Muslim* 6309–6310. The Muslim version adds that "the daughter of the Messenger of Allah and the daughter of the enemy of God cannot be the wives of one man," which is the particularising element noted in the text.
+[^3]: *Sahih al-Bukhari* 5230, with parallel wording in 3729 and *Sahih Muslim* 6309–6310. The Muslim version adds that "the daughter of the Messenger of Allah and the daughter of the enemy of God cannot be the wives of one man," which is the particularising element discussed in the text.
 
-[^4]: The Hanbali position that a stipulation against plural marriage is binding, and that breach grants the wife the right to dissolve the marriage, is the standard statement of the school. It is reported here from the secondary literature on stipulations (*shurut*) in the marriage contract rather than checked against Hanbali primary manuals. [unverified]
+[^4]: The standard Hanbali position treats a condition against plural marriage as binding and gives the wife the right to dissolve the marriage if it is breached. This account comes from secondary literature on stipulations (*shurut*) in the marriage contract and has not been checked against primary Hanbali manuals. [unverified]
 
-[^5]: Tunisia's Code of Personal Status (1956) prohibits plural marriage. Various other Muslim-majority jurisdictions require judicial authorisation, proof of financial capacity, or notification of the existing wife. The details vary by country and have changed over time; specific provisions have not been checked against current statutes here. [unverified]
+[^5]: Tunisia's Code of Personal Status (1956) prohibits plural marriage. Other Muslim-majority jurisdictions variously require judicial authorisation, proof of financial capacity, or notification of an existing wife. The details differ by country and have changed over time; the current statutes have not been checked here. [unverified]
 
 ## Qur'an verses cited
 
