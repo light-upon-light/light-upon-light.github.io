@@ -2,6 +2,7 @@ Rewrite _pages/<page>.md to fix the writing style and voice. Read
 _notes/islamic_apologetics_style_guide.md first — especially the sample.
 Change wording only. Keep every section, bullet, quotation, translation
 choice, and {: .quote }/{: .src }/{: .gloss } tag exactly where it is.
+
 Strip the announcement of fairness, keep the fairness.
 
 Hunt these five tics specifically:
