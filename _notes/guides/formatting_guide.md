@@ -9,7 +9,3 @@ bullet, stated so it stands on its own. Evidence indents beneath it: sub-bullets
 first, then quotations in blockquotes. Bold the words the claim turns on.
 
 **Prose-led is the exception**. Use it only when explicitly asked to do so.
-
-## Markdown Formatting
-
-Use bold text freely to highlight the words, distinctions, and conclusions on which an argument turns. Bold should help the reader follow the reasoning at a glance, not merely decorate the prose. Avoid bolding whole paragraphs or so much text that the emphasis loses its value.
