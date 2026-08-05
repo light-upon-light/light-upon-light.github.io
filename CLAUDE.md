@@ -6,8 +6,8 @@ pinned to 4.28.0. Pages live in `_pages/`. Build with
 
 ## Writing style, formatting and analytical approach guide
 
-Make sure to refer to _notes\writing_style_guide.md and _notes\formatting_guide
-whenever you come to write anything, and to _notes\methodolody_guide.md for the analytical approach.
+Make sure to refer to `_notes/guides/writing_style_guide.md` and `_notes/guides/formatting_guide`
+whenever you come to write anything, and to `_notes/guides/methodolody_guide.md` for the analytical approach.
 
 ## What gets published
 
@@ -87,15 +87,15 @@ article (`consummation`, `preservation`) is what actually proves
 surah so a lookup only ever touches a few KB — read or grep it rather than
 fetching:
 
-- `_notes/quran_arabic/<NNN>.json` — the complete Uthmani text, `NNN` the
+- `_notes/data/quran_arabic/<NNN>.json` — the complete Uthmani text, `NNN` the
   3-digit surah number (e.g. `002.json` for al-Baqarah), each file
   `{"quran": [{chapter, verse, text}]}`. 114 files, 6,236 verses total.
-- `_notes/quran_clear/<NNN>.json` — Dr. Mustafa Khattab, *The Clear Quran*,
+- `_notes/data/quran_clear/<NNN>.json` — Dr. Mustafa Khattab, *The Clear Quran*,
   same per-surah layout. No terminal punctuation; existing citations carry
   one, so add the full stop when quoting.
-- `_notes/quran_saheeh/<NNN>.json` — Saheeh International, same per-surah
+- `_notes/data/quran_saheeh/<NNN>.json` — Saheeh International, same per-surah
   layout.
-- `_notes/quran_surah_names.json` — one file, not split (14 KB) — Arabic and
+- `_notes/data/quran_surah_names.json` — one file, not split (14 KB) — Arabic and
   English surah names/counts as `{"surahs": [{number, name_ar, name_en,
   name_translation_en, ayahs}]}`, for citation labels.
 - Cross-check only if a verse looks suspect:
@@ -170,14 +170,14 @@ checked online from here. The corpus is on disk instead, numbered exactly as
 sunnah.com numbers it — 36,512 hadith across the six canonical collections,
 Malik, and three "forties", English and Arabic:
 
-- `_notes/hadith/en/<collection>.jsonl` — `{"n", "b", "h", "g", "en"}`
-- `_notes/hadith/ar/<collection>.jsonl` — `{"n", "ar"}`
+- `_notes/data/hadith/en/<collection>.jsonl` — `{"n", "b", "h", "g", "en"}`
+- `_notes/data/hadith/ar/<collection>.jsonl` — `{"n", "ar"}`
 
 One hadith per line. `Grep` for `^\{"n": <number>,` to check a reference, or
 grep the `en` files for a distinctive phrase to find one whose number is
 unknown. Roughly one record in eight is too long for the Grep tool, which
 reports `[Omitted long matching line]`; read those with the `uv run python`
-one-liner in `_notes/hadith/README.md`.
+one-liner in `_notes/data/hadith/README.md`.
 
 **Check `g` before citing anything outside Bukhari and Muslim.** It carries the
 authenticity grading and is empty for those two by design, since inclusion is
@@ -186,7 +186,7 @@ evidence without saying so.
 
 Musnad Ahmad, al-Darimi, Riyad as-Salihin, and al-Adab al-Mufrad are **not**
 covered, and existing pages cite Ahmad. Give collection, narrator, and content
-without a number rather than reconstructing one. `_notes/hadith/README.md` has
+without a number rather than reconstructing one. `_notes/data/hadith/README.md` has
 the provenance, the verification performed, and why the larger
 `AhmedBaset/hadith-json` dataset is unusable here.
 
@@ -221,8 +221,7 @@ author's **commentary** (`{: .gloss }`, verdigris `#2e6b63` with a 5% wash).
 The tag is a kramdown inline attribute list on the line directly after the
 block — plain markdown, so MD033 stays as it is. Tag a quotation anywhere;
 `.src` and `.gloss` only appear indented under a bullet. A blockquote holding
-only a link, or a prose aside, stays untagged and keeps the theme's dark rule.
-`_notes/islamic_apologetics_style_guide.md` has the full convention.
+only a link stays untagged and keeps the theme's dark rule.
 
 That palette is **deliberately not the skin's**. `.src` sets `color`, never
 `opacity`, because opacity fades any link inside the block along with the text;
@@ -244,4 +243,4 @@ include cannot read them. That path is inside the theme gem, not this repo
 means updating the hardcoded values by hand, in both palettes.
 
 **Dark mode and the TOC drawer have their own failure modes. Read
-`_notes/theme_internals.md` before changing either.**
+`_notes/guides/theme_internals.md` before changing either.**
