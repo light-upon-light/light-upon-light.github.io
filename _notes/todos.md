@@ -14,11 +14,12 @@ general:
 - Issue when jumping to a section from the toc, all the intermediate ones open and close fast so it looks spazzy
 - When jumping from collapsible section title in toc to another, the part of it that collapses the section loses the highlight before the one with the text so it looks weird
 - make text justified
-
 - quran arabic sometimes puts the meem 3alama when it's not present int he original text. example tawbah verse 29 in jizya.
 
 - add links to good articles at the bottom in further reading
 - add good arguments, points and sources from good links
+
+- embed youtube links in collapsible boxes
 
 ---
 
