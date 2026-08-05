@@ -28,6 +28,8 @@ Hunt these five tics specifically:
 5. Bold-for-emphasis inflation. Bold key terms and direct quotations
    only, not conclusions.
 
+
+
 Per-sentence test: is this conveying information, or framing/
 signalling/landing a rhythm? If the latter, cut it.
 
@@ -40,7 +42,25 @@ Please pass over each section individually since you tend to miss most
 of the issues when you pass over them all at once. Create a todo list
 with an entry for each section, and process them individually.
 
-Only change what needs to be changed. What needs to be change is anything
-that doesn't match the voice / writing style of the style guide / example
-and any of the tics specified above. Don't volunteer random rewrites if
-they don't have an issue
+## Preserve the full argument
+
+This is a rewrite, not a summary. Preserve every distinct:
+
+- premise;
+- inference;
+- counterexample;
+- concession;
+- causal link;
+- qualification;
+- response to the objection.
+
+Distinguish **meta-commentary** from **substantive reasoning**:
+
+- Meta-commentary discusses the article, writer, reader, fairness of the presentation, or how convincing a point is. Remove or rewrite it.
+- Substantive reasoning explains why a fact supports or weakens a claim. Preserve it, even when its current phrasing is rhetorical.
+
+When a sentence contains both, remove the meta-commentary while retaining the inference in plain language. Do not replace an argument with the underlying fact alone.
+
+Rewrite unnecessary “not X, but Y” constructions, but preserve the contrast whenever the reasoning depends on distinguishing X from Y.
+
+After editing each section, compare it with the original and confirm that every premise and inference remains. When uncertain whether something is substantive, preserve it.
