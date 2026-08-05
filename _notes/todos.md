@@ -9,6 +9,7 @@ general:
 
 - go over pages again and have it rewrite the stuff in quotations according to the style guide sicne i think it ignored them bec of how the prompt was before
 - try 3 versions, the version that just removes the quote restriction, and another that says that he can make minimal changes to structure but not too much, and one that says nothing about structure (but make sure to keep the bullet let format).
+- assess if prose led or bullet led is better. and use above prompt to rewrite everything into one of them. (check first if no restrictions about structure prompt rewrites into prose led)
 - then re bold everything
 
 - clarify quote usage in site: separate quotes into quran verses, hadith, pure numerical references, and normal quotes
