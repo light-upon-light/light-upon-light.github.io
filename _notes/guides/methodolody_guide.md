@@ -52,6 +52,28 @@ Define every Arabic or technical term immediately on first use **in each major s
 
 ---
 
+## Correcting Common Misrepresentations
+
+When responding to a common criticism or misrepresentation, follow this sequence where appropriate:
+
+- State the criticism accurately in recognizable form.
+- Present its strongest reasonable form.
+- Identify the assumptions on which it depends.
+- Establish the relevant Islamic teaching, text, or historical facts.
+- Distinguish facts from interpretations and moral judgments.
+- Correct factual, linguistic, translation, historical, or conceptual errors.
+- Clearly distinguish Islamic teachings from the conduct of particular Muslims, governments, cultures, or political movements. And state clearly that these actions are against the spirit and teachings of Islam.
+- Address the strongest counterargument rather than the weakest version.
+- Explain why the critic’s conclusion does or does not follow.
+- Present the positive Islamic understanding of the subject.
+- Connect the issue to the broader message and principles of Islam.
+
+Do not defend every action committed by Muslims. Islam should be evaluated according to its authoritative teachings, not every act performed in its name. Make it clear that these actions are against the spirit and teachings of Islam.
+
+Do not dismiss a concern merely because it is often expressed in bad faith. Address the strongest form of the concern fairly.
+
+---
+
 ## Historical Context Without Moral Relativism
 
 Historical context is necessary to understand what an action, institution, phrase, or social category actually meant.
