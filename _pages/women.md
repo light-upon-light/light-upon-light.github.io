@@ -74,7 +74,7 @@ rules altered.
     > to death" (**Sūrat al-Takwīr 81:8–9**), Dr. Mustafa Khattab,
     > *The Clear Quran*
     >
-    > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَإِذَا ٱلْمَوْءُۥدَةُ سُئِلَتْ ۝٨ بِأَىِّ ذَنۢبٍۢ قُتِلَتْ ۝٩﴾ <span class="ayah-ref">سُورَةُ التَّكۡوِيرِ</span></div>
+    > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَإِذَا ٱلْمَوْءُۥدَةُ سُئِلَتْ ۝٨ بِأَىِّ ذَنۢبٍ قُتِلَتْ ۝٩﴾ <span class="ayah-ref">سُورَةُ التَّكۡوِيرِ</span></div>
     {: .quote }
 
     > The verse does not question the father who killed her. It questions
@@ -101,7 +101,7 @@ different contexts.
     > "Who created you from a single soul" (**Sūrat al-Nisāʾ 4:1**),
     > Dr. Mustafa Khattab, *The Clear Quran*
     >
-    > <div dir="rtl" lang="ar" class="quran-arabic">﴿خَلَقَكُم مِّن نَّفْسٍۢ وَٰحِدَةٍۢ﴾ <span class="ayah-ref">[سُورَةُ النِّسَاءِ: ١]</span></div>
+    > <div dir="rtl" lang="ar" class="quran-arabic">﴿خَلَقَكُم مِّن نَّفْسٍ وَٰحِدَةٍ﴾ <span class="ayah-ref">[سُورَةُ النِّسَاءِ: ١]</span></div>
     {: .quote }
 
 - **One measure of worth**, based on righteousness rather than sex, lineage,
@@ -122,7 +122,7 @@ different contexts.
     > according to the best of their deeds" (**Sūrat al-Naḥl 16:97**),
     > Dr. Mustafa Khattab, *The Clear Quran*
     >
-    > <div dir="rtl" lang="ar" class="quran-arabic">﴿مَنْ عَمِلَ صَٰلِحًۭا مِّن ذَكَرٍ أَوْ أُنثَىٰ وَهُوَ مُؤْمِنٌۭ فَلَنُحْيِيَنَّهُۥ حَيَوٰةًۭ طَيِّبَةًۭ ۖ وَلَنَجْزِيَنَّهُمْ أَجْرَهُم بِأَحْسَنِ مَا كَانُوا۟ يَعْمَلُونَ ۝٩٧﴾ <span class="ayah-ref">سُورَةُ النَّحۡلِ</span></div>
+    > <div dir="rtl" lang="ar" class="quran-arabic">﴿مَنْ عَمِلَ صَـٰلِحًا مِّن ذَكَرٍ أَوْ أُنثَىٰ وَهُوَ مُؤْمِنٌ فَلَنُحْيِيَنَّهُۥ حَيَوٰةً طَيِّبَةً ۖ وَلَنَجْزِيَنَّهُمْ أَجْرَهُم بِأَحْسَنِ مَا كَانُوا۟ يَعْمَلُونَ ۝٩٧﴾ <span class="ayah-ref">سُورَةُ النَّحۡلِ</span></div>
     {: .quote }
 
 - **The passage revealed after Umm Umara's question** lists ten qualities,
@@ -137,7 +137,7 @@ different contexts.
     > prepared forgiveness and a great reward." (**Sūrat al-Aḥzāb 33:35**),
     > Saheeh International
     >
-    > <div dir="rtl" lang="ar" class="quran-arabic">﴿إِنَّ ٱلْمُسْلِمِينَ وَٱلْمُسْلِمَٰتِ وَٱلْمُؤْمِنِينَ وَٱلْمُؤْمِنَٰتِ وَٱلْقَٰنِتِينَ وَٱلْقَٰنِتَٰتِ وَٱلصَّٰدِقِينَ وَٱلصَّٰدِقَٰتِ وَٱلصَّٰبِرِينَ وَٱلصَّٰبِرَٰتِ وَٱلْخَٰشِعِينَ وَٱلْخَٰشِعَٰتِ وَٱلْمُتَصَدِّقِينَ وَٱلْمُتَصَدِّقَٰتِ وَٱلصَّٰٓئِمِينَ وَٱلصَّٰٓئِمَٰتِ وَٱلْحَٰفِظِينَ فُرُوجَهُمْ وَٱلْحَٰفِظَٰتِ وَٱلذَّٰكِرِينَ ٱللَّهَ كَثِيرًۭا وَٱلذَّٰكِرَٰتِ أَعَدَّ ٱللَّهُ لَهُم مَّغْفِرَةًۭ وَأَجْرًا عَظِيمًۭا ۝٣٥﴾ <span class="ayah-ref">سُورَةُ الأَحۡزَابِ</span></div>
+    > <div dir="rtl" lang="ar" class="quran-arabic">﴿إِنَّ ٱلْمُسْلِمِينَ وَٱلْمُسْلِمَـٰتِ وَٱلْمُؤْمِنِينَ وَٱلْمُؤْمِنَـٰتِ وَٱلْقَـٰنِتِينَ وَٱلْقَـٰنِتَـٰتِ وَٱلصَّـٰدِقِينَ وَٱلصَّـٰدِقَـٰتِ وَٱلصَّـٰبِرِينَ وَٱلصَّـٰبِرَٰتِ وَٱلْخَـٰشِعِينَ وَٱلْخَـٰشِعَـٰتِ وَٱلْمُتَصَدِّقِينَ وَٱلْمُتَصَدِّقَـٰتِ وَٱلصَّـٰٓئِمِينَ وَٱلصَّـٰٓئِمَـٰتِ وَٱلْحَـٰفِظِينَ فُرُوجَهُمْ وَٱلْحَـٰفِظَـٰتِ وَٱلذَّٰكِرِينَ ٱللَّهَ كَثِيرًا وَٱلذَّٰكِرَٰتِ أَعَدَّ ٱللَّهُ لَهُم مَّغْفِرَةً وَأَجْرًا عَظِيمًا ۝٣٥﴾ <span class="ayah-ref">سُورَةُ الأَحۡزَابِ</span></div>
     {: .quote }
 
     > The passage could have answered in general terms that women were
@@ -154,7 +154,7 @@ different contexts.
     > "The believing men and believing women are allies of one another"
     > (**Sūrat al-Tawbah 9:71**), Saheeh International
     >
-    > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَٱلْمُؤْمِنُونَ وَٱلْمُؤْمِنَٰتُ بَعْضُهُمْ أَوْلِيَآءُ بَعْضٍۢ﴾ <span class="ayah-ref">[سُورَةُ التَّوۡبَةِ: ٧١]</span></div>
+    > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَٱلْمُؤْمِنُونَ وَٱلْمُؤْمِنَـٰتُ بَعْضُهُمْ أَوْلِيَآءُ بَعْضٍ﴾ <span class="ayah-ref">[سُورَةُ التَّوۡبَةِ: ٧١]</span></div>
     {: .quote }
 
 ## Standing before the law
@@ -168,7 +168,7 @@ not only statements about spiritual standing.
     > "For men is a share of what they have earned, and for women is a share of
     > what they have earned" (**Sūrat al-Nisāʾ 4:32**), Saheeh International
     >
-    > <div dir="rtl" lang="ar" class="quran-arabic">﴿لِّلرِّجَالِ نَصِيبٌۭ مِّمَّا ٱكْتَسَبُوا۟ ۖ وَلِلنِّسَآءِ نَصِيبٌۭ مِّمَّا ٱكْتَسَبْنَ﴾ <span class="ayah-ref">[سُورَةُ النِّسَاءِ: ٣٢]</span></div>
+    > <div dir="rtl" lang="ar" class="quran-arabic">﴿لِّلرِّجَالِ نَصِيبٌ مِّمَّا ٱكْتَسَبُوا۟ ۖ وَلِلنِّسَآءِ نَصِيبٌ مِّمَّا ٱكْتَسَبْنَ﴾ <span class="ayah-ref">[سُورَةُ النِّسَاءِ: ٣٢]</span></div>
     {: .quote }
 
 - **The marriage gift is paid to her, not to her father.** The *mahr* belongs
@@ -178,7 +178,7 @@ not only statements about spiritual standing.
     > "Give women ˹you wed˺ their due dowries graciously" (**Sūrat al-Nisāʾ
     > 4:4**), Dr. Mustafa Khattab, *The Clear Quran*
     >
-    > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَءَاتُوا۟ ٱلنِّسَآءَ صَدُقَٰتِهِنَّ نِحْلَةًۭ﴾ <span class="ayah-ref">[سُورَةُ النِّسَاءِ: ٤]</span></div>
+    > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَءَاتُوا۟ ٱلنِّسَآءَ صَدُقَـٰتِهِنَّ نِحْلَةً﴾ <span class="ayah-ref">[سُورَةُ النِّسَاءِ: ٤]</span></div>
     {: .quote }
 
 - **She keeps it, and she keeps her own income, whether or not she is married.**
@@ -277,7 +277,7 @@ revealed afterward opens by stating that God heard her:
 > exchange." (**Sūrat al-Mujādilah 58:1**), Dr. Mustafa Khattab,
 > *The Clear Quran*
 >
-> <div dir="rtl" lang="ar" class="quran-arabic">﴿قَدْ سَمِعَ ٱللَّهُ قَوْلَ ٱلَّتِى تُجَٰدِلُكَ فِى زَوْجِهَا وَتَشْتَكِىٓ إِلَى ٱللَّهِ﴾ <span class="ayah-ref">[سُورَةُ المُجَادلَةِ: ١]</span></div>
+> <div dir="rtl" lang="ar" class="quran-arabic">﴿قَدْ سَمِعَ ٱللَّهُ قَوْلَ ٱلَّتِى تُجَـٰدِلُكَ فِى زَوْجِهَا وَتَشْتَكِىٓ إِلَى ٱللَّهِ﴾ <span class="ayah-ref">[سُورَةُ المُجَادلَةِ: ١]</span></div>
 {: .quote }
 
 The surah is named *al-Mujadila* — "the woman who argues."
@@ -437,7 +437,7 @@ of those that require interpretation:
 > that of it which is unspecific, seeking discord and seeking an interpretation
 > suitable to them." (**Sūrat Āl ʿImrān 3:7**), Saheeh International
 >
-> <div dir="rtl" lang="ar" class="quran-arabic">﴿مِنْهُ ءَايَٰتٌۭ مُّحْكَمَٰتٌ هُنَّ أُمُّ ٱلْكِتَٰبِ وَأُخَرُ مُتَشَٰبِهَٰتٌۭ﴾ <span class="ayah-ref">[سُورَةُ آلِ عِمۡرَانَ: ٧]</span></div>
+> <div dir="rtl" lang="ar" class="quran-arabic">﴿مِنْهُ ءَايَـٰتٌ مُّحْكَمَـٰتٌ هُنَّ أُمُّ ٱلْكِتَـٰبِ وَأُخَرُ مُتَشَـٰبِهَـٰتٌ﴾ <span class="ayah-ref">[سُورَةُ آلِ عِمۡرَانَ: ٧]</span></div>
 {: .quote }
 
 - The *muḥkamāt* are clear verses, including statements that God is one,

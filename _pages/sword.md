@@ -189,7 +189,7 @@ compelled.
     > to become believers" (**Sūrat Yūnus 10:99**), Dr. Mustafa Khattab,
     > *The Clear Quran*
     >
-    > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَلَوْ شَآءَ رَبُّكَ لَءَامَنَ مَن فِى ٱلْأَرْضِ كُلُّهُمْ جَمِيعًا ۚ أَفَأَنتَ تُكْرِهُ ٱلنَّاسَ حَتَّىٰ يَكُونُوا۟ مُؤْمِنِينَ ۝٩٩﴾ <span class="ayah-ref">سُورَةُ يُونُسَ</span></div>
+    > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَلَوْ شَآءَ رَبُّكَ لَـَٔامَنَ مَن فِى ٱلْأَرْضِ كُلُّهُمْ جَمِيعًا ۚ أَفَأَنتَ تُكْرِهُ ٱلنَّاسَ حَتَّىٰ يَكُونُوا۟ مُؤْمِنِينَ ۝٩٩﴾ <span class="ayah-ref">سُورَةُ يُونُسَ</span></div>
     {: .quote }
 
 - The choice is stated openly, while its consequences are placed in the next
@@ -206,7 +206,7 @@ compelled.
     > "So remind, [O Muhammad]; you are only a reminder." (**Sūrat al-Ghāshiyah
     > 88:21**), Saheeh International
     >
-    > <div dir="rtl" lang="ar" class="quran-arabic">﴿فَذَكِّرْ إِنَّمَآ أَنتَ مُذَكِّرٌۭ ۝٢١﴾ <span class="ayah-ref">سُورَةُ الغَاشِيَةِ</span></div>
+    > <div dir="rtl" lang="ar" class="quran-arabic">﴿فَذَكِّرْ إِنَّمَآ أَنتَ مُذَكِّرٌ ۝٢١﴾ <span class="ayah-ref">سُورَةُ الغَاشِيَةِ</span></div>
     {: .quote }
 
 - People are to be called to Islam through wisdom and argument, not force:
@@ -233,7 +233,7 @@ compelled.
     > but do not exceed the limits. Allah does not like transgressors"
     > (**Sūrat al-Baqarah 2:190**), Dr. Mustafa Khattab, *The Clear Quran*
     >
-    > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَقَٰتِلُوا۟ فِى سَبِيلِ ٱللَّهِ ٱلَّذِينَ يُقَٰتِلُونَكُمْ وَلَا تَعْتَدُوٓا۟ ۚ إِنَّ ٱللَّهَ لَا يُحِبُّ ٱلْمُعْتَدِينَ ۝١٩٠﴾ <span class="ayah-ref">سُورَةُ البَقَرَةِ</span></div>
+    > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَقَـٰتِلُوا۟ فِى سَبِيلِ ٱللَّهِ ٱلَّذِينَ يُقَـٰتِلُونَكُمْ وَلَا تَعْتَدُوٓا۟ ۚ إِنَّ ٱللَّهَ لَا يُحِبُّ ٱلْمُعْتَدِينَ ۝١٩٠﴾ <span class="ayah-ref">سُورَةُ البَقَرَةِ</span></div>
     {: .quote }
 
 ## The rules the armies were given

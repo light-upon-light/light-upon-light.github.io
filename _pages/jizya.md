@@ -125,7 +125,7 @@ The jizya appears only once in the Qur'an, in verse 9:29:
 > [fight] until they give the jizyah willingly while they are humbled."
 > (**Sūrat al-Tawbah 9:29**), Saheeh International
 >
-> <div dir="rtl" lang="ar" class="quran-arabic">﴿قَٰتِلُوا۟ ٱلَّذِينَ لَا يُؤْمِنُونَ بِٱللَّهِ وَلَا بِٱلْيَوْمِ ٱلْءَاخِرِ وَلَا يُحَرِّمُونَ مَا حَرَّمَ ٱللَّهُ وَرَسُولُهُۥ وَلَا يَدِينُونَ دِينَ ٱلْحَقِّ مِنَ ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَٰبَ حَتَّىٰ يُعْطُوا۟ ٱلْجِزْيَةَ عَن يَدٍۢ وَهُمْ صَٰغِرُونَ ۝٢٩﴾ <span class="ayah-ref">سُورَةُ التَّوۡبَةِ</span></div>
+> <div dir="rtl" lang="ar" class="quran-arabic">﴿قَـٰتِلُوا۟ ٱلَّذِينَ لَا يُؤْمِنُونَ بِٱللَّهِ وَلَا بِٱلْيَوْمِ ٱلْـَٔاخِرِ وَلَا يُحَرِّمُونَ مَا حَرَّمَ ٱللَّهُ وَرَسُولُهُۥ وَلَا يَدِينُونَ دِينَ ٱلْحَقِّ مِنَ ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَـٰبَ حَتَّىٰ يُعْطُوا۟ ٱلْجِزْيَةَ عَن يَدٍ وَهُمْ صَـٰغِرُونَ ۝٢٩﴾ <span class="ayah-ref">سُورَةُ التَّوۡبَةِ</span></div>
 {: .quote }
 
 The verse addresses a war that was already taking place and gives a condition
@@ -145,7 +145,7 @@ exegetes also differed over the meaning of the verse's closing phrase.
     > you, but do not exceed the limits. Allah does not like transgressors"
     > (**Sūrat al-Baqarah 2:190**), Dr. Mustafa Khattab, *The Clear Quran*
     >
-    > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَقَٰتِلُوا۟ فِى سَبِيلِ ٱللَّهِ ٱلَّذِينَ يُقَٰتِلُونَكُمْ وَلَا تَعْتَدُوٓا۟ ۚ إِنَّ ٱللَّهَ لَا يُحِبُّ ٱلْمُعْتَدِينَ ۝١٩٠﴾ <span class="ayah-ref">سُورَةُ البَقَرَةِ</span></div>
+    > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَقَـٰتِلُوا۟ فِى سَبِيلِ ٱللَّهِ ٱلَّذِينَ يُقَـٰتِلُونَكُمْ وَلَا تَعْتَدُوٓا۟ ۚ إِنَّ ٱللَّهَ لَا يُحِبُّ ٱلْمُعْتَدِينَ ۝١٩٠﴾ <span class="ayah-ref">سُورَةُ البَقَرَةِ</span></div>
     {: .quote }
 
 - The Qur'an separately forbids compelling anyone to believe:
@@ -164,14 +164,14 @@ exegetes also differed over the meaning of the verse's closing phrase.
     > those who are fair" (**Sūrat al-Mumtaḥanah 60:8**), Dr. Mustafa Khattab,
     > *The Clear Quran*
     >
-    > <div dir="rtl" lang="ar" class="quran-arabic">﴿لَّا يَنْهَىٰكُمُ ٱللَّهُ عَنِ ٱلَّذِينَ لَمْ يُقَٰتِلُوكُمْ فِى ٱلدِّينِ وَلَمْ يُخْرِجُوكُم مِّن دِيَٰرِكُمْ أَن تَبَرُّوهُمْ وَتُقْسِطُوٓا۟ إِلَيْهِمْ ۚ إِنَّ ٱللَّهَ يُحِبُّ ٱلْمُقْسِطِينَ ۝٨﴾ <span class="ayah-ref">سُورَةُ المُمۡتَحنَةِ</span></div>
+    > <div dir="rtl" lang="ar" class="quran-arabic">﴿لَّا يَنْهَىٰكُمُ ٱللَّهُ عَنِ ٱلَّذِينَ لَمْ يُقَـٰتِلُوكُمْ فِى ٱلدِّينِ وَلَمْ يُخْرِجُوكُم مِّن دِيَـٰرِكُمْ أَن تَبَرُّوهُمْ وَتُقْسِطُوٓا۟ إِلَيْهِمْ ۚ إِنَّ ٱللَّهَ يُحِبُّ ٱلْمُقْسِطِينَ ۝٨﴾ <span class="ayah-ref">سُورَةُ المُمۡتَحنَةِ</span></div>
     {: .quote }
 
 ### The closing phrase
 
 The verse closes with the words *ʿan yadin wa-hum ṣāghirūn*:
 
-> <div dir="rtl" lang="ar" class="quran-arabic">﴿حَتَّىٰ يُعْطُوا۟ ٱلْجِزْيَةَ عَن يَدٍۢ وَهُمْ صَٰغِرُونَ﴾ <span class="ayah-ref">[سُورَةُ التَّوۡبَةِ: ٢٩]</span></div>
+> <div dir="rtl" lang="ar" class="quran-arabic">﴿حَتَّىٰ يُعْطُوا۟ ٱلْجِزْيَةَ عَن يَدٍ وَهُمْ صَـٰغِرُونَ﴾ <span class="ayah-ref">[سُورَةُ التَّوۡبَةِ: ٢٩]</span></div>
 {: .quote }
 
 - *ʿan yadin* literally means "from a hand," but exegetes understood the phrase
