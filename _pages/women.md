@@ -77,10 +77,10 @@ rules altered.
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَإِذَا ٱلْمَوْءُۥدَةُ سُئِلَتْ ۝٨ بِأَىِّ ذَنۢبٍۢ قُتِلَتْ ۝٩﴾ <span class="ayah-ref">سُورَةُ التَّكۡوِيرِ</span></div>
     {: .quote }
 
-    > The person questioned is **the child**, not the father who killed her.
-    > The question "for what crime" makes clear that she committed none. The
-    > verse gives the murdered daughter a voice and makes her death an accusation
-    > against the society that accepted it.
+    > The verse does not question the father who killed her. It questions
+    > **the child**: "for what crime" was she put to death? The answer is none.
+    > By giving the murdered daughter a voice, the Qur'an turns her death into
+    > an accusation against the society that accepted it.
     {: .gloss }
 
 - **Widows were inherited along with the property.** A dead man's wife could
@@ -140,10 +140,10 @@ different contexts.
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿إِنَّ ٱلْمُسْلِمِينَ وَٱلْمُسْلِمَٰتِ وَٱلْمُؤْمِنِينَ وَٱلْمُؤْمِنَٰتِ وَٱلْقَٰنِتِينَ وَٱلْقَٰنِتَٰتِ وَٱلصَّٰدِقِينَ وَٱلصَّٰدِقَٰتِ وَٱلصَّٰبِرِينَ وَٱلصَّٰبِرَٰتِ وَٱلْخَٰشِعِينَ وَٱلْخَٰشِعَٰتِ وَٱلْمُتَصَدِّقِينَ وَٱلْمُتَصَدِّقَٰتِ وَٱلصَّٰٓئِمِينَ وَٱلصَّٰٓئِمَٰتِ وَٱلْحَٰفِظِينَ فُرُوجَهُمْ وَٱلْحَٰفِظَٰتِ وَٱلذَّٰكِرِينَ ٱللَّهَ كَثِيرًۭا وَٱلذَّٰكِرَٰتِ أَعَدَّ ٱللَّهُ لَهُم مَّغْفِرَةًۭ وَأَجْرًا عَظِيمًۭا ۝٣٥﴾ <span class="ayah-ref">سُورَةُ الأَحۡزَابِ</span></div>
     {: .quote }
 
-    > The passage could simply have said "this applies to women too." Instead,
-    > it repeats every term in the feminine form. **Umm Umara said that women had
-    > not been mentioned, and the response named them in each of the ten
-    > categories.**
+    > The passage could have answered in general terms that women were
+    > included. Instead, it repeats all ten qualities in both masculine and
+    > feminine forms. **Umm Umara complained that women were not being named,
+    > and the answer named them category by category.**
     {: .gloss }
 
 - **Mutual responsibility, expressed in the same term.** Believing men and
@@ -191,9 +191,10 @@ not only statements about spiritual standing.
   was the first person to believe him, and remained his only wife until her
   death.
 
-    > Khadija's example shows that a woman could own a trading business, employ
-    > a man she later married, and initiate the marriage negotiations. The
-    > Qur'anic property rules recognized and secured that legal capacity.
+    > Khadija's life shows the legal capacity these rules protected. She owned
+    > a trading business, employed the man she later married, and took the
+    > initiative in arranging the marriage. The Qur'anic property rules
+    > recognized and secured her ability to act in her own right.
     {: .gloss }
 - **She inherits by fixed entitlement.** Many women had previously received no
   inheritance. The Qur'an assigns them defined shares (4:7, 4:11–12) that cannot
@@ -217,9 +218,9 @@ brought the matter to the Prophet ﷺ.
   told her: *"Don't be afraid — Khansa bint Khidham was given by her father in
   marriage against her will, and the Prophet ﷺ declared it invalid."*[^3]
 
-    > The later woman could cite Khansa's case through people who knew the
-    > precedent. This shows that the ruling was used as an operative legal right,
-    > not preserved only as an abstract principle.
+    > The ruling did not remain an abstract principle. Another woman facing
+    > the same danger was reassured by people who knew Khansa's case and could
+    > invoke it as precedent. The annulment had become an operative legal right.
     {: .gloss }
 
 ## Getting out of a marriage
@@ -230,9 +231,10 @@ brought the matter to the Prophet ﷺ.
   asked whether she would return the garden Thabit had given her as *mahr*. She
   agreed, and he ordered Thabit to divorce her.[^4]
 
-    > This is *khulʿ*. It does not require an allegation of misconduct,
-    > witnesses, or proof of harm. **Her statement that she cannot continue is
-    > sufficient grounds.** She returns the marriage gift, and the marriage ends.
+    > This is *khulʿ*. A wife does not need to accuse her husband of
+    > misconduct, produce witnesses, or prove that he harmed her. **Her statement
+    > that she cannot continue is sufficient.** She returns the marriage gift,
+    > and the marriage ends.
     {: .gloss }
 
 - **Where there was harm, she did not have to return anything.** Thabit ibn
@@ -304,9 +306,9 @@ The surah is named *al-Mujadila* — "the woman who argues."
   rights for you upon your women, and rights for your women upon you,"* and
   instructed men to provide women with good clothing and food.[^11]
 
-    > **The same sermon contains the sentence about striking**, qualified there
-    > as "a beating that is not painful." That clause is not omitted here. Its
-    > wording, the term behind it, and its treatment by Muslim jurists are
+    > **The sentence about striking appears in this same sermon**, qualified
+    > as "a beating that is not painful." It is not being passed over here. Its
+    > wording, the term behind it, and the limits Muslim jurists placed on it are
     > examined in [The Misreading of Qur'an 4:34](/wadribuhunna).
     {: .gloss }
 
@@ -406,9 +408,10 @@ This is discussed at
   the rites himself. He followed her advice, and the entire camp then followed
   him.[^12]
 
-    > This report appears in the tradition's most rigorously screened
-    > collection. It records the Prophet ﷺ resolving a serious crisis of
-    > obedience by accepting and acting on his wife's political advice.
+    > This is not a marginal report. It appears in the tradition's most
+    > rigorously screened collection and describes a serious crisis of
+    > leadership. The Prophet ﷺ resolved it by accepting and acting on his
+    > wife's political advice.
     {: .gloss }
 
 ### Covering

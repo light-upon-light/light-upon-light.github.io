@@ -62,10 +62,10 @@ to 4**, and the historical evidence does not support it.
   reflects this arrangement: a tax imposed on non-Muslim subjects assumes that
   substantial non-Muslim populations will continue to live under Muslim rule.
 
-    > A state that converted populations by force would have no use for a
-    > revenue stream that only non-Muslims generate. The tax and the alleged
-    > policy cannot both have been in operation — and it is the tax that is
-    > documented, in papyri, for centuries.
+    > A state pursuing forced conversion would undermine a tax paid only by
+    > non-Muslims. The two policies work against each other. What the papyri
+    > document, century after century, is the continued collection of that tax
+    > from non-Muslim subjects.
     {: .gloss }
 
 - The Prophet's ﷺ standing instructions to army commanders make the political
@@ -80,10 +80,10 @@ to 4**, and the historical evidence does not support it.
     > — *Sahih Muslim* 4521[^1]
     {: .src }
 
-    > The second option is the one that matters here. A settlement in which the
-    > other side stays exactly as it is, keeps its religion, and pays a tax is
-    > **an accepted outcome, not a failure**. If the object were belief, paying
-    > money would not discharge it.
+    > The second alternative is decisive. The opposing population could retain
+    > its religion, accept Muslim rule, and pay the *jizya*, and this counted as
+    > **a legitimate settlement, not a failed conversion**. If conversion had
+    > been the objective, payment of a tax could not have satisfied it.
     {: .gloss }
 
 ## Conversion took centuries
@@ -106,11 +106,11 @@ conquered. The evidence does not show that pattern.
   the medieval period**. Bulliet's graphs must therefore be read as describing
   the people who eventually converted, not the entire population.[^2]
 
-    > Five centuries is not what coercion looks like. Forced conversion is fast
-    > by design — it is an event, applied to a population, and it shows up in the
-    > record as one. What the Egyptian data show instead is a slow drift across
-    > twenty generations, which is what happens when people are choosing, for
-    > mixed reasons, over long periods.
+    > A five-century transition is difficult to reconcile with systematic forced
+    > conversion. Coercive campaigns are meant to produce immediate, visible
+    > compliance. The Egyptian evidence instead records gradual change over about
+    > twenty generations, as people converted at different times and for
+    > different reasons.
     {: .gloss }
 
 ## The communities that are still there
@@ -135,10 +135,11 @@ Muslim political and military rule over a Hindu majority. At the end of that
 period, **India was, and remains, overwhelmingly Hindu**. The 2011 census records
 roughly 80 per cent Hindu and 14 per cent Muslim.[^4]
 
-> Six centuries of rule is ample time to convert a population by force if that
-> is what a state is doing. The obvious conclusion from the Indian record is
-> that it was not being attempted, or was attempted so rarely and ineffectually
-> that it left the religious composition of the subcontinent essentially intact.
+> Six and a half centuries of Muslim rule gave successive states more than
+> enough time to impose conversion had that been their policy. Yet the
+> subcontinent remained overwhelmingly Hindu. The Indian case therefore shows
+> that forced conversion was neither a consistent state project nor effective
+> enough to determine the region's religious composition.
 {: .gloss }
 
 ## Where Islam spread with no conquest at all
@@ -160,9 +161,10 @@ populations developed in places without an Arab conquest.
 - **China** has had Muslim communities since the Tang period, founded by traders
   travelling over land and sea.
 
-    > Between them these regions account for a very large share of the world's
-    > Muslims. An explanation of Islam's spread that cannot account for
-    > Indonesia is not an explanation of Islam's spread.
+    > Together, these regions contain a substantial share of the world's Muslims.
+    > Any account that treats conquest as the main explanation for Islam's spread
+    > must still explain Indonesia, whose vast Muslim population developed without
+    > an Arab conquest.
     {: .gloss }
 
 ## What the Qur'an says about compelling belief
@@ -258,10 +260,10 @@ who fight and those who do not.
     > — *Sunan Ibn Majah* 2842, graded *hasan sahih*[^7]
     {: .src }
 
-    > The category being drawn is **combatant and non-combatant**, not Muslim
-    > and non-Muslim. The woman's religion is not mentioned and makes no
-    > difference to the ruling; what settles it is that she was not fighting.
-    > The labourer is included on the same principle.
+    > The relevant distinction is between **combatants and non-combatants**, not
+    > Muslims and non-Muslims. The report does not mention the woman's religion
+    > because it makes no difference to the ruling. She was protected because she
+    > was not fighting, and the labourer is included for the same reason.
     {: .gloss }
 
 - The standing instructions to commanders also prohibit treachery, mutilation,
@@ -272,10 +274,10 @@ who fight and those who do not.
   destroy inhabited places; do not slaughter livestock except for food; and
   leave monks in their monasteries alone.
 
-    > *Muwatta Malik* 968. The report is graded **weak** in its chain, and is a
-    > Companion's instruction rather than a Prophetic ruling. It is included
-    > because it is widely transmitted and illustrates early practice, not as
-    > proof of a legal rule; the Prophetic reports above carry that weight.[^8]
+    > *Muwatta Malik* 968. Its chain is graded **weak**, and the report records a
+    > Companion's instruction rather than a ruling of the Prophet ﷺ. It is cited
+    > here only as widely transmitted evidence of early practice, not as proof of
+    > the legal rule. That proof comes from the Prophetic reports above.[^8]
     {: .src }
 
 ## Where the criticism does land
