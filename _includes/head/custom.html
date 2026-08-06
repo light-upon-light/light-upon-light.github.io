@@ -35,6 +35,22 @@
     -webkit-tap-highlight-color: transparent;
   }
 
+  /* The theme's own compiled CSS sets `a:focus, button:focus { outline: ...
+     }` unconditionally -- it is not gated by :focus-visible at all (checked
+     the compiled output; there is no :focus-visible anywhere in it). So
+     every plain link and button the theme renders, not just the ones this
+     repo adds, shows that outline on a mouse click, not only on real
+     keyboard navigation -- most noticeably clicking around the sticky TOC
+     sidebar's own <a> links. :not(:focus-visible) suppresses it for a
+     pointer-triggered focus while leaving it for keyboard use. Two extra
+     `:not()`s beat the theme's plain `a:focus`/`button:focus` on
+     specificity, so this wins regardless of source order and needs no
+     `!important` and no duplicate in dark.scss. */
+  a:focus:not(:focus-visible),
+  button:focus:not(:focus-visible) {
+    outline: none;
+  }
+
   /* Reading type face, replacing the theme's default system-UI sans stack
      for body copy and headings. Deliberately scoped to body + headings, not
      a blanket override: the theme gives nav/masthead/sidebar/buttons/TOC/
