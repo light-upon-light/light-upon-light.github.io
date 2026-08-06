@@ -455,13 +455,26 @@
     opacity: 0.75;
   }
 
-  /* 16:9 responsive frame -- the classic padding-bottom hack, since aspect-
-     ratio support is not needed anywhere else on the site yet. */
+  /* Holds the no-JS fallback link until the script in footer/custom.html
+     swaps a player in, so this is in normal flow by default -- collapsing
+     it to the 16:9 box below while it contains only a link would leave a
+     lone link floating in a viewport-wide empty rectangle. */
   .yt-embed__frame {
+    margin-block: 0.5em;
+  }
+
+  /* 16:9 responsive frame -- the classic padding-bottom hack, since aspect-
+     ratio support is not needed anywhere else on the site yet. Gated on the
+     class rather than `:has(iframe)` so the rule lands in the same tick as
+     the injected element, with no dependence on :has support. */
+  .yt-embed__frame.is-loaded {
     position: relative;
     height: 0;
     padding-bottom: 56.25%;
-    margin-block: 0.5em;
+  }
+
+  .yt-embed__frame.is-loaded > a {
+    display: none;
   }
 
   .yt-embed__frame iframe {

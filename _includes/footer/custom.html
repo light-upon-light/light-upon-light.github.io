@@ -811,4 +811,61 @@
   })();
 </script>
 
+<!-- Mount/unmount the players for _includes/yt-embed.html.
+
+     The include deliberately ships no <iframe> at all; see the long comment
+     at the top of it for why (49 of them, even collapsed and never loaded,
+     killed the web process on iOS). This builds one on open and destroys it
+     on close, so the document holds zero iframes at rest and at most one
+     while a reader is watching.
+
+     Delegated from the document with `capture: true`, which is load-bearing:
+     `toggle` is a non-bubbling event, so a plain document-level listener
+     never fires and the whole feature silently does nothing. Capture is what
+     lets a single listener serve all 49 boxes without binding to each. -->
+
+<script>
+  (function () {
+    var PLAYER_ALLOW =
+      "accelerometer; autoplay; clipboard-write; encrypted-media; " +
+      "gyroscope; picture-in-picture; web-share";
+
+    document.addEventListener("toggle", function (e) {
+      var details = e.target;
+      if (!details.classList || !details.classList.contains("yt-embed")) return;
+
+      var frame = details.querySelector(".yt-embed__frame");
+      if (!frame) return;
+
+      var iframe = frame.querySelector("iframe");
+
+      if (!details.open) {
+        /* Teardown is the point of the exercise, not tidiness: leaving the
+           players mounted lets a reader who works down the page rebuild the
+           exact pile of iframes this whole approach exists to avoid. It also
+           stops the audio, which a reader closing the box plainly wants. */
+        if (iframe) iframe.remove();
+        frame.classList.remove("is-loaded");
+        return;
+      }
+
+      if (iframe) return; // already mounted; a re-open with no close between
+
+      var id = details.getAttribute("data-yt-id");
+      if (!id) return; // no ID parsed -- leave the fallback link in place
+
+      iframe = document.createElement("iframe");
+      iframe.src = "https://www.youtube-nocookie.com/embed/" + encodeURIComponent(id);
+      iframe.title = details.getAttribute("data-yt-title") || "YouTube video";
+      iframe.referrerPolicy = "strict-origin-when-cross-origin";
+      iframe.allow = PLAYER_ALLOW;
+      iframe.allowFullscreen = true;
+      iframe.setAttribute("frameborder", "0");
+
+      frame.appendChild(iframe);
+      frame.classList.add("is-loaded");
+    }, true);
+  })();
+</script>
+
 <!-- end custom footer snippets -->

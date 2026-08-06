@@ -11,6 +11,32 @@
   The video ID is just the URL's last path segment once the query string is
   stripped, which holds for every one of those forms alike.
 
+  NO <iframe> IS EMITTED HERE. The video ID rides on `data-yt-id` and the
+  frame is built by the script in _includes/footer/custom.html on first
+  open, then torn down again on close. This is not an optimisation -- it is
+  the whole reason the page survives on a phone.
+
+  The obvious markup (a real <iframe loading="lazy"> inside the closed
+  <details>) is correct on the network: measured over the full length of
+  /quran in Chromium, at both desktop and phone width, it issues *zero*
+  requests to youtube-nocookie.com while the boxes stay shut. But the
+  element itself is still a nested browsing context, and iOS WebKit (which
+  is what Chrome on iPhone runs) allocates for all 49 of them regardless of
+  whether a video ever loads. The result on an iPhone was blank white bands
+  where the tile rasteriser could not keep up, then the tab reloading
+  itself, then the web process being killed outright -- reproducible on
+  /quran alone, and gone entirely on a byte-identical copy of the page with
+  only the <iframe> tags stripped out. Chromium on the desktop shows none
+  of this, so do not "verify" a change here on desktop only.
+
+  Keep the count in the document at zero, and never more than one live at a
+  time. If this ever grows a "leave the iframe mounted on close" shortcut,
+  a reader who opens twenty boxes in sequence walks straight back into the
+  same crash.
+
+  The <a> inside the frame is the no-JS fallback, hidden by CSS once the
+  script has swapped a real player in.
+
   Emitted as ONE line. kramdown auto-detects a raw HTML block only when it
   can cleanly parse the tag structure at the surrounding indentation --
   nested inside a list item (4-space indent, same as every existing call
@@ -23,4 +49,4 @@
 {%- endcomment -%}
 {%- assign yt_clean_url = include.url | split: "?" | first -%}
 {%- assign yt_id = yt_clean_url | split: "/" | last -%}
-<details class="yt-embed"><summary>Watch: {{ include.title }}{% if include.note %} <span class="yt-embed__note">({{ include.note }})</span>{% endif %}</summary><div class="yt-embed__frame"><iframe src="https://www.youtube-nocookie.com/embed/{{ yt_id }}" title="{{ include.title | escape }}" loading="lazy" referrerpolicy="strict-origin-when-cross-origin" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div></details>
+<details class="yt-embed" data-yt-id="{{ yt_id }}" data-yt-title="{{ include.title | escape }}"><summary>Watch: {{ include.title }}{% if include.note %} <span class="yt-embed__note">({{ include.note }})</span>{% endif %}</summary><div class="yt-embed__frame"><a href="{{ include.url }}" rel="noopener nofollow" target="_blank">Watch on YouTube</a></div></details>
