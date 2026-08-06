@@ -845,6 +845,15 @@
        activation that autoplay requires. */
     var USE_POSTER = false;
 
+    /* `toggle` is queued, not synchronous, so between a box opening and
+       this script hearing about it the browser can lay out and paint an
+       open frame that nothing has collapsed yet -- one frame of the
+       fallback link at its natural height, which the reader sees as the
+       page twitching before the box grows. This class is what lets the CSS
+       collapse that state, and it is set from script precisely so that a
+       reader without JS, who has nothing but that link, still sees it. */
+    document.documentElement.classList.add("yt-embed-js");
+
     var PLAYER_ALLOW =
       "accelerometer; autoplay; clipboard-write; encrypted-media; " +
       "gyroscope; picture-in-picture; web-share";
@@ -953,7 +962,12 @@
       var finish = function () {
         if (done) return;
         done = true;
-        frame.classList.remove("is-closing");
+
+        /* Close FIRST and let the teardown branch drop `is-closing` with
+           everything else. Removing it here instead leaves a box that is
+           still open with only `is-loaded` on it -- which is the full
+           56.25% -- so the collapsed frame springs back to full height for
+           the one frame before `open` clears. */
         details.open = false; // fires `toggle`, which tears the player down
       };
 
