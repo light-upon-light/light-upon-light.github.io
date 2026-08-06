@@ -35,7 +35,10 @@
   same crash.
 
   The <a> inside the frame is the no-JS fallback, hidden by CSS once the
-  script has swapped a real player in.
+  script has swapped a real player in. Deliberately a bare href with no
+  target or rel: it is the only path a reader without JS takes, and it
+  should behave exactly like the plain markdown links these boxes replaced
+  (and like the playlist link in quran.md that stayed plain).
 
   Emitted as ONE line. kramdown auto-detects a raw HTML block only when it
   can cleanly parse the tag structure at the surrounding indentation --
@@ -49,4 +52,4 @@
 {%- endcomment -%}
 {%- assign yt_clean_url = include.url | split: "?" | first -%}
 {%- assign yt_id = yt_clean_url | split: "/" | last -%}
-<details class="yt-embed" data-yt-id="{{ yt_id }}" data-yt-title="{{ include.title | escape }}"><summary>Watch: {{ include.title }}{% if include.note %} <span class="yt-embed__note">({{ include.note }})</span>{% endif %}</summary><div class="yt-embed__frame"><a href="{{ include.url }}" rel="noopener nofollow" target="_blank">Watch on YouTube</a></div></details>
+<details class="yt-embed" data-yt-id="{{ yt_id }}" data-yt-title="{{ include.title | escape }}"><summary>Watch: {{ include.title }}{% if include.note %} <span class="yt-embed__note">({{ include.note }})</span>{% endif %}</summary><div class="yt-embed__frame"><a href="{{ include.url }}">Watch on YouTube</a></div></details>
