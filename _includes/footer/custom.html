@@ -838,6 +838,22 @@
       "accelerometer; autoplay; clipboard-write; encrypted-media; " +
       "gyroscope; picture-in-picture; web-share";
 
+    var THUMB = "https://i.ytimg.com/vi/";
+
+    /* Strips the player but leaves the poster, restored to its clickable
+       state. Used both when a box closes and when another box starts
+       playing -- the two paths differ only in whether the poster survives,
+       so the shared part lives here. Removing `is-dismissed` re-runs that
+       animation from the start the next time it is added, which is what
+       makes a box replayable. */
+    function unmountPlayer(frame) {
+      var iframe = frame.querySelector("iframe");
+      if (iframe) iframe.remove();
+
+      var poster = frame.querySelector(".yt-embed__poster");
+      if (poster) poster.classList.remove("is-dismissed");
+    }
+
     document.addEventListener("toggle", function (e) {
       var details = e.target;
       if (!details.classList || !details.classList.contains("yt-embed")) return;
@@ -855,8 +871,11 @@
            exactly the two injected elements, rather than emptying the
            frame, is what leaves the include's own fallback <a> in place
            with its original href. */
-        var mounted = frame.querySelectorAll("iframe, .yt-embed__poster");
-        for (var j = 0; j < mounted.length; j++) mounted[j].remove();
+        unmountPlayer(frame);
+
+        var stale = frame.querySelector(".yt-embed__poster");
+        if (stale) stale.remove();
+
         frame.classList.remove("is-loaded");
         return;
       }
@@ -872,7 +891,36 @@
       poster.type = "button";
       poster.className = "yt-embed__poster";
       poster.setAttribute("aria-label", "Play: " + title);
-      poster.appendChild(document.createTextNode(title));
+
+      /* maxresdefault is 16:9 and the sharpest, but is not generated for
+         every video; hqdefault always exists, at 4:3 with letterbox bars
+         that the CSS crops off. If both fail -- a content blocker, or an
+         unlisted video -- the image is dropped and the poster falls back
+         to the panel it is drawn on. */
+      var img = document.createElement("img");
+      img.className = "yt-embed__poster-img";
+      img.alt = ""; // decorative: the button's aria-label already names it
+      img.setAttribute("width", "1280");
+      img.setAttribute("height", "720");
+      img.onerror = function () {
+        if (img.src.indexOf("maxresdefault") !== -1) {
+          img.src = THUMB + encodeURIComponent(id) + "/hqdefault.jpg";
+        } else {
+          img.remove();
+        }
+      };
+      img.src = THUMB + encodeURIComponent(id) + "/maxresdefault.jpg";
+
+      var play = document.createElement("span");
+      play.className = "yt-embed__poster-play";
+
+      var caption = document.createElement("span");
+      caption.className = "yt-embed__poster-title";
+      caption.appendChild(document.createTextNode(title));
+
+      poster.appendChild(img);
+      poster.appendChild(play);
+      poster.appendChild(caption);
 
       poster.addEventListener("click", function () {
         if (frame.querySelector("iframe")) return;
@@ -883,11 +931,16 @@
            local DOM with no nested browsing context, so the invariant that
            mattered (at most one iframe, zero at rest) is unchanged and in
            fact tighter than before, since a box that is merely opened no
-           longer loads anything. Closing the others sets .open, which
-           re-enters the toggle handler and takes the teardown branch. */
-        var open = document.querySelectorAll("details.yt-embed[open]");
-        for (var i = 0; i < open.length; i++) {
-          if (open[i] !== details) open[i].open = false;
+           longer loads a player.
+
+           The others are unloaded, not closed. Closing them was correct
+           when opening and playing were the same act, but now it yanks
+           shut boxes the reader deliberately opened; stripping the player
+           and restoring the poster leaves the page where they put it while
+           still keeping exactly one player alive. */
+        var others = document.querySelectorAll("details.yt-embed[open] .yt-embed__frame");
+        for (var i = 0; i < others.length; i++) {
+          if (others[i] !== frame) unmountPlayer(others[i]);
         }
 
         /* autoplay=1 is safe only because this runs inside a real click:
