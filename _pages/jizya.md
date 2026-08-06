@@ -61,10 +61,10 @@ convert:
   Muslims and their leader protect us from those who would oppress us, whether
   they be Muslims or others."**[^2]
 
-    > A system intended simply to degrade non-Muslims would not bind Muslim
-    > authorities to protect them from oppression, including oppression by
-    > Muslims. This covenant did exactly that: it restricted the authorities
-    > who issued it as well as requiring protection against foreign armies.
+    > This is not how a system designed merely to degrade non-Muslims would
+    > work. The covenant bound Muslim authorities to protect them from abuse,
+    > including abuse by Muslims, and from foreign armies. It imposed duties on
+    > the rulers who issued it rather than giving them a free hand.
     {: .gloss }
 
 - The tax applied only to non-Muslims who lived under Muslim rule as covenanted
@@ -87,11 +87,11 @@ pay.[^3] The exemptions included:
   paid nothing because military service and payment were alternatives to one
   another.[^4]
 
-> The pattern of liability follows the group a state could conscript: adult men
-> with the physical and financial means to serve. If the jizya had been charged
-> simply for holding a different belief, it would also have applied to women,
-> children, monks, the elderly, the poor, and those unable to fight, all of whom
-> were exempt.
+> The exemptions show that liability followed the group a state could
+> conscript: adult men physically and financially able to serve. If the jizya
+> had simply been a charge for holding another religion, it would also have
+> applied to women, children, monks, the elderly, the poor, and those unable to
+> fight. It did not.
 {: .gloss }
 
 - Abu Yusuf, the Hanafi jurist who served as chief judge under Harun al-Rashid
@@ -110,9 +110,9 @@ apply to a *dhimmi*, a non-Muslim subject covered by the covenant of protection.
 - **Military service.** Muslims were liable to be called up. Non-Muslims were
   exempt, with the jizya taking the place of that liability.
 
-> Neither status was always financially easier. The result varied by year,
-> province, and personal wealth. Each carried a different set of obligations,
-> while military service also exposed those liable to injury or death in war.
+> Neither status was automatically cheaper. The burden varied by year,
+> province, and personal wealth. Muslims and non-Muslims carried different
+> obligations, while military service also brought the risk of injury or death.
 {: .gloss }
 
 ## The verse, in full
@@ -213,9 +213,9 @@ non-Muslims, the *ahl al-dhimma*.
     > *Sahih Muslim* 2613[^9]
     {: .src }
 
-    > Hisham's action shows that the Prophetic warning governed tax collection
-    > itself. He applied it to a serving governor and stopped the coercive
-    > treatment of the Coptic Christians.
+    > Hisham did not treat the Prophetic warning as an abstract rule. He used
+    > it against a serving governor to stop the coercive treatment of Coptic
+    > Christians during tax collection.
     {: .gloss }
 
 - Another report makes the Prophet ﷺ the adversary of anyone who exploits a
@@ -224,9 +224,10 @@ non-Muslims, the *ahl al-dhimma*.
   him anything without his consent, I shall plead against him on the Day of
   Judgment."*
 
-    > *Sunan Abi Dawud* 3052. The gradings on this report disagree: *sahih* in
-    > two assessments, *daif* (weak) in a third. It corroborates the two reports
-    > above rather than proving anything on its own.
+    > *Sunan Abi Dawud* 3052. Scholars disagree over its reliability: two
+    > assessments grade it *sahih*, while a third grades it *daif* (weak). It
+    > supports the two stronger reports above but is not used as independent
+    > proof.
     {: .src }
 
 ### When the state could not deliver, the money went back
@@ -244,9 +245,9 @@ longer provide it, the payment had to be returned.
   of a treaty: **"If we are able to protect you, we deserve the collection of the
   jizya; otherwise we shall not."**[^11]
 
-    > The refund shows that protection was an enforceable part of the exchange,
-    > not a later explanation for the tax. The commanders returned the money in
-    > the field while the treasury was under pressure and an army was advancing.
+    > The refund was not symbolic. It shows that protection was part of the
+    > exchange itself, not a justification added later. The commanders returned
+    > the money while the treasury was under pressure and an army was advancing.
     {: .gloss }
 
 ## The rates

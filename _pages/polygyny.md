@@ -80,9 +80,10 @@ verse itself begins elsewhere.
   maximum at four and made justice a condition. Men who already had more than
   four wives were required to release those beyond the limit.
 
-    > The direction of travel matters. This is not a permission extending what
-    > men could previously do; it is a **ceiling lowered onto an unlimited
-    > practice**, in a society where nobody had asked for one.
+    > The historical change matters. The Qur'an did not expand men's options; it
+    > **reduced an unlimited practice to a maximum of four wives** and made even
+    > that limit conditional on justice. In a society that had imposed no ceiling
+    > at all, this was a restriction, not a new indulgence.
     {: .gloss }
 
 - **The verse directs the reader back to one.** The permission is expressly
@@ -134,10 +135,10 @@ complete.
   of nights, equal maintenance, and separate accommodation for each wife.** A
   wife could take a husband who failed to meet them to court.
 
-    > A man who wants a second wife must be able to fund a second household and
-    > divide his time by the clock, and is answerable if he does not. Whatever
-    > else that is, it is not a licence written for the convenience of the
-    > licensee.
+    > Taking a second wife therefore creates additional legal duties. A man must
+    > be able to maintain another household, divide his nights equally, and
+    > answer for failing to do either. The permission does not simply give him
+    > another wife; it **binds him to another set of enforceable obligations**.
     {: .gloss }
 
 ## Permitted is not recommended
@@ -189,10 +190,11 @@ others. This deserves a direct answer.
   death and were offered a choice between the life of the world and remaining
   with him under the conditions he could provide.[^2]
 
-    > A dispensation that comes attached to a prohibition on marrying again, a
-    > ban on his widows remarrying, and an offer to release them if they wanted
-    > an easier life is a strange kind of privilege. Whatever the arrangement was
-    > for, it was not for enlarging what was available to him.
+    > Calling this a simple personal privilege leaves out the restrictions
+    > attached to it. The Prophet ﷺ was then forbidden to marry again, his widows
+    > could not remarry after his death, and his wives were offered release if
+    > they preferred an easier life. The dispensation therefore did not amount to
+    > an open-ended expansion of his marital options.
     {: .gloss }
 
 ## The permission is not unconditional
@@ -259,11 +261,12 @@ desire.
   family against which they have enforceable claims. This historical function
   does not by itself settle how the permission should operate today.
 
-    > These answers do not dissolve the asymmetry, and it would be dishonest to
-    > present them as if they did. What they do is show that the rule is attached
-    > to a structure of obligations rather than floating free as a male
-    > entitlement — and that reading it as bare permission for appetite requires
-    > ignoring the conditions the same law imposes.
+    > None of these explanations removes the asymmetry, and they should not be
+    > presented as though they do. They show instead that the permission operates
+    > within **a wider structure of financial and legal obligations**, not as an
+    > isolated male entitlement. Describing it as a concession to appetite alone
+    > requires setting aside the conditions and liabilities that the same law
+    > attaches to it.
     {: .gloss }
 
 ## Where the criticism does land

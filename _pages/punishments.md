@@ -93,10 +93,11 @@ difficult to meet even when everyone involved is trying to meet them.
     > — *Sunan Abi Dawud* 4427, graded *sahih*; also *Sahih al-Bukhari* 6824[^3]
     {: .src }
 
-    > A judge looking for a conviction does not check whether the confessing man
-    > is of sound mind, then suggest to him three lesser things he might have
-    > done instead. The procedure is built to **fail**, and the sources record it
-    > failing on purpose.
+    > A judge intent on securing a conviction would not first check whether the
+    > confessing man was of sound mind and then offer him three lesser
+    > explanations for what he might have done. **The procedure was designed to
+    > avoid the fixed penalty whenever a credible alternative remained**, and
+    > this account shows that principle being applied deliberately.
     {: .gloss }
 
 ### The maxim about doubt

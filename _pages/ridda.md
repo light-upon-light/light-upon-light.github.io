@@ -88,10 +88,11 @@ prescribes a worldly punishment.** Each places the consequence in the next life.
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿إِنَّ ٱلَّذِينَ ءَامَنُوا۟ ثُمَّ كَفَرُوا۟ ثُمَّ ءَامَنُوا۟ ثُمَّ كَفَرُوا۟ ثُمَّ ٱزْدَادُوا۟ كُفْرًۭا لَّمْ يَكُنِ ٱللَّهُ لِيَغْفِرَ لَهُمْ وَلَا لِيَهْدِيَهُمْ سَبِيلًۢا ۝١٣٧﴾ <span class="ayah-ref">سُورَةُ النِّسَاءِ</span></div>
     {: .quote }
 
-    > This verse presents a serious difficulty for the death-penalty reading.
-    > **A man executed on his first apostasy cannot commit a second one.** The
-    > Qur'an describes a repeated cycle and assigns its consequence to the
-    > hereafter, without naming a worldly punishment.
+    > This verse is difficult to reconcile with a rule requiring execution
+    > for apostasy itself. **A man executed after his first apostasy could never
+    > apostatise a second time.** Yet the Qur'an expressly describes belief,
+    > disbelief, renewed belief, and disbelief again. It assigns the consequence
+    > to the hereafter and mentions no worldly punishment.
     {: .gloss }
 
 - The Qur'an also states the general principle:
@@ -130,10 +131,10 @@ Two reports provide its main basis, and their wording is not identical.
 
     > The Arabic of the third clause is *al-tarik li-dinihi al-mufariq
     > li'l-jamaʿa* — "the one who abandons his religion, **separating from the
-    > community**." The reference to separation is part of the report itself,
-    > not a gloss added by later apologists. In the most rigorously screened
-    > hadith collection, the offence is described in **two parts**: leaving the
-    > faith *and* defecting from the polity.
+    > community**." That reference to separation comes from the report itself;
+    > it is not a qualification invented by modern apologists. In the most
+    > rigorously screened hadith collection, the offence has **two parts**:
+    > leaving the faith *and* defecting from the polity.
     {: .gloss }
 
 - The context of the first report supports the same reading. Ali was dealing
@@ -161,11 +162,12 @@ reports in this context.
     > — *Sahih Muslim* 124; also *Sunan Abi Dawud* 1556[^3]
     {: .src }
 
-    > The dispute concerns **withholding a tax owed to the state**. Umar's
-    > objection assumes that a profession of faith protects a person's life.
-    > Abu Bakr does not reject that principle; he identifies a separate material
-    > breach. The disagreement is about secession and revenue, and it occurred
-    > within the generation that knew the Prophet ﷺ best.
+    > The issue here is **the refusal to pay a tax owed to the state**, not
+    > what the tribes privately believed. Umar's objection rests on the
+    > principle that a profession of faith protects a person's life. Abu Bakr
+    > does not deny that principle; he argues that withholding *zakat* was a
+    > separate breach of political obligation. This was a dispute over secession
+    > and state revenue among the generation that knew the Prophet ﷺ best.
     {: .gloss }
 
 - **The one case of apostates executed in his lifetime also involved murder
@@ -184,8 +186,9 @@ reports in this context.
 
     > *Sunan Abi Dawud* 4369 states directly that "the verse regarding fighting
     > against Allah and His Prophet ﷺ was then revealed" about these men. The
-    > incident also appears in *Sahih Muslim* 4353 and *Sahih al-Bukhari*.[^4]
-    > The source itself identifies the punished offence as armed predation.
+    > same incident appears in *Sahih Muslim* 4353 and *Sahih al-Bukhari*.[^4]
+    > The report therefore identifies the punished offence not as apostasy
+    > alone, but as armed predation.
     {: .gloss }
 
 - **He agreed to return converts from his own side in order to secure a
@@ -195,10 +198,11 @@ reports in this context.
   Muslims strongly objected, but the Prophet ﷺ accepted and honoured the term,
   returning Abu Jandal after he arrived in fetters.[^5]
 
-    > This conduct is difficult to reconcile with the claim that departure
-    > from Islam was always treated as a capital offence. The Prophet ﷺ accepted
-    > a written agreement requiring him to return converts to the community they
-    > had left, despite his followers' objections, in order to secure a truce.
+    > This is difficult to reconcile with the claim that every departure from
+    > Islam was treated as a capital offence. To secure a truce, the Prophet ﷺ
+    > accepted and honoured a written term requiring him to return converts to
+    > the community they had left, despite strong objections from his own
+    > followers.
     {: .gloss }
 
 ## Where Muslim scholars have actually disagreed
@@ -210,11 +214,11 @@ legal works.
 - **The Hanafi school does not execute women apostates.** Its ruling is
   imprisonment until they return, rather than death.[^6]
 
-    > This exception clarifies the reasoning behind the rule. If the offence
-    > were simply **unbelief**, the same penalty would apply to men and women.
-    > The Hanafi explanation is that women are not combatants, which makes
-    > **fighting, not believing**, the operative ground. That reasoning is not
-    > limited in principle to women; it can also apply to other non-combatants.
+    > This exception reveals the reasoning behind the rule. If **unbelief
+    > itself** were the offence, men and women would receive the same punishment.
+    > The Hanafi explanation instead turns on women's status as non-combatants.
+    > On that reasoning, **fighting, not believing**, is what makes the offence
+    > capital, and the same principle can extend to other non-combatants.
     {: .gloss }
 
 - **Ibrahim al-Nakhaʿi (d. 715) and Sufyan al-Thawri (d. 778)** were major
