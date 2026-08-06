@@ -226,8 +226,12 @@
     min-height: 2.75rem;
     padding-inline-end: 3rem;
     border-radius: 0;
-    /* clears the notch / status bar, since the panel reaches the top edge */
-    padding-top: env(safe-area-inset-top, 0px);
+    /* the theme's own .nav__title rule gives this 0.5rem of bottom padding;
+       matching it on top (before adding the safe-area inset) keeps the
+       icon/label centred in the box instead of sitting high against a
+       lopsided top/bottom padding split. Clears the notch / status bar,
+       since the panel reaches the top edge. */
+    padding-top: calc(0.5rem + env(safe-area-inset-top, 0px));
   }
 
   #toc-close {
