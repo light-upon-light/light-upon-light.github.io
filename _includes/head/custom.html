@@ -467,22 +467,70 @@
      ratio support is not needed anywhere else on the site yet. Gated on the
      class rather than `:has(iframe)` so the rule lands in the same tick as
      the injected element, with no dependence on :has support. */
+  /* The growth is animated because the player is mounted on open rather
+     than shipped with the page: without this the box snaps from a one-line
+     link to a viewport-wide 16:9 rectangle in a single frame, throwing
+     everything below it down the page. Animating padding-bottom (not
+     height, which is pinned at 0 by the hack above) is what actually moves
+     layout -- an opacity fade alone would leave the jump untouched.
+
+     Doing it as an animation rather than a transition is deliberate: the
+     class lands in the same tick as the injected iframe, so a transition
+     would have no earlier value to start from and would need a JS
+     requestAnimationFrame dance in footer/custom.html. `both` holds the
+     final frame, and the declared padding-bottom below is the same value,
+     so the box is correct with or without animation support. */
   .yt-embed__frame.is-loaded {
     position: relative;
     height: 0;
     padding-bottom: 56.25%;
+    background-color: rgba(161, 147, 124, 0.14);
+    animation: yt-embed-open 0.28s ease-out both;
+  }
+
+  @keyframes yt-embed-open {
+    from {
+      padding-bottom: 0;
+    }
+    to {
+      padding-bottom: 56.25%;
+    }
   }
 
   .yt-embed__frame.is-loaded > a {
     display: none;
   }
 
+  /* Fades over the placeholder wash above while YouTube paints, so the box
+     never flashes white. Timed, NOT gated on the iframe's load event: if
+     the request is slow, blocked by a content blocker, or fails outright,
+     a load-gated player would sit invisible forever and read as broken. */
   .yt-embed__frame iframe {
     position: absolute;
     inset: 0;
     width: 100%;
     height: 100%;
     border: 0;
+    animation: yt-embed-fade 0.4s ease-out both;
+  }
+
+  @keyframes yt-embed-fade {
+    from {
+      opacity: 0;
+    }
+    to {
+      opacity: 1;
+    }
+  }
+
+  /* Both animations are pure decoration -- the fill state is what the plain
+     rules already declare, so switching them off changes nothing but the
+     motion. */
+  @media (prefers-reduced-motion: reduce) {
+    .yt-embed__frame.is-loaded,
+    .yt-embed__frame iframe {
+      animation: none;
+    }
   }
 
   /* Scoped to paragraphs and list items, not the whole .page__content block

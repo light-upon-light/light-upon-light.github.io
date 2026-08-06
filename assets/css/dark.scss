@@ -159,6 +159,12 @@ blockquote.src {
   color: #b8ab97;
 }
 
+/* placeholder wash behind the player while it fades in -- lighter alpha
+   than the light skin's, since it sits on a dark page */
+.yt-embed__frame.is-loaded {
+  background-color: rgba(184, 171, 151, 0.1);
+}
+
 /* the author's own voice: verdigris rule and the faintest wash */
 blockquote.gloss {
   border-inline-start-color: #4fa89c;
