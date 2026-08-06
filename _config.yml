@@ -169,6 +169,7 @@ include:
   - .htaccess
   - _pages
 exclude:
+  - .claude
   - _notes
   - CLAUDE.md
   - "*.sublime-project"
