@@ -16,18 +16,32 @@
   open, then torn down again on close. This is not an optimisation -- it is
   the whole reason the page survives on a phone.
 
-  The obvious markup (a real <iframe loading="lazy"> inside the closed
-  <details>) is correct on the network: measured over the full length of
-  /quran in Chromium, at both desktop and phone width, it issues *zero*
-  requests to youtube-nocookie.com while the boxes stay shut. But the
-  element itself is still a nested browsing context, and iOS WebKit (which
-  is what Chrome on iPhone runs) allocates for all 49 of them regardless of
-  whether a video ever loads. The result on an iPhone was blank white bands
-  where the tile rasteriser could not keep up, then the tab reloading
-  itself, then the web process being killed outright -- reproducible on
-  /quran alone, and gone entirely on a byte-identical copy of the page with
-  only the <iframe> tags stripped out. Chromium on the desktop shows none
-  of this, so do not "verify" a change here on desktop only.
+  The obvious markup -- a real <iframe loading="lazy"> inside the closed
+  <details> -- rests on an edge case the HTML standard does not actually
+  specify, and the two engines resolve it differently.
+
+  Hiding an iframe does NOT stop it loading. A display:none iframe with no
+  loading attribute fetches its src immediately; that is ordinary, spec'd
+  behaviour, confirmed by probe in this very page. So the ONLY thing
+  keeping 49 YouTube players off the wire was `loading="lazy"` -- and what
+  lazy means for an element that is never rendered, and so can never
+  intersect a viewport, is unspecified. Chromium keeps it deferred forever
+  (measured: zero requests to youtube-nocookie.com over the full length of
+  /quran, desktop and phone width). WebKit evidently does not do the same
+  thing, and on iOS every browser is WebKit, Chrome included.
+
+  What an iPhone did with the old markup: blank white bands where the tile
+  rasteriser fell behind the scroll, then the tab reloading itself, then
+  the web process killed outright. Reproducible on /quran alone, and gone
+  on a byte-identical copy of the page with only the <iframe> tags removed.
+  The exact WebKit mechanism was never instrumented -- eager loading of
+  some or all of the players is the likely one, the nested browsing
+  contexts alone are the other -- but the fix does not depend on which,
+  because no iframe exists at rest either way.
+
+  Two lessons, both cheap to forget: hidden is not unloaded, and Chromium
+  on the desktop shows none of this, so never "verify" a change here on
+  desktop only.
 
   Keep the count in the document at zero, and never more than one live at a
   time. If this ever grows a "leave the iframe mounted on close" shortcut,
