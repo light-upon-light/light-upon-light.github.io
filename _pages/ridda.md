@@ -64,7 +64,7 @@ prescribes a worldly punishment.** Each places the consequence in the next life.
     > disbeliever — for those, their deeds have become worthless in this world
     > and the Hereafter" (**Sūrat al-Baqarah 2:217**), Saheeh International
     >
-    > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَمَن يَرْتَدِدْ مِنكُمْ عَن دِينِهِۦ فَيَمُتْ وَهُوَ كَافِرٌۭ فَأُو۟لَٰٓئِكَ حَبِطَتْ أَعْمَٰلُهُمْ فِى ٱلدُّنْيَا وَٱلْءَاخِرَةِ﴾ <span class="ayah-ref">[سُورَةُ البَقَرَةِ: ٢١٧]</span></div>
+    > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَمَن يَرْتَدِدْ مِنكُمْ عَن دِينِهِۦ فَيَمُتْ وَهُوَ كَافِرٌ فَأُو۟لَـٰٓئِكَ حَبِطَتْ أَعْمَـٰلُهُمْ فِى ٱلدُّنْيَا وَٱلْـَٔاخِرَةِ﴾ <span class="ayah-ref">[سُورَةُ البَقَرَةِ: ٢١٧]</span></div>
     {: .quote }
 
 - The verse on coerced denial protects a person who recants **under duress**.
@@ -74,7 +74,7 @@ prescribes a worldly punishment.** Each places the consequence in the next life.
     > "except for one who is forced [to renounce his religion] while his heart is
     > secure in faith" (**Sūrat al-Naḥl 16:106**), Saheeh International
     >
-    > <div dir="rtl" lang="ar" class="quran-arabic">﴿إِلَّا مَنْ أُكْرِهَ وَقَلْبُهُۥ مُطْمَئِنٌّۢ بِٱلْإِيمَٰنِ﴾ <span class="ayah-ref">[سُورَةُ النَّحۡلِ: ١٠٦]</span></div>
+    > <div dir="rtl" lang="ar" class="quran-arabic">﴿إِلَّا مَنْ أُكْرِهَ وَقَلْبُهُۥ مُطْمَئِنٌّۢ بِٱلْإِيمَـٰنِ﴾ <span class="ayah-ref">[سُورَةُ النَّحۡلِ: ١٠٦]</span></div>
     {: .quote }
 
 - Another verse describes a person **apostatising, returning, apostatising
@@ -85,7 +85,7 @@ prescribes a worldly punishment.** Each places the consequence in the next life.
     > them, nor will He guide them to a way." (**Sūrat al-Nisāʾ 4:137**),
     > Saheeh International
     >
-    > <div dir="rtl" lang="ar" class="quran-arabic">﴿إِنَّ ٱلَّذِينَ ءَامَنُوا۟ ثُمَّ كَفَرُوا۟ ثُمَّ ءَامَنُوا۟ ثُمَّ كَفَرُوا۟ ثُمَّ ٱزْدَادُوا۟ كُفْرًۭا لَّمْ يَكُنِ ٱللَّهُ لِيَغْفِرَ لَهُمْ وَلَا لِيَهْدِيَهُمْ سَبِيلًۢا ۝١٣٧﴾ <span class="ayah-ref">سُورَةُ النِّسَاءِ</span></div>
+    > <div dir="rtl" lang="ar" class="quran-arabic">﴿إِنَّ ٱلَّذِينَ ءَامَنُوا۟ ثُمَّ كَفَرُوا۟ ثُمَّ ءَامَنُوا۟ ثُمَّ كَفَرُوا۟ ثُمَّ ٱزْدَادُوا۟ كُفْرًا لَّمْ يَكُنِ ٱللَّهُ لِيَغْفِرَ لَهُمْ وَلَا لِيَهْدِيَهُمْ سَبِيلًۢا ۝١٣٧﴾ <span class="ayah-ref">سُورَةُ النِّسَاءِ</span></div>
     {: .quote }
 
     > This verse is difficult to reconcile with a rule requiring execution
@@ -100,7 +100,7 @@ prescribes a worldly punishment.** Each places the consequence in the next life.
     > "Let there be no compulsion in religion" (**Sūrat al-Baqarah 2:256**),
     > Dr. Mustafa Khattab, *The Clear Quran*
     >
-    > <div dir="rtl" lang="ar" class="quran-arabic">﴿لَآ إِكْرَاهَ فِى ٱلدِّينِ﴾ <span class="ayah-ref">[سُورَةُ البَقَرَةِ: ٢٥٦]</span></div>
+    > <div dir="rtl" lang="ar" class="quran-arabic">﴿لَآ إِكْرَاهَ فِى ٱلدِّينِ﴾ <span class="ayah-ref">[سُورَةُ البَقَرَةِ: ٢٥٦]</span></div>
     {: .quote }
 
 ## What the hadith say
@@ -181,7 +181,7 @@ reports in this context.
     > or that they be exiled from the land." (**Sūrat al-Māʾidah 5:33**),
     > Saheeh International
     >
-    > <div dir="rtl" lang="ar" class="quran-arabic">﴿إِنَّمَا جَزَٰٓؤُا۟ ٱلَّذِينَ يُحَارِبُونَ ٱللَّهَ وَرَسُولَهُۥ وَيَسْعَوْنَ فِى ٱلْأَرْضِ فَسَادًا أَن يُقَتَّلُوٓا۟ أَوْ يُصَلَّبُوٓا۟ أَوْ تُقَطَّعَ أَيْدِيهِمْ وَأَرْجُلُهُم مِّنْ خِلَٰفٍ أَوْ يُنفَوْا۟ مِنَ ٱلْأَرْضِ ۚ ذَٰلِكَ لَهُمْ خِزْىٌۭ فِى ٱلدُّنْيَا ۖ وَلَهُمْ فِى ٱلْءَاخِرَةِ عَذَابٌ عَظِيمٌ ۝٣٣﴾ <span class="ayah-ref">سُورَةُ المَائـِدَةِ</span></div>
+    > <div dir="rtl" lang="ar" class="quran-arabic">﴿إِنَّمَا جَزَٰٓؤُا۟ ٱلَّذِينَ يُحَارِبُونَ ٱللَّهَ وَرَسُولَهُۥ وَيَسْعَوْنَ فِى ٱلْأَرْضِ فَسَادًا أَن يُقَتَّلُوٓا۟ أَوْ يُصَلَّبُوٓا۟ أَوْ تُقَطَّعَ أَيْدِيهِمْ وَأَرْجُلُهُم مِّنْ خِلَـٰفٍ أَوْ يُنفَوْا۟ مِنَ ٱلْأَرْضِ ۚ ذَٰلِكَ لَهُمْ خِزْىٌ فِى ٱلدُّنْيَا ۖ وَلَهُمْ فِى ٱلْـَٔاخِرَةِ عَذَابٌ عَظِيمٌ ۝٣٣﴾ <span class="ayah-ref">سُورَةُ المَائـِدَةِ</span></div>
     {: .quote }
 
     > *Sunan Abi Dawud* 4369 states directly that "the verse regarding fighting

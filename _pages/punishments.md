@@ -125,7 +125,7 @@ an unusual feature in a penal code.
     > know that Allah is Forgiving and Merciful." (**Sūrat al-Māʾidah 5:34**),
     > Saheeh International
     >
-    > <div dir="rtl" lang="ar" class="quran-arabic">﴿إِلَّا ٱلَّذِينَ تَابُوا۟ مِن قَبْلِ أَن تَقْدِرُوا۟ عَلَيْهِمْ ۖ فَٱعْلَمُوٓا۟ أَنَّ ٱللَّهَ غَفُورٌۭ رَّحِيمٌۭ ۝٣٤﴾ <span class="ayah-ref">سُورَةُ المَائـِدَةِ</span></div>
+    > <div dir="rtl" lang="ar" class="quran-arabic">﴿إِلَّا ٱلَّذِينَ تَابُوا۟ مِن قَبْلِ أَن تَقْدِرُوا۟ عَلَيْهِمْ ۖ فَٱعْلَمُوٓا۟ أَنَّ ٱللَّهَ غَفُورٌ رَّحِيمٌ ۝٣٤﴾ <span class="ayah-ref">سُورَةُ المَائـِدَةِ</span></div>
     {: .quote }
 
 - For theft, in the verse immediately after the amputation verse:
@@ -134,7 +134,7 @@ an unusual feature in a penal code.
     > turn to him in forgiveness." (**Sūrat al-Māʾidah 5:39**),
     > Saheeh International
     >
-    > <div dir="rtl" lang="ar" class="quran-arabic">﴿فَمَن تَابَ مِنۢ بَعْدِ ظُلْمِهِۦ وَأَصْلَحَ فَإِنَّ ٱللَّهَ يَتُوبُ عَلَيْهِ ۗ إِنَّ ٱللَّهَ غَفُورٌۭ رَّحِيمٌ ۝٣٩﴾ <span class="ayah-ref">سُورَةُ المَائـِدَةِ</span></div>
+    > <div dir="rtl" lang="ar" class="quran-arabic">﴿فَمَن تَابَ مِنۢ بَعْدِ ظُلْمِهِۦ وَأَصْلَحَ فَإِنَّ ٱللَّهَ يَتُوبُ عَلَيْهِ ۗ إِنَّ ٱللَّهَ غَفُورٌ رَّحِيمٌ ۝٣٩﴾ <span class="ayah-ref">سُورَةُ المَائـِدَةِ</span></div>
     {: .quote }
 
 ## The penalties are conditional on the society

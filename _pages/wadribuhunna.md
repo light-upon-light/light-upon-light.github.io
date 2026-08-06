@@ -20,7 +20,7 @@ Critics often cite *Sūrat al-Nisāʾ* (4:34), and specifically the verb **“wa
 
 ## The verse in question
 
-> <div dir="rtl" lang="ar" class="quran-arabic">﴿ٱلرِّجَالُ قَوَّٰمُونَ عَلَى ٱلنِّسَآءِ بِمَا فَضَّلَ ٱللَّهُ بَعْضَهُمْ عَلَىٰ بَعْضٍۢ وَبِمَآ أَنفَقُوا۟ مِنْ أَمْوَٰلِهِمْ ۚ فَٱلصَّٰلِحَٰتُ قَٰنِتَٰتٌ حَٰفِظَٰتٌۭ لِّلْغَيْبِ بِمَا حَفِظَ ٱللَّهُ ۚ وَٱلَّٰتِى تَخَافُونَ نُشُوزَهُنَّ فَعِظُوهُنَّ وَٱهْجُرُوهُنَّ فِى ٱلْمَضَاجِعِ وَٱضْرِبُوهُنَّ ۖ فَإِنْ أَطَعْنَكُمْ فَلَا تَبْغُوا۟ عَلَيْهِنَّ سَبِيلًا ۗ إِنَّ ٱللَّهَ كَانَ عَلِيًّۭا كَبِيرًۭا ۝٣٤﴾ <span class="ayah-ref">سُورَةُ النِّسَاءِ</span></div>
+> <div dir="rtl" lang="ar" class="quran-arabic">﴿ٱلرِّجَالُ قَوَّٰمُونَ عَلَى ٱلنِّسَآءِ بِمَا فَضَّلَ ٱللَّهُ بَعْضَهُمْ عَلَىٰ بَعْضٍ وَبِمَآ أَنفَقُوا۟ مِنْ أَمْوَٰلِهِمْ ۚ فَٱلصَّـٰلِحَـٰتُ قَـٰنِتَـٰتٌ حَـٰفِظَـٰتٌ لِّلْغَيْبِ بِمَا حَفِظَ ٱللَّهُ ۚ وَٱلَّـٰتِى تَخَافُونَ نُشُوزَهُنَّ فَعِظُوهُنَّ وَٱهْجُرُوهُنَّ فِى ٱلْمَضَاجِعِ وَٱضْرِبُوهُنَّ ۖ فَإِنْ أَطَعْنَكُمْ فَلَا تَبْغُوا۟ عَلَيْهِنَّ سَبِيلًا ۗ إِنَّ ٱللَّهَ كَانَ عَلِيًّا كَبِيرًا ۝٣٤﴾ <span class="ayah-ref">سُورَةُ النِّسَاءِ</span></div>
 {: .quote }
 
 ## 1. The elasticity of the word *ḍaraba*
@@ -30,7 +30,7 @@ Critics often cite *Sūrat al-Nisāʾ* (4:34), and specifically the verb **“wa
 
 ## 2. Prophetic example as the living interpretation of the Qur'an
 - The Qur'an directs believers to follow the Prophet's example: *“Indeed, in the Messenger of Allah you have an excellent example”* (**Sūrat al-Aḥzāb 33:21**).
-  > <div dir="rtl" lang="ar" class="quran-arabic">﴿لَّقَدْ كَانَ لَكُمْ فِى رَسُولِ ٱللَّهِ أُسْوَةٌ حَسَنَةٌۭ﴾ <span class="ayah-ref">[سُورَةُ الأَحۡزَابِ: ٢١]</span></div>
+  > <div dir="rtl" lang="ar" class="quran-arabic">﴿لَّقَدْ كَانَ لَكُمْ فِى رَسُولِ ٱللَّهِ أُسْوَةٌ حَسَنَةٌ﴾ <span class="ayah-ref">[سُورَةُ الأَحۡزَابِ: ٢١]</span></div>
   {: .quote }
 - An authentic report states:
   > “The Messenger of Allah never struck anything with his hand, neither a woman nor a servant…” (Sahih Muslim).
@@ -57,43 +57,43 @@ Islam does not leave the treatment of women to general moral principles alone. T
 
 ### A) Qur'anic directives and protections
 - **Kindness in marriage:** *“Live with them in kindness.”* (**Sūrat al-Nisāʾ 4:19**)
-  > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَعَاشِرُوهُنَّ بِٱلْمَعْرُوفِ﴾ <span class="ayah-ref">[سُورَةُ النِّسَاءِ: ١٩]</span></div>
+  > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَعَاشِرُوهُنَّ بِٱلْمَعْرُوفِ﴾ <span class="ayah-ref">[سُورَةُ النِّسَاءِ: ١٩]</span></div>
   {: .quote }
 - **No harmful retention:** *“Do not retain them to harm them so that you transgress.”* (**Sūrat al-Baqarah 2:231**)
-  > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَلَا تُمْسِكُوهُنَّ ضِرَارًۭا لِّتَعْتَدُوا۟﴾ <span class="ayah-ref">[سُورَةُ البَقَرَةِ: ٢٣١]</span></div>
+  > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَلَا تُمْسِكُوهُنَّ ضِرَارًا لِّتَعْتَدُوا۟﴾ <span class="ayah-ref">[سُورَةُ البَقَرَةِ: ٢٣١]</span></div>
   {: .quote }
 - *“Do not forget graciousness between you.”* (**Sūrat al-Baqarah 2:237**)
   > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَلَا تَنسَوُا۟ ٱلْفَضْلَ بَيْنَكُمْ﴾ <span class="ayah-ref">[سُورَةُ البَقَرَةِ: ٢٣٧]</span></div>
   {: .quote }
 - **Decency at separation:** *“Keep in kindness or release with excellence.”* (**Sūrat al-Baqarah 2:229**)
-  > <div dir="rtl" lang="ar" class="quran-arabic">﴿فَإِمْسَاكٌۢ بِمَعْرُوفٍ أَوْ تَسْرِيحٌۢ بِإِحْسَٰنٍۢ﴾ <span class="ayah-ref">[سُورَةُ البَقَرَةِ: ٢٢٩]</span></div>
+  > <div dir="rtl" lang="ar" class="quran-arabic">﴿فَإِمْسَاكٌۢ بِمَعْرُوفٍ أَوْ تَسْرِيحٌۢ بِإِحْسَـٰنٍ﴾ <span class="ayah-ref">[سُورَةُ البَقَرَةِ: ٢٢٩]</span></div>
   {: .quote }
 - **Freedom to remarry:** *“Do not prevent them from remarrying their ˹former˺ husbands if they agree among themselves on an acceptable basis.”* (**Sūrat al-Baqarah 2:232**)
-  > <div dir="rtl" lang="ar" class="quran-arabic">﴿فَلَا تَعْضُلُوهُنَّ أَن يَنكِحْنَ أَزْوَٰجَهُنَّ إِذَا تَرَٰضَوْا۟ بَيْنَهُم بِٱلْمَعْرُوفِ﴾ <span class="ayah-ref">[سُورَةُ البَقَرَةِ: ٢٣٢]</span></div>
+  > <div dir="rtl" lang="ar" class="quran-arabic">﴿فَلَا تَعْضُلُوهُنَّ أَن يَنكِحْنَ أَزْوَٰجَهُنَّ إِذَا تَرَٰضَوْا۟ بَيْنَهُم بِٱلْمَعْرُوفِ﴾ <span class="ayah-ref">[سُورَةُ البَقَرَةِ: ٢٣٢]</span></div>
   {: .quote }
 - **Mutual closeness and protection:** *“They are a garment for you and you are a garment for them.”* (**Sūrat al-Baqarah 2:187**)
-  > <div dir="rtl" lang="ar" class="quran-arabic">﴿هُنَّ لِبَاسٌۭ لَّكُمْ وَأَنتُمْ لِبَاسٌۭ لَّهُنَّ﴾ <span class="ayah-ref">[سُورَةُ البَقَرَةِ: ١٨٧]</span></div>
+  > <div dir="rtl" lang="ar" class="quran-arabic">﴿هُنَّ لِبَاسٌ لَّكُمْ وَأَنتُمْ لِبَاسٌ لَّهُنَّ﴾ <span class="ayah-ref">[سُورَةُ البَقَرَةِ: ١٨٧]</span></div>
   {: .quote }
 - **Tranquility, love, and mercy as the purpose of marriage:** *“And among His signs is that He created for you from yourselves spouses that you may find tranquility in them, and He placed between you love (mawadda) and mercy (raḥma).”* (**Sūrat al-Rūm 30:21**)
-  > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَمِنْ ءَايَٰتِهِۦٓ أَنْ خَلَقَ لَكُم مِّنْ أَنفُسِكُمْ أَزْوَٰجًۭا لِّتَسْكُنُوٓا۟ إِلَيْهَا وَجَعَلَ بَيْنَكُم مَّوَدَّةًۭ وَرَحْمَةً﴾ <span class="ayah-ref">[سُورَةُ الرُّومِ: ٢١]</span></div>
+  > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَمِنْ ءَايَـٰتِهِۦٓ أَنْ خَلَقَ لَكُم مِّنْ أَنفُسِكُمْ أَزْوَٰجًا لِّتَسْكُنُوٓا۟ إِلَيْهَا وَجَعَلَ بَيْنَكُم مَّوَدَّةً وَرَحْمَةً﴾ <span class="ayah-ref">[سُورَةُ الرُّومِ: ٢١]</span></div>
   {: .quote }
 - **Arbitration before a marriage breaks down:** *“Appoint an arbiter from his people and an arbiter from hers.”* (**Sūrat al-Nisāʾ 4:35**)
-  > <div dir="rtl" lang="ar" class="quran-arabic">﴿فَٱبْعَثُوا۟ حَكَمًۭا مِّنْ أَهْلِهِۦ وَحَكَمًۭا مِّنْ أَهْلِهَآ﴾ <span class="ayah-ref">[سُورَةُ النِّسَاءِ: ٣٥]</span></div>
+  > <div dir="rtl" lang="ar" class="quran-arabic">﴿فَٱبْعَثُوا۟ حَكَمًا مِّنْ أَهْلِهِۦ وَحَكَمًا مِّنْ أَهْلِهَآ﴾ <span class="ayah-ref">[سُورَةُ النِّسَاءِ: ٣٥]</span></div>
   {: .quote }
 - **No harassment during ‘iddah:** *“Do not harm them so as to distress them.”* (**Sūrat al-Ṭalāq 65:6**)
-  > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَلَا تُضَآرُّوهُنَّ لِتُضَيِّقُوا۟ عَلَيْهِنَّ﴾ <span class="ayah-ref">[سُورَةُ الطَّلَاقِ: ٦]</span></div>
+  > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَلَا تُضَآرُّوهُنَّ لِتُضَيِّقُوا۟ عَلَيْهِنَّ﴾ <span class="ayah-ref">[سُورَةُ الطَّلَاقِ: ٦]</span></div>
   {: .quote }
 - **Reconciliation where possible:** *“There is no sin upon them if they make terms of settlement between them—and settlement is best.”* (**Sūrat al-Nisāʾ 4:128**)
-  > <div dir="rtl" lang="ar" class="quran-arabic">﴿فَلَا جُنَاحَ عَلَيْهِمَآ أَن يُصْلِحَا بَيْنَهُمَا صُلْحًۭا ۚ وَٱلصُّلْحُ خَيْرٌۭ﴾ <span class="ayah-ref">[سُورَةُ النِّسَاءِ: ١٢٨]</span></div>
+  > <div dir="rtl" lang="ar" class="quran-arabic">﴿فَلَا جُنَاحَ عَلَيْهِمَآ أَن يُصْلِحَا بَيْنَهُمَا صُلْحًا ۚ وَٱلصُّلْحُ خَيْرٌ﴾ <span class="ayah-ref">[سُورَةُ النِّسَاءِ: ١٢٨]</span></div>
   {: .quote }
 - **Believing men and women as allies:** *“The believing men and believing women are allies of one another.”* (**Sūrat al-Tawbah 9:71**)
-  > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَٱلْمُؤْمِنُونَ وَٱلْمُؤْمِنَٰتُ بَعْضُهُمْ أَوْلِيَآءُ بَعْضٍۢ﴾ <span class="ayah-ref">[سُورَةُ التَّوۡبَةِ: ٧١]</span></div>
+  > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَٱلْمُؤْمِنُونَ وَٱلْمُؤْمِنَـٰتُ بَعْضُهُمْ أَوْلِيَآءُ بَعْضٍ﴾ <span class="ayah-ref">[سُورَةُ التَّوۡبَةِ: ٧١]</span></div>
   {: .quote }
 - **The same moral responsibility and reward:** *“Whoever does righteousness, whether male or female, while he is a believer—We will surely cause him to live a good life, and We will surely give them their reward according to the best of what they used to do.”* (**Sūrat al-Naḥl 16:97**)
-  > <div dir="rtl" lang="ar" class="quran-arabic">﴿مَنْ عَمِلَ صَٰلِحًۭا مِّن ذَكَرٍ أَوْ أُنثَىٰ وَهُوَ مُؤْمِنٌۭ فَلَنُحْيِيَنَّهُۥ حَيَوٰةًۭ طَيِّبَةًۭ ۖ وَلَنَجْزِيَنَّهُمْ أَجْرَهُم بِأَحْسَنِ مَا كَانُوا۟ يَعْمَلُونَ ۝٩٧﴾ <span class="ayah-ref">سُورَةُ النَّحۡلِ</span></div>
+  > <div dir="rtl" lang="ar" class="quran-arabic">﴿مَنْ عَمِلَ صَـٰلِحًا مِّن ذَكَرٍ أَوْ أُنثَىٰ وَهُوَ مُؤْمِنٌ فَلَنُحْيِيَنَّهُۥ حَيَوٰةً طَيِّبَةً ۖ وَلَنَجْزِيَنَّهُمْ أَجْرَهُم بِأَحْسَنِ مَا كَانُوا۟ يَعْمَلُونَ ۝٩٧﴾ <span class="ayah-ref">سُورَةُ النَّحۡلِ</span></div>
   {: .quote }
 - **Men and women named together and promised the same reward:** *“Indeed, the Muslim men and Muslim women, the believing men and believing women… for them Allah has prepared forgiveness and a great reward.”* (**Sūrat al-Aḥzāb 33:35**)
-  > <div dir="rtl" lang="ar" class="quran-arabic">﴿إِنَّ ٱلْمُسْلِمِينَ وَٱلْمُسْلِمَٰتِ وَٱلْمُؤْمِنِينَ وَٱلْمُؤْمِنَٰتِ وَٱلْقَٰنِتِينَ وَٱلْقَٰنِتَٰتِ وَٱلصَّٰدِقِينَ وَٱلصَّٰدِقَٰتِ وَٱلصَّٰبِرِينَ وَٱلصَّٰبِرَٰتِ وَٱلْخَٰشِعِينَ وَٱلْخَٰشِعَٰتِ وَٱلْمُتَصَدِّقِينَ وَٱلْمُتَصَدِّقَٰتِ وَٱلصَّٰٓئِمِينَ وَٱلصَّٰٓئِمَٰتِ وَٱلْحَٰفِظِينَ فُرُوجَهُمْ وَٱلْحَٰفِظَٰتِ وَٱلذَّٰكِرِينَ ٱللَّهَ كَثِيرًۭا وَٱلذَّٰكِرَٰتِ أَعَدَّ ٱللَّهُ لَهُم مَّغْفِرَةًۭ وَأَجْرًا عَظِيمًۭا ۝٣٥﴾ <span class="ayah-ref">سُورَةُ الأَحۡزَابِ</span></div>
+  > <div dir="rtl" lang="ar" class="quran-arabic">﴿إِنَّ ٱلْمُسْلِمِينَ وَٱلْمُسْلِمَـٰتِ وَٱلْمُؤْمِنِينَ وَٱلْمُؤْمِنَـٰتِ وَٱلْقَـٰنِتِينَ وَٱلْقَـٰنِتَـٰتِ وَٱلصَّـٰدِقِينَ وَٱلصَّـٰدِقَـٰتِ وَٱلصَّـٰبِرِينَ وَٱلصَّـٰبِرَٰتِ وَٱلْخَـٰشِعِينَ وَٱلْخَـٰشِعَـٰتِ وَٱلْمُتَصَدِّقِينَ وَٱلْمُتَصَدِّقَـٰتِ وَٱلصَّـٰٓئِمِينَ وَٱلصَّـٰٓئِمَـٰتِ وَٱلْحَـٰفِظِينَ فُرُوجَهُمْ وَٱلْحَـٰفِظَـٰتِ وَٱلذَّٰكِرِينَ ٱللَّهَ كَثِيرًا وَٱلذَّٰكِرَٰتِ أَعَدَّ ٱللَّهُ لَهُم مَّغْفِرَةً وَأَجْرًا عَظِيمًا ۝٣٥﴾ <span class="ayah-ref">سُورَةُ الأَحۡزَابِ</span></div>
   {: .quote }
 
 ### B) Prophetic commands (verbal)
@@ -128,21 +128,21 @@ Islam does not leave the treatment of women to general moral principles alone. T
 Qur'an 4:34 must also be read alongside the Qur'an's broader moral teachings. Mercy, compassion, and love are not incidental themes:
 
 - **God is repeatedly described through mercy:** Every chapter of the Qur'an (except one) begins with *“In the name of Allah, the Most Merciful, the Most Compassionate (al-Raḥmān al-Raḥīm).”*
-  > <div dir="rtl" lang="ar" class="quran-arabic">﴿بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ﴾ <span class="ayah-ref">[سُورَةُ الفَاتِحَةِ: ١]</span></div>
+  > <div dir="rtl" lang="ar" class="quran-arabic">﴿بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ﴾ <span class="ayah-ref">[سُورَةُ الفَاتِحَةِ: ١]</span></div>
   {: .quote }
 - **The Prophet's mission is described as mercy:**
   *“We have not sent you except as a mercy to the worlds.”* (**Sūrat al-Anbiyāʾ 21:107**)
-  > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَمَآ أَرْسَلْنَٰكَ إِلَّا رَحْمَةًۭ لِّلْعَٰلَمِينَ ۝١٠٧﴾ <span class="ayah-ref">سُورَةُ الأَنبِيَاءِ</span></div>
+  > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَمَآ أَرْسَلْنَـٰكَ إِلَّا رَحْمَةً لِّلْعَـٰلَمِينَ ۝١٠٧﴾ <span class="ayah-ref">سُورَةُ الأَنبِيَاءِ</span></div>
   {: .quote }
 - **God's mercy extends to all creation:**
   *“My mercy encompasses all things.”* (**Sūrat al-Aʿrāf 7:156**)
-  > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَرَحْمَتِى وَسِعَتْ كُلَّ شَىْءٍۢ﴾ <span class="ayah-ref">[سُورَةُ الأَعۡرَافِ: ١٥٦]</span></div>
+  > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَرَحْمَتِى وَسِعَتْ كُلَّ شَىْءٍ﴾ <span class="ayah-ref">[سُورَةُ الأَعۡرَافِ: ١٥٦]</span></div>
   {: .quote }
 - **Love is tied to trust in God and doing good:**
   *“Indeed, Allah loves those who rely upon Him”* (**Sūrat Āl ʿImrān 3:159**), *“Allah loves those who do good”* (**Sūrat al-Baqarah 2:195**).
-  > <div dir="rtl" lang="ar" class="quran-arabic">﴿إِنَّ ٱللَّهَ يُحِبُّ ٱلْمُتَوَكِّلِينَ﴾ <span class="ayah-ref">[سُورَةُ آلِ عِمۡرَانَ: ١٥٩]</span></div>
+  > <div dir="rtl" lang="ar" class="quran-arabic">﴿إِنَّ ٱللَّهَ يُحِبُّ ٱلْمُتَوَكِّلِينَ﴾ <span class="ayah-ref">[سُورَةُ آلِ عِمۡرَانَ: ١٥٩]</span></div>
   >
-  > <div dir="rtl" lang="ar" class="quran-arabic">﴿إِنَّ ٱللَّهَ يُحِبُّ ٱلْمُحْسِنِينَ﴾ <span class="ayah-ref">[سُورَةُ البَقَرَةِ: ١٩٥]</span></div>
+  > <div dir="rtl" lang="ar" class="quran-arabic">﴿إِنَّ ٱللَّهَ يُحِبُّ ٱلْمُحْسِنِينَ﴾ <span class="ayah-ref">[سُورَةُ البَقَرَةِ: ١٩٥]</span></div>
   {: .quote }
 - Abuse is a form of *ẓulm* (oppression), which the Qur'an and Sunnah repeatedly condemn as a grave sin.
 

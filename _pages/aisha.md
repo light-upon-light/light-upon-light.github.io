@@ -109,7 +109,7 @@ The Qur'an makes this distinction directly in relation to property. An orphan's 
 
 > "Test ˹the competence of˺ the orphans until they reach a marriageable age. Then if you feel they are capable of sound judgment, return their wealth to them. And do not consume it wastefully and hastily before they grow up ˹to demand it˺. If the guardian is well-off, they should not take compensation; but if the guardian is poor, let them take a reasonable provision. When you give orphans back their property, call in witnesses. And sufficient is Allah as a ˹vigilant˺ Reckoner." (**Sūrat al-Nisāʾ 4:6**), Dr. Mustafa Khattab, *The Clear Quran*
 >
-> <div dir="rtl" lang="ar" class="quran-arabic">﴿وَٱبْتَلُوا۟ ٱلْيَتَٰمَىٰ حَتَّىٰٓ إِذَا بَلَغُوا۟ ٱلنِّكَاحَ فَإِنْ ءَانَسْتُم مِّنْهُمْ رُشْدًۭا فَٱدْفَعُوٓا۟ إِلَيْهِمْ أَمْوَٰلَهُمْ ۖ وَلَا تَأْكُلُوهَآ إِسْرَافًۭا وَبِدَارًا أَن يَكْبَرُوا۟ ۚ وَمَن كَانَ غَنِيًّۭا فَلْيَسْتَعْفِفْ ۖ وَمَن كَانَ فَقِيرًۭا فَلْيَأْكُلْ بِٱلْمَعْرُوفِ ۚ فَإِذَا دَفَعْتُمْ إِلَيْهِمْ أَمْوَٰلَهُمْ فَأَشْهِدُوا۟ عَلَيْهِمْ ۚ وَكَفَىٰ بِٱللَّهِ حَسِيبًۭا ۝٦﴾ <span class="ayah-ref">سُورَةُ النِّسَاءِ</span></div>
+> <div dir="rtl" lang="ar" class="quran-arabic">﴿وَٱبْتَلُوا۟ ٱلْيَتَـٰمَىٰ حَتَّىٰٓ إِذَا بَلَغُوا۟ ٱلنِّكَاحَ فَإِنْ ءَانَسْتُم مِّنْهُمْ رُشْدًا فَٱدْفَعُوٓا۟ إِلَيْهِمْ أَمْوَٰلَهُمْ ۖ وَلَا تَأْكُلُوهَآ إِسْرَافًا وَبِدَارًا أَن يَكْبَرُوا۟ ۚ وَمَن كَانَ غَنِيًّا فَلْيَسْتَعْفِفْ ۖ وَمَن كَانَ فَقِيرًا فَلْيَأْكُلْ بِٱلْمَعْرُوفِ ۚ فَإِذَا دَفَعْتُمْ إِلَيْهِمْ أَمْوَٰلَهُمْ فَأَشْهِدُوا۟ عَلَيْهِمْ ۚ وَكَفَىٰ بِٱللَّهِ حَسِيبًا ۝٦﴾ <span class="ayah-ref">سُورَةُ النِّسَاءِ</span></div>
 {: .quote }
 
 ## Judging the seventh century by the twenty-first
@@ -392,7 +392,7 @@ The Qur'an does present him as an example, but the verse concerns conduct.[^2] T
 
 > "Indeed, in the Messenger of Allah you have an excellent example for whoever has hope in Allah and the Last Day, and remembers Allah often." (**Sūrat al-Aḥzāb 33:21**), Dr. Mustafa Khattab, *The Clear Quran*
 >
-> <div dir="rtl" lang="ar" class="quran-arabic">﴿لَّقَدْ كَانَ لَكُمْ فِى رَسُولِ ٱللَّهِ أُسْوَةٌ حَسَنَةٌۭ لِّمَن كَانَ يَرْجُوا۟ ٱللَّهَ وَٱلْيَوْمَ ٱلْءَاخِرَ وَذَكَرَ ٱللَّهَ كَثِيرًۭا ۝٢١﴾ <span class="ayah-ref">سُورَةُ الأَحۡزَابِ</span></div>
+> <div dir="rtl" lang="ar" class="quran-arabic">﴿لَّقَدْ كَانَ لَكُمْ فِى رَسُولِ ٱللَّهِ أُسْوَةٌ حَسَنَةٌ لِّمَن كَانَ يَرْجُوا۟ ٱللَّهَ وَٱلْيَوْمَ ٱلْـَٔاخِرَ وَذَكَرَ ٱللَّهَ كَثِيرًا ۝٢١﴾ <span class="ayah-ref">سُورَةُ الأَحۡزَابِ</span></div>
 {: .quote }
 
 Islamic legal interpretation routinely distinguishes the Prophet's normative conduct from the historical circumstances in which he lived. He wore seventh-century Arabian clothing, ate its food, travelled on its animals, used its weapons, and traded in its markets, yet no school of law treats these details as binding. He also married nine wives, while the Qur'an limits other Muslim men to four. The tradition has therefore never assumed that every feature of his life must be copied.
@@ -427,7 +427,7 @@ The Qur'an describes marriage as a source of tranquility, affection, and mercy b
 
 > "And one of His signs is that He created for you spouses from among yourselves so that you may find comfort in them. And He has placed between you compassion and mercy. Surely in this are signs for people who reflect." (**Sūrat al-Rūm 30:21**), Dr. Mustafa Khattab, *The Clear Quran*
 >
-> <div dir="rtl" lang="ar" class="quran-arabic">﴿وَمِنْ ءَايَٰتِهِۦٓ أَنْ خَلَقَ لَكُم مِّنْ أَنفُسِكُمْ أَزْوَٰجًۭا لِّتَسْكُنُوٓا۟ إِلَيْهَا وَجَعَلَ بَيْنَكُم مَّوَدَّةًۭ وَرَحْمَةً ۚ إِنَّ فِى ذَٰلِكَ لَءَايَٰتٍۢ لِّقَوْمٍۢ يَتَفَكَّرُونَ ۝٢١﴾ <span class="ayah-ref">سُورَةُ الرُّومِ</span></div>
+> <div dir="rtl" lang="ar" class="quran-arabic">﴿وَمِنْ ءَايَـٰتِهِۦٓ أَنْ خَلَقَ لَكُم مِّنْ أَنفُسِكُمْ أَزْوَٰجًا لِّتَسْكُنُوٓا۟ إِلَيْهَا وَجَعَلَ بَيْنَكُم مَّوَدَّةً وَرَحْمَةً ۚ إِنَّ فِى ذَٰلِكَ لَـَٔايَـٰتٍ لِّقَوْمٍ يَتَفَكَّرُونَ ۝٢١﴾ <span class="ayah-ref">سُورَةُ الرُّومِ</span></div>
 {: .quote }
 
 Spouses are required to live together with *maʿrūf* — what is right and recognised as right — making kindness the standard of marital conduct.[^35]
