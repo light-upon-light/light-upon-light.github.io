@@ -12,11 +12,19 @@
   stripped, which holds for every one of those forms alike.
 
   NO <iframe> IS EMITTED HERE. The video ID rides on `data-yt-id`. Opening
-  a box builds a local poster -- a dark panel with a play control, drawn in
-  CSS, fetching nothing -- and only a click on that poster builds a real
-  player, which is torn down again on close. Both steps live in the script
-  in _includes/footer/custom.html. This is not an optimisation; it is the
-  whole reason the page survives on a phone.
+  a box builds a poster -- the video's thumbnail from i.ytimg.com over a
+  dark panel, with the title and a play control drawn in CSS -- and only a
+  click on that poster builds a real player, which is torn down again on
+  close. Both steps live in the script in _includes/footer/custom.html.
+  This is not an optimisation; it is the whole reason the page survives on
+  a phone.
+
+  So an open box costs one image, not a player: tens of KB against several
+  MB, and no nested browsing context, which is the part that mattered. The
+  thumbnail is the one third-party request an unplayed box makes; the
+  player itself still goes to youtube-nocookie.com. If i.ytimg.com is
+  blocked the image is dropped and the panel underneath carries the title
+  and play control on its own.
 
   The poster is also what stops the box flashing as it opens. Mounting the
   player on open meant the reader watched YouTube's own document paint --
@@ -56,7 +64,9 @@
   a reader who opens twenty boxes in sequence walks straight back into the
   same crash. The one-at-a-time rule is enforced on play rather than on
   open, since an open box now costs only a poster; twenty posters are
-  twenty divs, where twenty players were the crash.
+  twenty thumbnails, where twenty players were the crash. Starting a video
+  unloads the others but leaves their boxes open, so the page stays where
+  the reader put it.
 
   The <a> inside the frame is the no-JS fallback, hidden by CSS once the
   script has put a poster in. Teardown removes the poster and player

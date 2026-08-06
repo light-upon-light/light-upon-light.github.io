@@ -515,13 +515,18 @@
     border: 0;
   }
 
-  /* The poster: a local stand-in for the player, drawn here rather than
-     fetched, so opening a box touches no third party at all and cannot
-     flash. Opening used to mount the real player, and what a reader saw
-     was YouTube's own document painting -- white, then the black stage,
-     then the video. That is inside a cross-origin frame: no CSS or JS here
-     can style it, and no event says when it has painted. The only fix is
-     not to have a player there yet.
+  /* The poster: a stand-in for the player, shown when a box opens. Opening
+     used to mount the real player, and what a reader saw was YouTube's own
+     document painting -- white, then the black stage, then the video. That
+     is inside a cross-origin frame: no CSS or JS here can style it, and no
+     event says when it has painted. The only fix is not to have a player
+     there yet.
+
+     Its own background is the near-black the frame carries, so the box is
+     dark from the first frame and the thumbnail arriving later cannot
+     flash. Everything but the thumbnail is drawn here, which is also the
+     fallback: block i.ytimg.com and what remains is a dark panel with a
+     title and a play control, still perfectly usable.
 
      Sits above the iframe (which the click handler inserts underneath) and
      covers it while YouTube loads. */
@@ -530,40 +535,101 @@
     inset: 0;
     z-index: 1;
     display: flex;
-    flex-direction: column;
     justify-content: center;
     align-items: center;
-    gap: 0.75em;
     width: 100%;
     height: 100%;
     margin: 0;
-    padding: 1em;
+    padding: 0;
     border: 0;
     background-color: #1e1b18;
-    color: #e8dcc8;
-    font-size: 0.85em;
-    line-height: 1.35;
-    text-align: center;
     cursor: pointer;
+  }
+
+  .yt-embed__poster-img {
+    position: absolute;
+    inset: 0;
+    z-index: 0;
+    width: 100%;
+    height: 100%;
+    /* cover, because the hqdefault fallback is 4:3 with letterbox bars
+       baked into the image -- contain would show them, cover crops them
+       off. maxresdefault is already 16:9 and is unaffected. */
+    object-fit: cover;
+    animation: yt-embed-fade 0.3s ease-out both;
+  }
+
+  @keyframes yt-embed-fade {
+    from {
+      opacity: 0;
+    }
+    to {
+      opacity: 1;
+    }
+  }
+
+  /* Scrim: thumbnails are chosen to be eye-catching and many are bright,
+     which leaves the play control and title fighting the image. */
+  .yt-embed__poster::after {
+    content: "";
+    position: absolute;
+    inset: 0;
+    z-index: 1;
+    background-color: rgba(0, 0, 0, 0.28);
+  }
+
+  .yt-embed__poster-title {
+    position: absolute;
+    z-index: 2;
+    top: 0;
+    left: 0;
+    right: 0;
+    padding: 0.55em 0.8em 1.4em;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));
+    color: #f2ece1;
+    font-size: 0.85em;
+    line-height: 1.3;
+    text-align: left;
+  }
+
+  /* The disc is not decoration. A bare triangle has to survive whatever
+     the thumbnail happens to be, and these are gold-heavy Islamic art --
+     a gold mark on gold calligraphy disappears. The disc gives it a
+     constant dark ground, so contrast no longer depends on the image. */
+  .yt-embed__poster-play {
+    position: relative;
+    z-index: 2;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 3.4em;
+    height: 3.4em;
+    border: 1px solid rgba(242, 236, 225, 0.3);
+    border-radius: 50%;
+    background-color: rgba(22, 19, 16, 0.72);
+    transition: transform 0.15s ease, background-color 0.15s ease;
   }
 
   /* A lighter tint of the skin's gold. NOT the #a8792a of blockquote.quote
      -- that gold means "revealed text" and should not leak onto a control;
-     this is the same hue lifted for contrast on a near-black panel. */
-  .yt-embed__poster::before {
+     this is the same hue lifted for contrast on a near-black ground. */
+  .yt-embed__poster-play::before {
     content: "";
     display: block;
     width: 0;
     height: 0;
+    /* nudged right by a third of the triangle's width: a triangle centred
+       on its bounding box reads as sitting left of centre in a circle. */
+    margin-left: 0.4em;
     border-style: solid;
-    border-width: 0.9em 0 0.9em 1.5em;
+    border-width: 0.7em 0 0.7em 1.15em;
     border-color: transparent transparent transparent #c9973a;
-    transition: transform 0.15s ease;
   }
 
-  .yt-embed__poster:hover::before,
-  .yt-embed__poster:focus-visible::before {
-    transform: scale(1.12);
+  .yt-embed__poster:hover .yt-embed__poster-play,
+  .yt-embed__poster:focus-visible .yt-embed__poster-play {
+    transform: scale(1.1);
+    background-color: rgba(22, 19, 16, 0.85);
   }
 
   /* Fades out over the loading player rather than being torn out from in
@@ -586,13 +652,14 @@
     }
   }
 
-  /* All three animations are pure decoration -- the fill state is what the
-     plain rules already declare, so switching them off changes nothing but
-     the motion. The poster must still end up transparent, or a reader with
+  /* The animations are pure decoration -- the fill state is what the plain
+     rules already declare, so switching them off changes nothing but the
+     motion. The poster must still end up transparent, or a reader with
      reduced motion gets a panel stuck over a playing video. */
   @media (prefers-reduced-motion: reduce) {
     .yt-embed__frame.is-loaded,
-    .yt-embed__poster::before {
+    .yt-embed__poster-img,
+    .yt-embed__poster-play {
       animation: none;
       transition: none;
     }
