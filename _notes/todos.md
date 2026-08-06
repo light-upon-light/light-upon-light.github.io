@@ -7,21 +7,13 @@ general:
 
 ---
 
-- go over pages again and have it rewrite the stuff in quotations according to the style guide sicne i think it ignored them bec of how the prompt was before
 - after, try again but with 3 versions, the version that just removes the quote restriction, and another that says that he can make minimal changes to structure but not too much, and one that says nothing about structure (but make sure to keep the bullet led format). Try this with the two bases: before the good rewrite and after
 - assess if prose led or bullet led is better. and use above prompt to rewrite everything into one of them. (check first if no restrictions about structure prompt rewrites into prose led)
 - then re bold everything
 
 - clarify quote usage in site: separate quotes into quran verses, hadith, pure numerical references, and normal quotes
-- line around buttons when pressed looks bad
-- remove icon in table of contents title
-- Add a button to jump to next and prev sections
-- Issue when jumping to a section from the toc, all the intermediate ones open and close fast so it looks spazzy
-- When jumping from collapsible section title in toc to another, the part of it that collapses the section loses the highlight before the one with the text so it looks weird
-- make text justified
 - quran arabic sometimes puts the meem 3alama when it's not present int he original text. example tawbah verse 29 in jizya.
-- scrolling issue on phone: when keeping finger on screen after scrolling, keeps spazzing out.
-- toc highlighting issue in messenger section (the sub expandable sections still have partial highlighting when highlighting the level above)
+- outline of buttons still appears sometimes on desktop
 
 - add links to good articles at the bottom in further reading
 - add good arguments, points and sources from good links
