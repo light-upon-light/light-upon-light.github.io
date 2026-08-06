@@ -2,25 +2,22 @@
 
 general:
 
-- proper themeing
-- web dev / jekyll / GFM / HTML best practices
-
----
-
-- after, try again but with 3 versions, the version that just removes the quote restriction, and another that says that he can make minimal changes to structure but not too much, and one that says nothing about structure (but make sure to keep the bullet led format). Try this with the two bases: before the good rewrite and after
-- assess if prose led or bullet led is better. and use above prompt to rewrite everything into one of them. (check first if no restrictions about structure prompt rewrites into prose led)
+- assess if prose led or bullet led is better. and use above prompt to rewrite everything into one of them. (check first if no restrictions about structure prompt rewrites into prose led) (i'm leaning towards prose with good bullet point summaries in the beginning)
+- manual edits to pages. (restructure args, remove stuff, add stuff from prev commits that got removed by edits, let claude compare with prev versions or other articles and add pieces that could strengthen argument)
 - then re bold everything
 
 - clarify quote usage in site: separate quotes into quran verses, hadith, pure numerical references, and normal quotes
 - quran arabic sometimes puts the meem 3alama when it's not present int he original text. example tawbah verse 29 in jizya.
 - outline of buttons still appears sometimes on desktop
+- embed youtube links in collapsible boxes
 
 - add links to good articles at the bottom in further reading
 - add good arguments, points and sources from good links
 
-- embed youtube links in collapsible boxes
-
 - re turn on search
+
+- better theme (is the current theme the source of all the issues we keep fixing?)
+- web dev / jekyll / GFM / HTML best practices
 
 ---
 
