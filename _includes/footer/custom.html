@@ -96,9 +96,11 @@
     align-items: center;
     justify-content: center;
 
-    /* dirt skin: $primary-color #343434 on $border-color #e9dcbe */
+    /* dirt skin: $primary-color #343434 on $border-color #e9dcbe. Alpha'd
+       down so text scrolled underneath stays readable through the button;
+       dark counterpart in assets/css/dark.scss. */
     color: #f3f3f3;
-    background-color: #343434;
+    background-color: rgba(52, 52, 52, 0.55);
     border: 1px solid #e9dcbe;
     border-radius: 50%;
     box-shadow: 0 2px 6px rgba(0, 0, 0, 0.3);
