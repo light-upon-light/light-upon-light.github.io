@@ -815,17 +815,21 @@
 
      The include deliberately ships no <iframe> at all; see the long comment
      at the top of it for why (49 of them, even collapsed and never loaded,
-     killed the web process on iOS). Opening a box builds a local poster --
-     no iframe, no network -- and only a click on that poster builds a real
-     player, which is torn down again on close. So the document holds zero
-     iframes at rest and at most one while a reader is watching, and now a
-     player exists only for a video someone actually chose to watch.
+     killed the web process on iOS). One is built when a box opens and torn
+     down when it closes, so the document holds zero iframes at rest and at
+     most one while a reader is watching.
 
-     Opening used to mount the player directly, and the reader watched
-     YouTube's own document paint: white, then the black stage, then the
-     video. Nothing on this side can prevent that -- it is a cross-origin
-     document, unstylable, with no event that fires when it has painted.
-     The poster is the fix: there is no player there to flash.
+     USE_POSTER below switches on a facade: opening a box then builds a
+     thumbnail poster instead of a player, and only a click on that builds
+     the real thing, with autoplay. It is off, but everything it needs is
+     still here and still styled, so it is a one-word change. What it buys,
+     if it is ever wanted back: opening a box costs one image rather than a
+     multi-MB player, and the box does not flash. What a reader sees on
+     open right now is YouTube's own document painting -- white, then the
+     black stage, then the video -- and nothing on this side can prevent
+     that, since it is a cross-origin document, unstylable, with no event
+     that fires when it has painted. Not having a player there yet is the
+     only fix there is.
 
      Delegated from the document with `capture: true`, which is load-bearing:
      `toggle` is a non-bubbling event, so a plain document-level listener
@@ -834,55 +838,39 @@
 
 <script>
   (function () {
+    /* Flip to true for the click-to-play thumbnail facade described above.
+       Nothing else needs to change: the poster's CSS is already in
+       _includes/head/custom.html, and autoplay rides along with it, since
+       the player is then mounted inside a real click and so has the user
+       activation that autoplay requires. */
+    var USE_POSTER = false;
+
     var PLAYER_ALLOW =
       "accelerometer; autoplay; clipboard-write; encrypted-media; " +
       "gyroscope; picture-in-picture; web-share";
 
     var THUMB = "https://i.ytimg.com/vi/";
 
+    /* Matches the CSS. The close has to run for exactly as long as the
+       open, or the two stop cancelling out -- see below. */
+    var GROW_MS = 280;
 
-    document.addEventListener("toggle", function (e) {
-      var details = e.target;
-      if (!details.classList || !details.classList.contains("yt-embed")) return;
+    var reduced = window.matchMedia &&
+      window.matchMedia("(prefers-reduced-motion: reduce)");
 
-      var frame = details.querySelector(".yt-embed__frame");
-      if (!frame) return;
+    function buildPlayer(frame, id, title, autoplay) {
+      var iframe = document.createElement("iframe");
+      iframe.src = "https://www.youtube-nocookie.com/embed/" +
+        encodeURIComponent(id) + (autoplay ? "?autoplay=1" : "");
+      iframe.title = title;
+      iframe.referrerPolicy = "strict-origin-when-cross-origin";
+      iframe.allow = PLAYER_ALLOW;
+      iframe.allowFullscreen = true;
+      iframe.setAttribute("frameborder", "0");
+      return iframe;
+    }
 
-      if (!details.open) {
-        /* Teardown is the point of the exercise, not tidiness: leaving the
-           players mounted lets a reader who works down the page rebuild the
-           exact pile of iframes this whole approach exists to avoid. It also
-           stops the audio, which a reader closing the box plainly wants.
-           The poster goes with it, so a re-opened box starts from the
-           poster again rather than from a half-dismissed one. Removing
-           exactly the two injected elements, rather than emptying the
-           frame, is what leaves the include's own fallback <a> in place
-           with its original href. */
-        var mounted = frame.querySelectorAll("iframe, .yt-embed__poster");
-        for (var j = 0; j < mounted.length; j++) mounted[j].remove();
-
-        frame.classList.remove("is-loaded");
-        return;
-      }
-
-      if (frame.querySelector(".yt-embed__poster")) return; // already built
-
-      /* One box at a time: opening this one closes the rest. <details>
-         elements are otherwise independent, and a reader working down the
-         page would leave a trail of open boxes behind them. Closing sets
-         .open, which re-enters this handler for each and takes the
-         teardown branch above -- so this is also what keeps at most one
-         player alive, since a player can only exist inside an open box. */
-      var open = document.querySelectorAll("details.yt-embed[open]");
-      for (var i = 0; i < open.length; i++) {
-        if (open[i] !== details) open[i].open = false;
-      }
-
-      var id = details.getAttribute("data-yt-id");
-      if (!id) return; // no ID parsed -- leave the fallback link in place
-
-      var title = details.getAttribute("data-yt-title") || "YouTube video";
-
+    function buildPoster(frame, id, title) {
       var poster = document.createElement("button");
       poster.type = "button";
       poster.className = "yt-embed__poster";
@@ -921,31 +909,120 @@
       poster.addEventListener("click", function () {
         if (frame.querySelector("iframe")) return;
 
-        /* No one-player-at-a-time check here: only one box is open at a
-           time (see the toggle handler), so only one poster exists to
-           click, and this is already the only path that builds a player. */
-
-        /* autoplay=1 is safe only because this runs inside a real click:
-           the activation is what lets the delegated permission take. The
+        /* autoplay=1 takes only because this runs inside a real click: the
+           activation is what lets the delegated permission through. The
            same mount from the toggle handler would be blocked, and the
-           reader would face a paused player they have to click again. */
-        var iframe = document.createElement("iframe");
-        iframe.src = "https://www.youtube-nocookie.com/embed/" +
-          encodeURIComponent(id) + "?autoplay=1";
-        iframe.title = title;
-        iframe.referrerPolicy = "strict-origin-when-cross-origin";
-        iframe.allow = PLAYER_ALLOW;
-        iframe.allowFullscreen = true;
-        iframe.setAttribute("frameborder", "0");
+           reader would face a paused player they have to click again.
 
-        /* Underneath the poster, which then fades rather than being torn
-           away, so the player's white-then-black load happens behind an
-           opaque panel. */
-        frame.insertBefore(iframe, poster);
+           Inserted UNDER the poster, which then fades rather than being
+           torn away, so the player's white-then-black load happens behind
+           an opaque panel. */
+        frame.insertBefore(buildPlayer(frame, id, title, true), poster);
         poster.classList.add("is-dismissed");
       });
 
-      frame.appendChild(poster);
+      return poster;
+    }
+
+    /* Closing a <details> is instant and unanimatable: the content is gone
+       the moment `open` clears, so there is nothing left to shrink. The
+       close therefore has to be run BEFORE the state changes, which means
+       intercepting the click on the summary, animating, and only then
+       letting the box close.
+
+       This is also what keeps the page from lurching when one box is
+       swapped for another. The closing box shrinks over exactly as long as
+       the opening one grows, on the same curve read the same way round --
+       so at every instant one has lost precisely what the other has gained
+       and the document's total height does not move. Reverse the easing on
+       one of them and that cancellation is lost. */
+    function closeSmoothly(details) {
+      var frame = details.querySelector(".yt-embed__frame");
+
+      if (!frame || !frame.classList.contains("is-loaded") ||
+          (reduced && reduced.matches)) {
+        details.open = false;
+        return;
+      }
+
+      if (frame.classList.contains("is-closing")) return; // already going
+
+      frame.classList.add("is-closing");
+
+      var done = false;
+      var finish = function () {
+        if (done) return;
+        done = true;
+        frame.classList.remove("is-closing");
+        details.open = false; // fires `toggle`, which tears the player down
+      };
+
+      frame.addEventListener("animationend", finish, { once: true });
+      setTimeout(finish, GROW_MS + 120); // in case the animation never runs
+    }
+
+    /* A click on the summary of an OPEN box is a close request, and the
+       browser would grant it instantly. Take it over. A reader who clicks
+       again mid-close is ignored rather than cancelled: the box finishes
+       closing and reopens on the next click, which over 0.28s is not worth
+       the bookkeeping a real cancel would need. */
+    document.addEventListener("click", function (e) {
+      if (!e.target.closest) return;
+
+      var summary = e.target.closest("details.yt-embed > summary");
+      if (!summary) return;
+
+      var details = summary.parentNode;
+      if (!details.open) return; // opening: nothing to animate away
+
+      e.preventDefault();
+      closeSmoothly(details);
+    });
+
+    document.addEventListener("toggle", function (e) {
+      var details = e.target;
+      if (!details.classList || !details.classList.contains("yt-embed")) return;
+
+      var frame = details.querySelector(".yt-embed__frame");
+      if (!frame) return;
+
+      if (!details.open) {
+        /* Teardown is the point of the exercise, not tidiness: leaving the
+           players mounted lets a reader who works down the page rebuild the
+           exact pile of iframes this whole approach exists to avoid. It also
+           stops the audio, which a reader closing the box plainly wants.
+           Removing exactly the injected elements, rather than emptying the
+           frame, is what leaves the include's own fallback <a> in place
+           with its original href. */
+        var mounted = frame.querySelectorAll("iframe, .yt-embed__poster");
+        for (var j = 0; j < mounted.length; j++) mounted[j].remove();
+
+        frame.classList.remove("is-loaded", "is-closing");
+        return;
+      }
+
+      if (frame.querySelector("iframe, .yt-embed__poster")) return; // built
+
+      /* One box at a time: opening this one closes the rest. <details>
+         elements are otherwise independent, and a reader working down the
+         page would leave a trail of open boxes behind them. This is also
+         what keeps at most one player alive, since a player can only exist
+         inside an open box. Routed through closeSmoothly so the shrink
+         runs against this box's growth rather than after it. */
+      var open = document.querySelectorAll("details.yt-embed[open]");
+      for (var i = 0; i < open.length; i++) {
+        if (open[i] !== details) closeSmoothly(open[i]);
+      }
+
+      var id = details.getAttribute("data-yt-id");
+      if (!id) return; // no ID parsed -- leave the fallback link in place
+
+      var title = details.getAttribute("data-yt-title") || "YouTube video";
+
+      frame.appendChild(USE_POSTER
+        ? buildPoster(frame, id, title)
+        : buildPlayer(frame, id, title, false));
+
       frame.classList.add("is-loaded");
     }, true);
   })();
