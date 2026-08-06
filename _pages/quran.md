@@ -1127,6 +1127,7 @@ The more fully his life is examined, the more difficult it becomes to explain by
 
 - The jizya, the tax non-Muslims paid under Muslim rule
     > [The Jizya: What Non-Muslims Paid, and What For](/jizya)
+    > [The Jizya: What Non-Muslims Paid, and What For - prose version](/jizya_prose)
 
 - The claim that Islam was spread by the sword
     > [Did Islam Spread by the Sword?](/sword)
