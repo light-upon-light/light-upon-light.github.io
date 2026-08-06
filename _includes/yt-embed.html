@@ -62,11 +62,9 @@
   Keep the count in the document at zero, and never more than one live at a
   time. If this ever grows a "leave the iframe mounted on close" shortcut,
   a reader who opens twenty boxes in sequence walks straight back into the
-  same crash. The one-at-a-time rule is enforced on play rather than on
-  open, since an open box now costs only a poster; twenty posters are
-  twenty thumbnails, where twenty players were the crash. Starting a video
-  unloads the others but leaves their boxes open, so the page stays where
-  the reader put it.
+  same crash. Opening a box closes every other one, which is what holds
+  that line: a player can only exist inside an open box, and only one box
+  is ever open.
 
   The <a> inside the frame is the no-JS fallback, hidden by CSS once the
   script has put a poster in. Teardown removes the poster and player
