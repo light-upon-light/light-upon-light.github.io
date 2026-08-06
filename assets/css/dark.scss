@@ -150,6 +150,15 @@ blockquote.src {
   border-inline-start-color: #8a7d68;
 }
 
+/* same taupe apparatus palette as blockquote.src above */
+.yt-embed {
+  border-inline-start-color: #8a7d68;
+}
+
+.yt-embed > summary {
+  color: #b8ab97;
+}
+
 /* the author's own voice: verdigris rule and the faintest wash */
 blockquote.gloss {
   border-inline-start-color: #4fa89c;
