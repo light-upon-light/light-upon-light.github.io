@@ -17,7 +17,8 @@ general:
 - re turn on search
 
 - better theme (is the current theme the source of all the issues we keep fixing?)
-- web dev / jekyll / GFM / HTML best practices
+- web dev / jekyll / GFM / HTML best practice
+- review all the caveats and things written in claude.md and theme_internals.md, and test them out. are they true? do we still need to keep them?
 
 ---
 
