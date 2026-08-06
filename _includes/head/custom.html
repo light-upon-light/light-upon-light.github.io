@@ -416,6 +416,62 @@
     margin-bottom: 0;
   }
 
+  /* Collapsible YouTube reference (_includes/yt-embed.html). Same taupe/
+     sepia palette as .src above, since a linked video is the same kind of
+     apparatus as a source citation -- it recedes rather than asserting.
+     <details>/<summary> gives closed-by-default and keyboard toggling for
+     free, so there is no open/close JS to write. Dark counterpart in
+     assets/css/dark.scss. */
+  .yt-embed {
+    margin: 0.6em 0;
+    border-inline-start: 0.1875em solid #a1937c;
+    padding-inline-start: 0.75em;
+  }
+
+  .yt-embed > summary {
+    cursor: pointer;
+    color: #6f6152;
+    font-size: 0.9em;
+    padding-block: 0.3em;
+    list-style: none;
+  }
+
+  .yt-embed > summary::-webkit-details-marker {
+    display: none;
+  }
+
+  .yt-embed > summary::before {
+    content: "\25b8";
+    display: inline-block;
+    width: 1em;
+    transition: transform 0.2s ease;
+  }
+
+  .yt-embed[open] > summary::before {
+    transform: rotate(90deg);
+  }
+
+  .yt-embed__note {
+    opacity: 0.75;
+  }
+
+  /* 16:9 responsive frame -- the classic padding-bottom hack, since aspect-
+     ratio support is not needed anywhere else on the site yet. */
+  .yt-embed__frame {
+    position: relative;
+    height: 0;
+    padding-bottom: 56.25%;
+    margin-block: 0.5em;
+  }
+
+  .yt-embed__frame iframe {
+    position: absolute;
+    inset: 0;
+    width: 100%;
+    height: 100%;
+    border: 0;
+  }
+
   /* Scoped to paragraphs and list items, not the whole .page__content block
      -- justifying short blockquote citations (.src) produces visibly ragged
      word-spacing on a couple of lines, and .quran-arabic already sets its

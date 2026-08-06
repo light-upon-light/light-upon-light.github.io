@@ -32,11 +32,11 @@ share: true
 
 1. Extends to **more than 600 pages** of recited text. The claims below concern a work of that scale, not a short passage.
 1. Regarded in **every generation since** as the **summit of Arabic eloquence**, both by admirers and by opponents.
-    > [Linguistic Miracle of the Qur'an](https://youtu.be/abzZL_3Av2E)
+    {% include yt-embed.html url="https://youtu.be/abzZL_3Av2E" title="Linguistic Miracle of the Qur'an" %}
 
-    > [Incredible Word Patterns found in the Quran](https://youtu.be/vady0SQGHCU)
+    {% include yt-embed.html url="https://youtu.be/vady0SQGHCU" title="Incredible Word Patterns found in the Quran" %}
 
-    > [ONE WORD Proving the Quran is Allah's Words \| Arabic101](https://youtu.be/OED98p4bpx0)
+    {% include yt-embed.html url="https://youtu.be/OED98p4bpx0" title="ONE WORD Proving the Quran is Allah's Words | Arabic101" %}
 1. Belongs to **neither poetry nor prose**, but to a **unique form of its own** that combines rhythmic beauty with precision of meaning.
 1. Maintains the same **literary quality across all 23 years** of revelation, unlike human authors whose style normally changes over a career.
 1. It became the **reference text for Arabic grammar itself**. When grammarians recorded the language's rules, they treated the Qur'an as a standard of correct Arabic because it contains **no linguistic errors**. Fourteen centuries of scrutiny have **turned up no error in it**.
@@ -45,11 +45,11 @@ share: true
     > Producing symmetry across an entire book would be difficult even with a complete manuscript and freedom to revise. The Qur'an was delivered in separate portions, out of order, and each passage was fixed when first recited.
     {: .gloss }
 
-    > [Marvels of the Qur'an \| Dr. Ali Ataie](https://youtu.be/9gJWIGLJhHM)
+    {% include yt-embed.html url="https://youtu.be/9gJWIGLJhHM" title="Marvels of the Qur'an | Dr. Ali Ataie" %}
 
-    > [Mind Blowing Symmetry in Quran Pages! - The Miracle You’ll Hear for the First Time!](https://youtu.be/2iiGZlyDOXk)
+    {% include yt-embed.html url="https://youtu.be/2iiGZlyDOXk" title="Mind Blowing Symmetry in Quran Pages! - The Miracle You’ll Hear for the First Time!" %}
 
-    > [THE RING COMPOSITION! - Remarkable Structure of the Quran](https://youtu.be/b5Y5gMc_XZo)
+    {% include yt-embed.html url="https://youtu.be/b5Y5gMc_XZo" title="THE RING COMPOSITION! - Remarkable Structure of the Quran" %}
 1. Its chapters can be **read in any order** without losing the book's coherence or guidance, unlike an ordinary narrative.
 1. It **challenged the Arabs** to match it when their command of Arabic was at its height. They had both the **skill** to answer and every **motive** to do so.
     > The Qur'an was revealed in an era when the **Arabs** had reached the very **summit of Arabic** language eloquence and rhetoric. **Poetry** was not mere entertainment; it was the **lifeblood of their culture**, the **measure of honor**, and even a **weapon in war**—tribes would settle disputes or ignite battles through verses. In this context, where **pride in language** was unrivaled and **mastery of Arabic** expression was their greatest art, the **Qur'an openly challenged** them to produce anything like it. Despite their unmatched command of Arabic and every worldly motive to discredit the Prophet ﷺ, they were unable to respond, and **their failure** itself became a **perpetual testimony** to the **Qur'an's inimitability**.
@@ -70,7 +70,7 @@ share: true
     > Maintaining two distinct voices for twenty-three years would be difficult to fabricate. An unlettered man would have had to keep one style for his ordinary speech and another for revelation without publicly confusing them.
     {: .gloss }
 
-    > [Conquering Doubts & Confidently Defending Islam \| Ali Ataie](https://youtu.be/_HlpfgaDATU) (The whole of this video is great)
+    {% include yt-embed.html url="https://youtu.be/_HlpfgaDATU" title="Conquering Doubts & Confidently Defending Islam | Ali Ataie" note="The whole of this video is great" %}
 
 1. **Flows naturally** and is **beautifully melodic**, with a **profound effect on the heart**. People who do not understand Arabic often weep while listening to it without knowing the words' meaning.
 
@@ -122,27 +122,27 @@ share: true
     > These claims should be assessed individually. Strong examples depend on a verse making a specific statement that later evidence confirms. Vague wording stretched to fit a modern discovery contributes nothing to the argument.
     {: .gloss }
 
-    > [Qur'an on Embryology - Professor Keith L. Moore](https://youtu.be/J_Dllu42eEA)
+    {% include yt-embed.html url="https://youtu.be/J_Dllu42eEA" title="Qur'an on Embryology - Professor Keith L. Moore" %}
 
-    > [Are there scientific miracles in the Qur'an?](https://youtu.be/DoP6Ft-VE70)
+    {% include yt-embed.html url="https://youtu.be/DoP6Ft-VE70" title="Are there scientific miracles in the Qur'an?" %}
 1. Gives **strikingly accurate historical detail**, some of which was confirmed only by modern scholarship.
-    > [The Qur'an and the Secrets of Egypt](https://youtu.be/c2ovILc_sKY)
+    {% include yt-embed.html url="https://youtu.be/c2ovILc_sKY" title="The Qur'an and the Secrets of Egypt" %}
 1. Retells narratives shared with the Bible while **correcting their historical errors** rather than repeating them.
     > Examples include the different titles used for the ruler in the accounts of Moses and Joseph, and the Qur'an's description of the Israelites as a small group at the exodus.
     {: .gloss }
 
-    > [Stories of the Prophets: Bible vs. Qur'an](https://youtu.be/lEc_ilaHim8)
+    {% include yt-embed.html url="https://youtu.be/lEc_ilaHim8" title="Stories of the Prophets: Bible vs. Qur'an" %}
 
-    > [The Qur'an and the Secrets of Egypt](https://youtu.be/c2ovILc_sKY)
+    {% include yt-embed.html url="https://youtu.be/c2ovILc_sKY" title="The Qur'an and the Secrets of Egypt" %}
 1. Contains **astonishing mathematical structures** across the text: word counts, symmetries, and correspondences that extend through the whole book.
     > This subject is especially vulnerable to careless claims. Many popular examples depend on selective or inconsistent counting and fail when checked. The first link below offers a more measured treatment.
     {: .gloss }
 
-    > [Mathematical Miracles in the Qur'an: A Measured Approach](https://youtu.be/QC3sDbVcAbw)
+    {% include yt-embed.html url="https://youtu.be/QC3sDbVcAbw" title="Mathematical Miracles in the Qur'an: A Measured Approach" %}
 
-    > [The Numerical Miracles in the Quran \| Arabic101](https://youtu.be/11dDOBdQobQ)
+    {% include yt-embed.html url="https://youtu.be/11dDOBdQobQ" title="The Numerical Miracles in the Quran | Arabic101" %}
 1. Uses **words from other languages**, including Hebrew, precisely where the meaning in *that* language is being expressed. **Muhammad ﷺ spoke none of them**, and recognizing such wordplay requires command of both languages.
-    > [The Hebrew word that PROVED that the Qur'an is from Allah](https://youtu.be/wA4v8MrBHHc)
+    {% include yt-embed.html url="https://youtu.be/wA4v8MrBHHc" title="The Hebrew word that PROVED that the Qur'an is from Allah" %}
 
 ### Preservation and Memorization
 
@@ -150,18 +150,18 @@ share: true
     > No other book of comparable age has been preserved through the same combination of mass oral transmission and an early written record. Other ancient works generally survive through textual loss, variant versions, or translations that stand between the reader and the original language.
     {: .gloss }
 
-    > [The Most DIRECT Proof That The Qur'an is From Allah \| Arabic101](https://youtu.be/4l7pbX5J8Lg)
+    {% include yt-embed.html url="https://youtu.be/4l7pbX5J8Lg" title="The Most DIRECT Proof That The Qur'an is From Allah | Arabic101" %}
 
-    > [There are No Holes in the Qur'anic Narrative \| Dr. Ali Ataie](https://youtu.be/zbM7qpBe5DM)
+    {% include yt-embed.html url="https://youtu.be/zbM7qpBe5DM" title="There are No Holes in the Qur'anic Narrative | Dr. Ali Ataie" %}
 
-    > [How To Prove The Qur'an Has Been Preserved Accurately](https://youtu.be/n281Zyywyn4)
+    {% include yt-embed.html url="https://youtu.be/n281Zyywyn4" title="How To Prove The Qur'an Has Been Preserved Accurately" %}
 1. **Easily memorized.** Memorizing all 600+ pages is common among Muslims, and **millions of people alive today** know the **entire text word for word**.
     > Most memorizers are not native Arabic speakers. Arabic is not the first language of roughly 80% of Muslims today.
     {: .gloss }
 
-    > [MIRACLE OF QURAN MEMORIZATION](https://youtu.be/s3WIOc2fHc0)
+    {% include yt-embed.html url="https://youtu.be/s3WIOc2fHc0" title="MIRACLE OF QURAN MEMORIZATION" %}
 
-    > [How can the Qur'an be a Miracle for NON-ARABIC Speakers? \| Arabic101](https://youtu.be/5fyF-35naDE)
+    {% include yt-embed.html url="https://youtu.be/5fyF-35naDE" title="How can the Qur'an be a Miracle for NON-ARABIC Speakers? | Arabic101" %}
 
 ### Prophecies
 
@@ -197,13 +197,13 @@ share: true
     > Examples include Byzantium's defeat and later recovery, the defeat of the Meccan opposition, the failure of attempts to rival the Qur'an, Abu Lahab's death outside the faith, and the preservation of the drowned Pharaoh's body as a sign.
     {: .gloss }
 
-    > [Mind Blowing Prophecies of Muhammad \| Part 1](https://youtu.be/xZIqd_-1Zus)
+    {% include yt-embed.html url="https://youtu.be/xZIqd_-1Zus" title="Mind Blowing Prophecies of Muhammad | Part 1" %}
 
-    > [Mind Blowing Prophecies of Muhammad \| Part 2](https://youtu.be/Q1epfvZ04DQ)
+    {% include yt-embed.html url="https://youtu.be/Q1epfvZ04DQ" title="Mind Blowing Prophecies of Muhammad | Part 2" %}
 
-    > [Undeniable Predictions in the Quran \|\| Mohammed Hijab](https://youtu.be/0PX2t0Baq8U)
+    {% include yt-embed.html url="https://youtu.be/0PX2t0Baq8U" title="Undeniable Predictions in the Quran || Mohammed Hijab" %}
 
-    > [Shocking Predictions in the Sunnah \|\| Mohammed Hijab](https://youtu.be/ezvPEwizqRc)
+    {% include yt-embed.html url="https://youtu.be/ezvPEwizqRc" title="Shocking Predictions in the Sunnah || Mohammed Hijab" %}
 
 ### Historical Impact and Transformation
 
@@ -985,21 +985,21 @@ The reports below share two features: they describe public events, and the audie
 #### Recognition Outside Islam
 
 1. Muslims hold that Jesus **foretold his coming** and that he can be identified in Jewish and other earlier scriptural traditions. A number of non-Muslim scholars have treated these claims as worthy of serious examination.
-    > [Jesus Foretold Muhammad ﷺ](https://youtu.be/EGZ2RibrJtc)
+    {% include yt-embed.html url="https://youtu.be/EGZ2RibrJtc" title="Jesus Foretold Muhammad ﷺ" %}
 
-    > [The Praised One ﷺ in World Scriptures \| Hamza Yusuf](https://youtu.be/OzSyIla5Z-Q)
+    {% include yt-embed.html url="https://youtu.be/OzSyIla5Z-Q" title="The Praised One ﷺ in World Scriptures | Hamza Yusuf" %}
 
-    > [Muhammad ﷺ and the Jews of Arabia](https://youtu.be/i0vl0vAyeoo)
+    {% include yt-embed.html url="https://youtu.be/i0vl0vAyeoo" title="Muhammad ﷺ and the Jews of Arabia" %}
 
-    > [The Jews of Medina were expecting a Prophet](https://youtu.be/Z4pm2fSYhCI)
+    {% include yt-embed.html url="https://youtu.be/Z4pm2fSYhCI" title="The Jews of Medina were expecting a Prophet" %}
 
-    > [Muhammad ﷺ in Song of Solomon](https://youtu.be/rk1S_Ovt5Ms)
+    {% include yt-embed.html url="https://youtu.be/rk1S_Ovt5Ms" title="Muhammad ﷺ in Song of Solomon" %}
 1. His message stands in **direct continuity** with that of Moses and Jesus: worship of one God, moral accountability, and righteous conduct. The Qur'an presents his mission as a **restoration** of the same message rather than the foundation of a new religion, preserving its central beliefs and ethical demands across different times and places.
-    > [Moses, Jesus & Muhammad: Three Brothers in Faith \| Ustadh Dr. Ali Ataie](https://youtu.be/_DnP0wxvnH4)
+    {% include yt-embed.html url="https://youtu.be/_DnP0wxvnH4" title="Moses, Jesus & Muhammad: Three Brothers in Faith | Ustadh Dr. Ali Ataie" %}
 
-    > [Muhammad ﷺ the Prophet like Moses](https://youtu.be/RRlhH3_iedU)
+    {% include yt-embed.html url="https://youtu.be/RRlhH3_iedU" title="Muhammad ﷺ the Prophet like Moses" %}
 
-    > [Similarities in the Abrahamic Tradition \| Ustadh Dr. Ali Ataie (Interfaith Dialogue)](https://youtu.be/vVGiHoPZa0A)
+    {% include yt-embed.html url="https://youtu.be/vVGiHoPZa0A" title="Similarities in the Abrahamic Tradition | Ustadh Dr. Ali Ataie (Interfaith Dialogue)" %}
 1. Writers with no religious commitment to Islam have also ranked him among the **most influential figures in human history**.
     > [The 100: A Ranking of the Most Influential Persons in History](https://en.wikipedia.org/wiki/The_100:_A_Ranking_of_the_Most_Influential_Persons_in_History)
 
@@ -1007,9 +1007,9 @@ The reports below share two features: they describe public events, and the audie
 
     > [What Non-Muslims Say About Muhammad ﷺ](https://al-islam.org/articles/personalities-what-non-muslims-say-about-muhammad-prophet-islam)
 1. Some **Christian and Jewish scholars** have concluded that he is better understood as an authentic prophet than as an impostor or visionary.
-    > [Keith Ward: Top Christian scholars affirm that Prophet Muhammad ﷺ was an authentic prophet of God (Youtube Short)](https://youtube.com/shorts/Zoz0q-vp7UU)
+    {% include yt-embed.html url="https://youtube.com/shorts/Zoz0q-vp7UU" title="Keith Ward: Top Christian scholars affirm that Prophet Muhammad ﷺ was an authentic prophet of God (Youtube Short)" %}
 
-    > [Reverend Professor Keith Ward on Blogging Theology](https://www.youtube.com/live/ftRsC_2sjg8)
+    {% include yt-embed.html url="https://www.youtube.com/live/ftRsC_2sjg8" title="Reverend Professor Keith Ward on Blogging Theology" %}
 1. **W. Montgomery Watt**, a non-Muslim historian of Islam who did not write uncritically, stated the problem directly.
     > "His readiness to undergo persecution for his beliefs, the high moral character of the men who believed in him and looked up to him as leader, and the greatness of his ultimate achievement — all argue his fundamental integrity. To suppose Muhammad an impostor raises more problems than it solves."
     {: .quote }
@@ -1062,9 +1062,9 @@ The more fully his life is examined, the more difficult it becomes to explain by
 - A comprehensive free book on the miraculous nature of the Qur'an:
     > [A Journey Through The Miraculous Qur’an](https://onereason.org/eternalchallenge/)
 - Further videos on the miraculous nature of the Qur'an:
-    > [Marvels of the Qur'an \| Dr. Ali Ataie](https://youtu.be/9gJWIGLJhHM)
+    {% include yt-embed.html url="https://youtu.be/9gJWIGLJhHM" title="Marvels of the Qur'an | Dr. Ali Ataie" %}
 
-    > [Conquering Doubts & Confidently Defending Islam \| Ali Ataie](https://youtu.be/_HlpfgaDATU)
+    {% include yt-embed.html url="https://youtu.be/_HlpfgaDATU" title="Conquering Doubts & Confidently Defending Islam | Ali Ataie" %}
 
 - [Evidences for the truth of Islam \| Mohammed Hijab (Website)](https://mohammedhijab.com/articles/evidences-for-the-truth-of-islam/)
 - [Truthfulness of the Prophet (Youtube Short)](https://youtube.com/shorts/HcViZkHoxK0)
@@ -1073,28 +1073,28 @@ The more fully his life is examined, the more difficult it becomes to explain by
 ## Common Questions
 
 - Why believe?
-    > [Conquering Doubts & Confidently Defending Islam \| Ali Ataie](https://youtu.be/_HlpfgaDATU)
+    {% include yt-embed.html url="https://youtu.be/_HlpfgaDATU" title="Conquering Doubts & Confidently Defending Islam | Ali Ataie" %}
 
-    > [Millenials are returning to God - Here's why \| Blogging Theology](https://youtu.be/VjIL0Gio4yA)
+    {% include yt-embed.html url="https://youtu.be/VjIL0Gio4yA" title="Millenials are returning to God - Here's why | Blogging Theology" %}
 
 - Are love and mercy really Islam's central message?
-    > [The Power of Love \| Al-Habib Ali Al-Jifri](https://youtu.be/KQFrovc_1G0) (turn on English captions)
+    {% include yt-embed.html url="https://youtu.be/KQFrovc_1G0" title="The Power of Love | Al-Habib Ali Al-Jifri" note="turn on English captions" %}
 
-    > [Love & Faith \| Al-Habib Ali Al-Jifri](https://youtu.be/TD3jqd-YWec)
+    {% include yt-embed.html url="https://youtu.be/TD3jqd-YWec" title="Love & Faith | Al-Habib Ali Al-Jifri" %}
 
 - Is Shari'ah law as cruel as Western media portrays it?
-    > [What the West Needs to Know About the Shari'ah \| Blogging Theology](https://youtu.be/AHOH_t03sIc)
+    {% include yt-embed.html url="https://youtu.be/AHOH_t03sIc" title="What the West Needs to Know About the Shari'ah | Blogging Theology" %}
 
 - Is the Qur'an really preserved as it was revealed?
-    > [The Most DIRECT Proof That The Qur'an is From Allah \| Arabic101](https://youtu.be/4l7pbX5J8Lg)
+    {% include yt-embed.html url="https://youtu.be/4l7pbX5J8Lg" title="The Most DIRECT Proof That The Qur'an is From Allah | Arabic101" %}
 
-    > [Has the Qur'an been reliably preserved? \| Blogging Theology](https://youtu.be/WKlSJa-ZnJQ)
+    {% include yt-embed.html url="https://youtu.be/WKlSJa-ZnJQ" title="Has the Qur'an been reliably preserved? | Blogging Theology" %}
 
-    > [The Book Without Doubt](https://youtu.be/WL2hDhkYoao)
+    {% include yt-embed.html url="https://youtu.be/WL2hDhkYoao" title="The Book Without Doubt" %}
 
-    > [There are No Holes in the Qur'anic Narrative \| Dr. Ali Ataie](https://youtu.be/zbM7qpBe5DM)
+    {% include yt-embed.html url="https://youtu.be/zbM7qpBe5DM" title="There are No Holes in the Qur'anic Narrative | Dr. Ali Ataie" %}
 
-    > [How To Prove The Qur'an Has Been Preserved Accurately](https://youtu.be/n281Zyywyn4)
+    {% include yt-embed.html url="https://youtu.be/n281Zyywyn4" title="How To Prove The Qur'an Has Been Preserved Accurately" %}
 
 - How were the Prophet's ﷺ own life and sayings preserved?
     > [How the Record Was Kept](#how-the-record-was-kept) — the chains of transmission, narrator biographies, report grading, and published catalogues of forgeries
@@ -1102,13 +1102,13 @@ The more fully his life is examined, the more difficult it becomes to explain by
     > [Blind Spots: The Origins of the Western Method of Critiquing Hadith \| Dr. Jonathan Brown](https://yaqeeninstitute.org/read/paper/blind-spots-the-origins-of-the-western-method-of-critiquing-hadith)
 
 - Did Prophet Muhammad ﷺ really exist?
-    > [Did Muhammad ﷺ really exist? \| Blogging Theology](https://youtu.be/_mZgSIlX20U)
+    {% include yt-embed.html url="https://youtu.be/_mZgSIlX20U" title="Did Muhammad ﷺ really exist? | Blogging Theology" %}
 
 - Was Prophet Muhammad ﷺ mentioned in previous religions?
-    > [The Praised One ﷺ in World Scriptures \| Hamza Yusuf](https://youtu.be/OzSyIla5Z-Q)
+    {% include yt-embed.html url="https://youtu.be/OzSyIla5Z-Q" title="The Praised One ﷺ in World Scriptures | Hamza Yusuf" %}
 
 - How can the Qur'an be a miracle for non-Arabic speakers?
-    > [How can the Qur'an be a Miracle for NON-ARABIC Speakers? \| Arabic101](https://youtu.be/5fyF-35naDE)
+    {% include yt-embed.html url="https://youtu.be/5fyF-35naDE" title="How can the Qur'an be a Miracle for NON-ARABIC Speakers? | Arabic101" %}
 
 ## Misconceptions About Islam
 

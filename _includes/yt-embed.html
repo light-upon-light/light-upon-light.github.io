@@ -1,0 +1,26 @@
+{%- comment -%}
+  Collapsible YouTube reference, closed by default. Usage:
+
+    {% include yt-embed.html url="https://youtu.be/abzZL_3Av2E" title="Linguistic Miracle of the Qur'an" %}
+
+  `note` is optional, appended after the title in parens (e.g. "turn on
+  English captions"). Works with any youtu.be/ID, youtube.com/watch?v=ID,
+  youtube.com/shorts/ID, or youtube.com/live/ID URL -- not a playlist URL,
+  since there is no single video ID to embed; link those normally instead.
+
+  The video ID is just the URL's last path segment once the query string is
+  stripped, which holds for every one of those forms alike.
+
+  Emitted as ONE line. kramdown auto-detects a raw HTML block only when it
+  can cleanly parse the tag structure at the surrounding indentation --
+  nested inside a list item (4-space indent, same as every existing call
+  site), a multi-line <details>...</details> gets split apart: the closing
+  tag ends up outside the <ol>, and the inner markup after it free-floats
+  and even trips kramdown's fenced-code-block detection on the literal
+  "<details ...>" text. See _pages/quran.md and grep the built _site for
+  "highlighter-rouge" near "yt-embed" if this regresses. The single-line
+  form is the same trick .quran-arabic's <div> already relies on.
+{%- endcomment -%}
+{%- assign yt_clean_url = include.url | split: "?" | first -%}
+{%- assign yt_id = yt_clean_url | split: "/" | last -%}
+<details class="yt-embed"><summary>Watch: {{ include.title }}{% if include.note %} <span class="yt-embed__note">({{ include.note }})</span>{% endif %}</summary><div class="yt-embed__frame"><iframe src="https://www.youtube-nocookie.com/embed/{{ yt_id }}" title="{{ include.title | escape }}" loading="lazy" referrerpolicy="strict-origin-when-cross-origin" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div></details>
