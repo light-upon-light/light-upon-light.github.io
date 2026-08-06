@@ -6,7 +6,8 @@ general:
 - manual edits to pages. (restructure args, remove stuff, add stuff from prev commits that got removed by edits, let claude compare with prev versions or other articles and add pieces that could strengthen argument)
 - then re bold everything
 
-- clarify quote usage in site: separate quotes into quran verses, hadith, pure numerical references, and normal quotes
+- clarify quote usage in site: separate quotes into gold for quran, hadith and sira direct quotations. The brown one for pure references, The green one for anything that has commentary / prose, and normal quotes for links
+
 - quran arabic sometimes puts the meem 3alama when it's not present int he original text. example tawbah verse 29 in jizya.
 - outline of buttons still appears sometimes on desktop
 - embed youtube links in collapsible boxes
