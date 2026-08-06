@@ -851,6 +851,18 @@
 
       if (iframe) return; // already mounted; a re-open with no close between
 
+      /* One player at a time, enforced -- <details> elements are otherwise
+         independent, so nothing stops a reader opening box after box and
+         rebuilding the same pile of live players that killed the tab in the
+         first place. Worse, in fact: these are fully loaded, several MB
+         each, where the originals were idle. Closing the others sets .open,
+         which re-enters this handler for them and takes the teardown branch
+         above, so there is exactly one mount path and one unmount path. */
+      var open = document.querySelectorAll("details.yt-embed[open]");
+      for (var i = 0; i < open.length; i++) {
+        if (open[i] !== details) open[i].open = false;
+      }
+
       var id = details.getAttribute("data-yt-id");
       if (!id) return; // no ID parsed -- leave the fallback link in place
 
