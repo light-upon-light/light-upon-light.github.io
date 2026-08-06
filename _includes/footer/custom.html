@@ -21,6 +21,21 @@
      `.active` highlight, which is bound to the original node. -->
 
 <div id="floating-nav">
+  <!-- Bare chevrons, no stem -- deliberately distinct from #back-to-top's
+       full arrow-with-stem below, since both point roughly the same
+       direction and would otherwise be hard to tell apart at a glance. -->
+  <button id="prev-section" type="button" aria-label="Previous section" title="Previous section">
+    <svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true" focusable="false">
+      <path d="M5 14 L12 7 L19 14" fill="none" stroke="currentColor"
+            stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" />
+    </svg>
+  </button>
+  <button id="next-section" type="button" aria-label="Next section" title="Next section">
+    <svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true" focusable="false">
+      <path d="M5 10 L12 17 L19 10" fill="none" stroke="currentColor"
+            stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" />
+    </svg>
+  </button>
   <button id="toc-toggle" type="button" aria-expanded="false" aria-label="Table of contents" title="Table of contents">
     <svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true" focusable="false">
       <path d="M4 6.5h16 M4 12h16 M4 17.5h16" fill="none" stroke="currentColor"
@@ -90,9 +105,28 @@
     cursor: pointer;
   }
 
-  /* pages without a TOC (home, about) keep only the back-to-top button */
-  #floating-nav.no-toc #toc-toggle {
+  /* Plain HTML added by this repo, not part of the theme's compiled CSS --
+     so it never picked up the theme's own :focus-visible-gated ring and
+     instead shows the browser's raw UA outline on ANY focus, including a
+     mobile tap (reliably, on the round toc-toggle button in particular).
+     :not(:focus-visible) keeps the ring for real keyboard navigation and
+     drops it everywhere else. .toc__toggle and #toc-close get the same
+     treatment further down, for the same reason. */
+  #floating-nav button:focus:not(:focus-visible) {
+    outline: none;
+  }
+
+  /* pages without a TOC (home, about) keep only the back-to-top button --
+     there are no sections to navigate between either */
+  #floating-nav.no-toc #toc-toggle,
+  #floating-nav.no-toc #prev-section,
+  #floating-nav.no-toc #next-section {
     display: none;
+  }
+
+  #floating-nav button:disabled {
+    opacity: 0.35;
+    cursor: default;
   }
 
   /* ------------------------------------------------------------------
@@ -212,6 +246,10 @@
     cursor: pointer;
   }
 
+  #toc-close:focus:not(:focus-visible) {
+    outline: none;
+  }
+
   /* $large — from here up the sticky sidebar is on screen and all of this
      is redundant */
   @media (min-width: 64em) {
@@ -281,6 +319,10 @@
     cursor: pointer;
   }
 
+  .toc__toggle:focus:not(:focus-visible) {
+    outline: none;
+  }
+
   .toc__toggle svg {
     transition: transform 0.2s ease;
   }
@@ -303,6 +345,18 @@
     color: #3d4144;
   }
 
+  /* The theme puts `transition: 0.2s ease-in-out` on bare `a` (among other
+     elements) but not on a plain `<button>` -- so on activate/deactivate,
+     `.toc__toggle`'s colour snaps instantly while the row's own <a> fades
+     over 200ms, and the two visibly fall out of sync ("the toggle loses
+     its highlight before the text" in one direction, or lags behind it in
+     the other). Forcing both to snap together is more consistent for a
+     scrollspy highlight than a lingering fade. */
+  .toc__menu a,
+  .toc__toggle {
+    transition: none;
+  }
+
   /* Any depth, not just `.toc__menu > li` -- the h3 groups collapse too. */
   .toc li.is-collapsed > .toc__heading-row .toc__toggle svg {
     transform: rotate(-90deg);
@@ -321,6 +375,8 @@
     var backdrop = document.getElementById("toc-backdrop");
     var topBtn = document.getElementById("back-to-top");
     var tocBtn = document.getElementById("toc-toggle");
+    var prevBtn = document.getElementById("prev-section");
+    var nextBtn = document.getElementById("next-section");
     if (!nav) return;
 
     var body = document.body;
@@ -473,15 +529,87 @@
 
     if (sourceToc) makeCollapsible(sourceToc);
 
+    /* Flat, document-order list of every TOC link at every heading level --
+       what #prev-section / #next-section below step through. querySelectorAll
+       walks the tree in document order regardless of nesting, so this is
+       already h2/h3/h4 interleaved correctly without any manual sorting. */
+    var tocLinks = sourceToc
+      ? Array.prototype.slice.call(sourceToc.querySelectorAll(".toc__menu a[href]"))
+      : [];
+    var activeIndex = -1;
+
+    function updateSectionButtons() {
+      if (!prevBtn || !nextBtn) return;
+      prevBtn.disabled = activeIndex <= 0;
+      nextBtn.disabled = activeIndex !== -1 && activeIndex >= tocLinks.length - 1;
+    }
+
+    /* $large -- below this, sourceToc is not the sticky sidebar but an
+       inline block sitting in normal document flow near the top of the
+       article. Its own height participates in page layout there, so
+       collapsing/expanding it while the reader is scrolled well past it
+       shifts every line below by the height delta: a visible jump that
+       fights the reader's own momentum scroll, worst exactly when a
+       heading crosses the activation threshold. The sticky sidebar is a
+       separate column at $large and up, so its height changes don't move
+       the article -- auto-expand is safe there and left as is. */
+    var isSidebarLayout = window.matchMedia("(min-width: 64em)");
+
     /* Registered before scripts.html loads main.min.js further down the
        page, so this is in place before the theme's own Gumshoe init runs
        its first, synchronous detect() -- the event this listens for is not
-       missed on initial load. */
+       missed on initial load.
+
+       The theme's own smoothScroll plugin animates every `a[href*="#"]`
+       click over up to ~500ms (durationMax), and Gumshoe re-runs detect() on
+       every intermediate scroll frame of that animation -- so a single TOC
+       jump activates every heading it passes on the way, each one
+       synchronously opening and closing its collapsible group as the
+       animation flies past it. Debouncing expandActiveSection (not the
+       activeIndex/button update above, which is cheap and fine to track
+       live) means only the *final*, settled heading actually restructures
+       the DOM -- 180ms of quiet after the last activation is comfortably
+       past any real jump. Below $large the call is skipped entirely; see
+       isSidebarLayout above. A reader can still open any section by hand --
+       only the automatic follow-the-scroll behaviour is disabled. */
+    var expandTimer = null;
     if (sourceToc) {
       document.addEventListener("gumshoeActivate", function (e) {
-        expandActiveSection(sourceToc, e.detail && e.detail.link);
+        var link = e.detail && e.detail.link;
+        activeIndex = tocLinks.indexOf(link);
+        updateSectionButtons();
+
+        if (!isSidebarLayout.matches) return;
+
+        window.clearTimeout(expandTimer);
+        expandTimer = window.setTimeout(function () {
+          expandActiveSection(sourceToc, link);
+        }, 180);
       });
     }
+
+    /* --- prev / next section: step through the same flat link list,
+       reusing whichever link the reader would have clicked in the TOC
+       itself, so the jump goes through the theme's own smoothScroll plugin
+       and the debounce above exactly as a TOC click would. */
+    function goToSection(index) {
+      if (index < 0 || index >= tocLinks.length) return;
+      tocLinks[index].click();
+    }
+
+    if (prevBtn) {
+      prevBtn.addEventListener("click", function () {
+        if (activeIndex > 0) goToSection(activeIndex - 1);
+      });
+    }
+    if (nextBtn) {
+      nextBtn.addEventListener("click", function () {
+        if (activeIndex === -1) goToSection(0);
+        else if (activeIndex < tocLinks.length - 1) goToSection(activeIndex + 1);
+      });
+    }
+
+    updateSectionButtons();
 
     /* --- build the panel from a clone; the page's own TOC is never touched --- */
 
@@ -549,9 +677,18 @@
     var shown = false;
     var ticking = false;
 
+    /* Hysteresis, not a single threshold: a bare `y > innerHeight` flips
+       back and forth (each flip replaying the 0.2s show/hide transition)
+       whenever the scroll position sits near that line -- iOS rubber-band
+       overshoot, or `innerHeight` itself changing as the address bar
+       collapses. Shown state needs to climb past a full viewport height to
+       appear, but only has to drop back below 80% of one to disappear,
+       leaving a dead zone in between where neither edge re-triggers it. */
     function update() {
       ticking = false;
-      var should = window.pageYOffset > window.innerHeight;
+      var y = window.pageYOffset;
+      var threshold = window.innerHeight * (shown ? 0.8 : 1);
+      var should = y > threshold;
       if (should !== shown) {
         shown = should;
         nav.classList.toggle("is-visible", shown);
