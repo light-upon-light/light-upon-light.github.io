@@ -466,25 +466,31 @@
   /* 16:9 responsive frame -- the classic padding-bottom hack, since aspect-
      ratio support is not needed anywhere else on the site yet. Gated on the
      class rather than `:has(iframe)` so the rule lands in the same tick as
-     the injected element, with no dependence on :has support. */
-  /* The growth is animated because the player is mounted on open rather
-     than shipped with the page: without this the box snaps from a one-line
-     link to a viewport-wide 16:9 rectangle in a single frame, throwing
-     everything below it down the page. Animating padding-bottom (not
-     height, which is pinned at 0 by the hack above) is what actually moves
-     layout -- an opacity fade alone would leave the jump untouched.
+     the injected element, with no dependence on :has support.
+
+     The growth is animated because the box's contents are built on open
+     rather than shipped with the page: without this it snaps from a
+     one-line link to a viewport-wide 16:9 rectangle in a single frame,
+     throwing everything below it down the page. Animating padding-bottom
+     (not height, which is pinned at 0 by the hack above) is what actually
+     moves layout -- an opacity fade alone would leave the jump untouched.
 
      Doing it as an animation rather than a transition is deliberate: the
-     class lands in the same tick as the injected iframe, so a transition
+     class lands in the same tick as the injected poster, so a transition
      would have no earlier value to start from and would need a JS
      requestAnimationFrame dance in footer/custom.html. `both` holds the
      final frame, and the declared padding-bottom below is the same value,
-     so the box is correct with or without animation support. */
+     so the box is correct with or without animation support.
+
+     The background is the poster's own near-black rather than a tint of
+     the page, so that any sliver visible around the poster -- or behind
+     the player once the poster has gone -- is dark. Dark in both skins by
+     construction, so assets/css/dark.scss carries no counterpart. */
   .yt-embed__frame.is-loaded {
     position: relative;
     height: 0;
     padding-bottom: 56.25%;
-    background-color: rgba(161, 147, 124, 0.14);
+    background-color: #1e1b18;
     animation: yt-embed-open 0.28s ease-out both;
   }
 
@@ -501,35 +507,99 @@
     display: none;
   }
 
-  /* Fades over the placeholder wash above while YouTube paints, so the box
-     never flashes white. Timed, NOT gated on the iframe's load event: if
-     the request is slow, blocked by a content blocker, or fails outright,
-     a load-gated player would sit invisible forever and read as broken. */
   .yt-embed__frame iframe {
     position: absolute;
     inset: 0;
     width: 100%;
     height: 100%;
     border: 0;
-    animation: yt-embed-fade 0.4s ease-out both;
   }
 
-  @keyframes yt-embed-fade {
+  /* The poster: a local stand-in for the player, drawn here rather than
+     fetched, so opening a box touches no third party at all and cannot
+     flash. Opening used to mount the real player, and what a reader saw
+     was YouTube's own document painting -- white, then the black stage,
+     then the video. That is inside a cross-origin frame: no CSS or JS here
+     can style it, and no event says when it has painted. The only fix is
+     not to have a player there yet.
+
+     Sits above the iframe (which the click handler inserts underneath) and
+     covers it while YouTube loads. */
+  .yt-embed__poster {
+    position: absolute;
+    inset: 0;
+    z-index: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 0.75em;
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 1em;
+    border: 0;
+    background-color: #1e1b18;
+    color: #e8dcc8;
+    font-size: 0.85em;
+    line-height: 1.35;
+    text-align: center;
+    cursor: pointer;
+  }
+
+  /* A lighter tint of the skin's gold. NOT the #a8792a of blockquote.quote
+     -- that gold means "revealed text" and should not leak onto a control;
+     this is the same hue lifted for contrast on a near-black panel. */
+  .yt-embed__poster::before {
+    content: "";
+    display: block;
+    width: 0;
+    height: 0;
+    border-style: solid;
+    border-width: 0.9em 0 0.9em 1.5em;
+    border-color: transparent transparent transparent #c9973a;
+    transition: transform 0.15s ease;
+  }
+
+  .yt-embed__poster:hover::before,
+  .yt-embed__poster:focus-visible::before {
+    transform: scale(1.12);
+  }
+
+  /* Fades out over the loading player rather than being torn out from in
+     front of it. The delay is deliberately generous: too short and a slow
+     connection crossfades into the very white this exists to hide, while
+     too long costs nothing a reader would notice. `both` holds it
+     transparent, and pointer-events go with the paint so the faded poster
+     cannot swallow clicks meant for the player. */
+  .yt-embed__poster.is-dismissed {
+    pointer-events: none;
+    animation: yt-embed-poster-out 0.45s ease-in 0.7s both;
+  }
+
+  @keyframes yt-embed-poster-out {
     from {
-      opacity: 0;
-    }
-    to {
       opacity: 1;
     }
+    to {
+      opacity: 0;
+    }
   }
 
-  /* Both animations are pure decoration -- the fill state is what the plain
-     rules already declare, so switching them off changes nothing but the
-     motion. */
+  /* All three animations are pure decoration -- the fill state is what the
+     plain rules already declare, so switching them off changes nothing but
+     the motion. The poster must still end up transparent, or a reader with
+     reduced motion gets a panel stuck over a playing video. */
   @media (prefers-reduced-motion: reduce) {
     .yt-embed__frame.is-loaded,
-    .yt-embed__frame iframe {
+    .yt-embed__poster::before {
       animation: none;
+      transition: none;
+    }
+
+    .yt-embed__poster.is-dismissed {
+      animation: none;
+      opacity: 0;
     }
   }
 
