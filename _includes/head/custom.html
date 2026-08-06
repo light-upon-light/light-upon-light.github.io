@@ -463,6 +463,19 @@
     margin-block: 0.5em;
   }
 
+  /* An opened box between the browser showing it and the script filling it
+     -- see the `yt-embed-js` note in footer/custom.html. Collapsed to
+     nothing, margins included, so it hands over to the growth animation's
+     first frame at exactly the same height and the page never twitches.
+     Gated on the class, so a reader without JS keeps the plain link that
+     is all they have. */
+  .yt-embed-js .yt-embed[open] .yt-embed__frame:not(.is-loaded) {
+    height: 0;
+    margin-block: 0;
+    padding-bottom: 0;
+    overflow: hidden;
+  }
+
   /* 16:9 responsive frame -- the classic padding-bottom hack, since aspect-
      ratio support is not needed anywhere else on the site yet. Gated on the
      class rather than `:has(iframe)` so the rule lands in the same tick as
@@ -495,11 +508,17 @@
     animation: yt-embed-open 0.28s ease-out both;
   }
 
+  /* Margins ride along with the padding. They are only 0.5em each, but a
+     box that grows smoothly from a standing start of 1em still starts with
+     a visible step, and in a swap the step is only invisible because the
+     other box happens to take it at the same moment. */
   @keyframes yt-embed-open {
     from {
+      margin-block: 0;
       padding-bottom: 0;
     }
     to {
+      margin-block: 0.5em;
       padding-bottom: 56.25%;
     }
   }
@@ -521,9 +540,11 @@
 
   @keyframes yt-embed-close {
     from {
+      margin-block: 0.5em;
       padding-bottom: 56.25%;
     }
     to {
+      margin-block: 0;
       padding-bottom: 0;
     }
   }
