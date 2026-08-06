@@ -11,10 +11,18 @@
   The video ID is just the URL's last path segment once the query string is
   stripped, which holds for every one of those forms alike.
 
-  NO <iframe> IS EMITTED HERE. The video ID rides on `data-yt-id` and the
-  frame is built by the script in _includes/footer/custom.html on first
-  open, then torn down again on close. This is not an optimisation -- it is
-  the whole reason the page survives on a phone.
+  NO <iframe> IS EMITTED HERE. The video ID rides on `data-yt-id`. Opening
+  a box builds a local poster -- a dark panel with a play control, drawn in
+  CSS, fetching nothing -- and only a click on that poster builds a real
+  player, which is torn down again on close. Both steps live in the script
+  in _includes/footer/custom.html. This is not an optimisation; it is the
+  whole reason the page survives on a phone.
+
+  The poster is also what stops the box flashing as it opens. Mounting the
+  player on open meant the reader watched YouTube's own document paint --
+  white, then the black stage, then the video -- and that is inside a
+  cross-origin frame, so nothing here can style it and no event says when
+  it has painted. Not having a player there yet is the only fix.
 
   The obvious markup -- a real <iframe loading="lazy"> inside the closed
   <details> -- rests on an edge case the HTML standard does not actually
@@ -46,10 +54,14 @@
   Keep the count in the document at zero, and never more than one live at a
   time. If this ever grows a "leave the iframe mounted on close" shortcut,
   a reader who opens twenty boxes in sequence walks straight back into the
-  same crash.
+  same crash. The one-at-a-time rule is enforced on play rather than on
+  open, since an open box now costs only a poster; twenty posters are
+  twenty divs, where twenty players were the crash.
 
   The <a> inside the frame is the no-JS fallback, hidden by CSS once the
-  script has swapped a real player in. Deliberately a bare href with no
+  script has put a poster in. Teardown removes the poster and player
+  specifically, rather than emptying the frame, so this link survives with
+  its original href. Deliberately a bare href with no
   target or rel: it is the only path a reader without JS takes, and it
   should behave exactly like the plain markdown links these boxes replaced
   (and like the playlist link in quran.md that stayed plain).

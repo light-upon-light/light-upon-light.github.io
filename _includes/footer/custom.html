@@ -815,9 +815,17 @@
 
      The include deliberately ships no <iframe> at all; see the long comment
      at the top of it for why (49 of them, even collapsed and never loaded,
-     killed the web process on iOS). This builds one on open and destroys it
-     on close, so the document holds zero iframes at rest and at most one
-     while a reader is watching.
+     killed the web process on iOS). Opening a box builds a local poster --
+     no iframe, no network -- and only a click on that poster builds a real
+     player, which is torn down again on close. So the document holds zero
+     iframes at rest and at most one while a reader is watching, and now a
+     player exists only for a video someone actually chose to watch.
+
+     Opening used to mount the player directly, and the reader watched
+     YouTube's own document paint: white, then the black stage, then the
+     video. Nothing on this side can prevent that -- it is a cross-origin
+     document, unstylable, with no event that fires when it has painted.
+     The poster is the fix: there is no player there to flash.
 
      Delegated from the document with `capture: true`, which is load-bearing:
      `toggle` is a non-bubbling event, so a plain document-level listener
@@ -837,44 +845,72 @@
       var frame = details.querySelector(".yt-embed__frame");
       if (!frame) return;
 
-      var iframe = frame.querySelector("iframe");
-
       if (!details.open) {
         /* Teardown is the point of the exercise, not tidiness: leaving the
            players mounted lets a reader who works down the page rebuild the
            exact pile of iframes this whole approach exists to avoid. It also
-           stops the audio, which a reader closing the box plainly wants. */
-        if (iframe) iframe.remove();
+           stops the audio, which a reader closing the box plainly wants.
+           The poster goes with it, so a re-opened box starts from the
+           poster again rather than from a half-dismissed one. Removing
+           exactly the two injected elements, rather than emptying the
+           frame, is what leaves the include's own fallback <a> in place
+           with its original href. */
+        var mounted = frame.querySelectorAll("iframe, .yt-embed__poster");
+        for (var j = 0; j < mounted.length; j++) mounted[j].remove();
         frame.classList.remove("is-loaded");
         return;
       }
 
-      if (iframe) return; // already mounted; a re-open with no close between
-
-      /* One player at a time, enforced -- <details> elements are otherwise
-         independent, so nothing stops a reader opening box after box and
-         rebuilding the same pile of live players that killed the tab in the
-         first place. Worse, in fact: these are fully loaded, several MB
-         each, where the originals were idle. Closing the others sets .open,
-         which re-enters this handler for them and takes the teardown branch
-         above, so there is exactly one mount path and one unmount path. */
-      var open = document.querySelectorAll("details.yt-embed[open]");
-      for (var i = 0; i < open.length; i++) {
-        if (open[i] !== details) open[i].open = false;
-      }
+      if (frame.querySelector(".yt-embed__poster")) return; // already built
 
       var id = details.getAttribute("data-yt-id");
       if (!id) return; // no ID parsed -- leave the fallback link in place
 
-      iframe = document.createElement("iframe");
-      iframe.src = "https://www.youtube-nocookie.com/embed/" + encodeURIComponent(id);
-      iframe.title = details.getAttribute("data-yt-title") || "YouTube video";
-      iframe.referrerPolicy = "strict-origin-when-cross-origin";
-      iframe.allow = PLAYER_ALLOW;
-      iframe.allowFullscreen = true;
-      iframe.setAttribute("frameborder", "0");
+      var title = details.getAttribute("data-yt-title") || "YouTube video";
 
-      frame.appendChild(iframe);
+      var poster = document.createElement("button");
+      poster.type = "button";
+      poster.className = "yt-embed__poster";
+      poster.setAttribute("aria-label", "Play: " + title);
+      poster.appendChild(document.createTextNode(title));
+
+      poster.addEventListener("click", function () {
+        if (frame.querySelector("iframe")) return;
+
+        /* One player at a time, enforced -- and enforced HERE, on play,
+           rather than in the toggle handler where it used to sit. That is
+           not a relaxation: opening a box now costs a poster, which is
+           local DOM with no nested browsing context, so the invariant that
+           mattered (at most one iframe, zero at rest) is unchanged and in
+           fact tighter than before, since a box that is merely opened no
+           longer loads anything. Closing the others sets .open, which
+           re-enters the toggle handler and takes the teardown branch. */
+        var open = document.querySelectorAll("details.yt-embed[open]");
+        for (var i = 0; i < open.length; i++) {
+          if (open[i] !== details) open[i].open = false;
+        }
+
+        /* autoplay=1 is safe only because this runs inside a real click:
+           the activation is what lets the delegated permission take. The
+           same mount from the toggle handler would be blocked, and the
+           reader would face a paused player they have to click again. */
+        var iframe = document.createElement("iframe");
+        iframe.src = "https://www.youtube-nocookie.com/embed/" +
+          encodeURIComponent(id) + "?autoplay=1";
+        iframe.title = title;
+        iframe.referrerPolicy = "strict-origin-when-cross-origin";
+        iframe.allow = PLAYER_ALLOW;
+        iframe.allowFullscreen = true;
+        iframe.setAttribute("frameborder", "0");
+
+        /* Underneath the poster, which then fades rather than being torn
+           away, so the player's white-then-black load happens behind an
+           opaque panel. */
+        frame.insertBefore(iframe, poster);
+        poster.classList.add("is-dismissed");
+      });
+
+      frame.appendChild(poster);
       frame.classList.add("is-loaded");
     }, true);
   })();
