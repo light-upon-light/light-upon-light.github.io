@@ -198,3 +198,13 @@ body .toc .active > .toc__heading-row a,
 body .toc .active > .toc__heading-row .toc__toggle {
   color: #fff;
 }
+
+/* Dark counterpart of the nested-link bleed fix in head/custom.html -- see
+   the comment there. $muted-text-color, matching .toc__menu a's own dark
+   color. This selector already outranks the theme's rule on specificity
+   (no `body` prefix needed), but included here to sit beside the fix it
+   depends on. */
+.toc .active ul a {
+  background-color: transparent;
+  color: $muted-text-color;
+}

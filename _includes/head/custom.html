@@ -27,6 +27,14 @@
     color-scheme: light;
   }
 
+  /* WebKit paints a rectangular highlight over the whole tap target on
+     touch, which pokes out past round buttons (#floating-nav, TOC toggle)
+     as a visible box. Cosmetic only -- does not touch the real :focus-visible
+     ring ($focus-color in dark.scss), so keyboard focus stays visible. */
+  html {
+    -webkit-tap-highlight-color: transparent;
+  }
+
   /* Reading type face, replacing the theme's default system-UI sans stack
      for body copy and headings. Deliberately scoped to body + headings, not
      a blanket override: the theme gives nav/masthead/sidebar/buttons/TOC/
@@ -99,6 +107,17 @@
 
   #theme-toggle:hover {
     color: #8e8b82;
+  }
+
+  /* This button (and #floating-nav's, in footer/custom.html) is plain HTML
+     added by this repo, not part of the theme's compiled CSS -- so it never
+     picked up the theme's own :focus-visible-gated ring (built around
+     $focus-color in dark.scss) and instead shows the browser's raw UA
+     outline on ANY focus, including a mobile tap. :not(:focus-visible)
+     keeps that outline for real keyboard navigation and removes it
+     everywhere else. */
+  #theme-toggle:focus:not(:focus-visible) {
+    outline: none;
   }
 
   /* Which icon shows is "what clicking does", not "what mode this is": the sun
@@ -274,6 +293,29 @@
     text-decoration: none;
   }
 
+  /* The theme's own "On this page" title icon (fa-bars) reads as a second,
+     redundant hamburger next to #toc-toggle's. Hiding it is display: none,
+     not visibility, so #toc-panel .nav__title's flex `gap` (added to fill
+     the whitespace the icon used to occupy) collapses to zero along with
+     it -- gap only spaces *visible* flex children. */
+  .page__content .toc .nav__title i,
+  #toc-panel .nav__title i {
+    display: none;
+  }
+
+  /* Nested subsection links inherit the theme's `.toc .active a` rule
+     wherever they are descendants of the currently active <li> -- e.g. an
+     h2's h3 children while the h2 itself is active -- because that rule is
+     a plain descendant selector with no depth limit. That paints a partial,
+     text-width highlight under links that are not actually the active one.
+     Reset just the nested case; the active row's own link is untouched
+     since it never sits inside a `ul` of its own li. Type-selector count
+     (ul + a) beats the theme's rule regardless of source order. */
+  .toc .active ul a {
+    background-color: transparent;
+    color: #8e8b82;
+  }
+
   /* Font-size alone barely moves content-per-screen, since line-height and
      the em-based margins on headings/blockquotes ride along with it
      proportionally rather than compounding. Tightening them independently
@@ -356,6 +398,23 @@
 
   blockquote.gloss > p:last-child {
     margin-bottom: 0;
+  }
+
+  /* Scoped to paragraphs and list items, not the whole .page__content block
+     -- justifying short blockquote citations (.src) produces visibly ragged
+     word-spacing on a couple of lines, and .quran-arabic already sets its
+     own text-align: right. hyphens: auto keeps the narrow phone column from
+     opening large rivers between words.
+
+     :not(.toc *) excludes the TOC -- both the sticky/inline copy, which
+     lives inside .page__content (see the font-size rule above), and the
+     mobile drawer clone, which doesn't but is harmless to exclude too.
+     Justifying nav entries reads as broken, not as prose. */
+  .page__content p:not(.toc *),
+  .page__content li:not(.toc *) {
+    text-align: justify;
+    -webkit-hyphens: auto;
+    hyphens: auto;
   }
 </style>
 
