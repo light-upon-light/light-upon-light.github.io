@@ -840,19 +840,6 @@
 
     var THUMB = "https://i.ytimg.com/vi/";
 
-    /* Strips the player but leaves the poster, restored to its clickable
-       state. Used both when a box closes and when another box starts
-       playing -- the two paths differ only in whether the poster survives,
-       so the shared part lives here. Removing `is-dismissed` re-runs that
-       animation from the start the next time it is added, which is what
-       makes a box replayable. */
-    function unmountPlayer(frame) {
-      var iframe = frame.querySelector("iframe");
-      if (iframe) iframe.remove();
-
-      var poster = frame.querySelector(".yt-embed__poster");
-      if (poster) poster.classList.remove("is-dismissed");
-    }
 
     document.addEventListener("toggle", function (e) {
       var details = e.target;
@@ -871,16 +858,25 @@
            exactly the two injected elements, rather than emptying the
            frame, is what leaves the include's own fallback <a> in place
            with its original href. */
-        unmountPlayer(frame);
-
-        var stale = frame.querySelector(".yt-embed__poster");
-        if (stale) stale.remove();
+        var mounted = frame.querySelectorAll("iframe, .yt-embed__poster");
+        for (var j = 0; j < mounted.length; j++) mounted[j].remove();
 
         frame.classList.remove("is-loaded");
         return;
       }
 
       if (frame.querySelector(".yt-embed__poster")) return; // already built
+
+      /* One box at a time: opening this one closes the rest. <details>
+         elements are otherwise independent, and a reader working down the
+         page would leave a trail of open boxes behind them. Closing sets
+         .open, which re-enters this handler for each and takes the
+         teardown branch above -- so this is also what keeps at most one
+         player alive, since a player can only exist inside an open box. */
+      var open = document.querySelectorAll("details.yt-embed[open]");
+      for (var i = 0; i < open.length; i++) {
+        if (open[i] !== details) open[i].open = false;
+      }
 
       var id = details.getAttribute("data-yt-id");
       if (!id) return; // no ID parsed -- leave the fallback link in place
@@ -925,23 +921,9 @@
       poster.addEventListener("click", function () {
         if (frame.querySelector("iframe")) return;
 
-        /* One player at a time, enforced -- and enforced HERE, on play,
-           rather than in the toggle handler where it used to sit. That is
-           not a relaxation: opening a box now costs a poster, which is
-           local DOM with no nested browsing context, so the invariant that
-           mattered (at most one iframe, zero at rest) is unchanged and in
-           fact tighter than before, since a box that is merely opened no
-           longer loads a player.
-
-           The others are unloaded, not closed. Closing them was correct
-           when opening and playing were the same act, but now it yanks
-           shut boxes the reader deliberately opened; stripping the player
-           and restoring the poster leaves the page where they put it while
-           still keeping exactly one player alive. */
-        var others = document.querySelectorAll("details.yt-embed[open] .yt-embed__frame");
-        for (var i = 0; i < others.length; i++) {
-          if (others[i] !== frame) unmountPlayer(others[i]);
-        }
+        /* No one-player-at-a-time check here: only one box is open at a
+           time (see the toggle handler), so only one poster exists to
+           click, and this is already the only path that builds a player. */
 
         /* autoplay=1 is safe only because this runs inside a real click:
            the activation is what lets the delegated permission take. The
