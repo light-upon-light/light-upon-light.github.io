@@ -490,6 +490,7 @@
     position: relative;
     height: 0;
     padding-bottom: 56.25%;
+    overflow: hidden;
     background-color: #1e1b18;
     animation: yt-embed-open 0.28s ease-out both;
   }
@@ -503,16 +504,46 @@
     }
   }
 
+  /* The mirror of the open, and deliberately not `reverse` of it: the two
+     have to cancel out. When one box is swapped for another, this shrink
+     and that growth run at the same time, and the page only holds still if
+     what one loses the other gains at every instant -- which needs the
+     same duration and the same easing read the same way round, from a
+     `from` of 56.25% rather than a reversed curve.
+
+     The close cannot be done in CSS alone. <details> drops its content the
+     instant `open` clears, leaving nothing to animate, so the script in
+     footer/custom.html intercepts the click, adds this class, and only
+     then lets the box close. */
+  .yt-embed__frame.is-loaded.is-closing {
+    animation: yt-embed-close 0.28s ease-out both;
+  }
+
+  @keyframes yt-embed-close {
+    from {
+      padding-bottom: 56.25%;
+    }
+    to {
+      padding-bottom: 0;
+    }
+  }
+
   .yt-embed__frame.is-loaded > a {
     display: none;
   }
 
+  /* The fade is what softens the player's arrival while it is mounted on
+     open: it comes up out of the frame's near-black rather than slapping
+     a white document over it. It cannot hide that load -- only the poster
+     below does that -- but it takes the edge off. Invisible, and harmless,
+     when USE_POSTER puts an opaque panel on top of it. */
   .yt-embed__frame iframe {
     position: absolute;
     inset: 0;
     width: 100%;
     height: 100%;
     border: 0;
+    animation: yt-embed-fade 0.4s ease-out both;
   }
 
   /* The poster: a stand-in for the player, shown when a box opens. Opening
@@ -658,6 +689,8 @@
      reduced motion gets a panel stuck over a playing video. */
   @media (prefers-reduced-motion: reduce) {
     .yt-embed__frame.is-loaded,
+    .yt-embed__frame.is-loaded.is-closing,
+    .yt-embed__frame iframe,
     .yt-embed__poster-img,
     .yt-embed__poster-play {
       animation: none;
