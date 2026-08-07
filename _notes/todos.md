@@ -6,6 +6,8 @@ general:
 - manual edits to pages. (restructure args, remove stuff, add stuff from prev commits that got removed by edits, let claude compare with prev versions or other articles and add pieces that could strengthen argument)
 - then re bold everything
 
+- add back to top and prev / next section buttons on desktop too
+
 At some point:
 
 - add a brief bullet point summary to pages at the top
