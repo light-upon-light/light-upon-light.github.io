@@ -9,3 +9,4 @@ examples:
 - proper links back to quran
 - (maybe) duplicate the lower sections in quran at end of messenger
 - keep the why alternatives don't explain him section in the current doc + how it was preserved
+- bring back points from original version
