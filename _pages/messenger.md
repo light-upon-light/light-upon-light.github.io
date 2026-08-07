@@ -6,6 +6,8 @@ permalink: /messenger
 
 layout: single
 
+short_title: "The Messenger Muhammad ﷺ"
+
 quran_section: the-messenger-of-god-ﷺ
 quran_section_label: "The Messenger of God ﷺ"
 

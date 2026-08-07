@@ -6,6 +6,8 @@ permalink: /polygyny
 
 layout: single
 
+short_title: "Four Wives"
+
 quran_section: misconceptions-about-islam
 quran_section_label: "Misconceptions About Islam"
 

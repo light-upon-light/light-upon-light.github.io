@@ -2,6 +2,11 @@
 title: "The Qur'an and the Messenger ﷺ: Evidence for Prophethood"
 description: "The Qur'an and the life of Prophet Muhammad, taken together as evidence for his prophethood."
 
+# Standard short-form label for this page, used wherever the full title (with
+# its "Evidence for Prophethood" subtitle) would be too long -- currently the
+# breadcrumb trail on the misconceptions sub-pages (_includes/footer/custom.html).
+short_title: "The Qur'an and the Messenger ﷺ"
+
 permalink: /quran
 
 layout: single

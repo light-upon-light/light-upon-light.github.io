@@ -6,6 +6,8 @@ permalink: /ridda
 
 layout: single
 
+short_title: "Apostasy in Islam"
+
 quran_section: misconceptions-about-islam
 quran_section_label: "Misconceptions About Islam"
 

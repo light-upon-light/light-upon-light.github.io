@@ -6,6 +6,8 @@ permalink: /sword
 
 layout: single
 
+short_title: "Did Islam Spread by the Sword?"
+
 quran_section: misconceptions-about-islam
 quran_section_label: "Misconceptions About Islam"
 

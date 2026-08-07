@@ -1,22 +1,33 @@
 <!-- start custom footer snippets -->
 
 {% if page.quran_section %}
-<!-- Breadcrumb trail (Home / section on quran.md / this page), built here
-     rather than written into the markdown so it is never part of
+<!-- Breadcrumb trail (Home / quran.md / section on quran.md / this page),
+     built here rather than written into the markdown so it is never part of
      .page__content -- Lunr indexes that container verbatim (see
      search_full_content in CLAUDE.md), and a static link there would sit as
      literal page text, becoming the truncated snippet shown for every search
-     hit on this page. Injecting it after #page-title at runtime keeps it
-     visually in the same spot without being indexed. It needs no referrer
-     check: the section a sub-page belongs to is fixed at build time, not a
-     claim about how this particular reader arrived.
+     hit on this page. Injected directly above #page-title at runtime, the
+     conventional breadcrumb position, and kept out of the indexed content in
+     the same move. It needs no referrer check: the section a sub-page
+     belongs to is fixed at build time, not a claim about how this
+     particular reader arrived.
+
+     Each crumb's label is page.short_title where one is set (see quran.md
+     and the sub-pages for examples) -- full page titles here are often long
+     enough ("The Prophet Muhammad's ﷺ Marriage to Aisha: A Historical,
+     Moral, and Islamic Examination") that a breadcrumb built from them
+     wraps and reads poorly. Falls back to the full title where no
+     short_title exists.
 
      The plain return link near the end of the article (back-to-quran.html)
      is a different kind of claim -- "back to where you were" -- so that one
      stays conditional on document.referrer actually being /quran. -->
 <style>
+  /* Sits above #page-title (see the script below), the conventional
+     breadcrumb position -- bottom margin only, so it reads as attached to
+     the title it precedes rather than floating between two things. */
   .quran-breadcrumb {
-    margin: 0.6em 0 1.6em;
+    margin: 0 0 0.6em;
   }
 
   .quran-breadcrumb ol {
@@ -93,11 +104,13 @@
     line-height: 1;
   }
 </style>
+{% assign quran_page = site.pages | where: "permalink", "/quran" | first %}
 <script>
   (function () {
     var quranSection = {{ page.quran_section | jsonify }};
     var quranSectionLabel = {{ page.quran_section_label | jsonify }};
-    var currentTitle = {{ page.title | strip_html | jsonify }};
+    var quranTitle = {{ quran_page.short_title | default: quran_page.title | strip_html | jsonify }};
+    var currentTitle = {{ page.short_title | default: page.title | strip_html | jsonify }};
 
     // return link near the end of the article: only claims "back to where
     // you were" when the referrer really was /quran
@@ -132,6 +145,13 @@
       home.appendChild(homeLink);
       ol.appendChild(home);
 
+      var quran = document.createElement("li");
+      var quranLink = document.createElement("a");
+      quranLink.href = "/quran";
+      quranLink.textContent = quranTitle;
+      quran.appendChild(quranLink);
+      ol.appendChild(quran);
+
       var section = document.createElement("li");
       var sectionLink = document.createElement("a");
       sectionLink.href = "/quran#" + quranSection;
@@ -145,7 +165,7 @@
       ol.appendChild(current);
 
       nav.appendChild(ol);
-      h1.insertAdjacentElement("afterend", nav);
+      h1.insertAdjacentElement("beforebegin", nav);
     }
   })();
 </script>
