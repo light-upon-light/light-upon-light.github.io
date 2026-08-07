@@ -309,6 +309,7 @@ It follows him from a reputation for honesty built over forty years before he ma
 
 - The jizya, the tax non-Muslims paid under Muslim rule
     > [The Jizya: What Non-Muslims Paid, and What For](/jizya)
+
     > [The Jizya: What Non-Muslims Paid, and What For - prose version](/jizya_prose)
 
 <!-- - Islam's treatment of women
