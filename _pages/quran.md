@@ -237,7 +237,7 @@ The **section about the Prophet Muhammad ﷺ** has moved to its own **page linke
 
 It follows him from a reputation for honesty built over forty years before he made any claim, through the persecution and personal loss the message cost him, and the Qur'an's own treatment of him: correcting him publicly, disclosing his private fears, and stripping him of the supernatural persona a fabricator would have wanted. It then examines his conduct once he held total power over Arabia — the limits he placed on his own veneration and authority, justice enforced even against his own family and interest, and a household that died in debt. It documents mercy applied consistently to slaves, orphans, animals, women, children, and enemies alike; what he taught about ordinary life and how he taught it; the private testimony of those who knew him best; the transformation of the society he left behind; and the discipline by which his record was preserved and tested. It closes with predictions recorded before their fulfilment, recognition from outside Islam, and why the ordinary alternative explanations — impostor, sincere but deluded, legend, or satanically inspired — fail to account for the record as a whole.
 
-**Read the full argument: [The Messenger Muhammad ﷺ: Evidence for Prophethood](/messenger)**
+<div class="quran-return"><a href="/messenger">Read the full argument: <strong>The Messenger Muhammad ﷺ: Evidence for Prophethood</strong> <span class="quran-return__arrow" aria-hidden="true">&#8594;</span></a></div>
 
 ## Playlist
 

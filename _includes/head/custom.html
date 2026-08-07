@@ -740,6 +740,44 @@
     -webkit-hyphens: auto;
     hyphens: auto;
   }
+
+  /* Quiet bordered button: the end-of-article link back to quran.md on its
+     sub-pages (back-to-quran.html), and the forward link from quran.md to
+     messenger.md. Lives here rather than in footer/custom.html's
+     page.quran_section conditional block, because quran.md itself has no
+     quran_section front matter -- that gate only fires on the sub-pages. */
+  .quran-return {
+    margin-block: 1.75em;
+    text-align: center;
+  }
+
+  .quran-return a {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5em;
+    padding: 0.6em 1.2em;
+    border: 1px solid #a1937c;
+    border-radius: 0.35em;
+    color: #6f6152;
+    font-family: "Karla", -apple-system, BlinkMacSystemFont, "Roboto",
+                 "Segoe UI", Arial, sans-serif;
+    font-size: 0.85em;
+    text-decoration: none;
+    transition: background-color 0.15s ease, border-color 0.15s ease,
+                color 0.15s ease;
+  }
+
+  .page__content .quran-return a:hover {
+    background-color: rgba(161, 147, 124, 0.14);
+    border-color: #6f6152;
+    color: #343434;
+    text-decoration: none;
+  }
+
+  .quran-return__arrow {
+    font-size: 1.1em;
+    line-height: 1;
+  }
 </style>
 
 <!-- Dark mode.
