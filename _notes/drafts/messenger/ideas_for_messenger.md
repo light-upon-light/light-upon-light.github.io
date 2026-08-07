@@ -3,6 +3,9 @@
 - Geel el sahaba as evidence of his prophethood
 - Rewrite the parakletos part to explain how the characteristics of that character described exactly fit, even if the tranlsation of the term is contested
 - mention that Ahmed is the heavenly name of the prophet in the part about prophesized in earlier scripture
+- add kelmet rigorous in hadith preservation section
+- add the title of Prophet all throughout
+
 examples:
 - daughters tarbeya hadith
 - la yaghdab le nafseh
