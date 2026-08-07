@@ -312,6 +312,8 @@ It follows him from a reputation for honesty built over forty years before he ma
 
     > [The Jizya: What Non-Muslims Paid, and What For - prose version](/jizya_prose)
 
+- Pages coming soon: Islam's treatment of women, The claim that Islam was spread by the sword, Why Islam permits a man more than one wife, The death penalty for apostasy, The severe hudud punishments — amputation, stoning, flogging
+
 <!-- - Islam's treatment of women
     > [Islam and Women](/women) — the status the Qur'an gives women and the
     > verses and reports most often cited against Islam. The page links to the
