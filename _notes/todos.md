@@ -53,6 +53,10 @@ ridda:
 - mostly a translation issue. ridda doesn't translate cleanly to apostasy. it carries more of a social order / treason meaning. people are free to make their own choices about their belief as long as they don't cause corruption in the society they live in.
 - punsihments and ridda: more of a social order thing, and not the punishment for the action itself (in the case of ridda it's more of a treason punishment, and someone who corrupts the social order by his ridda). evidenced by the fact that forgiveness and repentance is one of the most emphasized points in the quran and prophet's teachings. And that idra'ū al-ḥudūd bi'l-shubuhāt. And the 4 witnesses thing in punishments. And The amount of times these punishments were actually applied. And that in general the rulers shouldn't go after people to find their mistakes. It's clear that a person's journey is between themselves and God and that God is immediately forgiving for those, however when it comes to the social order and hurting others and undermining the order in society aspect, that's when serious and public punishments are invoked.
 
+polygyny:
+- solution to social problem, not male desire centric
+- definitely based on the fundamental differences between the divine concepts of the masculine and the feminin
+
 ---
 
 future features:
