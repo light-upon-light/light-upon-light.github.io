@@ -789,6 +789,14 @@
   .footnotes .reversefootnote {
     display: none;
   }
+
+  /* kramdown emits stacked footnote references (e.g. a hadith cited
+     alongside its commentary and a secondary source) as adjacent <sup>
+     elements with nothing between them, so "42" and "12" read as the single
+     number "4212". A small gap keeps each reference visually distinct. */
+  sup[id^="fnref"] + sup[id^="fnref"] {
+    margin-inline-start: 0.2em;
+  }
 </style>
 
 <!-- Dark mode.
