@@ -301,11 +301,6 @@ It follows him from a reputation for honesty built over forty years before he ma
 
 > Some Islamic teachings, verses, and historical events are often quoted without context or presented inaccurately. The pages below examine common claims using the relevant historical, linguistic, and scholarly evidence, while also considering the Qur'an, the teachings of Prophet Muhammad ﷺ, and Islam's broader moral framework.
 
-<!-- - Islam's treatment of women
-    > [Islam and Women](/women) — the status the Qur'an gives women and the
-    > verses and reports most often cited against Islam. The page links to the
-    > more focused discussions below. -->
-
 - Prophet Muhammad's marriage to our Lady Aisha
     > [The Prophet Muhammad's Marriage to Lady Aisha](/aisha)
 
@@ -315,6 +310,11 @@ It follows him from a reputation for honesty built over forty years before he ma
 - The jizya, the tax non-Muslims paid under Muslim rule
     > [The Jizya: What Non-Muslims Paid, and What For](/jizya)
     > [The Jizya: What Non-Muslims Paid, and What For - prose version](/jizya_prose)
+
+<!-- - Islam's treatment of women
+    > [Islam and Women](/women) — the status the Qur'an gives women and the
+    > verses and reports most often cited against Islam. The page links to the
+    > more focused discussions below.
 
 - The claim that Islam was spread by the sword
     > [Did Islam Spread by the Sword?](/sword)
@@ -326,7 +326,7 @@ It follows him from a reputation for honesty built over forty years before he ma
     > [Apostasy in Islam](/ridda)
 
 - The severe hudud punishments — amputation, stoning, flogging
-    > [The Hudud Punishments in Islam](/punishments)
+    > [The Hudud Punishments in Islam](/punishments) -->
 
 ## Other useful links
 
