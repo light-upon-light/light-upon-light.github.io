@@ -6,6 +6,8 @@ permalink: /sword
 
 layout: single
 
+quran_section: misconceptions-about-islam
+
 toc: true
 toc_label: "Table of Contents"
 toc_icon: "bars"
@@ -14,8 +16,6 @@ toc_levels: 2..3
 
 share: true
 ---
-
-{% include back-to-quran.html %}
 
 Within roughly a century of the Prophet's ﷺ death in 632, armies fighting under
 the banner of Islam had conquered Syria, Egypt, Iraq, Persia, North Africa and

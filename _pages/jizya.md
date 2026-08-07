@@ -6,6 +6,8 @@ permalink: /jizya
 
 layout: single
 
+quran_section: misconceptions-about-islam
+
 toc: true
 toc_label: "Table of Contents"
 toc_icon: "bars"
@@ -14,8 +16,6 @@ toc_levels: 2..3
 
 share: true
 ---
-
-{% include back-to-quran.html %}
 
 Under Muslim rule, some non-Muslim subjects paid a tax called the **jizya**,
 which Muslims did not pay. The word occurs once in the Qur'an, in a verse that

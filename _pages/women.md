@@ -6,6 +6,8 @@ permalink: /women
 
 layout: single
 
+quran_section: misconceptions-about-islam
+
 toc: true
 toc_label: "Table of Contents"
 toc_icon: "bars"
@@ -14,8 +16,6 @@ toc_levels: 2..3
 
 share: true
 ---
-
-{% include back-to-quran.html %}
 
 Umm Umara — Nusayba bint Kaʿb — came to the Prophet ﷺ with a complaint. **"I do
 not see but that everything is for the men, and I do not see anything being

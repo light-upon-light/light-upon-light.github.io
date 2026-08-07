@@ -6,6 +6,8 @@ permalink: /ridda
 
 layout: single
 
+quran_section: misconceptions-about-islam
+
 toc: true
 toc_label: "Table of Contents"
 toc_icon: "bars"
@@ -14,8 +16,6 @@ toc_levels: 2..3
 
 share: true
 ---
-
-{% include back-to-quran.html %}
 
 Classical Islamic law prescribes death for apostasy — a Muslim leaving Islam.
 **The ruling is severe, it is plainly present in the sources, and it should not

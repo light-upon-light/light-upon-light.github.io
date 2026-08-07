@@ -6,6 +6,8 @@ permalink: /polygyny
 
 layout: single
 
+quran_section: misconceptions-about-islam
+
 toc: true
 toc_label: "Table of Contents"
 toc_icon: "bars"
@@ -14,8 +16,6 @@ toc_levels: 2..3
 
 share: true
 ---
-
-{% include back-to-quran.html %}
 
 Islam permits a man to have up to four wives at one time, while a woman may have
 only one husband. The asymmetry is real. Critics often treat it as sufficient in

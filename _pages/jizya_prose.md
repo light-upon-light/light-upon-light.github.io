@@ -6,6 +6,8 @@ permalink: /jizya_prose
 
 layout: single
 
+quran_section: misconceptions-about-islam
+
 toc: true
 toc_label: "Table of Contents"
 toc_icon: "bars"
@@ -14,8 +16,6 @@ toc_levels: 2..3
 
 share: true
 ---
-
-{% include back-to-quran.html %}
 
 One of the most common objections to the **jizya** is straightforward. Under
 Muslim rule, some non-Muslim subjects paid this tax while Muslims did not. The
