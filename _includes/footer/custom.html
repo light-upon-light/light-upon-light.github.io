@@ -397,10 +397,13 @@
     outline: none;
   }
 
-  /* $large — from here up the sticky sidebar is on screen and all of this
-     is redundant */
+  /* $large — from here up the sticky sidebar is on screen, so the
+     TOC-in-a-drawer machinery (toggle button, backdrop, slide-out panel)
+     is redundant. back-to-top and prev/next-section aren't provided by
+     the sidebar, though, so #floating-nav itself stays on: only the
+     drawer pieces go. */
   @media (min-width: 64em) {
-    #floating-nav,
+    #floating-nav #toc-toggle,
     #toc-backdrop,
     #toc-panel {
       display: none;
@@ -702,6 +705,43 @@
        the article -- auto-expand is safe there and left as is. */
     var isSidebarLayout = window.matchMedia("(min-width: 64em)");
 
+    /* At $large and up, anchor the button column to the sidebar TOC's own
+       right edge instead of the stylesheet's `right: 1rem` (which pins it
+       to the viewport edge -- on anything wider than the page's own
+       max-width that leaves it stranded in empty margin, far from the TOC
+       it operates on). `sourceToc`'s rect right edge equals its containing
+       `.sidebar__right` box's, since only the box's left padding insets
+       the nav element, not its right side (checked against the compiled
+       layout, not assumed).
+
+       Clamped to the viewport so it can never overflow: on the narrower
+       end of $large (around 64em--80em) the sidebar itself sits close
+       enough to the edge that a fixed gap outside it would push part of
+       the column off-screen, so the left offset backs off to keep the
+       whole column on-screen -- at that point the sidebar is already near
+       the edge too, so the column still reads as attached to it.
+
+       Horizontal only: the sidebar's left/right position doesn't move as
+       the reader scrolls (only its sticky *top* offset does), so this only
+       needs to re-run when the viewport itself resizes, not on scroll. */
+    function positionFloatingNav() {
+      if (!sourceToc || !isSidebarLayout.matches) {
+        nav.style.left = "";
+        nav.style.right = "";
+        return;
+      }
+      var tocRight = sourceToc.getBoundingClientRect().right;
+      var navWidth = nav.getBoundingClientRect().width || 44;
+      var gap = 12;
+      var edgeMargin = 8;
+      var left = Math.min(tocRight + gap, window.innerWidth - navWidth - edgeMargin);
+      nav.style.left = left + "px";
+      nav.style.right = "auto";
+    }
+
+    positionFloatingNav();
+    window.addEventListener("resize", positionFloatingNav);
+
     /* Registered before scripts.html loads main.min.js further down the
        page, so this is in place before the theme's own Gumshoe init runs
        its first, synchronous detect() -- the event this listens for is not
@@ -823,19 +863,38 @@
 
     var shown = false;
     var ticking = false;
+    var masthead = document.querySelector(".masthead");
 
-    /* Hysteresis, not a single threshold: a bare `y > innerHeight` flips
-       back and forth (each flip replaying the 0.2s show/hide transition)
-       whenever the scroll position sits near that line -- iOS rubber-band
-       overshoot, or `innerHeight` itself changing as the address bar
-       collapses. Shown state needs to climb past a full viewport height to
-       appear, but only has to drop back below 80% of one to disappear,
-       leaving a dead zone in between where neither edge re-triggers it. */
+    /* Hysteresis, not a single threshold: a bare edge flips back and forth
+       (each flip replaying the 0.2s show/hide transition) whenever the
+       scroll position sits right on it -- rubber-band overscroll, or (on
+       the innerHeight-based branch below) `innerHeight` itself changing as
+       a mobile address bar collapses. */
     function update() {
       ticking = false;
-      var y = window.pageYOffset;
-      var threshold = window.innerHeight * (shown ? 0.8 : 1);
-      var should = y > threshold;
+      var should;
+
+      if (isSidebarLayout.matches && masthead) {
+        /* Desktop: appear the moment the masthead itself scrolls out of
+           view, not after a further scroll to a full viewport height --
+           the sidebar TOC these buttons act on is already on screen by
+           then, so waiting served no purpose. `bottom <= 0` is the
+           masthead fully gone; re-hiding waits until 40px of it has
+           scrolled back into view, the dead zone that prevents flicker
+           right at the edge. */
+        var mastBottom = masthead.getBoundingClientRect().bottom;
+        should = shown ? mastBottom <= 40 : mastBottom <= 0;
+      } else {
+        /* Mobile/tablet: no fixed masthead-height relationship worth
+           trusting across breakpoints and address-bar resizes, so this
+           keeps the original viewport-height threshold. Shown state needs
+           to climb past a full viewport height to appear, but only has to
+           drop back below 80% of one to disappear. */
+        var y = window.pageYOffset;
+        var threshold = window.innerHeight * (shown ? 0.8 : 1);
+        should = y > threshold;
+      }
+
       if (should !== shown) {
         shown = should;
         nav.classList.toggle("is-visible", shown);
