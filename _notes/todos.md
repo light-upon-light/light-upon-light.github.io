@@ -14,6 +14,9 @@ At some point:
 - make different length versions of pages and let users choose which to display
 
 - create a comprehensive quran page from gpt max too and merge it in
+- review classical islamic literature on the inimitability of the quran and adapt that into the page. Maybe into the page itself or maybe in sections below that tackle specific books or literature, or just an expanded details section.
+
+- for long pages, maybe make sections collapsed by default?
 
 - add links to good articles at the bottom in further reading
 - add good arguments, points and sources from good links
