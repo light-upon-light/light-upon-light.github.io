@@ -1,5 +1,59 @@
 <!-- start custom footer snippets -->
 
+{% if page.quran_section %}
+<!-- "Back to quran.md" breadcrumb. Built here, not written into the markdown,
+     so it is never part of .page__content -- Lunr indexes that container
+     verbatim (see search_full_content in CLAUDE.md), and a static link there
+     would sit as literal page text, becoming the truncated snippet shown for
+     every search hit on this page. Injecting it after #page-title at runtime
+     keeps it visually in the same breadcrumb spot without being indexed.
+
+     The href also adapts to how the reader arrived: a referrer of exactly
+     /quran means they clicked through from that page, so this sends them
+     back to the specific section (page.quran_section) they left rather than
+     the top of a long page. Any other referrer (search engine, external
+     link, direct visit) falls back to a plain /quran, since there is no
+     section to return them to. The static link near the end of the article
+     (back-to-quran.html) gets the same treatment via its shared class. -->
+<style>
+  #back-to-quran-crumb {
+    margin: -0.5rem 0 1.25rem;
+    font-size: 0.85em;
+  }
+</style>
+<script>
+  (function () {
+    var quranSection = {{ page.quran_section | jsonify }};
+    var targetHref = "/quran";
+
+    try {
+      if (document.referrer) {
+        var ref = new URL(document.referrer);
+        if (ref.origin === window.location.origin &&
+            ref.pathname.replace(/\/+$/, "") === "/quran") {
+          targetHref = "/quran#" + quranSection;
+        }
+      }
+    } catch (e) {}
+
+    var staticLinks = document.querySelectorAll("a.back-to-quran-link");
+    for (var i = 0; i < staticLinks.length; i++) staticLinks[i].href = targetHref;
+
+    var h1 = document.getElementById("page-title");
+    if (h1) {
+      var crumb = document.createElement("p");
+      crumb.id = "back-to-quran-crumb";
+      var a = document.createElement("a");
+      a.className = "back-to-quran-link";
+      a.href = targetHref;
+      a.innerHTML = "&lt; Back to <strong>The Qur’an and the Messenger ﷺ</strong>";
+      crumb.appendChild(a);
+      h1.insertAdjacentElement("afterend", crumb);
+    }
+  })();
+</script>
+{% endif %}
+
 <!-- Floating navigation for narrow viewports. At $large and up the theme's
      sticky TOC sidebar sits alongside the text, so none of this is needed and
      all of it is hidden. Below that the TOC collapses to an inline block at

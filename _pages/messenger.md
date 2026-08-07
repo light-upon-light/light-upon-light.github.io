@@ -6,6 +6,8 @@ permalink: /messenger
 
 layout: single
 
+quran_section: the-messenger-of-god-ﷺ
+
 toc: true
 toc_label: "Table of Contents"
 toc_icon: "bars"
@@ -843,5 +845,9 @@ None of this forces belief, and it is not presented as though it does. It does, 
 {: .quote }
 
 The more fully his life is examined, the more difficult it becomes to explain by an account other than the one he gave. Separate from the formal argument, the same record also explains the depth of Muslim love for him.
+
+---
+
+{% include back-to-quran.html %}
 
 > *Note: These points are summaries. The cited sources support each one, but direct study of the sīra and hadith literature provides far more detail than this page can include.*

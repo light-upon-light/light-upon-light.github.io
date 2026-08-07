@@ -6,6 +6,8 @@ permalink: /wadribuhunna
 
 layout: single
 
+quran_section: misconceptions-about-islam
+
 toc: true
 toc_label: "Table of Contents"
 toc_icon: "bars"
@@ -13,8 +15,6 @@ toc_sticky: true
 
 share: true
 ---
-
-{% include back-to-quran.html %}
 
 Critics often cite *Sūrat al-Nisāʾ* (4:34), and specifically the verb **“waḍribūhunna”**, as evidence that Islam permits domestic abuse. That conclusion does not follow from the verse when its language, context, Prophetic interpretation, and treatment in Islamic law are considered together. Read in full, the passage sets out a process for containing serious marital conflict, not a license to inflict harm.
 

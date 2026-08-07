@@ -6,6 +6,8 @@ permalink: /aisha
 
 layout: single
 
+quran_section: misconceptions-about-islam
+
 toc: true
 toc_label: "Table of Contents"
 toc_icon: "bars"
@@ -14,8 +16,6 @@ toc_levels: 2..3
 
 share: true
 ---
-
-{% include back-to-quran.html %}
 
 The Prophet Muhammad’s ﷺ marriage to Our Lady Aisha is often judged according to modern ideas about age, consent, and childhood. The reports state that she entered his household at nine, but her age alone does not resolve the moral question. The marriage must be assessed in its historical setting, alongside the Prophet’s conduct, Aisha’s own testimony, and the life she later led.
 
