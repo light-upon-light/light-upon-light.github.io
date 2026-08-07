@@ -1,4 +1,4 @@
-# Downloads YouTube videos to local storage.
+# Downloads YouTube videos and playlists to local storage.
 # Requires `uv`, `deno`, and `ffmpeg`, with a modern Python version as uv's default.
 # Runs yt-dlp through `uv tool run yt-dlp`.
 #
@@ -11,18 +11,25 @@
 #       -OutDir .\downloads `
 #       -ResultsFile .\download_results.txt
 #
-# The ID file must contain one YouTube video ID per line. Blank lines and
-# lines beginning with # are ignored.
+# The input file may contain one of the following per line:
+#   - YouTube video ID
+#   - YouTube playlist ID
+#   - list=<playlist ID>
+#   - Full YouTube video or playlist URL
+#
+# Blank lines and lines beginning with # are ignored.
 #
 # Defaults:
+#   Input:     .\video_ids.txt
 #   Downloads: .\downloads
-#   Report:    <OutDir>\download_results.txt
+#   Archive:   <OutDir>\download_archive.txt
+#   Report:    <OutDir>\download_results_yyyy-MM-dd_HH-mm-ss.txt
 
 [CmdletBinding()]
 param(
     [string]$OutDir = (Join-Path (Get-Location) "downloads"),
 
-    [string]$IdFile,
+    [string]$IdFile = (Join-Path (Get-Location) "video_ids.txt"),
 
     [string]$ResultsFile
 )
@@ -37,8 +44,10 @@ if (-not (Get-Command uv -ErrorAction SilentlyContinue)) {
 $OutDir = [System.IO.Path]::GetFullPath($OutDir)
 New-Item -ItemType Directory -Force -Path $OutDir | Out-Null
 
+$timestamp = Get-Date -Format "yyyy-MM-dd_HH-mm-ss"
+
 if ([string]::IsNullOrWhiteSpace($ResultsFile)) {
-    $ResultsFile = Join-Path $OutDir "download_results.txt"
+    $ResultsFile = Join-Path $OutDir "download_results_$timestamp.txt"
 }
 else {
     $ResultsFile = [System.IO.Path]::GetFullPath($ResultsFile)
@@ -49,80 +58,58 @@ else {
     }
 }
 
-# Default IDs extracted from youtu.be / youtube.com links across the repo.
-$DefaultVideoIds = @(
-    "0PX2t0Baq8U",
-    "11dDOBdQobQ",
-    "2iiGZlyDOXk",
-    "4l7pbX5J8Lg",
-    "5fyF-35naDE",
-    "9gJWIGLJhHM",
-    "AHOH_t03sIc",
-    "DoP6Ft-VE70",
-    "EGZ2RibrJtc",
-    "G5nSm73o4bw",
-    "J_Dllu42eEA",
-    "KQFrovc_1G0",
-    "OED98p4bpx0",
-    "OzSyIla5Z-Q",
-    "Q1epfvZ04DQ",
-    "QC3sDbVcAbw",
-    "RRlhH3_iedU",
-    "TD3jqd-YWec",
-    "VjIL0Gio4yA",
-    "WKlSJa-ZnJQ",
-    "WL2hDhkYoao",
-    "Z4pm2fSYhCI",
-    "ZdsFKC50zm4",
-    "_DnP0wxvnH4",
-    "_HlpfgaDATU",
-    "_mZgSIlX20U",
-    "abzZL_3Av2E",
-    "b5Y5gMc_XZo",
-    "c2ovILc_sKY",
-    "ezvPEwizqRc",
-    "i0vl0vAyeoo",
-    "lEc_ilaHim8",
-    "n281Zyywyn4",
-    "rk1S_Ovt5Ms",
-    "s3WIOc2fHc0",
-    "vVGiHoPZa0A",
-    "vady0SQGHCU",
-    "wA4v8MrBHHc",
-    "xZIqd_-1Zus",
-    "zbM7qpBe5DM"
+$ArchiveFile = Join-Path $OutDir "download_archive.txt"
+
+$IdFile = [System.IO.Path]::GetFullPath($IdFile)
+
+if (-not (Test-Path -LiteralPath $IdFile -PathType Leaf)) {
+    Write-Error "Input file not found: $IdFile"
+    exit 1
+}
+
+$Inputs = @(
+    Get-Content -LiteralPath $IdFile |
+        ForEach-Object { $_.Trim() } |
+        Where-Object {
+            $_ -and
+            -not $_.StartsWith("#")
+        }
 )
 
-if (-not [string]::IsNullOrWhiteSpace($IdFile)) {
-    $IdFile = [System.IO.Path]::GetFullPath($IdFile)
-
-    if (-not (Test-Path -LiteralPath $IdFile -PathType Leaf)) {
-        Write-Error "ID file not found: $IdFile"
-        exit 1
-    }
-
-    $VideoIds = @(
-        Get-Content -LiteralPath $IdFile |
-            ForEach-Object { $_.Trim() } |
-            Where-Object {
-                $_ -and
-                -not $_.StartsWith("#")
-            }
-    )
-}
-else {
-    $VideoIds = $DefaultVideoIds
-}
-
-# Remove duplicate IDs while preserving their original order.
-$seenIds = [System.Collections.Generic.HashSet[string]]::new(
+# Remove duplicate inputs while preserving their original order.
+$seenInputs = [System.Collections.Generic.HashSet[string]]::new(
     [System.StringComparer]::Ordinal
 )
-$VideoIds = @($VideoIds | Where-Object { $seenIds.Add($_) })
+$Inputs = @($Inputs | Where-Object { $seenInputs.Add($_) })
 
-if ($VideoIds.Count -eq 0) {
-    Write-Error "No video IDs were found."
+if ($Inputs.Count -eq 0) {
+    Write-Error "No YouTube videos or playlists were found in $IdFile."
     exit 1
+}
+
+function ConvertTo-YouTubeUrl {
+    param(
+        [Parameter(Mandatory)]
+        [string]$InputValue
+    )
+
+    # Already a full URL.
+    if ($InputValue -match "^https?://") {
+        return $InputValue
+    }
+
+    # list=PL...
+    if ($InputValue -match "^list=(.+)$") {
+        return "https://www.youtube.com/playlist?list=$($Matches[1])"
+    }
+
+    # Common YouTube playlist ID formats.
+    if ($InputValue -match "^(PL|UU|LL|FL|RD|OLAK5uy_)[A-Za-z0-9_-]+$") {
+        return "https://www.youtube.com/playlist?list=$InputValue"
+    }
+
+    # Otherwise treat it as a video ID.
+    return "https://youtu.be/$InputValue"
 }
 
 function Get-FailureReason {
@@ -143,6 +130,10 @@ function Get-FailureReason {
 
     if ($text -match "(?im)sign in to confirm your age|age.restricted") {
         return "Age-restricted video; browser cookies may be required."
+    }
+
+    if ($text -match "(?im)sign in to confirm you.?re not a bot") {
+        return "YouTube requested sign-in to confirm the request is not automated; browser cookies may be required."
     }
 
     if ($text -match "(?im)video unavailable|this video is unavailable") {
@@ -195,24 +186,32 @@ function Get-FailureReason {
 
 $successes = [System.Collections.Generic.List[object]]::new()
 $failures = [System.Collections.Generic.List[object]]::new()
+
 $startedAt = Get-Date
 $outputTemplate = Join-Path $OutDir "%(title)s [%(id)s].%(ext)s"
 
-Write-Host "Downloading $($VideoIds.Count) videos to $OutDir ..."
-Write-Host "Results will be written to $ResultsFile"
+Write-Host "Processing $($Inputs.Count) YouTube inputs..."
+Write-Host "Input file: $IdFile"
+Write-Host "Downloads:  $OutDir"
+Write-Host "Archive:    $ArchiveFile"
+Write-Host "Report:     $ResultsFile"
 Write-Host ""
 
-foreach ($id in $VideoIds) {
-    Write-Host "=== $id ==="
+foreach ($inputValue in $Inputs) {
+    $url = ConvertTo-YouTubeUrl -InputValue $inputValue
+
+    Write-Host "=== $inputValue ==="
+    Write-Host $url
 
     # Capture output for reporting while continuing to display it live.
     $commandOutput = @(
         & uv tool run yt-dlp `
             --remote-components ejs:github `
+            --download-archive $ArchiveFile `
             --no-overwrites `
             --continue `
             -o $outputTemplate `
-            "https://youtu.be/$id" 2>&1 |
+            $url 2>&1 |
                 ForEach-Object {
                     $line = $_.ToString()
                     Write-Host $line
@@ -224,21 +223,21 @@ foreach ($id in $VideoIds) {
 
     if ($exitCode -eq 0) {
         $successes.Add([pscustomobject]@{
-            Id = $id
+            Input = $inputValue
         })
 
-        Write-Host "SUCCESS: $id"
+        Write-Host "SUCCESS: $inputValue"
     }
     else {
         $reason = Get-FailureReason -OutputLines $commandOutput
 
         $failures.Add([pscustomobject]@{
-            Id       = $id
+            Input    = $inputValue
             ExitCode = $exitCode
             Reason   = $reason
         })
 
-        Write-Warning "FAILED: $id - $reason"
+        Write-Warning "FAILED: $inputValue - $reason"
     }
 
     Write-Host ""
@@ -266,8 +265,10 @@ $reportLines.Add("========================")
 $reportLines.Add("Started:    $($startedAt.ToString('yyyy-MM-dd HH:mm:ss'))")
 $reportLines.Add("Finished:   $($finishedAt.ToString('yyyy-MM-dd HH:mm:ss'))")
 $reportLines.Add("Duration:   $($duration.ToString())")
+$reportLines.Add("Input file: $IdFile")
 $reportLines.Add("Output:     $OutDir")
-$reportLines.Add("Total:      $($VideoIds.Count)")
+$reportLines.Add("Archive:    $ArchiveFile")
+$reportLines.Add("Total:      $($Inputs.Count)")
 $reportLines.Add("Successful: $($successes.Count)")
 $reportLines.Add("Failed:     $($failures.Count)")
 $reportLines.Add("")
@@ -292,10 +293,9 @@ if ($failures.Count -eq 0) {
     $reportLines.Add("None")
 }
 else {
-    # One failed video per line, as requested.
     foreach ($failure in $failures) {
         $reportLines.Add(
-            "$($failure.Id) | Exit code $($failure.ExitCode) | $($failure.Reason)"
+            "$($failure.Input) | Exit code $($failure.ExitCode) | $($failure.Reason)"
         )
     }
 }
@@ -308,9 +308,8 @@ if ($successes.Count -eq 0) {
     $reportLines.Add("None")
 }
 else {
-    # One successful video ID per line.
     foreach ($success in $successes) {
-        $reportLines.Add($success.Id)
+        $reportLines.Add($success.Input)
     }
 }
 
@@ -319,6 +318,7 @@ $reportLines | Set-Content -LiteralPath $ResultsFile -Encoding utf8
 Write-Host "Done."
 Write-Host "Successful: $($successes.Count)"
 Write-Host "Failed:     $($failures.Count)"
+Write-Host "Archive:    $ArchiveFile"
 Write-Host "Report:     $ResultsFile"
 
 if ($failures.Count -gt 0) {
