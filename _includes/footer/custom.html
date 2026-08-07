@@ -30,6 +30,17 @@
     margin: 0 0 0.6em;
   }
 
+  /* #page-title's own bottom margin (the theme default, ~0.5em) used to be
+     enough because the breadcrumb sat below the title and its 1.6em bottom
+     margin was doing the real work of separating title from body content.
+     Now that the breadcrumb sits above the title instead, that spacing is
+     gone and the title crowds the content that follows it -- so restore it
+     here, scoped to pages with this breadcrumb rather than changing the
+     theme default everywhere. */
+  .quran-breadcrumb + #page-title {
+    margin-bottom: 1em;
+  }
+
   .quran-breadcrumb ol {
     display: flex;
     flex-wrap: wrap;
