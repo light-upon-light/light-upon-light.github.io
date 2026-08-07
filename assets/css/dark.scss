@@ -166,6 +166,41 @@ blockquote.gloss {
 }
 
 /* --------------------------------------------------------------------------
+   quran.md breadcrumb and end-of-article return link -- dark counterpart of
+   the palette in _includes/footer/custom.html. Both are styled by an inline
+   <style> inside <body>, so (like the floating nav below) they render after
+   this stylesheet and a plain override here would lose on source order;
+   every selector is prefixed with `body` to win outright regardless.
+   -------------------------------------------------------------------------- */
+
+body .quran-breadcrumb a {
+  color: $muted-text-color;
+}
+
+body .quran-breadcrumb li + li::before {
+  color: #6b6152;
+}
+
+body .quran-breadcrumb li[aria-current="page"] {
+  color: #b8ab97;
+}
+
+body .page__content .quran-breadcrumb a:hover {
+  color: $text-color;
+}
+
+body .quran-return a {
+  color: #b8ab97;
+  border-color: #8a7d68;
+}
+
+body .page__content .quran-return a:hover {
+  background-color: rgba(138, 125, 104, 0.18);
+  border-color: #b8ab97;
+  color: $text-color;
+}
+
+/* --------------------------------------------------------------------------
    Floating nav and TOC drawer.
 
    These are styled by an inline <style> in _includes/footer/custom.html, which

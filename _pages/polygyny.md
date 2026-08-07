@@ -7,6 +7,7 @@ permalink: /polygyny
 layout: single
 
 quran_section: misconceptions-about-islam
+quran_section_label: "Misconceptions About Islam"
 
 toc: true
 toc_label: "Table of Contents"
