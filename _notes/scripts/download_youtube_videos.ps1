@@ -80,7 +80,11 @@ $Inputs = @(
 $seenInputs = [System.Collections.Generic.HashSet[string]]::new(
     [System.StringComparer]::Ordinal
 )
-$Inputs = @($Inputs | Where-Object { $seenInputs.Add($_) })
+
+$Inputs = @(
+    $Inputs |
+        Where-Object { $seenInputs.Add($_) }
+)
 
 if ($Inputs.Count -eq 0) {
     Write-Error "No YouTube videos or playlists were found in $IdFile."
@@ -108,7 +112,7 @@ function ConvertTo-YouTubeUrl {
         return "https://www.youtube.com/playlist?list=$InputValue"
     }
 
-    # Otherwise treat it as a video ID.
+    # Otherwise treat the value as a video ID.
     return "https://youtu.be/$InputValue"
 }
 
@@ -203,7 +207,7 @@ foreach ($inputValue in $Inputs) {
     Write-Host "=== $inputValue ==="
     Write-Host $url
 
-    # Capture output for reporting while continuing to display it live.
+    # Capture yt-dlp output for reporting while also displaying it live.
     $commandOutput = @(
         & uv tool run yt-dlp `
             --remote-components ejs:github `
@@ -222,20 +226,24 @@ foreach ($inputValue in $Inputs) {
     $exitCode = $LASTEXITCODE
 
     if ($exitCode -eq 0) {
-        $successes.Add([pscustomobject]@{
-            Input = $inputValue
-        })
+        $successes.Add(
+            [pscustomobject]@{
+                Input = $inputValue
+            }
+        )
 
         Write-Host "SUCCESS: $inputValue"
     }
     else {
         $reason = Get-FailureReason -OutputLines $commandOutput
 
-        $failures.Add([pscustomobject]@{
-            Input    = $inputValue
-            ExitCode = $exitCode
-            Reason   = $reason
-        })
+        $failures.Add(
+            [pscustomobject]@{
+                Input    = $inputValue
+                ExitCode = $exitCode
+                Reason   = $reason
+            }
+        )
 
         Write-Warning "FAILED: $inputValue - $reason"
     }
@@ -286,23 +294,34 @@ else {
 }
 
 $reportLines.Add("")
-$reportLines.Add("FAILURES")
-$reportLines.Add("--------")
+$reportLines.Add("FAILURES BY REASON")
+$reportLines.Add("==================")
+$reportLines.Add("")
 
 if ($failures.Count -eq 0) {
     $reportLines.Add("None")
 }
 else {
-    foreach ($failure in $failures) {
-        $reportLines.Add(
-            "$($failure.Input) | Exit code $($failure.ExitCode) | $($failure.Reason)"
-        )
+    $failureGroups = $failures |
+        Group-Object -Property Reason |
+        Sort-Object -Property Count -Descending
+
+    foreach ($group in $failureGroups) {
+        # Headers are comments so the entire group can be copied
+        # directly into video_ids.txt.
+        $reportLines.Add("# $($group.Name)")
+        $reportLines.Add("# $($group.Count) failure(s)")
+
+        foreach ($failure in $group.Group) {
+            $reportLines.Add($failure.Input)
+        }
+
+        $reportLines.Add("")
     }
 }
 
-$reportLines.Add("")
 $reportLines.Add("SUCCESSES")
-$reportLines.Add("---------")
+$reportLines.Add("=========")
 
 if ($successes.Count -eq 0) {
     $reportLines.Add("None")
