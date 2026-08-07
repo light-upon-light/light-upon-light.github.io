@@ -778,6 +778,19 @@
     font-size: 1.1em;
     line-height: 1;
   }
+
+  /* kramdown joins a footnote's repeated backlinks with &nbsp;, which is
+     non-breaking by definition -- no white-space value can make it wrap.
+     A footnote cited hundreds of times (messenger.md's citation style
+     reuses the same few footnotes throughout) produces one unbroken run
+     of dozens of anchors, which forced ~11,000px of horizontal overflow
+     and pushed #main off-screen the moment a scroll gesture picked up any
+     horizontal component. overflow-wrap: anywhere lets the browser break
+     between the glued anchors as a last resort, only when a line actually
+     has nowhere else to break. */
+  .footnotes {
+    overflow-wrap: anywhere;
+  }
 </style>
 
 <!-- Dark mode.
