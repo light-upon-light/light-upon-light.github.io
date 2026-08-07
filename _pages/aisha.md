@@ -6,6 +6,8 @@ permalink: /aisha
 
 layout: single
 
+short_title: "The Prophet's ﷺ Marriage to Aisha"
+
 quran_section: misconceptions-about-islam
 quran_section_label: "Misconceptions About Islam"
 

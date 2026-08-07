@@ -6,6 +6,8 @@ permalink: /women
 
 layout: single
 
+short_title: "Islam and Women"
+
 quran_section: misconceptions-about-islam
 quran_section_label: "Misconceptions About Islam"
 

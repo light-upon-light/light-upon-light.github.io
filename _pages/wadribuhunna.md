@@ -6,6 +6,8 @@ permalink: /wadribuhunna
 
 layout: single
 
+short_title: "Qur'an 4:34 and Domestic Abuse"
+
 quran_section: misconceptions-about-islam
 quran_section_label: "Misconceptions About Islam"
 

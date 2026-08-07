@@ -6,6 +6,8 @@ permalink: /jizya
 
 layout: single
 
+short_title: "The Jizya"
+
 quran_section: misconceptions-about-islam
 quran_section_label: "Misconceptions About Islam"
 
