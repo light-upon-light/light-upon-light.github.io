@@ -78,7 +78,7 @@ difficult to meet even when everyone involved is trying to meet them.
 - **The accuser who fails to produce them is himself flogged eighty lashes and
   his testimony is rejected permanently thereafter.** This makes a false or
   unsupported accusation dangerous for the accuser. The rule is meant to
-  protect women from having their reputations destroyed by allegation.[^1]
+  protect women from having their reputations destroyed by allegation.[1](#ref-1){: .footnote}
 - **Confession was actively discouraged.** When Maʿiz ibn Malik came to confess
   fornication, the Prophet ﷺ repeatedly turned him away:
 
@@ -87,13 +87,13 @@ difficult to meet even when everyone involved is trying to meet them.
     > him.** He came back and said it again. **He turned away from him.**
     > — *Sunan Abi Dawud* 4419, graded *sahih*; the fuller account in *Sahih
     > Muslim* 4432 adds that the Prophet ﷺ sent to Maʿiz's people to ask whether
-    > there was anything wrong with his mind[^2]
+    > there was anything wrong with his mind[2](#ref-2){: .footnote}
     {: .src }
 
 - When he continued to confess, he was offered other explanations:
 
     > "Perhaps you kissed, or squeezed, or looked?" He said: "No."
-    > — *Sunan Abi Dawud* 4427, graded *sahih*; also *Sahih al-Bukhari* 6824[^3]
+    > — *Sunan Abi Dawud* 4427, graded *sahih*; also *Sahih al-Bukhari* 6824[3](#ref-3){: .footnote}
     {: .src }
 
     > A judge intent on securing a conviction would not first check whether the
@@ -112,7 +112,7 @@ the *hudud* rare in practice.
 **The hadith commonly cited for this maxim is weak, and that should be stated
 clearly.** The wording attributed to the Prophet ﷺ is graded *da'if* at *Jami'
 at-Tirmidhi* 1424 and *da'if*, indeed "very *da'if*", at *Sunan Ibn Majah*
-2545.[^4] The maxim's legal authority comes from its acceptance by jurists,
+2545.[4](#ref-4){: .footnote} The maxim's legal authority comes from its acceptance by jurists,
 supported by the practice described above and by reports from the Companions. It
 does not rest on a sound Prophetic chain. The principle is well established,
 even though the hadith usually quoted for it is not.
@@ -150,7 +150,7 @@ social conditions.
   a person who steals food to survive is not the kind of thief contemplated by
   the penalty. The report appears in juristic literature rather than the
   canonical hadith collections, and jurists cite it as a precedent for
-  suspending a *hadd* when its social preconditions are absent.[^5]
+  suspending a *hadd* when its social preconditions are absent.[5](#ref-5){: .footnote}
 - The broader principle is that **a penalty for theft presupposes a society in
   which nobody needs to steal to survive** — a society that has already met its
   obligations of zakat, maintenance and public provision. Imposing the penalty
@@ -196,15 +196,18 @@ standards of proof and trial gives a distorted picture of Islamic criminal law.
 
 ## Notes
 
-[^1]: Qur'an 24:4, on the penalty for *qadhf* — false accusation of fornication — of eighty lashes and permanent rejection of the accuser's testimony.
+<div class="footnotes" markdown="1">
+1. <span id="ref-1"></span>Qur'an 24:4, on the penalty for *qadhf* — false accusation of fornication — of eighty lashes and permanent rejection of the accuser's testimony.
 
-[^2]: *Sunan Abi Dawud* 4419, graded *sahih* / *sahih li-ghayrihi*; *Sahih Muslim* 4432 for the fuller account including the enquiry into Maʿiz's sanity and the three separate dismissals.
+2. <span id="ref-2"></span>*Sunan Abi Dawud* 4419, graded *sahih* / *sahih li-ghayrihi*; *Sahih Muslim* 4432 for the fuller account including the enquiry into Maʿiz's sanity and the three separate dismissals.
 
-[^3]: *Sunan Abi Dawud* 4427, graded *sahih*, with the apparatus cross-referencing *Sahih al-Bukhari* 6824.
+3. <span id="ref-3"></span>*Sunan Abi Dawud* 4427, graded *sahih*, with the apparatus cross-referencing *Sahih al-Bukhari* 6824.
 
-[^4]: *Jami' at-Tirmidhi* 1424, graded *da'if*: "Avert the legal penalties from the Muslims as much as possible; if he has a way out then leave him to his way, for if the *imam* makes a mistake in forgiving it would be better than making a mistake in punishment." *Sunan Ibn Majah* 2545, graded *da'if* and "very *da'if*": "Ward off the legal punishments as much as you can." The maxim's standing in law does not depend on these chains.
+4. <span id="ref-4"></span>*Jami' at-Tirmidhi* 1424, graded *da'if*: "Avert the legal penalties from the Muslims as much as possible; if he has a way out then leave him to his way, for if the *imam* makes a mistake in forgiving it would be better than making a mistake in punishment." *Sunan Ibn Majah* 2545, graded *da'if* and "very *da'if*": "Ward off the legal punishments as much as you can." The maxim's standing in law does not depend on these chains.
 
-[^5]: The suspension of the amputation penalty by Umar ibn al-Khattab during the famine of the *ʿam al-ramada* is transmitted in the juristic and historical literature and cited widely as precedent for the suspension of a *hadd* where its preconditions are absent. It is not in the canonical hadith collections and has not been traced to a primary source here. [unverified]
+5. <span id="ref-5"></span>The suspension of the amputation penalty by Umar ibn al-Khattab during the famine of the *ʿam al-ramada* is transmitted in the juristic and historical literature and cited widely as precedent for the suspension of a *hadd* where its preconditions are absent. It is not in the canonical hadith collections and has not been traced to a primary source here. [unverified]
+
+</div>
 
 ## Qur'an verses cited
 

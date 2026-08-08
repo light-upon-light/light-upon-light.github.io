@@ -80,7 +80,7 @@ to 4**, and the historical evidence does not support it.
     > accept it from them and desist from fighting against them… If they refuse
     > to accept Islam, demand from them the *jizya*. If they agree to pay, accept
     > it from them and hold off your hands."
-    > — *Sahih Muslim* 4521[^1]
+    > — *Sahih Muslim* 4521[1](#ref-1){: .footnote}
     {: .src }
 
     > The second alternative is decisive. The opposing population could retain
@@ -100,14 +100,14 @@ conquered. The evidence does not show that pattern.
   Descendants of converts generally carried Muslim names, allowing the records
   to indicate when conversion occurred. For Iran, Iraq, Syria, Egypt and Spain,
   the results are **slow S-curves extending over three to four centuries**, not
-  sudden changes at the time of conquest.[^2]
+  sudden changes at the time of conquest.[2](#ref-2){: .footnote}
 - Quantitative research on Egypt, based on tax records and later census data,
   places the conversion of the Coptic population across the period **641 to
-  about 1200**.[^3] The conquest took two years, while the transition to a Muslim
+  about 1200**.[3](#ref-3){: .footnote} The conquest took two years, while the transition to a Muslim
   majority took roughly five centuries.
 - Syria and Egypt still had **substantial Christian populations at the end of
   the medieval period**. Bulliet's graphs must therefore be read as describing
-  the people who eventually converted, not the entire population.[^2]
+  the people who eventually converted, not the entire population.[2](#ref-2){: .footnote}
 
     > A five-century transition is difficult to reconcile with systematic forced
     > conversion. Coercive campaigns are meant to produce immediate, visible
@@ -136,7 +136,7 @@ of the subcontinent from the establishment of the Delhi Sultanate in 1206 until
 the end of Mughal rule in 1857. This amounted to six and a half centuries of
 Muslim political and military rule over a Hindu majority. At the end of that
 period, **India was, and remains, overwhelmingly Hindu**. The 2011 census records
-roughly 80 per cent Hindu and 14 per cent Muslim.[^4]
+roughly 80 per cent Hindu and 14 per cent Muslim.[4](#ref-4){: .footnote}
 
 > Six and a half centuries of Muslim rule gave successive states more than
 > enough time to impose conversion had that been their policy. Yet the
@@ -155,7 +155,7 @@ populations developed in places without an Arab conquest.
   **trade, Sufi preaching, marriage and the conversion of local rulers**, then
   spread gradually through the archipelago from around the thirteenth century.
   It is now home to roughly 230 million Muslims, more than any Arab state and more
-  than the entire Middle East.[^5]
+  than the entire Middle East.[5](#ref-5){: .footnote}
 - **Malaysia and the Malay archipelago** were reached through the same commercial
   and scholarly networks.
 - **West Africa** encountered Islam through trans-Saharan trade, while **East
@@ -250,7 +250,7 @@ who fight and those who do not.
     > "During some of the expeditions of Allah's Messenger ﷺ a woman was found
     > killed, so Allah's Messenger ﷺ forbade the killing of women and children."
     > — *Sahih al-Bukhari* 3015; also *Sahih al-Bukhari* 3014, *Sahih Muslim*
-    > 4547–4548, and *Muwatta Malik* 967[^6]
+    > 4547–4548, and *Muwatta Malik* 967[6](#ref-6){: .footnote}
     {: .src }
 
 - Another report states the reason and records the order being sent to Khalid
@@ -260,7 +260,7 @@ who fight and those who do not.
     > "This one was not among those who were fighting." Then he said to a man:
     > "Go to Khalid ibn al-Walid and tell him that the Messenger of Allah ﷺ
     > commands you: **do not kill any children, or women, or any labourer.**"
-    > — *Sunan Ibn Majah* 2842, graded *hasan sahih*[^7]
+    > — *Sunan Ibn Majah* 2842, graded *hasan sahih*[7](#ref-7){: .footnote}
     {: .src }
 
     > The relevant distinction is between **combatants and non-combatants**, not
@@ -270,7 +270,7 @@ who fight and those who do not.
     {: .gloss }
 
 - The standing instructions to commanders also prohibit treachery, mutilation,
-  looting and the killing of children.[^1]
+  looting and the killing of children.[1](#ref-1){: .footnote}
 - Abu Bakr, the Prophet's ﷺ closest companion and the first caliph after his
   death, gave the armies sent to Syria a broader set of instructions: do not kill
   women, children, the elderly or the infirm; do not cut down fruit trees or
@@ -280,7 +280,7 @@ who fight and those who do not.
     > *Muwatta Malik* 968. Its chain is graded **weak**, and the report records a
     > Companion's instruction rather than a ruling of the Prophet ﷺ. It is cited
     > here only as widely transmitted evidence of early practice, not as proof of
-    > the legal rule. That proof comes from the Prophetic reports above.[^8]
+    > the legal rule. That proof comes from the Prophetic reports above.[8](#ref-8){: .footnote}
     {: .src }
 
 ## Where the criticism does land
@@ -292,10 +292,10 @@ which Muslims did impose conversion by force.
 - **The Almohads** in twelfth-century North Africa and Spain forced Jews and
   Christians to convert under threat of death or exile. Their policy ended
   communities that had survived four centuries of earlier Muslim rule, and
-  Maimonides' family fled the Almohads.[^9]
+  Maimonides' family fled the Almohads.[9](#ref-9){: .footnote}
 - **The Safavids** used state coercion from 1501 onward to convert Iran from
   Sunni to Twelver Shi'i Islam. This was a case of Muslims forcibly converting
-  other Muslims.[^9]
+  other Muslims.[9](#ref-9){: .footnote}
 - **Aurangzeb's** temple demolitions and restoration of the jizya in Mughal
   India in 1679 were coercive policies and were resisted as such.
 
@@ -356,23 +356,26 @@ usually spread through other means.**
 
 ## Notes
 
-[^1]: *Sahih Muslim* 4521. The full report also prohibits embezzling spoils, breaking pledges and mutilating the dead. It further instructs commanders not to grant terms in the name of God and His Prophet ﷺ when their own guarantee would suffice, because breaking a human pledge is the lesser wrong.
+<div class="footnotes" markdown="1">
+1. <span id="ref-1"></span>*Sahih Muslim* 4521. The full report also prohibits embezzling spoils, breaking pledges and mutilating the dead. It further instructs commanders not to grant terms in the name of God and His Prophet ﷺ when their own guarantee would suffice, because breaking a human pledge is the lesser wrong.
 
-[^2]: Richard W. Bulliet, *Conversion to Islam in the Medieval Period: An Essay in Quantitative History* (Harvard University Press, 1979), includes chapters on the conversion curves of Iran, Iraq, Egypt, Tunisia, Syria and Spain. Bulliet infers conversion dates from Muslim given names recorded in biographical dictionaries. His graphs count those who eventually converted, not the entire population, an important qualification for Syria and Egypt, where large minorities did not convert. Later scholarship has revised particular regional curves, especially for al-Andalus, but the general pattern remains a gradual process lasting several centuries rather than a sudden change.
+2. <span id="ref-2"></span>Richard W. Bulliet, *Conversion to Islam in the Medieval Period: An Essay in Quantitative History* (Harvard University Press, 1979), includes chapters on the conversion curves of Iran, Iraq, Egypt, Tunisia, Syria and Spain. Bulliet infers conversion dates from Muslim given names recorded in biographical dictionaries. His graphs count those who eventually converted, not the entire population, an important qualification for Syria and Egypt, where large minorities did not convert. Later scholarship has revised particular regional curves, especially for al-Andalus, but the general pattern remains a gradual process lasting several centuries rather than a sudden change.
 
-[^3]: Mohamed Saleh and Jean Tirole, [*Taxing Identity: Fiscal Policy and Conversions in Early Islam*](https://www.tse-fr.eu/sites/default/files/TSE/documents/doc/by/tirole/taxing_identity_051218.pdf), Toulouse School of Economics, 5 December 2018, testing their model against "Egypt's conversion to Islam between 641 and 1200."
+3. <span id="ref-3"></span>Mohamed Saleh and Jean Tirole, [*Taxing Identity: Fiscal Policy and Conversions in Early Islam*](https://www.tse-fr.eu/sites/default/files/TSE/documents/doc/by/tirole/taxing_identity_051218.pdf), Toulouse School of Economics, 5 December 2018, testing their model against "Egypt's conversion to Islam between 641 and 1200."
 
-[^4]: Census of India 2011, religion tables: approximately 79.8 per cent Hindu and 14.2 per cent Muslim. The Delhi Sultanate is conventionally dated from 1206 and Mughal rule ends in 1857.
+4. <span id="ref-4"></span>Census of India 2011, religion tables: approximately 79.8 per cent Hindu and 14.2 per cent Muslim. The Delhi Sultanate is conventionally dated from 1206 and Mughal rule ends in 1857.
 
-[^5]: Standard surveys of Southeast Asian Islam describe the Islamisation of the Indonesian archipelago through trade, Sufi preaching, marriage and the conversion of rulers rather than conquest. The estimate of roughly 230 million Indonesian Muslims follows recent population figures. [unverified]
+5. <span id="ref-5"></span>Standard surveys of Southeast Asian Islam describe the Islamisation of the Indonesian archipelago through trade, Sufi preaching, marriage and the conversion of rulers rather than conquest. The estimate of roughly 230 million Indonesian Muslims follows recent population figures. [unverified]
 
-[^6]: *Sahih al-Bukhari* 3015, and 3014 with the same substance; *Sahih Muslim* 4547 and 4548; *Muwatta Malik* 967, graded *sahih*.
+6. <span id="ref-6"></span>*Sahih al-Bukhari* 3015, and 3014 with the same substance; *Sahih Muslim* 4547 and 4548; *Muwatta Malik* 967, graded *sahih*.
 
-[^7]: *Sunan Ibn Majah* 2842, graded *hasan sahih* and *sahih li-ghayrihi* in the collection's apparatus.
+7. <span id="ref-7"></span>*Sunan Ibn Majah* 2842, graded *hasan sahih* and *sahih li-ghayrihi* in the collection's apparatus.
 
-[^8]: *Muwatta Malik* 968, graded *mauquf da'if*. *Mauquf* means that the report ends with a Companion rather than reaching the Prophet ﷺ, as expected for an instruction attributed to Abu Bakr, while *da'if* means that its chain is weak. The instructions are widely reported in historical accounts of the Syrian campaigns and are cited here as an illustration of early practice, with that limitation stated.
+8. <span id="ref-8"></span>*Muwatta Malik* 968, graded *mauquf da'if*. *Mauquf* means that the report ends with a Companion rather than reaching the Prophet ﷺ, as expected for an instruction attributed to Abu Bakr, while *da'if* means that its chain is weak. The instructions are widely reported in historical accounts of the Syrian campaigns and are cited here as an illustration of early practice, with that limitation stated.
 
-[^9]: Standard histories of the medieval Maghrib and al-Andalus discuss the Almohad persecutions of the twelfth century, while histories of early modern Iran discuss the Safavid imposition of Twelver Shi'ism from 1501. The dates and summaries given here follow standard reference works rather than primary sources. [unverified]
+9. <span id="ref-9"></span>Standard histories of the medieval Maghrib and al-Andalus discuss the Almohad persecutions of the twelfth century, while histories of early modern Iran discuss the Safavid imposition of Twelver Shi'ism from 1501. The dates and summaries given here follow standard reference works rather than primary sources. [unverified]
+
+</div>
 
 ## Qur'an verses cited
 

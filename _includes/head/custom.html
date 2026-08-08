@@ -779,22 +779,21 @@
     line-height: 1;
   }
 
-  /* kramdown emits a "back to text" arrow after every footnote definition --
-     one per citation, so a footnote reused hundreds of times (messenger.md's
-     citation style) gets hundreds of them glued together with &nbsp;, which
-     is non-breaking by definition. That run once forced ~11,000px of
-     horizontal overflow and pushed #main off-screen on scroll. Hiding the
-     arrows removes them visually and, as a side effect, the run that caused
-     the overflow. */
-  .footnotes .reversefootnote {
-    display: none;
+  /* Citations are hand-authored markdown links styled to look like kramdown's
+     old footnote markers (`.footnote` is the theme's own class, so light and
+     dark colors come for free from dark.scss recompiling the whole theme --
+     see _pages citation markup). vertical-align/font-size aren't colors, so
+     no dark counterpart is needed for these two rules. */
+  a.footnote {
+    vertical-align: super;
+    font-size: 0.75em;
   }
 
-  /* kramdown emits stacked footnote references (e.g. a hadith cited
-     alongside its commentary and a secondary source) as adjacent <sup>
-     elements with nothing between them, so "42" and "12" read as the single
-     number "4212". A small gap keeps each reference visually distinct. */
-  sup[id^="fnref"] + sup[id^="fnref"] {
+  /* Citations are sometimes stacked (e.g. a hadith cited alongside its
+     commentary and a secondary source) as adjacent links with nothing
+     between them, so "42" and "12" would read as the single number "4212"
+     without a small gap. */
+  a.footnote + a.footnote {
     margin-inline-start: 0.2em;
   }
 </style>

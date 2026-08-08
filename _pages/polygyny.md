@@ -131,7 +131,7 @@ complete.
     > on the Day of Resurrection with a side hanging down."
     > — *Sunan Abi Dawud* 2133; also *Jami' at-Tirmidhi* 1141, *Sunan an-Nasa'i*
     > 3942, *Sunan Ibn Majah* 1969. Graded *sahih* in most assessments, with one
-    > dissenting *da'if*.[^1]
+    > dissenting *da'if*.[1](#ref-1){: .footnote}
     {: .src }
 
 - Islamic law translated this requirement into specific duties: **equal division
@@ -191,7 +191,7 @@ others. This deserves a direct answer.
   dispensation from the ordinary limit and then, in the same surah, prohibits him
   from marrying further. His wives were also forbidden to remarry after his
   death and were offered a choice between the life of the world and remaining
-  with him under the conditions he could provide.[^2]
+  with him under the conditions he could provide.[2](#ref-2){: .footnote}
 
     > Calling this a simple personal privilege leaves out the restrictions
     > attached to it. The Prophet ﷺ was then forbidden to marry again, his widows
@@ -214,7 +214,7 @@ and he addressed the community from the pulpit.
 > their daughter. For Fatima is a part of me, and I hate what she hates to see,
 > and what hurts her, hurts me."
 > — *Sahih al-Bukhari* 5230; also *Sahih al-Bukhari* 3729 and *Sahih Muslim*
-> 6309–6310[^3]
+> 6309–6310[3](#ref-3){: .footnote}
 {: .src }
 
 Ali abandoned the proposal.
@@ -235,7 +235,7 @@ Ali abandoned the proposal.
   another wife.
 - The legal schools differ over the remedy. The Hanbali position is the most
   explicit: it treats the condition as binding and gives the wife the right to
-  dissolve the marriage if her husband breaks it.[^4]
+  dissolve the marriage if her husband breaks it.[4](#ref-4){: .footnote}
 - This gives the woman a practical means of securing monogamy before the marriage
   begins, at the stage when her consent is still required and her bargaining
   position is strongest.
@@ -290,7 +290,7 @@ out in its name. That requires acknowledging where those teachings are ignored.
 Modern Muslim states have responded by regulating plural marriage. Tunisia
 prohibits it outright, while several other Muslim-majority jurisdictions require
 judicial permission, proof of financial means, or notification of an existing
-wife.[^5] These regulations are debated within Islamic legal frameworks because
+wife.[5](#ref-5){: .footnote} These regulations are debated within Islamic legal frameworks because
 4:3 is conditional: **a state may restrict a permission when it concludes that
 the condition attached to it is not being met.**
 
@@ -319,15 +319,18 @@ his cousin and son-in-law to take a second wife over his daughter.**
 
 ## Notes
 
-[^1]: *Sunan Abi Dawud* 2133, *Jami' at-Tirmidhi* 1141, *Sunan an-Nasa'i* 3942, and *Sunan Ibn Majah* 1969 all transmit this report from Abu Hurayra. The gradings recorded in the collections' apparatus are *sahih* in three assessments and *da'if* in one. The disagreement is noted here rather than resolved.
+<div class="footnotes" markdown="1">
+1. <span id="ref-1"></span>*Sunan Abi Dawud* 2133, *Jami' at-Tirmidhi* 1141, *Sunan an-Nasa'i* 3942, and *Sunan Ibn Majah* 1969 all transmit this report from Abu Hurayra. The gradings recorded in the collections' apparatus are *sahih* in three assessments and *da'if* in one. The disagreement is noted here rather than resolved.
 
-[^2]: Qur'an 33:50 contains the dispensation specific to the Prophet ﷺ; 33:52 prohibits him from marrying further; 33:53 prohibits marriage to his wives after his death; and 33:28–29 contains the verse of choice, *ayat al-takhyir*, offering his wives release if they preferred the life of the world.
+2. <span id="ref-2"></span>Qur'an 33:50 contains the dispensation specific to the Prophet ﷺ; 33:52 prohibits him from marrying further; 33:53 prohibits marriage to his wives after his death; and 33:28–29 contains the verse of choice, *ayat al-takhyir*, offering his wives release if they preferred the life of the world.
 
-[^3]: *Sahih al-Bukhari* 5230, with parallel wording in 3729 and *Sahih Muslim* 6309–6310. The Muslim version adds that "the daughter of the Messenger of Allah and the daughter of the enemy of God cannot be the wives of one man," which is the particularising element discussed in the text.
+3. <span id="ref-3"></span>*Sahih al-Bukhari* 5230, with parallel wording in 3729 and *Sahih Muslim* 6309–6310. The Muslim version adds that "the daughter of the Messenger of Allah and the daughter of the enemy of God cannot be the wives of one man," which is the particularising element discussed in the text.
 
-[^4]: The standard Hanbali position treats a condition against plural marriage as binding and gives the wife the right to dissolve the marriage if it is breached. This account comes from secondary literature on stipulations (*shurut*) in the marriage contract and has not been checked against primary Hanbali manuals. [unverified]
+4. <span id="ref-4"></span>The standard Hanbali position treats a condition against plural marriage as binding and gives the wife the right to dissolve the marriage if it is breached. This account comes from secondary literature on stipulations (*shurut*) in the marriage contract and has not been checked against primary Hanbali manuals. [unverified]
 
-[^5]: Tunisia's Code of Personal Status (1956) prohibits plural marriage. Other Muslim-majority jurisdictions variously require judicial authorisation, proof of financial capacity, or notification of an existing wife. The details differ by country and have changed over time; the current statutes have not been checked here. [unverified]
+5. <span id="ref-5"></span>Tunisia's Code of Personal Status (1956) prohibits plural marriage. Other Muslim-majority jurisdictions variously require judicial authorisation, proof of financial capacity, or notification of an existing wife. The details differ by country and have changed over time; the current statutes have not been checked here. [unverified]
+
+</div>
 
 ## Qur'an verses cited
 
