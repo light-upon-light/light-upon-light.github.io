@@ -1868,7 +1868,7 @@ A teacher’s moral claims are easier to assess when we can compare them with hi
 
 ---
 
-## III. A life tested by weakness, persecution, authority, and victory
+## III. A life tested by marginalization, persecution, authority, and victory
 
 Prophet Muhammad ﷺ lived long enough after claiming prophethood for his character to be tested under opposite conditions. He spent years unable to protect even his own followers, then later became the leader of a state and victor over the city that had expelled him. The contrast makes the chronology morally important, not merely biographical.[8](#ref-8){: .footnote}[28](#ref-28){: .footnote}[37](#ref-37){: .footnote}[38](#ref-38){: .footnote}[41](#ref-41){: .footnote}[42](#ref-42){: .footnote}
 
@@ -1934,7 +1934,7 @@ Prophet Muhammad ﷺ lived long enough after claiming prophethood for his charac
    > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَكَذَٰلِكَ أَوْحَيْنَآ إِلَيْكَ رُوحًا مِّنْ أَمْرِنَا ۚ مَا كُنتَ تَدْرِى مَا ٱلْكِتَـٰبُ وَلَا ٱلْإِيمَـٰنُ وَلَـٰكِن جَعَلْنَـٰهُ نُورًا نَّهْدِى بِهِۦ مَن نَّشَآءُ مِنْ عِبَادِنَا ۚ وَإِنَّكَ لَتَهْدِىٓ إِلَىٰ صِرَٰطٍ مُّسْتَقِيمٍ ۝٥٢﴾ <span class="ayah-ref">سُورَةُ الشُّورَىٰ</span></div>
    {: .quote }
 
-### B. Mecca: a message that cost him safety instead of buying it
+### B. Mecca: choosing the message at great personal cost
 
 1. **His early public message challenged rather than flattered the foundations of Meccan status.** The Qur’an called people away from inherited idols to the worship of one God, while condemning neglect of the poor, cheating, arrogance, and exploitation of the vulnerable.
 
@@ -3010,12 +3010,22 @@ Praise from outsiders cannot prove prophethood. A historian may admire Prophet M
 1. **Prophet Muhammad’s ﷺ historical stature is recognized well beyond Muslim devotional writing.** Michael H. Hart famously ranked him first in *The 100: A Ranking of the Most Influential Persons in History*, emphasizing his combined religious and secular influence. The United States Supreme Court’s courtroom frieze also includes Prophet Muhammad ﷺ among historical lawgivers. Neither fact establishes that he was a prophet, but both show how difficult it is to treat his career as marginal to world history.[74](#ref-74){: .footnote}[75](#ref-75){: .footnote}
 
    > Further context: Michael H. Hart, *The 100: A Ranking of the Most Influential Persons in History*[74](#ref-74){: .footnote}; U.S. Supreme Court, "Courtroom Friezes: South and North Walls"[75](#ref-75){: .footnote}
+   >
+   > [The 100: A Ranking of the Most Influential Persons in History](https://en.wikipedia.org/wiki/The_100:_A_Ranking_of_the_Most_Influential_Persons_in_History)
+   >
+   > [Prophet Muhammad Honored By the U.S. Supreme Court As One Of The Greatest Lawgivers Of The World In 1935](https://www.soundvision.com/article/prophet-muhammad-honored-by-the-us-supreme-court-as-one-of-the-greatest-lawgivers-of-the)
+   >
+   > [What Non-Muslims Say About Muhammad ﷺ](https://al-islam.org/articles/personalities-what-non-muslims-say-about-muhammad-prophet-islam)
    {: .quote }
 
-1. **Some non-Muslim religious thinkers have found the simple “fraud” explanation inadequate and have discussed Prophet Muhammad ﷺ in genuinely prophetic terms.** The Christian theologian Keith Ward is one modern example. Such judgments are not independent tests of revelation, but they show that recognizing Prophet Muhammad’s ﷺ sincerity, or even some prophetic significance in him, is not logically confined to people who already identify as Muslim.[76](#ref-76){: .footnote}
+1. **Some non-Muslim religious thinkers have found the simple “fraud” explanation inadequate and have discussed Prophet Muhammad ﷺ in genuinely prophetic terms.** The Christian theologian Keith Ward, Regius Professor of Divinity at Oxford, is one modern example: he has written that Christians can see Prophet Muhammad ﷺ "as truly inspired by God, as called to proclaim a strict monotheistic faith, and as chosen by God for that purpose," and that he can be accorded "the highest honor as a true prophet." Such judgments are not independent tests of revelation, and Ward stops short of the Muslim position that Prophet Muhammad ﷺ was the final and definitive voice of revelation, but they show that recognizing Prophet Muhammad’s ﷺ sincerity, or even some prophetic significance in him, is not logically confined to people who already identify as Muslim.[76](#ref-76){: .footnote}
 
    > Further discussion: Keith Ward, interview on Muhammad and Islam[76](#ref-76){: .footnote}
    {: .quote }
+
+    {% include yt-embed.html url="https://youtube.com/shorts/Zoz0q-vp7UU" title="Top Christian scholars affirm that Prophet Muhammad ﷺ was an authentic prophet of God" %}
+
+    {% include yt-embed.html url="https://www.youtube.com/live/ftRsC_2sjg8" title="Reverend Professor Keith Ward on Blogging Theology" %}
 
 1. **W. Montgomery Watt, a major non-Muslim twentieth-century historian of early Islam, also rejected the simple impostor explanation as inadequate.** His conclusion was not an acceptance of Islam, but a historian’s judgment that the theory of conscious fraud creates more explanatory problems than it resolves.[41](#ref-41){: .footnote}
 
@@ -3027,6 +3037,12 @@ Praise from outsiders cannot prove prophethood. A historian may admire Prophet M
    > Selected comparative discussions: Jesus and Muhammad; Muhammad and Moses; the Abrahamic tradition; Muhammad and the Jews of Arabia[69](#ref-69){: .footnote}[70](#ref-70){: .footnote}[71](#ref-71){: .footnote}[72](#ref-72){: .footnote}
    {: .quote }
 
+    {% include yt-embed.html url="https://youtu.be/_DnP0wxvnH4" title="Moses, Jesus & Muhammad: Three Brothers in Faith | Ustadh Dr. Ali Ataie" %}
+
+    {% include yt-embed.html url="https://youtu.be/RRlhH3_iedU" title="Muhammad ﷺ the Prophet like Moses" %}
+
+    {% include yt-embed.html url="https://youtu.be/vVGiHoPZa0A" title="Similarities in the Abrahamic Tradition | Ustadh Dr. Ali Ataie (Interfaith Dialogue)" %}
+
 ### I. What the main alternative explanations must account for
 
 A cumulative case is only useful if the main alternatives are tested against the same evidence. Four explanations recur often enough to deserve direct examination. They are not equally strong, but none should be dismissed by a label alone. Each has to account for the same life, text, and transmitted record.
@@ -3037,7 +3053,7 @@ A cumulative case is only useful if the main alternatives are tested against the
 
 1. **“The impressive portrait is mostly later legend.”** This is the strongest naturalistic challenge to many hadith-based details and is the reason source criticism matters. The surviving canonical compilations postdate Prophet Muhammad ﷺ, so later development cannot simply be ruled out. But the legend hypothesis also has to account for named transmission networks, early written material, competing hadith grades, catalogued forgeries, and a portrait that preserves awkward details: household disagreements, poverty, grief, mistaken farming advice, limits on judicial judgment, public Qur’anic rebukes, and a ruler who died with his armor pledged for food. Later reverence undoubtedly shaped how Prophet Muhammad ﷺ was remembered. The stronger claim is that it created enough of the converging record to explain the whole portrait, and that claim itself needs evidence.[37](#ref-37){: .footnote}[38](#ref-38){: .footnote}[39](#ref-39){: .footnote}[43](#ref-43){: .footnote}[44](#ref-44){: .footnote}[45](#ref-45){: .footnote}
 
-1. **“The source was demonic rather than divine.”** This explanation appears especially in Christian polemic, while Meccan opponents made a different but related accusation that Prophet Muhammad ﷺ was possessed or speaking like a soothsayer. The Qur’an rejects the charge directly, saying that devils neither brought down the recitation nor were capable of doing so. More importantly for the hypothesis itself, the message relentlessly turns worship away from idols and spirits toward one God, condemns sorcery, divination, omens, murder, exploitation, and sexual wrongdoing, and repeatedly teaches people to seek refuge from Satan. Jesus’s response to the charge that he expelled demons by demonic power gives the relevant theological principle: an explanation based on a kingdom systematically working against itself is internally strained.
+1. **“The source was demonic rather than divine.”** This explanation appears especially in Christian polemic, while Meccan opponents made a different but related accusation that Prophet Muhammad ﷺ was possessed or speaking like a soothsayer. The Qur’an rejects the charge directly, saying that devils neither brought down the recitation nor were capable of doing so. More importantly for the hypothesis itself, the message relentlessly turns worship away from idols and spirits toward one God, condemns sorcery, divination, omens, murder, exploitation, and sexual wrongdoing, and repeatedly teaches people to seek refuge from Satan. **This is not incidental phrasing: the Qur’an and the hadith corpus name Satan the believer’s foremost, explicit enemy and command that he be treated as one — the opposite of what a source working on his behalf would produce.** Jesus’s response to the charge that he expelled demons by demonic power gives the relevant theological principle: an explanation based on a kingdom systematically working against itself is internally strained.
 
    > "It was not the devils who brought this ˹Quran˺ down. It is not for them ˹to do so˺, nor can they, for they are strictly barred from ˹even˺ overhearing ˹it˺." (**Sūrat ash-Shuʿarāʾ 26:210-212**), Dr. Mustafa Khattab, *The Clear Quran*[1](#ref-1){: .footnote}[11](#ref-11){: .footnote}[12](#ref-12){: .footnote}[36](#ref-36){: .footnote}
    >
@@ -3047,6 +3063,16 @@ A cumulative case is only useful if the main alternatives are tested against the
    > "And this ˹Quran˺ is not the word of an outcast devil." (**Sūrat al-Takwīr 81:25**), Dr. Mustafa Khattab, *The Clear Quran*[1](#ref-1){: .footnote}[11](#ref-11){: .footnote}[12](#ref-12){: .footnote}[36](#ref-36){: .footnote}
    >
    > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَمَا هُوَ بِقَوْلِ شَيْطَـٰنٍ رَّجِيمٍ ۝٢٥﴾ <span class="ayah-ref">سُورَةُ التَّكۡوِيرِ</span></div>
+   {: .quote }
+
+   > "Surely Satan is an enemy to you, so take him as an enemy. He only invites his followers to become inmates of the Blaze." (**Sūrat Fāṭir 35:6**), Dr. Mustafa Khattab, *The Clear Quran*[1](#ref-1){: .footnote}[11](#ref-11){: .footnote}[12](#ref-12){: .footnote}[36](#ref-36){: .footnote}
+   >
+   > <div dir="rtl" lang="ar" class="quran-arabic">﴿إِنَّ ٱلشَّيْطَـٰنَ لَكُمْ عَدُوٌّ فَٱتَّخِذُوهُ عَدُوًّا ۚ إِنَّمَا يَدْعُوا۟ حِزْبَهُۥ لِيَكُونُوا۟ مِنْ أَصْحَـٰبِ ٱلسَّعِيرِ ۝٦﴾ <span class="ayah-ref">سُورَةُ فَاطِرٍ</span></div>
+   {: .quote }
+
+   The hadith corpus carries the same charge through into practice. When ‘Uthman ibn Abu al-‘As told Prophet Muhammad ﷺ that he lost track of himself during prayer, the Prophet ﷺ identified the cause and addressed it directly as an enemy to be driven out, not courted:
+
+   > "...he said: 'That is Satan. Come here.' So I came close to him, and he struck my chest with his hand and put some spittle in my mouth and said: 'Get out, O enemy of Allah!' He did that three times..." — *Sunan Ibn Majah* 3548, graded sound[6](#ref-6){: .footnote}[17](#ref-17){: .footnote}[43](#ref-43){: .footnote}
    {: .quote }
 
    Compare Matthew 12:25–28 and Mark 3:23–26.
@@ -3143,7 +3169,6 @@ Taken together, these teachings were not meant simply to produce people who perf
 ---
 
 > *Note: These points are summaries. The cited sources support each one, but direct study of the sīra and hadith literature provides far more detail than this page can include.*
-
 
 ### Selected primary-source index
 
@@ -3323,7 +3348,7 @@ The numbered citations throughout the article point to the works below. For Qur�
 
 75. <span id="ref-75"></span>Supreme Court of the United States, “Courtroom Friezes: South and North Walls,” official information sheet, identifying Prophet Muhammad ﷺ among the historical lawgivers depicted in the courtroom. [Official Supreme Court page](https://www.supremecourt.gov/about/infosheets/SouthAndNorthFriezes.html).
 
-76. <span id="ref-76"></span>Keith Ward’s appraisal of Prophet Muhammad ﷺ is quoted and discussed by Marcus Braybrooke, “The Prophet Muhammad,” ch. 4 of *What Can We Learn from Islam: The Struggle for True Religion*, Religion Online; see also Ward’s linked 2021 interview in the text. [Braybrooke chapter](https://www.religion-online.org/book-chapter/chapter-4-the-prophet-muhammad/).
+76. <span id="ref-76"></span>Keith Ward’s appraisal of Prophet Muhammad ﷺ is quoted and discussed by Marcus Braybrooke, “The Prophet Muhammad,” ch. 4 of *What Can We Learn from Islam: The Struggle for True Religion*, Religion Online. [Braybrooke chapter](https://www.religion-online.org/book-chapter/chapter-4-the-prophet-muhammad/). See also [Keith Ward: Top Christian scholars affirm that Prophet Muhammad ﷺ was an authentic prophet of God (Youtube Short)](https://youtube.com/shorts/Zoz0q-vp7UU) and [Reverend Professor Keith Ward on Blogging Theology](https://www.youtube.com/live/ftRsC_2sjg8).
 
 77. <span id="ref-77"></span>Edward William Lane, *An Arabic-English Lexicon* (London: Williams and Norgate, 1863–1893), root H-M-D, for the semantic field of praise from which the name *Muhammad* is formed. [Searchable Lane entry](https://quranx.com/Dictionary/Lane/%D8%AD%D9%85%D8%AF).
 {: start="53"}
