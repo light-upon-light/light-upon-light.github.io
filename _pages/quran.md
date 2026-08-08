@@ -23,7 +23,8 @@ share: true
 
 ## The Book
 
-### I. Mode of Revelation
+### <span class="num-roman">I.</span> Mode of Revelation
+{: #mode-of-revelation }
 
 1. Revealed **entirely by oral recitation** through Prophet Muhammad ﷺ, a man from seventh-century Mecca who could **neither read nor write**. The Qur'an states this before the audience best placed to deny it.
     > “You ˹O Prophet˺ could not read any writing ˹even˺ before this ˹revelation˺, nor could you write at all. Otherwise, the people of falsehood would have been suspicious.” (**Sūrat al-ʿAnkabūt 29:48**), Dr. Mustafa Khattab, *The Clear Quran*
@@ -33,7 +34,8 @@ share: true
 1. Revealed over **23 years** in **separate portions** and **out of order**, often in response to **events nobody could have anticipated**. But in its final arrangement, it reads as a unified composition.
 1. Once he recited a verse, it was fixed, with **no retraction, no revision, and no second draft**.
 
-### II. Literary Miracle
+### <span class="num-roman">II.</span> Literary Miracle
+{: #literary-miracle }
 
 1. Extends to **more than 600 pages** of recited text. The claims here concern a work of that scale, not a short passage.
 1. Regarded in **every generation since** as the **summit of Arabic eloquence**, both by admirers and by opponents.
@@ -77,7 +79,8 @@ share: true
 
 1. **Flows naturally** and is **beautifully melodic**, with a **profound effect on the heart**. Even without knowing the meaning of the words, people who do not understand Arabic often weep while listening to it being recited.
 
-### III. Challenges and Bold Claims
+### <span class="num-roman">III.</span> Challenges and Bold Claims
+{: #challenges-and-bold-claims }
 
 1. Claims to be the **verbatim word of God**, not a report about Him and not a human account inspired by Him. No other book with comparable reach makes the same claim about itself.
 1. The **second verse of the whole book**, before any story or teaching appears, declares it **beyond doubt**.
@@ -112,14 +115,16 @@ share: true
     > "Like it" here is not an arbitrary standard. A rival chapter should match the Qur'an's eloquence, structure, meaning, guidance, and effect on people's hearts together, not merely imitate one feature. Attempts were made, most famously those attributed to Musaylima, but classical Arabic sources treated them as parody and later critics have not presented them as serious equals. The first audience was both the most qualified to judge and strongly motivated to reject the Qur'an.
     {: .gloss }
 
-### IV. Guidance, Law, and Morality
+### <span class="num-roman">IV.</span> Guidance, Law, and Morality
+{: #guidance-law-and-morality }
 
 1. Presents itself as coming from the **same Divine Author** as the earlier scriptures. It **confirms** their original teaching, **expands** their guidance, and **restores** what was altered over time.
 1. Its central message is **love, mercy, and compassion**, rooted in God Himself as the source of **Goodness** and **Truth**.
 1. Provides a complete **moral and legal framework** that holds **justice and mercy** in balance, and guided a **flourishing civilization** for centuries.
 1. Its **guidance and the lessons in its stories remain directly applicable**. What it addressed to seventh-century Arabs still addresses readers today.
 
-### V. Knowledge: Historical, Scientific and Linguistic
+### <span class="num-roman">V.</span> Knowledge: Historical, Scientific and Linguistic
+{: #knowledge-historical-scientific-and-linguistic }
 
 1. Describes **features of the natural world** that were not established until centuries later, in some cases only after instruments made them observable.
     > These claims should be assessed individually. Strong examples depend on a verse making a specific statement that later evidence confirms. Vague wording stretched to fit a modern discovery doesn't contribute to the argument.
@@ -149,7 +154,8 @@ share: true
 
     {% include yt-embed.html url="https://youtu.be/OED98p4bpx0" title="ONE WORD Proving the Quran is Allah's Words | Arabic101" %}
 
-### VI. Preservation and Memorization
+### <span class="num-roman">VI.</span> Preservation and Memorization
+{: #preservation-and-memorization }
 
 1. **Perfectly preserved for over 1,400 years** through **rigorous mass oral transmission**, accompanied throughout by a written record. Early manuscripts have also been carbon dated.
     > No other book of comparable age has been preserved through the same combination of mass oral transmission and an early written record. Other ancient works generally survive through textual loss, variant versions, or translations (which are inherently interpretations) that stand between the reader and the original language.
@@ -168,7 +174,8 @@ share: true
 
     {% include yt-embed.html url="https://youtu.be/5fyF-35naDE" title="How can the Qur'an be a Miracle for NON-ARABIC Speakers? | Arabic101" %}
 
-### VII. Prophecies
+### <span class="num-roman">VII.</span> Prophecies
+{: #prophecies }
 
 1. Declares itself the **final revelation** and the Prophet ﷺ the **last of the prophets**. This remains a standing prediction: a later prophet would falsify it.
     > "Muḥammad is not the father of [any] one of your men, but [he is] the Messenger of Allāh and seal [i.e., last] of the prophets. And ever is Allāh, of all things, Knowing." (**Sūrat al-Aḥzāb 33:40**), Saheeh International
@@ -212,7 +219,8 @@ share: true
 
     {% include yt-embed.html url="https://youtu.be/ezvPEwizqRc" title="Shocking Predictions in the Sunnah || Mohammed Hijab" %}
 
-### VIII. Historical Impact and Transformation
+### <span class="num-roman">VIII.</span> Historical Impact and Transformation
+{: #historical-impact-and-transformation }
 
 1. The **vast majority of Arabs accepted it** within a single generation, including tribes that had fought hardest to suppress it.
 1. It has **shaped the lives of billions** across fourteen centuries, and **two billion Muslims** today accept it as scripture.
