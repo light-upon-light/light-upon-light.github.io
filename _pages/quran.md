@@ -283,19 +283,27 @@ It follows him from a reputation for honesty built over forty years before he ma
 
     {% include yt-embed.html url="https://youtu.be/n281Zyywyn4" title="How To Prove The Qur'an Has Been Preserved Accurately" %}
 
-- How were the Prophet's ﷺ own life and sayings preserved?
+- How can the Qur'an be a miracle for non-Arabic speakers?
+    {% include yt-embed.html url="https://youtu.be/5fyF-35naDE" title="How can the Qur'an be a Miracle for NON-ARABIC Speakers? | Arabic101" %}
+
+- Did Prophet Muhammad ﷺ really exist? (This is also discussed in the [The Messenger of God ﷺ](/messenger) page)
+    {% include yt-embed.html url="https://youtu.be/_mZgSIlX20U" title="Did Muhammad ﷺ really exist? | Blogging Theology" %}
+
+- How were the Prophet's ﷺ own life and sayings preserved? (This is also discussed in the [The Messenger of God ﷺ](/messenger) page)
     > [How the Record Was Kept](#how-the-record-was-kept) — the chains of transmission, narrator biographies, report grading, and published catalogues of forgeries
 
     > [Blind Spots: The Origins of the Western Method of Critiquing Hadith \| Dr. Jonathan Brown](https://yaqeeninstitute.org/read/paper/blind-spots-the-origins-of-the-western-method-of-critiquing-hadith)
 
-- Did Prophet Muhammad ﷺ really exist?
-    {% include yt-embed.html url="https://youtu.be/_mZgSIlX20U" title="Did Muhammad ﷺ really exist? | Blogging Theology" %}
-
-- Was Prophet Muhammad ﷺ mentioned in previous religions?
+- Was Prophet Muhammad ﷺ mentioned in previous religions? (This is also discussed in the [The Messenger of God ﷺ](/messenger) page)
     {% include yt-embed.html url="https://youtu.be/OzSyIla5Z-Q" title="The Praised One ﷺ in World Scriptures | Hamza Yusuf" %}
 
-- How can the Qur'an be a miracle for non-Arabic speakers?
-    {% include yt-embed.html url="https://youtu.be/5fyF-35naDE" title="How can the Qur'an be a Miracle for NON-ARABIC Speakers? | Arabic101" %}
+    {% include yt-embed.html url="https://youtu.be/EGZ2RibrJtc" title="Jesus Foretold Muhammad ﷺ" %}
+
+    {% include yt-embed.html url="https://youtu.be/i0vl0vAyeoo" title="Muhammad ﷺ and the Jews of Arabia" %}
+
+    {% include yt-embed.html url="https://youtu.be/Z4pm2fSYhCI" title="The Jews of Medina were expecting a Prophet" %}
+
+    {% include yt-embed.html url="https://youtu.be/rk1S_Ovt5Ms" title="Muhammad ﷺ in Song of Solomon" %}
 
 ## Misconceptions About Islam
 
