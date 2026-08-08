@@ -27,19 +27,19 @@ Everything on the [Qur'an page](/quran) was recited by **one man** who could **n
 
 ## Muhammad ﷺ: His Teachings, Character, Life, and the Case for His Prophethood
 
-Many people first encounter Muhammad ﷺ as a name, a historical founder, or the subject of a debate. The Islamic sources preserve a much fuller picture. They describe a man who worshipped through the night and helped at home; who led a state yet died with his armor held as security for food; who wept over his child, played with his family, forgave personal injuries, restrained soldiers, protected treaty partners, listened to women and children, and repeatedly directed attention away from himself and toward God.[2](#ref-2){: .footnote}[3](#ref-3){: .footnote}[13](#ref-13){: .footnote}[14](#ref-14){: .footnote}[37](#ref-37){: .footnote}
+Many people first encounter Prophet Muhammad ﷺ as a name, a historical founder, or the subject of a debate. The Islamic sources preserve a much fuller picture. They describe a man who worshipped through the night and helped at home; who led a state yet died with his armor held as security for food; who wept over his child, played with his family, forgave personal injuries, restrained soldiers, protected treaty partners, listened to women and children, and repeatedly directed attention away from himself and toward God.[2](#ref-2){: .footnote}[3](#ref-3){: .footnote}[13](#ref-13){: .footnote}[14](#ref-14){: .footnote}[37](#ref-37){: .footnote}
 
-This article has two related but distinct aims: to examine **what Muhammad ﷺ actually taught and did**, and to consider **why his claim to prophethood deserves to be taken seriously**. A beautiful teaching does not by itself prove revelation, and a report of a miracle does not authenticate itself. Section IV therefore considers the case for prophethood cumulatively while distinguishing between different kinds of evidence.
+This article has two related but distinct aims: to examine **what Prophet Muhammad ﷺ actually taught and did**, and to consider **why his claim to prophethood deserves to be taken seriously**. A beautiful teaching does not by itself prove revelation, and a report of a miracle does not authenticate itself. Section IV therefore considers the case for prophethood cumulatively while distinguishing between different kinds of evidence.
 
-At the center of that claim is the Qur’an, which Muhammad ﷺ recited publicly in portions over roughly twenty-three years. It describes him as unlettered, and his first audience had already watched him live an ordinary adult life among them. Whatever conclusion one reaches, **the text and the life have to be considered together**.[1](#ref-1){: .footnote}[36](#ref-36){: .footnote}[37](#ref-37){: .footnote}[40](#ref-40){: .footnote}[41](#ref-41){: .footnote}
+At the center of that claim is the Qur’an, which Prophet Muhammad ﷺ recited publicly in portions over roughly twenty-three years. It describes him as unlettered, and his first audience had already watched him live an ordinary adult life among them. Whatever conclusion one reaches, **the text and the life have to be considered together**.[1](#ref-1){: .footnote}[36](#ref-36){: .footnote}[37](#ref-37){: .footnote}[40](#ref-40){: .footnote}[41](#ref-41){: .footnote}
 
-For someone claiming prophethood, **his life is itself relevant evidence**. Muhammad ﷺ had lived openly among his first audience for decades before revelation. They then watched him through years of marginalization and persecution. His wives and household saw how he behaved in private, and later the same man acquired political and military power. Any explanation of his claim has to make sense of this entire course of life. The man known for truthfulness before the claim did not become a habitual liar after it. The teacher of mercy while not having authority continued to restrain retaliation when he had it. The leader who demanded justice refused special treatment for his own family, while the head of state continued to serve at home and died without accumulating a private fortune.[8](#ref-8){: .footnote}[28](#ref-28){: .footnote}[37](#ref-37){: .footnote}[38](#ref-38){: .footnote}[41](#ref-41){: .footnote}[42](#ref-42){: .footnote}
+For someone claiming prophethood, **his life is itself relevant evidence**. Prophet Muhammad ﷺ had lived openly among his first audience for decades before revelation. They then watched him through years of marginalization and persecution. His wives and household saw how he behaved in private, and later the same man acquired political and military power. Any explanation of his claim has to make sense of this entire course of life. The man known for truthfulness before the claim did not become a habitual liar after it. The teacher of mercy while not having authority continued to restrain retaliation when he had it. The leader who demanded justice refused special treatment for his own family, while the head of state continued to serve at home and died without accumulating a private fortune.[8](#ref-8){: .footnote}[28](#ref-28){: .footnote}[37](#ref-37){: .footnote}[38](#ref-38){: .footnote}[41](#ref-41){: .footnote}[42](#ref-42){: .footnote}
 
 The argument on this page is **cumulative**. No single episode below is presented as a decisive proof by itself. Each shows how one man acted when he had every opportunity to act otherwise, and the pattern remains consistent from his years of powerlessness in Mecca to his rule over Arabia. The question is: what explanation accounts for **all of them together**?
 
 ### A short note on sources
 
-- **The Qur’an** is the primary text Muhammad ﷺ publicly recited as revelation.[1](#ref-1){: .footnote}[36](#ref-36){: .footnote}
+- **The Qur’an** is the primary text Prophet Muhammad ﷺ publicly recited as revelation.[1](#ref-1){: .footnote}[36](#ref-36){: .footnote}
 - **Hadith** are transmitted reports of his words, actions, and approvals. This article gives priority to *Sahih al-Bukhari* and *Sahih Muslim*, the two most highly regarded Sunni hadith collections. In hadith terminology, *sahih* [sound/authentic] is the standard term for a report judged to meet the highest ordinary grade of authenticity. Other collections are identified explicitly when used.[2](#ref-2){: .footnote}[3](#ref-3){: .footnote}[22](#ref-22){: .footnote}[23](#ref-23){: .footnote}[33](#ref-33){: .footnote}[43](#ref-43){: .footnote}[44](#ref-44){: .footnote}
 - **Early biography, often called *sira* [prophetic biography],** preserves important narrative material that is not always found in the major hadith collections. Its reports vary in the strength of their transmission, so biographical material is identified as such rather than treated as equivalent to a rigorously authenticated hadith.[8](#ref-8){: .footnote}[19](#ref-19){: .footnote}[28](#ref-28){: .footnote}[29](#ref-29){: .footnote}[37](#ref-37){: .footnote}[38](#ref-38){: .footnote}[39](#ref-39){: .footnote}
 - Quotations from the Qur’an below are **verbatim**, drawn from Dr. Mustafa Khattab's *The Clear Quran* or Saheeh International, whichever reads more clearly in English for the point being made; each is attributed to its translator. Hadith quotations are cited by collection and report number.
@@ -49,7 +49,7 @@ The argument on this page is **cumulative**. No single episode below is presente
 
 ## I. The moral and spiritual vision he taught
 
-Muhammad’s ﷺ teachings do not separate worship from ordinary conduct. Faith in God repeatedly appears beside duties to family, neighbors, the poor, strangers, workers, opponents, animals, and the wider community. The details below show what that moral vision looked like in practice.[1](#ref-1){: .footnote}[2](#ref-2){: .footnote}[3](#ref-3){: .footnote}[11](#ref-11){: .footnote}[12](#ref-12){: .footnote}[13](#ref-13){: .footnote}[14](#ref-14){: .footnote}[36](#ref-36){: .footnote}[43](#ref-43){: .footnote}
+Prophet Muhammad’s ﷺ teachings do not separate worship from ordinary conduct. Faith in God repeatedly appears beside duties to family, neighbors, the poor, strangers, workers, opponents, animals, and the wider community. The details below show what that moral vision looked like in practice.[1](#ref-1){: .footnote}[2](#ref-2){: .footnote}[3](#ref-3){: .footnote}[11](#ref-11){: .footnote}[12](#ref-12){: .footnote}[13](#ref-13){: .footnote}[14](#ref-14){: .footnote}[36](#ref-36){: .footnote}[43](#ref-43){: .footnote}
 
 ### A. The poor, the vulnerable, neighbors, servants, and social dignity
 
@@ -101,12 +101,12 @@ Muhammad’s ﷺ teachings do not separate worship from ordinary conduct. Faith 
    > "Whoever believes in God and the Last Day must not harm his neighbor." — *Sahih al-Bukhari* 6018[2](#ref-2){: .footnote}[13](#ref-13){: .footnote}[43](#ref-43){: .footnote}
    {: .quote }
 
-1. **The duty toward neighbors was emphasized with unusual force.** Gabriel spoke about it so often that Muhammad ﷺ thought neighbors might eventually be given inheritance rights.
+1. **The duty toward neighbors was emphasized with unusual force.** Gabriel spoke about it so often that Prophet Muhammad ﷺ thought neighbors might eventually be given inheritance rights.
 
    > "Gabriel kept instructing me concerning the neighbor until I thought he would make the neighbor an heir." — *Sahih al-Bukhari* 6014[2](#ref-2){: .footnote}[13](#ref-13){: .footnote}[43](#ref-43){: .footnote}
    {: .quote }
 
-1. **Hospitality was a religious duty, not merely a social courtesy.** In one short teaching, Muhammad ﷺ placed honoring guests beside protecting neighbors and disciplining one’s speech.
+1. **Hospitality was a religious duty, not merely a social courtesy.** In one short teaching, Prophet Muhammad ﷺ placed honoring guests beside protecting neighbors and disciplining one’s speech.
 
    > "Whoever believes in God and the Last Day should honor his guest." — *Sahih al-Bukhari* 6018[2](#ref-2){: .footnote}[13](#ref-13){: .footnote}[43](#ref-43){: .footnote}
    {: .quote }
@@ -121,12 +121,12 @@ Muhammad’s ﷺ teachings do not separate worship from ordinary conduct. Faith 
    > "The believers in their mutual affection, mercy, and compassion are like one body: when one limb suffers, the whole body responds with sleeplessness and fever." — *Sahih al-Bukhari* 6011[2](#ref-2){: .footnote}[13](#ref-13){: .footnote}[43](#ref-43){: .footnote}
    {: .quote }
 
-1. **He confronted ethnic contempt even within his own community.** When Abu Dharr insulted another man through his mother, Muhammad ﷺ did not dismiss it as ordinary speech. He told Abu Dharr that this attitude was a remnant of the pre-Islamic age of ignorance.
+1. **He confronted ethnic contempt even within his own community.** When Abu Dharr insulted another man through his mother, Prophet Muhammad ﷺ did not dismiss it as ordinary speech. He told Abu Dharr that this attitude was a remnant of the pre-Islamic age of ignorance.
 
    > "You are a man in whom there remains ignorance." — *Sahih al-Bukhari* 30[2](#ref-2){: .footnote}[13](#ref-13){: .footnote}[43](#ref-43){: .footnote}
    {: .quote }
 
-1. **People under one’s authority retained basic human dignity.** In the same rebuke to Abu Dharr, Muhammad ﷺ required masters to give enslaved people the same standard of food and clothing they gave themselves and prohibited overwhelming them with work.
+1. **People under one’s authority retained basic human dignity.** In the same rebuke to Abu Dharr, Prophet Muhammad ﷺ required masters to give enslaved people the same standard of food and clothing they gave themselves and prohibited overwhelming them with work.
 
    > "Your servants are your brothers whom God placed under your authority. Feed them from what you eat and clothe them from what you wear." — *Sahih al-Bukhari* 30[2](#ref-2){: .footnote}[13](#ref-13){: .footnote}[43](#ref-43){: .footnote}
    {: .quote }
@@ -136,7 +136,7 @@ Muhammad’s ﷺ teachings do not separate worship from ordinary conduct. Faith 
    > "Do not burden them with what overwhelms them; and if you burden them, then help them." — *Sahih al-Bukhari* 30[2](#ref-2){: .footnote}[13](#ref-13){: .footnote}[43](#ref-43){: .footnote}
    {: .quote }
 
-1. **Emancipation was made both a major good deed and a form of atonement.** The Qur’an repeatedly prescribes freeing enslaved people as a way to repair serious wrongs, while Muhammad ﷺ explicitly praised setting people free.
+1. **Emancipation was made both a major good deed and a form of atonement.** The Qur’an repeatedly prescribes freeing enslaved people as a way to repair serious wrongs, while Prophet Muhammad ﷺ explicitly praised setting people free.
 
    > "Whoever frees a Muslim slave, God will save from the Fire a limb of his for every limb he freed." — *Sahih al-Bukhari* 2517[2](#ref-2){: .footnote}[13](#ref-13){: .footnote}[43](#ref-43){: .footnote}
    {: .quote }
@@ -177,22 +177,22 @@ Muhammad’s ﷺ teachings do not separate worship from ordinary conduct. Faith 
    > "God does not look at your faces and your wealth, but He looks at your hearts and your deeds." — *Sahih Muslim* 2564c[3](#ref-3){: .footnote}[14](#ref-14){: .footnote}[43](#ref-43){: .footnote}
    {: .quote }
 
-1. **He entrusted leadership to people whose social background others looked down on.** Zayd ibn Haritha had formerly been enslaved and was freed by Muhammad ﷺ, who called him “our brother and our freedman” and appointed him to command. He later appointed Zayd’s son Usama. When people objected to Usama’s leadership, Muhammad ﷺ defended both father and son as fully worthy of command.
+1. **He entrusted leadership to people whose social background others looked down on.** Zayd ibn Haritha had formerly been enslaved and was freed by Prophet Muhammad ﷺ, who called him “our brother and our freedman” and appointed him to command. He later appointed Zayd’s son Usama. When people objected to Usama’s leadership, Prophet Muhammad ﷺ defended both father and son as fully worthy of command.
 
    > "If you criticize his leadership, you used to criticize his father's leadership before. By God, he was worthy of leadership." — *Sahih al-Bukhari* 3729-3730[2](#ref-2){: .footnote}[13](#ref-13){: .footnote}[43](#ref-43){: .footnote}; *Sahih al-Bukhari* 4469[2](#ref-2){: .footnote}[13](#ref-13){: .footnote}[43](#ref-43){: .footnote}
    {: .quote }
 
-1. **Social responsibility was expressed in practical acts.** Care for the vulnerable was not left as a sentiment. Muhammad ﷺ told his followers plainly: free the captive, feed the hungry, and visit the sick.
+1. **Social responsibility was expressed in practical acts.** Care for the vulnerable was not left as a sentiment. Prophet Muhammad ﷺ told his followers plainly: free the captive, feed the hungry, and visit the sick.
 
    > "Free the captive, feed the hungry, and visit the sick." — *Sahih al-Bukhari* 3046[2](#ref-2){: .footnote}[13](#ref-13){: .footnote}[43](#ref-43){: .footnote}
    {: .quote }
 
-1. **Lineage could not compensate for a failure of character and action.** In a strongly tribal society, Muhammad ﷺ closed a teaching about mercy, mutual aid, and knowledge with a deliberately leveling principle.
+1. **Lineage could not compensate for a failure of character and action.** In a strongly tribal society, Prophet Muhammad ﷺ closed a teaching about mercy, mutual aid, and knowledge with a deliberately leveling principle.
 
    > "Whoever is slowed by his deeds will not be accelerated by his lineage." — *Sahih Muslim* 2699a[3](#ref-3){: .footnote}[14](#ref-14){: .footnote}[43](#ref-43){: .footnote}
    {: .quote }
 
-1. **Leniency toward debtors became a reason to hope for God’s own mercy.** Muhammad ﷺ told of a creditor whom God forgave because he had been gentle with people in financial difficulty.
+1. **Leniency toward debtors became a reason to hope for God’s own mercy.** Prophet Muhammad ﷺ told of a creditor whom God forgave because he had been gentle with people in financial difficulty.
 
    > "Give time to one in ease, and overlook one in hardship." Then God overlooked him. — *Sahih al-Bukhari* 2077[2](#ref-2){: .footnote}[13](#ref-13){: .footnote}[43](#ref-43){: .footnote}
    {: .quote }
@@ -212,12 +212,12 @@ Muhammad’s ﷺ teachings do not separate worship from ordinary conduct. Faith 
    > "Whoever slaps or beats his slave, the expiation for it is to set him free." — *Sahih Muslim* 1657b[3](#ref-3){: .footnote}[14](#ref-14){: .footnote}[43](#ref-43){: .footnote}
    {: .quote }
 
-1. **Selling a free human being into slavery was condemned in the strongest terms.** In a hadith in which Muhammad ﷺ reports words from God, this is one of the abuses for which God Himself will be the offender’s adversary on the Day of Judgment.
+1. **Selling a free human being into slavery was condemned in the strongest terms.** In a hadith in which Prophet Muhammad ﷺ reports words from God, this is one of the abuses for which God Himself will be the offender’s adversary on the Day of Judgment.
 
    > "I will be the opponent of... a man who sells a free person and consumes the price." — *Sahih al-Bukhari* 2270[2](#ref-2){: .footnote}[13](#ref-13){: .footnote}[43](#ref-43){: .footnote}
    {: .quote }
 
-1. **People placed low in the old social hierarchy could receive the highest religious honor.** Bilal, a formerly enslaved Abyssinian Muslim, became the best-known caller to prayer in Muhammad’s ﷺ community. Muhammad ﷺ also told Bilal that he had heard his footsteps ahead of him in Paradise.
+1. **People placed low in the old social hierarchy could receive the highest religious honor.** Bilal, a formerly enslaved Abyssinian Muslim, became the best-known caller to prayer in Prophet Muhammad’s ﷺ community. Prophet Muhammad ﷺ also told Bilal that he had heard his footsteps ahead of him in Paradise.
 
    > "Tell me of the deed you have done in Islam for which you most hope, for I heard your footsteps before me in Paradise." — *Sahih al-Bukhari* 1149[2](#ref-2){: .footnote}[13](#ref-13){: .footnote}[43](#ref-43){: .footnote}
    {: .quote }
@@ -243,12 +243,12 @@ Muhammad’s ﷺ teachings do not separate worship from ordinary conduct. Faith 
    > <div dir="rtl" lang="ar" class="quran-arabic">﴿۞ قَوْلٌ مَّعْرُوفٌ وَمَغْفِرَةٌ خَيْرٌ مِّن صَدَقَةٍ يَتْبَعُهَآ أَذًى ۗ وَٱللَّهُ غَنِىٌّ حَلِيمٌ ۝٢٦٣﴾ <span class="ayah-ref">سُورَةُ البَقَرَةِ</span></div>
    {: .quote }
 
-1. **A person without money could still contribute.** When his companions asked what someone with no material means could give, Muhammad ﷺ named working, helping a person in distress, encouraging good, and finally simply refraining from harming others.
+1. **A person without money could still contribute.** When his companions asked what someone with no material means could give, Prophet Muhammad ﷺ named working, helping a person in distress, encouraging good, and finally simply refraining from harming others.
 
    > "Let him help one in desperate need... and if he does not, let him refrain from evil; that is charity for him." — *Sahih al-Bukhari* 6022[2](#ref-2){: .footnote}[13](#ref-13){: .footnote}[43](#ref-43){: .footnote}
    {: .quote }
 
-1. **He challenged the assumption that social success made a person superior to the poor.** When Sa‘d ibn Abi Waqqas thought his status distinguished him from those beneath him, Muhammad ﷺ redirected his attention to the weak members of the community.
+1. **He challenged the assumption that social success made a person superior to the poor.** When Sa‘d ibn Abi Waqqas thought his status distinguished him from those beneath him, Prophet Muhammad ﷺ redirected his attention to the weak members of the community.
 
    > "Are you given victory and provision except through the weak among you?" — *Sahih al-Bukhari* 2896[2](#ref-2){: .footnote}[13](#ref-13){: .footnote}[43](#ref-43){: .footnote}
    {: .quote }
@@ -302,7 +302,7 @@ Muhammad’s ﷺ teachings do not separate worship from ordinary conduct. Faith 
    > <div dir="rtl" lang="ar" class="quran-arabic">﴿۞ يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ كُونُوا۟ قَوَّٰمِينَ بِٱلْقِسْطِ شُهَدَآءَ لِلَّهِ وَلَوْ عَلَىٰٓ أَنفُسِكُمْ أَوِ ٱلْوَٰلِدَيْنِ وَٱلْأَقْرَبِينَ ۚ إِن يَكُنْ غَنِيًّا أَوْ فَقِيرًا فَٱللَّهُ أَوْلَىٰ بِهِمَا ۖ فَلَا تَتَّبِعُوا۟ ٱلْهَوَىٰٓ أَن تَعْدِلُوا۟ ۚ وَإِن تَلْوُۥٓا۟ أَوْ تُعْرِضُوا۟ فَإِنَّ ٱللَّهَ كَانَ بِمَا تَعْمَلُونَ خَبِيرًا ۝١٣٥﴾ <span class="ayah-ref">سُورَةُ النِّسَاءِ</span></div>
    {: .quote }
 
-1. **He rejected special treatment for the powerful.** When people sought leniency for a woman from an influential family in a theft case, Muhammad ﷺ said earlier communities had been ruined by punishing the weak while sparing the powerful. He then invoked his own daughter to make clear that his family was not exempt.
+1. **He rejected special treatment for the powerful.** When people sought leniency for a woman from an influential family in a theft case, Prophet Muhammad ﷺ said earlier communities had been ruined by punishing the weak while sparing the powerful. He then invoked his own daughter to make clear that his family was not exempt.
 
    > "By God, if Fatima daughter of Muhammad stole, I would apply the law to her." — *Sahih al-Bukhari* 6788[2](#ref-2){: .footnote}[13](#ref-13){: .footnote}[43](#ref-43){: .footnote}
    {: .quote }
@@ -333,12 +333,12 @@ Muhammad’s ﷺ teachings do not separate worship from ordinary conduct. Faith 
    > "Whoever kills a person under covenant will not smell the fragrance of Paradise." — *Sahih al-Bukhari* 3166[2](#ref-2){: .footnote}[13](#ref-13){: .footnote}[43](#ref-43){: .footnote}
    {: .quote }
 
-1. **He stood for the funeral procession of a Jewish man.** When someone pointed out that the deceased was Jewish, Muhammad ﷺ answered by appealing to the man’s common humanity.
+1. **He stood for the funeral procession of a Jewish man.** When someone pointed out that the deceased was Jewish, Prophet Muhammad ﷺ answered by appealing to the man’s common humanity.
 
    > He said, "Was it not a soul?" — *Sahih al-Bukhari* 1312[2](#ref-2){: .footnote}[13](#ref-13){: .footnote}[43](#ref-43){: .footnote}
    {: .quote }
 
-1. **He personally visited a Jewish boy who had served him when the boy became ill.** Muhammad ﷺ invited him to Islam during the visit, but the report also shows that religious difference did not prevent personal care for someone who was sick.
+1. **He personally visited a Jewish boy who had served him when the boy became ill.** Prophet Muhammad ﷺ invited him to Islam during the visit, but the report also shows that religious difference did not prevent personal care for someone who was sick.
 
    > "A Jewish boy used to serve the Prophet ﷺ, and he became ill, so the Prophet ﷺ went to visit him." — *Sahih al-Bukhari* 1356[2](#ref-2){: .footnote}[13](#ref-13){: .footnote}[43](#ref-43){: .footnote}
    {: .quote }
@@ -378,7 +378,7 @@ Muhammad’s ﷺ teachings do not separate worship from ordinary conduct. Faith 
    > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَقَـٰتِلُوا۟ فِى سَبِيلِ ٱللَّهِ ٱلَّذِينَ يُقَـٰتِلُونَكُمْ وَلَا تَعْتَدُوٓا۟ ۚ إِنَّ ٱللَّهَ لَا يُحِبُّ ٱلْمُعْتَدِينَ ۝١٩٠﴾ <span class="ayah-ref">سُورَةُ البَقَرَةِ</span></div>
    {: .quote }
 
-1. **Women and children were not to be intentionally killed in war.** After a woman was found dead during a campaign, Muhammad ﷺ expressly forbade killing women and children.[58](#ref-58){: .footnote}[59](#ref-59){: .footnote}
+1. **Women and children were not to be intentionally killed in war.** After a woman was found dead during a campaign, Prophet Muhammad ﷺ expressly forbade killing women and children.[58](#ref-58){: .footnote}[59](#ref-59){: .footnote}
 
    > "The Messenger of God ﷺ forbade the killing of women and children." — *Sahih al-Bukhari* 3015[2](#ref-2){: .footnote}[13](#ref-13){: .footnote}[43](#ref-43){: .footnote}
    {: .quote }
@@ -416,17 +416,17 @@ Muhammad’s ﷺ teachings do not separate worship from ordinary conduct. Faith 
    > <div dir="rtl" lang="ar" class="quran-arabic">﴿يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تُحِلُّوا۟ شَعَـٰٓئِرَ ٱللَّهِ وَلَا ٱلشَّهْرَ ٱلْحَرَامَ وَلَا ٱلْهَدْىَ وَلَا ٱلْقَلَـٰٓئِدَ وَلَآ ءَآمِّينَ ٱلْبَيْتَ ٱلْحَرَامَ يَبْتَغُونَ فَضْلًا مِّن رَّبِّهِمْ وَرِضْوَٰنًا ۚ وَإِذَا حَلَلْتُمْ فَٱصْطَادُوا۟ ۚ وَلَا يَجْرِمَنَّكُمْ شَنَـَٔانُ قَوْمٍ أَن صَدُّوكُمْ عَنِ ٱلْمَسْجِدِ ٱلْحَرَامِ أَن تَعْتَدُوا۟ ۘ وَتَعَاوَنُوا۟ عَلَى ٱلْبِرِّ وَٱلتَّقْوَىٰ ۖ وَلَا تَعَاوَنُوا۟ عَلَى ٱلْإِثْمِ وَٱلْعُدْوَٰنِ ۚ وَٱتَّقُوا۟ ٱللَّهَ ۖ إِنَّ ٱللَّهَ شَدِيدُ ٱلْعِقَابِ ۝٢﴾ <span class="ayah-ref">سُورَةُ المَائـِدَةِ</span></div>
    {: .quote }
 
-1. **Religious difference did not cancel the duty to maintain family ties.** Asma bint Abu Bakr asked whether she should receive and care for her polytheist mother. Muhammad ﷺ told her to preserve the relationship rather than use religious difference as a reason to sever it.
+1. **Religious difference did not cancel the duty to maintain family ties.** Asma bint Abu Bakr asked whether she should receive and care for her polytheist mother. Prophet Muhammad ﷺ told her to preserve the relationship rather than use religious difference as a reason to sever it.
 
    > He said, "Yes. Maintain good relations with your mother." — *Sahih al-Bukhari* 2620[2](#ref-2){: .footnote}[13](#ref-13){: .footnote}[43](#ref-43){: .footnote}
    {: .quote }
 
-1. **He warned his own representative to fear the prayer of anyone he might oppress.** Before sending Muadh to Yemen, Muhammad ﷺ reminded him that public authority carries spiritual danger because the supplication of the wronged person has no barrier before God.
+1. **He warned his own representative to fear the prayer of anyone he might oppress.** Before sending Muadh to Yemen, Prophet Muhammad ﷺ reminded him that public authority carries spiritual danger because the supplication of the wronged person has no barrier before God.
 
    > "Beware the supplication of the oppressed, for there is no barrier between it and God." — *Sahih al-Bukhari* 2448[2](#ref-2){: .footnote}[13](#ref-13){: .footnote}[43](#ref-43){: .footnote}
    {: .quote }
 
-1. **The prohibition of oppression was made universal.** In a hadith in which Muhammad ﷺ reports words from God, oppression is forbidden among people as such, not merely within a particular tribe, court, or political dispute.
+1. **The prohibition of oppression was made universal.** In a hadith in which Prophet Muhammad ﷺ reports words from God, oppression is forbidden among people as such, not merely within a particular tribe, court, or political dispute.
 
    > "My servants, I have forbidden oppression for Myself and made it forbidden among you, so do not oppress one another." — *Sahih Muslim* 2577a[3](#ref-3){: .footnote}[14](#ref-14){: .footnote}[43](#ref-43){: .footnote}
    {: .quote }
@@ -448,7 +448,7 @@ Muhammad’s ﷺ teachings do not separate worship from ordinary conduct. Faith 
    > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَإِنْ أَحَدٌ مِّنَ ٱلْمُشْرِكِينَ ٱسْتَجَارَكَ فَأَجِرْهُ حَتَّىٰ يَسْمَعَ كَلَـٰمَ ٱللَّهِ ثُمَّ أَبْلِغْهُ مَأْمَنَهُۥ ۚ ذَٰلِكَ بِأَنَّهُمْ قَوْمٌ لَّا يَعْلَمُونَ ۝٦﴾ <span class="ayah-ref">سُورَةُ التَّوۡبَةِ</span></div>
    {: .quote }
 
-1. **He insisted on gentleness even in response to a deliberate insult.** When Jewish visitors used a hostile pun in greeting him and Aisha responded angrily, Muhammad ﷺ restrained her and appealed to the general value of gentleness.
+1. **He insisted on gentleness even in response to a deliberate insult.** When Jewish visitors used a hostile pun in greeting him and Aisha responded angrily, Prophet Muhammad ﷺ restrained her and appealed to the general value of gentleness.
 
    > "Be calm, Aisha. God loves gentleness in all matters." — *Sahih al-Bukhari* 6024[2](#ref-2){: .footnote}[13](#ref-13){: .footnote}[43](#ref-43){: .footnote}
    {: .quote }
@@ -460,7 +460,7 @@ Muhammad’s ﷺ teachings do not separate worship from ordinary conduct. Faith 
    > <div dir="rtl" lang="ar" class="quran-arabic">﴿قُلْ أَغَيْرَ ٱللَّهِ أَبْغِى رَبًّا وَهُوَ رَبُّ كُلِّ شَىْءٍ ۚ وَلَا تَكْسِبُ كُلُّ نَفْسٍ إِلَّا عَلَيْهَا ۚ وَلَا تَزِرُ وَازِرَةٌ وِزْرَ أُخْرَىٰ ۚ ثُمَّ إِلَىٰ رَبِّكُم مَّرْجِعُكُمْ فَيُنَبِّئُكُم بِمَا كُنتُمْ فِيهِ تَخْتَلِفُونَ ۝١٦٤﴾ <span class="ayah-ref">سُورَةُ الأَنۡعَامِ</span></div>
    {: .quote }
 
-1. **Muhammad ﷺ was not authorized to force belief, even when people’s unbelief grieved him.** The Qur’an repeatedly distinguishes his duty to convey the message from God’s authority over human hearts.
+1. **Prophet Muhammad ﷺ was not authorized to force belief, even when people’s unbelief grieved him.** The Qur’an repeatedly distinguishes his duty to convey the message from God’s authority over human hearts.
 
    > "Had your Lord so willed ˹O Prophet˺, all ˹people˺ on earth would have certainly believed, every single one of them! Would you then force people to become believers?" (**Sūrat Yūnus 10:99**), Dr. Mustafa Khattab, *The Clear Quran*[1](#ref-1){: .footnote}[11](#ref-11){: .footnote}[12](#ref-12){: .footnote}[36](#ref-36){: .footnote}
    >
@@ -486,12 +486,12 @@ Muhammad’s ﷺ teachings do not separate worship from ordinary conduct. Faith 
    > <div dir="rtl" lang="ar" class="quran-arabic">﴿إِلَّا ٱلَّذِينَ يَصِلُونَ إِلَىٰ قَوْمٍۭ بَيْنَكُمْ وَبَيْنَهُم مِّيثَـٰقٌ أَوْ جَآءُوكُمْ حَصِرَتْ صُدُورُهُمْ أَن يُقَـٰتِلُوكُمْ أَوْ يُقَـٰتِلُوا۟ قَوْمَهُمْ ۚ وَلَوْ شَآءَ ٱللَّهُ لَسَلَّطَهُمْ عَلَيْكُمْ فَلَقَـٰتَلُوكُمْ ۚ فَإِنِ ٱعْتَزَلُوكُمْ فَلَمْ يُقَـٰتِلُوكُمْ وَأَلْقَوْا۟ إِلَيْكُمُ ٱلسَّلَمَ فَمَا جَعَلَ ٱللَّهُ لَكُمْ عَلَيْهِمْ سَبِيلًا ۝٩٠﴾ <span class="ayah-ref">سُورَةُ النِّسَاءِ</span></div>
    {: .quote }
 
-1. **The protection of noncombatants is made explicit in a report about a woman found slain.** Muhammad ﷺ observed that she had not been fighting and then ordered that women and hired servants not be killed.[58](#ref-58){: .footnote}[59](#ref-59){: .footnote}
+1. **The protection of noncombatants is made explicit in a report about a woman found slain.** Prophet Muhammad ﷺ observed that she had not been fighting and then ordered that women and hired servants not be killed.[58](#ref-58){: .footnote}[59](#ref-59){: .footnote}
 
    > "She was not one who would have fought." ... "Do not kill a woman or a hired servant." — *Sunan Abi Dawud* 2669[4](#ref-4){: .footnote}[15](#ref-15){: .footnote}[43](#ref-43){: .footnote}
    {: .quote }
 
-1. **He prohibited killing captives by burning.** After initially ordering that two enemies be burned if captured, Muhammad ﷺ reversed the command before it was carried out and said that punishment by fire belongs to God alone.
+1. **He prohibited killing captives by burning.** After initially ordering that two enemies be burned if captured, Prophet Muhammad ﷺ reversed the command before it was carried out and said that punishment by fire belongs to God alone.
 
    > "If you capture them, kill them, but do not burn them, for no one should punish with fire except God." — *Sahih al-Bukhari* 3016[2](#ref-2){: .footnote}[13](#ref-13){: .footnote}[43](#ref-43){: .footnote}
    {: .quote }
@@ -524,14 +524,14 @@ Muhammad’s ﷺ teachings do not separate worship from ordinary conduct. Faith 
    > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَأَوْفُوا۟ بِعَهْدِ ٱللَّهِ إِذَا عَـٰهَدتُّمْ وَلَا تَنقُضُوا۟ ٱلْأَيْمَـٰنَ بَعْدَ تَوْكِيدِهَا وَقَدْ جَعَلْتُمُ ٱللَّهَ عَلَيْكُمْ كَفِيلًا ۚ إِنَّ ٱللَّهَ يَعْلَمُ مَا تَفْعَلُونَ ۝٩١﴾ <span class="ayah-ref">سُورَةُ النَّحۡلِ</span></div>
    {: .quote }
 
-1. **Justice could require a ruling against Muslims and in favor of a non-Muslim.** In the traditional account behind Qur’an 4:105–112, members of a Muslim clan stole property and tried to blame a Jewish man. The revealed passage rejected communal favoritism and warned Muhammad ﷺ not to defend the deceitful.
+1. **Justice could require a ruling against Muslims and in favor of a non-Muslim.** In the traditional account behind Qur’an 4:105–112, members of a Muslim clan stole property and tried to blame a Jewish man. The revealed passage rejected communal favoritism and warned Prophet Muhammad ﷺ not to defend the deceitful.
 
    > "Indeed, We have sent down the Book to you ˹O Prophet˺ in truth to judge between people by means of what Allah has shown you. So do not be an advocate for the deceitful." (**Sūrat al-Nisāʾ 4:105**), Dr. Mustafa Khattab, *The Clear Quran*[1](#ref-1){: .footnote}[11](#ref-11){: .footnote}[12](#ref-12){: .footnote}[36](#ref-36){: .footnote}; occasion report: *Jami at-Tirmidhi* 3036, graded *hasan* [good][5](#ref-5){: .footnote}[16](#ref-16){: .footnote}[43](#ref-43){: .footnote}
    >
    > <div dir="rtl" lang="ar" class="quran-arabic">﴿إِنَّآ أَنزَلْنَآ إِلَيْكَ ٱلْكِتَـٰبَ بِٱلْحَقِّ لِتَحْكُمَ بَيْنَ ٱلنَّاسِ بِمَآ أَرَىٰكَ ٱللَّهُ ۚ وَلَا تَكُن لِّلْخَآئِنِينَ خَصِيمًا ۝١٠٥﴾ <span class="ayah-ref">سُورَةُ النِّسَاءِ</span></div>
    {: .quote }
 
-1. **Even an accusation that he had favored a relative was preserved in the record.** In an irrigation dispute involving his cousin al-Zubayr, Muhammad ﷺ first gave a conciliatory ruling that still allowed the other landowner to receive water. When the man angrily accused him of favoring his cousin, Muhammad ﷺ gave al-Zubayr his full legal entitlement. The report, including the accusation, was transmitted by al-Zubayr’s own son.
+1. **Even an accusation that he had favored a relative was preserved in the record.** In an irrigation dispute involving his cousin al-Zubayr, Prophet Muhammad ﷺ first gave a conciliatory ruling that still allowed the other landowner to receive water. When the man angrily accused him of favoring his cousin, Prophet Muhammad ﷺ gave al-Zubayr his full legal entitlement. The report, including the accusation, was transmitted by al-Zubayr’s own son.
 
    > Muhammad ﷺ first told al-Zubayr to water and then release the water to his neighbor; after the objection, he ordered him to take his full right. — *Sahih al-Bukhari* 2359-2362[2](#ref-2){: .footnote}[13](#ref-13){: .footnote}[43](#ref-43){: .footnote}
    {: .quote }
@@ -543,7 +543,7 @@ Muhammad’s ﷺ teachings do not separate worship from ordinary conduct. Faith 
 
 ### C. Money, work, knowledge, leadership, health, and the natural world
 
-1. **Honest work carried its own dignity.** Muhammad ﷺ taught that the best food a person eats is earned through his own labor, and he cited the prophet David as an example.
+1. **Honest work carried its own dignity.** Prophet Muhammad ﷺ taught that the best food a person eats is earned through his own labor, and he cited the prophet David as an example.
 
    > “No one has eaten food better than that earned by the work of his own hands.” — *Sahih al-Bukhari* 2072[2](#ref-2){: .footnote}[13](#ref-13){: .footnote}[43](#ref-43){: .footnote}
    {: .quote }
@@ -589,7 +589,7 @@ Muhammad’s ﷺ teachings do not separate worship from ordinary conduct. Faith 
    > <div dir="rtl" lang="ar" class="quran-arabic">﴿۞ إِنَّمَا ٱلصَّدَقَـٰتُ لِلْفُقَرَآءِ وَٱلْمَسَـٰكِينِ وَٱلْعَـٰمِلِينَ عَلَيْهَا وَٱلْمُؤَلَّفَةِ قُلُوبُهُمْ وَفِى ٱلرِّقَابِ وَٱلْغَـٰرِمِينَ وَفِى سَبِيلِ ٱللَّهِ وَٱبْنِ ٱلسَّبِيلِ ۖ فَرِيضَةً مِّنَ ٱللَّهِ ۗ وَٱللَّهُ عَلِيمٌ حَكِيمٌ ۝٦٠﴾ <span class="ayah-ref">سُورَةُ التَّوۡبَةِ</span></div>
    {: .quote }
 
-1. **The pursuit of knowledge was itself a religious good.** The Qur’an even teaches Muhammad ﷺ to pray for an increase in knowledge.
+1. **The pursuit of knowledge was itself a religious good.** The Qur’an even teaches Prophet Muhammad ﷺ to pray for an increase in knowledge.
 
    > "So high [above all] is Allah, the Sovereign, the Truth. And, [O Muhammad], do not hasten with [recitation of] the Qur'an before its revelation is completed to you, and say, 'My Lord, increase me in knowledge.'" (**Sūrat Ṭāhā 20:114**), Saheeh International[1](#ref-1){: .footnote}[11](#ref-11){: .footnote}[12](#ref-12){: .footnote}[36](#ref-36){: .footnote}
    >
@@ -615,7 +615,7 @@ Muhammad’s ﷺ teachings do not separate worship from ordinary conduct. Faith 
    > <div dir="rtl" lang="ar" class="quran-arabic">﴿إِنَّ فِى خَلْقِ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ وَٱخْتِلَـٰفِ ٱلَّيْلِ وَٱلنَّهَارِ لَـَٔايَـٰتٍ لِّأُو۟لِى ٱلْأَلْبَـٰبِ ۝١٩٠﴾ <span class="ayah-ref">سُورَةُ آلِ عِمۡرَانَ</span></div>
    {: .quote }
 
-1. **He distinguished revelation from ordinary human judgment in technical matters.** After commenting on date-palm pollination and seeing that the harvest suffered, Muhammad ﷺ did not protect his prestige by pretending agricultural expertise.
+1. **He distinguished revelation from ordinary human judgment in technical matters.** After commenting on date-palm pollination and seeing that the harvest suffered, Prophet Muhammad ﷺ did not protect his prestige by pretending agricultural expertise.
 
    > “You know better about the technical affairs of your worldly life.” — *Sahih Muslim* 2363[3](#ref-3){: .footnote}[14](#ref-14){: .footnote}[43](#ref-43){: .footnote}
    {: .quote }
@@ -627,7 +627,7 @@ Muhammad’s ﷺ teachings do not separate worship from ordinary conduct. Faith 
    > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَٱلَّذِينَ ٱسْتَجَابُوا۟ لِرَبِّهِمْ وَأَقَامُوا۟ ٱلصَّلَوٰةَ وَأَمْرُهُمْ شُورَىٰ بَيْنَهُمْ وَمِمَّا رَزَقْنَـٰهُمْ يُنفِقُونَ ۝٣٨﴾ <span class="ayah-ref">سُورَةُ الشُّورَىٰ</span></div>
    {: .quote }
 
-1. **Muhammad ﷺ himself was commanded to consult his followers.** The command appears in a verse telling him to remain gentle, pardon them, and seek their counsel after Uhud, a painful military defeat outside Medina.
+1. **Prophet Muhammad ﷺ himself was commanded to consult his followers.** The command appears in a verse telling him to remain gentle, pardon them, and seek their counsel after Uhud, a painful military defeat outside Medina.
 
    > "It is out of Allah's mercy that you ˹O Prophet˺ have been lenient with them. Had you been cruel or hard-hearted, they would have certainly abandoned you. So pardon them, ask Allah's forgiveness for them, and consult with them in ˹conducting˺ matters. Once you make a decision, put your trust in Allah. Surely Allah loves those who trust in Him." (**Sūrat Āli ʿImrān 3:159**), Dr. Mustafa Khattab, *The Clear Quran*[1](#ref-1){: .footnote}[11](#ref-11){: .footnote}[12](#ref-12){: .footnote}[36](#ref-36){: .footnote}
    >
@@ -664,12 +664,12 @@ Muhammad’s ﷺ teachings do not separate worship from ordinary conduct. Faith 
    > “No Muslim plants a tree or sows a crop from which a person, bird, or animal eats except that it is charity for him.” — *Sahih al-Bukhari* 2320[2](#ref-2){: .footnote}[13](#ref-13){: .footnote}[43](#ref-43){: .footnote}
    {: .quote }
 
-1. **Compassion extended even to an animal many people would avoid.** Muhammad ﷺ told of a man whom God forgave after he gave water to a desperately thirsty dog. When asked whether kindness to animals is rewarded, he answered that it is.[62](#ref-62){: .footnote}
+1. **Compassion extended even to an animal many people would avoid.** Prophet Muhammad ﷺ told of a man whom God forgave after he gave water to a desperately thirsty dog. When asked whether kindness to animals is rewarded, he answered that it is.[62](#ref-62){: .footnote}
 
    > “In every living creature there is a reward.” — *Sahih al-Bukhari* 2363[2](#ref-2){: .footnote}[13](#ref-13){: .footnote}[43](#ref-43){: .footnote}
    {: .quote }
 
-1. **Cruelty to animals could be a grave sin.** In one of Muhammad’s ﷺ teachings, a woman was condemned for confining a cat until it died without either feeding it or allowing it to find food for itself.[62](#ref-62){: .footnote}
+1. **Cruelty to animals could be a grave sin.** In one of Prophet Muhammad’s ﷺ teachings, a woman was condemned for confining a cat until it died without either feeding it or allowing it to find food for itself.[62](#ref-62){: .footnote}
 
    > “A woman was punished because of a cat she confined until it died.” — *Sahih al-Bukhari* 3318[2](#ref-2){: .footnote}[13](#ref-13){: .footnote}[43](#ref-43){: .footnote}
    {: .quote }
@@ -699,7 +699,7 @@ Muhammad’s ﷺ teachings do not separate worship from ordinary conduct. Faith 
    > “If you hear of plague in a land, do not enter it; and if it occurs in a land while you are there, do not leave it.” — *Sahih al-Bukhari* 5728[2](#ref-2){: .footnote}[13](#ref-13){: .footnote}[43](#ref-43){: .footnote}
    {: .quote }
 
-1. **Ownership of a working animal created responsibility for its welfare.** When Muhammad ﷺ saw a severely emaciated camel, he rebuked its neglect rather than treating the animal as disposable equipment.
+1. **Ownership of a working animal created responsibility for its welfare.** When Prophet Muhammad ﷺ saw a severely emaciated camel, he rebuked its neglect rather than treating the animal as disposable equipment.
 
    > “Fear God regarding these animals. Ride them while they are in good condition, and feed them while they are in good condition.” — *Sunan Abi Dawud* 2548, graded *sahih* [sound][4](#ref-4){: .footnote}[15](#ref-15){: .footnote}[43](#ref-43){: .footnote}
    {: .quote }
@@ -711,17 +711,17 @@ Muhammad’s ﷺ teachings do not separate worship from ordinary conduct. Faith 
    > <div dir="rtl" lang="ar" class="quran-arabic">﴿يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ إِذَا تَدَايَنتُم بِدَيْنٍ إِلَىٰٓ أَجَلٍ مُّسَمًّى فَٱكْتُبُوهُ ۚ وَلْيَكْتُب بَّيْنَكُمْ كَاتِبٌۢ بِٱلْعَدْلِ ۚ وَلَا يَأْبَ كَاتِبٌ أَن يَكْتُبَ كَمَا عَلَّمَهُ ٱللَّهُ ۚ فَلْيَكْتُبْ وَلْيُمْلِلِ ٱلَّذِى عَلَيْهِ ٱلْحَقُّ وَلْيَتَّقِ ٱللَّهَ رَبَّهُۥ وَلَا يَبْخَسْ مِنْهُ شَيْـًٔا ۚ فَإِن كَانَ ٱلَّذِى عَلَيْهِ ٱلْحَقُّ سَفِيهًا أَوْ ضَعِيفًا أَوْ لَا يَسْتَطِيعُ أَن يُمِلَّ هُوَ فَلْيُمْلِلْ وَلِيُّهُۥ بِٱلْعَدْلِ ۚ وَٱسْتَشْهِدُوا۟ شَهِيدَيْنِ مِن رِّجَالِكُمْ ۖ فَإِن لَّمْ يَكُونَا رَجُلَيْنِ فَرَجُلٌ وَٱمْرَأَتَانِ مِمَّن تَرْضَوْنَ مِنَ ٱلشُّهَدَآءِ أَن تَضِلَّ إِحْدَىٰهُمَا فَتُذَكِّرَ إِحْدَىٰهُمَا ٱلْأُخْرَىٰ ۚ وَلَا يَأْبَ ٱلشُّهَدَآءُ إِذَا مَا دُعُوا۟ ۚ وَلَا تَسْـَٔمُوٓا۟ أَن تَكْتُبُوهُ صَغِيرًا أَوْ كَبِيرًا إِلَىٰٓ أَجَلِهِۦ ۚ ذَٰلِكُمْ أَقْسَطُ عِندَ ٱللَّهِ وَأَقْوَمُ لِلشَّهَـٰدَةِ وَأَدْنَىٰٓ أَلَّا تَرْتَابُوٓا۟ ۖ إِلَّآ أَن تَكُونَ تِجَـٰرَةً حَاضِرَةً تُدِيرُونَهَا بَيْنَكُمْ فَلَيْسَ عَلَيْكُمْ جُنَاحٌ أَلَّا تَكْتُبُوهَا ۗ وَأَشْهِدُوٓا۟ إِذَا تَبَايَعْتُمْ ۚ وَلَا يُضَآرَّ كَاتِبٌ وَلَا شَهِيدٌ ۚ وَإِن تَفْعَلُوا۟ فَإِنَّهُۥ فُسُوقٌۢ بِكُمْ ۗ وَٱتَّقُوا۟ ٱللَّهَ ۖ وَيُعَلِّمُكُمُ ٱللَّهُ ۗ وَٱللَّهُ بِكُلِّ شَىْءٍ عَلِيمٌ ۝٢٨٢﴾ <span class="ayah-ref">سُورَةُ البَقَرَةِ</span></div>
    {: .quote }
 
-1. **Public office was a trust, not a reward for friendship.** When the beloved companion Abu Dharr asked for authority, Muhammad ﷺ refused to appoint him because he believed Abu Dharr was not suited to the responsibility.
+1. **Public office was a trust, not a reward for friendship.** When the beloved companion Abu Dharr asked for authority, Prophet Muhammad ﷺ refused to appoint him because he believed Abu Dharr was not suited to the responsibility.
 
    > “Abu Dharr, you are weak, and authority is a trust... except for the one who takes it with its right and fulfills its duties.” — *Sahih Muslim* 1825[3](#ref-3){: .footnote}[14](#ref-14){: .footnote}[43](#ref-43){: .footnote}
    {: .quote }
 
-1. **Power was not something to chase for its own sake.** Muhammad ﷺ warned against seeking office simply because authority itself was desired.
+1. **Power was not something to chase for its own sake.** Prophet Muhammad ﷺ warned against seeking office simply because authority itself was desired.
 
    > “Do not seek authority. If it is given to you because you asked for it, you will be left to bear it; if it is given without your asking, you will be helped in it.” — *Sahih al-Bukhari* 7146[2](#ref-2){: .footnote}[13](#ref-13){: .footnote}[43](#ref-43){: .footnote}
    {: .quote }
 
-1. **He ordered his companions to return baby birds they had taken from their mother.** Seeing the mother flutter in distress, Muhammad ﷺ focused on the suffering they had caused her and required them to put her young back. The same report records him objecting to the burning of an ant colony.
+1. **He ordered his companions to return baby birds they had taken from their mother.** Seeing the mother flutter in distress, Prophet Muhammad ﷺ focused on the suffering they had caused her and required them to put her young back. The same report records him objecting to the burning of an ant colony.
 
    > “Who has distressed this bird by taking her young? Return her young to her.” — *Sunan Abi Dawud* 2675, graded *sahih* [sound][4](#ref-4){: .footnote}[15](#ref-15){: .footnote}[43](#ref-43){: .footnote}
    {: .quote }
@@ -746,7 +746,7 @@ Muhammad’s ﷺ teachings do not separate worship from ordinary conduct. Faith 
    > “There are two blessings in which many people are deceived: health and free time.” — *Sahih al-Bukhari* 6412[2](#ref-2){: .footnote}[13](#ref-13){: .footnote}[43](#ref-43){: .footnote}
    {: .quote }
 
-1. **He personally inspected the market and exposed a concealed defect.** When he found wet grain hidden beneath dry grain, Muhammad ﷺ told the seller that buyers had to be able to see what was wrong with the product.
+1. **He personally inspected the market and exposed a concealed defect.** When he found wet grain hidden beneath dry grain, Prophet Muhammad ﷺ told the seller that buyers had to be able to see what was wrong with the product.
 
    > “Why did you not put it on top so people could see it? Whoever deceives us is not of us.” — *Sahih Muslim* 102[3](#ref-3){: .footnote}[14](#ref-14){: .footnote}[43](#ref-43){: .footnote}
    {: .quote }
@@ -765,12 +765,12 @@ Muhammad’s ﷺ teachings do not separate worship from ordinary conduct. Faith 
    > <div dir="rtl" lang="ar" class="quran-arabic">﴿يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ أَوْفُوا۟ بِٱلْعُقُودِ ۚ أُحِلَّتْ لَكُم بَهِيمَةُ ٱلْأَنْعَـٰمِ إِلَّا مَا يُتْلَىٰ عَلَيْكُمْ غَيْرَ مُحِلِّى ٱلصَّيْدِ وَأَنتُمْ حُرُمٌ ۗ إِنَّ ٱللَّهَ يَحْكُمُ مَا يُرِيدُ ۝١﴾ <span class="ayah-ref">سُورَةُ المَائـِدَةِ</span></div>
    {: .quote }
 
-1. **A public official could not treat gifts generated by his office as personal favors.** When a tax collector claimed that some property had been given to him personally, Muhammad ﷺ exposed the conflict of interest by asking whether he would have received those gifts had he simply stayed at home.
+1. **A public official could not treat gifts generated by his office as personal favors.** When a tax collector claimed that some property had been given to him personally, Prophet Muhammad ﷺ exposed the conflict of interest by asking whether he would have received those gifts had he simply stayed at home.
 
    > “Why did he not sit in his father’s or mother’s house and see whether gifts would be given to him?” — *Sahih al-Bukhari* 7174[2](#ref-2){: .footnote}[13](#ref-13){: .footnote}[43](#ref-43){: .footnote}
    {: .quote }
 
-1. **Leaders were warned against making life needlessly difficult for people.** In a prayer about those entrusted with his community’s affairs, Muhammad ﷺ contrasted harsh administration with gentleness.
+1. **Leaders were warned against making life needlessly difficult for people.** In a prayer about those entrusted with his community’s affairs, Prophet Muhammad ﷺ contrasted harsh administration with gentleness.
 
    > “O God, whoever is put in charge of my community and is hard on them, be hard on him; whoever is gentle with them, be gentle with him.” — *Sahih Muslim* 1828a[3](#ref-3){: .footnote}[14](#ref-14){: .footnote}[43](#ref-43){: .footnote}
    {: .quote }
@@ -787,7 +787,7 @@ Muhammad’s ﷺ teachings do not separate worship from ordinary conduct. Faith 
    > “No one hoards except a sinner.” — *Sahih Muslim* 1605a[3](#ref-3){: .footnote}[14](#ref-14){: .footnote}[43](#ref-43){: .footnote}
    {: .quote }
 
-1. **One of his teachings was later invoked against the abuse of non-Muslim taxpayers.** Hisham ibn Hakim saw farmers forced to stand in the sun over the *jizya* [tax historically levied on certain non-Muslim subjects] and cited Muhammad’s ﷺ warning against tormenting people. The principle could therefore be turned against officials after his death.
+1. **One of his teachings was later invoked against the abuse of non-Muslim taxpayers.** Hisham ibn Hakim saw farmers forced to stand in the sun over the *jizya* [tax historically levied on certain non-Muslim subjects] and cited Prophet Muhammad’s ﷺ warning against tormenting people. The principle could therefore be turned against officials after his death.
 
    > “God will punish those who torment people in this world.” — *Sahih Muslim* 2613b[3](#ref-3){: .footnote}[14](#ref-14){: .footnote}[43](#ref-43){: .footnote}
    {: .quote }
@@ -802,7 +802,7 @@ Muhammad’s ﷺ teachings do not separate worship from ordinary conduct. Faith 
    > “None of you should urinate in stagnant water that does not flow and then bathe in it.” — *Sahih al-Bukhari* 239[2](#ref-2){: .footnote}[13](#ref-13){: .footnote}[43](#ref-43){: .footnote}
    {: .quote }
 
-1. **Worship was not confined to special or elite buildings.** Muhammad ﷺ taught that the earth itself could serve as a place of prayer, making worship portable and part of ordinary life.
+1. **Worship was not confined to special or elite buildings.** Prophet Muhammad ﷺ taught that the earth itself could serve as a place of prayer, making worship portable and part of ordinary life.
 
    > “The earth has been made for me a place of prayer and a means of purification.” — *Sahih al-Bukhari* 335[2](#ref-2){: .footnote}[13](#ref-13){: .footnote}[43](#ref-43){: .footnote}
    {: .quote }
@@ -817,7 +817,7 @@ Muhammad’s ﷺ teachings do not separate worship from ordinary conduct. Faith 
    > “The Prophet ﷺ cursed the one who mutilates an animal.” — *Sahih al-Bukhari* 5515[2](#ref-2){: .footnote}[13](#ref-13){: .footnote}[43](#ref-43){: .footnote}
    {: .quote }
 
-1. **Wanting authority was not itself a qualification for receiving it.** Alongside warning individuals not to seek office for status, Muhammad ﷺ told those making appointments not to reward a person merely for being eager to rule.
+1. **Wanting authority was not itself a qualification for receiving it.** Alongside warning individuals not to seek office for status, Prophet Muhammad ﷺ told those making appointments not to reward a person merely for being eager to rule.
 
    > “We do not appoint to this work anyone who asks for it or is eager for it.” — *Sahih al-Bukhari* 7149[2](#ref-2){: .footnote}[13](#ref-13){: .footnote}[43](#ref-43){: .footnote}
    {: .quote }
@@ -832,17 +832,17 @@ Muhammad’s ﷺ teachings do not separate worship from ordinary conduct. Faith 
    > “When God intends good for someone, He gives him understanding of the religion.” — *Sahih al-Bukhari* 71[2](#ref-2){: .footnote}[13](#ref-13){: .footnote}[43](#ref-43){: .footnote}; *Sahih Muslim* 1037[3](#ref-3){: .footnote}[14](#ref-14){: .footnote}[43](#ref-43){: .footnote}
    {: .quote }
 
-1. **Studying revelation together was itself given spiritual value.** Muhammad ﷺ described communal reading and study as being surrounded by tranquility and mercy, so learning was not confined to isolated experts.
+1. **Studying revelation together was itself given spiritual value.** Prophet Muhammad ﷺ described communal reading and study as being surrounded by tranquility and mercy, so learning was not confined to isolated experts.
 
    > “No people gather in one of God’s houses, reciting God’s Book and studying it together, except that tranquility descends upon them.” — *Sahih Muslim* 2699a[3](#ref-3){: .footnote}[14](#ref-14){: .footnote}[43](#ref-43){: .footnote}
    {: .quote }
 
-1. **He taught with attention to people’s capacity to concentrate.** Ibn Masud remembered that Muhammad ﷺ chose suitable times for instruction because he did not want listeners to become bored or exhausted by constant teaching.
+1. **He taught with attention to people’s capacity to concentrate.** Ibn Masud remembered that Prophet Muhammad ﷺ chose suitable times for instruction because he did not want listeners to become bored or exhausted by constant teaching.
 
    > “He used to choose suitable times to teach us, fearing that we would become bored.” — *Sahih al-Bukhari* 68, 70[2](#ref-2){: .footnote}[13](#ref-13){: .footnote}[43](#ref-43){: .footnote}
    {: .quote }
 
-1. **Difficult questions were allowed.** The hadith literature preserves people asking Muhammad ﷺ about belief, doubt, intimacy, grief, worship, money, family problems, and death. The famous hadith of Gabriel teaches the foundations of religion through direct questions and answers.
+1. **Difficult questions were allowed.** The hadith literature preserves people asking Prophet Muhammad ﷺ about belief, doubt, intimacy, grief, worship, money, family problems, and death. The famous hadith of Gabriel teaches the foundations of religion through direct questions and answers.
 
    > “Tell me about Islam... Tell me about faith... Tell me about excellence.” — *Sahih Muslim* 8[3](#ref-3){: .footnote}[14](#ref-14){: .footnote}[43](#ref-43){: .footnote}
    {: .quote }
@@ -857,7 +857,7 @@ Muhammad’s ﷺ teachings do not separate worship from ordinary conduct. Faith 
    > “The Prophet ﷺ forbade artificial bidding.” — *Sahih al-Bukhari* 2140[2](#ref-2){: .footnote}[13](#ref-13){: .footnote}[43](#ref-43){: .footnote}
    {: .quote }
 
-1. **He encouraged charity designed to keep benefiting people beyond a single gift.** When Umar acquired valuable land, Muhammad ﷺ advised him to preserve the asset while dedicating its yield to the poor, relatives, travelers, and other beneficiaries. This became an important precedent for charitable endowment.
+1. **He encouraged charity designed to keep benefiting people beyond a single gift.** When Umar acquired valuable land, Prophet Muhammad ﷺ advised him to preserve the asset while dedicating its yield to the poor, relatives, travelers, and other beneficiaries. This became an important precedent for charitable endowment.
 
    > “Retain the property itself and give its produce in charity.” — *Sahih al-Bukhari* 2737, 2764; *Sahih Muslim* 1632[2](#ref-2){: .footnote}[3](#ref-3){: .footnote}[13](#ref-13){: .footnote}[14](#ref-14){: .footnote}[43](#ref-43){: .footnote}[61](#ref-61){: .footnote}
    {: .quote }
@@ -874,29 +874,29 @@ Muhammad’s ﷺ teachings do not separate worship from ordinary conduct. Faith 
    > “Muslims are partners in three: water, pasture, and fire.” — *Sunan Abi Dawud* 3477, graded sound[4](#ref-4){: .footnote}[15](#ref-15){: .footnote}[43](#ref-43){: .footnote}
    {: .quote }
 
-1. **He sometimes refused to exercise a power that people themselves asked him to use.** When prices rose and people asked Muhammad ﷺ to fix them, he declined because he feared meeting God responsible for an injustice involving another person’s property or life. Whatever one thinks of the economic rule in another context, the incident shows how he understood authority: **having power did not make every possible intervention morally his to exercise**.
+1. **He sometimes refused to exercise a power that people themselves asked him to use.** When prices rose and people asked Prophet Muhammad ﷺ to fix them, he declined because he feared meeting God responsible for an injustice involving another person’s property or life. Whatever one thinks of the economic rule in another context, the incident shows how he understood authority: **having power did not make every possible intervention morally his to exercise**.
 
    > “I hope to meet God with no one having a claim against me for an injustice concerning blood or property.” — *Sunan Abi Dawud* 3451, graded sound[4](#ref-4){: .footnote}[15](#ref-15){: .footnote}[43](#ref-43){: .footnote}
    {: .quote }
 
-1. **He answered a shocking moral request by making the questioner think from another person’s position.** A young man openly asked permission to commit adultery. Rather than letting the crowd attack him, Muhammad ﷺ called him close and asked whether he would accept the same act involving his own mother, daughter, sister, or aunt. The young man answered no each time, after which Muhammad ﷺ prayed for him.
+1. **He answered a shocking moral request by making the questioner think from another person’s position.** A young man openly asked permission to commit adultery. Rather than letting the crowd attack him, Prophet Muhammad ﷺ called him close and asked whether he would accept the same act involving his own mother, daughter, sister, or aunt. The young man answered no each time, after which Prophet Muhammad ﷺ prayed for him.
 
    > The young man was asked whether he would accept the act for his own female relatives, and each time answered that he would not. — *Musnad Ahmad* 22211, graded sound by Shuayb al-Arnaut[10](#ref-10){: .footnote}
    {: .quote }
 
-1. **Even a voluntary confession to a grave sexual offense was not rushed into punishment.** When Ma’iz confessed to adultery, Muhammad ﷺ repeatedly turned him away and investigated whether he understood what he was saying and whether the legal conditions actually applied. The punishment described in the report is severe, but the report also shows a marked reluctance to impose it merely because a distressed person confessed.
+1. **Even a voluntary confession to a grave sexual offense was not rushed into punishment.** When Ma’iz confessed to adultery, Prophet Muhammad ﷺ repeatedly turned him away and investigated whether he understood what he was saying and whether the legal conditions actually applied. The punishment described in the report is severe, but the report also shows a marked reluctance to impose it merely because a distressed person confessed.
 
    > The report describes Ma’iz returning repeatedly before the confession was finally accepted. — *Sahih al-Bukhari* 6825[2](#ref-2){: .footnote}[13](#ref-13){: .footnote}[43](#ref-43){: .footnote}
    {: .quote }
 
-1. **He openly acknowledged that a court could reach the wrong result when the evidence was misleading.** Litigants differ in eloquence, so a persuasive person might receive a judgment for property that was not truly his. Muhammad ﷺ warned that the favorable ruling would not turn the underlying wrong into a moral right.
+1. **He openly acknowledged that a court could reach the wrong result when the evidence was misleading.** Litigants differ in eloquence, so a persuasive person might receive a judgment for property that was not truly his. Prophet Muhammad ﷺ warned that the favorable ruling would not turn the underlying wrong into a moral right.
 
    > “I am only a human being. You bring me your disputes, and one of you may be more persuasive than another... If I award him something from his brother’s right, let him not take it.” — *Sahih al-Bukhari* 2680[2](#ref-2){: .footnote}[13](#ref-13){: .footnote}[43](#ref-43){: .footnote}
    {: .quote }
 
 ### D. God, worship, hope, repentance, and the inner life
 
-1. **The worship of one God stood at the center of his message.** Muhammad ﷺ did not ask people to worship him, his family, saints, tribes, natural forces, or intermediaries. His central proclamation was uncompromising monotheism: ultimate love, fear, hope, gratitude, prayer, and surrender belong to God alone.
+1. **The worship of one God stood at the center of his message.** Prophet Muhammad ﷺ did not ask people to worship him, his family, saints, tribes, natural forces, or intermediaries. His central proclamation was uncompromising monotheism: ultimate love, fear, hope, gratitude, prayer, and surrender belong to God alone.
 
    > "Say, ‘He is Allah, [who is] One,’ Allah, the Eternal Refuge. He neither begets nor is born, nor is there to Him any equivalent." (**Sūrat al-Ikhlāṣ 112:1-4**), Saheeh International[1](#ref-1){: .footnote}[11](#ref-11){: .footnote}[12](#ref-12){: .footnote}[36](#ref-36){: .footnote}
    >
@@ -924,12 +924,12 @@ Muhammad’s ﷺ teachings do not separate worship from ordinary conduct. Faith 
    > <div dir="rtl" lang="ar" class="quran-arabic">﴿إِلَّا مَن تَابَ وَءَامَنَ وَعَمِلَ عَمَلًا صَـٰلِحًا فَأُو۟لَـٰٓئِكَ يُبَدِّلُ ٱللَّهُ سَيِّـَٔاتِهِمْ حَسَنَـٰتٍ ۗ وَكَانَ ٱللَّهُ غَفُورًا رَّحِيمًا ۝٧٠﴾ <span class="ayah-ref">سُورَةُ الفُرۡقَانِ</span></div>
    {: .quote }
 
-1. **He described God as rejoicing in a servant’s return.** Muhammad ﷺ compared it to the overwhelming relief of a traveler in a deadly desert who unexpectedly recovers the animal carrying his food and water, then said God’s joy at a servant’s repentance is greater still.
+1. **He described God as rejoicing in a servant’s return.** Prophet Muhammad ﷺ compared it to the overwhelming relief of a traveler in a deadly desert who unexpectedly recovers the animal carrying his food and water, then said God’s joy at a servant’s repentance is greater still.
 
    > "God is more joyful at the repentance of His servant than one of you who finds his lost camel in a barren desert." — *Sahih Muslim* 2747a[3](#ref-3){: .footnote}[14](#ref-14){: .footnote}[43](#ref-43){: .footnote}
    {: .quote }
 
-1. **Even a man who had murdered one hundred people was not beyond repentance.** In a story Muhammad ﷺ told, the killer asked whether return to God was still possible. A knowledgeable man told him that nothing stood between him and repentance, then instructed him to leave the corrupt environment that had shaped him.
+1. **Even a man who had murdered one hundred people was not beyond repentance.** In a story Prophet Muhammad ﷺ told, the killer asked whether return to God was still possible. A knowledgeable man told him that nothing stood between him and repentance, then instructed him to leave the corrupt environment that had shaped him.
 
    > "Who can stand between you and repentance? Go to such-and-such a land, for there are people there who worship God." — *Sahih Muslim* 2766a[3](#ref-3){: .footnote}[14](#ref-14){: .footnote}[43](#ref-43){: .footnote}
    {: .quote }
@@ -962,7 +962,7 @@ Muhammad’s ﷺ teachings do not separate worship from ordinary conduct. Faith 
    > <div dir="rtl" lang="ar" class="quran-arabic">﴿فَٱذْكُرُونِىٓ أَذْكُرْكُمْ وَٱشْكُرُوا۟ لِى وَلَا تَكْفُرُونِ ۝١٥٢﴾ <span class="ayah-ref">سُورَةُ البَقَرَةِ</span></div>
    {: .quote }
 
-1. **Trust in God was joined to active effort.** Reliance was not meant to become helplessness. Muhammad ﷺ told believers to pursue what benefits them, seek God’s help, and not give in to incapacity.
+1. **Trust in God was joined to active effort.** Reliance was not meant to become helplessness. Prophet Muhammad ﷺ told believers to pursue what benefits them, seek God’s help, and not give in to incapacity.
 
    > "Be eager for what benefits you, seek God’s help, and do not give up." — *Sahih Muslim* 2664[3](#ref-3){: .footnote}[14](#ref-14){: .footnote}[43](#ref-43){: .footnote}
    {: .quote }
@@ -989,17 +989,17 @@ Muhammad’s ﷺ teachings do not separate worship from ordinary conduct. Faith 
    > "Actions are only by intentions, and each person will have only what he intended." — *Sahih al-Bukhari* 1[2](#ref-2){: .footnote}[13](#ref-13){: .footnote}[43](#ref-43){: .footnote}
    {: .quote }
 
-1. **He opposed forms of religious excess that break the person practicing them.** Muhammad ﷺ described the religion as workable and warned against trying to overpower it through unsustainable devotion.
+1. **He opposed forms of religious excess that break the person practicing them.** Prophet Muhammad ﷺ described the religion as workable and warned against trying to overpower it through unsustainable devotion.
 
    > "Religion is ease. No one makes the religion excessively hard upon himself except that it overwhelms him. So aim rightly and come close." — *Sahih al-Bukhari* 39[2](#ref-2){: .footnote}[13](#ref-13){: .footnote}[43](#ref-43){: .footnote}
    {: .quote }
 
-1. **Perpetual fasting, nightly all-night prayer, and celibacy were not ideals of superior holiness.** When three men proposed these extreme forms of devotion, Muhammad ﷺ pointed to his own balanced practice: he fasted and ate, prayed at night and slept, and married.
+1. **Perpetual fasting, nightly all-night prayer, and celibacy were not ideals of superior holiness.** When three men proposed these extreme forms of devotion, Prophet Muhammad ﷺ pointed to his own balanced practice: he fasted and ate, prayed at night and slept, and married.
 
    > "I fast and I break my fast; I pray and I sleep; and I marry women. Whoever turns away from my way is not of me." — *Sahih al-Bukhari* 5063[2](#ref-2){: .footnote}[13](#ref-13){: .footnote}[43](#ref-43){: .footnote}
    {: .quote }
 
-1. **The body, the family, and the soul each had legitimate claims.** When Salman reminded an intensely ascetic companion that God, his own self, and his family each had rights, Muhammad ﷺ explicitly approved the principle.
+1. **The body, the family, and the soul each had legitimate claims.** When Salman reminded an intensely ascetic companion that God, his own self, and his family each had rights, Prophet Muhammad ﷺ explicitly approved the principle.
 
    > "Your Lord has a right over you, your self has a right over you, and your family has a right over you. Give each its right." — *Sahih al-Bukhari* 1968[2](#ref-2){: .footnote}[13](#ref-13){: .footnote}[43](#ref-43){: .footnote}
    {: .quote }
@@ -1009,17 +1009,17 @@ Muhammad’s ﷺ teachings do not separate worship from ordinary conduct. Faith 
    > "The deeds most loved by God are those done most consistently, even if they are small." — *Sahih al-Bukhari* 6465[2](#ref-2){: .footnote}[13](#ref-13){: .footnote}[43](#ref-43){: .footnote}
    {: .quote }
 
-1. **Muhammad ﷺ himself repeatedly sought God’s forgiveness.** His prophetic status did not lead him to present himself as beyond repentance or humility.
+1. **Prophet Muhammad ﷺ himself repeatedly sought God’s forgiveness.** His prophetic status did not lead him to present himself as beyond repentance or humility.
 
    > "By God, I seek God’s forgiveness and turn to Him in repentance more than seventy times in a day." — *Sahih al-Bukhari* 6307[2](#ref-2){: .footnote}[13](#ref-13){: .footnote}[43](#ref-43){: .footnote}
    {: .quote }
 
-1. **Divine mercy was described as vastly greater than all the mercy visible in creation.** In one report, Muhammad ﷺ said that every form of created tenderness, including an animal protecting its young, comes from one portion of mercy, while God has retained ninety-nine.
+1. **Divine mercy was described as vastly greater than all the mercy visible in creation.** In one report, Prophet Muhammad ﷺ said that every form of created tenderness, including an animal protecting its young, comes from one portion of mercy, while God has retained ninety-nine.
 
    > "God made mercy into one hundred parts. He sent down one part among creation and retained ninety-nine parts." — *Sahih Muslim* 2752a[3](#ref-3){: .footnote}[14](#ref-14){: .footnote}[43](#ref-43){: .footnote}
    {: .quote }
 
-1. **A mother’s fierce care became an illustration of God’s mercy.** After seeing a woman desperately search for her child and then nurse him, Muhammad ﷺ asked whether she would ever willingly throw that child into a fire.
+1. **A mother’s fierce care became an illustration of God’s mercy.** After seeing a woman desperately search for her child and then nurse him, Prophet Muhammad ﷺ asked whether she would ever willingly throw that child into a fire.
 
    > "God is more merciful to His servants than this woman is to her child." — *Sahih al-Bukhari* 5999[2](#ref-2){: .footnote}[13](#ref-13){: .footnote}[43](#ref-43){: .footnote}
    {: .quote }
@@ -1029,7 +1029,7 @@ Muhammad’s ﷺ teachings do not separate worship from ordinary conduct. Faith 
    > "Each of you will meet his Lord with no interpreter between him and God." — *Sahih al-Bukhari* 3595[2](#ref-2){: .footnote}[13](#ref-13){: .footnote}[43](#ref-43){: .footnote}
    {: .quote }
 
-1. **Despair was not a reason to wish life away.** Even under serious distress, Muhammad ﷺ told people not to ask for death, but to entrust the timing of life and death to God.
+1. **Despair was not a reason to wish life away.** Even under serious distress, Prophet Muhammad ﷺ told people not to ask for death, but to entrust the timing of life and death to God.
 
    > "Do not wish for death because of harm that has befallen you. Say: ‘O God, keep me alive while life is better for me.’" — *Sahih al-Bukhari* 5671[2](#ref-2){: .footnote}[13](#ref-13){: .footnote}[43](#ref-43){: .footnote}
    {: .quote }
@@ -1044,7 +1044,7 @@ Muhammad’s ﷺ teachings do not separate worship from ordinary conduct. Faith 
    > "Should I not be a grateful servant?" — *Sahih al-Bukhari* 4836[2](#ref-2){: .footnote}[13](#ref-13){: .footnote}[43](#ref-43){: .footnote}
    {: .quote }
 
-1. **Salvation was ultimately a mercy, not a wage owed for religious performance.** Muhammad ﷺ included himself in this teaching, so even prophetic worship could not become a basis for entitlement before God.
+1. **Salvation was ultimately a mercy, not a wage owed for religious performance.** Prophet Muhammad ﷺ included himself in this teaching, so even prophetic worship could not become a basis for entitlement before God.
 
    > "No one’s deeds will admit him to Paradise." They asked, "Not even you?" He said, "Not even me, unless God envelops me in mercy." — *Sahih al-Bukhari* 5673[2](#ref-2){: .footnote}[13](#ref-13){: .footnote}[43](#ref-43){: .footnote}
    {: .quote }
@@ -1054,7 +1054,7 @@ Muhammad’s ﷺ teachings do not separate worship from ordinary conduct. Faith 
    > "She gave the dog water, so God thanked her for it and forgave her." — *Sahih al-Bukhari* 3321[2](#ref-2){: .footnote}[13](#ref-13){: .footnote}[43](#ref-43){: .footnote}
    {: .quote }
 
-1. **Even at the beginning of the Qur’an’s account of the Night Journey, Muhammad ﷺ is called God’s servant.** The extraordinary nature of the event does not turn him into a divine figure. Servanthood remains the honor, while authenticated reports connect the journey with the establishment of the five daily prayers.
+1. **Even at the beginning of the Qur’an’s account of the Night Journey, Prophet Muhammad ﷺ is called God’s servant.** The extraordinary nature of the event does not turn him into a divine figure. Servanthood remains the honor, while authenticated reports connect the journey with the establishment of the five daily prayers.
 
    > "Glory be to the One Who took His servant ˹Muḥammad˺ by night from the Sacred Mosque to the Farthest Mosque whose surroundings We have blessed, so that We may show him some of Our signs. Indeed, He alone is the All-Hearing, All-Seeing." (**Sūrat al-Isrāʾ 17:1**), Dr. Mustafa Khattab, *The Clear Quran*[1](#ref-1){: .footnote}[11](#ref-11){: .footnote}[12](#ref-12){: .footnote}[36](#ref-36){: .footnote}
    >
@@ -1063,12 +1063,12 @@ Muhammad’s ﷺ teachings do not separate worship from ordinary conduct. Faith 
 
    The Night Journey is also reported in the hadith collections *Sahih al-Bukhari* and *Sahih Muslim*.
 
-1. **Prostration was described as a moment of exceptional nearness to God.** Muhammad’s ﷺ own prayer could be long and absorbed, while his leadership of others remained considerate of their limits.
+1. **Prostration was described as a moment of exceptional nearness to God.** Prophet Muhammad’s ﷺ own prayer could be long and absorbed, while his leadership of others remained considerate of their limits.
 
    > "The closest a servant is to his Lord is while prostrating, so increase your supplication." — *Sahih Muslim* 482[3](#ref-3){: .footnote}[14](#ref-14){: .footnote}[43](#ref-43){: .footnote}
    {: .quote }
 
-1. **The five daily prayers turn worship into a repeated return to God rather than an occasional performance.** Muhammad ﷺ compared their cleansing moral rhythm to bathing repeatedly in a river.
+1. **The five daily prayers turn worship into a repeated return to God rather than an occasional performance.** Prophet Muhammad ﷺ compared their cleansing moral rhythm to bathing repeatedly in a river.
 
    > "If a river were at the door of one of you and he bathed in it five times a day, would any dirt remain?" — *Sahih al-Bukhari* 528; *Sahih Muslim* 667[2](#ref-2){: .footnote}[3](#ref-3){: .footnote}[13](#ref-13){: .footnote}[14](#ref-14){: .footnote}[43](#ref-43){: .footnote}
    {: .quote }
@@ -1087,14 +1087,14 @@ Muhammad’s ﷺ teachings do not separate worship from ordinary conduct. Faith 
 
 ### E. Character, speech, anger, forgiveness, and everyday goodness
 
-1. **Excellent character was central to the religion he taught.** The Qur’an itself describes Muhammad ﷺ in moral rather than imperial terms.
+1. **Excellent character was central to the religion he taught.** The Qur’an itself describes Prophet Muhammad ﷺ in moral rather than imperial terms.
 
    > "And indeed, you are of a great moral character." (**Sūrat al-Qalam 68:4**), Saheeh International[1](#ref-1){: .footnote}[11](#ref-11){: .footnote}[12](#ref-12){: .footnote}[36](#ref-36){: .footnote}
    >
    > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَإِنَّكَ لَعَلَىٰ خُلُقٍ عَظِيمٍ ۝٤﴾ <span class="ayah-ref">سُورَةُ القَلَمِ</span></div>
    {: .quote }
 
-1. **Real strength was measured by self-control.** In a culture where physical strength carried obvious prestige, Muhammad ﷺ defined the stronger person as the one able to master his anger.
+1. **Real strength was measured by self-control.** In a culture where physical strength carried obvious prestige, Prophet Muhammad ﷺ defined the stronger person as the one able to master his anger.
 
    > "The strong person is not the one who overcomes people in wrestling. The strong person is the one who controls himself when angry." — *Sahih al-Bukhari* 6114[2](#ref-2){: .footnote}[13](#ref-13){: .footnote}[43](#ref-43){: .footnote}
    {: .quote }
@@ -1203,7 +1203,7 @@ Muhammad’s ﷺ teachings do not separate worship from ordinary conduct. Faith 
    > "Your smile in your brother’s face is charity... and guiding a person with poor sight is charity for you." — *Jami at-Tirmidhi* 1956[5](#ref-5){: .footnote}[16](#ref-16){: .footnote}[43](#ref-43){: .footnote}
    {: .quote }
 
-1. **Ordinary helpfulness could become an act of worship.** Muhammad ﷺ counted reconciling people, helping someone with a mount, speaking a good word, walking to prayer, and removing harm from a road as forms of charity.
+1. **Ordinary helpfulness could become an act of worship.** Prophet Muhammad ﷺ counted reconciling people, helping someone with a mount, speaking a good word, walking to prayer, and removing harm from a road as forms of charity.
 
    > "Every good word is charity... and removing something harmful from the road is charity." — *Sahih al-Bukhari* 2989[2](#ref-2){: .footnote}[13](#ref-13){: .footnote}[43](#ref-43){: .footnote}
    {: .quote }
@@ -1241,7 +1241,7 @@ Muhammad’s ﷺ teachings do not separate worship from ordinary conduct. Faith 
    > "A Muslim is one from whose tongue and hand the Muslims are safe." — *Sahih al-Bukhari* 10[2](#ref-2){: .footnote}[13](#ref-13){: .footnote}[43](#ref-43){: .footnote}
    {: .quote }
 
-1. **When a man repeatedly asked him for advice, Muhammad ﷺ kept returning to one instruction: do not give yourself over to anger.**
+1. **When a man repeatedly asked him for advice, Prophet Muhammad ﷺ kept returning to one instruction: do not give yourself over to anger.**
 
    > "Do not become angry." He repeated it several times: "Do not become angry." — *Sahih al-Bukhari* 6116[2](#ref-2){: .footnote}[13](#ref-13){: .footnote}[43](#ref-43){: .footnote}
    {: .quote }
@@ -1258,27 +1258,27 @@ Muhammad’s ﷺ teachings do not separate worship from ordinary conduct. Faith 
    > <div dir="rtl" lang="ar" class="quran-arabic">﴿إِنَّمَا ٱلْمُؤْمِنُونَ إِخْوَةٌ فَأَصْلِحُوا۟ بَيْنَ أَخَوَيْكُمْ ۚ وَٱتَّقُوا۟ ٱللَّهَ لَعَلَّكُمْ تُرْحَمُونَ ۝١٠﴾ <span class="ayah-ref">سُورَةُ الحُجُرَاتِ</span></div>
    {: .quote }
 
-1. **Genuine family loyalty went beyond reciprocity.** Maintaining ties only with relatives who maintain them in return is an exchange. Muhammad ﷺ praised the person who continues the relationship even when relatives sever it.
+1. **Genuine family loyalty went beyond reciprocity.** Maintaining ties only with relatives who maintain them in return is an exchange. Prophet Muhammad ﷺ praised the person who continues the relationship even when relatives sever it.
 
    > "The one who truly maintains kinship is the one who, when his relatives cut him off, maintains relations with them." — *Sahih al-Bukhari* 5991[2](#ref-2){: .footnote}[13](#ref-13){: .footnote}[43](#ref-43){: .footnote}
    {: .quote }
 
-1. **Helping an oppressor meant stopping the oppression.** Muhammad ﷺ took a familiar tribal slogan about supporting one’s own people and gave it the opposite moral force.
+1. **Helping an oppressor meant stopping the oppression.** Prophet Muhammad ﷺ took a familiar tribal slogan about supporting one’s own people and gave it the opposite moral force.
 
    > "Help your brother whether he is an oppressor or oppressed." ... "You help the oppressor by preventing him from oppression." — *Sahih al-Bukhari* 2444[2](#ref-2){: .footnote}[13](#ref-13){: .footnote}[43](#ref-43){: .footnote}
    {: .quote }
 
-1. **A man who accidentally spoke during prayer remembered Muhammad ﷺ as the best teacher he had ever seen.** Afterward, Muhammad ﷺ neither struck nor scolded nor insulted him. He simply explained the rule.
+1. **A man who accidentally spoke during prayer remembered Prophet Muhammad ﷺ as the best teacher he had ever seen.** Afterward, Prophet Muhammad ﷺ neither struck nor scolded nor insulted him. He simply explained the rule.
 
    > "I never saw a teacher before or after him better in teaching than he was." — *Sahih Muslim* 537a[3](#ref-3){: .footnote}[14](#ref-14){: .footnote}[43](#ref-43){: .footnote}
    {: .quote }
 
-1. **He could receive a humiliating confession without humiliating the person making it.** A man admitted breaking the Ramadan fast through sexual intercourse, then explained that he could not afford the prescribed forms of expiation. When charitable food arrived and the man said his was the poorest household in Medina, Muhammad ﷺ laughed and told him to feed his own family.
+1. **He could receive a humiliating confession without humiliating the person making it.** A man admitted breaking the Ramadan fast through sexual intercourse, then explained that he could not afford the prescribed forms of expiation. When charitable food arrived and the man said his was the poorest household in Medina, Prophet Muhammad ﷺ laughed and told him to feed his own family.
 
    > "Then feed it to your family." — *Sahih al-Bukhari* 5368[2](#ref-2){: .footnote}[13](#ref-13){: .footnote}[43](#ref-43){: .footnote}
    {: .quote }
 
-1. **Sincerity was not measured by how many voluntary practices a person could add.** A Bedouin promised to fulfill the obligatory prayers, fasting, and charity without adding extra acts. Muhammad ﷺ did not shame this modest commitment.
+1. **Sincerity was not measured by how many voluntary practices a person could add.** A Bedouin promised to fulfill the obligatory prayers, fasting, and charity without adding extra acts. Prophet Muhammad ﷺ did not shame this modest commitment.
 
    > "He will succeed if he is truthful." — *Sahih al-Bukhari* 46[2](#ref-2){: .footnote}[13](#ref-13){: .footnote}[43](#ref-43){: .footnote}
    {: .quote }
@@ -1329,12 +1329,12 @@ Muhammad’s ﷺ teachings do not separate worship from ordinary conduct. Faith 
    > <div dir="rtl" lang="ar" class="quran-arabic">﴿يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ إِنَّمَا ٱلْخَمْرُ وَٱلْمَيْسِرُ وَٱلْأَنصَابُ وَٱلْأَزْلَـٰمُ رِجْسٌ مِّنْ عَمَلِ ٱلشَّيْطَـٰنِ فَٱجْتَنِبُوهُ لَعَلَّكُمْ تُفْلِحُونَ ۝٩٠ إِنَّمَا يُرِيدُ ٱلشَّيْطَـٰنُ أَن يُوقِعَ بَيْنَكُمُ ٱلْعَدَٰوَةَ وَٱلْبَغْضَآءَ فِى ٱلْخَمْرِ وَٱلْمَيْسِرِ وَيَصُدَّكُمْ عَن ذِكْرِ ٱللَّهِ وَعَنِ ٱلصَّلَوٰةِ ۖ فَهَلْ أَنتُم مُّنتَهُونَ ۝٩١﴾ <span class="ayah-ref">سُورَةُ المَائـِدَةِ</span></div>
    {: .quote }
 
-1. **Wastefulness was itself morally disapproved.** Alongside the Qur’an’s rule against excess in consumption, Muhammad ﷺ condemned wasting wealth together with empty talk and needless contentious questioning.
+1. **Wastefulness was itself morally disapproved.** Alongside the Qur’an’s rule against excess in consumption, Prophet Muhammad ﷺ condemned wasting wealth together with empty talk and needless contentious questioning.
 
    > "God dislikes for you gossip, needless questioning, and wasting wealth." — *Sahih Muslim* 1715a[3](#ref-3){: .footnote}[14](#ref-14){: .footnote}[43](#ref-43){: .footnote}
    {: .quote }
 
-1. **He rebuked a companion for making communal worship unnecessarily difficult.** When Muadh’s very long prayer caused a working man to leave the congregation, Muhammad ﷺ took the complaint seriously. Enduring a leader’s preferred level of devotion was not made a test of piety.
+1. **He rebuked a companion for making communal worship unnecessarily difficult.** When Muadh’s very long prayer caused a working man to leave the congregation, Prophet Muhammad ﷺ took the complaint seriously. Enduring a leader’s preferred level of devotion was not made a test of piety.
 
    > "Are you putting people to trial, Muadh?" — *Sahih al-Bukhari* 705[2](#ref-2){: .footnote}[13](#ref-13){: .footnote}[43](#ref-43){: .footnote}
    {: .quote }
@@ -1354,12 +1354,12 @@ Muhammad’s ﷺ teachings do not separate worship from ordinary conduct. Faith 
    > "Let us go and make peace between them." — *Sahih al-Bukhari* 2693[2](#ref-2){: .footnote}[13](#ref-13){: .footnote}[43](#ref-43){: .footnote}
    {: .quote }
 
-1. **Ordinary estrangement was not to harden into a permanent feud.** When two people had stopped speaking, Muhammad ﷺ said the better of them was the one willing to reopen the relationship first.
+1. **Ordinary estrangement was not to harden into a permanent feud.** When two people had stopped speaking, Prophet Muhammad ﷺ said the better of them was the one willing to reopen the relationship first.
 
    > "The better of the two is the one who begins with peace." — *Sahih al-Bukhari* 6077; *Sahih Muslim* 2560[2](#ref-2){: .footnote}[3](#ref-3){: .footnote}[13](#ref-13){: .footnote}[14](#ref-14){: .footnote}[43](#ref-43){: .footnote}
    {: .quote }
 
-1. **Character was a measure of spiritual weight, not an ornament added to ritual religion.** The followers Muhammad ﷺ described as nearest to him in the next life were not the wealthiest or most prominent, but those with the best conduct.
+1. **Character was a measure of spiritual weight, not an ornament added to ritual religion.** The followers Prophet Muhammad ﷺ described as nearest to him in the next life were not the wealthiest or most prominent, but those with the best conduct.
 
    > "Nothing is heavier on the believer’s scale on the Day of Resurrection than good character." — *Jami at-Tirmidhi* 2002[5](#ref-5){: .footnote}[16](#ref-16){: .footnote}[43](#ref-43){: .footnote}
    {: .quote }
@@ -1372,7 +1372,7 @@ Muhammad’s ﷺ teachings do not separate worship from ordinary conduct. Faith 
    > "I was sent to complete good character." — *Al-Adab al-Mufrad* 273[7](#ref-7){: .footnote}[18](#ref-18){: .footnote}[43](#ref-43){: .footnote}
    {: .quote }
 
-1. **The Qur’an itself portrays Muhammad ﷺ as deeply affected by other people’s suffering.** His compassion is not inferred only from anecdotes. The scripture he recited describes their hardship as weighing heavily upon him.
+1. **The Qur’an itself portrays Prophet Muhammad ﷺ as deeply affected by other people’s suffering.** His compassion is not inferred only from anecdotes. The scripture he recited describes their hardship as weighing heavily upon him.
 
    > "There has certainly come to you a Messenger from among yourselves. Grievous to him is what you suffer; [he is] concerned over you and to the believers is kind and merciful." (**Sūrat al-Tawbah 9:128**), Saheeh International[1](#ref-1){: .footnote}[11](#ref-11){: .footnote}[12](#ref-12){: .footnote}[36](#ref-36){: .footnote}
    >
@@ -1395,7 +1395,7 @@ Muhammad’s ﷺ teachings do not separate worship from ordinary conduct. Faith 
    > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَقَضَىٰ رَبُّكَ أَلَّا تَعْبُدُوٓا۟ إِلَّآ إِيَّاهُ وَبِٱلْوَٰلِدَيْنِ إِحْسَـٰنًا ۚ إِمَّا يَبْلُغَنَّ عِندَكَ ٱلْكِبَرَ أَحَدُهُمَآ أَوْ كِلَاهُمَا فَلَا تَقُل لَّهُمَآ أُفٍّ وَلَا تَنْهَرْهُمَا وَقُل لَّهُمَا قَوْلًا كَرِيمًا ۝٢٣﴾ <span class="ayah-ref">سُورَةُ الإِسۡرَاءِ</span></div>
    {: .quote }
 
-1. **A mother was given exceptional priority in a child’s companionship.** When asked who most deserved good company, Muhammad ﷺ answered “your mother” three times before saying “your father.”
+1. **A mother was given exceptional priority in a child’s companionship.** When asked who most deserved good company, Prophet Muhammad ﷺ answered “your mother” three times before saying “your father.”
 
    > "Your mother." He asked, "Then who?" He said, "Your mother." He asked, "Then who?" He said, "Your mother." Then, "Your father." — *Sahih al-Bukhari* 5971[2](#ref-2){: .footnote}[13](#ref-13){: .footnote}[43](#ref-43){: .footnote}
    {: .quote }
@@ -1412,7 +1412,7 @@ Muhammad’s ﷺ teachings do not separate worship from ordinary conduct. Faith 
    > "A previously married woman is not to be married until consulted, and a virgin is not to be married until her permission is sought." — *Sahih al-Bukhari* 5136[2](#ref-2){: .footnote}[13](#ref-13){: .footnote}[43](#ref-43){: .footnote}
    {: .quote }
 
-1. **He enforced that principle when a woman came to him with a complaint.** Khansa bint Khidam said that her father had married her against her wishes, and Muhammad ﷺ invalidated the marriage.
+1. **He enforced that principle when a woman came to him with a complaint.** Khansa bint Khidam said that her father had married her against her wishes, and Prophet Muhammad ﷺ invalidated the marriage.
 
    > "Her father married her while she disliked it, so the Messenger of God ﷺ annulled that marriage." — *Sahih al-Bukhari* 5138[2](#ref-2){: .footnote}[13](#ref-13){: .footnote}[43](#ref-43){: .footnote}
    {: .quote }
@@ -1455,7 +1455,7 @@ Muhammad’s ﷺ teachings do not separate worship from ordinary conduct. Faith 
    > "Treat women well." — *Sahih Muslim* 1468a[3](#ref-3){: .footnote}[14](#ref-14){: .footnote}[43](#ref-43){: .footnote}
    {: .quote }
 
-1. **A spouse was not to be reduced to one disliked trait.** Muhammad ﷺ told husbands to remember that a quality they dislike can exist beside another they appreciate.
+1. **A spouse was not to be reduced to one disliked trait.** Prophet Muhammad ﷺ told husbands to remember that a quality they dislike can exist beside another they appreciate.
 
    > "A believing man should not hate a believing woman. If he dislikes one quality in her, he will be pleased with another." — *Sahih Muslim* 1468b[3](#ref-3){: .footnote}[14](#ref-14){: .footnote}[43](#ref-43){: .footnote}
    {: .quote }
@@ -1474,22 +1474,22 @@ Muhammad’s ﷺ teachings do not separate worship from ordinary conduct. Faith 
    > <div dir="rtl" lang="ar" class="quran-arabic">﴿إِنَّ ٱلْمُسْلِمِينَ وَٱلْمُسْلِمَـٰتِ وَٱلْمُؤْمِنِينَ وَٱلْمُؤْمِنَـٰتِ وَٱلْقَـٰنِتِينَ وَٱلْقَـٰنِتَـٰتِ وَٱلصَّـٰدِقِينَ وَٱلصَّـٰدِقَـٰتِ وَٱلصَّـٰبِرِينَ وَٱلصَّـٰبِرَٰتِ وَٱلْخَـٰشِعِينَ وَٱلْخَـٰشِعَـٰتِ وَٱلْمُتَصَدِّقِينَ وَٱلْمُتَصَدِّقَـٰتِ وَٱلصَّـٰٓئِمِينَ وَٱلصَّـٰٓئِمَـٰتِ وَٱلْحَـٰفِظِينَ فُرُوجَهُمْ وَٱلْحَـٰفِظَـٰتِ وَٱلذَّٰكِرِينَ ٱللَّهَ كَثِيرًا وَٱلذَّٰكِرَٰتِ أَعَدَّ ٱللَّهُ لَهُم مَّغْفِرَةً وَأَجْرًا عَظِيمًا ۝٣٥﴾ <span class="ayah-ref">سُورَةُ الأَحۡزَابِ</span></div>
    {: .quote }
 
-1. **Women asked for dedicated access to his teaching, and he provided it.** They told Muhammad ﷺ that men were taking most of his time and requested a day of their own. He appointed one and taught them directly.
+1. **Women asked for dedicated access to his teaching, and he provided it.** They told Prophet Muhammad ﷺ that men were taking most of his time and requested a day of their own. He appointed one and taught them directly.
 
    > "The women said, 'The men have taken all your time from us, so appoint for us a day.' He promised them a day and taught them." — *Sahih al-Bukhari* 101[2](#ref-2){: .footnote}[13](#ref-13){: .footnote}[43](#ref-43){: .footnote}
    {: .quote }
 
-1. **He was openly affectionate with children.** When a man expressed surprise that Muhammad ﷺ kissed his grandson Hasan, Muhammad ﷺ treated the man’s lack of tenderness as a moral issue rather than a matter of custom.
+1. **He was openly affectionate with children.** When a man expressed surprise that Prophet Muhammad ﷺ kissed his grandson Hasan, Prophet Muhammad ﷺ treated the man’s lack of tenderness as a moral issue rather than a matter of custom.
 
    > "Whoever does not show mercy will not be shown mercy." — *Sahih al-Bukhari* 5997[2](#ref-2){: .footnote}[13](#ref-13){: .footnote}[43](#ref-43){: .footnote}
    {: .quote }
 
-1. **He shortened a public prayer when he heard a baby crying.** Knowing that the child’s mother would be distressed, Muhammad ﷺ changed the length of his own intended worship to ease her burden.
+1. **He shortened a public prayer when he heard a baby crying.** Knowing that the child’s mother would be distressed, Prophet Muhammad ﷺ changed the length of his own intended worship to ease her burden.
 
    > "I begin the prayer intending to lengthen it, then I hear a child crying, so I shorten it because I know how his mother suffers from his crying." — *Sahih al-Bukhari* 710[2](#ref-2){: .footnote}[13](#ref-13){: .footnote}[43](#ref-43){: .footnote}
    {: .quote }
 
-1. **He carried his granddaughter while leading the prayer.** Muhammad ﷺ held Umama while standing and put her down when bowing or prostrating. Tenderness toward a child was not treated as beneath religious dignity.
+1. **He carried his granddaughter while leading the prayer.** Prophet Muhammad ﷺ held Umama while standing and put her down when bowing or prostrating. Tenderness toward a child was not treated as beneath religious dignity.
 
    > "The Messenger of God ﷺ prayed while carrying Umama... when he stood he carried her, and when he prostrated he put her down." — *Sahih al-Bukhari* 516[2](#ref-2){: .footnote}[13](#ref-13){: .footnote}[43](#ref-43){: .footnote}
    {: .quote }
@@ -1506,14 +1506,14 @@ Muhammad’s ﷺ teachings do not separate worship from ordinary conduct. Faith 
    > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَءَاتُوا۟ ٱلنِّسَآءَ صَدُقَـٰتِهِنَّ نِحْلَةً ۚ فَإِن طِبْنَ لَكُمْ عَن شَىْءٍ مِّنْهُ نَفْسًا فَكُلُوهُ هَنِيٓـًٔا مَّرِيٓـًٔا ۝٤﴾ <span class="ayah-ref">سُورَةُ النِّسَاءِ</span></div>
    {: .quote }
 
-1. **Burying infant daughters alive was explicitly condemned.** Female infanticide is denounced both in Muhammad’s ﷺ reported teaching and in one of the Qur’an’s starkest images of judgment, where the murdered girl herself is called forward and the crime exposed.
+1. **Burying infant daughters alive was explicitly condemned.** Female infanticide is denounced both in Prophet Muhammad’s ﷺ reported teaching and in one of the Qur’an’s starkest images of judgment, where the murdered girl herself is called forward and the crime exposed.
 
    > "And when the girl [who was] buried alive is asked, for what sin she was killed." (**Sūrat al-Takwīr 81:8-9**), Saheeh International[1](#ref-1){: .footnote}[11](#ref-11){: .footnote}[12](#ref-12){: .footnote}[36](#ref-36){: .footnote}; also *Sahih al-Bukhari* 5975[2](#ref-2){: .footnote}[13](#ref-13){: .footnote}[43](#ref-43){: .footnote}
    >
    > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَإِذَا ٱلْمَوْءُۥدَةُ سُئِلَتْ ۝٨ بِأَىِّ ذَنۢبٍ قُتِلَتْ ۝٩﴾ <span class="ayah-ref">سُورَةُ التَّكۡوِيرِ</span></div>
    {: .quote }
 
-1. **He gave special honor to people who raised daughters well.** Protecting girls from violence was not enough; the years of care they required were themselves given religious value. Muhammad ﷺ linked that care with exceptional nearness to him in the next life.
+1. **He gave special honor to people who raised daughters well.** Protecting girls from violence was not enough; the years of care they required were themselves given religious value. Prophet Muhammad ﷺ linked that care with exceptional nearness to him in the next life.
 
    > "Whoever raises two girls properly until they grow up will come on the Day of Resurrection with me like this," and he joined his fingers. — *Sahih Muslim* 2631[3](#ref-3){: .footnote}[14](#ref-14){: .footnote}[43](#ref-43){: .footnote}
    {: .quote }
@@ -1525,7 +1525,7 @@ Muhammad’s ﷺ teachings do not separate worship from ordinary conduct. Faith 
    > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَإِذَا طَلَّقْتُمُ ٱلنِّسَآءَ فَبَلَغْنَ أَجَلَهُنَّ فَأَمْسِكُوهُنَّ بِمَعْرُوفٍ أَوْ سَرِّحُوهُنَّ بِمَعْرُوفٍ ۚ وَلَا تُمْسِكُوهُنَّ ضِرَارًا لِّتَعْتَدُوا۟ ۚ وَمَن يَفْعَلْ ذَٰلِكَ فَقَدْ ظَلَمَ نَفْسَهُۥ ۚ وَلَا تَتَّخِذُوٓا۟ ءَايَـٰتِ ٱللَّهِ هُزُوًا ۚ وَٱذْكُرُوا۟ نِعْمَتَ ٱللَّهِ عَلَيْكُمْ وَمَآ أَنزَلَ عَلَيْكُم مِّنَ ٱلْكِتَـٰبِ وَٱلْحِكْمَةِ يَعِظُكُم بِهِۦ ۚ وَٱتَّقُوا۟ ٱللَّهَ وَٱعْلَمُوٓا۟ أَنَّ ٱللَّهَ بِكُلِّ شَىْءٍ عَلِيمٌ ۝٢٣١﴾ <span class="ayah-ref">سُورَةُ البَقَرَةِ</span></div>
    {: .quote }
 
-1. **A woman’s marital complaint became the opening of a Qur’anic chapter.** She came disputing with Muhammad ﷺ about her husband and appealing to God, and the revealed passage begins by affirming that God heard her. Whatever one’s theology of revelation, the grievance of an ordinary woman was placed inside permanent scripture.
+1. **A woman’s marital complaint became the opening of a Qur’anic chapter.** She came disputing with Prophet Muhammad ﷺ about her husband and appealing to God, and the revealed passage begins by affirming that God heard her. Whatever one’s theology of revelation, the grievance of an ordinary woman was placed inside permanent scripture.
 
    > "Indeed, Allah has heard the argument of the woman who pleaded with you ˹O Prophet˺ concerning her husband, and appealed to Allah. Allah has heard your exchange. Surely Allah is All-Hearing, All-Seeing." (**Sūrat al-Mujādilah 58:1**), Dr. Mustafa Khattab, *The Clear Quran*[1](#ref-1){: .footnote}[11](#ref-11){: .footnote}[12](#ref-12){: .footnote}[36](#ref-36){: .footnote}
    >
@@ -1537,7 +1537,7 @@ Muhammad’s ﷺ teachings do not separate worship from ordinary conduct. Faith 
    > "Whatever you spend seeking God's pleasure is rewarded, even the morsel you place in your wife's mouth." — *Sahih al-Bukhari* 5354[2](#ref-2){: .footnote}[13](#ref-13){: .footnote}[43](#ref-43){: .footnote}
    {: .quote }
 
-1. **Men were told not to prevent women from attending communal worship.** Whatever later Muslim societies have done, Muhammad’s ﷺ instruction itself is direct.
+1. **Men were told not to prevent women from attending communal worship.** Whatever later Muslim societies have done, Prophet Muhammad’s ﷺ instruction itself is direct.
 
    > "Do not prevent the female servants of God from the mosques of God." — *Sahih al-Bukhari* 900[2](#ref-2){: .footnote}[13](#ref-13){: .footnote}[43](#ref-43){: .footnote}
    {: .quote }
@@ -1549,7 +1549,7 @@ Muhammad’s ﷺ teachings do not separate worship from ordinary conduct. Faith 
    > <div dir="rtl" lang="ar" class="quran-arabic">﴿يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا يَحِلُّ لَكُمْ أَن تَرِثُوا۟ ٱلنِّسَآءَ كَرْهًا ۖ وَلَا تَعْضُلُوهُنَّ لِتَذْهَبُوا۟ بِبَعْضِ مَآ ءَاتَيْتُمُوهُنَّ إِلَّآ أَن يَأْتِينَ بِفَـٰحِشَةٍ مُّبَيِّنَةٍ ۚ وَعَاشِرُوهُنَّ بِٱلْمَعْرُوفِ ۚ فَإِن كَرِهْتُمُوهُنَّ فَعَسَىٰٓ أَن تَكْرَهُوا۟ شَيْـًٔا وَيَجْعَلَ ٱللَّهُ فِيهِ خَيْرًا كَثِيرًا ۝١٩﴾ <span class="ayah-ref">سُورَةُ النِّسَاءِ</span></div>
    {: .quote }
 
-1. **He defended his wife Safiyya when she was insulted over her Jewish ancestry.** When Safiyya came to him crying after being disparaged, Muhammad ﷺ affirmed her dignity through the prophetic lineage of her people and rebuked the insult rather than asking her to absorb it silently.
+1. **He defended his wife Safiyya when she was insulted over her Jewish ancestry.** When Safiyya came to him crying after being disparaged, Prophet Muhammad ﷺ affirmed her dignity through the prophetic lineage of her people and rebuked the insult rather than asking her to absorb it silently.
 
    > "You are the daughter of a prophet, your uncle is a prophet, and you are married to a prophet. So what can she boast over you about?" — *Jami at-Tirmidhi* 3894[5](#ref-5){: .footnote}[16](#ref-16){: .footnote}[43](#ref-43){: .footnote}
    {: .quote }
@@ -1559,17 +1559,17 @@ Muhammad’s ﷺ teachings do not separate worship from ordinary conduct. Faith 
    > "Are your parents alive?" He said, "Yes." He replied, "Then strive in their service." — *Sahih al-Bukhari* 5972[2](#ref-2){: .footnote}[13](#ref-13){: .footnote}[43](#ref-43){: .footnote}
    {: .quote }
 
-1. **When women complained that their husbands had beaten them, Muhammad ﷺ said those men were not the best Muslims.** The report preserves a difficult legal sequence, but his moral judgment on the conduct that resulted is explicit.
+1. **When women complained that their husbands had beaten them, Prophet Muhammad ﷺ said those men were not the best Muslims.** The report preserves a difficult legal sequence, but his moral judgment on the conduct that resulted is explicit.
 
    > "Many women have gone around Muhammad's family complaining of their husbands. Those men are not the best among you." — *Sunan Abi Dawud* 2146[4](#ref-4){: .footnote}[15](#ref-15){: .footnote}[43](#ref-43){: .footnote}
    {: .quote }
 
-1. **Parents were required to treat their children fairly in gifts.** When a father asked Muhammad ﷺ to witness a gift given to one child but not the others, he refused to validate the favoritism.
+1. **Parents were required to treat their children fairly in gifts.** When a father asked Prophet Muhammad ﷺ to witness a gift given to one child but not the others, he refused to validate the favoritism.
 
    > "Be conscious of God and be just among your children." — *Sahih al-Bukhari* 2587[2](#ref-2){: .footnote}[13](#ref-13){: .footnote}[43](#ref-43){: .footnote}
    {: .quote }
 
-1. **He accepted a woman’s refusal when his request was personal rather than a command.** When Muhammad ﷺ encouraged Barirah to return to her former husband, she first asked whether he was ordering her to do so. He explained that he was only interceding. She declined, and her decision stood.
+1. **He accepted a woman’s refusal when his request was personal rather than a command.** When Prophet Muhammad ﷺ encouraged Barirah to return to her former husband, she first asked whether he was ordering her to do so. He explained that he was only interceding. She declined, and her decision stood.
 
    > "Are you ordering me?" He said, "No, I am only interceding." She said, "I have no need of him." — *Sahih al-Bukhari* 5283[2](#ref-2){: .footnote}[13](#ref-13){: .footnote}[43](#ref-43){: .footnote}
    {: .quote }
@@ -1579,7 +1579,7 @@ Muhammad’s ﷺ teachings do not separate worship from ordinary conduct. Faith 
    > "I would drink... then hand it to the Prophet ﷺ, and he would place his mouth where mine had been." — *Sahih Muslim* 300[3](#ref-3){: .footnote}[14](#ref-14){: .footnote}[43](#ref-43){: .footnote}[54](#ref-54){: .footnote}[55](#ref-55){: .footnote}
    {: .quote }
 
-1. **He greeted children rather than treating them as beneath adult notice.** Anas preserved this habit by doing the same himself and explaining that Muhammad ﷺ used to greet them.
+1. **He greeted children rather than treating them as beneath adult notice.** Anas preserved this habit by doing the same himself and explaining that Prophet Muhammad ﷺ used to greet them.
 
    > "Anas passed by a group of boys and greeted them, then said: 'The Prophet ﷺ used to do so.'" — *Sahih al-Bukhari* 6247[2](#ref-2){: .footnote}[13](#ref-13){: .footnote}[43](#ref-43){: .footnote}
    {: .quote }
@@ -1588,26 +1588,26 @@ Muhammad’s ﷺ teachings do not separate worship from ordinary conduct. Faith 
 
 ## II. The man who lived the teachings
 
-A teacher’s moral claims are easier to assess when we can compare them with his conduct away from formal teaching. Muhammad ﷺ was observed over many years by his wives, a young household servant, close friends, political opponents, poor petitioners, soldiers, and strangers. Their reports are particularly valuable when they describe ordinary behavior or moments in which he was under pressure.
+A teacher’s moral claims are easier to assess when we can compare them with his conduct away from formal teaching. Prophet Muhammad ﷺ was observed over many years by his wives, a young household servant, close friends, political opponents, poor petitioners, soldiers, and strangers. Their reports are particularly valuable when they describe ordinary behavior or moments in which he was under pressure.
 
 ### A. What people closest to him actually saw
 
-1. **Khadija’s first response to his prophetic experience was to appeal to the character she already knew.** When Muhammad ﷺ returned terrified from the first revelation, his wife did not reassure him with promises of power or fame. She listed the good she had personally watched him do.
+1. **Khadija’s first response to his prophetic experience was to appeal to the character she already knew.** When Prophet Muhammad ﷺ returned terrified from the first revelation, his wife did not reassure him with promises of power or fame. She listed the good she had personally watched him do.
 
    > "By God, God will never disgrace you. You keep family ties, carry the burden of the weak, help the destitute, honor the guest, and assist those struck by calamity." — *Sahih al-Bukhari* 3[2](#ref-2){: .footnote}[13](#ref-13){: .footnote}[43](#ref-43){: .footnote}
    {: .quote }
 
-1. **Anas served him for ten years and remembered remarkable personal gentleness.** He began serving Muhammad ﷺ while still young. A decade of daily household contact gave irritation with a young helper countless opportunities to appear, which gives his recollection particular weight.
+1. **Anas served him for ten years and remembered remarkable personal gentleness.** He began serving Prophet Muhammad ﷺ while still young. A decade of daily household contact gave irritation with a young helper countless opportunities to appear, which gives his recollection particular weight.
 
    > "I served the Prophet ﷺ for ten years. He never said 'uff' to me and never said, 'Why did you do that?' or 'Why did you not do that?'" — *Sahih al-Bukhari* 6038[2](#ref-2){: .footnote}[13](#ref-13){: .footnote}[43](#ref-43){: .footnote}
    {: .quote }
 
-1. **Anas also preserved an ordinary example of that gentleness.** Muhammad ﷺ sent him on an errand, but the boy became distracted playing. When Muhammad ﷺ found him, he smiled and gently reminded him of the errand instead of humiliating him.
+1. **Anas also preserved an ordinary example of that gentleness.** Prophet Muhammad ﷺ sent him on an errand, but the boy became distracted playing. When Prophet Muhammad ﷺ found him, he smiled and gently reminded him of the errand instead of humiliating him.
 
    > He came up smiling and said, "Little Anas, did you go where I asked you to go?" — *Sahih Muslim* 2310a[3](#ref-3){: .footnote}[14](#ref-14){: .footnote}[43](#ref-43){: .footnote}
    {: .quote }
 
-1. **Aisha said that he never struck a woman or a servant.** This is testimony from within his household, not a public claim Muhammad ﷺ made about himself.
+1. **Aisha said that he never struck a woman or a servant.** This is testimony from within his household, not a public claim Prophet Muhammad ﷺ made about himself.
 
    > "The Messenger of God ﷺ never struck anyone with his hand, neither a woman nor a servant, except in battle." — *Sahih Muslim* 2328a[3](#ref-3){: .footnote}[14](#ref-14){: .footnote}[43](#ref-43){: .footnote}
    {: .quote }
@@ -1622,7 +1622,7 @@ A teacher’s moral claims are easier to assess when we can compare them with hi
    > "Whenever the Messenger of God ﷺ was given a choice between two matters, he chose the easier one so long as it was not sinful." — *Sahih al-Bukhari* 3560[2](#ref-2){: .footnote}[13](#ref-13){: .footnote}[43](#ref-43){: .footnote}
    {: .quote }
 
-1. **Anas remembered him as both generous and courageous, and the record gives concrete examples of both.** One appears below: when a frightening sound was heard at night in Medina, Muhammad ﷺ was the first person to ride toward the danger.
+1. **Anas remembered him as both generous and courageous, and the record gives concrete examples of both.** One appears below: when a frightening sound was heard at night in Medina, Prophet Muhammad ﷺ was the first person to ride toward the danger.
 
    > "The Prophet ﷺ was the best in character, the most generous of people, and the bravest of people." — *Sahih al-Bukhari* 6033[2](#ref-2){: .footnote}[13](#ref-13){: .footnote}[43](#ref-43){: .footnote}
    {: .quote }
@@ -1634,24 +1634,24 @@ A teacher’s moral claims are easier to assess when we can compare them with hi
    > <div dir="rtl" lang="ar" class="quran-arabic">﴿فَبِمَا رَحْمَةٍ مِّنَ ٱللَّهِ لِنتَ لَهُمْ ۖ وَلَوْ كُنتَ فَظًّا غَلِيظَ ٱلْقَلْبِ لَٱنفَضُّوا۟ مِنْ حَوْلِكَ ۖ فَٱعْفُ عَنْهُمْ وَٱسْتَغْفِرْ لَهُمْ وَشَاوِرْهُمْ فِى ٱلْأَمْرِ ۖ فَإِذَا عَزَمْتَ فَتَوَكَّلْ عَلَى ٱللَّهِ ۚ إِنَّ ٱللَّهَ يُحِبُّ ٱلْمُتَوَكِّلِينَ ۝١٥٩﴾ <span class="ayah-ref">سُورَةُ آلِ عِمۡرَانَ</span></div>
    {: .quote }
 
-1. **Aisha summarized his character by saying that it embodied the Qur’an.** Asked what Muhammad ﷺ was like, she described a close relationship between the scripture he taught publicly and the conduct she observed privately at home.
+1. **Aisha summarized his character by saying that it embodied the Qur’an.** Asked what Prophet Muhammad ﷺ was like, she described a close relationship between the scripture he taught publicly and the conduct she observed privately at home.
 
    > "His character was the Qur’an." — *Sahih Muslim* 746a[3](#ref-3){: .footnote}[14](#ref-14){: .footnote}[43](#ref-43){: .footnote}
    {: .quote }
 
 ### B. Mercy when he had reason to be angry
 
-1. **A desert Arab once pulled Muhammad’s ﷺ cloak so violently that it left a mark, then demanded money.** Muhammad ﷺ had political authority and companions around him. He responded by turning toward the man, smiling, and ordering that he be given something.
+1. **A desert Arab once pulled Prophet Muhammad’s ﷺ cloak so violently that it left a mark, then demanded money.** Prophet Muhammad ﷺ had political authority and companions around him. He responded by turning toward the man, smiling, and ordering that he be given something.
 
    > "The Prophet ﷺ turned toward him, smiled, and ordered that a gift be given to him." — *Sahih al-Bukhari* 3149[2](#ref-2){: .footnote}[13](#ref-13){: .footnote}[43](#ref-43){: .footnote}
    {: .quote }
 
-1. **When a stranger urinated inside the mosque, Muhammad ﷺ stopped the crowd from attacking him.** He let the man finish, had the place washed with water, and taught his companions without turning correction into unnecessary humiliation.
+1. **When a stranger urinated inside the mosque, Prophet Muhammad ﷺ stopped the crowd from attacking him.** He let the man finish, had the place washed with water, and taught his companions without turning correction into unnecessary humiliation.
 
    > "Leave him... You were sent to make things easy, not to make them difficult." — *Sahih al-Bukhari* 6128[2](#ref-2){: .footnote}[13](#ref-13){: .footnote}[43](#ref-43){: .footnote}
    {: .quote }
 
-1. **A man once stood over Muhammad ﷺ with Muhammad’s own unsheathed sword while he slept.** The man asked who would protect him, and Muhammad ﷺ answered, “God.” After the immediate danger passed, the report records that Muhammad ﷺ did not punish him.
+1. **A man once stood over Prophet Muhammad ﷺ with Prophet Muhammad’s ﷺ own unsheathed sword while he slept.** The man asked who would protect him, and Prophet Muhammad ﷺ answered, “God.” After the immediate danger passed, the report records that Prophet Muhammad ﷺ did not punish him.
 
    > "He said, 'Who will protect you from me?' I said, 'God'... The Prophet ﷺ did not punish him." — *Sahih al-Bukhari* 2910[2](#ref-2){: .footnote}[13](#ref-13){: .footnote}[43](#ref-43){: .footnote}
    {: .quote }
@@ -1661,12 +1661,12 @@ A teacher’s moral claims are easier to assess when we can compare them with hi
    > "May God have mercy on Moses. He was hurt with more than this, yet he was patient." — *Sahih al-Bukhari* 4335[2](#ref-2){: .footnote}[13](#ref-13){: .footnote}[43](#ref-43){: .footnote}
    {: .quote }
 
-1. **When companions asked him to curse a tribe that had rejected his message, he prayed for the tribe’s guidance instead.** Tufayl ibn Amr reported that Daws had refused the message and asked Muhammad ﷺ to invoke God against them. Those around him expected a curse, but Muhammad ﷺ prayed for their guidance.
+1. **When companions asked him to curse a tribe that had rejected his message, he prayed for the tribe’s guidance instead.** Tufayl ibn Amr reported that Daws had refused the message and asked Prophet Muhammad ﷺ to invoke God against them. Those around him expected a curse, but Prophet Muhammad ﷺ prayed for their guidance.
 
    > "O God, guide Daws and bring them." — *Sahih al-Bukhari* 2937[2](#ref-2){: .footnote}[13](#ref-13){: .footnote}[43](#ref-43){: .footnote}
    {: .quote }
 
-1. **Even when a leading internal opponent died, Muhammad’s ﷺ first response was merciful until revelation set a limit.** Abdullah ibn Ubayy had led serious opposition in Medina. Yet when his son asked Muhammad ﷺ for a shirt to use as his father’s shroud and for a funeral prayer, Muhammad gave the shirt and prayed. Qur’an 9:84 then prohibited him from doing so in such cases in the future. The episode preserves both his personal inclination toward mercy and his submission when the revelation he claimed to receive overruled it.
+1. **Even when a leading internal opponent died, Prophet Muhammad’s ﷺ first response was merciful until revelation set a limit.** Abdullah ibn Ubayy had led serious opposition in Medina. Yet when his son asked Prophet Muhammad ﷺ for a shirt to use as his father’s shroud and for a funeral prayer, Prophet Muhammad ﷺ gave the shirt and prayed. Qur’an 9:84 then prohibited him from doing so in such cases in the future. The episode preserves both his personal inclination toward mercy and his submission when the revelation he claimed to receive overruled it.
 
    > His son asked for Muhammad’s ﷺ shirt and funeral prayer, "so the Prophet ﷺ gave him his shirt" and went to pray for him. — *Sahih al-Bukhari* 1269[2](#ref-2){: .footnote}[13](#ref-13){: .footnote}[43](#ref-43){: .footnote}
    {: .quote }
@@ -1676,12 +1676,12 @@ A teacher’s moral claims are easier to assess when we can compare them with hi
    > "I was not sent as one who curses. I was sent only as a mercy." — *Sahih Muslim* 2599[3](#ref-3){: .footnote}[14](#ref-14){: .footnote}[43](#ref-43){: .footnote}
    {: .quote }
 
-1. **He refused to kill Medina’s leading internal critic for political convenience.** After repeated political harm from Abdullah ibn Ubayy, Umar asked permission to kill him. Muhammad ﷺ refused in part because he considered the wider moral consequence of becoming known as a leader who killed people counted among his own community.
+1. **He refused to kill Medina’s leading internal critic for political convenience.** After repeated political harm from Abdullah ibn Ubayy, Umar asked permission to kill him. Prophet Muhammad ﷺ refused in part because he considered the wider moral consequence of becoming known as a leader who killed people counted among his own community.
 
    > "Leave him, lest people say Muhammad kills his companions." — *Sahih al-Bukhari* 4905[2](#ref-2){: .footnote}[13](#ref-13){: .footnote}[43](#ref-43){: .footnote}
    {: .quote }
 
-1. **He did not turn the poisoning at Khaybar into a personal vendetta.** Muhammad ﷺ survived poisoned food served to him there and later said, during his final illness, that he could still feel its effects. Reports differ over what ultimately happened to the woman who prepared it after another man died from the same food, but neither account makes punishment a matter of revenge for Muhammad’s own injury.
+1. **He did not turn the poisoning at Khaybar into a personal vendetta.** Prophet Muhammad ﷺ survived poisoned food served to him there and later said, during his final illness, that he could still feel its effects. Reports differ over what ultimately happened to the woman who prepared it after another man died from the same food, but neither account makes punishment a matter of revenge for Prophet Muhammad’s ﷺ own injury.
 
    > During his final illness he said that he still felt the effect of the food he had eaten at Khaybar. — *Sahih al-Bukhari* 4428[2](#ref-2){: .footnote}[13](#ref-13){: .footnote}[43](#ref-43){: .footnote}; *Sahih al-Bukhari* 5777[2](#ref-2){: .footnote}[13](#ref-13){: .footnote}[43](#ref-43){: .footnote}
    {: .quote }
@@ -1693,7 +1693,7 @@ A teacher’s moral claims are easier to assess when we can compare them with hi
    > "He used to serve his family." — *Sahih al-Bukhari* 676[2](#ref-2){: .footnote}[13](#ref-13){: .footnote}[43](#ref-43){: .footnote}
    {: .quote }
 
-1. **His household sometimes passed long periods without cooked food.** Aisha remembered seeing three new moons over two months without a cooking fire being lit in Muhammad’s homes. Dates and water formed their basic diet during such periods, supplemented by milk given by neighbors.
+1. **His household sometimes passed long periods without cooked food.** Aisha remembered seeing three new moons over two months without a cooking fire being lit in Prophet Muhammad’s ﷺ homes. Dates and water formed their basic diet during such periods, supplemented by milk given by neighbors.
 
    > "We would see three crescents in two months, and no fire would be lit in the houses of the Messenger of God ﷺ." — *Sahih al-Bukhari* 6459[2](#ref-2){: .footnote}[13](#ref-13){: .footnote}[43](#ref-43){: .footnote}
    {: .quote }
@@ -1703,12 +1703,12 @@ A teacher’s moral claims are easier to assess when we can compare them with hi
    > "The Messenger of God ﷺ died while his iron armor was pledged to a Jewish man for thirty measures of barley." — *Sahih al-Bukhari* 2916[2](#ref-2){: .footnote}[13](#ref-13){: .footnote}[43](#ref-43){: .footnote}
    {: .quote }
 
-1. **He slept on bedding coarse enough to leave marks on his body.** Umar saw those marks and wept as he compared Muhammad’s ﷺ circumstances with those of the Byzantine and Persian rulers.
+1. **He slept on bedding coarse enough to leave marks on his body.** Umar saw those marks and wept as he compared Prophet Muhammad’s ﷺ circumstances with those of the Byzantine and Persian rulers.
 
    > Umar said, "Caesar and Khosrau live as they do, while you are the Messenger of God." He replied, "Are you not content that they have this world and we the next?" — *Sahih al-Bukhari* 4913[2](#ref-2){: .footnote}[13](#ref-13){: .footnote}[43](#ref-43){: .footnote}
    {: .quote }
 
-1. **He avoided ceremonial displays of self-importance.** He sat among his companions so simply that a stranger could enter and ask which of them was Muhammad ﷺ. His companions also reported that they did not routinely stand when he arrived because they knew he disliked it.
+1. **He avoided ceremonial displays of self-importance.** He sat among his companions so simply that a stranger could enter and ask which of them was Prophet Muhammad ﷺ. His companions also reported that they did not routinely stand when he arrived because they knew he disliked it.
 
    > "Which of you is Muhammad?" — *Sahih al-Bukhari* 63; see also *Jami al-Tirmidhi* 2754, graded *hasan* [good][2](#ref-2){: .footnote}[5](#ref-5){: .footnote}[13](#ref-13){: .footnote}[16](#ref-16){: .footnote}[43](#ref-43){: .footnote}
    {: .quote }
@@ -1720,27 +1720,27 @@ A teacher’s moral claims are easier to assess when we can compare them with hi
 
 ### D. Generosity and courage when they cost something
 
-1. **His generosity became especially pronounced during Ramadan, the Muslim fasting month.** Ibn Abbas compared the freedom and speed of Muhammad’s ﷺ giving to a freely blowing wind.
+1. **His generosity became especially pronounced during Ramadan, the Muslim fasting month.** Ibn Abbas compared the freedom and speed of Prophet Muhammad’s ﷺ giving to a freely blowing wind.
 
    > "The Messenger of God ﷺ was the most generous of people, and he was most generous in Ramadan." — *Sahih al-Bukhari* 6[2](#ref-2){: .footnote}[13](#ref-13){: .footnote}[43](#ref-43){: .footnote}
    {: .quote }
 
-1. **At times he gave on a scale that astonished new converts.** Anas reported that a man who asked for material help received a flock filling the space between two mountains. The man returned to his people marveling that Muhammad ﷺ gave as someone unafraid of poverty.
+1. **At times he gave on a scale that astonished new converts.** Anas reported that a man who asked for material help received a flock filling the space between two mountains. The man returned to his people marveling that Prophet Muhammad ﷺ gave as someone unafraid of poverty.
 
    > "Muhammad gives like a man who does not fear poverty." — *Sahih Muslim* 2312a[3](#ref-3){: .footnote}[14](#ref-14){: .footnote}[43](#ref-43){: .footnote}
    {: .quote }
 
-1. **He used wealth to reconcile hostile people rather than simply accumulate it.** Safwan ibn Umayya later said that Muhammad ﷺ kept giving to him after the battle of Hunayn while Safwan still hated him, until Muhammad ﷺ became the person he loved most.
+1. **He used wealth to reconcile hostile people rather than simply accumulate it.** Safwan ibn Umayya later said that Prophet Muhammad ﷺ kept giving to him after the battle of Hunayn while Safwan still hated him, until Prophet Muhammad ﷺ became the person he loved most.
 
    > "He continued giving to me until he became the dearest of people to me, though before that he had been the most hateful of people to me." — *Sahih Muslim* 2313[3](#ref-3){: .footnote}[14](#ref-14){: .footnote}[43](#ref-43){: .footnote}
    {: .quote }
 
-1. **His courage involved personal physical risk.** When a frightening sound alarmed Medina one night, Muhammad ﷺ had already ridden alone toward it on an unsaddled horse while others were still gathering to investigate.
+1. **His courage involved personal physical risk.** When a frightening sound alarmed Medina one night, Prophet Muhammad ﷺ had already ridden alone toward it on an unsaddled horse while others were still gathering to investigate.
 
    > They met him returning, a sword at his neck, saying, "Do not be afraid. Do not be afraid." — *Sahih al-Bukhari* 6033[2](#ref-2){: .footnote}[13](#ref-13){: .footnote}[43](#ref-43){: .footnote}
    {: .quote }
 
-1. **At Hunayn, when a sudden volley drove many of his fighters backward, Muhammad ﷺ remained in place.** Al-Bara was directly asked whether the Muslims had fled and left him. He distinguished between some men retreating under the archers’ attack and Muhammad ﷺ himself remaining on his mule.
+1. **At Hunayn, when a sudden volley drove many of his fighters backward, Prophet Muhammad ﷺ remained in place.** Al-Bara was directly asked whether the Muslims had fled and left him. He distinguished between some men retreating under the archers’ attack and Prophet Muhammad ﷺ himself remaining on his mule.
 
    > Al-Bara said, "The Messenger of God ﷺ did not flee." — *Sahih al-Bukhari* 4317[2](#ref-2){: .footnote}[13](#ref-13){: .footnote}[43](#ref-43){: .footnote}
    {: .quote }
@@ -1762,7 +1762,7 @@ A teacher’s moral claims are easier to assess when we can compare them with hi
 
    Another Bukhari account adds that pieces of his helmet were driven into his cheek. The bodily danger of the battlefield reached him as it reached the people he led. — *Sahih al-Bukhari* 4075[2](#ref-2){: .footnote}[13](#ref-13){: .footnote}[43](#ref-43){: .footnote}
 
-1. **His generosity was remembered as a settled habit, not merely a few spectacular gifts.** Anas said that when Muhammad ﷺ was asked for something he could give, he did not ordinarily respond with a flat refusal. Read beside the reports of his sparse household life, the pattern is clear: resources that reached him were unusually easy for him to pass on.
+1. **His generosity was remembered as a settled habit, not merely a few spectacular gifts.** Anas said that when Prophet Muhammad ﷺ was asked for something he could give, he did not ordinarily respond with a flat refusal. Read beside the reports of his sparse household life, the pattern is clear: resources that reached him were unusually easy for him to pass on.
 
    > "The Prophet ﷺ was never asked for something to be given for which his answer was 'no.'" — *Sahih al-Bukhari* 6034[2](#ref-2){: .footnote}[13](#ref-13){: .footnote}[43](#ref-43){: .footnote}
    {: .quote }
@@ -1779,7 +1779,7 @@ A teacher’s moral claims are easier to assess when we can compare them with hi
    > "When he slaughtered a sheep, he would send portions to the friends of Khadija." — *Sahih al-Bukhari* 6004[2](#ref-2){: .footnote}[13](#ref-13){: .footnote}[43](#ref-43){: .footnote}
    {: .quote }
 
-1. **There was room for play in his marriage.** Aisha’s memory of racing Muhammad ﷺ is valuable precisely because nothing grand is happening. It preserves ordinary humor and companionship between them.
+1. **There was room for play in his marriage.** Aisha’s memory of racing Prophet Muhammad ﷺ is valuable precisely because nothing grand is happening. It preserves ordinary humor and companionship between them.
 
    > After each had won one race, he said with humor, "This one is for that one." — *Sunan Abi Dawud* 2578[4](#ref-4){: .footnote}[15](#ref-15){: .footnote}[43](#ref-43){: .footnote}
    {: .quote }
@@ -1789,12 +1789,12 @@ A teacher’s moral claims are easier to assess when we can compare them with hi
    > She said, "Messenger of God, I have a need from you." He told her to choose a side of the road, and he stayed with her until her need was met. — *Sahih Muslim* 2326[3](#ref-3){: .footnote}[14](#ref-14){: .footnote}[43](#ref-43){: .footnote}
    {: .quote }
 
-1. **A child’s turn was not erased merely because older men were present.** After drinking, Muhammad ﷺ had a boy on his right and elders on his left. Since custom gave the person on the right the next turn, he asked the boy’s permission to serve the elders first. When the boy declined, Muhammad ﷺ honored his right and handed him the drink.
+1. **A child’s turn was not erased merely because older men were present.** After drinking, Prophet Muhammad ﷺ had a boy on his right and elders on his left. Since custom gave the person on the right the next turn, he asked the boy’s permission to serve the elders first. When the boy declined, Prophet Muhammad ﷺ honored his right and handed him the drink.
 
    > He asked the boy, "Will you permit me to give these elders first?" ... Then the Messenger of God ﷺ placed the cup in the boy’s hand. — *Sahih al-Bukhari* 2602[2](#ref-2){: .footnote}[13](#ref-13){: .footnote}[43](#ref-43){: .footnote}
    {: .quote }
 
-1. **He did not insult food simply because he disliked it.** Abu Huraira preserves a small domestic courtesy: Muhammad ﷺ ate what appealed to him and quietly left what did not.
+1. **He did not insult food simply because he disliked it.** Abu Huraira preserves a small domestic courtesy: Prophet Muhammad ﷺ ate what appealed to him and quietly left what did not.
 
    > "The Prophet ﷺ never criticized food. If he wanted it, he ate it; otherwise, he left it." — *Sahih al-Bukhari* 3563[2](#ref-2){: .footnote}[13](#ref-13){: .footnote}[43](#ref-43){: .footnote}
    {: .quote }
@@ -1804,22 +1804,22 @@ A teacher’s moral claims are easier to assess when we can compare them with hi
    > He raised his hands and said, "O Lord, my community, my community," and wept. — *Sahih Muslim* 202[3](#ref-3){: .footnote}[14](#ref-14){: .footnote}[43](#ref-43){: .footnote}
    {: .quote }
 
-1. **He noticed a small child’s grief over a pet.** Anas remembered Muhammad ﷺ gently speaking with his little brother Abu Umayr about a small bird that had died. The loss may have been small to an adult, but Muhammad ﷺ treated the child’s grief as worth noticing.
+1. **He noticed a small child’s grief over a pet.** Anas remembered Prophet Muhammad ﷺ gently speaking with his little brother Abu Umayr about a small bird that had died. The loss may have been small to an adult, but Prophet Muhammad ﷺ treated the child’s grief as worth noticing.
 
    > "O Abu Umayr, what happened to the little bird?" — *Sahih al-Bukhari* 6129[2](#ref-2){: .footnote}[13](#ref-13){: .footnote}[43](#ref-43){: .footnote}
    {: .quote }
 
-1. **He stood to welcome his daughter Fatima.** Aisha reported that when Fatima entered, Muhammad ﷺ rose, took her hand, kissed her, and seated her where he had been sitting. Fatima did the same when he visited her.
+1. **He stood to welcome his daughter Fatima.** Aisha reported that when Fatima entered, Prophet Muhammad ﷺ rose, took her hand, kissed her, and seated her where he had been sitting. Fatima did the same when he visited her.
 
    > "When she entered upon him, he stood for her, took her hand, kissed her, and seated her where he had been sitting." — *Sunan Abi Dawud* 5217[4](#ref-4){: .footnote}[15](#ref-15){: .footnote}[43](#ref-43){: .footnote}
    {: .quote }
 
-1. **He noticed when a poor person who served the community was suddenly absent.** A Black man or woman who cleaned the mosque died and was buried without Muhammad ﷺ being informed. He later asked after the person, objected that no one had told him, went to the grave, and prayed there.
+1. **He noticed when a poor person who served the community was suddenly absent.** A Black man or woman who cleaned the mosque died and was buried without Prophet Muhammad ﷺ being informed. He later asked after the person, objected that no one had told him, went to the grave, and prayed there.
 
    > "Why did you not inform me?" Then he went to the grave and prayed over it. — *Sahih al-Bukhari* 458[2](#ref-2){: .footnote}[13](#ref-13){: .footnote}[43](#ref-43){: .footnote}
    {: .quote }
 
-1. **People remembered him for smiling at them.** Jarir ibn Abdullah said that after he became Muslim, Muhammad ﷺ never shut him out and smiled whenever they met.
+1. **People remembered him for smiling at them.** Jarir ibn Abdullah said that after he became Muslim, Prophet Muhammad ﷺ never shut him out and smiled whenever they met.
 
    > "Whenever he saw me, he received me with a smile." — *Sahih al-Bukhari* 3822[2](#ref-2){: .footnote}[13](#ref-13){: .footnote}[43](#ref-43){: .footnote}
    {: .quote }
@@ -1834,24 +1834,24 @@ A teacher’s moral claims are easier to assess when we can compare them with hi
    > "He did not speak rapidly as you do. He spoke with clear words, separated from one another." — *Sahih al-Bukhari* 3568[2](#ref-2){: .footnote}[13](#ref-13){: .footnote}[43](#ref-43){: .footnote}
    {: .quote }
 
-   Anas likewise remembered that Muhammad ﷺ sometimes repeated an important statement three times so that listeners would understand it. He took responsibility for making himself clear rather than assuming that the audience would keep up. — *Sahih al-Bukhari* 95[2](#ref-2){: .footnote}[13](#ref-13){: .footnote}[43](#ref-43){: .footnote}
+   Anas likewise remembered that Prophet Muhammad ﷺ sometimes repeated an important statement three times so that listeners would understand it. He took responsibility for making himself clear rather than assuming that the audience would keep up. — *Sahih al-Bukhari* 95[2](#ref-2){: .footnote}[13](#ref-13){: .footnote}[43](#ref-43){: .footnote}
 
-1. **Harmless recreation had a place in his religious life.** When Aisha wanted to watch an Abyssinian display in the mosque, Muhammad ﷺ screened her with his cloak and stayed until she had watched for as long as she wished.
+1. **Harmless recreation had a place in his religious life.** When Aisha wanted to watch an Abyssinian display in the mosque, Prophet Muhammad ﷺ screened her with his cloak and stayed until she had watched for as long as she wished.
 
    > "The Prophet ﷺ screened me with his cloak while I watched the Abyssinians playing... until I had enough." — *Sahih al-Bukhari* 5236[2](#ref-2){: .footnote}[13](#ref-13){: .footnote}[43](#ref-43){: .footnote}
    {: .quote }
 
-1. **A poor mother’s care for her daughters became a lesson in the religious value of raising girls well.** Aisha gave a needy woman three dates. The mother gave one to each daughter, then divided her own date between them. Muhammad ﷺ used the incident to teach that generous care for daughters can protect a person from the Fire.
+1. **A poor mother’s care for her daughters became a lesson in the religious value of raising girls well.** Aisha gave a needy woman three dates. The mother gave one to each daughter, then divided her own date between them. Prophet Muhammad ﷺ used the incident to teach that generous care for daughters can protect a person from the Fire.
 
    > "Whoever is tested with daughters and treats them generously, they will be a shield for him from the Fire." — *Sahih al-Bukhari* 5995[2](#ref-2){: .footnote}[13](#ref-13){: .footnote}[43](#ref-43){: .footnote}
    {: .quote }
 
-1. **He remembered a socially obscure man whom others had forgotten even among the dead.** After a battle, the companions listed those killed but did not name Julaybib. Muhammad ﷺ noticed that he was missing and made them search for him.
+1. **He remembered a socially obscure man whom others had forgotten even among the dead.** After a battle, the companions listed those killed but did not name Julaybib. Prophet Muhammad ﷺ noticed that he was missing and made them search for him.
 
    > "But I am missing Julaybib. Search for him." ... "He is of me and I am of him." — *Sahih Muslim* 2472[3](#ref-3){: .footnote}[14](#ref-14){: .footnote}[43](#ref-43){: .footnote}
    {: .quote }
 
-1. **His humor did not depend on falsehood.** Muhammad ﷺ joked with companions and children, but explicitly distinguished joking from lying.
+1. **His humor did not depend on falsehood.** Prophet Muhammad ﷺ joked with companions and children, but explicitly distinguished joking from lying.
 
    > "I do not say anything except the truth." — *Jami al-Tirmidhi* 1990, graded *hasan* [good][5](#ref-5){: .footnote}[16](#ref-16){: .footnote}[43](#ref-43){: .footnote}
    {: .quote }
@@ -1870,11 +1870,11 @@ A teacher’s moral claims are easier to assess when we can compare them with hi
 
 ## III. A life tested by weakness, persecution, authority, and victory
 
-Muhammad ﷺ lived long enough after claiming prophethood for his character to be tested under opposite conditions. He spent years unable to protect even his own followers, then later became the leader of a state and victor over the city that had expelled him. The contrast makes the chronology morally important, not merely biographical.[8](#ref-8){: .footnote}[28](#ref-28){: .footnote}[37](#ref-37){: .footnote}[38](#ref-38){: .footnote}[41](#ref-41){: .footnote}[42](#ref-42){: .footnote}
+Prophet Muhammad ﷺ lived long enough after claiming prophethood for his character to be tested under opposite conditions. He spent years unable to protect even his own followers, then later became the leader of a state and victor over the city that had expelled him. The contrast makes the chronology morally important, not merely biographical.[8](#ref-8){: .footnote}[28](#ref-28){: .footnote}[37](#ref-37){: .footnote}[38](#ref-38){: .footnote}[41](#ref-41){: .footnote}[42](#ref-42){: .footnote}
 
 ### A. Before revelation: an orphan, worker, husband, and trusted arbitrator
 
-1. **Muhammad ﷺ began life without the protection of a living father, and the Qur’an turns his memory of vulnerability into a duty toward others.** According to the early biographical tradition, his father died before he was born and his mother died while he was still a child. The same Qur’anic chapter that reminds him of being an orphan tells him not to mistreat the orphan or turn away the person who asks for help.
+1. **Prophet Muhammad ﷺ began life without the protection of a living father, and the Qur’an turns his memory of vulnerability into a duty toward others.** According to the early biographical tradition, his father died before he was born and his mother died while he was still a child. The same Qur’anic chapter that reminds him of being an orphan tells him not to mistreat the orphan or turn away the person who asks for help.
 
    > "Did He not find you an orphan and give [you] refuge?" (**Sūrat ad-Duḥā 93:6**), Saheeh International[1](#ref-1){: .footnote}[11](#ref-11){: .footnote}[12](#ref-12){: .footnote}[36](#ref-36){: .footnote}
    >
@@ -1890,12 +1890,12 @@ Muhammad ﷺ lived long enough after claiming prophethood for his character to b
    > Asked whether he had tended sheep, he said, "Yes. I used to tend the sheep of the people of Mecca for small coins." — *Sahih al-Bukhari* 2262[2](#ref-2){: .footnote}[13](#ref-13){: .footnote}[43](#ref-43){: .footnote}
    {: .quote }
 
-1. **The early biography remembers him as a trusted man before he claimed revelation.** During the rebuilding of the Kaaba, Mecca’s central sanctuary, the clans nearly fought over who would have the honor of replacing the Black Stone. Muhammad ﷺ proposed placing it on a cloth so representatives of the clans could lift it together, after which he set it in place himself.
+1. **The early biography remembers him as a trusted man before he claimed revelation.** During the rebuilding of the Kaaba, Mecca’s central sanctuary, the clans nearly fought over who would have the honor of replacing the Black Stone. Prophet Muhammad ﷺ proposed placing it on a cloth so representatives of the clans could lift it together, after which he set it in place himself.
 
    > The clans agreed that the next man to enter should arbitrate; when Muhammad came, they accepted him, and his solution shared the honor among them. — *Sīra*: Ibn Ishaq, trans. A. Guillaume, pp. 84–86[8](#ref-8){: .footnote}[19](#ref-19){: .footnote}[28](#ref-28){: .footnote}[37](#ref-37){: .footnote}[38](#ref-38){: .footnote}
    {: .quote }
 
-1. **At about forty, his prophetic life began in seclusion rather than from a position of power.** Bukhari’s account of the first revelation says that before the angelic encounter, Muhammad ﷺ had begun withdrawing to the cave of Hira for periods of worship.
+1. **At about forty, his prophetic life began in seclusion rather than from a position of power.** Bukhari’s account of the first revelation says that before the angelic encounter, Prophet Muhammad ﷺ had begun withdrawing to the cave of Hira for periods of worship.
 
    > "The love of seclusion was given to him. He would go to the cave of Hira and devote himself to worship there for a number of nights." — *Sahih al-Bukhari* 3[2](#ref-2){: .footnote}[13](#ref-13){: .footnote}[43](#ref-43){: .footnote}
    {: .quote }
@@ -1905,12 +1905,12 @@ Muhammad ﷺ lived long enough after claiming prophethood for his character to b
    > He returned to Khadija "with his heart trembling" and said, "Cover me, cover me." — *Sahih al-Bukhari* 3[2](#ref-2){: .footnote}[13](#ref-13){: .footnote}[43](#ref-43){: .footnote}
    {: .quote }
 
-1. **Khadija based her reassurance on the character she had already observed.** She cited Muhammad’s ﷺ loyalty to relatives, care for the weak, generosity, hospitality, and help in times of calamity, then took him to Waraqa ibn Nawfal, a learned monotheist familiar with earlier scripture.
+1. **Khadija based her reassurance on the character she had already observed.** She cited Prophet Muhammad’s ﷺ loyalty to relatives, care for the weak, generosity, hospitality, and help in times of calamity, then took him to Waraqa ibn Nawfal, a learned monotheist familiar with earlier scripture.
 
    > "God will never disgrace you. You keep family ties, support the weak, help the destitute, honor guests, and assist those afflicted." — *Sahih al-Bukhari* 3[2](#ref-2){: .footnote}[13](#ref-13){: .footnote}[43](#ref-43){: .footnote}
    {: .quote }
 
-1. **Waraqa’s response promised conflict rather than easy prestige.** He told Muhammad ﷺ that the bearer of revelation who had come to Moses had now come to him, and that his own people would drive him out. Muhammad ﷺ was surprised at the thought of being expelled.
+1. **Waraqa’s response promised conflict rather than easy prestige.** He told Prophet Muhammad ﷺ that the bearer of revelation who had come to Moses had now come to him, and that his own people would drive him out. Prophet Muhammad ﷺ was surprised at the thought of being expelled.
 
    > Muhammad ﷺ asked, "Will they drive me out?" Waraqa replied that no one had brought a message like this without being opposed. — *Sahih al-Bukhari* 3[2](#ref-2){: .footnote}[13](#ref-13){: .footnote}[43](#ref-43){: .footnote}
    {: .quote }
@@ -1920,14 +1920,14 @@ Muhammad ﷺ lived long enough after claiming prophethood for his character to b
    > "They pledged that they would stand with any wronged person in Mecca until his right was restored." — *Sīra*: Ibn Hisham, *al-Sīrah al-Nabawiyyah* 1/133[8](#ref-8){: .footnote}[19](#ref-19){: .footnote}[20](#ref-20){: .footnote}[28](#ref-28){: .footnote}[29](#ref-29){: .footnote}
    {: .quote }
 
-1. **Khadija was his only wife throughout their long marriage.** Early biography describes her as a Meccan merchant who employed Muhammad ﷺ in trade and later proposed marriage after observing his conduct in business. In the traditional chronology, he was about twenty-five and she was older, and they remained married for roughly twenty-five years. She knew him before prophethood, supported him at the beginning of revelation, and endured the Meccan years beside him. Although plural marriage was socially available, he did not marry another woman while she lived.
+1. **Khadija was his only wife throughout their long marriage.** Early biography describes her as a Meccan merchant who employed Prophet Muhammad ﷺ in trade and later proposed marriage after observing his conduct in business. In the traditional chronology, he was about twenty-five and she was older, and they remained married for roughly twenty-five years. She knew him before prophethood, supported him at the beginning of revelation, and endured the Meccan years beside him. Although plural marriage was socially available, he did not marry another woman while she lived.
 
    > "The Messenger of God ﷺ did not marry another woman until Khadija died." — *Sahih Muslim* 2436[3](#ref-3){: .footnote}[14](#ref-14){: .footnote}[43](#ref-43){: .footnote}; *Sīra*: Ibn Ishaq/Ibn Hisham, for the marriage narrative[8](#ref-8){: .footnote}[19](#ref-19){: .footnote}[28](#ref-28){: .footnote}[37](#ref-37){: .footnote}[38](#ref-38){: .footnote}
    {: .quote }
 
 1. **His birth name later came to fit his historical reception in a striking way.** *Muhammad* means “the one repeatedly praised” or “much praised.” He bore the name before making any prophetic claim, spent long periods of his mission being mocked and reviled, and later became someone named in the daily prayers of Muslims throughout the world. This does not prove prophethood by itself, but the correspondence is worth noticing.[77](#ref-77){: .footnote}[28](#ref-28){: .footnote}[37](#ref-37){: .footnote}
 
-1. **The sources do not give him a forty-year career as a poet, priest, scripture scholar, or religious orator preparing for this role.** Arabia highly valued poetry, yet Muhammad’s ﷺ prophetic claim appears after a long ordinary adult life rather than at the end of an established literary or priestly career. The Qur’an itself appeals to that discontinuity before the audience who had known his earlier life.
+1. **The sources do not give him a forty-year career as a poet, priest, scripture scholar, or religious orator preparing for this role.** Arabia highly valued poetry, yet Prophet Muhammad’s ﷺ prophetic claim appears after a long ordinary adult life rather than at the end of an established literary or priestly career. The Qur’an itself appeals to that discontinuity before the audience who had known his earlier life.
 
    > "You did not know what is the Book or [what is] faith, but We have made it a light by which We guide whom We will of Our servants." (**Sūrat ash-Shūrā 42:52**), Saheeh International[1](#ref-1){: .footnote}[11](#ref-11){: .footnote}[12](#ref-12){: .footnote}[36](#ref-36){: .footnote}; compare **Sūrat al-‘Ankabūt 29:48**[1](#ref-1){: .footnote}[11](#ref-11){: .footnote}[12](#ref-12){: .footnote}[36](#ref-36){: .footnote}
    >
@@ -1950,7 +1950,7 @@ Muhammad ﷺ lived long enough after claiming prophethood for his character to b
    > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَأَنذِرْ عَشِيرَتَكَ ٱلْأَقْرَبِينَ ۝٢١٤﴾ <span class="ayah-ref">سُورَةُ الشُّعَرَاءِ</span></div>
    {: .quote }
 
-1. **His followers endured persecution while they had no political power.** Khabbab ibn al-Aratt later remembered complaining to Muhammad ﷺ while he sat near the Kaaba. Muhammad’s answer was not a promise of immediate comfort, but a call to endure together with confidence that their circumstances would eventually change.
+1. **His followers endured persecution while they had no political power.** Khabbab ibn al-Aratt later remembered complaining to Prophet Muhammad ﷺ while he sat near the Kaaba. Prophet Muhammad’s ﷺ answer was not a promise of immediate comfort, but a call to endure together with confidence that their circumstances would eventually change.
 
    > "By God, God will complete this matter until a traveler goes safely... but you are being hasty." — *Sahih al-Bukhari* 3612[2](#ref-2){: .footnote}[13](#ref-13){: .footnote}[43](#ref-43){: .footnote}
    {: .quote }
@@ -1969,26 +1969,26 @@ Muhammad ﷺ lived long enough after claiming prophethood for his character to b
    > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَدُّوا۟ لَوْ تُدْهِنُ فَيُدْهِنُونَ ۝٩﴾ <span class="ayah-ref">سُورَةُ القَلَمِ</span></div>
    {: .quote }
 
-1. **The deaths of Khadija and Abu Talib removed his strongest personal and political supports.** Early biographies place both losses late in the Meccan period. Khadija had been his closest emotional supporter, while Abu Talib had provided crucial clan protection. Muhammad ﷺ continued the mission after losing both.
+1. **The deaths of Khadija and Abu Talib removed his strongest personal and political supports.** Early biographies place both losses late in the Meccan period. Khadija had been his closest emotional supporter, while Abu Talib had provided crucial clan protection. Prophet Muhammad ﷺ continued the mission after losing both.
 
    > "God will never disgrace you," Khadija had told him at the beginning of the mission. — *Sahih al-Bukhari* 3[2](#ref-2){: .footnote}[13](#ref-13){: .footnote}[43](#ref-43){: .footnote}; *Sīra*: Ibn Ishaq, for the chronology of the Meccan losses[8](#ref-8){: .footnote}[19](#ref-19){: .footnote}[28](#ref-28){: .footnote}[37](#ref-37){: .footnote}[38](#ref-38){: .footnote}
    {: .quote }
 
-   The bereavements continued beyond that year. Muhammad ﷺ outlived all of his children except Fatima, and she survived him by only about six months. His prophetic life was never insulated from ordinary human grief.
+   The bereavements continued beyond that year. Prophet Muhammad ﷺ outlived all of his children except Fatima, and she survived him by only about six months. His prophetic life was never insulated from ordinary human grief.
 
-1. **At al-Ta’if, severe rejection did not lead him to choose indiscriminate vengeance.** Bukhari’s account does not contain every dramatic detail found in popular retellings, but it clearly records Muhammad’s ﷺ deep sorrow and his refusal of the angel’s offer to crush the people who had rejected him.
+1. **At al-Ta’if, severe rejection did not lead him to choose indiscriminate vengeance.** Bukhari’s account does not contain every dramatic detail found in popular retellings, but it clearly records Prophet Muhammad’s ﷺ deep sorrow and his refusal of the angel’s offer to crush the people who had rejected him.
 
    > "Rather, I hope that God will bring from their descendants people who worship God alone." — *Sahih al-Bukhari* 3231[2](#ref-2){: .footnote}[13](#ref-13){: .footnote}[43](#ref-43){: .footnote}
    {: .quote }
 
-1. **When he finally left Mecca, he did so as a hunted migrant rather than a conqueror.** The Qur’an recalls Muhammad ﷺ and Abu Bakr hiding in a cave while pursuers searched for them.
+1. **When he finally left Mecca, he did so as a hunted migrant rather than a conqueror.** The Qur’an recalls Prophet Muhammad ﷺ and Abu Bakr hiding in a cave while pursuers searched for them.
 
    > "˹It does not matter˺ if you ˹believers˺ do not support him, for Allah did in fact support him when the disbelievers drove him out ˹of Mecca˺ and he was only one of two. While they both were in the cave, he reassured his companion, 'Do not worry; Allah is certainly with us.' So Allah sent down His serenity upon the Prophet, supported him with forces you ˹believers˺ did not see, and made the word of the disbelievers lowest, while the Word of Allah is supreme. And Allah is Almighty, All-Wise." (**Sūrat at-Tawbah 9:40**), Dr. Mustafa Khattab, *The Clear Quran*[1](#ref-1){: .footnote}[11](#ref-11){: .footnote}[12](#ref-12){: .footnote}[36](#ref-36){: .footnote}
    >
    > <div dir="rtl" lang="ar" class="quran-arabic">﴿إِلَّا تَنصُرُوهُ فَقَدْ نَصَرَهُ ٱللَّهُ إِذْ أَخْرَجَهُ ٱلَّذِينَ كَفَرُوا۟ ثَانِىَ ٱثْنَيْنِ إِذْ هُمَا فِى ٱلْغَارِ إِذْ يَقُولُ لِصَـٰحِبِهِۦ لَا تَحْزَنْ إِنَّ ٱللَّهَ مَعَنَا ۖ فَأَنزَلَ ٱللَّهُ سَكِينَتَهُۥ عَلَيْهِ وَأَيَّدَهُۥ بِجُنُودٍ لَّمْ تَرَوْهَا وَجَعَلَ كَلِمَةَ ٱلَّذِينَ كَفَرُوا۟ ٱلسُّفْلَىٰ ۗ وَكَلِمَةُ ٱللَّهِ هِىَ ٱلْعُلْيَا ۗ وَٱللَّهُ عَزِيزٌ حَكِيمٌ ۝٤٠﴾ <span class="ayah-ref">سُورَةُ التَّوۡبَةِ</span></div>
    {: .quote }
 
-1. **Even one of the men pursuing him could receive a guarantee of safety.** Suraqa pursued Muhammad ﷺ and Abu Bakr during the migration. After failing to capture them, he asked for security. The hadith account says that Muhammad ﷺ granted it and asked him not to reveal their route.
+1. **Even one of the men pursuing him could receive a guarantee of safety.** Suraqa pursued Prophet Muhammad ﷺ and Abu Bakr during the migration. After failing to capture them, he asked for security. The hadith account says that Prophet Muhammad ﷺ granted it and asked him not to reveal their route.
 
    > Suraqa asked for a written guarantee of security, and the Prophet ﷺ ordered that one be written for him. — *Sahih al-Bukhari* 3906[2](#ref-2){: .footnote}[13](#ref-13){: .footnote}[43](#ref-43){: .footnote}
    {: .quote }
@@ -2007,7 +2007,7 @@ Muhammad ﷺ lived long enough after claiming prophethood for his character to b
    > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَلَا تَطْرُدِ ٱلَّذِينَ يَدْعُونَ رَبَّهُم بِٱلْغَدَوٰةِ وَٱلْعَشِىِّ يُرِيدُونَ وَجْهَهُۥ ۖ مَا عَلَيْكَ مِنْ حِسَابِهِم مِّن شَىْءٍ وَمَا مِنْ حِسَابِكَ عَلَيْهِم مِّن شَىْءٍ فَتَطْرُدَهُمْ فَتَكُونَ مِنَ ٱلظَّـٰلِمِينَ ۝٥٢﴾ <span class="ayah-ref">سُورَةُ الأَنۡعَامِ</span></div>
    {: .quote }
 
-1. **He sent persecuted Muslims to seek protection under a Christian ruler known for justice.** Before the Muslims had a state of their own, Muhammad ﷺ recognized that trustworthy protection could come from across a religious boundary.
+1. **He sent persecuted Muslims to seek protection under a Christian ruler known for justice.** Before the Muslims had a state of their own, Prophet Muhammad ﷺ recognized that trustworthy protection could come from across a religious boundary.
 
    > "There is a king there under whom no one is wronged." — *Sīra*: Ibn Ishaq, preserved by Ibn Hisham, report of the first migration to Abyssinia[8](#ref-8){: .footnote}[19](#ref-19){: .footnote}[28](#ref-28){: .footnote}[37](#ref-37){: .footnote}[38](#ref-38){: .footnote}
    {: .quote }
@@ -2029,19 +2029,19 @@ Muhammad ﷺ lived long enough after claiming prophethood for his character to b
    > The early sira preserves negotiations in which Quraysh offered wealth and leadership if Muhammad ﷺ would abandon the message. — *Sīra*: Ibn Ishaq, as preserved by Ibn Hisham[8](#ref-8){: .footnote}[19](#ref-19){: .footnote}[28](#ref-28){: .footnote}[37](#ref-37){: .footnote}[38](#ref-38){: .footnote}
    {: .quote }
 
-1. **The persecution was physical as well as social.** Bukhari records enemies placing the remains of a slaughtered camel on Muhammad ﷺ while he prostrated at the Kaaba, leaving his daughter to remove them. Another report describes a man tightening a cloth around his neck while he prayed until Abu Bakr intervened. These were public assaults and humiliations at a time when Muhammad ﷺ had no state through which to punish his attackers.
+1. **The persecution was physical as well as social.** Bukhari records enemies placing the remains of a slaughtered camel on Prophet Muhammad ﷺ while he prostrated at the Kaaba, leaving his daughter to remove them. Another report describes a man tightening a cloth around his neck while he prayed until Abu Bakr intervened. These were public assaults and humiliations at a time when Prophet Muhammad ﷺ had no state through which to punish his attackers.
 
    > Reported in *Sahih al-Bukhari* 240[2](#ref-2){: .footnote}[13](#ref-13){: .footnote}[43](#ref-43){: .footnote} and *Sahih al-Bukhari* 3856[2](#ref-2){: .footnote}[13](#ref-13){: .footnote}[43](#ref-43){: .footnote}.
    {: .quote }
 
-1. **Early biography preserves a striking detail about the migration: people plotting his death still had property deposited with him for safekeeping.** Before leaving Mecca, Muhammad ﷺ reportedly arranged for Ali to remain behind and return those trusts. If the report is accepted, intense hostility to his religious claim had not erased confidence in his ordinary honesty.
+1. **Early biography preserves a striking detail about the migration: people plotting his death still had property deposited with him for safekeeping.** Before leaving Mecca, Prophet Muhammad ﷺ reportedly arranged for Ali to remain behind and return those trusts. If the report is accepted, intense hostility to his religious claim had not erased confidence in his ordinary honesty.
 
    > Reported in the *Sīra* of Ibn Ishaq/Ibn Hisham, in the account of the migration[8](#ref-8){: .footnote}[19](#ref-19){: .footnote}[28](#ref-28){: .footnote}[37](#ref-37){: .footnote}[38](#ref-38){: .footnote}.
    {: .quote }
 
 ### C. Medina: community, conflict, restraint, and the test of power
 
-1. **The migration in 622 radically changed Muhammad’s ﷺ circumstances.** In Medina he was no longer only a persecuted preacher, but the leader of an emerging multi-clan community. His conduct under authority can therefore be compared with the moral claims he had made while weak.
+1. **The migration in 622 radically changed Prophet Muhammad’s ﷺ circumstances.** In Medina he was no longer only a persecuted preacher, but the leader of an emerging multi-clan community. His conduct under authority can therefore be compared with the moral claims he had made while weak.
 
    > "And [also for] those who were settled in al-Madinah and [adopted] the faith before them. They love those who emigrated to them and find not any want in their breasts of what the emigrants were given but give [them] preference over themselves, even though they are in privation." (**Sūrat al-Ḥashr 59:9**), Saheeh International[1](#ref-1){: .footnote}[11](#ref-11){: .footnote}[12](#ref-12){: .footnote}[36](#ref-36){: .footnote}
    >
@@ -2053,7 +2053,7 @@ Muhammad ﷺ lived long enough after claiming prophethood for his character to b
    > "The Jews of Banu Awf are one community with the believers; the Jews have their religion and the Muslims have theirs." — *Sīra*: Ibn Ishaq, trans. A. Guillaume, pp. 231–233[8](#ref-8){: .footnote}[19](#ref-19){: .footnote}[28](#ref-28){: .footnote}[30](#ref-30){: .footnote}[37](#ref-37){: .footnote}[38](#ref-38){: .footnote}[53](#ref-53){: .footnote}
    {: .quote }
 
-1. **The first major battle, Badr, came only after years of expulsion and conflict.** The reports portray Muhammad ﷺ praying intensely rather than behaving as though victory for his followers were automatic.
+1. **The first major battle, Badr, came only after years of expulsion and conflict.** The reports portray Prophet Muhammad ﷺ praying intensely rather than behaving as though victory for his followers were automatic.
 
    > "O God, I ask You to fulfill Your promise and covenant." — *Sahih al-Bukhari* 3953[2](#ref-2){: .footnote}[13](#ref-13){: .footnote}[43](#ref-43){: .footnote}
    {: .quote }
@@ -2065,27 +2065,27 @@ Muhammad ﷺ lived long enough after claiming prophethood for his character to b
    > <div dir="rtl" lang="ar" class="quran-arabic">﴿فَبِمَا رَحْمَةٍ مِّنَ ٱللَّهِ لِنتَ لَهُمْ ۖ وَلَوْ كُنتَ فَظًّا غَلِيظَ ٱلْقَلْبِ لَٱنفَضُّوا۟ مِنْ حَوْلِكَ ۖ فَٱعْفُ عَنْهُمْ وَٱسْتَغْفِرْ لَهُمْ وَشَاوِرْهُمْ فِى ٱلْأَمْرِ ۖ فَإِذَا عَزَمْتَ فَتَوَكَّلْ عَلَى ٱللَّهِ ۚ إِنَّ ٱللَّهَ يُحِبُّ ٱلْمُتَوَكِّلِينَ ۝١٥٩﴾ <span class="ayah-ref">سُورَةُ آلِ عِمۡرَانَ</span></div>
    {: .quote }
 
-1. **During the Battle of the Trench, he shared the community’s hunger.** Jabir noticed Muhammad’s ﷺ severe hunger and prepared a small amount of food for him. The leader of Medina was enduring the siege with the community, not from the security of a stocked palace.
+1. **During the Battle of the Trench, he shared the community’s hunger.** Jabir noticed Prophet Muhammad’s ﷺ severe hunger and prepared a small amount of food for him. The leader of Medina was enduring the siege with the community, not from the security of a stocked palace.
 
    > Jabir reported seeing the Prophet ﷺ suffering from "severe hunger." — *Sahih al-Bukhari* 4101[2](#ref-2){: .footnote}[13](#ref-13){: .footnote}[43](#ref-43){: .footnote}
    {: .quote }
 
-1. **At Hudaybiyyah in 628, Muhammad ﷺ approached Mecca intending pilgrimage rather than battle.** When Quraysh prevented entry, he repeatedly pursued a negotiated truce.
+1. **At Hudaybiyyah in 628, Prophet Muhammad ﷺ approached Mecca intending pilgrimage rather than battle.** When Quraysh prevented entry, he repeatedly pursued a negotiated truce.
 
    > "We have not come to fight anyone. We have come to perform the pilgrimage." — *Sahih al-Bukhari* 2731–2732[2](#ref-2){: .footnote}[13](#ref-13){: .footnote}[43](#ref-43){: .footnote}
    {: .quote }
 
-1. **He accepted treaty wording that omitted his title “Messenger of God.”** The Meccan negotiator refused to recognize the title. Muhammad ﷺ maintained his claim to be God’s Messenger but accepted “Muhammad son of Abdullah” in the written agreement in order to secure peace.
+1. **He accepted treaty wording that omitted his title “Messenger of God.”** The Meccan negotiator refused to recognize the title. Prophet Muhammad ﷺ maintained his claim to be God’s Messenger but accepted “Muhammad son of Abdullah” in the written agreement in order to secure peace.
 
    > "By God, I am the Messenger of God even if you do not believe me. Write: Muhammad son of Abdullah." — *Sahih al-Bukhari* 2731–2732[2](#ref-2){: .footnote}[13](#ref-13){: .footnote}[43](#ref-43){: .footnote}
    {: .quote }
 
-1. **He accepted treaty terms so painful that his own companions struggled to bear them.** One clause required returning certain Meccan escapees. When the persecuted Abu Jandal arrived in chains during the negotiations, Muhammad ﷺ honored the concluded commitment rather than using the outrage of the moment to abandon the agreement.
+1. **He accepted treaty terms so painful that his own companions struggled to bear them.** One clause required returning certain Meccan escapees. When the persecuted Abu Jandal arrived in chains during the negotiations, Prophet Muhammad ﷺ honored the concluded commitment rather than using the outrage of the moment to abandon the agreement.
 
    > When Quraysh later demanded compliance, the report says: "Abide by the promise you gave us," and Muhammad ﷺ did so. — *Sahih al-Bukhari* 2731–2732[2](#ref-2){: .footnote}[13](#ref-13){: .footnote}[43](#ref-43){: .footnote}
    {: .quote }
 
-1. **In the tense aftermath of Hudaybiyyah, he followed the practical advice of his wife Umm Salama.** When discouraged companions did not immediately respond to his instruction to end the pilgrimage state, she advised him to begin the rites himself without further discussion. Muhammad ﷺ did so, and the companions followed his example.
+1. **In the tense aftermath of Hudaybiyyah, he followed the practical advice of his wife Umm Salama.** When discouraged companions did not immediately respond to his instruction to end the pilgrimage state, she advised him to begin the rites himself without further discussion. Prophet Muhammad ﷺ did so, and the companions followed his example.
 
    > Umm Salama advised him to go out, sacrifice, and shave without further argument; "the Prophet ﷺ went out" and did so. — *Sahih al-Bukhari* 2731–2732[2](#ref-2){: .footnote}[13](#ref-13){: .footnote}[43](#ref-43){: .footnote}
    {: .quote }
@@ -2097,27 +2097,27 @@ Muhammad ﷺ lived long enough after claiming prophethood for his character to b
    > <div dir="rtl" lang="ar" class="quran-arabic">﴿إِنَّا فَتَحْنَا لَكَ فَتْحًا مُّبِينًا ۝١﴾ <span class="ayah-ref">سُورَةُ الفَتۡحِ</span></div>
    {: .quote }
 
-1. **Economic cooperation with Jewish cultivators continued after the conflict at Khaybar.** The hadith says that Muhammad ﷺ allowed the Jewish inhabitants to cultivate the land in return for a share of its produce.
+1. **Economic cooperation with Jewish cultivators continued after the conflict at Khaybar.** The hadith says that Prophet Muhammad ﷺ allowed the Jewish inhabitants to cultivate the land in return for a share of its produce.
 
    > "The Prophet ﷺ gave Khaybar to the Jews to work and cultivate it, and they would receive half of its produce." — *Sahih al-Bukhari* 4248[2](#ref-2){: .footnote}[13](#ref-13){: .footnote}[43](#ref-43){: .footnote}
    {: .quote }
 
-1. **When Mecca came under his control in 630, he restrained triumphalist bloodshed in the sanctuary.** A commander reportedly spoke of a day of great fighting. Muhammad ﷺ rejected that description, and the next day publicly reaffirmed Mecca’s sacred protection from bloodshed.
+1. **When Mecca came under his control in 630, he restrained triumphalist bloodshed in the sanctuary.** A commander reportedly spoke of a day of great fighting. Prophet Muhammad ﷺ rejected that description, and the next day publicly reaffirmed Mecca’s sacred protection from bloodshed.
 
    > "It is not lawful for one who believes in God and the Last Day to shed blood in it." — *Sahih al-Bukhari* 4295[2](#ref-2){: .footnote}[13](#ref-13){: .footnote}[43](#ref-43){: .footnote}
    {: .quote }
 
-1. **Early biography records broad clemency toward the defeated Quraysh.** The familiar wording comes from biography rather than Bukhari or Muslim, so that difference in source strength should be kept clear. The account portrays Muhammad ﷺ asking his former persecutors what they expected from him and then releasing them.
+1. **Early biography records broad clemency toward the defeated Quraysh.** The familiar wording comes from biography rather than Bukhari or Muslim, so that difference in source strength should be kept clear. The account portrays Prophet Muhammad ﷺ asking his former persecutors what they expected from him and then releasing them.
 
    > "Go, for you are free." — *Sīra*: Ibn Hisham's recension of Ibn Ishaq, trans. A. Guillaume, p. 553[8](#ref-8){: .footnote}[19](#ref-19){: .footnote}[28](#ref-28){: .footnote}[37](#ref-37){: .footnote}[38](#ref-38){: .footnote}
    {: .quote }
 
-1. **He worked beside the community during demanding collective labor.** At the construction of the mosque in Medina, Muhammad ﷺ carried building materials with the others. Reports of the Trench likewise remember him digging rather than supervising hardship entirely from a distance.
+1. **He worked beside the community during demanding collective labor.** At the construction of the mosque in Medina, Prophet Muhammad ﷺ carried building materials with the others. Reports of the Trench likewise remember him digging rather than supervising hardship entirely from a distance.
 
    > "The Prophet ﷺ himself began carrying the unbaked bricks for its building." — *Sahih al-Bukhari* 3906[2](#ref-2){: .footnote}[13](#ref-13){: .footnote}[43](#ref-43){: .footnote}; *Sahih al-Bukhari* 6414[2](#ref-2){: .footnote}[13](#ref-13){: .footnote}[43](#ref-43){: .footnote}
    {: .quote }
 
-1. **He released a group of armed men captured after attempting to attack him near Mecca.** Sahih Muslim reports that eighty men descended on Muhammad ﷺ and his companions, were captured, and were then set free rather than executed in retaliation.
+1. **He released a group of armed men captured after attempting to attack him near Mecca.** Sahih Muslim reports that eighty men descended on Prophet Muhammad ﷺ and his companions, were captured, and were then set free rather than executed in retaliation.
 
    > "Eighty men from the people of Mecca came down upon the Messenger of God armed... He captured them and spared them." — *Sahih Muslim* 1808[3](#ref-3){: .footnote}[14](#ref-14){: .footnote}[43](#ref-43){: .footnote}
    {: .quote }
@@ -2127,7 +2127,7 @@ Muhammad ﷺ lived long enough after claiming prophethood for his character to b
    > "Whoever enters Abu Sufyan's house is safe; whoever lays down his arms is safe; whoever closes his door is safe." — *Sahih Muslim* 1780c[3](#ref-3){: .footnote}[14](#ref-14){: .footnote}[43](#ref-43){: .footnote}
    {: .quote }
 
-1. **After Hunayn, he supported returning captives to the defeated Hawazin when a delegation came seeking their families.** Muhammad ﷺ had delayed the final disposition long enough for them to arrive, offered a choice concerning what had been captured, and urged the Muslim army to return the people.
+1. **After Hunayn, he supported returning captives to the defeated Hawazin when a delegation came seeking their families.** Prophet Muhammad ﷺ had delayed the final disposition long enough for them to arrive, offered a choice concerning what had been captured, and urged the Muslim army to return the people.
 
    > "Your brothers have come to you repentant, and I consider that their captives should be returned to them." — *Sahih al-Bukhari* 4318–4319[2](#ref-2){: .footnote}[13](#ref-13){: .footnote}[43](#ref-43){: .footnote}
    {: .quote }
@@ -2186,7 +2186,7 @@ Muhammad ﷺ lived long enough after claiming prophethood for his character to b
    > "O God, with the Highest Companion." — *Sahih al-Bukhari* 4463[2](#ref-2){: .footnote}[13](#ref-13){: .footnote}[43](#ref-43){: .footnote}
    {: .quote }
 
-1. **His death was not turned into a denial of his humanity.** The Qur’an had already warned the community not to make faith depend on Muhammad’s ﷺ continued earthly life.
+1. **His death was not turned into a denial of his humanity.** The Qur’an had already warned the community not to make faith depend on Prophet Muhammad’s ﷺ continued earthly life.
 
    > "Muhammad is not but a messenger. [Other] messengers have passed on before him. So if he was to die or be killed, would you turn back on your heels [to unbelief]? And he who turns back on his heels will never harm Allah at all; but Allah will reward the grateful." (**Sūrat Āl 'Imrān 3:144**), Saheeh International[1](#ref-1){: .footnote}[11](#ref-11){: .footnote}[12](#ref-12){: .footnote}[36](#ref-36){: .footnote}
    >
@@ -2203,26 +2203,26 @@ Muhammad ﷺ lived long enough after claiming prophethood for his character to b
    > "Do not return after me to striking one another's necks." — *Sahih al-Bukhari* 7078[2](#ref-2){: .footnote}[13](#ref-13){: .footnote}[43](#ref-43){: .footnote}
    {: .quote }
 
-1. **Among the instructions repeated near the end of his life were prayer and responsibility toward people under one’s authority.** At a moment when a ruler might be expected to focus on preserving his house or office, the transmitted reports instead remember Muhammad ﷺ returning to worship and to the treatment of people least able to compel justice for themselves.
+1. **Among the instructions repeated near the end of his life were prayer and responsibility toward people under one’s authority.** At a moment when a ruler might be expected to focus on preserving his house or office, the transmitted reports instead remember Prophet Muhammad ﷺ returning to worship and to the treatment of people least able to compel justice for themselves.
 
    > "The prayer, the prayer, and those whom your right hands possess." — *Sunan Abi Dawud* 5156[4](#ref-4){: .footnote}[15](#ref-15){: .footnote}[43](#ref-43){: .footnote}; *Sunan Ibn Majah* 2698, graded sound[6](#ref-6){: .footnote}[17](#ref-17){: .footnote}[43](#ref-43){: .footnote}
    {: .quote }
 
 ### E. The society and generation he left behind
 
-1. **The scale of change accomplished during Muhammad’s ﷺ twenty-three-year mission is part of the historical evidence that needs explaining.** He began preaching in a fragmented tribal society without a state and died leading a polity that covered most of Arabia. In between, his community developed institutions of law, worship, taxation, learning, treaty-making, public charity, and written administration, while directly challenging practices such as idolatrous worship, blood vengeance, female infanticide, and unrestricted usury. The speed of this transformation does not by itself prove revelation, but an explanation of his historical career has to account for it.
+1. **The scale of change accomplished during Prophet Muhammad’s ﷺ twenty-three-year mission is part of the historical evidence that needs explaining.** He began preaching in a fragmented tribal society without a state and died leading a polity that covered most of Arabia. In between, his community developed institutions of law, worship, taxation, learning, treaty-making, public charity, and written administration, while directly challenging practices such as idolatrous worship, blood vengeance, female infanticide, and unrestricted usury. The speed of this transformation does not by itself prove revelation, but an explanation of his historical career has to account for it.
 
    > "It is He who has sent among the unlettered a Messenger from themselves reciting to them His verses and purifying them and teaching them the Book and wisdom - although they were before in clear error -" (**Sūrat al-Jumu'ah 62:2**), Saheeh International[1](#ref-1){: .footnote}[11](#ref-11){: .footnote}[12](#ref-12){: .footnote}[36](#ref-36){: .footnote}
    >
    > <div dir="rtl" lang="ar" class="quran-arabic">﴿هُوَ ٱلَّذِى بَعَثَ فِى ٱلْأُمِّيِّـۧنَ رَسُولًا مِّنْهُمْ يَتْلُوا۟ عَلَيْهِمْ ءَايَـٰتِهِۦ وَيُزَكِّيهِمْ وَيُعَلِّمُهُمُ ٱلْكِتَـٰبَ وَٱلْحِكْمَةَ وَإِن كَانُوا۟ مِن قَبْلُ لَفِى ضَلَـٰلٍ مُّبِينٍ ۝٢﴾ <span class="ayah-ref">سُورَةُ الجُمُعَةِ</span></div>
    {: .quote }
 
-1. **Some costly reforms were adopted with striking speed despite the absence of a large enforcement bureaucracy.** Anas remembered wine being poured away when its prohibition was announced. Near the end of the mission, the financial and blood claims abolished in the Farewell Pilgrimage were made concrete by beginning with claims involving Muhammad’s ﷺ own family. This does not mean that every social vice disappeared overnight. It does show how quickly demanding norms could acquire real communal force.
+1. **Some costly reforms were adopted with striking speed despite the absence of a large enforcement bureaucracy.** Anas remembered wine being poured away when its prohibition was announced. Near the end of the mission, the financial and blood claims abolished in the Farewell Pilgrimage were made concrete by beginning with claims involving Prophet Muhammad’s ﷺ own family. This does not mean that every social vice disappeared overnight. It does show how quickly demanding norms could acquire real communal force.
 
    > Anas reported that when the prohibition of wine was announced, the containers in Medina were emptied. — *Sahih al-Bukhari* 2464[2](#ref-2){: .footnote}[13](#ref-13){: .footnote}[43](#ref-43){: .footnote}; *Sahih al-Bukhari* 4620[2](#ref-2){: .footnote}[13](#ref-13){: .footnote}[43](#ref-43){: .footnote}; *Sahih Muslim* 1218a[3](#ref-3){: .footnote}[14](#ref-14){: .footnote}[43](#ref-43){: .footnote}
    {: .quote }
 
-1. **The mission reconciled communities whose feud had involved real bloodshed.** The Medinan tribes Aws and Khazraj had fought for generations, most recently at Bu’ath shortly before Muhammad’s ﷺ arrival. The Qur’an explicitly appealed to their own memory of once being enemies whose hearts had been brought together.
+1. **The mission reconciled communities whose feud had involved real bloodshed.** The Medinan tribes Aws and Khazraj had fought for generations, most recently at Bu’ath shortly before Prophet Muhammad’s ﷺ arrival. The Qur’an explicitly appealed to their own memory of once being enemies whose hearts had been brought together.
 
    > "And hold firmly to the rope of Allah all together and do not become divided. And remember the favor of Allah upon you - when you were enemies and He brought your hearts together and you became, by His favor, brothers. And you were on the edge of a pit of the Fire, and He saved you from it. Thus does Allah make clear to you His verses that you may be guided." (**Sūrat Āl 'Imrān 3:103**), Saheeh International[1](#ref-1){: .footnote}[11](#ref-11){: .footnote}[12](#ref-12){: .footnote}[36](#ref-36){: .footnote}; *Sīra*: early biography, for the Bu'ath background[8](#ref-8){: .footnote}[19](#ref-19){: .footnote}[28](#ref-28){: .footnote}[37](#ref-37){: .footnote}[38](#ref-38){: .footnote}
    >
@@ -2236,7 +2236,7 @@ Muhammad ﷺ lived long enough after claiming prophethood for his character to b
    > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَٱلَّذِينَ تَبَوَّءُو ٱلدَّارَ وَٱلْإِيمَـٰنَ مِن قَبْلِهِمْ يُحِبُّونَ مَنْ هَاجَرَ إِلَيْهِمْ وَلَا يَجِدُونَ فِى صُدُورِهِمْ حَاجَةً مِّمَّآ أُوتُوا۟ وَيُؤْثِرُونَ عَلَىٰٓ أَنفُسِهِمْ وَلَوْ كَانَ بِهِمْ خَصَاصَةٌ ۚ وَمَن يُوقَ شُحَّ نَفْسِهِۦ فَأُو۟لَـٰٓئِكَ هُمُ ٱلْمُفْلِحُونَ ۝٩﴾ <span class="ayah-ref">سُورَةُ الحَشۡرِ</span></div>
    {: .quote }
 
-1. **The generation formed around him did not respond to his death by making him divine.** They had been taught to distinguish the messenger from God. Early reports remember Abu Bakr calming the community by reciting the Qur’anic reminder that Muhammad ﷺ was a messenger like earlier messengers and could die. That generation then became administrators, judges, teachers, and transmitters of the religious record rather than custodians of a royal cult centered on his person.
+1. **The generation formed around him did not respond to his death by making him divine.** They had been taught to distinguish the messenger from God. Early reports remember Abu Bakr calming the community by reciting the Qur’anic reminder that Prophet Muhammad ﷺ was a messenger like earlier messengers and could die. That generation then became administrators, judges, teachers, and transmitters of the religious record rather than custodians of a royal cult centered on his person.
 
    > "Muhammad is not but a messenger. [Other] messengers have passed on before him. So if he was to die or be killed, would you turn back on your heels [to unbelief]?" (**Sūrat Āl 'Imrān 3:144**), Saheeh International[1](#ref-1){: .footnote}[11](#ref-11){: .footnote}[12](#ref-12){: .footnote}[36](#ref-36){: .footnote}; recited by Abu Bakr in his address after Muhammad's ﷺ death, reported in *Sahih al-Bukhari*
    >
@@ -2247,31 +2247,31 @@ Muhammad ﷺ lived long enough after claiming prophethood for his character to b
 
 ## IV. Why his claim to prophethood deserves serious attention
 
-The case for Muhammad’s ﷺ prophethood is strongest when its parts are considered together. **Good character alone does not prove revelation;** a sincere person can still be mistaken. **A prediction can be ambiguous,** a miracle report is only as useful as its transmission, and **literary power is partly a matter of judgment**. The evidence therefore should not be made to carry more weight individually than it can bear. The relevant question is which overall explanation best accounts for the man, the text he delivered, the risks he accepted, the advantages he refused to exploit, the predictions and miracles attributed to him, and the responses of people who knew him closely.
+The case for Prophet Muhammad’s ﷺ prophethood is strongest when its parts are considered together. **Good character alone does not prove revelation;** a sincere person can still be mistaken. **A prediction can be ambiguous,** a miracle report is only as useful as its transmission, and **literary power is partly a matter of judgment**. The evidence therefore should not be made to carry more weight individually than it can bear. The relevant question is which overall explanation best accounts for the man, the text he delivered, the risks he accepted, the advantages he refused to exploit, the predictions and miracles attributed to him, and the responses of people who knew him closely.
 
 ### A. Character, incentives, and behavior that are difficult to fit to a cynical fraud
 
-1. **His claim to prophethood did not emerge from a known history of deceit.** One of the most useful testimonies in Bukhari comes from Abu Sufyan while he was still Muhammad’s ﷺ opponent. The Byzantine emperor Heraclius asked whether Muhammad had ever been accused of lying before claiming prophethood. Abu Sufyan answered no.
+1. **His claim to prophethood did not emerge from a known history of deceit.** One of the most useful testimonies in Bukhari comes from Abu Sufyan while he was still Prophet Muhammad’s ﷺ opponent. The Byzantine emperor Heraclius asked whether Prophet Muhammad ﷺ had ever been accused of lying before claiming prophethood. Abu Sufyan answered no.
 
    > Heraclius asked, "Had you ever accused him of lying before he said what he now says?" Abu Sufyan replied, "No." — *Sahih al-Bukhari* 7[2](#ref-2){: .footnote}[13](#ref-13){: .footnote}[43](#ref-43){: .footnote}
    {: .quote }
 
-1. **The same hostile witness said that Muhammad ﷺ was not known for breaking agreements.** Heraclius was questioning an enemy rather than a follower, and Abu Sufyan later admitted that he would have liked to say something damaging if he could.
+1. **The same hostile witness said that Prophet Muhammad ﷺ was not known for breaking agreements.** Heraclius was questioning an enemy rather than a follower, and Abu Sufyan later admitted that he would have liked to say something damaging if he could.
 
    > Asked whether Muhammad ﷺ broke covenants, Abu Sufyan said, "No." — *Sahih al-Bukhari* 7[2](#ref-2){: .footnote}[13](#ref-13){: .footnote}[43](#ref-43){: .footnote}
    {: .quote }
 
-1. **Abu Sufyan described Muhammad’s early followers as largely socially weak, while saying that their numbers were growing.** This does not prove revelation, but it matters when considering motive. The message initially associated Muhammad ﷺ with vulnerable followers rather than simply winning him the existing elite.
+1. **Abu Sufyan described Prophet Muhammad’s ﷺ early followers as largely socially weak, while saying that their numbers were growing.** This does not prove revelation, but it matters when considering motive. The message initially associated Prophet Muhammad ﷺ with vulnerable followers rather than simply winning him the existing elite.
 
    > Asked whether his followers were the nobles or the weak, Abu Sufyan replied, "Rather, the weak." Asked whether they increased, he said, "They increase." — *Sahih al-Bukhari* 7[2](#ref-2){: .footnote}[13](#ref-13){: .footnote}[43](#ref-43){: .footnote}
    {: .quote }
 
-1. **Even his opponent’s summary of the message is morally plain rather than centered on Muhammad himself.** Abu Sufyan told Heraclius that Muhammad ﷺ called people to worship God alone, abandon ancestral idols, pray, speak truth, remain chaste, and maintain family ties.
+1. **Even his opponent’s summary of the message is morally plain rather than centered on Prophet Muhammad ﷺ himself.** Abu Sufyan told Heraclius that Prophet Muhammad ﷺ called people to worship God alone, abandon ancestral idols, pray, speak truth, remain chaste, and maintain family ties.
 
    > "He tells us to worship God alone... and he orders us to pray, be truthful, remain chaste, and keep family ties." — *Sahih al-Bukhari* 7[2](#ref-2){: .footnote}[13](#ref-13){: .footnote}[43](#ref-43){: .footnote}
    {: .quote }
 
-1. **Khadija knew the private man before there was a public prophetic mission.** At the first revelation, she reassured Muhammad ﷺ by appealing to years of conduct she had already witnessed and concluded that God would not disgrace a man who lived that way.
+1. **Khadija knew the private man before there was a public prophetic mission.** At the first revelation, she reassured Prophet Muhammad ﷺ by appealing to years of conduct she had already witnessed and concluded that God would not disgrace a man who lived that way.
 
    > "You keep family ties, support the weak, help the destitute, honor the guest, and assist those struck by calamity." — *Sahih al-Bukhari* 3[2](#ref-2){: .footnote}[13](#ref-13){: .footnote}[43](#ref-43){: .footnote}
    {: .quote }
@@ -2286,24 +2286,24 @@ The case for Muhammad’s ﷺ prophethood is strongest when its parts are consid
    > "The Messenger of God ﷺ never struck anyone with his hand, neither a woman nor a servant." — *Sahih Muslim* 2328a[3](#ref-3){: .footnote}[14](#ref-14){: .footnote}[43](#ref-43){: .footnote}
    {: .quote }
 
-1. **For years, the claim brought Muhammad ﷺ loss rather than political power.** The Meccan mission meant hostility, insecurity, persecution of his followers, loss of protection, rejection at al-Ta’if, and finally migration. A theory based on simple short-term personal gain fits this phase poorly.
+1. **For years, the claim brought Prophet Muhammad ﷺ loss rather than political power.** The Meccan mission meant hostility, insecurity, persecution of his followers, loss of protection, rejection at al-Ta’if, and finally migration. A theory based on simple short-term personal gain fits this phase poorly.
 
    > "If you do not aid the Prophet - Allah has already aided him when those who disbelieved had driven him out [of Makkah] as one of two, when they were in the cave and he said to his companion, 'Do not grieve; indeed Allah is with us.' And Allah sent down his tranquillity upon him and supported him with angels you did not see and made the word of those who disbelieved the lowest, while the word of Allah - that is the highest. And Allah is Exalted in Might and Wise." (**Sūrat al-Tawbah 9:40**), Saheeh International[1](#ref-1){: .footnote}[11](#ref-11){: .footnote}[12](#ref-12){: .footnote}[36](#ref-36){: .footnote}
    >
    > <div dir="rtl" lang="ar" class="quran-arabic">﴿إِلَّا تَنصُرُوهُ فَقَدْ نَصَرَهُ ٱللَّهُ إِذْ أَخْرَجَهُ ٱلَّذِينَ كَفَرُوا۟ ثَانِىَ ٱثْنَيْنِ إِذْ هُمَا فِى ٱلْغَارِ إِذْ يَقُولُ لِصَـٰحِبِهِۦ لَا تَحْزَنْ إِنَّ ٱللَّهَ مَعَنَا ۖ فَأَنزَلَ ٱللَّهُ سَكِينَتَهُۥ عَلَيْهِ وَأَيَّدَهُۥ بِجُنُودٍ لَّمْ تَرَوْهَا وَجَعَلَ كَلِمَةَ ٱلَّذِينَ كَفَرُوا۟ ٱلسُّفْلَىٰ ۗ وَكَلِمَةُ ٱللَّهِ هِىَ ٱلْعُلْيَا ۗ وَٱللَّهُ عَزِيزٌ حَكِيمٌ ۝٤٠﴾ <span class="ayah-ref">سُورَةُ التَّوۡبَةِ</span></div>
    {: .quote }
 
-1. **When political power finally came, his household did not turn into a royal court.** By the end of the mission Muhammad ﷺ led most of Arabia, yet personally owned remarkably little and built no palace. Aisha’s memory of months without cooking fires and the report that his armor remained pledged for food are difficult to fit to a theory centered on personal enrichment.
+1. **When political power finally came, his household did not turn into a royal court.** By the end of the mission Prophet Muhammad ﷺ led most of Arabia, yet personally owned remarkably little and built no palace. Aisha’s memory of months without cooking fires and the report that his armor remained pledged for food are difficult to fit to a theory centered on personal enrichment.
 
    > "The Messenger of God ﷺ died while his iron armor was pledged to a Jewish man for thirty measures of barley." — *Sahih al-Bukhari* 2916[2](#ref-2){: .footnote}[13](#ref-13){: .footnote}[43](#ref-43){: .footnote}
    {: .quote }
 
-1. **He closed off obvious routes by which his family could turn prophethood into dynastic wealth.** Muhammad ﷺ taught that what prophets leave behind becomes charity rather than inherited family property, and his household was barred from receiving obligatory alms. When his young grandson Hasan put a charity date in his mouth, Muhammad ﷺ made him remove it. All of Muhammad’s sons died in childhood, and he made no arrangement to place another relative on a hereditary throne.
+1. **He closed off obvious routes by which his family could turn prophethood into dynastic wealth.** Prophet Muhammad ﷺ taught that what prophets leave behind becomes charity rather than inherited family property, and his household was barred from receiving obligatory alms. When his young grandson Hasan put a charity date in his mouth, Prophet Muhammad ﷺ made him remove it. All of Prophet Muhammad’s ﷺ sons died in childhood, and he made no arrangement to place another relative on a hereditary throne.
 
    > "We prophets are not inherited from. What we leave is charity." — *Sahih al-Bukhari* 4240-4241[2](#ref-2){: .footnote}[13](#ref-13){: .footnote}[43](#ref-43){: .footnote}; *Sahih al-Bukhari* 1491[2](#ref-2){: .footnote}[13](#ref-13){: .footnote}[43](#ref-43){: .footnote}; *Sahih Muslim* 1072a[3](#ref-3){: .footnote}[14](#ref-14){: .footnote}[43](#ref-43){: .footnote}
    {: .quote }
 
-1. **He explicitly forbade his followers from exaggerating his religious status.** A founder seeking to maximize his own sacral authority would have every incentive to encourage such praise. Muhammad ﷺ instead restricted it.
+1. **He explicitly forbade his followers from exaggerating his religious status.** A founder seeking to maximize his own sacral authority would have every incentive to encourage such praise. Prophet Muhammad ﷺ instead restricted it.
 
    > "Do not exaggerate in praising me... I am only a servant. Say: God’s servant and His Messenger." — *Sahih al-Bukhari* 3445[2](#ref-2){: .footnote}[13](#ref-13){: .footnote}[43](#ref-43){: .footnote}
    {: .quote }
@@ -2322,7 +2322,7 @@ The case for Muhammad’s ﷺ prophethood is strongest when its parts are consid
    > <div dir="rtl" lang="ar" class="quran-arabic">﴿قُل لَّآ أَقُولُ لَكُمْ عِندِى خَزَآئِنُ ٱللَّهِ وَلَآ أَعْلَمُ ٱلْغَيْبَ وَلَآ أَقُولُ لَكُمْ إِنِّى مَلَكٌ ۖ إِنْ أَتَّبِعُ إِلَّا مَا يُوحَىٰٓ إِلَىَّ ۚ قُلْ هَلْ يَسْتَوِى ٱلْأَعْمَىٰ وَٱلْبَصِيرُ ۚ أَفَلَا تَتَفَكَّرُونَ ۝٥٠﴾ <span class="ayah-ref">سُورَةُ الأَنۡعَامِ</span></div>
    {: .quote }
 
-1. **He rejected an extraordinarily convenient miracle claim when others supplied it for him.** A solar eclipse occurred on the day his son Ibrahim died, and people linked the two events. For a fraudulent religious leader, the coincidence would have been exceptionally useful. Muhammad ﷺ immediately denied that the eclipse had anything to do with his son’s death.
+1. **He rejected an extraordinarily convenient miracle claim when others supplied it for him.** A solar eclipse occurred on the day his son Ibrahim died, and people linked the two events. For a fraudulent religious leader, the coincidence would have been exceptionally useful. Prophet Muhammad ﷺ immediately denied that the eclipse had anything to do with his son’s death.
 
    > "The sun and moon do not eclipse because of anyone’s death or life." — *Sahih al-Bukhari* 1043[2](#ref-2){: .footnote}[13](#ref-13){: .footnote}[43](#ref-43){: .footnote}
    {: .quote }
@@ -2342,7 +2342,7 @@ The case for Muhammad’s ﷺ prophethood is strongest when its parts are consid
    > "You know better about the technical affairs of your worldly life." — *Sahih Muslim* 2363[3](#ref-3){: .footnote}[14](#ref-14){: .footnote}[43](#ref-43){: .footnote}
    {: .quote }
 
-1. **The Qur’an repeatedly places limits on Muhammad’s ﷺ status.** He is a messenger rather than a deity, a human rather than an angel, a recipient rather than the owner of revelation, and a mortal rather than the permanent center of the faith.
+1. **The Qur’an repeatedly places limits on Prophet Muhammad’s ﷺ status.** He is a messenger rather than a deity, a human rather than an angel, a recipient rather than the owner of revelation, and a mortal rather than the permanent center of the faith.
 
    > "Muḥammad is no more than a messenger; other messengers have gone before him. If he were to die or to be killed, would you regress into disbelief? Those who do so will not harm Allah whatsoever. And Allah will reward those who are grateful." (**Sūrat Āl ʿImrān 3:144**), Dr. Mustafa Khattab, *The Clear Quran*[1](#ref-1){: .footnote}[11](#ref-11){: .footnote}[12](#ref-12){: .footnote}[36](#ref-36){: .footnote}
    >
@@ -2356,19 +2356,19 @@ The case for Muhammad’s ﷺ prophethood is strongest when its parts are consid
    > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَمَا تَسْـَٔلُهُمْ عَلَيْهِ مِنْ أَجْرٍ ۚ إِنْ هُوَ إِلَّا ذِكْرٌ لِّلْعَـٰلَمِينَ ۝١٠٤﴾ <span class="ayah-ref">سُورَةُ يُوسُفَ</span></div>
    {: .quote }
 
-1. **The Qur’an itself appeals to the long public life he had already lived before revelation.** Muhammad’s ﷺ first audience was not meeting a stranger with an unverifiable past. They had decades of ordinary conduct against which to compare his new claim.
+1. **The Qur’an itself appeals to the long public life he had already lived before revelation.** Prophet Muhammad’s ﷺ first audience was not meeting a stranger with an unverifiable past. They had decades of ordinary conduct against which to compare his new claim.
 
    > "Say, 'If Allah had willed, I would not have recited it to you, nor would He have made it known to you, for I had remained among you a lifetime before it. Then will you not reason?'" (**Sūrat Yūnus 10:16**), Saheeh International[1](#ref-1){: .footnote}[11](#ref-11){: .footnote}[12](#ref-12){: .footnote}[36](#ref-36){: .footnote}
    >
    > <div dir="rtl" lang="ar" class="quran-arabic">﴿قُل لَّوْ شَآءَ ٱللَّهُ مَا تَلَوْتُهُۥ عَلَيْكُمْ وَلَآ أَدْرَىٰكُم بِهِۦ ۖ فَقَدْ لَبِثْتُ فِيكُمْ عُمُرًا مِّن قَبْلِهِۦٓ ۚ أَفَلَا تَعْقِلُونَ ۝١٦﴾ <span class="ayah-ref">سُورَةُ يُونُسَ</span></div>
    {: .quote }
 
-1. **His claim cannot easily be explained as an attempt to recover a lost family throne.** When Heraclius asked Abu Sufyan, who was still an opponent, whether any of Muhammad’s ﷺ ancestors had been a king, he answered no.
+1. **His claim cannot easily be explained as an attempt to recover a lost family throne.** When Heraclius asked Abu Sufyan, who was still an opponent, whether any of Prophet Muhammad’s ﷺ ancestors had been a king, he answered no.
 
    > Heraclius asked, "Was any of his forefathers a king?" Abu Sufyan answered, "No." — *Sahih al-Bukhari* 7[2](#ref-2){: .footnote}[13](#ref-13){: .footnote}[43](#ref-43){: .footnote}
    {: .quote }
 
-1. **Kinship with the Prophet did not become a substitute for personal accountability before God.** Muhammad ﷺ warned his own daughter Fatima that being related to him could not save her apart from her own standing before God. That is a significant restraint for a founder supposedly constructing a privileged spiritual dynasty.
+1. **Kinship with the Prophet did not become a substitute for personal accountability before God.** Prophet Muhammad ﷺ warned his own daughter Fatima that being related to him could not save her apart from her own standing before God. That is a significant restraint for a founder supposedly constructing a privileged spiritual dynasty.
 
    > "Fatima, daughter of Muhammad, ask me for whatever you wish of my wealth, but I cannot save you from God." — *Sahih al-Bukhari* 2753[2](#ref-2){: .footnote}[13](#ref-13){: .footnote}[43](#ref-43){: .footnote}
    {: .quote }
@@ -2380,18 +2380,18 @@ The case for Muhammad’s ﷺ prophethood is strongest when its parts are consid
 
 1. **These self-limitations matter more once the scale of his eventual authority is taken seriously.** In Medina there was no higher Arabian court forcing the head of the community to live without a palace, consult others, deny his family obligatory charity, reject worshipful praise, admit technical error, or submit to a text that rebuked him. The restraints are significant precisely because political victory had removed many ordinary external constraints.[37](#ref-37){: .footnote}[38](#ref-38){: .footnote}[41](#ref-41){: .footnote}[42](#ref-42){: .footnote}
 
-**What this establishes:** none of these facts logically forces the conclusion that Muhammad ﷺ was a prophet. They do, however, fit poorly with the simplest cynical explanations based on money, luxury, family dynasty, easy political advancement, self-deification, or habitual lying. A stronger skeptical account would need to involve something like sincere religious conviction, an unusual psychological experience, or another theory capable of explaining the same pattern.
+**What this establishes:** none of these facts logically forces the conclusion that Prophet Muhammad ﷺ was a prophet. They do, however, fit poorly with the simplest cynical explanations based on money, luxury, family dynasty, easy political advancement, self-deification, or habitual lying. A stronger skeptical account would need to involve something like sincere religious conviction, an unusual psychological experience, or another theory capable of explaining the same pattern.
 
 ### B. The Qur’an’s posture toward Muhammad ﷺ is unusual if he were simply composing it for himself
 
-1. **The Qur’an presents Muhammad ﷺ as subject to the revelation rather than in control of it.** When opponents asked him to produce a different recitation or alter the existing one, the response said that he had no authority to change it on his own.
+1. **The Qur’an presents Prophet Muhammad ﷺ as subject to the revelation rather than in control of it.** When opponents asked him to produce a different recitation or alter the existing one, the response said that he had no authority to change it on his own.
 
    > "When Our clear revelations are recited to them, those who do not expect to meet Us say ˹to the Prophet˺, 'Bring us a different Quran or make some changes in it.' Say ˹to them˺, 'It is not for me to change it on my own. I only follow what is revealed to me. I fear, if I were to disobey my Lord, the punishment of a tremendous Day.'" (**Sūrat Yūnus 10:15**), Dr. Mustafa Khattab, *The Clear Quran*[1](#ref-1){: .footnote}[11](#ref-11){: .footnote}[12](#ref-12){: .footnote}[36](#ref-36){: .footnote}
    >
    > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَإِذَا تُتْلَىٰ عَلَيْهِمْ ءَايَاتُنَا بَيِّنَـٰتٍ ۙ قَالَ ٱلَّذِينَ لَا يَرْجُونَ لِقَآءَنَا ٱئْتِ بِقُرْءَانٍ غَيْرِ هَـٰذَآ أَوْ بَدِّلْهُ ۚ قُلْ مَا يَكُونُ لِىٓ أَنْ أُبَدِّلَهُۥ مِن تِلْقَآئِ نَفْسِىٓ ۖ إِنْ أَتَّبِعُ إِلَّا مَا يُوحَىٰٓ إِلَىَّ ۖ إِنِّىٓ أَخَافُ إِنْ عَصَيْتُ رَبِّى عَذَابَ يَوْمٍ عَظِيمٍ ۝١٥﴾ <span class="ayah-ref">سُورَةُ يُونُسَ</span></div>
    {: .quote }
 
-1. **It publicly corrects him for neglecting a blind man while giving attention to influential Meccans.** Abdullah ibn Umm Maktum came seeking instruction while Muhammad ﷺ was speaking to Meccan notables, and Muhammad frowned and turned away. The criticism became permanent scripture recited by his own followers.
+1. **It publicly corrects him for neglecting a blind man while giving attention to influential Meccans.** Abdullah ibn Umm Maktum came seeking instruction while Prophet Muhammad ﷺ was speaking to Meccan notables, and Prophet Muhammad ﷺ frowned and turned away. The criticism became permanent scripture recited by his own followers.
 
    > "The Prophet frowned and turned away. Because there came to him the blind man, [interrupting]. But what would make you perceive, [O Muhammad], that perhaps he might be purified. Or be reminded and the remembrance would benefit him? As for he who thinks himself without need, To him you give attention. And not upon you [is any blame] if he will not be purified. But as for he who came to you striving [for knowledge]. While he fears [Allah], From him you are distracted." (**Sūrat ʿAbasa 80:1-10**), Saheeh International[1](#ref-1){: .footnote}[11](#ref-11){: .footnote}[12](#ref-12){: .footnote}[36](#ref-36){: .footnote}
    >
@@ -2412,14 +2412,14 @@ The case for Muhammad’s ﷺ prophethood is strongest when its parts are consid
    > <div dir="rtl" lang="ar" class="quran-arabic">﴿ يَـٰٓأَيُّهَا ٱلنَّبِىُّ لِمَ تُحَرِّمُ مَآ أَحَلَّ ٱللَّهُ لَكَ ۖ تَبْتَغِى مَرْضَاتَ أَزْوَٰجِكَ ۚ وَٱللَّهُ غَفُورٌ رَّحِيمٌ ۝١﴾ <span class="ayah-ref">سُورَةُ التَّحۡرِيمِ</span></div>
    {: .quote }
 
-1. **It preserves a personally uncomfortable criticism in the episode involving Zayd and Zaynab.** Whatever interpretation one gives the event, a text written simply to protect Muhammad’s ﷺ image had no obvious reason to preserve the statement that he feared people’s reaction.
+1. **It preserves a personally uncomfortable criticism in the episode involving Zayd and Zaynab.** Whatever interpretation one gives the event, a text written simply to protect Prophet Muhammad’s ﷺ image had no obvious reason to preserve the statement that he feared people’s reaction.
 
    > "And [remember, O Muhammad], when you said to the one on whom Allah bestowed favor and you bestowed favor, 'Keep your wife and fear Allah,' while you concealed within yourself that which Allah is to disclose. And you feared the people, while Allah has more right that you fear Him. So when Zayd had no longer any need for her, We married her to you in order that there not be upon the believers any discomfort concerning the wives of their adopted sons when they no longer have need of them. And ever is the command of Allah accomplished." (**Sūrat al-Aḥzāb 33:37**), Saheeh International[1](#ref-1){: .footnote}[11](#ref-11){: .footnote}[12](#ref-12){: .footnote}[36](#ref-36){: .footnote}
    >
    > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَإِذْ تَقُولُ لِلَّذِىٓ أَنْعَمَ ٱللَّهُ عَلَيْهِ وَأَنْعَمْتَ عَلَيْهِ أَمْسِكْ عَلَيْكَ زَوْجَكَ وَٱتَّقِ ٱللَّهَ وَتُخْفِى فِى نَفْسِكَ مَا ٱللَّهُ مُبْدِيهِ وَتَخْشَى ٱلنَّاسَ وَٱللَّهُ أَحَقُّ أَن تَخْشَىٰهُ ۖ فَلَمَّا قَضَىٰ زَيْدٌ مِّنْهَا وَطَرًا زَوَّجْنَـٰكَهَا لِكَىْ لَا يَكُونَ عَلَى ٱلْمُؤْمِنِينَ حَرَجٌ فِىٓ أَزْوَٰجِ أَدْعِيَآئِهِمْ إِذَا قَضَوْا۟ مِنْهُنَّ وَطَرًا ۚ وَكَانَ أَمْرُ ٱللَّهِ مَفْعُولًا ۝٣٧﴾ <span class="ayah-ref">سُورَةُ الأَحۡزَابِ</span></div>
    {: .quote }
 
-1. **It threatens Muhammad ﷺ himself with severe punishment if he were to invent words and attribute them to God.** A human author could of course write such a threat, so the verse is not self-proving. But it places the supposed author under an unusually severe condemnation of the very fraud of which a skeptic would accuse him.
+1. **It threatens Prophet Muhammad ﷺ himself with severe punishment if he were to invent words and attribute them to God.** A human author could of course write such a threat, so the verse is not self-proving. But it places the supposed author under an unusually severe condemnation of the very fraud of which a skeptic would accuse him.
 
    > "And if Muhammad had made up about Us some [false] sayings, We would have seized him by the right hand; Then We would have cut from him the aorta." (**Sūrat al-Ḥāqqah 69:44-46**), Saheeh International[1](#ref-1){: .footnote}[11](#ref-11){: .footnote}[12](#ref-12){: .footnote}[36](#ref-36){: .footnote}
    >
@@ -2440,7 +2440,7 @@ The case for Muhammad’s ﷺ prophethood is strongest when its parts are consid
    > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَلَا تَقُولَنَّ لِشَا۟ىْءٍ إِنِّى فَاعِلٌ ذَٰلِكَ غَدًا ۝٢٣ إِلَّآ أَن يَشَآءَ ٱللَّهُ ۚ وَٱذْكُر رَّبَّكَ إِذَا نَسِيتَ وَقُلْ عَسَىٰٓ أَن يَهْدِيَنِ رَبِّى لِأَقْرَبَ مِنْ هَـٰذَا رَشَدًا ۝٢٤﴾ <span class="ayah-ref">سُورَةُ الكَهۡفِ</span></div>
    {: .quote }
 
-1. **It tells him not to rush his recitation while revelation is being received.** The passage portrays Muhammad ﷺ trying to retain words being delivered to him and then being told that their collection and recitation are God’s responsibility.
+1. **It tells him not to rush his recitation while revelation is being received.** The passage portrays Prophet Muhammad ﷺ trying to retain words being delivered to him and then being told that their collection and recitation are God’s responsibility.
 
    > "Move not your tongue with it, [O Muhammad], to hasten with recitation of the Qur'an. Indeed, upon Us is its collection [in your heart] and [to make possible] its recitation." (**Sūrat al-Qiyāmah 75:16-17**), Saheeh International[1](#ref-1){: .footnote}[11](#ref-11){: .footnote}[12](#ref-12){: .footnote}[36](#ref-36){: .footnote}
    >
@@ -2461,7 +2461,7 @@ The case for Muhammad’s ﷺ prophethood is strongest when its parts are consid
    > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَمَا كُنتَ تَتْلُوا۟ مِن قَبْلِهِۦ مِن كِتَـٰبٍ وَلَا تَخُطُّهُۥ بِيَمِينِكَ ۖ إِذًا لَّٱرْتَابَ ٱلْمُبْطِلُونَ ۝٤٨﴾ <span class="ayah-ref">سُورَةُ العَنكَبُوتِ</span></div>
    {: .quote }
 
-1. **It presents the contents of the revealed narratives as knowledge Muhammad ﷺ did not previously possess.**
+1. **It presents the contents of the revealed narratives as knowledge Prophet Muhammad ﷺ did not previously possess.**
 
    > "And thus We have revealed to you an inspiration of Our command. You did not know what is the Book or [what is] faith, but We have made it a light by which We guide whom We will of Our servants. And indeed, [O Muhammad], you guide to a straight path." (**Sūrat al-Shūrā 42:52**), Saheeh International[1](#ref-1){: .footnote}[11](#ref-11){: .footnote}[12](#ref-12){: .footnote}[36](#ref-36){: .footnote}
    >
@@ -2489,7 +2489,7 @@ The case for Muhammad’s ﷺ prophethood is strongest when its parts are consid
    > <div dir="rtl" lang="ar" class="quran-arabic">﴿قُل لَّئِنِ ٱجْتَمَعَتِ ٱلْإِنسُ وَٱلْجِنُّ عَلَىٰٓ أَن يَأْتُوا۟ بِمِثْلِ هَـٰذَا ٱلْقُرْءَانِ لَا يَأْتُونَ بِمِثْلِهِۦ وَلَوْ كَانَ بَعْضُهُمْ لِبَعْضٍ ظَهِيرًا ۝٨٨﴾ <span class="ayah-ref">سُورَةُ الإِسۡرَاءِ</span></div>
    {: .quote }
 
-1. **God, not Muhammad ﷺ, is the center of the Qur’an.** The text repeatedly recounts earlier prophets, corrects Muhammad, limits his powers, and calls him a messenger. This does not prove divine authorship, but it does not read naturally as a work whose chief purpose is the human speaker’s self-glorification.
+1. **God, not Prophet Muhammad ﷺ, is the center of the Qur’an.** The text repeatedly recounts earlier prophets, corrects Prophet Muhammad ﷺ, limits his powers, and calls him a messenger. This does not prove divine authorship, but it does not read naturally as a work whose chief purpose is the human speaker’s self-glorification.
 
    > "Say, 'I am only a man like you, to whom has been revealed that your god is one God. So whoever would hope for the meeting with his Lord - let him do righteous work and not associate in the worship of his Lord anyone.'" (**Sūrat al-Kahf 18:110**), Saheeh International[1](#ref-1){: .footnote}[11](#ref-11){: .footnote}[12](#ref-12){: .footnote}[36](#ref-36){: .footnote}
    >
@@ -2538,7 +2538,7 @@ The case for Muhammad’s ﷺ prophethood is strongest when its parts are consid
    > <div dir="rtl" lang="ar" class="quran-arabic">﴿۞ يَـٰٓأَيُّهَا ٱلرَّسُولُ بَلِّغْ مَآ أُنزِلَ إِلَيْكَ مِن رَّبِّكَ ۖ وَإِن لَّمْ تَفْعَلْ فَمَا بَلَّغْتَ رِسَالَتَهُۥ ۚ وَٱللَّهُ يَعْصِمُكَ مِنَ ٱلنَّاسِ ۗ إِنَّ ٱللَّهَ لَا يَهْدِى ٱلْقَوْمَ ٱلْكَـٰفِرِينَ ۝٦٧﴾ <span class="ayah-ref">سُورَةُ المَائـِدَةِ</span></div>
    {: .quote }
 
-1. **When opponents demanded spectacular signs on their own terms, the Qur’an refused to turn Muhammad ﷺ into a supernatural performer.** They asked for springs, gardens, a house of gold, angels, or a book physically brought down to them. The response was that he was a human messenger; elsewhere, the recited Book itself is presented as sufficient. He is also told to deny independent knowledge even of what will happen to him and his audience.
+1. **When opponents demanded spectacular signs on their own terms, the Qur’an refused to turn Prophet Muhammad ﷺ into a supernatural performer.** They asked for springs, gardens, a house of gold, angels, or a book physically brought down to them. The response was that he was a human messenger; elsewhere, the recited Book itself is presented as sufficient. He is also told to deny independent knowledge even of what will happen to him and his audience.
 
    > "Or you have a house of gold or you ascend into the sky. And [even then], we will not believe in your ascension until you bring down to us a book we may read." Say, "Exalted is my Lord! Was I ever but a human messenger?" (**Sūrat al-Isrāʾ 17:93**), Saheeh International[1](#ref-1){: .footnote}[11](#ref-11){: .footnote}[12](#ref-12){: .footnote}[36](#ref-36){: .footnote}
    >
@@ -2555,7 +2555,7 @@ The case for Muhammad’s ﷺ prophethood is strongest when its parts are consid
    > <div dir="rtl" lang="ar" class="quran-arabic">﴿قُلْ مَا كُنتُ بِدْعًا مِّنَ ٱلرُّسُلِ وَمَآ أَدْرِى مَا يُفْعَلُ بِى وَلَا بِكُمْ ۖ إِنْ أَتَّبِعُ إِلَّا مَا يُوحَىٰٓ إِلَىَّ وَمَآ أَنَا۠ إِلَّا نَذِيرٌ مُّبِينٌ ۝٩﴾ <span class="ayah-ref">سُورَةُ الأَحۡقَافِ</span></div>
    {: .quote }
 
-1. **The Qur’an could place additional burdens on Muhammad ﷺ rather than simply grant him privileges.** The earliest revelations command night worship with unusual force, and classical Muslim interpretation commonly treated the night vigil as a special obligation for him while it remained voluntary for the wider community. Whatever one concludes about the exact legal classification, the text points toward additional discipline rather than easy exemption.
+1. **The Qur’an could place additional burdens on Prophet Muhammad ﷺ rather than simply grant him privileges.** The earliest revelations command night worship with unusual force, and classical Muslim interpretation commonly treated the night vigil as a special obligation for him while it remained voluntary for the wider community. Whatever one concludes about the exact legal classification, the text points toward additional discipline rather than easy exemption.
 
    > "O you who wraps himself [in clothing], Arise [to pray] the night, except for a little - Half of it - or subtract from it a little, Or add to it, and recite the Qur'an with measured recitation." (**Sūrat al-Muzzammil 73:1-4**), Saheeh International[1](#ref-1){: .footnote}[11](#ref-11){: .footnote}[12](#ref-12){: .footnote}[36](#ref-36){: .footnote}
    >
@@ -2579,13 +2579,13 @@ The case for Muhammad’s ﷺ prophethood is strongest when its parts are consid
    > <div dir="rtl" lang="ar" class="quran-arabic">﴿يَـٰٓأَيُّهَا ٱلنَّبِىُّ قُل لِّأَزْوَٰجِكَ إِن كُنتُنَّ تُرِدْنَ ٱلْحَيَوٰةَ ٱلدُّنْيَا وَزِينَتَهَا فَتَعَالَيْنَ أُمَتِّعْكُنَّ وَأُسَرِّحْكُنَّ سَرَاحًا جَمِيلًا ۝٢٨ وَإِن كُنتُنَّ تُرِدْنَ ٱللَّهَ وَرَسُولَهُۥ وَٱلدَّارَ ٱلْـَٔاخِرَةَ فَإِنَّ ٱللَّهَ أَعَدَّ لِلْمُحْسِنَـٰتِ مِنكُنَّ أَجْرًا عَظِيمًا ۝٢٩﴾ <span class="ayah-ref">سُورَةُ الأَحۡزَابِ</span></div>
    {: .quote }
 
-1. **The Qur’an sounds recognizably different from the ordinary speech attributed to Muhammad ﷺ.** Hadith preserve conversations, jokes, legal explanations, household remarks, and political instructions, while the Qur’an maintains a markedly different diction, cadence, structure, and scriptural voice. This is not a straightforward stylometric proof, especially because many hadith were transmitted by meaning. It does, however, reinforce the observation that revelation did not simply appear as ordinary speech whenever an answer was convenient. The month-long delay during Aisha’s accusation makes the same point through timing rather than style.[34](#ref-34){: .footnote}[35](#ref-35){: .footnote}[36](#ref-36){: .footnote}[47](#ref-47){: .footnote}[48](#ref-48){: .footnote}[79](#ref-79){: .footnote}
+1. **The Qur’an sounds recognizably different from the ordinary speech attributed to Prophet Muhammad ﷺ.** Hadith preserve conversations, jokes, legal explanations, household remarks, and political instructions, while the Qur’an maintains a markedly different diction, cadence, structure, and scriptural voice. This is not a straightforward stylometric proof, especially because many hadith were transmitted by meaning. It does, however, reinforce the observation that revelation did not simply appear as ordinary speech whenever an answer was convenient. The month-long delay during Aisha’s accusation makes the same point through timing rather than style.[34](#ref-34){: .footnote}[35](#ref-35){: .footnote}[36](#ref-36){: .footnote}[47](#ref-47){: .footnote}[48](#ref-48){: .footnote}[79](#ref-79){: .footnote}
 
 **What this establishes:** every point above can be given a skeptical explanation in isolation. A human author can write self-criticism, issue a challenge, or claim preservation. The harder question is why the text so consistently constrains, corrects, and decenters the man who would supposedly be using it for his own interests, while maintaining a sustained theological voice across very different stages of his mission.
 
 ### C. How the hadith record was preserved and tested
 
-Much of the evidence in this article about Muhammad’s ﷺ character, conduct, predictions, and reported miracles comes through hadith. The hadith record therefore has to be examined rather than taken for granted. The classical Muslim system for criticizing transmission is historically unusual in its scale, rigour and detail, but it does not make every report automatically true. Modern historians also debate how confidently later chains of transmission can recover events from Islam’s first century. Even with those cautions, it is inaccurate to treat the surviving material as an undifferentiated collection of anonymous legends.[22](#ref-22){: .footnote}[23](#ref-23){: .footnote}[31](#ref-31){: .footnote}[32](#ref-32){: .footnote}[33](#ref-33){: .footnote}[43](#ref-43){: .footnote}[44](#ref-44){: .footnote}[45](#ref-45){: .footnote}[46](#ref-46){: .footnote}
+Much of the evidence in this article about Prophet Muhammad’s ﷺ character, conduct, predictions, and reported miracles comes through hadith. The hadith record therefore has to be examined rather than taken for granted. The classical Muslim system for criticizing transmission is historically unusual in its scale, rigour and detail, but it does not make every report automatically true. Modern historians also debate how confidently later chains of transmission can recover events from Islam’s first century. Even with those cautions, it is inaccurate to treat the surviving material as an undifferentiated collection of anonymous legends.[22](#ref-22){: .footnote}[23](#ref-23){: .footnote}[31](#ref-31){: .footnote}[32](#ref-32){: .footnote}[33](#ref-33){: .footnote}[43](#ref-43){: .footnote}[44](#ref-44){: .footnote}[45](#ref-45){: .footnote}[46](#ref-46){: .footnote}
 
 1. **Hadith reports were normally accompanied by named *isnads* [chains of transmission].** The chain records who claimed to have received the report from whom, reaching back toward an earlier witness. This gave critics a stated history of transmission to investigate rather than leaving a saying as an anonymous maxim.
 
@@ -2606,13 +2606,13 @@ Much of the evidence in this article about Muhammad’s ﷺ character, conduct, 
 
 1. **Classical scholars distinguished ordinary reports from *mutawatir* [mass-transmitted] reports.** The latter category was reserved for material transmitted through enough independent routes that deliberate coordinated fabrication was judged implausible. Most individual hadith are not *mutawatir*. That is precisely why “found in a hadith book” and “mass-transmitted” should not be treated as equivalent claims.[23](#ref-23){: .footnote}[33](#ref-33){: .footnote}[43](#ref-43){: .footnote}
 
-This method explains how Muslim scholarship can accept some reports, weaken others, and identify statements falsely attributed to Muhammad ﷺ. It also explains why the date of a source still matters here. The major canonical collections were compiled generations after the Prophet, so a prediction fulfilled before compilation remains open to the skeptical possibility that its wording was shaped after the event. A prediction whose canonical written source demonstrably predates the event, such as the report later connected with the 1256 Hijaz eruption, has a different evidentiary advantage.
+This method explains how Muslim scholarship can accept some reports, weaken others, and identify statements falsely attributed to Prophet Muhammad ﷺ. It also explains why the date of a source still matters here. The major canonical collections were compiled generations after the Prophet, so a prediction fulfilled before compilation remains open to the skeptical possibility that its wording was shaped after the event. A prediction whose canonical written source demonstrably predates the event, such as the report later connected with the 1256 Hijaz eruption, has a different evidentiary advantage.
 
 For an academic introduction to the discipline and its modern criticisms, see Jonathan A. C. Brown, *Hadith: Muhammad’s Legacy in the Medieval and Modern World* (Oneworld, 2009; later editions).
 
 ### D. Specific predictions and reported fulfillments
 
-Predictions have evidential value only when their sources are handled carefully. A prediction is most useful when its wording is specific, there is good reason to date it before the event, the predicted outcome was outside the speaker’s control, and the match does not depend on stretching the language. Qur’anic predictions can be compared with early textual witnesses. Hadith require an additional caution because the canonical collections were compiled generations after Muhammad ﷺ, even though their compilers used named transmission chains and earlier material. A skeptic can therefore argue that an individual report was shaped after the event. The examples below should not be treated as though they all have the same degree of historical independence.
+Predictions have evidential value only when their sources are handled carefully. A prediction is most useful when its wording is specific, there is good reason to date it before the event, the predicted outcome was outside the speaker’s control, and the match does not depend on stretching the language. Qur’anic predictions can be compared with early textual witnesses. Hadith require an additional caution because the canonical collections were compiled generations after Prophet Muhammad ﷺ, even though their compilers used named transmission chains and earlier material. A skeptic can therefore argue that an individual report was shaped after the event. The examples below should not be treated as though they all have the same degree of historical independence.
 
 1. **The Qur’an predicted a Byzantine recovery after a devastating defeat.** The Eastern Roman, or Byzantine, Empire had suffered severe losses to the Sasanian Persians. The Qur’an nevertheless said that the Romans would reverse their defeat “within a few years.”[63](#ref-63){: .footnote}[64](#ref-64){: .footnote}
 
@@ -2635,7 +2635,7 @@ Predictions have evidential value only when their sources are handled carefully.
    > <div dir="rtl" lang="ar" class="quran-arabic">﴿سَيُهْزَمُ ٱلْجَمْعُ وَيُوَلُّونَ ٱلدُّبُرَ ۝٤٥﴾ <span class="ayah-ref">سُورَةُ القَمَرِ</span></div>
    {: .quote }
 
-1. **At Badr, Muhammad ﷺ recited this prediction before facing the Meccan force, which was then defeated.** Bukhari’s account of the battle places the verse on his lips before its outcome was known.
+1. **At Badr, Prophet Muhammad ﷺ recited this prediction before facing the Meccan force, which was then defeated.** Bukhari’s account of the battle places the verse on his lips before its outcome was known.
 
    > He went out in armor reciting, "The assembly will be defeated, and they will turn their backs." — *Sahih al-Bukhari* 4875[2](#ref-2){: .footnote}[13](#ref-13){: .footnote}[43](#ref-43){: .footnote}
    {: .quote }
@@ -2652,7 +2652,7 @@ Predictions have evidential value only when their sources are handled carefully.
    > The negotiator said, in effect, "We will not allow you this year... but we will allow you next year." — *Sahih al-Bukhari* 2731-2732[2](#ref-2){: .footnote}[13](#ref-13){: .footnote}[43](#ref-43){: .footnote}
    {: .quote }
 
-1. **Muhammad ﷺ told Fatima that she would be the first member of his household to follow him in death.** During his final illness, he privately told her that he expected his own death and that she would be the first of his family to join him.
+1. **Prophet Muhammad ﷺ told Fatima that she would be the first member of his household to follow him in death.** During his final illness, he privately told her that he expected his own death and that she would be the first of his family to join him.
 
    > "I think my death has drawn near, and you will be the first of my family to follow me." — *Sahih al-Bukhari* 3623-3624[2](#ref-2){: .footnote}[13](#ref-13){: .footnote}[43](#ref-43){: .footnote}
    {: .quote }
@@ -2682,7 +2682,7 @@ Predictions have evidential value only when their sources are handled carefully.
    > "Ammar will be killed by a rebellious group." — *Sahih al-Bukhari* 2812[2](#ref-2){: .footnote}[13](#ref-13){: .footnote}[43](#ref-43){: .footnote}; historical context: Encyclopedia.com, "Ammar Bin Yasir"
    {: .quote }
 
-1. **He called Umar and Uthman “two martyrs” while both men were still alive.** In a report set on Mount Uhud, Muhammad ﷺ was with Abu Bakr, Umar, and Uthman and identified the last two as martyrs.
+1. **He called Umar and Uthman “two martyrs” while both men were still alive.** In a report set on Mount Uhud, Prophet Muhammad ﷺ was with Abu Bakr, Umar, and Uthman and identified the last two as martyrs.
 
    > "Be firm, Uhud. Upon you are only a prophet, a truthful one, and two martyrs." — *Sahih al-Bukhari* 3675[2](#ref-2){: .footnote}[13](#ref-13){: .footnote}[43](#ref-43){: .footnote}
    {: .quote }
@@ -2727,12 +2727,12 @@ Predictions have evidential value only when their sources are handled carefully.
    > "God will complete this matter until a traveler goes from Sana to Hadramawt fearing none but God, except a wolf for his sheep." — *Sahih al-Bukhari* 3612[2](#ref-2){: .footnote}[13](#ref-13){: .footnote}[43](#ref-43){: .footnote}
    {: .quote }
 
-1. **He described once-poor shepherds competing in tall or magnificent buildings as a sign near the end of history.** The modern skylines of the Arabian Peninsula make the saying naturally striking to many readers. It should still be handled carefully: the statement is broad, eschatological, and recorded after Muhammad’s ﷺ lifetime. The modern visual resemblance does not by itself make the report conclusive proof.
+1. **He described once-poor shepherds competing in tall or magnificent buildings as a sign near the end of history.** The modern skylines of the Arabian Peninsula make the saying naturally striking to many readers. It should still be handled carefully: the statement is broad, eschatological, and recorded after Prophet Muhammad’s ﷺ lifetime. The modern visual resemblance does not by itself make the report conclusive proof.
 
    > "You will see barefoot, destitute shepherds competing with one another in constructing magnificent buildings." — *Sahih Muslim* 8a[3](#ref-3){: .footnote}[14](#ref-14){: .footnote}[43](#ref-43){: .footnote}
    {: .quote }
 
-1. **A report about a later extremist faction contains a highly specific physical description.** Muhammad ﷺ is reported to have said that among the dissidents would be a man with one malformed arm resembling a breast or fleshy appendage. The report then says that, after fighting the group, Ali ordered the bodies searched and the described man was found.
+1. **A report about a later extremist faction contains a highly specific physical description.** Prophet Muhammad ﷺ is reported to have said that among the dissidents would be a man with one malformed arm resembling a breast or fleshy appendage. The report then says that, after fighting the group, Ali ordered the bodies searched and the described man was found.
 
    > One man among them would have "a hand like a woman's breast or a lump of flesh." — *Sahih Muslim* 1066g[3](#ref-3){: .footnote}[14](#ref-14){: .footnote}[43](#ref-43){: .footnote}
    {: .quote }
@@ -2754,14 +2754,14 @@ Predictions have evidential value only when their sources are handled carefully.
    > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَعَدَ ٱللَّهُ ٱلَّذِينَ ءَامَنُوا۟ مِنكُمْ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ لَيَسْتَخْلِفَنَّهُمْ فِى ٱلْأَرْضِ كَمَا ٱسْتَخْلَفَ ٱلَّذِينَ مِن قَبْلِهِمْ وَلَيُمَكِّنَنَّ لَهُمْ دِينَهُمُ ٱلَّذِى ٱرْتَضَىٰ لَهُمْ وَلَيُبَدِّلَنَّهُم مِّنۢ بَعْدِ خَوْفِهِمْ أَمْنًا ۚ يَعْبُدُونَنِى لَا يُشْرِكُونَ بِى شَيْـًٔا ۚ وَمَن كَفَرَ بَعْدَ ذَٰلِكَ فَأُو۟لَـٰٓئِكَ هُمُ ٱلْفَـٰسِقُونَ ۝٥٥﴾ <span class="ayah-ref">سُورَةُ النُّورِ</span></div>
    {: .quote }
 
-1. **The Qur’an also forecast the public ascendancy of the religion in a chapter revealed around Hudaybiyyah, just after the Muslims had been kept out of Mecca.** Within two years Mecca came under Muhammad’s ﷺ authority, and within the first Muslim generations Islam spread far beyond Arabia. Because the language of “prevail” can be understood in more than one way, the expansion is better treated as a strong historical correspondence than as a precisely dated prediction.
+1. **The Qur’an also forecast the public ascendancy of the religion in a chapter revealed around Hudaybiyyah, just after the Muslims had been kept out of Mecca.** Within two years Mecca came under Prophet Muhammad’s ﷺ authority, and within the first Muslim generations Islam spread far beyond Arabia. Because the language of “prevail” can be understood in more than one way, the expansion is better treated as a strong historical correspondence than as a precisely dated prediction.
 
    > "He is the One Who has sent His Messenger with ˹right˺ guidance and the religion of truth, making it prevail over all others. And sufficient is Allah as a Witness." (**Sūrat al-Fatḥ 48:28**), Dr. Mustafa Khattab, *The Clear Quran*[1](#ref-1){: .footnote}[11](#ref-11){: .footnote}[12](#ref-12){: .footnote}[36](#ref-36){: .footnote}
    >
    > <div dir="rtl" lang="ar" class="quran-arabic">﴿هُوَ ٱلَّذِىٓ أَرْسَلَ رَسُولَهُۥ بِٱلْهُدَىٰ وَدِينِ ٱلْحَقِّ لِيُظْهِرَهُۥ عَلَى ٱلدِّينِ كُلِّهِۦ ۚ وَكَفَىٰ بِٱللَّهِ شَهِيدًا ۝٢٨﴾ <span class="ayah-ref">سُورَةُ الفَتۡحِ</span></div>
    {: .quote }
 
-1. **One hadith prediction has an unusual advantage because its major written sources clearly predate the event commonly identified as its fulfillment.** Muhammad ﷺ is reported to have said that before the end of history a great fire would emerge from the Hijaz, the western Arabian region containing Mecca and Medina, with light reaching as far as Busra in Syria. The prediction appears in both Bukhari and Muslim.
+1. **One hadith prediction has an unusual advantage because its major written sources clearly predate the event commonly identified as its fulfillment.** Prophet Muhammad ﷺ is reported to have said that before the end of history a great fire would emerge from the Hijaz, the western Arabian region containing Mecca and Medina, with light reaching as far as Busra in Syria. The prediction appears in both Bukhari and Muslim.
 
    > "The Hour will not come until a fire emerges from the land of the Hijaz, illuminating the necks of the camels at Busra." — *Sahih al-Bukhari* 7118[2](#ref-2){: .footnote}[13](#ref-13){: .footnote}[43](#ref-43){: .footnote}; *Sahih Muslim* 2902[3](#ref-3){: .footnote}[14](#ref-14){: .footnote}[43](#ref-43){: .footnote}
    {: .quote }
@@ -2771,7 +2771,7 @@ Predictions have evidential value only when their sources are handled carefully.
    > "A fire emerges from the land of the Hijaz..." — *Sahih al-Bukhari* 7118[2](#ref-2){: .footnote}[13](#ref-13){: .footnote}[43](#ref-43){: .footnote}; U.S. Geological Survey, eruptive history near Al Madinah; Smithsonian Global Volcanism Program, Harrat Rahat
    {: .quote }
 
-1. **The Qur’an publicly named Abu Lahab, Muhammad’s ﷺ fiercely hostile uncle, as a man headed for ruin and punishment while he still had years left to oppose the mission.** The evidential interest is that the text commits itself publicly regarding a named living opponent rather than making only anonymous future claims. A common apologetic argument says that Abu Lahab could simply have pretended to convert and falsified the verse, but that goes too far because a false profession could have been described as hypocrisy. The narrower point is firmer: the Qur’an made a public claim about a living adversary, and Abu Lahab remained an opponent until his death.
+1. **The Qur’an publicly named Abu Lahab, Prophet Muhammad’s ﷺ fiercely hostile uncle, as a man headed for ruin and punishment while he still had years left to oppose the mission.** The evidential interest is that the text commits itself publicly regarding a named living opponent rather than making only anonymous future claims. A common apologetic argument says that Abu Lahab could simply have pretended to convert and falsified the verse, but that goes too far because a false profession could have been described as hypocrisy. The narrower point is firmer: the Qur’an made a public claim about a living adversary, and Abu Lahab remained an opponent until his death.
 
    > "May the hands of Abu Lahab perish, and he ˹himself˺ perish. Neither his wealth nor ˹worldly˺ gains will benefit him. He will burn in a flaming Fire." (**Sūrat al-Masad 111:1-3**), Dr. Mustafa Khattab, *The Clear Quran*[1](#ref-1){: .footnote}[11](#ref-11){: .footnote}[12](#ref-12){: .footnote}[36](#ref-36){: .footnote}
    >
@@ -2787,14 +2787,14 @@ Predictions have evidential value only when their sources are handled carefully.
 
 The hadith collections preserve many reports of miracles. A believer who accepts the soundness of the hadith tradition will naturally regard them as direct signs of prophethood. For a skeptical historian, they remain **testimonial evidence**: transmitted claims that extraordinary events were witnessed. The testimony should not be dismissed merely because the event described is miraculous, but neither should a written report be treated like a modern recording. Its weight depends on such factors as the number and independence of transmission routes, the public or private setting, the specificity of the claim, and the reliability of those who transmitted it.[18](#ref-18){: .footnote}[20](#ref-20){: .footnote}[21](#ref-21){: .footnote}[37](#ref-37){: .footnote}[38](#ref-38){: .footnote}[39](#ref-39){: .footnote}
 
-1. **The Qur’an itself is presented as Muhammad’s ﷺ enduring public sign.** It was not a private vision. It was recited openly, memorized, written, challenged, and transmitted as the central content of his mission.
+1. **The Qur’an itself is presented as Prophet Muhammad’s ﷺ enduring public sign.** It was not a private vision. It was recited openly, memorized, written, challenged, and transmitted as the central content of his mission.
 
    > "And if you are in doubt about what We have sent down upon Our Servant [Muhammad], then produce a surah the like thereof and call upon your witnesses other than Allah, if you should be truthful." (**Sūrat al-Baqarah 2:23**), Saheeh International[1](#ref-1){: .footnote}[11](#ref-11){: .footnote}[12](#ref-12){: .footnote}[36](#ref-36){: .footnote}
    >
    > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَإِن كُنتُمْ فِى رَيْبٍ مِّمَّا نَزَّلْنَا عَلَىٰ عَبْدِنَا فَأْتُوا۟ بِسُورَةٍ مِّن مِّثْلِهِۦ وَٱدْعُوا۟ شُهَدَآءَكُم مِّن دُونِ ٱللَّهِ إِن كُنتُمْ صَـٰدِقِينَ ۝٢٣﴾ <span class="ayah-ref">سُورَةُ البَقَرَةِ</span></div>
    {: .quote }
 
-1. **Water was reported to flow from between his fingers in front of a large group.** Jabir’s account at Hudaybiyyah says that when the companions needed water, a small vessel was brought to Muhammad ﷺ and enough water flowed for the group to drink and wash. When asked how many people were present, Jabir said about fifteen hundred.
+1. **Water was reported to flow from between his fingers in front of a large group.** Jabir’s account at Hudaybiyyah says that when the companions needed water, a small vessel was brought to Prophet Muhammad ﷺ and enough water flowed for the group to drink and wash. When asked how many people were present, Jabir said about fifteen hundred.
 
    > Jabir said, "I saw water flowing from between his fingers... Had we been a hundred thousand, it would have been enough for us." — *Sahih al-Bukhari* 3576[2](#ref-2){: .footnote}[13](#ref-13){: .footnote}[43](#ref-43){: .footnote}
    {: .quote }
@@ -2804,17 +2804,17 @@ The hadith collections preserve many reports of miracles. A believer who accepts
    > *Sahih al-Bukhari* 3579[2](#ref-2){: .footnote}[13](#ref-13){: .footnote}[43](#ref-43){: .footnote}
    {: .quote }
 
-1. **A separate Hudaybiyyah report concerns a depleted well.** Bukhari’s treaty narrative says that when the group complained of thirst, Muhammad ﷺ had an arrow placed in the well and water continued to spring until everyone had drunk. The two Hudaybiyyah water reports arise in distinct narrative contexts.
+1. **A separate Hudaybiyyah report concerns a depleted well.** Bukhari’s treaty narrative says that when the group complained of thirst, Prophet Muhammad ﷺ had an arrow placed in the well and water continued to spring until everyone had drunk. The two Hudaybiyyah water reports arise in distinct narrative contexts.
 
    > "The water continued springing up for them until they had quenched their thirst and departed." — *Sahih al-Bukhari* 2731-2732[2](#ref-2){: .footnote}[13](#ref-13){: .footnote}[43](#ref-43){: .footnote}
    {: .quote }
 
-1. **A small meal was reported to feed roughly a thousand people during the Battle of the Trench.** Jabir privately invited Muhammad ﷺ to food his household had prepared from a small goat and a measure of barley. Muhammad ﷺ invited the whole digging party. Jabir says that they ate in groups until everyone was satisfied and food still remained.
+1. **A small meal was reported to feed roughly a thousand people during the Battle of the Trench.** Jabir privately invited Prophet Muhammad ﷺ to food his household had prepared from a small goat and a measure of barley. Prophet Muhammad ﷺ invited the whole digging party. Jabir says that they ate in groups until everyone was satisfied and food still remained.
 
    > "They were one thousand. I swear by God, they all ate until they left it and went away, while our pot was still bubbling." — *Sahih al-Bukhari* 4101-4102[2](#ref-2){: .footnote}[13](#ref-13){: .footnote}[43](#ref-43){: .footnote}; *Sahih Muslim* 2039[3](#ref-3){: .footnote}[14](#ref-14){: .footnote}[43](#ref-43){: .footnote}
    {: .quote }
 
-1. **The splitting of the moon is associated explicitly with Muhammad ﷺ in both the Qur’an and hadith.** Ibn Masud’s report in Bukhari says that the moon appeared divided into two parts and that Muhammad ﷺ told those present to bear witness.
+1. **The splitting of the moon is associated explicitly with Prophet Muhammad ﷺ in both the Qur’an and hadith.** Ibn Masud’s report in Bukhari says that the moon appeared divided into two parts and that Prophet Muhammad ﷺ told those present to bear witness.
 
    > "The Hour has drawn near and the moon was split ˹in two˺." (**Sūrat al-Qamar 54:1**), Dr. Mustafa Khattab, *The Clear Quran*[1](#ref-1){: .footnote}[11](#ref-11){: .footnote}[12](#ref-12){: .footnote}[36](#ref-36){: .footnote}; *Sahih al-Bukhari* 3636[2](#ref-2){: .footnote}[13](#ref-13){: .footnote}[43](#ref-43){: .footnote}; *Sahih al-Bukhari* 3637[2](#ref-2){: .footnote}[13](#ref-13){: .footnote}[43](#ref-43){: .footnote}, an Anas report that Meccans asked for a sign
    >
@@ -2833,22 +2833,22 @@ The hadith collections preserve many reports of miracles. A believer who accepts
    > Ibn Masud said, "The moon was split into two parts during the lifetime of the Prophet ﷺ... and the Prophet said, 'Bear witness.'" — *Sahih al-Bukhari* 3636[2](#ref-2){: .footnote}[13](#ref-13){: .footnote}[43](#ref-43){: .footnote}
    {: .quote }
 
-1. **A palm trunk was reported to cry after Muhammad ﷺ stopped leaning on it during sermons.** Once a pulpit had been built, Ibn Umar said that the trunk made a crying sound until Muhammad ﷺ went to it and rubbed his hand over it.
+1. **A palm trunk was reported to cry after Prophet Muhammad ﷺ stopped leaning on it during sermons.** Once a pulpit had been built, Ibn Umar said that the trunk made a crying sound until Prophet Muhammad ﷺ went to it and rubbed his hand over it.
 
    > "The trunk began to cry, so the Prophet ﷺ went to it and stroked it with his hand." — *Sahih al-Bukhari* 3583[2](#ref-2){: .footnote}[13](#ref-13){: .footnote}[43](#ref-43){: .footnote}
    {: .quote }
 
-1. **Another version compares the sound to a child crying and says that Muhammad ﷺ embraced the trunk until it became quiet.** Variant reports preserving the same central event are one reason Muslim hadith scholars regarded the episode as widely attested.
+1. **Another version compares the sound to a child crying and says that Prophet Muhammad ﷺ embraced the trunk until it became quiet.** Variant reports preserving the same central event are one reason Muslim hadith scholars regarded the episode as widely attested.
 
    > "The date-palm cried like a child. The Prophet ﷺ came down and embraced it while it moaned like a child being soothed." — *Sahih al-Bukhari* 3584[2](#ref-2){: .footnote}[13](#ref-13){: .footnote}[43](#ref-43){: .footnote}
    {: .quote }
 
-1. **Ali’s severe eye condition at Khaybar was reported to heal immediately after Muhammad ﷺ prayed for him and treated his eyes.** The incident is placed in a public military setting at the moment the standard was handed to Ali.
+1. **Ali’s severe eye condition at Khaybar was reported to heal immediately after Prophet Muhammad ﷺ prayed for him and treated his eyes.** The incident is placed in a public military setting at the moment the standard was handed to Ali.
 
    > "He applied saliva to his eyes and prayed for him, and he recovered at once as though he had never had the ailment." — *Sahih al-Bukhari* 3009[2](#ref-2){: .footnote}[13](#ref-13){: .footnote}[43](#ref-43){: .footnote}
    {: .quote }
 
-1. **A prayer for rain is reported with an unusually concrete sequence of events.** Anas said that a man interrupted a Friday sermon to ask for rain while the sky was clear. Muhammad ﷺ prayed, clouds gathered, and heavy rain followed. The next Friday people asked for relief from excessive rain, and when he prayed for it to fall around Medina, the clouds separated.
+1. **A prayer for rain is reported with an unusually concrete sequence of events.** Anas said that a man interrupted a Friday sermon to ask for rain while the sky was clear. Prophet Muhammad ﷺ prayed, clouds gathered, and heavy rain followed. The next Friday people asked for relief from excessive rain, and when he prayed for it to fall around Medina, the clouds separated.
 
    > "O God, around us and not upon us." — *Sahih al-Bukhari* 3582[2](#ref-2){: .footnote}[13](#ref-13){: .footnote}[43](#ref-43){: .footnote}
    {: .quote }
@@ -2865,12 +2865,12 @@ The hadith collections preserve many reports of miracles. A believer who accepts
    > <div dir="rtl" lang="ar" class="quran-arabic">﴿سُبْحَـٰنَ ٱلَّذِىٓ أَسْرَىٰ بِعَبْدِهِۦ لَيْلًا مِّنَ ٱلْمَسْجِدِ ٱلْحَرَامِ إِلَى ٱلْمَسْجِدِ ٱلْأَقْصَا ٱلَّذِى بَـٰرَكْنَا حَوْلَهُۥ لِنُرِيَهُۥ مِنْ ءَايَـٰتِنَآ ۚ إِنَّهُۥ هُوَ ٱلسَّمِيعُ ٱلْبَصِيرُ ۝١﴾ <span class="ayah-ref">سُورَةُ الإِسۡرَاءِ</span></div>
    {: .quote }
 
-   Hadith adds a detail about the public dispute: when Quraysh challenged his report, Muhammad ﷺ said that Jerusalem was displayed before him and that he described its features while looking at it. Early biography also portrays the claim as costly rather than conveniently persuasive, remembering some hearers recoiling from it while Abu Bakr accepted Muhammad’s word. The hadith report has stronger transmission than the later biographical detail, and neither amounts to independent archaeological verification. Together, however, they show that Muslim memory placed the claim into public dispute immediately.
+   Hadith adds a detail about the public dispute: when Quraysh challenged his report, Prophet Muhammad ﷺ said that Jerusalem was displayed before him and that he described its features while looking at it. Early biography also portrays the claim as costly rather than conveniently persuasive, remembering some hearers recoiling from it while Abu Bakr accepted Prophet Muhammad’s ﷺ word. The hadith report has stronger transmission than the later biographical detail, and neither amounts to independent archaeological verification. Together, however, they show that Muslim memory placed the claim into public dispute immediately.
 
    > "When Quraysh disbelieved me, I stood in the Hijr, and God displayed Jerusalem before me, and I began describing its signs to them while I was looking at it." — *Sahih al-Bukhari* 3886[2](#ref-2){: .footnote}[13](#ref-13){: .footnote}[43](#ref-43){: .footnote}; *Sahih Muslim* 170[3](#ref-3){: .footnote}[14](#ref-14){: .footnote}[43](#ref-43){: .footnote}; early *Sīra* for the reactions attributed to other hearers[8](#ref-8){: .footnote}[19](#ref-19){: .footnote}[28](#ref-28){: .footnote}[37](#ref-37){: .footnote}[38](#ref-38){: .footnote}
    {: .quote }
 
-1. **The miracle reports are a different kind of argument from the moral portrait.** If they are historically reliable, they directly support a supernatural mission. If a reader remains uncertain about miracle testimony, the earlier evidence from Muhammad’s ﷺ character, the Qur’an’s posture toward him, and the predictions can still be assessed independently.
+1. **The miracle reports are a different kind of argument from the moral portrait.** If they are historically reliable, they directly support a supernatural mission. If a reader remains uncertain about miracle testimony, the earlier evidence from Prophet Muhammad’s ﷺ character, the Qur’an’s posture toward him, and the predictions can still be assessed independently.
 
    > "Nothing keeps Us from sending the ˹demanded˺ signs except that they had ˹already˺ been denied by earlier peoples. And We gave Thamûd the she-camel as a clear sign, but they wrongfully rejected it. We only send the signs as a warning." (**Sūrat al-Isrāʾ 17:59**), Dr. Mustafa Khattab, *The Clear Quran*[1](#ref-1){: .footnote}[11](#ref-11){: .footnote}[12](#ref-12){: .footnote}[36](#ref-36){: .footnote}
    >
@@ -2879,19 +2879,19 @@ The hadith collections preserve many reports of miracles. A believer who accepts
 
 ### F. What happened to people who actually encountered him
 
-Conversion by itself proves little; false movements can also attract devoted followers. What makes this record more interesting is the range of people involved. They include a wife who knew Muhammad ﷺ before his mission, a servant who lived with him for a decade, an enemy questioned by a foreign ruler, a hostile chief held as a prisoner and then released, a political negotiator who had seen imperial courts, and former enemies who later described how their judgment of him changed.[28](#ref-28){: .footnote}[29](#ref-29){: .footnote}[37](#ref-37){: .footnote}[38](#ref-38){: .footnote}[39](#ref-39){: .footnote}[41](#ref-41){: .footnote}[42](#ref-42){: .footnote}
+Conversion by itself proves little; false movements can also attract devoted followers. What makes this record more interesting is the range of people involved. They include a wife who knew Prophet Muhammad ﷺ before his mission, a servant who lived with him for a decade, an enemy questioned by a foreign ruler, a hostile chief held as a prisoner and then released, a political negotiator who had seen imperial courts, and former enemies who later described how their judgment of him changed.[28](#ref-28){: .footnote}[29](#ref-29){: .footnote}[37](#ref-37){: .footnote}[38](#ref-38){: .footnote}[39](#ref-39){: .footnote}[41](#ref-41){: .footnote}[42](#ref-42){: .footnote}
 
 1. **Khadija believed him before there was any worldly success to join.** Her first response to the revelation rested on the character she had already observed as his wife.
 
    > "By God, God will never disgrace you." — *Sahih al-Bukhari* 3[2](#ref-2){: .footnote}[13](#ref-13){: .footnote}[43](#ref-43){: .footnote}
    {: .quote }
 
-1. **Waraqa ibn Nawfal, who was familiar with earlier scripture, understood Muhammad’s ﷺ first experience within the line of biblical prophecy.** According to Bukhari, he identified the messenger of revelation with the one sent to Moses and immediately predicted that Muhammad would face opposition.
+1. **Waraqa ibn Nawfal, who was familiar with earlier scripture, understood Prophet Muhammad’s ﷺ first experience within the line of biblical prophecy.** According to Bukhari, he identified the messenger of revelation with the one sent to Moses and immediately predicted that Prophet Muhammad ﷺ would face opposition.
 
    > "This is the bearer of divine secrets whom God sent to Moses. I wish I were young when your people drive you out." — *Sahih al-Bukhari* 3[2](#ref-2){: .footnote}[13](#ref-13){: .footnote}[43](#ref-43){: .footnote}
    {: .quote }
 
-1. **Abu Sufyan gave useful testimony while he was still Muhammad’s ﷺ opponent.** He rejected the prophetic claim, but when asked about specific matters of character he acknowledged that Muhammad had not previously been accused of lying and was not known for breaking agreements.
+1. **Abu Sufyan gave useful testimony while he was still Prophet Muhammad’s ﷺ opponent.** He rejected the prophetic claim, but when asked about specific matters of character he acknowledged that Prophet Muhammad ﷺ had not previously been accused of lying and was not known for breaking agreements.
 
    > Asked whether they had accused him of lying before, Abu Sufyan said, "No." — *Sahih al-Bukhari* 7[2](#ref-2){: .footnote}[13](#ref-13){: .footnote}[43](#ref-43){: .footnote}
    {: .quote }
@@ -2901,47 +2901,47 @@ Conversion by itself proves little; false movements can also attract devoted fol
    > Heraclius said in substance: "I knew that if he did not lie about people, he would not lie about God." — *Sahih al-Bukhari* 7[2](#ref-2){: .footnote}[13](#ref-13){: .footnote}[43](#ref-43){: .footnote}
    {: .quote }
 
-1. **Urwa ibn Masud observed Muhammad’s ﷺ community as a negotiator for the opposing side at Hudaybiyyah.** Urwa had seen the courts of Caesar, Khosrau, and the Negus. He returned to Quraysh saying that he had never seen followers respect a ruler as Muhammad’s companions respected him, and he urged Quraysh to accept the proposed agreement.
+1. **Urwa ibn Masud observed Prophet Muhammad’s ﷺ community as a negotiator for the opposing side at Hudaybiyyah.** Urwa had seen the courts of Caesar, Khosrau, and the Negus. He returned to Quraysh saying that he had never seen followers respect a ruler as Prophet Muhammad’s ﷺ companions respected him, and he urged Quraysh to accept the proposed agreement.
 
    > "I have visited kings... yet I have never seen any of them respected by his companions as Muhammad is respected by his companions." — *Sahih al-Bukhari* 2731-2732[2](#ref-2){: .footnote}[13](#ref-13){: .footnote}[43](#ref-43){: .footnote}
    {: .quote }
 
-1. **Thumama ibn Uthal changed sides after Muhammad ﷺ released him without extracting payment.** Thumama had been captured and held in the mosque for several days, and he offered wealth if ransom was wanted. Muhammad ﷺ ultimately ordered him released. Thumama left, washed, returned of his own choice, and declared his faith.
+1. **Thumama ibn Uthal changed sides after Prophet Muhammad ﷺ released him without extracting payment.** Thumama had been captured and held in the mosque for several days, and he offered wealth if ransom was wanted. Prophet Muhammad ﷺ ultimately ordered him released. Thumama left, washed, returned of his own choice, and declared his faith.
 
    > "There was no face on earth more hateful to me than yours; now your face has become the most beloved face to me." — *Sahih al-Bukhari* 4372[2](#ref-2){: .footnote}[13](#ref-13){: .footnote}[43](#ref-43){: .footnote}
    {: .quote }
 
-1. **Thumama said that his feelings had changed toward the religion and the city as well as toward Muhammad ﷺ personally.** This is not miraculous proof. It is testimony to the effect of what he observed while detained and then unexpectedly released.
+1. **Thumama said that his feelings had changed toward the religion and the city as well as toward Prophet Muhammad ﷺ personally.** This is not miraculous proof. It is testimony to the effect of what he observed while detained and then unexpectedly released.
 
    > "No religion was more hateful to me than yours; now it is the most beloved religion to me." — *Sahih al-Bukhari* 4372[2](#ref-2){: .footnote}[13](#ref-13){: .footnote}[43](#ref-43){: .footnote}
    {: .quote }
 
-1. **Amr ibn al-As remembered moving from wanting Muhammad ﷺ dead to loving and revering him deeply.** Near his own death, Amr described three phases of his life. During the first, no one was more hated by him than Muhammad ﷺ; after his conversion, no one was dearer.
+1. **Amr ibn al-As remembered moving from wanting Prophet Muhammad ﷺ dead to loving and revering him deeply.** Near his own death, Amr described three phases of his life. During the first, no one was more hated by him than Prophet Muhammad ﷺ; after his conversion, no one was dearer.
 
    > "No one became dearer to me than the Messenger of God ﷺ, and no one was more majestic in my eyes." — *Sahih Muslim* 121[3](#ref-3){: .footnote}[14](#ref-14){: .footnote}[43](#ref-43){: .footnote}
    {: .quote }
 
-1. **Safwan ibn Umayya likewise described his hostility turning to love through Muhammad’s ﷺ generosity.** The report openly acknowledges that material gifts helped produce the reconciliation. That makes the account more human and gives concrete content to the way Muhammad treated a defeated opponent.
+1. **Safwan ibn Umayya likewise described his hostility turning to love through Prophet Muhammad’s ﷺ generosity.** The report openly acknowledges that material gifts helped produce the reconciliation. That makes the account more human and gives concrete content to the way Prophet Muhammad ﷺ treated a defeated opponent.
 
    > "He kept giving to me until he became the dearest of people to me, though he had been the most hateful." — *Sahih Muslim* 2313[3](#ref-3){: .footnote}[14](#ref-14){: .footnote}[43](#ref-43){: .footnote}
    {: .quote }
 
-1. **Abdullah ibn Salam, remembered as a learned Jewish figure in Medina, accepted Muhammad’s ﷺ claim.** Bukhari reports that members of his Jewish community initially described him as among their best and most learned, then disparaged him after he announced his belief in Muhammad ﷺ.
+1. **Abdullah ibn Salam, remembered as a learned Jewish figure in Medina, accepted Prophet Muhammad’s ﷺ claim.** Bukhari reports that members of his Jewish community initially described him as among their best and most learned, then disparaged him after he announced his belief in Prophet Muhammad ﷺ.
 
    > They first said of Abdullah, "He is the most learned among us and the best among us." He then came out and testified to Muhammad's prophethood. — *Sahih al-Bukhari* 3329[2](#ref-2){: .footnote}[13](#ref-13){: .footnote}[43](#ref-43){: .footnote}
    {: .quote }
 
-1. **Anas’s decade of service provides a very different kind of testimony from a dramatic conversion.** He was not merely impressed by public preaching. He remembered how Muhammad ﷺ treated him when chores were forgotten and there was no audience to persuade.
+1. **Anas’s decade of service provides a very different kind of testimony from a dramatic conversion.** He was not merely impressed by public preaching. He remembered how Prophet Muhammad ﷺ treated him when chores were forgotten and there was no audience to persuade.
 
    > "He never said 'uff' [an expression of irritation] to me." — *Sahih al-Bukhari* 6038[2](#ref-2){: .footnote}[13](#ref-13){: .footnote}[43](#ref-43){: .footnote}
    {: .quote }
 
-1. **Aisha’s testimony comes from the still more intimate setting of marriage.** She reports Muhammad’s ﷺ service at home, avoidance of personal revenge, gentleness, tears, humor, and refusal to strike women or servants.
+1. **Aisha’s testimony comes from the still more intimate setting of marriage.** She reports Prophet Muhammad’s ﷺ service at home, avoidance of personal revenge, gentleness, tears, humor, and refusal to strike women or servants.
 
    > "The Messenger of God ﷺ never struck a woman or a servant." — *Sahih Muslim* 2328a[3](#ref-3){: .footnote}[14](#ref-14){: .footnote}[43](#ref-43){: .footnote}
    {: .quote }
 
-1. **None of these witnesses is decisive alone, but together they observe Muhammad ﷺ from unusually different positions.** An enemy speaks to his prior honesty. Family members describe private conduct. A servant describes everyday temperament. A negotiator comments on leadership and loyalty. Former enemies describe the effect of direct encounter. This convergence says more than the bare fact that many people followed him.
+1. **None of these witnesses is decisive alone, but together they observe Prophet Muhammad ﷺ from unusually different positions.** An enemy speaks to his prior honesty. Family members describe private conduct. A servant describes everyday temperament. A negotiator comments on leadership and loyalty. Former enemies describe the effect of direct encounter. This convergence says more than the bare fact that many people followed him.
 
    > "And you are truly ˹a man˺ of outstanding character." (**Sūrat al-Qalam 68:4**), Dr. Mustafa Khattab, *The Clear Quran*[1](#ref-1){: .footnote}[11](#ref-11){: .footnote}[12](#ref-12){: .footnote}[36](#ref-36){: .footnote}
    >
@@ -2950,32 +2950,32 @@ Conversion by itself proves little; false movements can also attract devoted fol
 
 1. **Closer access did not produce a surviving record of private disillusionment, yet insiders did not remove every uncomfortable detail.** Wives, servants, relatives, and lifelong companions remained deeply committed while transmitting reports of poverty, fatigue, household jealousy, grief, a mistaken agricultural judgment, Qur’anic corrections, and disagreements with him. They also preserved ordinary details of his food, sleep, speech, and domestic work. A later community creating an entirely frictionless saint could easily have omitted much of this material, which makes the witness record more substantial than simple praise literature.[37](#ref-37){: .footnote}[38](#ref-38){: .footnote}[39](#ref-39){: .footnote}[41](#ref-41){: .footnote}[42](#ref-42){: .footnote}
 
-1. **Several fierce opponents later became central participants in the community rather than merely passive subjects of Muhammad’s ﷺ rule.** Umar is remembered as having set out against him before becoming one of his closest companions. Khalid ibn al-Walid commanded Meccan cavalry against the Muslims at Uhud before becoming a Muslim commander. Abu Sufyan led years of opposition before joining the community. Conversion does not prove prophethood, but repeated reversals among people who directly experienced both sides of the conflict belong in the cumulative human evidence.[9](#ref-9){: .footnote}[20](#ref-20){: .footnote}[25](#ref-25){: .footnote}[28](#ref-28){: .footnote}[29](#ref-29){: .footnote}[37](#ref-37){: .footnote}[41](#ref-41){: .footnote}[42](#ref-42){: .footnote}
+1. **Several fierce opponents later became central participants in the community rather than merely passive subjects of Prophet Muhammad’s ﷺ rule.** Umar is remembered as having set out against him before becoming one of his closest companions. Khalid ibn al-Walid commanded Meccan cavalry against the Muslims at Uhud before becoming a Muslim commander. Abu Sufyan led years of opposition before joining the community. Conversion does not prove prophethood, but repeated reversals among people who directly experienced both sides of the conflict belong in the cumulative human evidence.[9](#ref-9){: .footnote}[20](#ref-20){: .footnote}[25](#ref-25){: .footnote}[28](#ref-28){: .footnote}[29](#ref-29){: .footnote}[37](#ref-37){: .footnote}[41](#ref-41){: .footnote}[42](#ref-42){: .footnote}
 
 ### G. Earlier scripture and natural signs: meaningful, but easy to overstate
 
-1. **The Qur’an claims continuity with earlier revelation and says that Muhammad ﷺ is described in the Torah and Gospel.** For a Muslim, this naturally invites comparison with earlier scripture. For a skeptic, however, the Qur’an’s statement cannot serve as independent confirmation of its own claim.
+1. **The Qur’an claims continuity with earlier revelation and says that Prophet Muhammad ﷺ is described in the Torah and Gospel.** For a Muslim, this naturally invites comparison with earlier scripture. For a skeptic, however, the Qur’an’s statement cannot serve as independent confirmation of its own claim.
 
    > "Those who follow the Messenger, the unlettered prophet, whom they find written in what they have of the Torah and the Gospel, who enjoins upon them what is right and forbids them what is wrong and makes lawful for them the good things and prohibits for them the evil and relieves them of their burden and the shackles which were upon them. So they who have believed in him, honored him, supported him and followed the light which was sent down with him - it is those who will be the successful." (**Sūrat al-Aʿrāf 7:157**), Saheeh International[1](#ref-1){: .footnote}[11](#ref-11){: .footnote}[12](#ref-12){: .footnote}[36](#ref-36){: .footnote}
    >
    > <div dir="rtl" lang="ar" class="quran-arabic">﴿ٱلَّذِينَ يَتَّبِعُونَ ٱلرَّسُولَ ٱلنَّبِىَّ ٱلْأُمِّىَّ ٱلَّذِى يَجِدُونَهُۥ مَكْتُوبًا عِندَهُمْ فِى ٱلتَّوْرَىٰةِ وَٱلْإِنجِيلِ يَأْمُرُهُم بِٱلْمَعْرُوفِ وَيَنْهَىٰهُمْ عَنِ ٱلْمُنكَرِ وَيُحِلُّ لَهُمُ ٱلطَّيِّبَـٰتِ وَيُحَرِّمُ عَلَيْهِمُ ٱلْخَبَـٰٓئِثَ وَيَضَعُ عَنْهُمْ إِصْرَهُمْ وَٱلْأَغْلَـٰلَ ٱلَّتِى كَانَتْ عَلَيْهِمْ ۚ فَٱلَّذِينَ ءَامَنُوا۟ بِهِۦ وَعَزَّرُوهُ وَنَصَرُوهُ وَٱتَّبَعُوا۟ ٱلنُّورَ ٱلَّذِىٓ أُنزِلَ مَعَهُۥٓ ۙ أُو۟لَـٰٓئِكَ هُمُ ٱلْمُفْلِحُونَ ۝١٥٧﴾ <span class="ayah-ref">سُورَةُ الأَعۡرَافِ</span></div>
    {: .quote }
 
-1. **The Qur’an presents Jesus as announcing a later messenger named Ahmad, a name from the same Arabic root as Muhammad.** This matters within the Qur’anic case, but it should not be presented as though the same sentence appears verbatim in the surviving canonical Gospels.
+1. **The Qur’an presents Jesus as announcing a later messenger named Ahmad, a name from the same Arabic root as Prophet Muhammad ﷺ.** This matters within the Qur’anic case, but it should not be presented as though the same sentence appears verbatim in the surviving canonical Gospels.
 
    > "And ˹remember˺ when Jesus, son of Mary, said, 'O children of Israel! I am truly Allah's messenger to you, confirming the Torah which came before me, and giving good news of a messenger after me whose name will be Aḥmad.' Yet when the Prophet came to them with clear proofs, they said, 'This is pure magic.'" (**Sūrat al-Ṣaff 61:6**), Dr. Mustafa Khattab, *The Clear Quran*[1](#ref-1){: .footnote}[11](#ref-11){: .footnote}[12](#ref-12){: .footnote}[36](#ref-36){: .footnote}
    >
    > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَإِذْ قَالَ عِيسَى ٱبْنُ مَرْيَمَ يَـٰبَنِىٓ إِسْرَٰٓءِيلَ إِنِّى رَسُولُ ٱللَّهِ إِلَيْكُم مُّصَدِّقًا لِّمَا بَيْنَ يَدَىَّ مِنَ ٱلتَّوْرَىٰةِ وَمُبَشِّرًۢا بِرَسُولٍ يَأْتِى مِنۢ بَعْدِى ٱسْمُهُۥٓ أَحْمَدُ ۖ فَلَمَّا جَآءَهُم بِٱلْبَيِّنَـٰتِ قَالُوا۟ هَـٰذَا سِحْرٌ مُّبِينٌ ۝٦﴾ <span class="ayah-ref">سُورَةُ الصَّفِّ</span></div>
    {: .quote }
 
-1. **Muslim writers have long read passages such as Deuteronomy 18:18 and Isaiah 42 as possible anticipations of Muhammad ﷺ.** Deuteronomy speaks of a prophet “like Moses,” while Isaiah 42 describes a servant bringing judgment or instruction to the nations and explicitly mentions the settlements of Kedar. The parallels can be suggestive, particularly within an Abrahamic reading, but Jewish and Christian interpreters understand these passages differently. They are therefore better treated as supporting correspondences than as uncontested proof.[69](#ref-69){: .footnote}[70](#ref-70){: .footnote}[71](#ref-71){: .footnote}
+1. **Muslim writers have long read passages such as Deuteronomy 18:18 and Isaiah 42 as possible anticipations of Prophet Muhammad ﷺ.** Deuteronomy speaks of a prophet “like Moses,” while Isaiah 42 describes a servant bringing judgment or instruction to the nations and explicitly mentions the settlements of Kedar. The parallels can be suggestive, particularly within an Abrahamic reading, but Jewish and Christian interpreters understand these passages differently. They are therefore better treated as supporting correspondences than as uncontested proof.[69](#ref-69){: .footnote}[70](#ref-70){: .footnote}[71](#ref-71){: .footnote}
 
    > "The Messenger ˹firmly˺ believes in what has been revealed to him from his Lord, and so do the believers. They ˹all˺ believe in Allah, His angels, His Books, and His messengers. ˹They proclaim,˺ 'We make no distinction between any of His messengers.' And they say, 'We hear and obey. ˹We seek˺ Your forgiveness, our Lord! And to You ˹alone˺ is the final return.'" (**Sūrat al-Baqarah 2:285**), Dr. Mustafa Khattab, *The Clear Quran*[1](#ref-1){: .footnote}[11](#ref-11){: .footnote}[12](#ref-12){: .footnote}[36](#ref-36){: .footnote}
    >
    > <div dir="rtl" lang="ar" class="quran-arabic">﴿ءَامَنَ ٱلرَّسُولُ بِمَآ أُنزِلَ إِلَيْهِ مِن رَّبِّهِۦ وَٱلْمُؤْمِنُونَ ۚ كُلٌّ ءَامَنَ بِٱللَّهِ وَمَلَـٰٓئِكَتِهِۦ وَكُتُبِهِۦ وَرُسُلِهِۦ لَا نُفَرِّقُ بَيْنَ أَحَدٍ مِّن رُّسُلِهِۦ ۚ وَقَالُوا۟ سَمِعْنَا وَأَطَعْنَا ۖ غُفْرَانَكَ رَبَّنَا وَإِلَيْكَ ٱلْمَصِيرُ ۝٢٨٥﴾ <span class="ayah-ref">سُورَةُ البَقَرَةِ</span></div>
    {: .quote }
 
-1. **Claims about identifying the Gospel’s “Paraclete” with Muhammad ﷺ need particular care.** Muslim interpreters have connected Jesus’s promised advocate in John 14–16 with Muhammad, but the surviving Greek manuscript tradition reads *paraklētos*, “advocate/helper,” not the proposed alternative term meaning “praised one.” The case for Muhammad ﷺ does not need a textual claim stronger than the manuscripts can support.[69](#ref-69){: .footnote}[72](#ref-72){: .footnote}
+1. **Claims about identifying the Gospel’s “Paraclete” with Prophet Muhammad ﷺ need particular care.** Muslim interpreters have connected Jesus’s promised advocate in John 14–16 with Prophet Muhammad ﷺ, but the surviving Greek manuscript tradition reads *paraklētos*, “advocate/helper,” not the proposed alternative term meaning “praised one.” The case for Prophet Muhammad ﷺ does not need a textual claim stronger than the manuscripts can support.[69](#ref-69){: .footnote}[72](#ref-72){: .footnote}
 
    > "And do not pursue that of which you have no knowledge. Indeed, the hearing, the sight and the heart - about all those [one] will be questioned." (**Sūrat al-Isrāʾ 17:36**), Saheeh International[1](#ref-1){: .footnote}[11](#ref-11){: .footnote}[12](#ref-12){: .footnote}[36](#ref-36){: .footnote}
    >
@@ -2996,7 +2996,7 @@ Conversion by itself proves little; false movements can also attract devoted fol
    > <div dir="rtl" lang="ar" class="quran-arabic">﴿إِنَّ فِى خَلْقِ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ وَٱخْتِلَـٰفِ ٱلَّيْلِ وَٱلنَّهَارِ لَـَٔايَـٰتٍ لِّأُو۟لِى ٱلْأَلْبَـٰبِ ۝١٩٠﴾ <span class="ayah-ref">سُورَةُ آلِ عِمۡرَانَ</span></div>
    {: .quote }
 
-1. **Restraint makes the overall case stronger.** An argument that does not depend on dubious quotations, fake NASA stories, numerology, or forced scientific readings is more credible. Muhammad ﷺ should be assessed through the strongest evidence that can genuinely be traced to his sources.
+1. **Restraint makes the overall case stronger.** An argument that does not depend on dubious quotations, fake NASA stories, numerology, or forced scientific readings is more credible. Prophet Muhammad ﷺ should be assessed through the strongest evidence that can genuinely be traced to his sources.
 
    > "And they say, 'None will enter Paradise except one who is a Jew or a Christian.' That is [merely] their wishful thinking, Say, 'Produce your proof, if you should be truthful.'" (**Sūrat al-Baqarah 2:111**), Saheeh International[1](#ref-1){: .footnote}[11](#ref-11){: .footnote}[12](#ref-12){: .footnote}[36](#ref-36){: .footnote}
    >
@@ -3005,14 +3005,14 @@ Conversion by itself proves little; false movements can also attract devoted fol
 
 ### H. Recognition and appraisal outside Muslim belief
 
-Praise from outsiders cannot prove prophethood. A historian may admire Muhammad ﷺ while rejecting revelation, and historical influence is not inherently good. Such judgments therefore belong at the edge of the cumulative case rather than at its center. They remain worth noting because they show how some readers outside Islam have assessed the man and his career.
+Praise from outsiders cannot prove prophethood. A historian may admire Prophet Muhammad ﷺ while rejecting revelation, and historical influence is not inherently good. Such judgments therefore belong at the edge of the cumulative case rather than at its center. They remain worth noting because they show how some readers outside Islam have assessed the man and his career.
 
-1. **Muhammad’s ﷺ historical stature is recognized well beyond Muslim devotional writing.** Michael H. Hart famously ranked him first in *The 100: A Ranking of the Most Influential Persons in History*, emphasizing his combined religious and secular influence. The United States Supreme Court’s courtroom frieze also includes Muhammad among historical lawgivers. Neither fact establishes that he was a prophet, but both show how difficult it is to treat his career as marginal to world history.[74](#ref-74){: .footnote}[75](#ref-75){: .footnote}
+1. **Prophet Muhammad’s ﷺ historical stature is recognized well beyond Muslim devotional writing.** Michael H. Hart famously ranked him first in *The 100: A Ranking of the Most Influential Persons in History*, emphasizing his combined religious and secular influence. The United States Supreme Court’s courtroom frieze also includes Prophet Muhammad ﷺ among historical lawgivers. Neither fact establishes that he was a prophet, but both show how difficult it is to treat his career as marginal to world history.[74](#ref-74){: .footnote}[75](#ref-75){: .footnote}
 
    > Further context: Michael H. Hart, *The 100: A Ranking of the Most Influential Persons in History*[74](#ref-74){: .footnote}; U.S. Supreme Court, "Courtroom Friezes: South and North Walls"[75](#ref-75){: .footnote}
    {: .quote }
 
-1. **Some non-Muslim religious thinkers have found the simple “fraud” explanation inadequate and have discussed Muhammad ﷺ in genuinely prophetic terms.** The Christian theologian Keith Ward is one modern example. Such judgments are not independent tests of revelation, but they show that recognizing Muhammad’s sincerity, or even some prophetic significance in him, is not logically confined to people who already identify as Muslim.[76](#ref-76){: .footnote}
+1. **Some non-Muslim religious thinkers have found the simple “fraud” explanation inadequate and have discussed Prophet Muhammad ﷺ in genuinely prophetic terms.** The Christian theologian Keith Ward is one modern example. Such judgments are not independent tests of revelation, but they show that recognizing Prophet Muhammad’s ﷺ sincerity, or even some prophetic significance in him, is not logically confined to people who already identify as Muslim.[76](#ref-76){: .footnote}
 
    > Further discussion: Keith Ward, interview on Muhammad and Islam[76](#ref-76){: .footnote}
    {: .quote }
@@ -3022,7 +3022,7 @@ Praise from outsiders cannot prove prophethood. A historian may admire Muhammad 
    > "His readiness to undergo persecution for his beliefs, the high moral character of the men who believed in him and looked up to him as leader, and the greatness of his ultimate achievement — all argue his fundamental integrity. To suppose Muhammad an impostor raises more problems than it solves." — W. Montgomery Watt, *Muhammad at Mecca* (Oxford: Clarendon Press, 1953), p. 52[41](#ref-41){: .footnote}
    {: .quote }
 
-1. **Comparisons with earlier scripture are best treated as an invitation to investigate, not as proof by collecting quotations.** Muslim readers have connected Muhammad ﷺ with biblical passages about a prophet like Moses, Kedar, Jesus’s promised successor, and expectations among Arabian Jews, while other interpreters reject those identifications. The underlying continuity claim still matters: Muhammad ﷺ did not present the God of Abraham, Moses, and Jesus as a different tribal deity, but claimed to restore the same monotheistic line.[69](#ref-69){: .footnote}[70](#ref-70){: .footnote}[71](#ref-71){: .footnote}[72](#ref-72){: .footnote}
+1. **Comparisons with earlier scripture are best treated as an invitation to investigate, not as proof by collecting quotations.** Muslim readers have connected Prophet Muhammad ﷺ with biblical passages about a prophet like Moses, Kedar, Jesus’s promised successor, and expectations among Arabian Jews, while other interpreters reject those identifications. The underlying continuity claim still matters: Prophet Muhammad ﷺ did not present the God of Abraham, Moses, and Jesus as a different tribal deity, but claimed to restore the same monotheistic line.[69](#ref-69){: .footnote}[70](#ref-70){: .footnote}[71](#ref-71){: .footnote}[72](#ref-72){: .footnote}
 
    > Selected comparative discussions: Jesus and Muhammad; Muhammad and Moses; the Abrahamic tradition; Muhammad and the Jews of Arabia[69](#ref-69){: .footnote}[70](#ref-70){: .footnote}[71](#ref-71){: .footnote}[72](#ref-72){: .footnote}
    {: .quote }
@@ -3031,13 +3031,13 @@ Praise from outsiders cannot prove prophethood. A historian may admire Muhammad 
 
 A cumulative case is only useful if the main alternatives are tested against the same evidence. Four explanations recur often enough to deserve direct examination. They are not equally strong, but none should be dismissed by a label alone. Each has to account for the same life, text, and transmitted record.
 
-1. **“He was a conscious impostor.”** This is logically possible, but the ordinary motives for such a fraud fit the record poorly. In Mecca the claim brought persecution rather than comfort, and early biography reports that offers of wealth and leadership were refused. Later authority produced neither a palace nor a hereditary treasury, worship of Muhammad ﷺ, or exemption for his family. The Qur’an corrects him, limits his claim to knowledge of the unseen, threatens him for fabrication, and sometimes leaves him waiting when an invented answer would have been useful. The eclipse on the day his son died offered an unusually convenient piece of religious theater, and he publicly rejected the connection. The fraud hypothesis therefore has to explain why a successful fraud repeatedly declined advantages that would have served him.[37](#ref-37){: .footnote}[38](#ref-38){: .footnote}[41](#ref-41){: .footnote}
+1. **“He was a conscious impostor.”** This is logically possible, but the ordinary motives for such a fraud fit the record poorly. In Mecca the claim brought persecution rather than comfort, and early biography reports that offers of wealth and leadership were refused. Later authority produced neither a palace nor a hereditary treasury, worship of Prophet Muhammad ﷺ, or exemption for his family. The Qur’an corrects him, limits his claim to knowledge of the unseen, threatens him for fabrication, and sometimes leaves him waiting when an invented answer would have been useful. The eclipse on the day his son died offered an unusually convenient piece of religious theater, and he publicly rejected the connection. The fraud hypothesis therefore has to explain why a successful fraud repeatedly declined advantages that would have served him.[37](#ref-37){: .footnote}[38](#ref-38){: .footnote}[41](#ref-41){: .footnote}
 
-1. **“He was sincere but psychologically mistaken.”** This accounts for his willingness to suffer and much of the integrity evidence better than conscious fraud. It still leaves other features to explain: the Qur’an’s sustained literary and theological voice across twenty-three years, Muhammad’s ﷺ ability to distinguish revelation from his own mistaken agricultural judgment, the practical judgment required to lead an embattled community into a functioning polity, the striking predictions in the source record, and the reports of extraordinary events. Sincerity combined with error is a coherent hypothesis, but it does not make the rest of the evidence disappear.[37](#ref-37){: .footnote}[41](#ref-41){: .footnote}[47](#ref-47){: .footnote}[48](#ref-48){: .footnote}
+1. **“He was sincere but psychologically mistaken.”** This accounts for his willingness to suffer and much of the integrity evidence better than conscious fraud. It still leaves other features to explain: the Qur’an’s sustained literary and theological voice across twenty-three years, Prophet Muhammad’s ﷺ ability to distinguish revelation from his own mistaken agricultural judgment, the practical judgment required to lead an embattled community into a functioning polity, the striking predictions in the source record, and the reports of extraordinary events. Sincerity combined with error is a coherent hypothesis, but it does not make the rest of the evidence disappear.[37](#ref-37){: .footnote}[41](#ref-41){: .footnote}[47](#ref-47){: .footnote}[48](#ref-48){: .footnote}
 
-1. **“The impressive portrait is mostly later legend.”** This is the strongest naturalistic challenge to many hadith-based details and is the reason source criticism matters. The surviving canonical compilations postdate Muhammad ﷺ, so later development cannot simply be ruled out. But the legend hypothesis also has to account for named transmission networks, early written material, competing hadith grades, catalogued forgeries, and a portrait that preserves awkward details: household disagreements, poverty, grief, mistaken farming advice, limits on judicial judgment, public Qur’anic rebukes, and a ruler who died with his armor pledged for food. Later reverence undoubtedly shaped how Muhammad ﷺ was remembered. The stronger claim is that it created enough of the converging record to explain the whole portrait, and that claim itself needs evidence.[37](#ref-37){: .footnote}[38](#ref-38){: .footnote}[39](#ref-39){: .footnote}[43](#ref-43){: .footnote}[44](#ref-44){: .footnote}[45](#ref-45){: .footnote}
+1. **“The impressive portrait is mostly later legend.”** This is the strongest naturalistic challenge to many hadith-based details and is the reason source criticism matters. The surviving canonical compilations postdate Prophet Muhammad ﷺ, so later development cannot simply be ruled out. But the legend hypothesis also has to account for named transmission networks, early written material, competing hadith grades, catalogued forgeries, and a portrait that preserves awkward details: household disagreements, poverty, grief, mistaken farming advice, limits on judicial judgment, public Qur’anic rebukes, and a ruler who died with his armor pledged for food. Later reverence undoubtedly shaped how Prophet Muhammad ﷺ was remembered. The stronger claim is that it created enough of the converging record to explain the whole portrait, and that claim itself needs evidence.[37](#ref-37){: .footnote}[38](#ref-38){: .footnote}[39](#ref-39){: .footnote}[43](#ref-43){: .footnote}[44](#ref-44){: .footnote}[45](#ref-45){: .footnote}
 
-1. **“The source was demonic rather than divine.”** This explanation appears especially in Christian polemic, while Meccan opponents made a different but related accusation that Muhammad ﷺ was possessed or speaking like a soothsayer. The Qur’an rejects the charge directly, saying that devils neither brought down the recitation nor were capable of doing so. More importantly for the hypothesis itself, the message relentlessly turns worship away from idols and spirits toward one God, condemns sorcery, divination, omens, murder, exploitation, and sexual wrongdoing, and repeatedly teaches people to seek refuge from Satan. Jesus’s response to the charge that he expelled demons by demonic power gives the relevant theological principle: an explanation based on a kingdom systematically working against itself is internally strained.
+1. **“The source was demonic rather than divine.”** This explanation appears especially in Christian polemic, while Meccan opponents made a different but related accusation that Prophet Muhammad ﷺ was possessed or speaking like a soothsayer. The Qur’an rejects the charge directly, saying that devils neither brought down the recitation nor were capable of doing so. More importantly for the hypothesis itself, the message relentlessly turns worship away from idols and spirits toward one God, condemns sorcery, divination, omens, murder, exploitation, and sexual wrongdoing, and repeatedly teaches people to seek refuge from Satan. Jesus’s response to the charge that he expelled demons by demonic power gives the relevant theological principle: an explanation based on a kingdom systematically working against itself is internally strained.
 
    > "It was not the devils who brought this ˹Quran˺ down. It is not for them ˹to do so˺, nor can they, for they are strictly barred from ˹even˺ overhearing ˹it˺." (**Sūrat ash-Shuʿarāʾ 26:210-212**), Dr. Mustafa Khattab, *The Clear Quran*[1](#ref-1){: .footnote}[11](#ref-11){: .footnote}[12](#ref-12){: .footnote}[36](#ref-36){: .footnote}
    >
@@ -3071,7 +3071,7 @@ The fourth explanation also concedes something the first does not. It grants tha
    > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَإِنَّكَ لَعَلَىٰ خُلُقٍ عَظِيمٍ ۝٤﴾ <span class="ayah-ref">سُورَةُ القَلَمِ</span></div>
    {: .quote }
 
-1. **The same basic character can be followed through radically different circumstances.** Muhammad ﷺ was an orphan, worker, husband, persecuted preacher, refugee, military leader, treaty-maker, victor over his former city, and head of a growing polity. His eventual power did not end in a private palace, a dynastic treasury, or a demand that people worship him.
+1. **The same basic character can be followed through radically different circumstances.** Prophet Muhammad ﷺ was an orphan, worker, husband, persecuted preacher, refugee, military leader, treaty-maker, victor over his former city, and head of a growing polity. His eventual power did not end in a private palace, a dynastic treasury, or a demand that people worship him.
 
    > "I am only a servant, so say: God's servant and His Messenger." — *Sahih al-Bukhari* 3445[2](#ref-2){: .footnote}[13](#ref-13){: .footnote}[43](#ref-43){: .footnote}
    {: .quote }
@@ -3081,7 +3081,7 @@ The fourth explanation also concedes something the first does not. It grants tha
    > "The sun and moon do not eclipse because of anyone's death or life." — *Sahih al-Bukhari* 1043[2](#ref-2){: .footnote}[13](#ref-13){: .footnote}[43](#ref-43){: .footnote}
    {: .quote }
 
-1. **The Qur’an does not read like an unrestricted charter for Muhammad’s ﷺ personal authority.** It rebukes him, threatens him if he fabricates revelation, restricts his claims, denies him independent knowledge of the unseen, tells him not to rush revelation, and insists that he is a mortal messenger.
+1. **The Qur’an does not read like an unrestricted charter for Prophet Muhammad’s ﷺ personal authority.** It rebukes him, threatens him if he fabricates revelation, restricts his claims, denies him independent knowledge of the unseen, tells him not to rush revelation, and insists that he is a mortal messenger.
 
    > "When Our clear revelations are recited to them, those who do not expect to meet Us say ˹to the Prophet˺, 'Bring us a different Quran or make some changes in it.' Say ˹to them˺, 'It is not for me to change it on my own. I only follow what is revealed to me. I fear, if I were to disobey my Lord, the punishment of a tremendous Day.'" (**Sūrat Yūnus 10:15**), Dr. Mustafa Khattab, *The Clear Quran*[1](#ref-1){: .footnote}[11](#ref-11){: .footnote}[12](#ref-12){: .footnote}[36](#ref-36){: .footnote}
    >
@@ -3107,26 +3107,26 @@ The fourth explanation also concedes something the first does not. It grants tha
    > Thumama said after being released, "There was no face more hateful to me than yours; now your face has become the most beloved." — *Sahih al-Bukhari* 4372[2](#ref-2){: .footnote}[13](#ref-13){: .footnote}[43](#ref-43){: .footnote}
    {: .quote }
 
-1. **The strongest skeptical explanation is not the caricature of an obvious liar chasing wealth.** The sources fit that account badly. A more serious alternative would describe Muhammad ﷺ as a deeply sincere but mistaken religious experiencer who nonetheless produced or transmitted a remarkable scripture, exercised unusual moral authority, built an extraordinarily successful movement, and became the center of a tradition containing striking predictions and miracle reports. That hypothesis is logically possible. The question is whether it explains the whole body of evidence better than prophethood does.
+1. **The strongest skeptical explanation is not the caricature of an obvious liar chasing wealth.** The sources fit that account badly. A more serious alternative would describe Prophet Muhammad ﷺ as a deeply sincere but mistaken religious experiencer who nonetheless produced or transmitted a remarkable scripture, exercised unusual moral authority, built an extraordinarily successful movement, and became the center of a tradition containing striking predictions and miracle reports. That hypothesis is logically possible. The question is whether it explains the whole body of evidence better than prophethood does.
 
    > "Say, 'I only advise you of one [thing] - that you stand for Allah, [seeking truth] in pairs and individually, and then give thought.' There is not in your companion any madness. He is only a warner to you before a severe punishment." (**Sūrat Sabaʾ 34:46**), Saheeh International[1](#ref-1){: .footnote}[11](#ref-11){: .footnote}[12](#ref-12){: .footnote}[36](#ref-36){: .footnote}
    >
    > <div dir="rtl" lang="ar" class="quran-arabic">﴿۞ قُلْ إِنَّمَآ أَعِظُكُم بِوَٰحِدَةٍ ۖ أَن تَقُومُوا۟ لِلَّهِ مَثْنَىٰ وَفُرَٰدَىٰ ثُمَّ تَتَفَكَّرُوا۟ ۚ مَا بِصَاحِبِكُم مِّن جِنَّةٍ ۚ إِنْ هُوَ إِلَّا نَذِيرٌ لَّكُم بَيْنَ يَدَىْ عَذَابٍ شَدِيدٍ ۝٤٦﴾ <span class="ayah-ref">سُورَةُ سَبَإٍ</span></div>
    {: .quote }
 
-1. **For the believer, these different lines of evidence converge on a simpler conclusion.** The man’s integrity, the God-centered message, the Qur’an’s distinctive voice and restraints on its messenger, the cost Muhammad ﷺ bore, the way he lived after gaining power, the fulfilled predictions, and the transmitted signs fit together more naturally as the career of a genuine messenger than as the product of conscious fraud or later idealization.
+1. **For the believer, these different lines of evidence converge on a simpler conclusion.** The man’s integrity, the God-centered message, the Qur’an’s distinctive voice and restraints on its messenger, the cost Prophet Muhammad ﷺ bore, the way he lived after gaining power, the fulfilled predictions, and the transmitted signs fit together more naturally as the career of a genuine messenger than as the product of conscious fraud or later idealization.
 
    > "And We have not sent you, [O Muhammad], except as a mercy to the worlds." (**Sūrat al-Anbiyāʾ 21:107**), Saheeh International[1](#ref-1){: .footnote}[11](#ref-11){: .footnote}[12](#ref-12){: .footnote}[36](#ref-36){: .footnote}
    >
    > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَمَآ أَرْسَلْنَـٰكَ إِلَّا رَحْمَةً لِّلْعَـٰلَمِينَ ۝١٠٧﴾ <span class="ayah-ref">سُورَةُ الأَنبِيَاءِ</span></div>
    {: .quote }
 
-1. **This is also why love for Muhammad ﷺ can grow from studying his life rather than merely admiring an abstract religious figure.** It grows from knowing the life itself: a man who wept over his child, carried his granddaughter in prayer, listened to women, forgave personal injuries, fed enemies, restrained vengeance, helped at home, continued to live simply when he held power, and spent his last breath turning toward God.
+1. **This is also why love for Prophet Muhammad ﷺ can grow from studying his life rather than merely admiring an abstract religious figure.** It grows from knowing the life itself: a man who wept over his child, carried his granddaughter in prayer, listened to women, forgave personal injuries, fed enemies, restrained vengeance, helped at home, continued to live simply when he held power, and spent his last breath turning toward God.
 
    > "The eyes shed tears and the heart grieves, but we say only what pleases our Lord." — *Sahih al-Bukhari* 1303[2](#ref-2){: .footnote}[13](#ref-13){: .footnote}[43](#ref-43){: .footnote}
    {: .quote }
 
-1. **The message ultimately directs the reader beyond Muhammad ﷺ and toward God.** He did not ask to be worshipped. In his own teaching, his authority came from being God’s servant and messenger, not from possessing divinity himself.
+1. **The message ultimately directs the reader beyond Prophet Muhammad ﷺ and toward God.** He did not ask to be worshipped. In his own teaching, his authority came from being God’s servant and messenger, not from possessing divinity himself.
 
    > "Say, ˹O Prophet,˺ 'I am only a man like you, ˹but˺ it has been revealed to me that your God is only One God. So whoever hopes for the meeting with their Lord, let them do good deeds and associate none in the worship of their Lord.'" (**Sūrat al-Kahf 18:110**), Dr. Mustafa Khattab, *The Clear Quran*[1](#ref-1){: .footnote}[11](#ref-11){: .footnote}[12](#ref-12){: .footnote}[36](#ref-36){: .footnote}
    >
@@ -3152,11 +3152,11 @@ Taken together, these teachings were not meant simply to produce people who perf
 - **Sahih Muslim:** concern for his community (202), private conduct (2328a), attention to a vulnerable petitioner (2326), public authority as trust (1825), mercy and gentleness (2588, 2594a), repentance (2747a, 2766a), former enemies and companions (121, 2312a, 2313), prophecy and signs (8a, 1066g, 2902), animal welfare (1955a, 1957a).[3](#ref-3){: .footnote}
 - **Early biography:** Ibn Ishaq as preserved by Ibn Hisham, English translation by A. Guillaume, used only where explicitly labeled, especially for the Black Stone arbitration, the Medinan charter, and the reported general clemency at the conquest of Mecca.[8](#ref-8){: .footnote}[9](#ref-9){: .footnote}[19](#ref-19){: .footnote}[28](#ref-28){: .footnote}[37](#ref-37){: .footnote}[38](#ref-38){: .footnote}
 
-The aim of this article has been to be comprehensive without pretending that every report carries the same historical weight. Strong evidence does not need weaker evidence exaggerated on its behalf. Taken on its strongest sources, the case for Muhammad ﷺ rests on a remarkable combination: **demanding monotheism, expansive mercy, disciplined justice, unusual personal humility, consistency under power, and a prophetic claim embedded in a text and life that resist simple explanations.**
+The aim of this article has been to be comprehensive without pretending that every report carries the same historical weight. Strong evidence does not need weaker evidence exaggerated on its behalf. Taken on its strongest sources, the case for Prophet Muhammad ﷺ rests on a remarkable combination: **demanding monotheism, expansive mercy, disciplined justice, unusual personal humility, consistency under power, and a prophetic claim embedded in a text and life that resist simple explanations.**
 
 ## References
 
-The numbered citations throughout the article point to the works below. For Qur’an and hadith claims, the inline source lines identify the exact verse or report, usually with a direct link; the commentary works allow interpretation and transmission to be checked; and modern scholarship provides source-critical and historical context. For reported miracles and prophecies, these references can establish what the textual tradition reports and, where relevant, independently date surrounding historical or natural events. They do not by themselves turn a theological claim into an experimentally verifiable fact. No finite bibliography could contain literally every work ever written about Muhammad ﷺ. This bibliography therefore gives the primary texts and a deliberately broad range of Arabic and English, classical and modern scholarship actually used to make the factual claims on this page checkable.
+The numbered citations throughout the article point to the works below. For Qur’an and hadith claims, the inline source lines identify the exact verse or report, usually with a direct link; the commentary works allow interpretation and transmission to be checked; and modern scholarship provides source-critical and historical context. For reported miracles and prophecies, these references can establish what the textual tradition reports and, where relevant, independently date surrounding historical or natural events. They do not by themselves turn a theological claim into an experimentally verifiable fact. No finite bibliography could contain literally every work ever written about Prophet Muhammad ﷺ. This bibliography therefore gives the primary texts and a deliberately broad range of Arabic and English, classical and modern scholarship actually used to make the factual claims on this page checkable.
 
 <div class="footnotes" markdown="1">
 
@@ -3321,9 +3321,9 @@ The numbered citations throughout the article point to the works below. For Qur�
 
 74. <span id="ref-74"></span>Michael H. Hart, *The 100: A Ranking of the Most Influential Persons in History* (Hart Publishing, 1978; revised ed., Citadel Press, 1992). [Digitized edition](https://archive.org/details/the-100-michael-hart). This is cited only for Hart’s documented appraisal, not as academic evidence for prophethood.
 
-75. <span id="ref-75"></span>Supreme Court of the United States, “Courtroom Friezes: South and North Walls,” official information sheet, identifying Muhammad among the historical lawgivers depicted in the courtroom. [Official Supreme Court page](https://www.supremecourt.gov/about/infosheets/SouthAndNorthFriezes.html).
+75. <span id="ref-75"></span>Supreme Court of the United States, “Courtroom Friezes: South and North Walls,” official information sheet, identifying Prophet Muhammad ﷺ among the historical lawgivers depicted in the courtroom. [Official Supreme Court page](https://www.supremecourt.gov/about/infosheets/SouthAndNorthFriezes.html).
 
-76. <span id="ref-76"></span>Keith Ward’s appraisal of Muhammad is quoted and discussed by Marcus Braybrooke, “The Prophet Muhammad,” ch. 4 of *What Can We Learn from Islam: The Struggle for True Religion*, Religion Online; see also Ward’s linked 2021 interview in the text. [Braybrooke chapter](https://www.religion-online.org/book-chapter/chapter-4-the-prophet-muhammad/).
+76. <span id="ref-76"></span>Keith Ward’s appraisal of Prophet Muhammad ﷺ is quoted and discussed by Marcus Braybrooke, “The Prophet Muhammad,” ch. 4 of *What Can We Learn from Islam: The Struggle for True Religion*, Religion Online; see also Ward’s linked 2021 interview in the text. [Braybrooke chapter](https://www.religion-online.org/book-chapter/chapter-4-the-prophet-muhammad/).
 
 77. <span id="ref-77"></span>Edward William Lane, *An Arabic-English Lexicon* (London: Williams and Norgate, 1863–1893), root H-M-D, for the semantic field of praise from which the name *Muhammad* is formed. [Searchable Lane entry](https://quranx.com/Dictionary/Lane/%D8%AD%D9%85%D8%AF).
 {: start="53"}

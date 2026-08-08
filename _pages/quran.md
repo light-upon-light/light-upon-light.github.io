@@ -144,7 +144,7 @@ share: true
     {% include yt-embed.html url="https://youtu.be/QC3sDbVcAbw" title="Mathematical Miracles in the Qur'an: A Measured Approach" %}
 
     {% include yt-embed.html url="https://youtu.be/11dDOBdQobQ" title="The Numerical Miracles in the Quran | Arabic101" %}
-1. Uses **words from other languages**, including Hebrew, precisely where the meaning in *that* language is being expressed. **Muhammad ﷺ spoke none of them**, and recognizing such wordplay requires command of both languages.
+1. Uses **words from other languages**, including Hebrew, precisely where the meaning in *that* language is being expressed. **Prophet Muhammad ﷺ spoke none of them**, and recognizing such wordplay requires command of both languages.
     {% include yt-embed.html url="https://youtu.be/wA4v8MrBHHc" title="The Hebrew word that PROVED that the Qur'an is from Allah" %}
 
     {% include yt-embed.html url="https://youtu.be/OED98p4bpx0" title="ONE WORD Proving the Quran is Allah's Words | Arabic101" %}
@@ -301,7 +301,7 @@ It follows him from a reputation for honesty built over forty years before he ma
 
 > Some Islamic teachings, verses, and historical events are often quoted without context or presented inaccurately. The pages below examine common claims using the relevant historical, linguistic, and scholarly evidence, while also considering the Qur'an, the teachings of Prophet Muhammad ﷺ, and Islam's broader moral framework.
 
-- Prophet Muhammad's marriage to our Lady Aisha
+- Prophet Muhammad's ﷺ marriage to our Lady Aisha
     > [The Prophet Muhammad's Marriage to Lady Aisha](/aisha)
 
 - Islam and domestic violence
