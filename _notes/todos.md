@@ -6,7 +6,7 @@ general:
 - manual edits to pages. (restructure args, remove stuff, add stuff from prev commits that got removed by edits, let claude compare with prev versions or other articles and add pieces that could strengthen argument)
 - then re bold everything
 
-- add back to top and prev / next section buttons on desktop too
+---
 
 At some point:
 
@@ -34,8 +34,6 @@ Maybe not:
 ---
 
 quran:
-
-- Merge sections of messenger part to much less since they take up the whole toc now. keep the current titles as sub titles
 
 aisha:
 
