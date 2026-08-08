@@ -19,15 +19,11 @@ toc_sticky: true
 share: true
 ---
 
-> This page presents evidence for the **prophethood** of **Prophet Muhammad** ﷺ, drawn from his recorded life. It complements the case made from [the Qur'an itself](/quran). Not every point is a miracle or decisive proof by itself. Taken together, however, they form a cumulative case for the authenticity of his mission. -- *note: this page is a work in progress*
+> This page presents evidence for the **prophethood** of **Prophet Muhammad** ﷺ, drawn from his recorded life. It complements the case made from [the Qur'an itself](/quran). Not every point is a decisive proof by itself. Taken together, however, they form a cumulative case for the authenticity of his mission. -- *note: this page is a work in progress*
 
 ## Overview
 
 Everything on the [Qur'an page](/quran) was recited by **one man** who could **neither read nor write**, over twenty-three years in seventh-century Arabia. The Qur'an cannot be separated from the life of the man who delivered it, and that life is documented in unusual detail by his followers, family, servants, and enemies.
-
-The argument on this page is **cumulative**. No single episode below is presented as a miracle by itself. Each shows how one man acted when he had every opportunity to act otherwise, and the pattern remains consistent from his years of powerlessness in Mecca to his rule over Arabia. The question is: what explanation accounts for **all of them together**?
-
-> **A note on the sources.** *Sīra* refers to biographical literature about the Prophet's ﷺ life; the earliest surviving example is Ibn Hisham's recension of Ibn Ishaq. *Hadith* are reports of what he said and did, each transmitted through a named chain. *Sahih al-Bukhari* and *Sahih Muslim* applied the strictest criteria among the major collections, and the numbers below identify individual reports. The Companions are the generation who knew him personally.
 
 ## Muhammad ﷺ: His Teachings, Character, Life, and the Case for His Prophethood
 
@@ -37,9 +33,9 @@ This article has two related but distinct aims: to examine **what Muhammad ﷺ a
 
 At the center of that claim is the Qur’an, which Muhammad ﷺ recited publicly in portions over roughly twenty-three years. It describes him as unlettered, and his first audience had already watched him live an ordinary adult life among them. Whatever conclusion one reaches, **the text and the life have to be considered together**.[1](#ref-1){: .footnote}[36](#ref-36){: .footnote}[37](#ref-37){: .footnote}[40](#ref-40){: .footnote}[41](#ref-41){: .footnote}
 
-For someone claiming prophethood, **his life is itself relevant evidence**. Muhammad ﷺ had lived openly among his first audience for decades before revelation. They then watched him through years of weakness and persecution. His wives and household saw how he behaved in private, and later the same man acquired political and military power. Any explanation of his claim has to make sense of this entire course of life. The man known for truthfulness before the claim did not become a habitual liar after it. The teacher of mercy while weak continued to restrain retaliation when strong. The leader who demanded justice refused special treatment for his own family, while the head of state continued to serve at home and died without accumulating a private fortune.[8](#ref-8){: .footnote}[28](#ref-28){: .footnote}[37](#ref-37){: .footnote}[38](#ref-38){: .footnote}[41](#ref-41){: .footnote}[42](#ref-42){: .footnote}
+For someone claiming prophethood, **his life is itself relevant evidence**. Muhammad ﷺ had lived openly among his first audience for decades before revelation. They then watched him through years of marginalization and persecution. His wives and household saw how he behaved in private, and later the same man acquired political and military power. Any explanation of his claim has to make sense of this entire course of life. The man known for truthfulness before the claim did not become a habitual liar after it. The teacher of mercy while not having authority continued to restrain retaliation when he had it. The leader who demanded justice refused special treatment for his own family, while the head of state continued to serve at home and died without accumulating a private fortune.[8](#ref-8){: .footnote}[28](#ref-28){: .footnote}[37](#ref-37){: .footnote}[38](#ref-38){: .footnote}[41](#ref-41){: .footnote}[42](#ref-42){: .footnote}
 
-No single anecdote proves prophethood, and particular historical controversies should be examined on their own evidence. At the same time, one disputed episode should not be allowed to erase the wider record. **What matters is the coherence of the whole portrait across time, circumstance, public teaching, and private conduct.**
+The argument on this page is **cumulative**. No single episode below is presented as a decisive proof by itself. Each shows how one man acted when he had every opportunity to act otherwise, and the pattern remains consistent from his years of powerlessness in Mecca to his rule over Arabia. The question is: what explanation accounts for **all of them together**?
 
 ### A short note on sources
 
@@ -47,8 +43,7 @@ No single anecdote proves prophethood, and particular historical controversies s
 - **Hadith** are transmitted reports of his words, actions, and approvals. This article gives priority to *Sahih al-Bukhari* and *Sahih Muslim*, the two most highly regarded Sunni hadith collections. In hadith terminology, *sahih* [sound/authentic] is the standard term for a report judged to meet the highest ordinary grade of authenticity. Other collections are identified explicitly when used.[2](#ref-2){: .footnote}[3](#ref-3){: .footnote}[22](#ref-22){: .footnote}[23](#ref-23){: .footnote}[33](#ref-33){: .footnote}[43](#ref-43){: .footnote}[44](#ref-44){: .footnote}
 - **Early biography, often called *sira* [prophetic biography],** preserves important narrative material that is not always found in the major hadith collections. Its reports vary in the strength of their transmission, so biographical material is identified as such rather than treated as equivalent to a rigorously authenticated hadith.[8](#ref-8){: .footnote}[19](#ref-19){: .footnote}[28](#ref-28){: .footnote}[29](#ref-29){: .footnote}[37](#ref-37){: .footnote}[38](#ref-38){: .footnote}[39](#ref-39){: .footnote}
 - Quotations from the Qur’an below are **verbatim**, drawn from Dr. Mustafa Khattab's *The Clear Quran* or Saheeh International, whichever reads more clearly in English for the point being made; each is attributed to its translator. Hadith quotations are cited by collection and report number.
-- **Admiration does not require anachronism.** Muhammad ﷺ lived in seventh-century Arabia, amid warfare, slavery, patriarchy, tribal retaliation, poverty, and limited state institutions. The useful historical question is what he did within that world: what he restrained, what he reformed, and what moral direction his teachings established.[37](#ref-37){: .footnote}[40](#ref-40){: .footnote}[41](#ref-41){: .footnote}[42](#ref-42){: .footnote}[54](#ref-54){: .footnote}[55](#ref-55){: .footnote}[56](#ref-56){: .footnote}
-- The symbol **ﷺ** means “may God’s peace and blessings be upon him.”
+- The symbol **ﷺ** means “may God’s peace and blessings be upon him and his .”
 
 ---
 
