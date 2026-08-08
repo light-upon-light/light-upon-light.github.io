@@ -39,7 +39,7 @@ The strongest form of the objection can be stated as follows:
 1. The age reports are reliable. They come from Bukhari and Muslim, the sources Muslims themselves treat as strongest, so a Muslim cannot dismiss them without damaging the rest of the tradition.
 2. A nine-year-old cannot give meaningful consent to marriage. She lacks the understanding of what she is agreeing to that consent requires.
 3. The harm follows regardless of local custom, because the incapacity is in the child and not in the culture. What people around her believed does not change what she was capable of.
-4. Muhammad is presented in the Qur'an as a moral example for all times and places.[2](#ref-2){: .footnote}
+4. Prophet Muhammad ﷺ is presented in the Qur'an as a moral example for all times and places.[2](#ref-2){: .footnote}
 5. So either the example is defective, or the standard Muslims claim for it is.
 
 Two points should be noted before answering this argument.
@@ -234,7 +234,7 @@ They raced each other on two occasions. Aisha won the first race. Years later, a
 > *Sunan Abu Dawud* 2578; *Musnad Ahmad*.
 {: .src }
 
-He also recognised her moods from the words she used. He told her that when she was pleased with him she swore by the Lord of Muhammad, but when she was angry she swore by the Lord of Abraham. She confirmed that he was right and explained that, even in anger, she avoided only his name.[18](#ref-18){: .footnote}
+He also recognised her moods from the words she used. He told her that when she was pleased with him she swore by the Lord of Prophet Muhammad ﷺ, but when she was angry she swore by the Lord of Abraham. She confirmed that he was right and explained that, even in anger, she avoided only his name.[18](#ref-18){: .footnote}
 
 > *Sahih al-Bukhari* 5228; *Sahih Muslim* 2439.
 {: .src }
