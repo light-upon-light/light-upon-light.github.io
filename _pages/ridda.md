@@ -119,7 +119,7 @@ Two reports provide its main basis, and their wording is not identical.
     > the Prophet ﷺ said, 'Do not punish anybody with Allah's punishment.' I
     > would have killed them, for the Prophet ﷺ said: **'Whoever changes his
     > religion, kill him.'**"
-    > — *Sahih al-Bukhari* 3017, with fuller wording at 6922[^1]
+    > — *Sahih al-Bukhari* 3017, with fuller wording at 6922[1](#ref-1){: .footnote}
     {: .src }
 
 - The second report lists three cases. Its third item contains a clause absent
@@ -129,7 +129,7 @@ Two reports provide its main basis, and their wording is not identical.
     > worshipped but Allah and that I am His Messenger cannot be shed except in
     > three cases: in retaliation for murder; a married person who commits
     > adultery; and **the one who reverts from Islam and leaves the community**."
-    > — *Sahih al-Bukhari* 6878[^2]
+    > — *Sahih al-Bukhari* 6878[2](#ref-2){: .footnote}
     {: .src }
 
     > The Arabic of the third clause is *al-tarik li-dinihi al-mufariq
@@ -162,7 +162,7 @@ reports in this context.
 
     > "I swear by God that I will certainly fight those who make a distinction
     > between prayer and *zakat*, for *zakat* is what is due from property."
-    > — *Sahih Muslim* 124; also *Sunan Abi Dawud* 1556[^3]
+    > — *Sahih Muslim* 124; also *Sunan Abi Dawud* 1556[3](#ref-3){: .footnote}
     {: .src }
 
     > The issue here is **the refusal to pay a tax owed to the state**, not
@@ -189,7 +189,7 @@ reports in this context.
 
     > *Sunan Abi Dawud* 4369 states directly that "the verse regarding fighting
     > against Allah and His Prophet ﷺ was then revealed" about these men. The
-    > same incident appears in *Sahih Muslim* 4353 and *Sahih al-Bukhari*.[^4]
+    > same incident appears in *Sahih Muslim* 4353 and *Sahih al-Bukhari*.[4](#ref-4){: .footnote}
     > The report therefore identifies the punished offence not as apostasy
     > alone, but as armed predation.
     {: .gloss }
@@ -199,7 +199,7 @@ reports in this context.
   Mecca, Suhayl ibn Amr required that anyone coming from Mecca to the Prophet ﷺ
   be returned to the Quraysh **"even if he embraced your religion."** The
   Muslims strongly objected, but the Prophet ﷺ accepted and honoured the term,
-  returning Abu Jandal after he arrived in fetters.[^5]
+  returning Abu Jandal after he arrived in fetters.[5](#ref-5){: .footnote}
 
     > This is difficult to reconcile with the claim that every departure from
     > Islam was treated as a capital offence. To secure a truce, the Prophet ﷺ
@@ -215,7 +215,7 @@ disagreement is early, internal to the tradition, and recorded in standard
 legal works.
 
 - **The Hanafi school does not execute women apostates.** Its ruling is
-  imprisonment until they return, rather than death.[^6]
+  imprisonment until they return, rather than death.[6](#ref-6){: .footnote}
 
     > This exception reveals the reasoning behind the rule. If **unbelief
     > itself** were the offence, men and women would receive the same punishment.
@@ -227,18 +227,18 @@ legal works.
 - **Ibrahim al-Nakhaʿi (d. 715) and Sufyan al-Thawri (d. 778)** were major
   early jurists; al-Thawri founded a school that did not survive. Both rejected
   the death penalty and held that the apostate should be invited to repent
-  **indefinitely**.[^7]
+  **indefinitely**.[7](#ref-7){: .footnote}
 - **Al-Sarakhsi**, one of the most authoritative Hanafi jurists, wrote that
   apostasy and unbelief are grave offences "but they are between the
-  human being and his Lord," and that their punishment belongs in the hereafter.[^7]
+  human being and his Lord," and that their punishment belongs in the hereafter.[7](#ref-7){: .footnote}
 - **Modern scholarship** has developed these arguments further. In a
   book-length study, Taha Jabir al-Alwani argued that neither the Qur'an nor the
   Sunnah supports a capital penalty for *ridda* itself, and that the relevant
-  reports concern rebellion against the polity.[^8] In 2007, Ali Gomaa, then
+  reports concern rebellion against the polity.[8](#ref-8){: .footnote} In 2007, Ali Gomaa, then
   Grand Mufti of Egypt, stated publicly that a Muslim who merely rejects the
   faith faces **no worldly punishment** because the matter is between the person
-  and God.[^9] Abdullah bin Bayyah has argued that applying an apostasy penalty
-  today is counterproductive because it drives people away from religion.[^10]
+  and God.[9](#ref-9){: .footnote} Abdullah bin Bayyah has argued that applying an apostasy penalty
+  today is counterproductive because it drives people away from religion.[10](#ref-10){: .footnote}
 
 **This does not mean that the tradition as a whole has changed its position.**
 The classical majority prescribed death, and that view is still held. The more
@@ -290,25 +290,28 @@ the majority position. It was not unanimous.**
 
 ## Notes
 
-[^1]: *Sahih al-Bukhari* 3017, and 6922 with the fuller wording naming the group as *zanadiqa* and giving the Prophetic prohibition on punishment by fire.
+<div class="footnotes" markdown="1">
+1. <span id="ref-1"></span>*Sahih al-Bukhari* 3017, and 6922 with the fuller wording naming the group as *zanadiqa* and giving the Prophetic prohibition on punishment by fire.
 
-[^2]: *Sahih al-Bukhari* 6878, from Abdullah ibn Masʿud. The English of the collection renders the third category "the one who reverts from Islam (apostate) and leaves the Muslims"; the Arabic is *al-tarik li-dinihi al-mufariq li'l-jamaʿa*. The report also appears in *Sahih Muslim*.
+2. <span id="ref-2"></span>*Sahih al-Bukhari* 6878, from Abdullah ibn Masʿud. The English of the collection renders the third category "the one who reverts from Islam (apostate) and leaves the Muslims"; the Arabic is *al-tarik li-dinihi al-mufariq li'l-jamaʿa*. The report also appears in *Sahih Muslim*.
 
-[^3]: *Sahih Muslim* 124; *Sunan Abi Dawud* 1556, whose apparatus cross-references *Sahih al-Bukhari* 7284–7285 and *Sahih Muslim* 20.
+3. <span id="ref-3"></span>*Sahih Muslim* 124; *Sunan Abi Dawud* 1556, whose apparatus cross-references *Sahih al-Bukhari* 7284–7285 and *Sahih Muslim* 20.
 
-[^4]: *Sunan Abi Dawud* 4369, graded *hasan sahih*, which states that the *hiraba* verse was revealed concerning them; *Sunan Abi Dawud* 4364, graded *sahih*, cross-referenced to *Sahih al-Bukhari* 233 and *Sahih Muslim* 1671; *Sahih Muslim* 4353. Some versions of this incident record punishments — eyes put out, no water given — that later jurists held to have been abrogated by the prohibition on mutilation; this article does not rely on those details.
+4. <span id="ref-4"></span>*Sunan Abi Dawud* 4369, graded *hasan sahih*, which states that the *hiraba* verse was revealed concerning them; *Sunan Abi Dawud* 4364, graded *sahih*, cross-referenced to *Sahih al-Bukhari* 233 and *Sahih Muslim* 1671; *Sahih Muslim* 4353. Some versions of this incident record punishments — eyes put out, no water given — that later jurists held to have been abrogated by the prohibition on mutilation; this article does not rely on those details.
 
-[^5]: *Sahih al-Bukhari* 2731–2732 and 4180–4181. Suhayl's stipulation: "We also stipulate that you should return to us whoever comes to you from us, **even if he embraced your religion**," and in the parallel wording, "you should return him to us, and should not interfere between us and him." The reports record that the Muslims found the condition intolerable, and that Abu Jandal, arriving from Mecca in fetters, was returned under it.
+5. <span id="ref-5"></span>*Sahih al-Bukhari* 2731–2732 and 4180–4181. Suhayl's stipulation: "We also stipulate that you should return to us whoever comes to you from us, **even if he embraced your religion**," and in the parallel wording, "you should return him to us, and should not interfere between us and him." The reports record that the Muslims found the condition intolerable, and that Abu Jandal, arriving from Mecca in fetters, was returned under it.
 
-[^6]: The Hanafi position that a female apostate is imprisoned rather than executed, on the ground that women are not combatants, is the settled position of the school. Some Hanafi sources add coercive measures during imprisonment. See the survey in Yaqeen Institute, [*The Issue of Apostasy in Islam*](https://yaqeeninstitute.org/read/paper/the-issue-of-apostasy-in-islam).
+6. <span id="ref-6"></span>The Hanafi position that a female apostate is imprisoned rather than executed, on the ground that women are not combatants, is the settled position of the school. Some Hanafi sources add coercive measures during imprisonment. See the survey in Yaqeen Institute, [*The Issue of Apostasy in Islam*](https://yaqeeninstitute.org/read/paper/the-issue-of-apostasy-in-islam).
 
-[^7]: The positions of Ibrahim al-Nakhaʿi and Sufyan al-Thawri — rejecting the death penalty and calling for repentance to be sought without time limit — and al-Sarakhsi's statement that these offences are "between the human being and his Lord," are reported in the survey literature on apostasy in Islamic law, including the Yaqeen Institute paper above. The primary works of al-Nakhaʿi, al-Thawri and al-Sarakhsi have not been consulted directly here. [unverified]
+7. <span id="ref-7"></span>The positions of Ibrahim al-Nakhaʿi and Sufyan al-Thawri — rejecting the death penalty and calling for repentance to be sought without time limit — and al-Sarakhsi's statement that these offences are "between the human being and his Lord," are reported in the survey literature on apostasy in Islamic law, including the Yaqeen Institute paper above. The primary works of al-Nakhaʿi, al-Thawri and al-Sarakhsi have not been consulted directly here. [unverified]
 
-[^8]: Taha Jabir al-Alwani, *Apostasy in Islam: A Historical and Scriptural Analysis* ([full text, International Institute of Islamic Thought](https://iiit.org/wp-content/uploads/Apostasy-in-Islam-3.pdf)); Arabic original *La Ikraha fi al-Din*.
+8. <span id="ref-8"></span>Taha Jabir al-Alwani, *Apostasy in Islam: A Historical and Scriptural Analysis* ([full text, International Institute of Islamic Thought](https://iiit.org/wp-content/uploads/Apostasy-in-Islam-3.pdf)); Arabic original *La Ikraha fi al-Din*.
 
-[^9]: Ali Gomaa, then Grand Mufti of Egypt, in a 2007 statement reported at the time: a Muslim who merely rejects the faith faces no worldly punishment, the matter being between the individual and God. Following controversy he issued a second statement clarifying his position, distinguishing private apostasy from public incitement against the community. Both the original statement and the clarification are reported in the Egyptian press of July 2007. [unverified]
+9. <span id="ref-9"></span>Ali Gomaa, then Grand Mufti of Egypt, in a 2007 statement reported at the time: a Muslim who merely rejects the faith faces no worldly punishment, the matter being between the individual and God. Following controversy he issued a second statement clarifying his position, distinguishing private apostasy from public incitement against the community. Both the original statement and the clarification are reported in the Egyptian press of July 2007. [unverified]
 
-[^10]: Abdullah bin Bayyah, arguing that applying an apostasy penalty in the present age drives more people out of religion than it keeps in, and that the *sharia* penalties generally require reassessment by qualified scholars. Reported from his remarks at a public forum. [unverified]
+10. <span id="ref-10"></span>Abdullah bin Bayyah, arguing that applying an apostasy penalty in the present age drives more people out of religion than it keeps in, and that the *sharia* penalties generally require reassessment by qualified scholars. Reported from his remarks at a public forum. [unverified]
+
+</div>
 
 ## Qur'an verses cited
 

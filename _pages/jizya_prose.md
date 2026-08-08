@@ -24,7 +24,7 @@ One of the most common objections to the **jizya** is straightforward. Under
 Muslim rule, some non-Muslim subjects paid this tax while Muslims did not. The
 word appears once in the Qur'an, in a verse that tells Muslims to fight certain
 opponents *until they pay the jizya*, and the verse closes with a phrase commonly
-translated as "while they are humbled."[^1] It can therefore look like a fine
+translated as "while they are humbled."[1](#ref-1){: .footnote} It can therefore look like a fine
 for refusing Islam, or a way to make conversion financially attractive.
 
 That objection cannot be answered by denying the difference in treatment. The
@@ -74,7 +74,7 @@ collecting the tax.
 Those duties appeared in written agreements. In the treaty with the people of
 Hira, the protected party states its right directly: **"the Muslims and their
 leader protect us from those who would oppress us, whether they be Muslims or
-others."**[^2]
+others."**[2](#ref-2){: .footnote}
 
 > This is not how a system designed merely to degrade non-Muslims would
 > work. The covenant bound Muslim authorities to protect them from abuse,
@@ -92,14 +92,14 @@ as the only condition of liability.
 
 The exemptions are central to understanding the tax. Across all four Sunni
 schools of law, liability was restricted to free, adult, sane, non-Muslim men
-who were physically capable and able to pay.[^3] Women and children were exempt,
+who were physically capable and able to pay.[3](#ref-3){: .footnote} Women and children were exempt,
 as were the elderly, the poor, people dependent on charity, the chronically ill,
 the disabled, and the blind. Monks and clergy living in monasteries were also
 excluded.
 
 Military service removed the liability as well. A non-Muslim who fought
 alongside Muslim forces paid no jizya because service and payment were treated
-as alternatives to one another.[^4]
+as alternatives to one another.[4](#ref-4){: .footnote}
 
 > The exemptions show that liability followed the group a state could
 > conscript: adult men physically and financially able to serve. If the jizya
@@ -117,7 +117,7 @@ The law also addressed what happened when a payer could no longer support
 himself. Abu Yusuf, the Hanafi jurist who served as chief judge under Harun
 al-Rashid and wrote the earliest surviving manual of Islamic public finance,
 held that when a man became destitute or infirm, his liability ended and his
-support became a charge on the public treasury.[^5] The system did not merely
+support became a charge on the public treasury.[5](#ref-5){: .footnote} The system did not merely
 stop collecting from those unable to pay. In its juristic form, it required the
 state to maintain them.
 
@@ -222,13 +222,13 @@ The phrase *ʿan yadin* literally means "from a hand," but exegetes did not give
 it a single explanation. Some understood it as willing and direct payment from
 one's own hand rather than through an intermediary. Others took *yad* in the
 sense of capacity or power, so that the payment was made according to one's
-means. The tiered rates found in the legal literature fit this second reading.[^6]
+means. The tiered rates found in the legal literature fit this second reading.[6](#ref-6){: .footnote}
 
 The more difficult term is *ṣāghirūn*, often translated as "humbled." Al-Shafi'i,
 founder of one of the four Sunni schools of law, understood it as submission to
 the state's law: accepting the authority of a jurisdiction one had not chosen.
 Other exegetes, including al-Tabari, transmitted reports describing a visible
-show of submission at the moment of payment.[^7]
+show of submission at the moment of payment.[7](#ref-7){: .footnote}
 
 That disagreement should be stated plainly. Some reports did attach a ritual of
 subordination to collection, and later jurists sometimes developed that idea in
@@ -247,7 +247,7 @@ one was described as an offence whose consequences reached into the Hereafter:
 > the Muslims — shall not smell the fragrance of Paradise, though its
 > fragrance can be smelt at a distance of forty years of travelling."
 > — *Sahih al-Bukhari* 6914; also *Sunan an-Nasa'i* 4749–4750, graded
-> *sahih*, with the wording *ahl al-dhimma*[^8]
+> *sahih*, with the wording *ahl al-dhimma*[8](#ref-8){: .footnote}
 {: .src }
 
 The same protection governed the collection of the tax. When Hisham ibn Hakim
@@ -257,7 +257,7 @@ paid, he intervened. He cited a saying he had heard directly from the Prophet �
 > "I heard the Messenger of Allah ﷺ say: **Allah Most High will punish those
 > who punish people in this world.**"
 > — *Sunan Abi Dawud* 3045, graded *sahih*; the Prophetic saying also in
-> *Sahih Muslim* 2613[^9]
+> *Sahih Muslim* 2613[9](#ref-9){: .footnote}
 {: .src }
 
 > Hisham did not treat the Prophetic warning as an abstract rule. He used
@@ -293,11 +293,11 @@ forces withdrew from Syrian cities they could not defend. Abu Ubayda ibn
 al-Jarrah ordered the jizya returned to the inhabitants of Hims and instructed
 commanders in the other conquered cities of the Levant to do the same. The tax
 had been collected in return for protection, and that protection could no
-longer be provided.[^10]
+longer be provided.[10](#ref-10){: .footnote}
 
 Khalid ibn al-Walid had expressed the same principle in a treaty: **"If we are
 able to protect you, we deserve the collection of the jizya; otherwise we shall
-not."**[^11]
+not."**[11](#ref-11){: .footnote}
 
 > The refund was not symbolic. It shows that protection was part of the
 > exchange itself, not a justification added later. The commanders returned
@@ -313,7 +313,7 @@ fulfil the covenant.**
 
 Abu Yusuf records a three-tier annual assessment based on wealth: forty-eight
 dirhams for the rich, twenty-four for those of middling means, and twelve for
-craftsmen and manual labourers.[^12] The exact rates differed by time and place,
+craftsmen and manual labourers.[12](#ref-12){: .footnote} The exact rates differed by time and place,
 but the important feature is that the juristic model did not treat every payer
 as equally able to bear the charge.
 
@@ -321,7 +321,7 @@ The tax applied annually to each liable adult man, not to women, children, or
 the household as a whole. A man who became unable to pay was no longer liable.
 Abu Yusuf ruled that the obligation did not apply to the decrepit, chronically
 ill, or destitute, and that the public treasury should instead meet their family
-expenses.[^5]
+expenses.[5](#ref-5){: .footnote}
 
 These protections did not make the jizya harmless. A head tax can still be
 regressive because even a lower fixed amount consumes a greater share of a poor
@@ -338,7 +338,7 @@ humiliating.
 The discriminatory dress codes known as *ghiyar*, enforced by the Abbasid
 caliph al-Mutawakkil from around 850 CE, were intended to mark out and degrade
 non-Muslims. These rules have no basis in the Qur'an or in the practice of the
-Prophet ﷺ and the early caliphs.[^13]
+Prophet ﷺ and the early caliphs.[13](#ref-13){: .footnote}
 
 Some later jurists also described degrading rituals during collection,
 including striking or seizing the payer as he handed over the money. Major
@@ -349,7 +349,7 @@ Prophetic rules on how covenanted non-Muslims were to be treated.
 A later political use of the tax appeared in Mughal India. Aurangzeb reimposed
 the jizya in 1679, more than a century after Akbar had abolished it. The measure
 was directed at a Hindu majority and was understood politically by
-contemporaries.[^14]
+contemporaries.[14](#ref-14){: .footnote}
 
 These were **genuine abuses**, not inventions of modern critics. They should not
 be denied, softened, or explained away. But neither should they be confused
@@ -367,11 +367,11 @@ Mohamed Saleh and Jean Tirole use Egyptian papyrological tax records and later
 census data to study this effect. Because a poll tax is a fixed charge per
 person, it takes a larger share of a poor person's resources than a rich
 person's. Their evidence indicates that poorer Copts converted at higher rates,
-leaving a smaller and comparatively wealthier Coptic minority by 1200.[^15]
+leaving a smaller and comparatively wealthier Coptic minority by 1200.[15](#ref-15){: .footnote}
 
 The process was gradual. Egypt's religious transformation unfolded over roughly
 five and a half centuries, from the conquest in 641 to around 1200. The country
-remained majority-Christian for much of that period under Muslim rule.[^15]
+remained majority-Christian for much of that period under Muslim rule.[15](#ref-15){: .footnote}
 This does not remove the role of financial pressure, but it does not fit the
 claim that the population was simply forced to convert at the point of conquest.
 
@@ -379,13 +379,13 @@ Conversion also created a problem for the state. Once a person became Muslim,
 he no longer owed the jizya. Every conversion could therefore reduce tax
 revenue. Under the Umayyads, the resulting losses in Egypt, Iraq, and Khurasan
 were serious enough that some provincial governors resisted conversion or
-continued collecting from men who had already become Muslim.[^16]
+continued collecting from men who had already become Muslim.[16](#ref-16){: .footnote}
 
 The caliph Umar ibn Abd al-Aziz (r. 717–720) ordered the tax removed from
 converts despite the loss of revenue and the objection of his governor in
 Khurasan. When a delegation complained about the fiscal consequences, Umar's
 reported answer was direct: **"Muhammad was sent as a prophet and not as a tax
-collector."**[^17]
+collector."**[17](#ref-17){: .footnote}
 
 The episode exposes a real tension in the system. A government could benefit
 from keeping people within the taxed category, while genuine conversion removed
@@ -436,7 +436,7 @@ Modern states generally impose taxes and military obligations through common
 citizenship rather than religious status. Egypt's Dar al-Ifta, among other
 authorities, therefore holds that non-Muslims who possess full legal citizenship
 and bear equal public duties are not liable for jizya. The condition that
-created the obligation no longer exists.[^18]
+created the obligation no longer exists.[18](#ref-18){: .footnote}
 
 This conclusion follows from the structure of the arrangement itself. A payment
 contracted in exchange for exemption from military service ends when that
@@ -490,41 +490,44 @@ regardless of religion.
 
 ## Notes
 
-[^1]: Qur'an 9:29. It is the only occurrence of the word *jizya* in the Qur'an.
+<div class="footnotes" markdown="1">
+1. <span id="ref-1"></span>Qur'an 9:29. It is the only occurrence of the word *jizya* in the Qur'an.
 
-[^2]: The treaty terms are quoted in the fatwa of Dar al-Ifta al-Misriyya, *Were Christians Forced to Pay the Jizyah to Spare Their Lives?*, which cites Thomas W. Arnold, *The Preaching of Islam*, 79–81, for the treaties of Khalid ibn al-Walid, Suraqa ibn Amr, Habib ibn Maslama al-Fihri and Abu Ubayda ibn al-Jarrah.
+2. <span id="ref-2"></span>The treaty terms are quoted in the fatwa of Dar al-Ifta al-Misriyya, *Were Christians Forced to Pay the Jizyah to Spare Their Lives?*, which cites Thomas W. Arnold, *The Preaching of Islam*, 79–81, for the treaties of Khalid ibn al-Walid, Suraqa ibn Amr, Habib ibn Maslama al-Fihri and Abu Ubayda ibn al-Jarrah.
 
-[^3]: For the Hanafi statement of the exemption — children, women, the old, the disabled, the blind, the poor who cannot work, and monks who keep to their monasteries — see SeekersGuidance, [*Is It True That Some Non-Muslims Are Exempt from Jizya?*](https://seekersguidance.org/answers/hanafi-fiqh/is-it-true-that-some-non-muslims-are-exempt-from-jizya/). Mufti Muhammad Shafi's *Maarif al-Qur'an* on 9:29 gives substantially the same list — women, children, the aged, religious leaders in seclusion, the disabled and the handicapped — [reproduced on Quran.com](https://quran.com/en/9:29/tafsirs/en-tafsir-maarif-ul-quran). That the other three schools agree on the substance of the list is widely reported in the secondary literature but has not been checked here against their primary manuals. [unverified]
+3. <span id="ref-3"></span>For the Hanafi statement of the exemption — children, women, the old, the disabled, the blind, the poor who cannot work, and monks who keep to their monasteries — see SeekersGuidance, [*Is It True That Some Non-Muslims Are Exempt from Jizya?*](https://seekersguidance.org/answers/hanafi-fiqh/is-it-true-that-some-non-muslims-are-exempt-from-jizya/). Mufti Muhammad Shafi's *Maarif al-Qur'an* on 9:29 gives substantially the same list — women, children, the aged, religious leaders in seclusion, the disabled and the handicapped — [reproduced on Quran.com](https://quran.com/en/9:29/tafsirs/en-tafsir-maarif-ul-quran). That the other three schools agree on the substance of the list is widely reported in the secondary literature but has not been checked here against their primary manuals. [unverified]
 
-[^4]: Dar al-Ifta al-Misriyya, as above: participation in the defence of the territory discharged the obligation, being treated as the equivalent of the service the tax replaced.
+4. <span id="ref-4"></span>Dar al-Ifta al-Misriyya, as above: participation in the defence of the territory discharged the obligation, being treated as the equivalent of the service the tax replaced.
 
-[^5]: Abu Yusuf (d. 798), chief judge under Harun al-Rashid, *Kitab al-Kharaj*, written at the caliph's request: the obligation lapses for the decrepit, the chronically ill and the destitute, and such a man's maintenance falls on the public treasury. Quoted here from circulating English translations of the *Kharaj* rather than from a critical edition; for a scholarly text see the Brill edition, [*Abu Yusuf's Kitab al-Kharaj*](https://brill.com/display/title/4590). The wording has not been checked against the Arabic. [unverified]
+5. <span id="ref-5"></span>Abu Yusuf (d. 798), chief judge under Harun al-Rashid, *Kitab al-Kharaj*, written at the caliph's request: the obligation lapses for the decrepit, the chronically ill and the destitute, and such a man's maintenance falls on the public treasury. Quoted here from circulating English translations of the *Kharaj* rather than from a critical edition; for a scholarly text see the Brill edition, [*Abu Yusuf's Kitab al-Kharaj*](https://brill.com/display/title/4590). The wording has not been checked against the Arabic. [unverified]
 
-[^6]: Both readings of *ʿan yadin* are standard. *Maarif al-Qur'an* on 9:29 takes *yad* in the sense of "power and subjugation"; the reading "with a willing hand," and the reading taking *yad* as financial capacity, are given in Muhammad Asad's note on the verse in *The Message of the Qur'an*.
+6. <span id="ref-6"></span>Both readings of *ʿan yadin* are standard. *Maarif al-Qur'an* on 9:29 takes *yad* in the sense of "power and subjugation"; the reading "with a willing hand," and the reading taking *yad* as financial capacity, are given in Muhammad Asad's note on the verse in *The Message of the Qur'an*.
 
-[^7]: **"Imam al-Shafi'i interpreted this as meaning they should subscribe to the common law of Islam and take the responsibility of remaining obedient to it"** — Mufti Muhammad Shafi, *Maarif al-Qur'an* on 9:29, [reproduced on Quran.com](https://quran.com/en/9:29/tafsirs/en-tafsir-maarif-ul-quran). That al-Tabari transmits reports describing a posture of submission at the moment of payment is reported in the secondary literature on this verse; his *Jami' al-Bayan* has not been consulted directly here. [unverified] The disagreement among exegetes on this word remains unresolved.
+7. <span id="ref-7"></span>**"Imam al-Shafi'i interpreted this as meaning they should subscribe to the common law of Islam and take the responsibility of remaining obedient to it"** — Mufti Muhammad Shafi, *Maarif al-Qur'an* on 9:29, [reproduced on Quran.com](https://quran.com/en/9:29/tafsirs/en-tafsir-maarif-ul-quran). That al-Tabari transmits reports describing a posture of submission at the moment of payment is reported in the secondary literature on this verse; his *Jami' al-Bayan* has not been consulted directly here. [unverified] The disagreement among exegetes on this word remains unresolved.
 
-[^8]: *Sahih al-Bukhari* 6914. Parallel wording with *ahl al-dhimma* at *Sunan an-Nasa'i* 4749 and 4750, both graded *sahih*; also *Sunan Ibn Majah* 2686–2687 and *Jami' at-Tirmidhi* 1403, graded *sahih*.
+8. <span id="ref-8"></span>*Sahih al-Bukhari* 6914. Parallel wording with *ahl al-dhimma* at *Sunan an-Nasa'i* 4749 and 4750, both graded *sahih*; also *Sunan Ibn Majah* 2686–2687 and *Jami' at-Tirmidhi* 1403, graded *sahih*.
 
-[^9]: *Sunan Abi Dawud* 3045, graded *sahih*, cross-referenced by the collection's editors to *Sahih Muslim* 2613 for the Prophetic saying.
+9. <span id="ref-9"></span>*Sunan Abi Dawud* 3045, graded *sahih*, cross-referenced by the collection's editors to *Sahih Muslim* 2613 for the Prophetic saying.
 
-[^10]: The return of the jizya before Yarmuk is reported in al-Baladhuri, *Futuh al-Buldan*. The episode is cited in Dar al-Ifta al-Misriyya's fatwa above and in Arnold, *The Preaching of Islam*. It is a report from the early historical literature rather than a hadith, and carries the evidentiary weight of that genre.
+10. <span id="ref-10"></span>The return of the jizya before Yarmuk is reported in al-Baladhuri, *Futuh al-Buldan*. The episode is cited in Dar al-Ifta al-Misriyya's fatwa above and in Arnold, *The Preaching of Islam*. It is a report from the early historical literature rather than a hadith, and carries the evidentiary weight of that genre.
 
-[^11]: Khalid ibn al-Walid's covenant with towns near al-Hira, quoted in Arnold, *The Preaching of Islam*, and in the Dar al-Ifta fatwa above.
+11. <span id="ref-11"></span>Khalid ibn al-Walid's covenant with towns near al-Hira, quoted in Arnold, *The Preaching of Islam*, and in the Dar al-Ifta fatwa above.
 
-[^12]: Abu Yusuf, *Kitab al-Kharaj*: forty-eight dirhams, twenty-four, and twelve, by class of wealth. Comparable tiers are attributed to Umar ibn al-Khattab in Ibn Abi Shayba and al-Bayhaqi.
+12. <span id="ref-12"></span>Abu Yusuf, *Kitab al-Kharaj*: forty-eight dirhams, twenty-four, and twelve, by class of wealth. Comparable tiers are attributed to Umar ibn al-Khattab in Ibn Abi Shayba and al-Bayhaqi.
 
-[^13]: The *ghiyar* regulations enforced by the Abbasid caliph al-Mutawakkil (r. 847–861), requiring distinguishing dress of non-Muslims. Dated here to c. 850 on the standard reference accounts; the Abbasid chronicles have not been consulted directly. [unverified]
+13. <span id="ref-13"></span>The *ghiyar* regulations enforced by the Abbasid caliph al-Mutawakkil (r. 847–861), requiring distinguishing dress of non-Muslims. Dated here to c. 850 on the standard reference accounts; the Abbasid chronicles have not been consulted directly. [unverified]
 
-[^14]: Aurangzeb reimposed the jizya in 1679, reversing Akbar's abolition in the 1560s. Both dates are taken from standard reference accounts of Mughal India rather than from primary sources. [unverified]
+14. <span id="ref-14"></span>Aurangzeb reimposed the jizya in 1679, reversing Akbar's abolition in the 1560s. Both dates are taken from standard reference accounts of Mughal India rather than from primary sources. [unverified]
 
-[^15]: Mohamed Saleh and Jean Tirole, [*Taxing Identity: Fiscal Policy and Conversions in Early Islam*](https://www.tse-fr.eu/sites/default/files/TSE/documents/doc/by/tirole/taxing_identity_051218.pdf), Toulouse School of Economics, 5 December 2018 — a theoretical model tested against Egyptian conversion between 641 and 1200. Summarising the earlier empirical result: "because the poll tax… was regressive in income, poorer Copts were more likely to convert to Islam. This led non-convert Copts to shrink into a better-off minority by 1200." The authors attribute this result to the poll tax's regressive structure.
+15. <span id="ref-15"></span>Mohamed Saleh and Jean Tirole, [*Taxing Identity: Fiscal Policy and Conversions in Early Islam*](https://www.tse-fr.eu/sites/default/files/TSE/documents/doc/by/tirole/taxing_identity_051218.pdf), Toulouse School of Economics, 5 December 2018 — a theoretical model tested against Egyptian conversion between 641 and 1200. Summarising the earlier empirical result: "because the poll tax… was regressive in income, poorer Copts were more likely to convert to Islam. This led non-convert Copts to shrink into a better-off minority by 1200." The authors attribute this result to the poll tax's regressive structure.
 
-[^16]: On conversion eroding the Umayyad tax base in Egypt, Iraq and Khurasan, see Saleh and Tirole as above, which frames the fiscal dilemma directly. The detail that some governors continued collecting from converts is reported in the scholarship surrounding the fiscal rescript of Umar II. [unverified]
+16. <span id="ref-16"></span>On conversion eroding the Umayyad tax base in Egypt, Iraq and Khurasan, see Saleh and Tirole as above, which frames the fiscal dilemma directly. The detail that some governors continued collecting from converts is reported in the scholarship surrounding the fiscal rescript of Umar II. [unverified]
 
-[^17]: **"Muhammad was sent as a prophet and not as a tax collector"** — attributed to Umar II and used as the epigraph of Saleh and Tirole, above. The delegation sent by al-Jarrah ibn Abd Allah al-Hakami, governor of Khurasan, complaining that *mawali* converts raided without pay while still being taxed, is reported in the scholarship on Islamization under Umar II; the primary chronicles have not been consulted directly here. [unverified]
+17. <span id="ref-17"></span>**"Muhammad was sent as a prophet and not as a tax collector"** — attributed to Umar II and used as the epigraph of Saleh and Tirole, above. The delegation sent by al-Jarrah ibn Abd Allah al-Hakami, governor of Khurasan, complaining that *mawali* converts raided without pay while still being taxed, is reported in the scholarship on Islamization under Umar II; the primary chronicles have not been consulted directly here. [unverified]
 
-[^18]: Dar al-Ifta al-Misriyya, fatwa cited above: non-Muslims who have held full legal citizenship with equal obligations are not subject to jizya.
+18. <span id="ref-18"></span>Dar al-Ifta al-Misriyya, fatwa cited above: non-Muslims who have held full legal citizenship with equal obligations are not subject to jizya.
+
+</div>
 
 ## Qur'an verses cited
 

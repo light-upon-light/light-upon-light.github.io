@@ -26,7 +26,7 @@ mentioned for the women."** She would later defend him with her own body at
 the Battle of Uhud, when the Muslim line broke and the fighting reached the
 Prophet ﷺ himself. Her complaint
 was answered by a passage of the Qur'an that names men and women separately in
-ten consecutive pairs and promises them the same reward.[^1]
+ten consecutive pairs and promises them the same reward.[1](#ref-1){: .footnote}
 
 The exchange introduces the central question directly. A woman said that women
 were being left out, and her objection was answered. This page examines what
@@ -212,14 +212,14 @@ brought the matter to the Prophet ﷺ.
 > marriage. So she went to the Messenger of Allah ﷺ and **he declared that
 > marriage invalid**."
 > — *Sahih al-Bukhari* 5138 and 6945; *Sunan Abi Dawud* 2101 and *Sunan
-> an-Nasa'i* 3268, both graded *sahih*[^2]
+> an-Nasa'i* 3268, both graded *sahih*[2](#ref-2){: .footnote}
 {: .src }
 
 - The ruling was not limited to Khansa's case. It became **a precedent that
   other women invoked**. A woman from Jaʿfar's family feared that her guardian
   would marry her against her will. She sent for two elders of the Ansar, who
   told her: *"Don't be afraid — Khansa bint Khidham was given by her father in
-  marriage against her will, and the Prophet ﷺ declared it invalid."*[^3]
+  marriage against her will, and the Prophet ﷺ declared it invalid."*[3](#ref-3){: .footnote}
 
     > The ruling did not remain an abstract principle. Another woman facing
     > the same danger was reassured by people who knew Khansa's case and could
@@ -232,7 +232,7 @@ brought the matter to the Prophet ﷺ.
   ibn Qays told the Prophet ﷺ that she had no complaint about her husband's
   character or religion, but could not continue living with him. The Prophet ﷺ
   asked whether she would return the garden Thabit had given her as *mahr*. She
-  agreed, and he ordered Thabit to divorce her.[^4]
+  agreed, and he ordered Thabit to divorce her.[4](#ref-4){: .footnote}
 
     > This is *khulʿ*. A wife does not need to accuse her husband of
     > misconduct, produce witnesses, or prove that he harmed her. **Her statement
@@ -243,7 +243,7 @@ brought the matter to the Prophet ﷺ.
 - **Where there was harm, she did not have to return anything.** Thabit ibn
   Qays struck another wife, Jamila bint Abdullah ibn Ubayy, and broke her arm.
   Her brother brought the complaint to the Prophet ﷺ, who summoned Thabit and
-  said: **"Take what she owes you and let her go."**[^5]
+  said: **"Take what she owes you and let her go."**[5](#ref-5){: .footnote}
 
 ## The mosque, and knowledge
 
@@ -256,17 +256,17 @@ brought the matter to the Prophet ﷺ.
     > Bilal ibn Abdullah said: "By Allah, we shall certainly prevent them."
     > **Ibn Umar turned on him and rebuked him so harshly that the narrator had
     > never heard the like from him.**
-    > — *Sahih Muslim* 989, 990 and 992; *Sunan Ibn Majah* 16, graded *sahih*[^6]
+    > — *Sahih Muslim* 989, 990 and 992; *Sunan Ibn Majah* 16, graded *sahih*[6](#ref-6){: .footnote}
     {: .src }
 
 - **Aisha became a primary legal authority.** She narrated a large body of
   hadith and corrected senior Companions often enough for al-Zarkashi to compile
-  an entire book on her corrections.[^7] Her scholarship is discussed in
+  an entire book on her corrections.[7](#ref-7){: .footnote} Her scholarship is discussed in
   [The Prophet Muhammad's ﷺ Marriage to Aisha](/aisha).
 - **Women requested their own teaching sessions and received them.** Women
   continued to transmit religious knowledge for centuries. Muhammad Akram
   Nadwi's biographical dictionary of women hadith scholars extends to dozens of
-  volumes and records thousands of women.[^8]
+  volumes and records thousands of women.[8](#ref-8){: .footnote}
 
 ## A woman argued with the Prophet ﷺ and the Qur'an took her side
 
@@ -291,7 +291,7 @@ The surah is named *al-Mujadila* — "the woman who argues."
 > me?" He said: **"Your mother."** He said: "Then who?" He said: **"Your
 > mother."** He said: "Then who?" He said: **"Your mother."** He said: "Then
 > who?" He said: "Then your father."
-> — *Sahih Muslim* 6500 and 6501[^9]
+> — *Sahih Muslim* 6500 and 6501[9](#ref-9){: .footnote}
 {: .src }
 
 ## The measure the Prophet ﷺ set
@@ -301,13 +301,13 @@ The surah is named *al-Mujadila* — "the woman who argues."
 
     > "The best of you is the best to his wives, and I am the best of you to my
     > wives."
-    > — *Jami' at-Tirmidhi* 3895, graded *sahih*[^10]
+    > — *Jami' at-Tirmidhi* 3895, graded *sahih*[10](#ref-10){: .footnote}
     {: .src }
 
 - In the Farewell Sermon, delivered before the largest audience he addressed,
   he stated that marriage carries obligations in both directions: *"There are
   rights for you upon your women, and rights for your women upon you,"* and
-  instructed men to provide women with good clothing and food.[^11]
+  instructed men to provide women with good clothing and food.[11](#ref-11){: .footnote}
 
     > **The sentence about striking appears in this same sermon**, qualified
     > as "a beating that is not painful." It is not being passed over here. Its
@@ -409,7 +409,7 @@ This is discussed at
   sacrifices and shave their heads, but **not one of them moved.** He told Umm
   Salama what had happened. She advised him to go out, say nothing, and perform
   the rites himself. He followed her advice, and the entire camp then followed
-  him.[^12]
+  him.[12](#ref-12){: .footnote}
 
     > This is not a marginal report. It appears in the tradition's most
     > rigorously screened collection and describes a serious crisis of
@@ -474,7 +474,7 @@ because it concerns the conduct of Muslim societies.
 - **Islamic law provides grounds for condemning these practices.** The Prophetic
   maxim *la darar wa la dirar* — **"there should be neither harming nor
   reciprocating harm"** — became a foundational legal principle from which
-  jurists developed remedies.[^13] Harm within marriage is not merely
+  jurists developed remedies.[13](#ref-13){: .footnote} Harm within marriage is not merely
   discouraged. It is unlawful and can give a wife grounds to dissolve the
   marriage.
 - **Communities often fail to enforce the rules they teach.** The remedies may
@@ -488,7 +488,7 @@ sources.
 
 ## Conclusion
 
-The Prophet ﷺ said **"I was sent to perfect good character,"**[^14] and made a
+The Prophet ﷺ said **"I was sent to perfect good character,"**[14](#ref-14){: .footnote} and made a
 man's treatment of his wife a measure of his character. The tradition should be
 judged by that standard, as should the conduct of Muslims.
 
@@ -514,33 +514,36 @@ pairs and promising both the same reward.**
 
 ## Notes
 
-[^1]: *Jami' at-Tirmidhi* 3211, graded *sahih* in its chain: Umm Umara al-Ansariyya came to the Prophet ﷺ and said "I do not see but that everything is for the men, and I do not see anything being mentioned for the women," and 33:35 was revealed. Umm Umara is Nusayba bint Kaʿb, whose defence of the Prophet ﷺ at Uhud is recorded in the *sira* literature.
+<div class="footnotes" markdown="1">
+1. <span id="ref-1"></span>*Jami' at-Tirmidhi* 3211, graded *sahih* in its chain: Umm Umara al-Ansariyya came to the Prophet ﷺ and said "I do not see but that everything is for the men, and I do not see anything being mentioned for the women," and 33:35 was revealed. Umm Umara is Nusayba bint Kaʿb, whose defence of the Prophet ﷺ at Uhud is recorded in the *sira* literature.
 
-[^2]: *Sahih al-Bukhari* 5138, repeated at 6945; *Sunan Abi Dawud* 2101, graded *sahih* with cross-reference to *Sahih al-Bukhari* 5138; *Sunan an-Nasa'i* 3268, graded *sahih*.
+2. <span id="ref-2"></span>*Sahih al-Bukhari* 5138, repeated at 6945; *Sunan Abi Dawud* 2101, graded *sahih* with cross-reference to *Sahih al-Bukhari* 5138; *Sunan an-Nasa'i* 3268, graded *sahih*.
 
-[^3]: *Sahih al-Bukhari* 6969, narrated by al-Qasim: a woman of the offspring of Jaʿfar feared her guardian would marry her against her will and sent for Abd al-Rahman and Mujammiʿ, the sons of Jariya, who reassured her by citing the Khansa precedent.
+3. <span id="ref-3"></span>*Sahih al-Bukhari* 6969, narrated by al-Qasim: a woman of the offspring of Jaʿfar feared her guardian would marry her against her will and sent for Abd al-Rahman and Mujammiʿ, the sons of Jariya, who reassured her by citing the Khansa precedent.
 
-[^4]: *Sahih al-Bukhari* 5273–5276; *Sunan an-Nasa'i* 3462 and 3463, both graded *sahih*. Nasa'i 3462 names her Habiba bint Sahl; the Bukhari reports refer to her as the wife of Thabit ibn Qays. The classical literature discusses whether these are one incident or two.
+4. <span id="ref-4"></span>*Sahih al-Bukhari* 5273–5276; *Sunan an-Nasa'i* 3462 and 3463, both graded *sahih*. Nasa'i 3462 names her Habiba bint Sahl; the Bukhari reports refer to her as the wife of Thabit ibn Qays. The classical literature discusses whether these are one incident or two.
 
-[^5]: *Sunan an-Nasa'i* 3497, graded *sahih* in its chain, from al-Rubayyiʿ bint Muʿawwidh: Thabit ibn Qays struck his wife Jamila bint Abdullah ibn Ubayy and broke her arm; her brother complained, and the Prophet ﷺ told Thabit, "Take what she owes you and let her go."
+5. <span id="ref-5"></span>*Sunan an-Nasa'i* 3497, graded *sahih* in its chain, from al-Rubayyiʿ bint Muʿawwidh: Thabit ibn Qays struck his wife Jamila bint Abdullah ibn Ubayy and broke her arm; her brother complained, and the Prophet ﷺ told Thabit, "Take what she owes you and let her go."
 
-[^6]: *Sahih Muslim* 989, 990 and 992; *Sunan Ibn Majah* 16, graded *sahih* with cross-reference to *Sahih al-Bukhari*. *Sunan Abi Dawud* 567 carries an additional clause — "but their houses are better for them" — whose gradings in that collection's apparatus disagree.
+6. <span id="ref-6"></span>*Sahih Muslim* 989, 990 and 992; *Sunan Ibn Majah* 16, graded *sahih* with cross-reference to *Sahih al-Bukhari*. *Sunan Abi Dawud* 567 carries an additional clause — "but their houses are better for them" — whose gradings in that collection's apparatus disagree.
 
-[^7]: Badr al-Din al-Zarkashi, *al-Ijaba li-irad ma istadrakathu ʿAʾisha ʿala al-Sahaba* — "the corrections Aisha made to the Companions," a work devoted entirely to that subject. Estimates of the proportion of the hadith corpus narrated by her vary between sources and none is given here.
+7. <span id="ref-7"></span>Badr al-Din al-Zarkashi, *al-Ijaba li-irad ma istadrakathu ʿAʾisha ʿala al-Sahaba* — "the corrections Aisha made to the Companions," a work devoted entirely to that subject. Estimates of the proportion of the hadith corpus narrated by her vary between sources and none is given here.
 
-[^8]: Muhammad Akram Nadwi, *al-Muhaddithat: The Women Scholars in Islam*, and the multi-volume Arabic biographical dictionary behind it. The volume count and the number of women documented have grown across editions and are not stated precisely here. [unverified]
+8. <span id="ref-8"></span>Muhammad Akram Nadwi, *al-Muhaddithat: The Women Scholars in Islam*, and the multi-volume Arabic biographical dictionary behind it. The volume count and the number of women documented have grown across editions and are not stated precisely here. [unverified]
 
-[^9]: *Sahih Muslim* 6500 and 6501, from Abu Hurayra. Version 6501 gives the sequence as "your mother, again your mother, again your mother, then your father, then your nearest relatives."
+9. <span id="ref-9"></span>*Sahih Muslim* 6500 and 6501, from Abu Hurayra. Version 6501 gives the sequence as "your mother, again your mother, again your mother, then your father, then your nearest relatives."
 
-[^10]: *Jami' at-Tirmidhi* 3895, from Aisha, graded *sahih* / *hasan sahih*.
+10. <span id="ref-10"></span>*Jami' at-Tirmidhi* 3895, from Aisha, graded *sahih* / *hasan sahih*.
 
-[^11]: *Jami' at-Tirmidhi* 3087, graded *hasan* / *hasan sahih*, reporting the Farewell Hajj sermon: "I order you to treat women well… Behold! There are rights for you upon your women, and rights for your women upon you… their rights upon you are that you treat them well in clothing them and feeding them." The same report contains the phrase about striking, qualified as "a beating that is not painful."
+11. <span id="ref-11"></span>*Jami' at-Tirmidhi* 3087, graded *hasan* / *hasan sahih*, reporting the Farewell Hajj sermon: "I order you to treat women well… Behold! There are rights for you upon your women, and rights for your women upon you… their rights upon you are that you treat them well in clothing them and feeding them." The same report contains the phrase about striking, qualified as "a beating that is not painful."
 
-[^12]: *Sahih al-Bukhari* 2731 and 2732, the long report of al-Miswar ibn Makhrama and Marwan on Hudaybiyya. After the treaty was written, "Allah's Messenger ﷺ said to his companions, 'Get up and slaughter your sacrifices and get your heads shaved.' By Allah, none of them got up, and the Prophet ﷺ repeated his order thrice. When none of them got up, he left them and went to Umm Salama and told her of the people's attitude towards him." Her advice, and the camp following once he acted, are in the same report.
+12. <span id="ref-12"></span>*Sahih al-Bukhari* 2731 and 2732, the long report of al-Miswar ibn Makhrama and Marwan on Hudaybiyya. After the treaty was written, "Allah's Messenger ﷺ said to his companions, 'Get up and slaughter your sacrifices and get your heads shaved.' By Allah, none of them got up, and the Prophet ﷺ repeated his order thrice. When none of them got up, he left them and went to Umm Salama and told her of the people's attitude towards him." Her advice, and the camp following once he acted, are in the same report.
 
-[^13]: *Sunan Ibn Majah* 2340 and 2341, graded *sahih* and *sahih li-ghayrihi* with one dissenting *da'if*; *Muwatta Malik* 1432, graded *sahih li-ghayrihi*, in the wording "there is no injury nor return of injury"; also the thirty-second of al-Nawawi's *Forty Hadith*.
+13. <span id="ref-13"></span>*Sunan Ibn Majah* 2340 and 2341, graded *sahih* and *sahih li-ghayrihi* with one dissenting *da'if*; *Muwatta Malik* 1432, graded *sahih li-ghayrihi*, in the wording "there is no injury nor return of injury"; also the thirty-second of al-Nawawi's *Forty Hadith*.
 
-[^14]: *Muwatta Malik* 1640, graded *sahih li-ghayrihi*: "I was sent to perfect good character." Malik transmits it as a *balagha* — a report reaching him without a full chain — but it is corroborated through other routes, which is what the grading records.
+14. <span id="ref-14"></span>*Muwatta Malik* 1640, graded *sahih li-ghayrihi*: "I was sent to perfect good character." Malik transmits it as a *balagha* — a report reaching him without a full chain — but it is corroborated through other routes, which is what the grading records.
+
+</div>
 
 ## Qur'an verses cited
 
