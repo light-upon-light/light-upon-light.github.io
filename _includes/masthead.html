@@ -1,17 +1,18 @@
 {%- comment -%}
   A local copy of minimal-mistakes 4.28.0's _includes/masthead.html, verbatim
-  except for the #theme-toggle button below. The theme offers no hook inside the
-  masthead, so overriding the whole file is the only way to put a control there.
-  Injecting it with JavaScript (the way footer/custom.html builds the TOC
-  drawer) would work, but the button would pop in after load.
+  except for the #theme-toggle and #font-size-toggle buttons below. The theme
+  offers no hook inside the masthead, so overriding the whole file is the only
+  way to put a control there. Injecting them with JavaScript (the way
+  footer/custom.html builds the TOC drawer) would work, but the buttons would
+  pop in after load.
 
   The theme is pinned to 4.28.0 in _config.yml, so this fork is stable. If that
   pin moves, diff this file against the new release.
 
   One knock-on: GreedyNav (assets/js/plugins/jquery.greedy-navigation.js)
   measures the space available for nav links by subtracting the site title and
-  the search toggle from the nav width. It knows nothing about #theme-toggle, so
-  it believes it has ~2.6rem more room than it does. Harmless while
+  the search toggle from the nav width. It knows nothing about either button, so
+  it believes it has ~4.6rem more room than it does. Harmless while
   _data/navigation.yml holds a single short link — it cannot overflow at any
   width. Revisit if the nav grows.
 {%- endcomment -%}
@@ -55,6 +56,19 @@
             <circle cx="12" cy="12" r="4.2" fill="currentColor" />
             <path d="M12 1.8v2.6 M12 19.6v2.6 M1.8 12h2.6 M19.6 12h2.6 M4.8 4.8l1.9 1.9 M17.3 17.3l1.9 1.9 M19.2 4.8l-1.9 1.9 M6.7 17.3l-1.9 1.9"
                   fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" />
+          </svg>
+        </button>
+        {%- comment -%}
+          Article text-size toggle. Same pattern as #theme-toggle just above:
+          a plain "small A / big A" glyph pair (no state-swapped icon needed,
+          since a single glyph already communicates "make text bigger"), with
+          aria-pressed and the label kept in sync by the script in
+          _includes/head/custom.html.
+        {%- endcomment -%}
+        <button id="font-size-toggle" type="button" aria-pressed="false" aria-label="Switch to larger text size" title="Switch to larger text size">
+          <svg viewBox="0 0 24 24" width="18" height="18" aria-hidden="true" focusable="false">
+            <text x="1" y="16" font-size="11" font-family="Georgia, 'Times New Roman', serif" fill="currentColor">A</text>
+            <text x="10" y="19" font-size="17" font-family="Georgia, 'Times New Roman', serif" fill="currentColor">A</text>
           </svg>
         </button>
         {% if site.search == true %}

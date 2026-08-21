@@ -118,16 +118,26 @@ blockquote {
   border-inline-start-color: #6b6152;
 }
 
-/* the two masthead controls are controls, not surfaces: at $primary-color they
-   are 2:1 against the background. #theme-toggle is this repo's own button, in
-   _includes/masthead.html, styled next to the theme's in head/custom.html. */
+/* the three masthead controls are controls, not surfaces: at $primary-color
+   they are 2:1 against the background. #theme-toggle and #font-size-toggle
+   are this repo's own buttons, in _includes/masthead.html, styled next to
+   the theme's in head/custom.html. */
 .search__toggle,
-#theme-toggle {
+#theme-toggle,
+#font-size-toggle {
   color: $text-color;
 
   &:hover {
     color: mix(#fff, $text-color, 25%);
   }
+}
+
+/* #font-size-toggle's "large" state, dark counterpart of the light-mode gold
+   in head/custom.html -- the dirt skin's gold reads muddy on a dark ground,
+   so this uses the same lifted gold #d4a04a already used for ::selection
+   above. */
+#font-size-toggle[aria-pressed="true"] {
+  color: #d4a04a;
 }
 
 /* --------------------------------------------------------------------------

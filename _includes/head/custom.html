@@ -136,6 +136,47 @@
     outline: none;
   }
 
+  /* Text-size toggle, styled identically to #theme-toggle just above and
+     placed right after it in the masthead. margin-inline-start gives it a
+     little daylight from #theme-toggle; no end margin, so (as with
+     #theme-toggle) the search toggle's own 1rem is the whole gap to
+     whichever control ends up next to it. */
+  #font-size-toggle {
+    margin-inline-start: 0.5rem;
+    margin-inline-end: 0;
+    height: 2rem;
+    padding: 0;
+    display: flex;
+    align-items: center;
+    color: #343434;
+    background-color: transparent;
+    border: 0;
+    outline: none;
+    cursor: pointer;
+    transition: color 0.2s;
+  }
+
+  #font-size-toggle:hover {
+    color: #8e8b82;
+  }
+
+  #font-size-toggle:focus:not(:focus-visible) {
+    outline: none;
+  }
+
+  /* A pressed/active look for "large text is on", parallel to the sun/moon
+     swap on #theme-toggle -- there's no second icon to swap here, so the
+     state is carried by colour and weight instead. */
+  #font-size-toggle[aria-pressed="true"] {
+    color: #a8792a;
+  }
+
+  /* Same no-JS story as #theme-toggle: without JavaScript there is no
+     working toggle, so the button never appears. */
+  html:not(.js) #font-size-toggle {
+    display: none;
+  }
+
   /* Which icon shows is "what clicking does", not "what mode this is": the sun
      appears in dark mode because it switches back to light.
 
@@ -240,12 +281,56 @@
     font-size: 0.85em;
   }
 
+  /* #font-size-toggle's "large" state: undoes the shrink above for prose,
+     back to the theme's un-shrunk 1em. Scoped to .page__content only, so the
+     masthead, the TOC and the floating buttons are untouched -- exactly the
+     "content itself, nothing else" the toggle promises. Arabic scales along
+     with it automatically (its own 1.4em is relative to its English
+     surroundings), which is correct: only blockquotes are pinned below.
+
+     [data-font-size="large"] lives on <html>, set by the script further
+     down, mirroring how [data-theme] drives the light/dark toggle. */
+  [data-font-size="large"] .page__content {
+    font-size: 1em;
+  }
+
+  /* Quotations stay the size the reader already knows regardless of the
+     toggle above, per an explicit editorial call: only the surrounding
+     prose should grow. blockquote's own rule below is 0.9em of
+     .page__content, i.e. 0.9 * 0.85em = 0.765em of the root in the normal
+     state -- restated directly here so the large state lands on the exact
+     same absolute size instead of drifting to 0.9 * 1em. .quran-arabic
+     rides along unchanged too, since its 1.4em is relative to this. */
+  [data-font-size="large"] .page__content blockquote {
+    font-size: 0.765em !important;
+  }
+
+  /* Same call for the collapsible YouTube references (yt-embed.html) that
+     sit beside these quotes -- apparatus, not prose, so it shouldn't grow
+     with the toggle either. Unlike blockquote, .yt-embed carries no
+     font-size of its own normally (its "Watch: ..." summary is 0.9em of
+     whatever it inherits), so the fix is simpler: 0.85em undoes the large
+     state's .page__content bump back to the article's un-toggled 0.85em of
+     root, and .yt-embed > summary's 0.9em rides on top of that unchanged. */
+  [data-font-size="large"] .page__content .yt-embed {
+    font-size: 0.85em;
+  }
+
   /* The TOC widget (nav.toc, both the desktop sticky sidebar and the
      mobile inline version) renders inside .page__content, so without this
      it inherits the reduction above and reads smaller than the rest of
      the site's navigation. rem, not em, so it's sized off the root and
-     doesn't restack with the ancestor's reduced font-size. */
-  .page__content .toc {
+     doesn't restack with the ancestor's reduced font-size.
+
+     .sidebar__right -- the theme's own wrapper around .toc, also a direct
+     child of .page__content -- has to be reset the same way, even though
+     none of its own text is visible: the theme gives it `padding-left: 1em`
+     (reserving the gutter .toc sits in), so without this its padding grows
+     and shrinks with .page__content's font-size, and .toc visibly shifts
+     sideways inside the fixed-width sidebar column every time the
+     font-size toggle or the shrink above changes .page__content's size. */
+  .page__content .toc,
+  .page__content .sidebar__right {
     font-size: 1rem;
   }
 
@@ -910,6 +995,69 @@
       system.addEventListener("change", apply);
     } else if (system.addListener) {
       system.addListener(apply); // Safari < 14
+    }
+  })();
+</script>
+
+<!-- Article text-size toggle.
+
+     Same shape as the dark-mode script above, deliberately: an explicit
+     choice lives in localStorage under its own key, is mirrored onto
+     documentElement as [data-font-size="large"] (which the CSS in this file
+     reads), and the button's aria-pressed/label are kept in sync. Unlike
+     dark mode there is no "follow the system" state to fall back to --
+     large text is either on or off -- so this stays deliberately simpler:
+     no matchMedia listener, no third "null tracks something else" case
+     beyond "not stored". -->
+<script>
+  (function () {
+    var KEY = "fontSize";
+
+    var stored = null;
+    try {
+      stored = window.localStorage.getItem(KEY);
+    } catch (e) {}
+    if (stored !== "large") stored = null;
+
+    function apply() {
+      if (stored === "large") {
+        document.documentElement.setAttribute("data-font-size", "large");
+      } else {
+        document.documentElement.removeAttribute("data-font-size");
+      }
+
+      // not present yet on the first call -- this runs before the masthead
+      var btn = document.getElementById("font-size-toggle");
+      if (btn) {
+        var large = stored === "large";
+        btn.setAttribute("aria-pressed", large ? "true" : "false");
+        var label = "Switch to " + (large ? "normal" : "larger") + " text size";
+        btn.setAttribute("aria-label", label);
+        btn.setAttribute("title", label);
+      }
+    }
+
+    apply();
+
+    function toggle() {
+      stored = stored === "large" ? null : "large";
+      try {
+        if (stored === null) window.localStorage.removeItem(KEY);
+        else window.localStorage.setItem(KEY, stored);
+      } catch (e) {}
+      apply();
+    }
+
+    function ready() {
+      var btn = document.getElementById("font-size-toggle");
+      if (btn) btn.addEventListener("click", toggle);
+      apply();
+    }
+
+    if (document.readyState === "loading") {
+      document.addEventListener("DOMContentLoaded", ready);
+    } else {
+      ready();
     }
   })();
 </script>
