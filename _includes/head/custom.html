@@ -1127,9 +1127,42 @@
          protect either. */
       if (document.body) document.body.getBoundingClientRect();
 
-      /* Safe to restore: every property is already at its new value, so
-         there is nothing left for a transition to animate. */
-      root.classList.remove("theme-switching");
+      /* Drop the guard two frames later rather than on the next line.
+
+         HARDENING, not a fix for a reproduced failure -- be honest about
+         that if this ever needs revisiting. Forcing layout resolves style
+         that is already pending; re-evaluating which stylesheets apply
+         after a media attribute changes is arguably a separate step, and
+         an engine would be within its rights to leave it to the next
+         frame. If one did, the palette would land after the guard came
+         off, the transitions would fire, and the old colours would slide
+         into the new ones -- bold and italic arriving late, and a heading
+         rule still carrying the previous palette over the new background,
+         where pale cream reads as white and dark brown reads as black.
+
+         That failure was reported on iOS, where every browser including
+         Chrome runs the system WebKit. It could NOT be reproduced here:
+         measured synchronous on Blink, and on WebKit 26.5 via Playwright
+         the values land in the same tick without this. So the deferral is
+         a plausible mechanism, not a demonstrated one, and iOS ships
+         whatever WebKit its OS version carries -- older than 26.5 and not
+         testable from a Windows checkout.
+
+         Kept because the cost is nil: the class only suppresses
+         transitions, so waiting two frames means a hover fade begun in
+         that window snaps instead of easing. Deliberately NOT done by
+         returning a promise from the view transition callback -- rendering
+         is suppressed while that callback runs, and a frame callback that
+         never fires would hang the swap. */
+      if (window.requestAnimationFrame) {
+        requestAnimationFrame(function () {
+          requestAnimationFrame(function () {
+            root.classList.remove("theme-switching");
+          });
+        });
+      } else {
+        root.classList.remove("theme-switching");
+      }
     }
 
     apply();
