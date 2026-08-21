@@ -239,6 +239,33 @@
     display: none;
   }
 
+  /* The light/dark cross-fade. The toggle in this file's script wraps the
+     palette swap in document.startViewTransition(), which snapshots the
+     viewport before and after and animates between the two; this only sets
+     how long. The user-agent default is 250ms, so these rules mostly exist
+     to make the number visible and adjustable rather than folklore.
+
+     `root` is the ONLY participant, deliberately: no element here gets a
+     `view-transition-name` of its own. A named element is animated
+     independently, with its old and new geometry interpolated -- which for
+     the masthead controls would mean the browser tweening positions during
+     the swap, reintroducing by design the apparent sideways drift in
+     #font-size-toggle that this whole change exists to remove. With root
+     alone, the two snapshots are stacked at identical coordinates and
+     nothing can move. The moon fades out exactly where the sun fades in, so
+     the icon slot is never empty.
+
+     Nothing is needed in assets/css/dark.scss for this: the animation runs
+     between the two palettes rather than belonging to either.
+
+     No prefers-reduced-motion query here -- the script checks it and skips
+     the view transition entirely, so there is no animation to shorten. */
+  ::view-transition-old(root),
+  ::view-transition-new(root) {
+    animation-duration: 260ms;
+    animation-timing-function: ease;
+  }
+
   /* Qur'anic Arabic (Uthmani script) shown alongside English translations */
   .quran-arabic {
     font-family: "Amiri", "Scheherazade New", "Noto Naskh Arabic",
@@ -1019,28 +1046,81 @@
         else window.localStorage.setItem(KEY, stored);
       } catch (e) {}
 
-      apply();
+      /* Swap the palette under a full-page cross-fade.
 
-      /* Commit the whole palette swap inside this click, in one frame.
+         Why not a CSS transition: there is nothing for one to transition.
+         apply() flips the media attribute on the dark.css <link>; no
+         property on any element changes, a different stylesheet just starts
+         winning the cascade. Chrome does not re-run transitions on a
+         stylesheet activation change, which is the bug written up above
+         #theme-toggle -- the transition wedges at the OLD palette and stays
+         there until some unrelated recalculation knocks it loose. A view
+         transition works on a different principle: it snapshots the
+         viewport, suppresses rendering while the callback mutates the DOM,
+         then cross-fades the old snapshot into the new one. Stylesheet
+         activation is invisible to transitions but perfectly visible to a
+         snapshot.
 
-         apply() flips the media attribute on the dark.css <link>, and that
-         stylesheet @imports the entire theme -- ~820 rules -- so activating
-         it invalidates the style of every element on a 12,000px article.
-         Chrome spreads that recalc over several frames and paints what it
-         has each time, so the masthead tore visibly: measured on the
-         article page, the click was followed by frames of 50ms, 30ms, 25ms,
-         19ms before settling, and the eye reads those intermediate paints
-         as the row of buttons juddering sideways while the moon becomes a
-         sun. Nothing actually moves -- every rect and every SVG bbox is
-         identical across the swap, checked frame by frame; it is the
-         partial repaint that looks like motion.
+         That also fixes, rather than papers over, the tearing this replaced.
+         dark.css @imports the entire theme -- ~820 rules -- so activating it
+         invalidates the style of every element on a 12,000px article, and
+         Chrome used to spread that recalc across several frames and paint
+         each one: measured on the article page, a click was followed by
+         frames of 50ms, 30ms, 25ms, 19ms against a 16.7ms idle baseline.
+         The icons swapped a frame or two before the colours did, and the
+         eye read those intermediate paints as the row of masthead buttons
+         juddering sideways -- nothing actually moved, every rect and SVG
+         bbox is identical across the swap. Under a view transition those
+         frames happen behind a frozen snapshot, so none of them is seen.
 
-         Reading a layout property forces the recalc to finish here, before
-         the browser gets a chance to paint. Same total work either way, but
-         it lands as one atomic change instead of a stutter. NOT a
-         transition -- see the note above #theme-toggle for why a transition
-         on these colours wedges at the old palette. */
-      document.body.getBoundingClientRect();
+         The getBoundingClientRect() sits INSIDE the callback deliberately:
+         it forces the recalc to finish before the API snapshots the new
+         state, so the outgoing frame is fully light and the incoming one
+         fully dark. Outside the callback it would flush the old state and
+         achieve nothing.
+
+         Deliberately root-only -- see the ::view-transition rules in the
+         <style> above. */
+      function commit() {
+        apply();
+        document.body.getBoundingClientRect();
+      }
+
+      if (canCrossFade()) document.startViewTransition(commit);
+      else commit();
+    }
+
+    /* Three ways to end up on the plain, instant path instead, all of them
+       leaving exactly the behaviour this had before cross-fading existed:
+
+       - no View Transitions API. Baseline since October 2025 (Chrome 111,
+         Safari 18, Firefox 144), so this is the older-browser tail.
+       - the reader asked for less motion. A whole-page cross-fade is
+         squarely what that preference is about, and skipping it loses
+         nothing: the snapshot still commits the swap in one frame, which
+         is what stopped the tearing.
+       - dark.css has not parsed yet. This is the one that would make things
+         WORSE rather than merely plainer: if the sheet is not reachable
+         when the callback runs, flipping its media attribute changes
+         nothing yet, so the API cross-fades light into light for the full
+         duration and the real palette lands afterwards -- the abrupt flash,
+         with a delay bolted in front of it. Chrome speculatively fetches
+         non-matching-media sheets, so it is reachable here on a cold first
+         toggle (checked: 820 rules while the media query did not match),
+         but that is a Chrome optimisation, not a guarantee, and the failure
+         it prevents is worst on a phone. The flush above cannot rescue this
+         case -- it forces a recalculation, not a fetch. */
+    function canCrossFade() {
+      if (!document.startViewTransition) return false;
+      if (window.matchMedia("(prefers-reduced-motion: reduce)").matches) {
+        return false;
+      }
+      try {
+        if (!link.sheet || !link.sheet.cssRules.length) return false;
+      } catch (e) {
+        return false;
+      }
+      return true;
     }
 
     function ready() {
