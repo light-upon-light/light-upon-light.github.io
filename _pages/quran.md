@@ -233,7 +233,7 @@ share: true
 
 ---
 
-> *Note: These points are brief summaries. The links above provide useful starting points for further study and verification.*
+> *Note: The points on this page are deliberately brief. The links provided alongside are useful starting points for further study and verification.*
 
 ---
 
