@@ -300,12 +300,23 @@ the note above `#theme-toggle` for why one wedges at the old palette.
 
 `root` is the only participant. **Never give the toggles a
 `view-transition-name`** — a named element gets its geometry interpolated, which
-is precisely how the apparent sideways drift comes back. The
-`getBoundingClientRect()` flush belongs *inside* the callback, where it makes
-the recalc finish before the new snapshot is taken. Three gates fall back to an
-instant swap: no API, `prefers-reduced-motion`, and `link.sheet` not yet
+is precisely how the apparent sideways drift comes back. Three gates fall back
+to an instant swap: no API, `prefers-reduced-motion`, and `link.sheet` not yet
 parsed — that last one matters, since cross-fading light into light and landing
 the palette afterwards is worse than no animation at all.
+
+The theme's reset puts a bare `transition: 0.2s` — all properties — on `b, i,
+strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, a, tr,
+td, …`. Every one of those wedges on a palette change, so bold and italic text
+and `h1`/`h2`'s border-bottom used to arrive late and visibly slide out of the
+old palette *after* the cross-fade ended. (`hr` is absent from the theme's list,
+which is why it alone always changed cleanly — a useful tell.) `apply()`
+therefore hangs `.theme-switching` on `<html>`, which is `transition: none
+!important` on everything, forces the recalculation with
+`document.body.getBoundingClientRect()`, and takes the class off again — all in
+one tick, so the snapshot is entirely in the new palette and ordinary hover
+fades are untouched. **Anything that changes the palette must go through
+`apply()`**; a bare `setAttribute`/`media` flip reintroduces the lag.
 
 Skin colours are hardcoded from `_sass/minimal-mistakes/skins/_dirt.scss` — the
 theme exposes its palette as Sass variables, not CSS custom properties, so an
