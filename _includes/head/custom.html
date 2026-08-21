@@ -121,6 +121,18 @@
 
      Colours are hardcoded from the dirt skin, like everything else in this
      file; assets/css/dark.scss carries the dark values. */
+  /* No `transition` on `color` here, deliberately. Both buttons change colour
+     when the palette does -- and the palette changes by flipping the media
+     attribute on the dark.css <link>, not by any change to the element. Chrome
+     does not re-run a transition on a stylesheet activation change, so the
+     transition stays wedged at the *old* palette's value: after switching to
+     light mode the sun/moon kept painting dark mode's cream (reading as a
+     washed-out grey) and the text-size button kept dark mode's colour instead
+     of returning to #343434, until some unrelated recalculation -- a reload, a
+     scroll that re-laid out the masthead -- knocked it loose. Hover feedback
+     is instant instead, which is what the theme's own .search__toggle does.
+     Verified in the browser: forcing `transition: none` snapped both to the
+     correct colour immediately. */
   #theme-toggle {
     margin-inline-start: 0.1rem;
     margin-inline-end: 0.6rem;
@@ -133,7 +145,6 @@
     border: 0;
     outline: none;
     cursor: pointer;
-    transition: color 0.2s;
   }
 
   #theme-toggle:hover {
@@ -169,7 +180,6 @@
     border: 0;
     outline: none;
     cursor: pointer;
-    transition: color 0.2s;
   }
 
   #font-size-toggle:hover {
