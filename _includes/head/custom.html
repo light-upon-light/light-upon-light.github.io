@@ -100,17 +100,32 @@
   }
 
   /* The mode toggle in the masthead, styled to match the theme's adjacent
-     .search__toggle (height 2rem, borderless, $primary-color). No end margin,
-     so the search toggle's own 1rem is the whole gap between the pair rather
-     than 2rem of stacked margins.
+     .search__toggle (borderless, $primary-color) but with a 26px icon rather
+     than the theme's ~18px, so the glyph carries the control instead of
+     floating in it.
+
+     The horizontal box is built from `padding`, and deliberately NOT from a
+     `min-width`. A min-width wide enough to be a touch target (2.75rem) is far
+     wider than a 26px glyph, and the leftover is split by centring into dead
+     space on each side -- which lands *between* the two buttons and reads as
+     the gap between them. At 2.75rem that was 9px a side, so the visible
+     glyph-to-glyph gap was 9 + margins + 9 ≈ 24px, and shrinking the margins
+     barely moved it: they were only ~6px of the total. Padding puts that
+     number under direct control. `min-height` still carries the vertical
+     touch target on its own, giving ~36x44 -- comfortably past WCAG 2.5.8's
+     24x24 -- while keeping the pair visually tight.
+
+     The margin-end here is bigger than the gap within the pair, since when
+     site.search is off (no .search__toggle to supply its own 1rem gap) this
+     button would otherwise sit flush against the hamburger next to it.
 
      Colours are hardcoded from the dirt skin, like everything else in this
      file; assets/css/dark.scss carries the dark values. */
   #theme-toggle {
-    margin-inline-start: 1rem;
-    margin-inline-end: 0;
-    height: 2rem;
-    padding: 0;
+    margin-inline-start: 0.1rem;
+    margin-inline-end: 0.6rem;
+    min-height: 2.75rem;
+    padding: 0 0.3rem;
     display: flex;
     align-items: center;
     color: #343434;
@@ -136,16 +151,17 @@
     outline: none;
   }
 
-  /* Text-size toggle, styled identically to #theme-toggle just above and
-     placed right after it in the masthead. margin-inline-start gives it a
-     little daylight from #theme-toggle; no end margin, so (as with
-     #theme-toggle) the search toggle's own 1rem is the whole gap to
-     whichever control ends up next to it. */
+  /* Text-size toggle, sized identically to #theme-toggle just above -- see
+     there for why the horizontal box comes from padding and not a min-width.
+     Placed before it in the masthead (font, then appearance), so this one
+     carries the margin-start gap from the nav links, and the small
+     margin-end gap to #theme-toggle that keeps the pair close but
+     distinguishable as two separate buttons. */
   #font-size-toggle {
-    margin-inline-start: 0.5rem;
-    margin-inline-end: 0;
-    height: 2rem;
-    padding: 0;
+    margin-inline-start: 1rem;
+    margin-inline-end: 0.1rem;
+    min-height: 2.75rem;
+    padding: 0 0.3rem;
     display: flex;
     align-items: center;
     color: #343434;

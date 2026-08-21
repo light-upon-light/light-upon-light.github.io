@@ -1,6 +1,6 @@
 {%- comment -%}
   A local copy of minimal-mistakes 4.28.0's _includes/masthead.html, verbatim
-  except for the #theme-toggle and #font-size-toggle buttons below. The theme
+  except for the #font-size-toggle and #theme-toggle buttons below. The theme
   offers no hook inside the masthead, so overriding the whole file is the only
   way to put a control there. Injecting them with JavaScript (the way
   footer/custom.html builds the TOC drawer) would work, but the buttons would
@@ -12,7 +12,7 @@
   One knock-on: GreedyNav (assets/js/plugins/jquery.greedy-navigation.js)
   measures the space available for nav links by subtracting the site title and
   the search toggle from the nav width. It knows nothing about either button, so
-  it believes it has ~4.6rem more room than it does. Harmless while
+  it believes it has ~6.3rem more room than it does. Harmless while
   _data/navigation.yml holds a single short link — it cannot overflow at any
   width. Revisit if the nav grows.
 {%- endcomment -%}
@@ -42,33 +42,45 @@
           {%- endfor -%}
         </ul>
         {%- comment -%}
+          Article text-size toggle. A plain "small A / big A" glyph pair (no
+          state-swapped icon needed, since a single glyph already
+          communicates "make text bigger"), with aria-pressed and the label
+          kept in sync by the script in _includes/head/custom.html. Comes
+          before #theme-toggle so the two read left-to-right as "text, then
+          appearance."
+        {%- endcomment -%}
+        <button id="font-size-toggle" type="button" aria-pressed="false" aria-label="Switch to larger text size" title="Switch to larger text size">
+          <svg viewBox="0 0 24 24" width="26" height="26" aria-hidden="true" focusable="false">
+            <text x="1" y="16" font-size="11" font-family="Georgia, 'Times New Roman', serif" fill="currentColor">A</text>
+            <text x="10" y="19" font-size="17" font-family="Georgia, 'Times New Roman', serif" fill="currentColor">A</text>
+          </svg>
+        </button>
+        {%- comment -%}
           Light / dark toggle. The label and which of the two icons is shown are
           set by the script in _includes/head/custom.html, which has already run
           by the time this is parsed. Both are given here as a sane starting
           point for the no-JavaScript case, where the button is hidden anyway.
         {%- endcomment -%}
         <button id="theme-toggle" type="button" aria-label="Switch to dark mode" title="Switch to dark mode">
-          <svg class="theme-toggle__moon" viewBox="0 0 24 24" width="18" height="18" aria-hidden="true" focusable="false">
+          <svg class="theme-toggle__moon" viewBox="0 0 24 24" width="26" height="26" aria-hidden="true" focusable="false">
             <path d="M20.5 14.6A8.6 8.6 0 0 1 9.4 3.5a8.6 8.6 0 1 0 11.1 11.1Z"
                   fill="currentColor" />
           </svg>
-          <svg class="theme-toggle__sun" viewBox="0 0 24 24" width="18" height="18" aria-hidden="true" focusable="false">
-            <circle cx="12" cy="12" r="4.2" fill="currentColor" />
-            <path d="M12 1.8v2.6 M12 19.6v2.6 M1.8 12h2.6 M19.6 12h2.6 M4.8 4.8l1.9 1.9 M17.3 17.3l1.9 1.9 M19.2 4.8l-1.9 1.9 M6.7 17.3l-1.9 1.9"
+          {%- comment -%}
+            The sun's geometry is scaled to ~0.81 of the obvious "rays out to
+            the viewBox edge" layout, and deliberately so. The moon beside it
+            fills only ~17 of the 24 viewBox units, so at a shared width the
+            full-bleed sun painted 24.3px against the moon's 18px and overshot
+            the masthead's own .navicon (24x20) vertically. At these
+            coordinates it paints ~20px -- level with the navicon and the "AA"
+            -- without shrinking the <svg> box, which would have dragged the
+            moon down with it. stroke-width stays 2 so the rays keep the same
+            visual weight as the moon's solid fill.
+          {%- endcomment -%}
+          <svg class="theme-toggle__sun" viewBox="0 0 24 24" width="26" height="26" aria-hidden="true" focusable="false">
+            <circle cx="12" cy="12" r="3.4" fill="currentColor" />
+            <path d="M12 3.8v2.1 M12 18.1v2.1 M3.8 12h2.1 M18.1 12h2.1 M6.2 6.2l1.5 1.5 M16.3 16.3l1.5 1.5 M17.8 6.2l-1.5 1.5 M7.7 16.3l-1.5 1.5"
                   fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" />
-          </svg>
-        </button>
-        {%- comment -%}
-          Article text-size toggle. Same pattern as #theme-toggle just above:
-          a plain "small A / big A" glyph pair (no state-swapped icon needed,
-          since a single glyph already communicates "make text bigger"), with
-          aria-pressed and the label kept in sync by the script in
-          _includes/head/custom.html.
-        {%- endcomment -%}
-        <button id="font-size-toggle" type="button" aria-pressed="false" aria-label="Switch to larger text size" title="Switch to larger text size">
-          <svg viewBox="0 0 24 24" width="18" height="18" aria-hidden="true" focusable="false">
-            <text x="1" y="16" font-size="11" font-family="Georgia, 'Times New Roman', serif" fill="currentColor">A</text>
-            <text x="10" y="19" font-size="17" font-family="Georgia, 'Times New Roman', serif" fill="currentColor">A</text>
           </svg>
         </button>
         {% if site.search == true %}
