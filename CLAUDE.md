@@ -289,6 +289,14 @@ the floating ones on a dark translucent disc. The floating "large text is on"
 state uses `#d4a04a` in *both* palettes for that reason, so `dark.scss` needs
 nothing for it.
 
+`dark.css` re-imports the whole theme, so activating it invalidates every
+element on the page. Chrome spreads that recalc over several frames and paints
+each one, which tears the masthead — the icons swap a frame or two before the
+colours do, and the still buttons read as juddering sideways. The theme
+toggle therefore forces the recalc inside the click handler
+(`document.body.getBoundingClientRect()`) so the swap commits in one frame.
+Not a transition — see the note above `#theme-toggle` for why one wedges here.
+
 Skin colours are hardcoded from `_sass/minimal-mistakes/skins/_dirt.scss` — the
 theme exposes its palette as Sass variables, not CSS custom properties, so an
 include cannot read them. That path is inside the theme gem, not this repo
