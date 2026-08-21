@@ -297,11 +297,48 @@
      between the two palettes rather than belonging to either.
 
      No prefers-reduced-motion query here -- the script checks it and skips
-     the view transition entirely, so there is no animation to shorten. */
-  ::view-transition-old(root),
+     the view transition entirely, so there is no animation to shorten.
+
+     A DISSOLVE, NOT THE DEFAULT CROSS-FADE. The browser's own cross-fade
+     fades both snapshots at once and blends them with `mix-blend-mode:
+     plus-lighter` -- it ADDS the two layers. That exists so a cross-fade
+     between two nearly identical images does not dip darker through the
+     middle, and it is the right default. It is the wrong thing here,
+     because the two snapshots are not nearly identical: they are two
+     different palettes. Adding them lets a pixel land brighter than it is
+     in either one, and hairlines showed it worst -- the border under a
+     heading is 1px in light and 0.8px in dark, so the two snapshots put
+     slightly different anti-aliased coverage in the same row of pixels and
+     the sum blew out to white. Caught by freezing the transition 40ms in:
+     the rule under a heading, and the separators in the table of contents,
+     painted white, which is not a colour in either palette (light cream is
+     #e9dcbe, dark brown is #4a4238). That is what read as the lines "turning
+     white first, then fading to the right colour" on the way into dark mode.
+
+     So: hold the old snapshot still and fully opaque as the base, and fade
+     the new one in on top of it with normal blending. ::view-transition-new
+     already paints above ::view-transition-old, so this is an ordinary
+     dissolve -- every pixel moves straight from its old colour to its new
+     one and cannot overshoot past either. Replacing the animation on each
+     also drops the browser's -ua-mix-blend-mode-plus-lighter animation with
+     it; the explicit mix-blend-mode is belt and braces.
+
+     Total alpha stays 1 throughout, since the base layer never fades, so
+     this cannot reintroduce the mid-transition dip that plus-lighter is
+     there to prevent. */
+  ::view-transition-old(root) {
+    animation: none;
+    mix-blend-mode: normal;
+  }
+
   ::view-transition-new(root) {
-    animation-duration: 260ms;
-    animation-timing-function: ease;
+    animation: 260ms ease both theme-dissolve-in;
+    mix-blend-mode: normal;
+  }
+
+  @keyframes theme-dissolve-in {
+    from { opacity: 0; }
+    to { opacity: 1; }
   }
 
   /* Qur'anic Arabic (Uthmani script) shown alongside English translations */
