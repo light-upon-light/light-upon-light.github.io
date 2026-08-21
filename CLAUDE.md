@@ -291,11 +291,21 @@ nothing for it.
 
 `dark.css` re-imports the whole theme, so activating it invalidates every
 element on the page. Chrome spreads that recalc over several frames and paints
-each one, which tears the masthead — the icons swap a frame or two before the
-colours do, and the still buttons read as juddering sideways. The theme
-toggle therefore forces the recalc inside the click handler
-(`document.body.getBoundingClientRect()`) so the swap commits in one frame.
-Not a transition — see the note above `#theme-toggle` for why one wedges here.
+each one, which tore the masthead — the icons swapped a frame or two before the
+colours did, and the still buttons read as juddering sideways. The toggle
+therefore wraps the swap in `document.startViewTransition()`: those frames now
+happen behind a frozen snapshot, and the two snapshots cross-fade (260ms, set
+on `::view-transition-old/new(root)`). A CSS transition cannot do this — see
+the note above `#theme-toggle` for why one wedges at the old palette.
+
+`root` is the only participant. **Never give the toggles a
+`view-transition-name`** — a named element gets its geometry interpolated, which
+is precisely how the apparent sideways drift comes back. The
+`getBoundingClientRect()` flush belongs *inside* the callback, where it makes
+the recalc finish before the new snapshot is taken. Three gates fall back to an
+instant swap: no API, `prefers-reduced-motion`, and `link.sheet` not yet
+parsed — that last one matters, since cross-fading light into light and landing
+the palette afterwards is worse than no animation at all.
 
 Skin colours are hardcoded from `_sass/minimal-mistakes/skins/_dirt.scss` — the
 theme exposes its palette as Sass variables, not CSS custom properties, so an
