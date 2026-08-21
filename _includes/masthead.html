@@ -49,7 +49,7 @@
           before #theme-toggle so the two read left-to-right as "text, then
           appearance."
         {%- endcomment -%}
-        <button id="font-size-toggle" type="button" aria-pressed="false" aria-label="Switch to larger text size" title="Switch to larger text size">
+        <button id="font-size-toggle" class="font-size-toggle" type="button" aria-pressed="false" aria-label="Switch to larger text size" title="Switch to larger text size">
           <svg viewBox="0 0 24 24" width="26" height="26" aria-hidden="true" focusable="false">
             <text x="1" y="16" font-size="11" font-family="Georgia, 'Times New Roman', serif" fill="currentColor">A</text>
             <text x="10" y="19" font-size="17" font-family="Georgia, 'Times New Roman', serif" fill="currentColor">A</text>
@@ -61,7 +61,7 @@
           by the time this is parsed. Both are given here as a sane starting
           point for the no-JavaScript case, where the button is hidden anyway.
         {%- endcomment -%}
-        <button id="theme-toggle" type="button" aria-label="Switch to dark mode" title="Switch to dark mode">
+        <button id="theme-toggle" class="theme-toggle" type="button" aria-label="Switch to dark mode" title="Switch to dark mode">
           <svg class="theme-toggle__moon" viewBox="0 0 24 24" width="26" height="26" aria-hidden="true" focusable="false">
             <path d="M20.5 14.6A8.6 8.6 0 0 1 9.4 3.5a8.6 8.6 0 1 0 11.1 11.1Z"
                   fill="currentColor" />

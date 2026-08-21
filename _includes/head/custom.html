@@ -207,7 +207,7 @@
 
   /* Same no-JS story as #theme-toggle: without JavaScript there is no
      working toggle, so the button never appears. */
-  html:not(.js) #font-size-toggle {
+  html:not(.js) .font-size-toggle {
     display: none;
   }
 
@@ -217,20 +217,25 @@
      The inline script in this file sets data-theme before the masthead is
      parsed, so there is no frame where both are visible. Without JavaScript
      there is no data-theme and no working toggle, so the button is hidden
-     entirely — the theme puts the `js` class on <html> in its own head. */
-  #theme-toggle .theme-toggle__sun {
+     entirely — the theme puts the `js` class on <html> in its own head.
+
+     These four rules are class-scoped, not ID-scoped like the layout rules
+     above: the icon swap and the no-JS hide apply to BOTH copies of each
+     control, the masthead one and #floating-nav's. Layout and colour stay on
+     the IDs, since the two sit on completely different grounds. */
+  .theme-toggle .theme-toggle__sun {
     display: none;
   }
 
-  [data-theme="dark"] #theme-toggle .theme-toggle__sun {
+  [data-theme="dark"] .theme-toggle .theme-toggle__sun {
     display: block;
   }
 
-  [data-theme="dark"] #theme-toggle .theme-toggle__moon {
+  [data-theme="dark"] .theme-toggle .theme-toggle__moon {
     display: none;
   }
 
-  html:not(.js) #theme-toggle {
+  html:not(.js) .theme-toggle {
     display: none;
   }
 
@@ -987,12 +992,17 @@
       var mode = resolved();
       document.documentElement.setAttribute("data-theme", mode);
 
-      // not present yet on the first call — this runs before the masthead
-      var btn = document.getElementById("theme-toggle");
-      if (btn) {
-        var label = "Switch to " + (mode === "dark" ? "light" : "dark") + " mode";
-        btn.setAttribute("aria-label", label);
-        btn.setAttribute("title", label);
+      /* none present yet on the first call — this runs before the masthead.
+         There are two copies of this control (masthead and #floating-nav), so
+         every query here is querySelectorAll over the class, not
+         getElementById: label and title have to stay in sync on both, or
+         scrolling back up reveals a masthead button describing the old
+         state. */
+      var label = "Switch to " + (mode === "dark" ? "light" : "dark") + " mode";
+      var btns = document.querySelectorAll(".theme-toggle");
+      for (var i = 0; i < btns.length; i++) {
+        btns[i].setAttribute("aria-label", label);
+        btns[i].setAttribute("title", label);
       }
     }
 
@@ -1013,8 +1023,10 @@
     }
 
     function ready() {
-      var btn = document.getElementById("theme-toggle");
-      if (btn) btn.addEventListener("click", toggle);
+      var btns = document.querySelectorAll(".theme-toggle");
+      for (var i = 0; i < btns.length; i++) {
+        btns[i].addEventListener("click", toggle);
+      }
       apply();
     }
 
@@ -1080,14 +1092,16 @@
         document.documentElement.removeAttribute("data-font-size");
       }
 
-      // not present yet on the first call -- this runs before the masthead
-      var btn = document.getElementById("font-size-toggle");
-      if (btn) {
-        var large = resolved() === "large";
-        btn.setAttribute("aria-pressed", large ? "true" : "false");
-        var label = "Switch to " + (large ? "normal" : "larger") + " text size";
-        btn.setAttribute("aria-label", label);
-        btn.setAttribute("title", label);
+      /* none present yet on the first call -- this runs before the masthead.
+         Two copies again (masthead and #floating-nav); see the theme script
+         above for why this is a class query rather than an ID lookup. */
+      var large = resolved() === "large";
+      var label = "Switch to " + (large ? "normal" : "larger") + " text size";
+      var btns = document.querySelectorAll(".font-size-toggle");
+      for (var i = 0; i < btns.length; i++) {
+        btns[i].setAttribute("aria-pressed", large ? "true" : "false");
+        btns[i].setAttribute("aria-label", label);
+        btns[i].setAttribute("title", label);
       }
     }
 
@@ -1108,8 +1122,10 @@
     }
 
     function ready() {
-      var btn = document.getElementById("font-size-toggle");
-      if (btn) btn.addEventListener("click", toggle);
+      var btns = document.querySelectorAll(".font-size-toggle");
+      for (var i = 0; i < btns.length; i++) {
+        btns[i].addEventListener("click", toggle);
+      }
       apply();
     }
 
