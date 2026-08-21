@@ -298,6 +298,20 @@ happen behind a frozen snapshot, and the two snapshots cross-fade (260ms, set
 on `::view-transition-old/new(root)`). A CSS transition cannot do this — see
 the note above `#theme-toggle` for why one wedges at the old palette.
 
+It is a **dissolve, not the browser's cross-fade**. The default fades both
+snapshots at once under `mix-blend-mode: plus-lighter`, which *adds* the two
+layers — right for two near-identical images, wrong for two palettes, because a
+pixel can land brighter than it is in either. Hairlines showed it worst: a
+heading's border is 1px light and 0.8px dark, so the anti-aliased coverage
+differs and the sum blew out to white going into dark mode. So
+`::view-transition-old(root)` gets `animation: none` and holds still as an
+opaque base while `::view-transition-new(root)` fades in on top with normal
+blending — monotonic per pixel, and total alpha stays 1, so the dip
+`plus-lighter` exists to prevent cannot come back. Replacing the animations also
+drops the UA's `-ua-mix-blend-mode-plus-lighter`. To check this kind of thing,
+freeze it: `await t.ready`, then set `currentTime` on the `::view-transition-*`
+animations from `document.getAnimations()` and screenshot.
+
 `root` is the only participant. **Never give the toggles a
 `view-transition-name`** — a named element gets its geometry interpolated, which
 is precisely how the apparent sideways drift comes back. Three gates fall back
