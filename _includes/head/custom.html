@@ -239,6 +239,44 @@
     display: none;
   }
 
+  /* Palette-swap guard. The script below hangs this class on <html> for the
+     duration of the swap and takes it off again in the same tick.
+
+     The theme's own reset carries a bare `transition: 0.2s` -- every
+     property, not a named one -- on this list:
+
+       b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2,
+       header, input, a, tr, td, form button, input[type="submit"], .btn,
+       .highlight, .archive__item-teaser
+
+     which is bold, italic, body text, and headings. Those transitions can
+     never work across a palette change, for the reason written up above
+     #theme-toggle: the swap flips the media attribute on the dark.css
+     <link>, and Chrome does not start a transition on a stylesheet
+     activation change. So the colour sat wedged at the OLD palette until
+     some later recalculation knocked it loose, and then it ran its 0.2s
+     fade -- after the cross-fade had already finished. Bold and italic text
+     arrived late and visibly slid from the previous palette's colour into
+     the right one, and h1/h2's border-bottom -- the page-wide rule under a
+     title -- did the same. `hr` is absent from the theme's list, which is
+     why it was the one line that always changed cleanly.
+
+     Suppressing the transitions while the new palette is forced through
+     means the values land instantly, so the view transition snapshots a
+     page that is entirely in the new palette. Scoped to the swap rather
+     than declared globally so that hover and focus fades, which the same
+     0.2s covers and which work fine, are left alone. Taking the class off
+     afterwards animates nothing: every property is already at its target.
+
+     !important and the universal selector because this has to beat whatever
+     the theme, dark.scss, or this file declare on any element. */
+  html.theme-switching,
+  html.theme-switching *,
+  html.theme-switching *::before,
+  html.theme-switching *::after {
+    transition: none !important;
+  }
+
   /* The light/dark cross-fade. The toggle in this file's script wraps the
      palette swap in document.startViewTransition(), which snapshots the
      viewport before and after and animates between the two; this only sets
@@ -1010,6 +1048,19 @@
     }
 
     function apply() {
+      var root = document.documentElement;
+
+      /* Force the new palette through with the theme's `transition: 0.2s`
+         switched off -- see the .theme-switching rules in the <style> above
+         for what that reset covers and why a transition can never survive a
+         stylesheet activation change. On and off within this one function,
+         so nothing else ever sees the class.
+
+         Every caller is guarded, not just the click: apply() also runs when
+         prefers-color-scheme flips under a reader who is following the
+         system, and that path wedges exactly the same way. */
+      root.classList.add("theme-switching");
+
       // with no explicit choice, leave the media query in place and let the
       // stylesheet keep tracking the system by itself
       link.media = stored === null ? SYSTEM_MEDIA
@@ -1017,7 +1068,7 @@
                  : "not all";
 
       var mode = resolved();
-      document.documentElement.setAttribute("data-theme", mode);
+      root.setAttribute("data-theme", mode);
 
       /* none present yet on the first call — this runs before the masthead.
          There are two copies of this control (masthead and #floating-nav), so
@@ -1031,6 +1082,17 @@
         btns[i].setAttribute("aria-label", label);
         btns[i].setAttribute("title", label);
       }
+
+      /* Read a layout property to make the recalculation happen HERE, while
+         the guard above is still on and before the browser can paint or the
+         view transition can snapshot. Null on the first call: this script
+         runs in <head>, so there is no body yet -- and no rendering to
+         protect either. */
+      if (document.body) document.body.getBoundingClientRect();
+
+      /* Safe to restore: every property is already at its new value, so
+         there is nothing left for a transition to animate. */
+      root.classList.remove("theme-switching");
     }
 
     apply();
@@ -1073,21 +1135,15 @@
          bbox is identical across the swap. Under a view transition those
          frames happen behind a frozen snapshot, so none of them is seen.
 
-         The getBoundingClientRect() sits INSIDE the callback deliberately:
-         it forces the recalc to finish before the API snapshots the new
-         state, so the outgoing frame is fully light and the incoming one
-         fully dark. Outside the callback it would flush the old state and
-         achieve nothing.
+         apply() does its own guarded flush, which is what makes this work:
+         the recalculation finishes inside the callback, so the API snapshots
+         a page already fully in the new palette rather than one still
+         carrying wedged transition values.
 
          Deliberately root-only -- see the ::view-transition rules in the
          <style> above. */
-      function commit() {
-        apply();
-        document.body.getBoundingClientRect();
-      }
-
-      if (canCrossFade()) document.startViewTransition(commit);
-      else commit();
+      if (canCrossFade()) document.startViewTransition(apply);
+      else apply();
     }
 
     /* Three ways to end up on the plain, instant path instead, all of them
