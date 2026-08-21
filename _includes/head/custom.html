@@ -147,8 +147,16 @@
     cursor: pointer;
   }
 
+  /* Hover goes *darker* than the resting colour, matching the theme's own
+     .search__toggle:hover (#272727) sitting next to these in the masthead.
+     #8e8b82 was lighter than #343434, so on a light ground the control faded
+     on hover instead of firming up, and -- since the :hover rule and the
+     [aria-pressed="true"] rule below have equal specificity -- an unpressed
+     text-size button under the pointer read as a washed-out grey rather than
+     returning to black. assets/css/dark.scss does the mirror-image thing on a
+     dark ground, lightening cream towards white. */
   #theme-toggle:hover {
-    color: #8e8b82;
+    color: #272727;
   }
 
   /* This button (and #floating-nav's, in footer/custom.html) is plain HTML
@@ -183,7 +191,7 @@
   }
 
   #font-size-toggle:hover {
-    color: #8e8b82;
+    color: #272727;
   }
 
   #font-size-toggle:focus:not(:focus-visible) {
