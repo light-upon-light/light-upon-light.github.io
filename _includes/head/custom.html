@@ -1020,23 +1020,43 @@
      Same shape as the dark-mode script above, deliberately: an explicit
      choice lives in localStorage under its own key, is mirrored onto
      documentElement as [data-font-size="large"] (which the CSS in this file
-     reads), and the button's aria-pressed/label are kept in sync. Unlike
-     dark mode there is no "follow the system" state to fall back to --
-     large text is either on or off -- so this stays deliberately simpler:
-     no matchMedia listener, no third "null tracks something else" case
-     beyond "not stored". -->
+     reads), and the button's aria-pressed/label are kept in sync.
+
+     Unlike dark mode's light/dark split, there IS a "follow the system"
+     state to fall back to here too -- it just isn't prefers-color-scheme.
+     With no explicit choice stored, the default follows viewport width:
+     large on phone, normal on desktop, split at the same 64em breakpoint
+     the rest of the site already treats as the mobile/desktop line (see
+     isSidebarLayout in footer/custom.html and the TOC media query above).
+     Reasoning is the mirror image of prose readability on a small screen:
+     the shrink in this file's .page__content rule was chosen to fit more
+     of an article per desktop viewport, which is the opposite problem on
+     a phone, where there is little screen to fit more onto and small type
+     is the harder read. Picking the size the viewport already defaults to
+     clears the stored value, exactly like the theme toggle. -->
 <script>
   (function () {
     var KEY = "fontSize";
+    var MOBILE_MEDIA = "(max-width: 63.9375em)";
+
+    var mobile = window.matchMedia(MOBILE_MEDIA);
 
     var stored = null;
     try {
       stored = window.localStorage.getItem(KEY);
     } catch (e) {}
-    if (stored !== "large") stored = null;
+    if (stored !== "large" && stored !== "normal") stored = null;
+
+    function systemDefault() {
+      return mobile.matches ? "large" : "normal";
+    }
+
+    function resolved() {
+      return stored || systemDefault();
+    }
 
     function apply() {
-      if (stored === "large") {
+      if (resolved() === "large") {
         document.documentElement.setAttribute("data-font-size", "large");
       } else {
         document.documentElement.removeAttribute("data-font-size");
@@ -1045,7 +1065,7 @@
       // not present yet on the first call -- this runs before the masthead
       var btn = document.getElementById("font-size-toggle");
       if (btn) {
-        var large = stored === "large";
+        var large = resolved() === "large";
         btn.setAttribute("aria-pressed", large ? "true" : "false");
         var label = "Switch to " + (large ? "normal" : "larger") + " text size";
         btn.setAttribute("aria-label", label);
@@ -1056,11 +1076,16 @@
     apply();
 
     function toggle() {
-      stored = stored === "large" ? null : "large";
+      var next = resolved() === "large" ? "normal" : "large";
+      // picking the size the viewport already defaults to means going back
+      // to following it, rather than pinning the same value forever
+      stored = next === systemDefault() ? null : next;
+
       try {
         if (stored === null) window.localStorage.removeItem(KEY);
         else window.localStorage.setItem(KEY, stored);
       } catch (e) {}
+
       apply();
     }
 
@@ -1074,6 +1099,13 @@
       document.addEventListener("DOMContentLoaded", ready);
     } else {
       ready();
+    }
+
+    // only matters while following the viewport default, but apply() is cheap
+    if (mobile.addEventListener) {
+      mobile.addEventListener("change", apply);
+    } else if (mobile.addListener) {
+      mobile.addListener(apply); // Safari < 14
     }
   })();
 </script>
