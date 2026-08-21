@@ -271,9 +271,23 @@ changes.
 
 Anything that needs to be *in* `<body>` goes in `_includes/footer/custom.html`,
 the theme's other hook. `#floating-nav` lives there — markup, style, and script
-together — holding `#toc-toggle` above `#back-to-top`. Both appear once the
-reader is one viewport down and are hidden at `64em` and up, where the theme's
-sticky TOC sidebar is already on screen.
+together — as two clusters in one column: navigation (`#prev-section`,
+`#next-section`, `#toc-toggle`, `#back-to-top`), then, after a wider gap, the
+appearance pair (`#floating-font-size-toggle`, `#floating-theme-toggle`). Only
+the drawer pieces are hidden at `64em` and up, where the theme's sticky TOC
+sidebar is already on screen; the rest stays.
+
+The appearance pair duplicates the masthead's two controls, which have scrolled
+away by the time `#floating-nav` appears. **Two copies, one state**: IDs differ,
+classes (`.font-size-toggle`, `.theme-toggle`) are shared. The scripts in
+`head/custom.html` bind and sync `aria-pressed`/`aria-label`/`title` with
+`querySelectorAll` over the class — an `getElementById` there silently leaves
+the other copy describing the old state. CSS splits the same way: the icon swap
+and the no-JS hide are class-scoped so they cover both, while layout and colour
+stay ID-scoped, since the masthead copies sit transparent on the page ground and
+the floating ones on a dark translucent disc. The floating "large text is on"
+state uses `#d4a04a` in *both* palettes for that reason, so `dark.scss` needs
+nothing for it.
 
 Skin colours are hardcoded from `_sass/minimal-mistakes/skins/_dirt.scss` — the
 theme exposes its palette as Sass variables, not CSS custom properties, so an
