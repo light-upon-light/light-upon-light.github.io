@@ -23,7 +23,7 @@ share: true
 
 ## Overview
 
-Everything on the [Qur'an page](/quran) was recited by **one man** who could **neither read nor write**, over twenty-three years in seventh-century Arabia. The Qur'an cannot be separated from the life of the man who delivered it, and that life is documented in unusual detail by his followers, family, servants, and enemies.
+Everything on the [Qur'an page](/quran) was recited by **one man** who could **neither read nor write**, over twenty-three years in seventh-century Arabia. The **Qur'an cannot be separated** from the **life of the man who delivered it**, and that life is **documented in unusual detail** by his followers, family, servants, and enemies. And when his life, teachings, character, sacrifices, and actions are examined in full, the evidence overwhelmingly points to one conclusion: **Prophet Muhammad** ﷺ was what he claimed to be—**a true prophet of God**.
 
 ## Muhammad ﷺ: His Teachings, Character, Life, and the Case for His Prophethood
 
