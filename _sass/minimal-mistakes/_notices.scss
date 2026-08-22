@@ -1,0 +1,143 @@
+/* ==========================================================================
+   NOTICE TEXT BLOCKS
+   ========================================================================== */
+
+/**
+ *  Default Kramdown usage (no indents!):
+ *  <div class="notice" markdown="1">
+ *  #### Headline for the Notice
+ *  Text for the notice
+ *  </div>
+ */
+
+@mixin notice($notice-color, $notice-key: "default") {
+  margin: 2em 0 !important;  /* override*/
+  padding: 1em;
+  color: $text-color;
+  font-family: $global-font-family;
+  font-size: $type-size-6 !important;
+  text-indent: initial; /* override*/
+  @if type-of($background-color) == color and type-of($notice-color) == color {
+    background-color: mix($background-color, $notice-color, $notice-background-mix);
+  } @else {
+    /* $background-color (always) and/or $notice-color (notice--primary only)
+       is a CSS custom property under the var()-ified dirt skin — fall back
+       to the mix() precomputed per notice variant against dirt's actual
+       palette. */
+    background-color: var(--mm-notice-bg-#{$notice-key});
+  }
+  border-radius: $border-radius;
+  @if type-of($notice-color) == color {
+    box-shadow: 0 1px 1px rgba($notice-color, 0.25);
+  } @else {
+    box-shadow: 0 1px 1px var(--mm-primary-color-alpha-25);
+  }
+
+  h4 {
+    margin-top: 0 !important; /* override*/
+    margin-bottom: 0.75em;
+    line-height: inherit;
+  }
+
+  @at-root .page__content #{&} h4 {
+    /* using at-root to override .page-content h4 font size*/
+    margin-bottom: 0;
+    font-size: 1em;
+  }
+
+  p {
+    &:last-child {
+      margin-bottom: 0 !important; /* override*/
+    }
+  }
+
+  h4 + p {
+    /* remove space above paragraphs that appear directly after notice headline*/
+    margin-top: 0;
+    padding-top: 0;
+  }
+
+  a {
+    @if type-of($notice-color) == color {
+      color: mix(#000, $notice-color, 10%);
+    } @else {
+      color: var(--mm-primary-color-h00010);
+    }
+
+    &:hover {
+      @if type-of($notice-color) == color {
+        color: mix(#000, $notice-color, 50%);
+      } @else {
+        color: var(--mm-primary-color-h00050);
+      }
+    }
+  }
+
+  @at-root #{selector-unify(&, "blockquote")} {
+    @if type-of($notice-color) == color {
+      border-inline-start-color: mix(#000, $notice-color, 10%);
+    } @else {
+      border-inline-start-color: var(--mm-primary-color-h00010);
+    }
+  }
+
+  code {
+    @if type-of($background-color) == color and type-of($notice-color) == color {
+      background-color: mix($background-color, $notice-color, $code-notice-background-mix)
+    } @else {
+      background-color: var(--mm-code-notice-bg-#{$notice-key})
+    }
+  }
+
+	pre code {
+		background-color: inherit;
+	}
+
+  ul {
+    &:last-child {
+      margin-bottom: 0; /* override*/
+    }
+  }
+}
+
+/* Default notice */
+
+.notice,
+.markdown-alert {
+  @include notice($light-gray, "default");
+}
+
+/* Primary notice */
+
+.notice--primary,
+.markdown-alert-important {
+  @include notice($primary-color, "primary");
+}
+
+/* Info notice */
+
+.notice--info,
+.markdown-alert-note {
+  @include notice($info-color, "info");
+}
+
+/* Warning notice */
+
+.notice--warning,
+.markdown-alert-warning {
+  @include notice($warning-color, "warning");
+}
+
+/* Success notice */
+
+.notice--success,
+.markdown-alert-tip {
+  @include notice($success-color, "success");
+}
+
+/* Danger notice */
+
+.notice--danger,
+.markdown-alert-caution {
+  @include notice($danger-color, "danger");
+}
