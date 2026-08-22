@@ -43,6 +43,8 @@ share: true
     {% include yt-embed.html url="https://youtu.be/abzZL_3Av2E" title="Linguistic Miracle of the Qur'an" %}
 
     {% include yt-embed.html url="https://youtu.be/vady0SQGHCU" title="Incredible Word Patterns found in the Quran" %}
+
+    {% include yt-embed.html url="https://youtu.be/phO4YyNJ244" title="The Amazonian Tribe That Accidentally Proved the Quran is Unmatched | Arabic101" %}
 1. Belongs to **neither poetry nor prose**, but to a **unique form of its own** that combines rhythmic beauty with precision of meaning.
 1. Maintains the same **literary quality across all 23 years** of revelation, unlike human authors whose style normally changes over a career.
 1. It became the **reference text for Arabic grammar itself**. When grammarians recorded the language's rules, they treated the Qur'an as a standard of correct Arabic because it contains **no linguistic errors**. Fourteen centuries of scrutiny have **turned up no error in it**.
@@ -56,6 +58,8 @@ share: true
     {% include yt-embed.html url="https://youtu.be/2iiGZlyDOXk" title="Mind Blowing Symmetry in Quran Pages! - The Miracle You’ll Hear for the First Time!" %}
 
     {% include yt-embed.html url="https://youtu.be/b5Y5gMc_XZo" title="THE RING COMPOSITION! - Remarkable Structure of the Quran" %}
+
+    {% include yt-embed.html url="https://youtu.be/eLaWEciecTc" title="Miracle of Surah Yusuf | Linguistic Miracle - Nouman Ali Khan" %}
 1. Its chapters can be **read in any order** without losing the book's coherence or guidance, unlike an ordinary narrative.
 1. It **challenged the Arabs** to match it when their command of Arabic was at its height. They had both the **skill** to answer and every **motive** to do so.
     > The Qur'an was revealed in an era when the **Arabs** had reached the very **summit of Arabic** language eloquence and rhetoric. **Poetry** was not mere entertainment; it was the **lifeblood of their culture**, the **measure of honor**, and even a **weapon in war**—tribes would settle disputes or ignite battles through verses. In this context, where **pride in language** was unrivaled and **mastery of Arabic** expression was their greatest art, the **Qur'an openly challenged** them to produce anything like it. Despite their unmatched command of Arabic and every worldly motive to discredit the Prophet ﷺ, they were unable to respond, and **their failure** itself became a **perpetual testimony** to the **Qur'an's inimitability**.
@@ -78,7 +82,8 @@ share: true
 
     {% include yt-embed.html url="https://youtu.be/_HlpfgaDATU" title="Conquering Doubts & Confidently Defending Islam | Ali Ataie" note="The whole of this video is great" %}
 
-1. **Flows naturally** and is **beautifully melodic**, with a **profound effect on the heart**. Even without knowing the meaning of the words, people who do not understand Arabic often weep while listening to it being recited.
+1. **Flows naturally** and is **beautifully melodic**, with a **profound effect on the heart**. Even without knowing the meaning of the words, people who do not understand Arabic often weep while listening to it being recited or describe that they are overcome with a surreal feeling of peace and tranquility.
+    > "The inimitability of the Qur’an has yet another dimension, one which people tend to overlook, and is unrecognized except by a sparse few—namely what it generates in the hearts and impresses onto the souls. Aside from the Qur’an, you do not hear of any discourse, neither poetry nor prose, that upon reaching one’s ears provides such immediate pleasure and sweetness, and at other times such awe and intimidation, like the Qur’an does."
 
 ### <span class="num-roman">III.</span> Challenges and Bold Claims
 {: #challenges-and-bold-claims }
@@ -136,13 +141,13 @@ share: true
     {% include yt-embed.html url="https://youtu.be/DoP6Ft-VE70" title="Are there scientific miracles in the Qur'an?" %}
 1. Gives **strikingly accurate historical detail**, some of which was confirmed only by modern scholarship.
     {% include yt-embed.html url="https://youtu.be/c2ovILc_sKY" title="The Qur'an and the Secrets of Egypt" %}
-1. Retells narratives shared with the Bible while **correcting their historical errors** rather than repeating them.
+1. Retells narratives shared with the Bible while **correcting their historical/theological errors** rather than repeating them.
     > Examples include the different titles used for the ruler in the accounts of Moses and Joseph, and the Qur'an's description of the Israelites as a small group at the exodus.
     {: .gloss }
 
-    {% include yt-embed.html url="https://youtu.be/lEc_ilaHim8" title="Stories of the Prophets: Bible vs. Qur'an" %}
-
     {% include yt-embed.html url="https://youtu.be/c2ovILc_sKY" title="The Qur'an and the Secrets of Egypt" %}
+
+    {% include yt-embed.html url="https://youtu.be/lEc_ilaHim8" title="Stories of the Prophets: Bible vs. Qur'an" %}
 1. Contains **astonishing mathematical structures** across the text: word counts, symmetries, and correspondences that extend through the whole book.
     > This subject is especially vulnerable to careless claims. Many popular examples depend on selective or inconsistent counting and fail when checked. The first link below offers a more measured treatment.
     {: .gloss }
@@ -150,6 +155,8 @@ share: true
     {% include yt-embed.html url="https://youtu.be/QC3sDbVcAbw" title="Mathematical Miracles in the Qur'an: A Measured Approach" %}
 
     {% include yt-embed.html url="https://youtu.be/11dDOBdQobQ" title="The Numerical Miracles in the Quran | Arabic101" %}
+
+    {% include yt-embed.html url="https://youtu.be/2iiGZlyDOXk" title="Hidden Visual Patterns in the Quran" %}
 1. Uses **words from other languages**, including Hebrew, precisely where the meaning in *that* language is being expressed. **Prophet Muhammad ﷺ spoke none of them**, and recognizing such wordplay requires command of both languages.
     {% include yt-embed.html url="https://youtu.be/wA4v8MrBHHc" title="The Hebrew word that PROVED that the Qur'an is from Allah" %}
 
@@ -167,6 +174,8 @@ share: true
     {% include yt-embed.html url="https://youtu.be/zbM7qpBe5DM" title="There are No Holes in the Qur'anic Narrative | Dr. Ali Ataie" %}
 
     {% include yt-embed.html url="https://youtu.be/n281Zyywyn4" title="How To Prove The Qur'an Has Been Preserved Accurately" %}
+
+    {% include yt-embed.html url="https://youtu.be/WL2hDhkYoao" title="The Book Without Doubt - Preservation of the Quran" %}
 1. **Easily memorized.** Memorizing all 600+ pages is common among Muslims, and **millions of people alive today** know the **entire text word for word**.
     > The majority of memorizers are not native Arabic speakers. Arabic isn't the first language of roughly 80% of Muslims today.
     {: .gloss }
@@ -275,6 +284,8 @@ The **section about the Prophet Muhammad** ﷺ has moved to its own **page linke
 
     {% include yt-embed.html url="https://youtu.be/VjIL0Gio4yA" title="Millenials are returning to God - Here's why | Blogging Theology" %}
 
+    {% include yt-embed.html url="https://youtu.be/EQsKDZzd7U8" title="The World’s Leading Atheist Admitted: God Exists" %}
+
 - Are love and mercy really Islam's central message?
     {% include yt-embed.html url="https://youtu.be/KQFrovc_1G0" title="The Power of Love | Al-Habib Ali Al-Jifri" note="turn on English captions" %}
 
@@ -301,7 +312,7 @@ The **section about the Prophet Muhammad** ﷺ has moved to its own **page linke
     {% include yt-embed.html url="https://youtu.be/_mZgSIlX20U" title="Did Muhammad ﷺ really exist? | Blogging Theology" %}
 
 - How were the Prophet's ﷺ own life and sayings preserved? (This is also discussed in the [The Messenger of God ﷺ](/messenger) page)
-    > [How the Record Was Kept](#how-the-record-was-kept) — the chains of transmission, narrator biographies, report grading, and published catalogues of forgeries
+    > [How the Record Was Kept](/messenger#how-the-record-was-kept) — the chains of transmission, narrator biographies, report grading, and published catalogues of forgeries
 
     > [Blind Spots: The Origins of the Western Method of Critiquing Hadith \| Dr. Jonathan Brown](https://yaqeeninstitute.org/read/paper/blind-spots-the-origins-of-the-western-method-of-critiquing-hadith)
 
