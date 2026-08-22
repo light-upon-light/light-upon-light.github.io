@@ -1279,17 +1279,15 @@
      dark colors come for free from the var(--mm-link-color) family in
      _sass/minimal-mistakes/skins/_dirt.scss -- see _pages citation markup).
      vertical-align/font-size aren't colors, so nothing further is needed for
-     either mode. */
+     either mode. The markup butts the marker directly against the preceding
+     word with no source space (e.g. "together**.[1](#ref-1)..."), so without
+     a small gap the superscript reads as stuck to the last letter/punctuation
+     it follows. This same margin also separates stacked markers -- adjacent
+     links with nothing between them, e.g. "42" next to "12" -- from reading
+     as the single number "4212". */
   a.footnote {
     vertical-align: super;
     font-size: 0.75em;
-  }
-
-  /* Citations are sometimes stacked (e.g. a hadith cited alongside its
-     commentary and a secondary source) as adjacent links with nothing
-     between them, so "42" and "12" would read as the single number "4212"
-     without a small gap. */
-  a.footnote + a.footnote {
     margin-inline-start: 0.2em;
   }
 
