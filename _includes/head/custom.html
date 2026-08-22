@@ -1069,6 +1069,12 @@
     var link = document.getElementById("theme-dark-css");
     var system = window.matchMedia(SYSTEM_MEDIA);
 
+    /* null = not measured yet, and treated as "no" by canCrossFade(). See
+       apply() for how it is filled in and why it is measured, not assumed. */
+    var paletteIsSynchronous = null;
+    var swapToken = 0;
+    var swapFrames = 0;
+
     // null means "follow the system"; localStorage throws in some privacy modes
     var stored = null;
     try {
@@ -1100,9 +1106,11 @@
 
       // with no explicit choice, leave the media query in place and let the
       // stylesheet keep tracking the system by itself
-      link.media = stored === null ? SYSTEM_MEDIA
-                 : stored === "dark" ? "all"
-                 : "not all";
+      var media = stored === null ? SYSTEM_MEDIA
+                : stored === "dark" ? "all"
+                : "not all";
+      var flipped = link.media !== media;
+      link.media = media;
 
       var mode = resolved();
       root.setAttribute("data-theme", mode);
@@ -1120,49 +1128,84 @@
         btns[i].setAttribute("title", label);
       }
 
-      /* Read a layout property to make the recalculation happen HERE, while
-         the guard above is still on and before the browser can paint or the
-         view transition can snapshot. Null on the first call: this script
-         runs in <head>, so there is no body yet -- and no rendering to
-         protect either. */
-      if (document.body) document.body.getBoundingClientRect();
+      /* Force the recalculation now, then hold the guard until the new
+         palette is actually in effect -- however many frames that takes.
 
-      /* Drop the guard two frames later rather than on the next line.
+         Not the same thing. Reading a layout property resolves style that
+         is already pending; re-evaluating which stylesheets apply after a
+         media attribute changed is a separate piece of work, and an engine
+         may leave it for a later frame. Blink and WebKit 26.5 do it here.
+         iOS does not: measured on an iPhone, the palette was still the old
+         one two frames after the swap, by which point an earlier version of
+         this had already restored transitions -- so 148 of them fired and
+         animated every colour from the old palette to the new one. That is
+         what "the bold text is delayed" and "the rule turns white first"
+         were. A pale cream rule left on a background that has already gone
+         dark reads as white; dark brown left on a light background reads as
+         black. Stale colour against a changed ground, not a blend.
 
-         HARDENING, not a fix for a reproduced failure -- be honest about
-         that if this ever needs revisiting. Forcing layout resolves style
-         that is already pending; re-evaluating which stylesheets apply
-         after a media attribute changes is arguably a separate step, and
-         an engine would be within its rights to leave it to the next
-         frame. If one did, the palette would land after the guard came
-         off, the transitions would fire, and the old colours would slide
-         into the new ones -- bold and italic arriving late, and a heading
-         rule still carrying the previous palette over the new background,
-         where pale cream reads as white and dark brown reads as black.
+         So do not count frames -- watch for the thing itself. Computed
+         `color-scheme` on the root is exactly the right sentinel and costs
+         no new markup: the <style> above sets it to `light` on :root and
+         dark.css sets it to `dark`, so it flips precisely when that sheet
+         starts or stops applying, in both directions.
 
-         That failure was reported on iOS, where every browser including
-         Chrome runs the system WebKit. It could NOT be reproduced here:
-         measured synchronous on Blink, and on WebKit 26.5 via Playwright
-         the values land in the same tick without this. So the deferral is
-         a plausible mechanism, not a demonstrated one, and iOS ships
-         whatever WebKit its OS version carries -- older than 26.5 and not
-         testable from a Windows checkout.
+         The cap is there so that a sentinel that never matches -- someone
+         edits one of those two declarations away -- degrades to restoring
+         transitions a second late, rather than suppressing them forever.
+         The extra frame after it lands lets the new values paint before
+         transitions come back, so nothing has an old value to animate from.
 
-         Kept because the cost is nil: the class only suppresses
-         transitions, so waiting two frames means a hover fade begun in
-         that window snaps instead of easing. Deliberately NOT done by
-         returning a promise from the view transition callback -- rendering
-         is suppressed while that callback runs, and a frame callback that
-         never fires would hang the swap. */
-      if (window.requestAnimationFrame) {
-        requestAnimationFrame(function () {
-          requestAnimationFrame(function () {
-            root.classList.remove("theme-switching");
-          });
-        });
-      } else {
+         The token makes a fast second toggle safe: only the most recent
+         swap is allowed to lift the guard, or an earlier loop finishing
+         late would uncover a swap still in progress. */
+      if (!document.body || !window.requestAnimationFrame) {
         root.classList.remove("theme-switching");
+        return;
       }
+
+      document.body.getBoundingClientRect();
+
+      /* Whether that forced read was enough is not a fact about the browser
+         name, so it is measured rather than assumed -- and only when the
+         media attribute actually changed, since an apply() that changes
+         nothing would trivially "match" and prove nothing. canCrossFade()
+         reads it: an engine that resolves the palette late would have the
+         view transition snapshot the OLD palette as its "new" state and
+         cross-fade two identical frames, then pop. Unknown counts as
+         deferred, so the first swap of a session is always instant and the
+         broken variant is never shown. */
+      if (flipped) {
+        /* Sticky once false. The two directions are not symmetric --
+           measured on WebKit, dropping the sheet (to light) resolves
+           immediately while bringing it in (to dark) is deferred, which is
+           why light-to-dark was the direction that misbehaved. Taking each
+           swap's reading at face value would let a clean dark-to-light
+           measurement re-enable the cross-fade for the very next
+           light-to-dark swap, i.e. exactly the case that cannot do it. One
+           deferred observation disables it for the session. */
+        var landedNow = getComputedStyle(root).colorScheme === mode;
+        paletteIsSynchronous =
+          paletteIsSynchronous === false ? false : landedNow;
+      }
+
+      var token = ++swapToken;
+      var waited = 0;
+
+      (function settle() {
+        if (token !== swapToken) return;
+
+        if (getComputedStyle(root).colorScheme === mode || waited >= 60) {
+          swapFrames = waited;
+          requestAnimationFrame(function () {
+            if (token === swapToken) root.classList.remove("theme-switching");
+          });
+          return;
+        }
+
+        waited++;
+        requestAnimationFrame(settle);
+      })();
     }
 
     apply();
@@ -1246,7 +1289,15 @@
       } catch (e) {
         return false;
       }
-      return true;
+      /* Fourth gate, and the reason the first swap of a session never
+         animates: on an engine that resolves a stylesheet media change a
+         frame or more later, the API would snapshot the OLD palette as the
+         "new" state, cross-fade two identical frames, and let the real
+         palette appear afterwards -- a delay in front of the abrupt change,
+         which is worse than no animation. apply() measures this the first
+         time the media attribute actually changes; until then it is null
+         and this returns false. */
+      return paletteIsSynchronous === true;
     }
 
     function ready() {
@@ -1370,5 +1421,6 @@
     }
   })();
 </script>
+
 
 <!-- end custom head snippets -->
