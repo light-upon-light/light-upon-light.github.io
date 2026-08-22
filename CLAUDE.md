@@ -341,13 +341,19 @@ toggle can't be uncovered by an older loop) and lifts the guard one frame after
 it matches. The invariant to test: **whenever `.theme-switching` is off,
 `data-theme` must equal computed `color-scheme`.**
 
-The two directions are not symmetric — dropping the sheet resolves immediately,
-bringing it in may not — and it varies run to run, so the cross-fade gate is
-*measured, never assumed*: `apply()` records whether the palette landed
-synchronously, sticky-false once seen deferred, and `canCrossFade()` needs
-`true`. Unknown counts as deferred, so **the first swap of a session is always
-instant** — deliberate, because cross-fading two identical frames and then
-popping is worse than not animating.
+That deferral is **one task boundary, not a repaint** — measured on iOS: stale
+at the end of the click, landed by the next task. So the view transition
+callback returns a promise and `waitForPalette` polls the same sentinel on
+`setTimeout` until it matches, which holds the "new" snapshot until the palette
+is really there. Without it the API snapshots the *old* palette as the new
+state and cross-fades two identical frames, then pops.
+
+Poll on **timers, not `requestAnimationFrame`** — rendering is suppressed while
+that callback is outstanding, so a frame callback may never run and would
+deadlock the swap. The cap exists for that case: it proceeds, and switches the
+cross-fade off for the session so the next toggle is cleanly instant rather than
+an animation between two identical frames. To prove no timeout happened, swap
+three times — if all three animate, none timed out.
 
 Skin colours are hardcoded from `_sass/minimal-mistakes/skins/_dirt.scss` — the
 theme exposes its palette as Sass variables, not CSS custom properties, so an

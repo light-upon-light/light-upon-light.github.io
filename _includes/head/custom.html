@@ -1069,11 +1069,11 @@
     var link = document.getElementById("theme-dark-css");
     var system = window.matchMedia(SYSTEM_MEDIA);
 
-    /* null = not measured yet, and treated as "no" by canCrossFade(). See
-       apply() for how it is filled in and why it is measured, not assumed. */
-    var paletteIsSynchronous = null;
+    /* Set to false only if the palette once failed to resolve inside a view
+       transition callback within waitForPalette's cap -- see there. Until
+       that happens the cross-fade is allowed. */
+    var paletteResolvesInCallback = true;
     var swapToken = 0;
-    var swapFrames = 0;
 
     // null means "follow the system"; localStorage throws in some privacy modes
     var stored = null;
@@ -1106,11 +1106,9 @@
 
       // with no explicit choice, leave the media query in place and let the
       // stylesheet keep tracking the system by itself
-      var media = stored === null ? SYSTEM_MEDIA
-                : stored === "dark" ? "all"
-                : "not all";
-      var flipped = link.media !== media;
-      link.media = media;
+      link.media = stored === null ? SYSTEM_MEDIA
+                 : stored === "dark" ? "all"
+                 : "not all";
 
       var mode = resolved();
       root.setAttribute("data-theme", mode);
@@ -1166,29 +1164,6 @@
 
       document.body.getBoundingClientRect();
 
-      /* Whether that forced read was enough is not a fact about the browser
-         name, so it is measured rather than assumed -- and only when the
-         media attribute actually changed, since an apply() that changes
-         nothing would trivially "match" and prove nothing. canCrossFade()
-         reads it: an engine that resolves the palette late would have the
-         view transition snapshot the OLD palette as its "new" state and
-         cross-fade two identical frames, then pop. Unknown counts as
-         deferred, so the first swap of a session is always instant and the
-         broken variant is never shown. */
-      if (flipped) {
-        /* Sticky once false. The two directions are not symmetric --
-           measured on WebKit, dropping the sheet (to light) resolves
-           immediately while bringing it in (to dark) is deferred, which is
-           why light-to-dark was the direction that misbehaved. Taking each
-           swap's reading at face value would let a clean dark-to-light
-           measurement re-enable the cross-fade for the very next
-           light-to-dark swap, i.e. exactly the case that cannot do it. One
-           deferred observation disables it for the session. */
-        var landedNow = getComputedStyle(root).colorScheme === mode;
-        paletteIsSynchronous =
-          paletteIsSynchronous === false ? false : landedNow;
-      }
-
       var token = ++swapToken;
       var waited = 0;
 
@@ -1196,7 +1171,6 @@
         if (token !== swapToken) return;
 
         if (getComputedStyle(root).colorScheme === mode || waited >= 60) {
-          swapFrames = waited;
           requestAnimationFrame(function () {
             if (token === swapToken) root.classList.remove("theme-switching");
           });
@@ -1248,15 +1222,23 @@
          bbox is identical across the swap. Under a view transition those
          frames happen behind a frozen snapshot, so none of them is seen.
 
-         apply() does its own guarded flush, which is what makes this work:
-         the recalculation finishes inside the callback, so the API snapshots
-         a page already fully in the new palette rather than one still
-         carrying wedged transition values.
+         The callback returns a promise, and the API holds the "new" snapshot
+         until it resolves. That is what makes this correct on an engine
+         that resolves the media change late -- without the wait it would
+         snapshot the OLD palette as the new state and cross-fade two
+         identical frames, then pop. See waitForPalette below.
 
          Deliberately root-only -- see the ::view-transition rules in the
          <style> above. */
-      if (canCrossFade()) document.startViewTransition(apply);
-      else apply();
+      if (!canCrossFade()) {
+        apply();
+        return;
+      }
+
+      document.startViewTransition(function () {
+        apply();
+        return new Promise(function (resolve) { waitForPalette(resolve); });
+      });
     }
 
     /* Three ways to end up on the plain, instant path instead, all of them
@@ -1289,15 +1271,50 @@
       } catch (e) {
         return false;
       }
-      /* Fourth gate, and the reason the first swap of a session never
-         animates: on an engine that resolves a stylesheet media change a
-         frame or more later, the API would snapshot the OLD palette as the
-         "new" state, cross-fade two identical frames, and let the real
-         palette appear afterwards -- a delay in front of the abrupt change,
-         which is worse than no animation. apply() measures this the first
-         time the media attribute actually changes; until then it is null
-         and this returns false. */
-      return paletteIsSynchronous === true;
+      /* Fourth gate: an engine where the palette has actually been seen to
+         miss the wait below. Optimistic until proven otherwise, because the
+         wait makes the common deferral harmless. */
+      return paletteResolvesInCallback;
+    }
+
+    /* Wait for the media change to take effect, polling on TIMERS, not
+       frames.
+
+       This is what lets the cross-fade survive an engine that resolves a
+       stylesheet media change late. Measured on an iPhone: at the end of
+       the click the palette was still the old one, but by the next task it
+       had landed -- the deferral is one task boundary, not a repaint. So
+       the view transition callback returns a promise and the API holds the
+       "new" snapshot until this resolves, which is the whole point of the
+       callback being allowed to be async.
+
+       setTimeout rather than requestAnimationFrame deliberately: rendering
+       is suppressed while that callback is outstanding, so a frame callback
+       may not run at all and would deadlock the swap until the cap. Timers
+       are unaffected. Reading getComputedStyle each poll also forces the
+       style resolution rather than waiting for one to happen on its own.
+
+       The cap bounds the damage if an engine cannot resolve it here at all:
+       the swap proceeds, looking as it did before any of this existed, and
+       the cross-fade is switched off for the rest of the session so that
+       the next toggle is cleanly instant instead of a cross-fade between
+       two identical frames followed by a pop. */
+    function waitForPalette(done) {
+      var root = document.documentElement;
+      var target = root.getAttribute("data-theme");
+      var waited = 0;
+
+      (function poll() {
+        if (getComputedStyle(root).colorScheme === target) return done();
+
+        if (waited >= 150) {
+          paletteResolvesInCallback = false;
+          return done();
+        }
+
+        waited += 10;
+        window.setTimeout(poll, 10);
+      })();
     }
 
     function ready() {
