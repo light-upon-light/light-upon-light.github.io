@@ -1,6 +1,7 @@
 ---
 title: "The Jizya: What Non-Muslims Paid, and What For"
 description: "A response to the claim that the jizya was extortion or a penalty for refusing Islam, examining who paid it, who was exempt, and what it bought."
+date: 2026-08-05
 
 permalink: /jizya_prose
 sitemap: false

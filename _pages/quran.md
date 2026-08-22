@@ -1,6 +1,7 @@
 ---
 title: "The Qur'an and the Messenger ﷺ: Evidence for Prophethood"
 description: "The Qur'an and the life of Prophet Muhammad, taken together as evidence for his prophethood."
+date: 2025-08-16
 
 # Standard short-form label for this page, used wherever the full title (with
 # its "Evidence for Prophethood" subtitle) would be too long -- currently the

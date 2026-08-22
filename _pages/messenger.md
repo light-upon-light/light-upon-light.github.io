@@ -1,6 +1,7 @@
 ---
 title: "The Messenger Muhammad ﷺ: Evidence for Prophethood"
 description: "The recorded life of Prophet Muhammad, examined as evidence for his prophethood."
+date: 2025-08-16
 
 permalink: /messenger
 
