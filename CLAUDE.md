@@ -41,7 +41,19 @@ Two strings in `_config.yml`, each with one job — don't reintroduce a third:
 - `blurb` — the prose sentence. The homepage and the about page render
   `{{ site.blurb }}`; nothing hardcodes it.
 
-## Search
+## Search — currently OFF
+
+**`search: false` in `_config.yml`.** There is no magnifier in the masthead, no
+`#search` input, no index, and nothing on the page reads a store. Everything
+below describes what would apply *if it were turned back on*; none of it
+describes the site as it stands, so don't reason from it about current
+behaviour.
+
+`assets/js/lunr/lunr-store.js` is shadowed by an empty local file for the same
+reason: the theme's generator emits the full text of every article into a
+614 KB store on every build, and with search off nothing ever loaded it.
+Turning search back on means deleting that shadow as well as flipping the
+three settings.
 
 Lunr, the theme's default provider. Three settings in `_config.yml` have to
 agree, and getting one wrong fails **silently** — the overlay opens, the input
