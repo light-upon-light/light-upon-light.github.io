@@ -1,6 +1,7 @@
 ---
 title: "Four Wives: What the Qur'an Permits and What It Requires"
 description: "A response to the claim that Islam licenses men to take multiple wives, examining what Qur'an 4:3 permits, the conditions attached to it, and what the Prophet ﷺ actually practised."
+date: 2026-08-03
 
 permalink: /polygyny
 

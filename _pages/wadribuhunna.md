@@ -1,6 +1,7 @@
 ---
 title: "Qur'an 4:34 and the Claim of Domestic Abuse"
 description: "A response to the claim that Qur'an 4:34 permits domestic abuse, based on the verse's language, context, Prophetic example, and juristic interpretation."
+date: 2025-08-25
 
 permalink: /wadribuhunna
 

@@ -1,6 +1,7 @@
 ---
 title: "Apostasy in Islam"
 description: "An examination of the claim that Islam prescribes death for apostasy, based on the Qur'an, the hadith, and the disagreements among classical and modern Muslim scholars."
+date: 2026-08-03
 
 permalink: /ridda
 

@@ -1,6 +1,7 @@
 ---
 title: "The Prophet Muhammad's ﷺ Marriage to Aisha: A Historical, Moral, and Islamic Examination"
 description: "A historical, moral, and Islamic examination of the Prophet Muhammad's ﷺ marriage to Aisha, addressing common criticisms and misrepresentations."
+date: 2025-08-17
 
 permalink: /aisha
 

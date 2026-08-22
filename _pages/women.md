@@ -1,6 +1,7 @@
 ---
 title: "Islam and Women"
 description: "What Islam gave women, what it required of men, and how the verses and reports most often cited against it read when they are set out in full."
+date: 2025-08-17
 
 permalink: /women
 
