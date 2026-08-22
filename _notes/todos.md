@@ -29,6 +29,7 @@ At some point:
 
 - review all the caveats and things written in claude.md and theme_internals.md, and test them out. are they true? do we still need to keep them?
 - fix [2026-08-06 23:14:20] ERROR '/favicon.ico' not found. error
+- on safari, since you can see the page behind the bar on top and on bottom of browser, when you open toc it only darkens the part not behing them.
 
 Maybe not:
 
