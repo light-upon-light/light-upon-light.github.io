@@ -131,12 +131,12 @@ share: true
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَرَحْمَتِى وَسِعَتْ كُلَّ شَىْءٍ﴾ <span class="ayah-ref">[سُورَةُ الأَعۡرَافِ: ١٥٦]</span></div>
     {: .quote }
-1. Holds **forgiveness open for every sin**, no matter how far a person has gone, and asks for **no intermediary**: repentance is made directly to God, and despairing of His mercy is itself treated as the error.
+1. Holds **forgiveness open for every sin**, no matter how far a person has gone, and instructs people to never despair of God's mercy.
     > "Say, 'O My servants who have transgressed against themselves [by sinning], do not despair of the mercy of Allāh. Indeed, Allāh forgives all sins. Indeed, it is He who is the Forgiving, the Merciful.'" (**Sūrat al-Zumar 39:53**), Saheeh International
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿قُلْ يَـٰعِبَادِىَ ٱلَّذِينَ أَسْرَفُوا۟ عَلَىٰٓ أَنفُسِهِمْ لَا تَقْنَطُوا۟ مِن رَّحْمَةِ ٱللَّهِ ۚ إِنَّ ٱللَّهَ يَغْفِرُ ٱلذُّنُوبَ جَمِيعًا ۚ إِنَّهُۥ هُوَ ٱلْغَفُورُ ٱلرَّحِيمُ ۝٥٣﴾ <span class="ayah-ref">سُورَةُ الزُّمَرِ</span></div>
     {: .quote }
-1. Instructs believers to **answer hostility with what is better**. The goal it sets is not defeating an enemy but **turning him into a friend**.
+1. Instructs believers to **answer hostility with goodness**.
     > "Good and evil cannot be equal. Respond ˹to evil˺ with what is best, then the one you are in a feud with will be like a close friend." (**Sūrat Fuṣṣilat 41:34**), Dr. Mustafa Khattab, *The Clear Quran*
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَلَا تَسْتَوِى ٱلْحَسَنَةُ وَلَا ٱلسَّيِّئَةُ ۚ ٱدْفَعْ بِٱلَّتِى هِىَ أَحْسَنُ فَإِذَا ٱلَّذِى بَيْنَكَ وَبَيْنَهُۥ عَدَٰوَةٌ كَأَنَّهُۥ وَلِىٌّ حَمِيمٌ ۝٣٤﴾ <span class="ayah-ref">سُورَةُ فُصِّلَتۡ</span></div>
@@ -146,7 +146,7 @@ share: true
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ كُونُوا۟ قَوَّٰمِينَ بِٱلْقِسْطِ شُهَدَآءَ لِلَّهِ وَلَوْ عَلَىٰٓ أَنفُسِكُمْ أَوِ ٱلْوَٰلِدَيْنِ وَٱلْأَقْرَبِينَ ۚ إِن يَكُنْ غَنِيًّا أَوْ فَقِيرًا فَٱللَّهُ أَوْلَىٰ بِهِمَا﴾ <span class="ayah-ref">[سُورَةُ النِّسَاءِ: ١٣٥]</span></div>
     {: .quote }
-1. Treats care for the **weak and dependent** as an obligation rather than optional virtue: **parents in old age**, orphans, the poor, the traveller, the debtor, captives, and slaves, whose freeing it repeatedly presents as a good in itself.
+1. Treats care for the **weak and dependent** as an obligation: **parents in old age**, orphans, the poor, the traveller, the debtor, captives, and servants.
 1. Rules out **compulsion in religion**. Faith is presented as worthless unless freely accepted, which is why the Qur'an addresses **argument and evidence** to its readers rather than demanding submission.
 1. Measures human worth by **character alone**. Ancestry, tribe, wealth, and colour are explicitly set aside; **the most honourable person is the most conscious of God**.
 1. Provides a complete **moral and legal framework** that holds **justice and mercy** in balance, and guided a **flourishing civilization** for centuries.
