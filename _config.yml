@@ -232,15 +232,19 @@ sass:
   style: compressed # https://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
 
 # Setting footer_scripts REPLACES the theme's own default
-# (assets/js/main.min.js), so both have to be listed here. Order is
-# load-bearing: site.js registers a gumshoeActivate listener that must be in
-# place before the theme's Gumshoe init runs its first synchronous detect()
-# on main.min.js, or the initial TOC activation on page load is missed. That
-# ordering used to come for free from footer/custom.html sitting earlier in
-# <body> than scripts.html; listing site.js first here preserves it.
+# (assets/js/main.min.js -- jQuery + fitvids + magnific-popup +
+# throttle-debounce + smooth-scroll + greedy-navigation + gumshoe, 124 KB /
+# 42.7 KB gzipped). P1-5 (audit) dropped that bundle: this site's own JS was
+# already vanilla, and jQuery was there only to run it. site.js now carries
+# its own scrollspy (a line-for-line Gumshoe port) and header-permalink
+# anchors -- the only two pieces of the bundle that were actually used; see
+# the header comment in site.js and theme_internals.md for what got
+# dropped and why. main.min.js is gone, so the load-order constraint that
+# used to require site.js first no longer applies to anything external --
+# ordering within site.js itself is what matters now (see its header
+# comment).
 footer_scripts:
   - /assets/js/site.js
-  - /assets/js/main.min.js
 
 
 # Outputting

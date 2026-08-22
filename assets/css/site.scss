@@ -1294,6 +1294,26 @@
   }
 
 /* --------------------------------------------------------------------------
+   Anchor scrolling (P1-5: replaces the theme's SmoothScroll plugin)
+   -------------------------------------------------------------------------- */
+
+  /* `scroll-padding-top` matches the 20px offset the site's own scrollspy in
+     site.js uses to decide which heading is "active" -- keeping the two the
+     same number is what makes the heading a reader just jumped to (TOC
+     click, prev/next section button, or a bare #hash link) also read as the
+     active one on arrival. Gated on prefers-reduced-motion so a reader who
+     has asked for no motion gets an instant jump instead. */
+  @media (prefers-reduced-motion: no-preference) {
+    html {
+      scroll-behavior: smooth;
+    }
+  }
+
+  html {
+    scroll-padding-top: 20px;
+  }
+
+/* --------------------------------------------------------------------------
    From _includes/footer/custom.html
    -------------------------------------------------------------------------- */
 

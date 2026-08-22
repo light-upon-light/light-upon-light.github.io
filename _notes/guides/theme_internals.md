@@ -1,8 +1,9 @@
 # Theme internals
 
-Two customisations big enough to have their own failure modes: dark mode and
-the mobile TOC drawer. Read the relevant half before changing either.
-Everything else lives in `CLAUDE.md`.
+Three customisations big enough to have their own failure modes: dark mode,
+the mobile TOC drawer, and the scrollspy/nav-link-overflow pair that replaced
+two of the theme's jQuery plugins. Read the relevant section before changing
+any of them. Everything else lives in `CLAUDE.md`.
 
 ## Dark mode
 
@@ -262,3 +263,76 @@ clock so opacity and transform read their *start* values, and the window cannot
 go narrower than a ~504px viewport. Force the end state directly — add
 `is-visible`, click the toggle, disable transitions — and assert on
 `getBoundingClientRect` and class lists instead of pixels.
+
+## Scrollspy and nav-link overflow (P1-5)
+
+`assets/js/main.min.js` (jQuery + fitvids + magnific-popup +
+throttle-debounce + smooth-scroll + greedy-navigation + gumshoe, 124 KB /
+42.7 KB gzipped) is gone. This site's own JS was already vanilla; jQuery was
+there only to run that bundle. `assets/js/site.js` is now the only entry in
+`footer_scripts`, and carries its own replacements for the two plugins that
+were actually load-bearing (Gumshoe, GreedyNav). fitvids, magnific-popup and
+throttle-debounce were dead code — no static `<iframe>`/`<video>`, no
+`.image-popup` target anywhere in the built site, and `_main.js` never even
+called throttle-debounce. SmoothScroll became plain CSS: `scroll-behavior:
+smooth` (gated on `prefers-reduced-motion`) plus `scroll-padding-top: 20px`
+in `site.scss`, the same 20px the scrollspy below uses as its own offset —
+keep the two numbers equal, or a reader's jump target and the TOC's
+highlight disagree on arrival.
+
+**The scrollspy is a line-for-line port of gumshoejs v5.1.1's algorithm**
+(MIT, Chris Ferdinandi), not an IntersectionObserver approximation. Verified
+by diffing against the theme's own Gumshoe: scroll `/quran.html` and
+`/aisha.html` in fixed-size steps, recording `nav.toc li.active a[href]` and
+the last `gumshoeActivate` `detail.link.href` at each step, on both builds.
+At 400px and 100px step granularity the two sequences are identical.
+
+Two non-obvious fidelity bugs turned up during that diffing, both fixed in
+`site.js` — anyone re-deriving this port from Gumshoe's source will hit them
+again:
+
+- **`scroll-behavior: smooth` silently retargets `behavior: "auto"`.**
+  `"auto"` means "defer to the CSS `scroll-behavior` of the scrolling box" —
+  it does NOT mean instant, once that CSS property is set to `smooth`. The
+  theme's own `scrollTocToContent` (ported from `_main.js`, keeps the sticky
+  sidebar TOC scrolled to the active entry) passed `behavior: "auto"`
+  because before this change "auto" WAS instant. `site.js` now passes
+  `behavior: "instant"` explicitly there, to keep that call instant
+  regardless of the new CSS. Anything else added later that wants an
+  unconditionally-instant scroll must do the same — "auto" is no longer safe
+  to assume is instant anywhere on this site.
+- **Gumshoe's activation test truncates, it doesn't compare the raw float.**
+  `isInView` is `parseInt(bounds.top, 10) <= offset`, not
+  `bounds.top <= offset`. A `scroll-padding-top: 20px` anchor landing can
+  settle at a sub-pixel value like `20.125` — past the offset once
+  truncated, but NOT by a bare `<= 20` float comparison. This is exactly the
+  #next-section button landing one heading short of where it should:
+  clicking it should always leave the *destination* heading active, and a
+  raw float comparison missed it by a hair on that landing spot specifically
+  (caught by testing `#next-section` itself, not by the scroll sweep, which
+  samples every 100px and stepped past the exact boundary both times).
+  `site.js`'s `topInView`/`bottomInView` both truncate with `parseInt` to
+  match.
+
+**GreedyNav is not fully inert with the single link `_data/navigation.yml`
+holds**, contrary to `masthead.html`'s own comment (accurate about GreedyNav
+undercounting the two appearance-toggle buttons' width, wrong about the
+consequence). Removing GreedyNav outright and shipping nothing produces real
+breakage at narrow widths: `.visible-links` is `flex: 1` with
+`justify-content: flex-end`, so when the single link doesn't fit, it
+overflows past the container's START edge — behind the site title, not
+off the end — which is why `scrollWidth > clientWidth` does NOT detect it
+(that check only sees end-edge overflow). Confirmed at 375px: the link
+rendered ~135px into the title's own box.
+
+The fix is a ~30-line stand-in in `site.js`, not a GreedyNav port: since
+there's only ever one link, the question is binary (fits / doesn't fit), not
+GreedyNav's incremental per-item measurement. It compares the link's own
+natural `offsetWidth` (unaffected by the parent's `overflow: hidden`, which
+only clips paint, not layout) against `.visible-links.clientWidth`, and on
+overflow moves the link into `.hidden-links` and reveals
+`.greedy-nav__toggle` — the same two elements and the same `.hidden` class
+GreedyNav itself used, so the theme's own CSS still drives the dropdown's
+appearance. Re-runs on `resize`. Verified at 375px (hamburger, no overlap,
+dropdown opens/closes), 768px and 1280px (inline, no hamburger) — all three
+match the theme's own GreedyNav output at the same widths.

@@ -255,10 +255,14 @@ cacheable instead of repeated on every page. The two `custom.html` includes
 (`head/` and `footer/`) now hold only markup, the pre-paint theme/font-size
 bootstrap scripts (must run before first paint, so they stay inline), and the
 `quran_section` breadcrumb's own Liquid-templated `<style>`/`<script>`.
-`footer_scripts` order is load-bearing: `site.js` must be listed before
-`main.min.js` so its `gumshoeActivate` listener is registered before the
-theme's Gumshoe init runs its first synchronous `detect()` — see the comment
-in `_config.yml`.
+`site.js` is the only entry in `footer_scripts` — the theme's jQuery bundle
+(`main.min.js`: jQuery + fitvids + magnific-popup + throttle-debounce +
+smooth-scroll + greedy-navigation + gumshoe) was dropped (P1-5, audit) since
+this site's own JS was already vanilla. `site.js` carries its own scrollspy
+(a line-for-line Gumshoe port — see `theme_internals.md` for the `parseInt`
+truncation gotcha that a naive port misses) and a small nav-link-overflow
+stand-in for GreedyNav; ordering *within* `site.js` is what's load-bearing
+now, not `footer_scripts` order — see the header comment in `site.js`.
 
 Arabic uses `.quran-arabic`, citation labels `.ayah-ref`. Amiri is loaded from
 Google Fonts so the ayah marker encloses its digits regardless of what the
