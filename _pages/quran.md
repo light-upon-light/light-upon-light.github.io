@@ -83,7 +83,8 @@ share: true
     {% include yt-embed.html url="https://youtu.be/_HlpfgaDATU" title="Conquering Doubts & Confidently Defending Islam | Ali Ataie" note="The whole of this video is great" %}
 
 1. **Flows naturally** and is **beautifully melodic**, with a **profound effect on the heart**. Even without knowing the meaning of the words, people who do not understand Arabic often weep while listening to it being recited or describe that they are overcome with a surreal feeling of peace and tranquility.
-    > "The inimitability of the Qur’an has yet another dimension, one which people tend to overlook, and is unrecognized except by a sparse few—namely what it generates in the hearts and impresses onto the souls. Aside from the Qur’an, you do not hear of any discourse, neither poetry nor prose, that upon reaching one’s ears provides such immediate pleasure and sweetness, and at other times such awe and intimidation, like the Qur’an does."
+    > "The inimitability of the Qur'an has yet another dimension, one which people tend to overlook, and is unrecognized except by a sparse few—namely what it generates in the hearts and impresses onto the souls. Aside from the Qur'an, you do not hear of any discourse, neither poetry nor prose, that upon reaching one's ears provides such immediate pleasure and sweetness, and at other times such awe and intimidation, like the Qur'an does." Muḥammad Khalaf Allāh Aḥmad (ed.), Muḥammad Zaghlūl Sallām (ed.), and Issa J. Boullata (trans.), *Three Treatises on the I'jāz of the Qur'ān* (Reading, UK: Garnet Publishing, 2014), 46
+    {: .src }
 
 ### <span class="num-roman">III.</span> Challenges and Bold Claims
 {: #challenges-and-bold-claims }
