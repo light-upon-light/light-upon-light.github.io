@@ -1,0 +1,34 @@
+{%- comment -%}
+  This file's name shadows minimal-mistakes 4.28.0's own
+  _includes/breadcrumbs.html: a local _includes/ file of the same name takes
+  precedence over the remote theme's, so this is picked up wherever
+  _layouts/single.html does `{% include breadcrumbs.html %}` -- above
+  #page-title and outside .page__content, the conventional breadcrumb
+  position -- without needing a local fork of that layout (contrast
+  masthead.html, which forks its whole layout because the theme gives it no
+  include hook; here the theme already calls an include by this exact name,
+  so overriding the include is enough).
+
+  single.html only reaches that include when `page.url != "/"` and
+  `breadcrumbs_enabled` is true, where `breadcrumbs_enabled` is
+  `page.breadcrumbs` if set, else `site.breadcrumbs` (see _config.yml). This
+  repo has no per-page `breadcrumbs:` front matter, so it resolves from
+  site.breadcrumbs on every non-home page -- including /about/ and 404.html,
+  neither of which should show a trail. Rather than opt every page in and
+  then back the two of them out with `breadcrumbs: false` in their front
+  matter (out of scope for this change -- see the file list in the task that
+  produced this), this file itself carries the real condition: it renders
+  the Qur'an breadcrumb only when `page.quran_section` is set, and emits
+  nothing otherwise. That makes it a safe target for `site.breadcrumbs: true`
+  site-wide.
+
+  The theme's own breadcrumbs.html (a URL-segment trail with a "Home" root,
+  driven by site.category_archive/page.collection) is not reused: this site
+  has no collections, and the trail this site wants is the fixed Qur'an ->
+  section -> page structure declared in front matter, not one derived from
+  the URL. archive.html, archive-taxonomy.html and search.html also call the
+  theme's breadcrumbs.html, but no page here uses those layouts (see
+  CLAUDE.md / _config.yml `defaults` -- every page and post layout is
+  "single"), so shadowing the include has no effect on them.
+{%- endcomment -%}
+{% if page.quran_section %}{% include quran-breadcrumb.html %}{% endif %}

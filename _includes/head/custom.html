@@ -15,12 +15,248 @@
      Karla: UI text that isn't reading content and isn't the brand mark --
      the masthead nav link and the TOC. A humanist sans that complements
      Source Serif 4 without competing with either the body serif or the
-     Abril Fatface title. -->
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Amiri:wght@400;700&family=Karla:wght@400;500;700&family=Source+Serif+4:ital,wght@0,400;0,600;0,700;1,400&display=swap">
+     Abril Fatface title.
+
+     Self-hosted under assets/fonts/ rather than loaded from
+     fonts.googleapis.com/fonts.gstatic.com (audit P2-2): that path cost a
+     render-blocking stylesheet fetch from a third-party origin, then a
+     second round trip to a *different* origin for the files themselves,
+     with nothing preloadable and `display=swap` guaranteeing a FOUT on
+     every cold load -- and it sent the reader's IP to Google on every page
+     view for no benefit this site needs. Files below came from Google's own
+     CDN (fonts.gstatic.com, resolved by requesting the css2 stylesheet with
+     a modern-Chrome User-Agent to get woff2 URLs), not a third-party
+     mirror, so provenance and hinting match what Google Fonts would have
+     served. OFL.txt sits next to each family's files, as the license
+     requires.
+
+     Only the cuts actually matched by a selector in this codebase are
+     shipped (checked by grepping assets/css/site.scss and the theme's
+     compiled main.css for font-weight/font-style on every selector that
+     names one of these families):
+       - Abril Fatface: 400, its only cut regardless (see above).
+       - Karla: 400 and 700 (.nav__title/h4 inherits the theme's bold).
+         No 500 -- nothing in this codebase sets font-weight: 500.
+       - Source Serif 4: 400 and 700 roman (h1-h6 inherit the theme's
+         `font-weight: bold`), plus 400 italic (the theme sets
+         `blockquote { font-style: italic }` and nothing here overrides it
+         for a plain blockquote). No 600 -- unused.
+       - Amiri: 400 only. No bold Arabic exists anywhere in _pages/ (grepped
+         for <strong>/<b> inside dir="rtl" spans and .quran-arabic divs --
+         none), so the 700 cut loaded before was dead weight.
+
+     Google serves Karla and Source Serif 4 (roman) as variable fonts, and
+     re-uses the *same* file across multiple static font-weight requests
+     rather than shipping a separate static instance per weight (confirmed
+     with fontTools: both files' `fvar` table has a wght axis wide enough to
+     cover 400 and 700). So each of those gets ONE file per subset with
+     `font-weight: 400 700` as a range, not two files -- downloading the
+     second weight again would just be the same bytes twice. Source Serif 4
+     italic and Amiri are static single-instance files (no `fvar` table), so
+     they get an ordinary fixed font-weight.
+
+     Subsets: "latin" and "latin-ext" for the three Latin-script families --
+     latin-ext is not optional here, since the transliteration diacritics
+     this site actually uses (e.g. ḥ ṣ ṭ ẓ ḍ ū ī in Sūrat, ʿAnkabūt) live in
+     the U+1E00-1E9F and U+0100-02FF ranges latin-ext covers, not in
+     latin's U+0000-00FF. Cyrillic/Greek/Vietnamese are dropped -- unused by
+     any text on this site. Amiri instead gets ONE hand-written
+     unicode-range covering only the Arabic blocks the site's Qur'anic text
+     and end-of-ayah/ornate-parenthesis marks use (U+0600-06FF, U+0750-077F,
+     U+08A0-08FF, U+FB50-FDFF, U+FE70-FEFF) in place of Google's own (wider,
+     multi-file) Arabic subset, so a Latin-only reader's browser never even
+     requests it -- Amiri was the largest of the four families. -->
+<style>
+  @font-face {
+    font-family: "Abril Fatface";
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url("{{ '/assets/fonts/abril-fatface/AbrilFatface-latin.woff2' | relative_url }}") format("woff2");
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+  }
+  @font-face {
+    font-family: "Abril Fatface";
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url("{{ '/assets/fonts/abril-fatface/AbrilFatface-latin-ext.woff2' | relative_url }}") format("woff2");
+    unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+  }
+
+  /* Arabic only -- see the comment above for why. Amiri's Latin/Cyrillic/
+     Greek/Vietnamese subsets are never fetched by any reader whose text
+     never needs an Arabic glyph. */
+  @font-face {
+    font-family: "Amiri";
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url("{{ '/assets/fonts/amiri/Amiri-arabic.woff2' | relative_url }}") format("woff2");
+    unicode-range: U+0600-06FF, U+0750-077F, U+08A0-08FF, U+FB50-FDFF, U+FE70-FEFF;
+  }
+
+  @font-face {
+    font-family: "Karla";
+    font-style: normal;
+    font-weight: 400 700;
+    font-display: swap;
+    src: url("{{ '/assets/fonts/karla/Karla-latin.woff2' | relative_url }}") format("woff2");
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+  }
+  @font-face {
+    font-family: "Karla";
+    font-style: normal;
+    font-weight: 400 700;
+    font-display: swap;
+    src: url("{{ '/assets/fonts/karla/Karla-latin-ext.woff2' | relative_url }}") format("woff2");
+    unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+  }
+
+  @font-face {
+    font-family: "Source Serif 4";
+    font-style: normal;
+    font-weight: 400 700;
+    font-display: swap;
+    src: url("{{ '/assets/fonts/source-serif-4/SourceSerif4-latin.woff2' | relative_url }}") format("woff2");
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+  }
+  @font-face {
+    font-family: "Source Serif 4";
+    font-style: normal;
+    font-weight: 400 700;
+    font-display: swap;
+    src: url("{{ '/assets/fonts/source-serif-4/SourceSerif4-latin-ext.woff2' | relative_url }}") format("woff2");
+    unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+  }
+  @font-face {
+    font-family: "Source Serif 4";
+    font-style: italic;
+    font-weight: 400;
+    font-display: swap;
+    src: url("{{ '/assets/fonts/source-serif-4/SourceSerif4-Italic-latin.woff2' | relative_url }}") format("woff2");
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+  }
+  @font-face {
+    font-family: "Source Serif 4";
+    font-style: italic;
+    font-weight: 400;
+    font-display: swap;
+    src: url("{{ '/assets/fonts/source-serif-4/SourceSerif4-Italic-latin-ext.woff2' | relative_url }}") format("woff2");
+    unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+  }
+</style>
+
+<!-- Preload only the cuts painted above the fold on first contentful paint:
+     the masthead title (Abril Fatface 400) and the article's opening body
+     text (Source Serif 4 400 roman). Everything else -- bold, italic,
+     Karla, Amiri -- is below the fold or conditional (Amiri only paints at
+     all on the ten quran_section pages), so preloading it would compete
+     with these two for bandwidth on every page load for no first-paint
+     benefit. Only the "latin" subset of each is preloaded, not "latin-ext"
+     too: the masthead title and a typical article's opening words are
+     plain ASCII, so latin-ext would load speculatively and, for most
+     requests, unnecessarily. as="font" + crossorigin is required for the
+     browser to actually use a preloaded font rather than double-fetching
+     it (fonts are fetched anonymous-mode regardless of same-origin). -->
+<link rel="preload" as="font" type="font/woff2" href="{{ '/assets/fonts/abril-fatface/AbrilFatface-latin.woff2' | relative_url }}" crossorigin>
+<link rel="preload" as="font" type="font/woff2" href="{{ '/assets/fonts/source-serif-4/SourceSerif4-latin.woff2' | relative_url }}" crossorigin>
 
 <link rel="stylesheet" href="{{ '/assets/css/site.css' | relative_url }}">
+
+<!-- Structured data (JSON-LD). The theme's own _includes/seo.html (the
+     jekyll-seo-tag include the github-pages gem bundles) emits OpenGraph and
+     Twitter Card meta but no JSON-LD beyond a single site-wide WebSite block
+     on the homepage (schema.html, gated `page.url == '/'` there) -- nothing
+     per-article. Added by hand here instead of pulling in jekyll-seo-tag's
+     own JSON-LD (which this theme's seo.html doesn't use) or a dedicated
+     schema plugin, since two objects, gated on front matter this site
+     already has, don't justify a new dependency.
+
+     Article, gated on `page.description`: every real article page
+     (quran.md and the ten quran_section pages) sets one; the homepage,
+     /about/ and 404.html do not, so this condition alone is what keeps
+     those three out without hardcoding their URLs.
+
+     No datePublished/dateModified: neither exists as a trustworthy value.
+     There is no `date` front matter on any of these pages (they are not
+     posts) and no last-modified plugin is installed (jekyll-last-modified-at
+     is not a project dependency -- see Gemfile), so there is nothing real to
+     read. A fabricated date would be worse than none, per CLAUDE.md's
+     verify-before-asserting rule -- so both are simply omitted rather than
+     filled with a guess.
+
+     BreadcrumbList, gated on `page.quran_section`, the same condition
+     _includes/breadcrumbs.html uses: Google requires this to match the
+     visible trail exactly, so the three items mirror
+     _includes/quran-breadcrumb.html's three <li> verbatim rather than being
+     computed independently. -->
+{% if page.description %}
+  <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Article",
+      "headline": {{ page.title | strip_html | jsonify }},
+      "description": {{ page.description | jsonify }},
+      "author": {
+        "@type": "Person",
+        "name": {{ site.author.name | jsonify }}
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": {{ site.title | jsonify }}
+      },
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": {{ page.url | absolute_url | jsonify }}
+      },
+      "inLanguage": {{ site.locale | jsonify }}
+    }
+  </script>
+{% endif %}
+{% if page.quran_section %}
+  {% assign quran_page = site.pages | where: "permalink", "/quran" | first %}
+  <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": {{ quran_page.short_title | default: quran_page.title | strip_html | jsonify }},
+          "item": {{ '/quran' | absolute_url | jsonify }}
+        },
+        {%- comment -%}
+          The fragment is concatenated after absolute_url runs, not passed
+          through it: absolute_url percent-encodes non-ASCII
+          (page.quran_section on messenger.md is
+          "the-messenger-of-god-ﷺ"), which would make this item's URL
+          disagree byte-for-byte with the visible breadcrumb's href in
+          _includes/quran-breadcrumb.html, built the same way for the same
+          reason -- equivalent once resolved, but "matches the visible
+          trail exactly" is the requirement, so this avoids relying on
+          that equivalence. Captured first and jsonified as one string so
+          the concatenation happens in Liquid, not inside the JSON literal
+          (where an unquoted `#` would break parsing).
+        {%- endcomment -%}
+        {%- capture section_url -%}{{ '/quran' | absolute_url }}#{{ page.quran_section }}{%- endcapture -%}
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": {{ page.quran_section_label | jsonify }},
+          "item": {{ section_url | jsonify }}
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": {{ page.short_title | default: page.title | strip_html | jsonify }},
+          "item": {{ page.url | absolute_url | jsonify }}
+        }
+      ]
+    }
+  </script>
+{% endif %}
 
 <!-- Dark mode.
 

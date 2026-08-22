@@ -1,96 +1,29 @@
 <!-- start custom footer snippets -->
 
 {% if page.quran_section %}
-<!-- Breadcrumb trail (Home / quran.md / section on quran.md / this page),
-     built here rather than written into the markdown so it is never part of
-     .page__content -- Lunr indexes that container verbatim (see
-     search_full_content in CLAUDE.md), and a static link there would sit as
-     literal page text, becoming the truncated snippet shown for every search
-     hit on this page. Injected directly above #page-title at runtime, the
-     conventional breadcrumb position, and kept out of the indexed content in
-     the same move. It needs no referrer check: the section a sub-page
-     belongs to is fixed at build time, not a claim about how this
-     particular reader arrived.
+<!-- The breadcrumb trail itself (quran.md / section on quran.md / this
+     page) is now server-rendered in Liquid -- see
+     _includes/quran-breadcrumb.html and the theme-include override in
+     _includes/breadcrumbs.html. It used to be built here at runtime with
+     document.createElement, out of values serialised via `| jsonify`,
+     specifically to keep it out of .page__content, which Lunr indexes
+     verbatim (search_full_content in CLAUDE.md) -- a static link there
+     would become the truncated snippet shown for every search hit on the
+     page. That reasoning stopped applying once `search: false` landed in
+     _config.yml (no Lunr index exists at all right now), and even with
+     search back on, rendering outside .page__content -- which the Liquid
+     version already does, by construction -- was always the right fix
+     rather than staying in JS.
 
-     Each crumb's label is page.short_title where one is set (see quran.md
-     and the sub-pages for examples) -- full page titles here are often long
-     enough ("The Prophet Muhammad's ﷺ Marriage to Aisha: A Historical,
-     Moral, and Islamic Examination") that a breadcrumb built from them
-     wraps and reads poorly. Falls back to the full title where no
-     short_title exists.
-
-     The plain return link near the end of the article (back-to-quran.html)
-     is a different kind of claim -- "back to where you were" -- so that one
-     stays conditional on document.referrer actually being /quran. -->
-<style>
-  /* Sits above #page-title (see the script below), the conventional
-     breadcrumb position -- bottom margin only, so it reads as attached to
-     the title it precedes rather than floating between two things. 0.6em
-     read as cramped in practice, sitting almost flush against the title. */
-  .quran-breadcrumb {
-    margin: 0 0 1.2em;
-  }
-
-  /* #page-title's own bottom margin (the theme default, ~0.5em) used to be
-     enough because the breadcrumb sat below the title and its 1.6em bottom
-     margin was doing the real work of separating title from body content.
-     Now that the breadcrumb sits above the title instead, that spacing is
-     gone and the title crowds the content that follows it -- so restore it
-     here, scoped to pages with this breadcrumb rather than changing the
-     theme default everywhere. */
-  .quran-breadcrumb + #page-title {
-    margin-bottom: 1em;
-  }
-
-  .quran-breadcrumb ol {
-    display: flex;
-    flex-wrap: wrap;
-    align-items: baseline;
-    margin: 0;
-    padding: 0;
-    list-style: none;
-    font-family: "Karla", -apple-system, BlinkMacSystemFont, "Roboto",
-                 "Segoe UI", Arial, sans-serif;
-    font-size: 0.8em;
-  }
-
-  .quran-breadcrumb li {
-    display: flex;
-    align-items: baseline;
-  }
-
-  /* kramdown/GFM renders a literal "›" as three bytes; the numeric
-     reference is unambiguous regardless of source encoding */
-  .quran-breadcrumb li + li::before {
-    content: "\203a";
-    margin: 0 0.5em;
-    color: var(--site-breadcrumb-sep);
-  }
-
-  .quran-breadcrumb a {
-    color: var(--mm-muted-text-color);
-    text-decoration: none;
-  }
-
-  .page__content .quran-breadcrumb a:hover {
-    color: var(--mm-text-color);
-    text-decoration: underline;
-  }
-
-  .quran-breadcrumb li[aria-current="page"] {
-    color: var(--site-src-text);
-  }
-</style>
-{% assign quran_page = site.pages | where: "permalink", "/quran" | first %}
+     Only the return link below (a.back-to-quran-link) is left in this
+     script: unlike the breadcrumb, its target genuinely depends on
+     document.referrer, a fact only the browser has. -->
 <script>
   (function () {
-    var quranSection = {{ page.quran_section | jsonify }};
-    var quranSectionLabel = {{ page.quran_section_label | jsonify }};
-    var quranTitle = {{ quran_page.short_title | default: quran_page.title | strip_html | jsonify }};
-    var currentTitle = {{ page.short_title | default: page.title | strip_html | jsonify }};
-
     // return link near the end of the article: only claims "back to where
-    // you were" when the referrer really was /quran
+    // you were" when the referrer really was /quran -- a fact only the
+    // browser has, so this stays client-side (see the comment above)
+    var quranSection = {{ page.quran_section | jsonify }};
     var returnHref = "/quran";
     try {
       if (document.referrer) {
@@ -104,39 +37,6 @@
 
     var returnLink = document.querySelector("a.back-to-quran-link");
     if (returnLink) returnLink.href = returnHref;
-
-    // breadcrumb: a fixed statement of the site's structure, not a guess
-    // about navigation history, so it always targets the real section
-    var h1 = document.getElementById("page-title");
-    if (h1) {
-      var nav = document.createElement("nav");
-      nav.className = "quran-breadcrumb";
-      nav.setAttribute("aria-label", "Breadcrumb");
-
-      var ol = document.createElement("ol");
-
-      var quran = document.createElement("li");
-      var quranLink = document.createElement("a");
-      quranLink.href = "/quran";
-      quranLink.textContent = quranTitle;
-      quran.appendChild(quranLink);
-      ol.appendChild(quran);
-
-      var section = document.createElement("li");
-      var sectionLink = document.createElement("a");
-      sectionLink.href = "/quran#" + quranSection;
-      sectionLink.textContent = quranSectionLabel;
-      section.appendChild(sectionLink);
-      ol.appendChild(section);
-
-      var current = document.createElement("li");
-      current.setAttribute("aria-current", "page");
-      current.textContent = currentTitle;
-      ol.appendChild(current);
-
-      nav.appendChild(ol);
-      h1.insertAdjacentElement("beforebegin", nav);
-    }
   })();
 </script>
 {% endif %}
@@ -153,9 +53,17 @@
      height. To a reader scrolled halfway down, the page lurches to a
      different section the moment the drawer opens.
 
-     Cloning also keeps the panel a direct child of <body>, clear of the
-     stacking context the theme's `animation: intro` creates on #main — from
-     inside that context no z-index can lift the panel above the backdrop.
+     Cloning also keeps the panel a direct child of <body>. That used to
+     matter for a second reason too -- the theme's `animation: intro` on
+     #main creates a stacking context, and from inside it no z-index could
+     lift the panel above a body-level backdrop. #toc-panel is a <dialog>
+     now (see site.js), rendered in the top layer regardless of any
+     ancestor's stacking context, so that half no longer applies. The first
+     reason still does: repositioning the real `.sidebar__right` with
+     `position: fixed` would pull a tall block near the top of the article
+     out of the document flow, and everything below it would jump up by its
+     full height the moment the drawer opened. Cloning is what keeps that
+     from happening regardless of how the panel itself is rendered.
 
      The theme's `.toc` / `.toc__menu` rules are unscoped, so the clone picks
      up the styling for free. What it does not inherit is the scrollspy
@@ -222,7 +130,8 @@
   </button>
 </div>
 
-<div id="toc-backdrop" hidden></div>
-
+<!-- #toc-panel (built in site.js) is a <dialog>; its ::backdrop is
+     generated by the browser on showModal(), styled in site.scss. No
+     separate backdrop element needed here any more. -->
 
 <!-- end custom footer snippets -->

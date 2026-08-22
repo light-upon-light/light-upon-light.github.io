@@ -22,7 +22,6 @@
 
   (function () {
     var nav = document.getElementById("floating-nav");
-    var backdrop = document.getElementById("toc-backdrop");
     var topBtn = document.getElementById("back-to-top");
     var tocBtn = document.getElementById("toc-toggle");
     var prevBtn = document.getElementById("prev-section");
@@ -205,42 +204,19 @@
        the article -- auto-expand is safe there and left as is. */
     var isSidebarLayout = window.matchMedia("(min-width: 64em)");
 
-    /* At $large and up, anchor the button column to the sidebar TOC's own
-       right edge instead of the stylesheet's `right: 1rem` (which pins it
-       to the viewport edge -- on anything wider than the page's own
-       max-width that leaves it stranded in empty margin, far from the TOC
-       it operates on). `sourceToc`'s rect right edge equals its containing
-       `.sidebar__right` box's, since only the box's left padding insets
-       the nav element, not its right side (checked against the compiled
-       layout, not assumed).
-
-       Clamped to the viewport so it can never overflow: on the narrower
-       end of $large (around 64em--80em) the sidebar itself sits close
-       enough to the edge that a fixed gap outside it would push part of
-       the column off-screen, so the left offset backs off to keep the
-       whole column on-screen -- at that point the sidebar is already near
-       the edge too, so the column still reads as attached to it.
-
-       Horizontal only: the sidebar's left/right position doesn't move as
-       the reader scrolls (only its sticky *top* offset does), so this only
-       needs to re-run when the viewport itself resizes, not on scroll. */
-    function positionFloatingNav() {
-      if (!sourceToc || !isSidebarLayout.matches) {
-        nav.style.left = "";
-        nav.style.right = "";
-        return;
-      }
-      var tocRight = sourceToc.getBoundingClientRect().right;
-      var navWidth = nav.getBoundingClientRect().width || 44;
-      var gap = 12;
-      var edgeMargin = 8;
-      var left = Math.min(tocRight + gap, window.innerWidth - navWidth - edgeMargin);
-      nav.style.left = left + "px";
-      nav.style.right = "auto";
-    }
-
-    positionFloatingNav();
-    window.addEventListener("resize", positionFloatingNav);
+    /* At $large and up, the button column anchors to the sidebar TOC's own
+       right edge instead of the stylesheet's plain `right: 1rem` (which
+       pins it to the viewport edge -- on anything wider than the page's
+       own max-width that leaves it stranded in empty margin, far from the
+       TOC it operates on). This used to be computed here on load and on
+       every `resize` via two forced-layout reads (`sourceToc`'s and
+       `nav`'s `getBoundingClientRect()`), which is more than the geometry
+       needs: `.sidebar__right`'s right edge is a pure function of the
+       page's own max-width and #main's padding, both fixed values from
+       the theme's compiled CSS, not anything that has to be measured at
+       runtime. It's expressed directly in CSS now -- see the `#floating-nav`
+       rule in site.scss for the derivation. Nothing here needs to run on
+       resize any more. */
 
     /* Registered before scripts.html loads main.min.js further down the
        page, so this is in place before the theme's own Gumshoe init runs
@@ -330,8 +306,17 @@
       tocBox.innerHTML = sourceToc.innerHTML;
       drawer.appendChild(tocBox);
 
-      panel = document.createElement("div");
+      /* A real <dialog>, opened with showModal(). That hands the platform
+         the focus trap, background inertness (aria-modal + inert, both
+         applied by the browser -- never add them by hand, see the comment
+         on openDrawer below), Escape-to-close, ::backdrop and top-layer
+         rendering that the old hand-built div/backdrop pair had to fake or
+         went without. `closedby="any"` gives light-dismiss (a tap on the
+         backdrop) natively where supported; the click listener below is
+         the fallback for engines that don't have it yet. */
+      panel = document.createElement("dialog");
       panel.id = "toc-panel";
+      panel.setAttribute("closedby", "any");
       panel.appendChild(drawer);
       body.appendChild(panel);
 
@@ -356,6 +341,30 @@
       // jumping to a heading should dismiss the panel
       drawer.addEventListener("click", function (e) {
         if (e.target.closest("a")) closeDrawer(false);
+      });
+
+      /* Fallback light-dismiss for engines without `closedby`. A click
+         whose event target IS the dialog element itself (rather than
+         something inside it) landed on the backdrop: a modal <dialog>'s
+         rendered box is only its content, but the UA still resolves a
+         click anywhere in the dialog's allocated (fixed) rectangle -- the
+         backdrop included -- to the dialog element when nothing inside it
+         was hit. `drawer` fills the dialog's padding box completely (see
+         the CSS), so there is no dead space inside #toc-panel that isn't
+         part of `drawer` for this to misfire on. */
+      panel.addEventListener("click", function (e) {
+        if (e.target === panel) closeDrawer(true);
+      });
+
+      /* Escape and (where supported) `closedby="any"` backdrop clicks both
+         request a close via the `cancel` event before the dialog would
+         close itself. Taking it over and routing it through closeDrawer
+         keeps a single close path -- aria-expanded, focus return, and (via
+         the CSS) the slide-out transition all run the same way regardless
+         of what triggered the close. */
+      panel.addEventListener("cancel", function (e) {
+        e.preventDefault();
+        closeDrawer(true);
       });
     }
 
@@ -408,12 +417,13 @@
       }
     }, { passive: true });
 
-    /* --- open / close --- */
+    /* --- open / close ---
 
-    var closeTimer = null;
+       `panel.open` (native to <dialog>) is the single source of truth for
+       open state now -- no more `.is-open` class to keep in sync with it. */
 
     function isOpen() {
-      return !!panel && panel.classList.contains("is-open");
+      return !!panel && panel.open;
     }
 
     // focusing inside a fixed panel will scroll the document unless asked not
@@ -424,6 +434,25 @@
       } catch (e) {
         el.focus();
       }
+    }
+
+    /* The scroll lock. showModal()'s focus trap already stops keyboard
+       scrolling from reaching the document -- arrow/space/page keys only
+       scroll whatever has focus or its nearest scrollable ancestor, and
+       focus can't leave the dialog while it's modal. Wheel input doesn't
+       depend on focus, though, and isn't reliably absorbed by ::backdrop
+       across engines, so it still needs an explicit block. `touch-action:
+       none` on ::backdrop (see the CSS) covers touch panning the same way
+       the old #toc-backdrop did.
+
+       Not the theme's `overflow--hidden` body class, for the same reason
+       as before: `overflow: hidden` on <body> establishes a block
+       formatting context, and reflowing the theme's layout under it
+       shortens the page by well over a thousand pixels -- the reader would
+       watch the article jump to another section right as the drawer opens. */
+    function blockWheel(e) {
+      if (e.target.closest && e.target.closest(".toc__menu")) return; // let the drawer's own list scroll
+      e.preventDefault();
     }
 
     /* Copy the scrollspy's current highlight from the real TOC onto the
@@ -451,33 +480,35 @@
 
     function openDrawer() {
       if (!panel || isOpen()) return;
-      window.clearTimeout(closeTimer);
       syncActive();
 
-      backdrop.hidden = false;
-      // force a reflow so the fade has a starting point to run from
-      void backdrop.offsetHeight;
-
-      panel.classList.add("is-open");
-      backdrop.classList.add("is-open");
+      panel.showModal(); // supplies the focus trap, aria-modal, ::backdrop and top-layer rendering
+      document.addEventListener("wheel", blockWheel, { passive: false });
 
       tocBtn.setAttribute("aria-expanded", "true");
       drawer.setAttribute("tabindex", "-1");
+      /* showModal() moves focus itself (to the dialog, in the absence of an
+         [autofocus] element) and that default move is not guaranteed to be
+         scroll-safe, so this overrides it with the same preventScroll focus
+         used everywhere else here. */
       focusQuietly(drawer);
     }
 
     function closeDrawer(returnFocus) {
       if (!panel || !isOpen()) return;
 
-      panel.classList.remove("is-open");
-      backdrop.classList.remove("is-open");
+      /* panel.close() removes the `open` attribute immediately, which is
+         also what the CSS keys the slide-out transform off of --
+         `transition-behavior: allow-discrete` on `display`/`overlay` (see
+         the CSS) is what holds the dialog in the top layer for exactly as
+         long as that transform transition runs, so there is no JS timer
+         here duplicating the transition's duration the way the old
+         backdrop-unmount setTimeout did. */
+      panel.close();
+      document.removeEventListener("wheel", blockWheel);
+
       tocBtn.setAttribute("aria-expanded", "false");
       drawer.removeAttribute("tabindex");
-
-      window.clearTimeout(closeTimer);
-      closeTimer = window.setTimeout(function () {
-        backdrop.hidden = true;
-      }, reduceMotion() ? 0 : 250);
 
       if (returnFocus) focusQuietly(tocBtn);
     }
@@ -487,15 +518,11 @@
       else openDrawer();
     });
 
-    backdrop.addEventListener("click", function () {
-      closeDrawer(true);
-    });
-
-    document.addEventListener("keydown", function (e) {
-      if (e.key === "Escape" || e.key === "Esc") closeDrawer(true);
-    });
-
-    // the panel only exists below $large; don't let it linger past a rotate
+    // the panel only exists below $large; don't let it linger past a rotate.
+    // Also the guard against a modal <dialog> whose computed display drops
+    // to `none` (the $large media query, in the CSS) while it is still
+    // open -- browsers vary on how gracefully that's handled on its own,
+    // so this closes it explicitly first.
     window.addEventListener("resize", function () {
       if (isOpen() && window.innerWidth >= 1024) closeDrawer(false);
     });

@@ -24,7 +24,10 @@
    <link>s, the pre-paint theme/font-size bootstrap <script>s (must run
    before first paint, so they stay inline), the quran_section breadcrumb's
    own <style>/<script> (Liquid-templated, about to be replaced separately),
-   and all HTML markup (#floating-nav, #toc-backdrop, the SVGs). */
+   and all HTML markup (#floating-nav, #toc-panel, the SVGs). #toc-backdrop
+   was part of that markup at the time of this move; it's gone now that
+   #toc-panel is a <dialog> and its ::backdrop is browser-generated -- see
+   the TOC panel section further down and theme_internals.md. */
 
 /* --------------------------------------------------------------------------
    From _includes/head/custom.html
@@ -47,6 +50,88 @@
   @media (prefers-color-scheme: dark) {
     :root:not([data-theme="light"]) {
       color-scheme: dark;
+    }
+  }
+
+  /* Print always uses the light palette, regardless of the reader's stored
+     choice or system preference -- dark-on-light is the sensible default
+     for a printed page, and these are long reference articles people
+     realistically do print. Re-declaring the light values here (not just
+     `color-scheme: light`) is what actually repaints the page: every rule
+     in this stylesheet and the theme's own reads one of these `--mm-*` /
+     `--site-*` custom properties (see _sass/minimal-mistakes/skins/_dirt.scss
+     and the note at the top of theme_internals.md's dark-mode section), so
+     the properties are the only lever that moves them.
+
+     All three selectors -- bare, explicit dark, and the no-JS system
+     fallback -- carry the override, matching the same three-block shape
+     the palette itself uses above, so this wins regardless of which of
+     them would otherwise apply. Same specificity as each of those
+     originals; this file compiles after main.css (see the header comment
+     at the top of this file), so the later declaration in @media print
+     wins the tie without needing !important. Values are the light block
+     from _dirt.scss, copied verbatim -- not recomputed, for the same
+     reason the dark block there wasn't either. */
+  @media print {
+    :root,
+    :root[data-theme="dark"],
+    :root:not([data-theme="light"]) {
+      color-scheme: light;
+
+      --mm-background-color: #f3f3f3;
+      --mm-text-color: #343434;
+      --mm-muted-text-color: #8e8b82;
+      --mm-primary-color: #343434;
+      --mm-border-color: #e9dcbe;
+      --mm-footer-background-color: #e9dcbe;
+      --mm-link-color: #343434;
+      --mm-link-color-hover: #272727;
+      --mm-link-color-visited: #525252;
+      --mm-masthead-link-color: #343434;
+      --mm-masthead-link-color-hover: #343434;
+      --mm-navicon-link-color-hover: #d6d6d6;
+      --mm-focus-color: #343434;
+      --mm-active-color: #d6d6d6;
+      --mm-form-background-color: #f2f3f3;
+      --mm-code-background-color: #fafafa;
+      --mm-code-background-color-dark: #bdc1c4;
+      --mm-border-color-h00025: #afa58f;
+      --mm-primary-color-h00025: #272727;
+      --mm-primary-color-hover: #2a2a2a;
+      --mm-primary-color-h00010: #2f2f2f;
+      --mm-primary-color-h00050: #1a1a1a;
+      --mm-primary-color-alpha-25: rgba(52, 52, 52, 0.25);
+      --mm-text-color-alpha-06: rgba(52, 52, 52, 0.06);
+      --mm-primary-color-alpha-70: rgba(52, 52, 52, 0.7);
+      --mm-muted-text-color-alpha-50: rgba(142, 139, 130, 0.5);
+      --mm-on-accent: #fff;
+      --mm-muted-text-color-contrast: #fff;
+      --mm-active-color-contrast: #3d4144;
+      --mm-notice-bg-default: #e8e9ea;
+      --mm-notice-bg-primary: #cdcdcd;
+      --mm-notice-bg-info: #cee2e8;
+      --mm-notice-bg-warning: #eddcc3;
+      --mm-notice-bg-success: #cfe4cf;
+      --mm-notice-bg-danger: #f2d5d5;
+      --mm-code-notice-bg-default: #eee;
+      --mm-code-notice-bg-primary: #e0e0e0;
+      --mm-code-notice-bg-info: #e1eaed;
+      --mm-code-notice-bg-warning: #f0e7db;
+      --mm-code-notice-bg-success: #e1ebe1;
+      --mm-code-notice-bg-danger: #f3e4e4;
+      --site-quote-gold: #a8792a;
+      --site-src-text: #6f6152;
+      --site-src-border: #a1937c;
+      --site-gloss-border: #2e6b63;
+      --site-gloss-bg: rgba(46, 107, 99, 0.05);
+      --site-breadcrumb-sep: #c3b4a0;
+      --site-return-hover-bg: rgba(161, 147, 124, 0.14);
+      --site-floatnav-icon: #f3f3f3;
+      --site-floatnav-bg: rgba(52, 52, 52, 0.55);
+      --site-floatnav-border: #e9dcbe;
+      --site-floatnav-shadow: rgba(0, 0, 0, 0.3);
+      --site-tocbackdrop-bg: rgba(52, 52, 52, 0.5);
+      --site-blockquote-border-default: #343434;
     }
   }
 
@@ -461,7 +546,14 @@
        stylesheet activated later rather than something that lost a
        same-document cascade; that design is gone.) */
     .page,
-    .archive {
+    .archive,
+    /* Same bug, same fix, one rule: the theme reserves the right gutter on
+       its breadcrumb list the same way, with `float: inline-end; width:
+       calc(100% - 200px)`. _includes/quran-breadcrumb.html wraps the trail
+       in the theme's own `.breadcrumbs` div purely for its container
+       metrics, so without this the trail floats right and starts 200px in
+       from the title it belongs to. */
+    .breadcrumbs ol {
       float: none;
       width: 100%;
     }
@@ -1118,10 +1210,28 @@
      :not(.toc *) excludes the TOC -- both the sticky/inline copy, which
      lives inside .page__content (see the font-size rule above), and the
      mobile drawer clone, which doesn't but is harmless to exclude too.
-     Justifying nav entries reads as broken, not as prose. */
+     Justifying nav entries reads as broken, not as prose.
+
+     Justification itself is gated to $large (64em) and up. WCAG 2.2 SC
+     1.4.8 (AAA) asks that text not be justified at all, because the
+     stretched/compressed word-spacing it needs to fill each line reads
+     worse for some readers (dyslexia in particular) than ragged-right
+     does. The measure this article column runs at makes that trade-off
+     width-dependent, though: justify's rivers of whitespace are worst on
+     a *narrow* column, where there are few words per line to spread the
+     slack across -- exactly the phone-width case this rule was written
+     for in the first place (see the hyphens comment above). Below $large
+     the browser default (ragged-right) applies instead; hyphens: auto
+     stays on unconditionally, since it helps a ragged edge too. */
+  @media (min-width: 64em) {
+    .page__content p:not(.toc *),
+    .page__content li:not(.toc *) {
+      text-align: justify;
+    }
+  }
+
   .page__content p:not(.toc *),
   .page__content li:not(.toc *) {
-    text-align: justify;
     -webkit-hyphens: auto;
     hyphens: auto;
   }
@@ -1221,6 +1331,60 @@
     opacity: 1;
   }
 
+  /* $large and up: anchor the column to the sidebar TOC's own right edge
+     instead of the plain `right: 1rem` above, which pins it to the
+     viewport edge -- on anything wider than the page's own max-width that
+     leaves it stranded in empty margin, far from the TOC it operates on.
+     Only on pages that have a TOC at all (see `.no-toc` below); home and
+     about have no `.sidebar__right` for this to attach to, so they keep
+     the plain viewport-edge position at every width.
+
+     This used to read `sourceToc.getBoundingClientRect().right` and
+     `nav.getBoundingClientRect().width` in JS on load and on every
+     `resize` (site.js). Both are pure functions of the page's own
+     max-width and the theme's fixed breakpoint variables, not anything
+     that needs measuring at runtime:
+
+     - `.sidebar__right`'s right edge coincides with #main's right edge
+       minus #main's own 1em padding-inline -- the theme's `.page`
+       reserves exactly `$right-sidebar-width(-narrow)` of end padding and
+       the sidebar sits `position: absolute; inset-inline-end: 0` with a
+       matching negative end margin, so the reserved width and the
+       negative margin cancel and the sidebar's rendered edge lands flush
+       with `.page`'s (and so #main's) own outer edge regardless of which
+       sidebar-width variant is active. (Checked against the compiled
+       theme CSS, not assumed.)
+     - #main itself is `max-width: 100%` below $x-large (1280px) --
+       i.e. its right edge tracks the viewport -- and `max-width: 1280px`,
+       centred, above it. `min(100vw, 50vw + 640px)` is exactly that: the
+       two expressions are equal at 1280px and the smaller one is always
+       the one in effect on either side of it, so this needs no separate
+       breakpoint for the x-large transition.
+
+     `- 1rem` is #main's own padding-inline. `+ 0.75rem` is the 12px gap
+     the old JS put between the TOC edge and the button column.
+
+     Clamped with an outer min() to `100vw - 6.6rem` so it can never
+     overflow: on the narrower end of $large (roughly 64em--80em) #main
+     still fills the viewport, so the sidebar's edge is close enough to
+     100vw that TOC-edge-plus-gap would push part of the column off-screen
+     -- the clamp backs the column off to stay on-screen instead, and at
+     that width the sidebar is already near the edge too, so it still
+     reads as attached to it. 6.6rem is the column's own width: two
+     2.75rem button columns (`grid-auto-flow: column` over `repeat(3,
+     auto)` rows, six buttons) plus one 0.6rem gap between them, plus the
+     0.5rem edge margin the old JS also kept clear of the viewport edge.
+
+     rem is safe here (not scaled by the reader's large-text toggle): that
+     toggle only bumps `.page__content`'s own font-size (see further down),
+     and #floating-nav sits outside it, in body. */
+  @media (min-width: 64em) {
+    #floating-nav:not(.no-toc) {
+      left: min(min(100vw, 50vw + 640px) - 0.25rem, 100vw - 6.6rem);
+      right: auto;
+    }
+  }
+
   #floating-nav button {
     /* 44px: minimum comfortable touch target */
     width: 2.75rem;
@@ -1280,49 +1444,103 @@
      TOC panel
      ------------------------------------------------------------------ */
 
-  #toc-backdrop {
-    position: fixed;
-    inset: 0;
-    z-index: 105;
-    background-color: var(--site-tocbackdrop-bg);
-    opacity: 0;
-    transition: opacity 0.25s ease;
-    /* swallows pan gestures, which is the whole scroll lock. The theme's
-       `overflow--hidden` body class is NOT usable here: `overflow: hidden`
-       on <body> establishes a block formatting context, and reflowing the
-       theme's layout under it shortens the page by well over a thousand
-       pixels — the reader watches the article jump to another section. */
-    touch-action: none;
-  }
-
-  #toc-backdrop.is-open {
-    opacity: 1;
-  }
-
-  /* Always mounted and always fixed, so it never takes part in layout and
-     there is nothing to move on open. Off-screen and `visibility: hidden`
-     keeps it out of the tab order until it is wanted. */
+  /* #toc-panel is a <dialog>, opened with showModal() (site.js). That hands
+     the platform the focus trap, background inertness, Escape-to-close and
+     top-layer rendering that the old hand-built div + #toc-backdrop pair
+     had to fake: no more manual aria-modal, no `inert` to apply by hand,
+     no document-level keydown listener for Escape. Never add role="dialog"
+     or aria-modal here -- showModal() supplies both. */
   #toc-panel {
     position: fixed;
     top: 0;
     bottom: 0;
     right: 0;
-    z-index: 110;
+    left: auto;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    max-width: none;
+    max-height: none;
+    background: transparent; // the clone (.toc, .nav__title …) supplies its own opaque background
+
+    /* `height: auto` is load-bearing, and is not the initial value here:
+       the UA stylesheet gives `dialog` `width: fit-content; height:
+       fit-content`, and fit-content ignores a top/bottom pair, so the
+       panel sized itself to the length of the menu and stopped short of
+       the bottom edge -- 598px of an 812px viewport on a phone, with the
+       article showing underneath it. The `width` below overrides its half
+       of that; this overrides the other half, and `top: 0; bottom: 0` then
+       stretches the panel the full height it is meant to run. */
+    height: auto;
 
     /* the vw term guarantees a strip of backdrop survives on the left, so
        there is always somewhere to tap to dismiss */
     width: min(86vw, 21rem);
-    display: flex;
-    flex-direction: column;
 
+    /* display: flex lives on the [open] rule below, not here. An
+       unconditional `display` here would out-cascade the UA's own
+       `dialog:not([open]) { display: none }` -- author rules always beat
+       UA ones regardless of specificity -- and the dialog would stay
+       visible even before showModal() ever runs. */
+
+    /* Slide-in, `display: none` -> `flex` included: `<dialog>` is
+       display:none at rest, so animating the transform alone would jump
+       straight to the open frame with nothing to transition from.
+       `@starting-style` supplies that "before" frame, and
+       `transition-behavior: allow-discrete` is what lets `display` (and
+       `overlay`, the top-layer promotion) participate in the transition at
+       all instead of flipping instantly. Both are Baseline newly available
+       (2024) -- reduced-motion and no-JS/no-support both still work,
+       because `showModal()`/`close()` toggle `[open]` regardless of
+       whether any of this animates.
+
+       This is also what replaces the old setTimeout that used to unmount
+       #toc-backdrop after a hardcoded 250ms guessed to match the CSS
+       transition duration: allow-discrete holds the dialog in the top
+       layer for exactly as long as the transform transition actually
+       takes, driven by the same duration below, so there is nothing left
+       to keep in sync by hand. See closeDrawer() in site.js. */
     transform: translateX(100%);
-    visibility: hidden;
-    transition: transform 0.25s ease, visibility 0.25s;
+    transition: transform 0.25s ease,
+                overlay 0.25s ease allow-discrete,
+                display 0.25s ease allow-discrete;
   }
 
-  #toc-panel.is-open {
+  #toc-panel[open] {
+    display: flex;
+    flex-direction: column;
     transform: translateX(0);
-    visibility: visible;
+  }
+
+  @starting-style {
+    #toc-panel[open] {
+      transform: translateX(100%);
+    }
+  }
+
+  /* Styles the generated backdrop box a modal <dialog> paints behind
+     itself in the top layer -- replaces the old #toc-backdrop element and
+     its own opacity transition. `touch-action: none` is still the touch
+     half of the scroll lock (swallows pan gestures); the wheel half is
+     `blockWheel()` in site.js, since `<dialog>`'s focus trap only accounts
+     for keyboard scrolling, not the mouse wheel. */
+  #toc-panel::backdrop {
+    background-color: var(--site-tocbackdrop-bg);
+    opacity: 0;
+    transition: opacity 0.25s ease,
+                overlay 0.25s ease allow-discrete,
+                display 0.25s ease allow-discrete;
+    touch-action: none;
+  }
+
+  #toc-panel[open]::backdrop {
+    opacity: 1;
+  }
+
+  @starting-style {
+    #toc-panel[open]::backdrop {
+      opacity: 0;
+    }
   }
 
   /* the clone's <nav> wrapper has to pass the panel's height through to the
@@ -1408,25 +1626,81 @@
      drawer pieces go. */
   @media (min-width: 64em) {
     #floating-nav #toc-toggle,
-    #toc-backdrop,
     #toc-panel {
       display: none;
     }
   }
 
+  /* transition: none also turns off allow-discrete, so `[open]`/`::backdrop`
+     flip synchronously with display -- an instant show/hide rather than no
+     show/hide at all. */
   @media (prefers-reduced-motion: reduce) {
     #floating-nav,
-    #toc-backdrop,
-    #toc-panel {
+    #toc-panel,
+    #toc-panel::backdrop {
       transition: none;
     }
   }
 
   @media print {
     #floating-nav,
-    #toc-backdrop,
     #toc-panel {
       display: none;
+    }
+
+    /* The theme's own print.scss already sets `.toc { display: none
+       !important }` (it's in the "hide the following elements on print"
+       list alongside .masthead and .sidebar), so the TOC -- collapsed
+       sections and all -- never reaches the printed page regardless of
+       what's expanded on screen. Nothing to unhide there. What DOES print
+       and DOES silently omit content when collapsed is the yt-embed
+       <details> boxes below: a closed one has nothing under its <summary>
+       once the UA's own `details:not([open]) > *:not(summary) { display:
+       none }` default is in effect, same mechanism as the TOC's collapsed
+       groups but with no equivalent print override yet. Generic, not
+       scoped to .yt-embed, since it's the only <details> on the site right
+       now and a future one would have the same problem. Author rules beat
+       the UA default at equal specificity, so this needs no !important. */
+    details:not([open]) > *:not(summary) {
+      display: block;
+    }
+
+    /* Printing a live <iframe> is meaningless, and a poster (the play
+       button/thumbnail built on open, see site.js) is just as useless on
+       paper -- so print always shows the no-JS fallback link instead,
+       regardless of whether the box was ever opened on screen.
+       `.yt-embed__frame.is-loaded > a` is the theme rule this overrides
+       (site.scss, above) that hides the fallback once a player is
+       mounted. */
+    .yt-embed__frame iframe,
+    .yt-embed__poster {
+      display: none;
+    }
+
+    .yt-embed__frame > a {
+      display: block;
+    }
+
+    /* The theme's own print.scss prints the href after every http(s)/ftp
+       link in the whole document (`a[href^='http://']:after { content: "
+       (" attr(href) ")" }`), which is exactly what this override is for:
+       undo it globally, then reinstate it only for the citation list. An
+       inline citation marker mid-sentence (a.footnote, see CLAUDE.md's
+       Source citations section) printing its raw #ref-N anchor href would
+       be noise; the reference list is the one place a reader holding a
+       printout actually needs the target written out, since they can't
+       click through. Same specificity as the theme's original selector
+       (attribute selector + ::after, no class), so the source-order tie
+       (this file loads after main.css) is what wins here too. */
+    a[href^="http://"]::after,
+    a[href^="https://"]::after,
+    a[href^="ftp://"]::after {
+      content: "";
+    }
+
+    .footnotes a[href^="http"]::after {
+      content: " (" attr(href) ")";
+      font-size: 80%;
     }
   }
 
@@ -1522,4 +1796,65 @@
     .toc__toggle svg {
       transition: none;
     }
+  }
+
+  /* ------------------------------------------------------------------
+     Qur'an breadcrumb trail
+     ------------------------------------------------------------------
+     Markup in _includes/quran-breadcrumb.html, reached through the
+     theme-include override in _includes/breadcrumbs.html. Rendered on the
+     sub-pages of quran.md only, gated on their `quran_section` front
+     matter. Colours come from the --site-* / --mm-* properties, so there
+     is no second copy of this for dark mode. */
+  /* Sits above #page-title, the conventional breadcrumb position -- bottom
+     margin only, so it reads as attached to the title it precedes rather
+     than floating between two things. 0.6em read as cramped in practice,
+     sitting almost flush against the title.
+
+     It is no longer #page-title's own sibling: the trail is rendered from
+     _includes/breadcrumbs.html, which _layouts/single.html calls before
+     <div id="main">, so the two sit in different containers and the old
+     `.quran-breadcrumb + #page-title` rule matched nothing. The theme's own
+     spacing between them is fine, so nothing replaces it. */
+  .quran-breadcrumb {
+    margin: 0 0 1.2em;
+  }
+
+  .quran-breadcrumb ol {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: baseline;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    font-family: "Karla", -apple-system, BlinkMacSystemFont, "Roboto",
+                 "Segoe UI", Arial, sans-serif;
+    font-size: 0.8em;
+  }
+
+  .quran-breadcrumb li {
+    display: flex;
+    align-items: baseline;
+  }
+
+  /* kramdown/GFM renders a literal "›" as three bytes; the numeric
+     reference is unambiguous regardless of source encoding */
+  .quran-breadcrumb li + li::before {
+    content: "\203a";
+    margin: 0 0.5em;
+    color: var(--site-breadcrumb-sep);
+  }
+
+  .quran-breadcrumb a {
+    color: var(--mm-muted-text-color);
+    text-decoration: none;
+  }
+
+  .page__content .quran-breadcrumb a:hover {
+    color: var(--mm-text-color);
+    text-decoration: underline;
+  }
+
+  .quran-breadcrumb li[aria-current="page"] {
+    color: var(--site-src-text);
   }

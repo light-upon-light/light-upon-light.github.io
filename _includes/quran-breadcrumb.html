@@ -1,0 +1,45 @@
+{%- comment -%}
+  The Qur'an breadcrumb trail (quran.md / section on quran.md / this page).
+  Only reached from _includes/breadcrumbs.html, which gates this on
+  `page.quran_section` -- see that file for why it exists and where it sits
+  in the page.
+
+  Server-rendered, not built at runtime with document.createElement: every
+  value here (quran.md's short_title, page.quran_section, its label, this
+  page's own short_title) is fixed at build time, so there was nothing that
+  actually needed a browser to compute. The previous version's stated reason
+  for going through JS was keeping the markup out of .page__content, since
+  Lunr indexes that container verbatim (search_full_content in CLAUDE.md) and
+  a static link there would become the truncated search snippet for every
+  hit on the page. That justification no longer holds either way:
+  `search: false` in _config.yml means there is no Lunr index at all right
+  now, and this include never lands inside .page__content regardless -- see
+  breadcrumbs.html, called from _layouts/single.html above `<div id="main">`,
+  which is what contains .page__content.
+
+  The end-of-article return link (a.back-to-quran-link, built in
+  footer/custom.html) is deliberately NOT handled here. That link claims
+  "back to where you were", which is a fact about how this particular reader
+  arrived (document.referrer) -- unlike this trail, which is a fixed
+  statement of site structure and stays server-rendered.
+{%- endcomment -%}
+{%- comment -%}
+  The outer `.breadcrumbs` div is the theme's own class, reused for its
+  container metrics alone: `margin-inline: auto; max-width: 1280px;
+  padding-inline: 1em`, identical to `#main`'s. Without it this trail sits
+  where the theme's breadcrumb slot puts it -- a direct child of
+  .initial-content, outside #main -- and so runs flush to the viewport's
+  left edge while the <h1> below it is inset by the container's 1em, which
+  reads as a misalignment rather than as a trail belonging to the title.
+  Nothing else is borrowed: `.quran-breadcrumb ol` sets its own font.
+{%- endcomment -%}
+{% assign quran_page = site.pages | where: "permalink", "/quran" | first %}
+<div class="breadcrumbs">
+  <nav class="quran-breadcrumb" aria-label="Breadcrumb">
+    <ol>
+      <li><a href="{{ '/quran' | relative_url }}">{{ quran_page.short_title | default: quran_page.title | strip_html | escape }}</a></li>
+      <li><a href="{{ '/quran' | relative_url }}#{{ page.quran_section }}">{{ page.quran_section_label | escape }}</a></li>
+      <li aria-current="page">{{ page.short_title | default: page.title | strip_html | escape }}</li>
+    </ol>
+  </nav>
+</div>
