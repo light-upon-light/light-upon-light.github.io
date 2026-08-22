@@ -4,6 +4,24 @@ Jekyll site (GitHub Pages) using the `minimal-mistakes` theme via `remote_theme`
 pinned to 4.28.0. Pages live in `_pages/`. Build with
 `bundle exec jekyll build`.
 
+## Searching from Bash
+
+**Never run `find /` (or any unscoped `find`) from the Bash tool.** Git Bash's
+root enumerates `/c` (the 459 GB SSD) and `/g` (Google Drive, a 200 GB virtual
+mount that hydrates cloud files as it is walked), so such a scan never
+finishes. The Bash tool's timeout then reaps the shell and leaves `find.exe`
+orphaned, pegging a core indefinitely — six of them once accumulated 76
+CPU-hours and ~12 GB of commit before being killed.
+
+Use `Glob`/`Grep`, or scope `find` to a directory that is known to be local and
+bounded. The theme lives inside the gem, so resolve it with
+`bundle show minimal-mistakes-jekyll` rather than hunting the filesystem for it;
+`_dirt.scss` is the one file shadowed locally.
+
+Same rule for long-lived servers: stop a `jekyll serve` when done. Abandoned
+instances hold ports (4000-4002, 4444, 8888 have all been squatted) and keep
+filesystem watchers alive.
+
 ## Writing style, formatting and analytical approach guide
 
 Make sure to refer to `_notes/guides/writing_style_guide.md` and `_notes/guides/formatting_guide`
