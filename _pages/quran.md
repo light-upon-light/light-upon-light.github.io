@@ -27,26 +27,31 @@ share: true
 ### <span class="num-roman">I.</span> Mode of Revelation
 {: #mode-of-revelation }
 
-1. Revealed **entirely by oral recitation** through Prophet Muhammad ﷺ, a man from seventh-century Mecca who could **neither read nor write**. The Qur'an states this before the audience best placed to deny it.
+1. Revealed **entirely by oral recitation** through Prophet Muhammad ﷺ, a man from seventh-century Mecca who could **neither read nor write**.
+    > The Qur'an itself states this openly among those who knew him firsthand and were best positioned to challenge it. Had the claim been false, it would have offered his opponents an immediate and devastating way to discredit him as a liar from the beginning. The verse in question is quoted below.
+    {: .gloss }
     > “You ˹O Prophet˺ could not read any writing ˹even˺ before this ˹revelation˺, nor could you write at all. Otherwise, the people of falsehood would have been suspicious.” (**Sūrat al-ʿAnkabūt 29:48**), Dr. Mustafa Khattab, *The Clear Quran*
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَمَا كُنتَ تَتْلُوا۟ مِن قَبْلِهِۦ مِن كِتَـٰبٍ وَلَا تَخُطُّهُۥ بِيَمِينِكَ ۖ إِذًا لَّٱرْتَابَ ٱلْمُبْطِلُونَ ۝٤٨﴾ <span class="ayah-ref">سُورَةُ العَنكَبُوتِ</span></div>
     {: .quote }
-1. Revealed over **23 years**, in **separate portions** and **not in** the **order** in which we read it today—often amid unfolding events and in response to unforeseen questions and circumstances. The Qur’an nevertheless stands in its final arrangement as a coherent literary composition.
-    > Keep this fact in mind throughout the rest of the page. The Qur'an's qualities that may already seem impressive on their own become dramatically more so when one considers that it emerged piecemeal and out-of-order across 23 years of unpredictable events.
-    {: .gloss }
+1. Revealed over **23 years**, in **separate portions** and **not in** the **order** in which we read it today—often amid unfolding events and in response to unforeseen questions and circumstances. The Qur'an nevertheless stands in its final arrangement as a coherent literary composition.
 1. Once he recited a verse, it was fixed, with **no retraction, no revision, and no second draft**.
+    > This is crucial context for everything that follows. The Qur'an's qualities that may already seem impressive on their own become dramatically more so when one considers that it emerged piecemeal and out-of-order across 23 years of unpredictable events with no revisions or retractions, through oral recitation from a man who could not read or write.
+    {: .gloss }
 
 ### <span class="num-roman">II.</span> Literary Miracle
 {: #literary-miracle }
 
-1. Extends to **more than 600 pages** of recited text. The claims here concern a work of that scale, not a short passage.
+1. Extends to **more than 600 pages** of recited text. The claims here concern a work of that scale.
 1. Regarded in **every generation since** as the **summit of Arabic eloquence**, both by admirers and by opponents.
     {% include yt-embed.html url="https://youtu.be/abzZL_3Av2E" title="Linguistic Miracle of the Qur'an" %}
 
     {% include yt-embed.html url="https://youtu.be/vady0SQGHCU" title="Incredible Word Patterns found in the Quran" %}
 
     {% include yt-embed.html url="https://youtu.be/phO4YyNJ244" title="The Amazonian Tribe That Accidentally Proved the Quran is Unmatched | Arabic101" %}
+
+    > [The Inimitable Qur'an - paper](https://yaqeeninstitute.ca/read/paper/the-inimitable-quran-the-revelation-to-prophet-muhammad)
+
 1. Belongs to **neither poetry nor prose**, but to a **unique form of its own** that combines rhythmic beauty with precision of meaning.
 1. Maintains the same **literary quality across all 23 years** of revelation, unlike human authors whose style normally changes over a career.
 1. It became the **reference text for Arabic grammar itself**. When grammarians recorded the language's rules, they treated the Qur'an as a standard of correct Arabic because it contains **no linguistic errors**. Fourteen centuries of scrutiny have **turned up no error in it**.
@@ -57,7 +62,7 @@ share: true
 
     {% include yt-embed.html url="https://youtu.be/9gJWIGLJhHM" title="Marvels of the Qur'an | Dr. Ali Ataie" %}
 
-    {% include yt-embed.html url="https://youtu.be/2iiGZlyDOXk" title="Mind Blowing Symmetry in Quran Pages! - The Miracle You’ll Hear for the First Time!" %}
+    {% include yt-embed.html url="https://youtu.be/2iiGZlyDOXk" title="Mind Blowing Symmetry in Quran Pages! - The Miracle You'll Hear for the First Time!" %}
 
     {% include yt-embed.html url="https://youtu.be/b5Y5gMc_XZo" title="THE RING COMPOSITION! - Remarkable Structure of the Quran" %}
 
@@ -85,7 +90,7 @@ share: true
     {% include yt-embed.html url="https://youtu.be/_HlpfgaDATU" title="Conquering Doubts & Confidently Defending Islam | Ali Ataie" note="The whole of this video is great" %}
 
 1. **Flows naturally** and is **beautifully melodic**, with a **profound effect on the heart**. Even without knowing the meaning of the words, people who do not understand Arabic often weep while listening to it being recited or describe that they are overcome with a surreal feeling of peace and tranquility.
-    > "The inimitability of the Qur'an has yet another dimension, one which people tend to overlook, and is unrecognized except by a sparse few—namely what it generates in the hearts and impresses onto the souls. Aside from the Qur'an, you do not hear of any discourse, neither poetry nor prose, that upon reaching one's ears provides such immediate pleasure and sweetness, and at other times such awe and intimidation, like the Qur'an does." Muḥammad Khalaf Allāh Aḥmad (ed.), Muḥammad Zaghlūl Sallām (ed.), and Issa J. Boullata (trans.), *Three Treatises on the I'jāz of the Qur'ān* (Reading, UK: Garnet Publishing, 2014), 46
+    > "The inimitability of the Qur'an has yet another dimension, one which people tend to overlook, and is unrecognized except by a sparse few—namely what it generates in the hearts and impresses onto the souls. Aside from the Qur'an, you do not hear of any discourse, neither poetry nor prose, that upon reaching one's ears provides such immediate pleasure and sweetness, and at other times such awe and intimidation, like the Qur'an does." Muḥammad Khalaf Allāh Aḥmad (ed.), Muḥammad Zaghlūl Sallām (ed.), and Issa J. Boullata (trans.), *Three Treatises on the I'jāz of the Qur'ān* (Reading, UK: Garnet Publishing, 2014),
     {: .src }
 
 ### <span class="num-roman">III.</span> Challenges and Bold Claims
@@ -348,7 +353,7 @@ The **section about the Prophet Muhammad** ﷺ has moved to its own **page linke
 ## Links
 
 - A comprehensive free book on the miraculous nature of the Qur'an:
-    > [A Journey Through The Miraculous Qur’an](https://onereason.org/eternalchallenge/)
+    > [A Journey Through The Miraculous Qur'an](https://onereason.org/eternalchallenge/)
 - Further videos on the miraculous nature of the Qur'an:
     {% include yt-embed.html url="https://youtu.be/9gJWIGLJhHM" title="Marvels of the Qur'an | Dr. Ali Ataie" %}
 
@@ -365,7 +370,7 @@ The **section about the Prophet Muhammad** ﷺ has moved to its own **page linke
 
     {% include yt-embed.html url="https://youtu.be/VjIL0Gio4yA" title="Millenials are returning to God - Here's why | Blogging Theology" %}
 
-    {% include yt-embed.html url="https://youtu.be/EQsKDZzd7U8" title="The World’s Leading Atheist Admitted: God Exists" %}
+    {% include yt-embed.html url="https://youtu.be/EQsKDZzd7U8" title="The World's Leading Atheist Admitted: God Exists" %}
 
 - Are love and mercy really Islam's central message?
     {% include yt-embed.html url="https://youtu.be/KQFrovc_1G0" title="The Power of Love | Al-Habib Ali Al-Jifri" note="turn on English captions" %}
