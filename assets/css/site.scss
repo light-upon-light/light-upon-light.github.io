@@ -675,6 +675,15 @@
     font-size: 0.85em;
   }
 
+  /* Same call for .quran-more (further-verses disclosures in quran.md) --
+     its own "Show ..." summary is apparatus like .yt-embed's "Watch: ...",
+     so it gets the same undo-and-hold-at-0.85em treatment. The quotes
+     inside still pick up their real size from .page__content blockquote
+     above regardless of the <details> nesting. */
+  [data-font-size="large"] .page__content .quran-more {
+    font-size: 0.85em;
+  }
+
   /* The TOC widget (nav.toc, both the desktop sticky sidebar and the
      mobile inline version) renders inside .page__content, so without this
      it inherits the reduction above and reads smaller than the rest of
@@ -959,6 +968,46 @@
 
   .yt-embed__note {
     opacity: 0.75;
+  }
+
+  /* Collapsible "further verses" wrapper for the multi-quote points in
+     quran.md's Section IV -- closed by default so a point's second, third,
+     etc. supporting verse doesn't force the whole list open. Same
+     taupe/sepia treatment as .yt-embed above (both are apparatus, not
+     primary content), but with no video mechanics: content is markdown
+     quotes rendered normally, so `markdown="1"` on the <details> tag is
+     required -- without it kramdown treats the whole multi-line block as
+     opaque raw HTML and never re-parses the blockquotes inside (verified
+     against this site's own kramdown config; see the yt-embed.html
+     comment on the same class of bug for the single-line workaround this
+     tag doesn't need, since markdown="1" fixes it at the source). */
+  .quran-more {
+    margin: 0.6em 0;
+    border-inline-start: 0.1875em solid var(--site-src-border);
+    padding-inline-start: 0.75em;
+  }
+
+  .quran-more > summary {
+    cursor: pointer;
+    color: var(--site-src-text);
+    font-size: 0.9em;
+    padding-block: 0.3em;
+    list-style: none;
+  }
+
+  .quran-more > summary::-webkit-details-marker {
+    display: none;
+  }
+
+  .quran-more > summary::before {
+    content: "\25b8";
+    display: inline-block;
+    width: 1em;
+    transition: transform 0.2s ease;
+  }
+
+  .quran-more[open] > summary::before {
+    transform: rotate(90deg);
   }
 
   /* Holds the no-JS fallback link until the script in footer/custom.html
@@ -1702,14 +1751,14 @@
        list alongside .masthead and .sidebar), so the TOC -- collapsed
        sections and all -- never reaches the printed page regardless of
        what's expanded on screen. Nothing to unhide there. What DOES print
-       and DOES silently omit content when collapsed is the yt-embed
-       <details> boxes below: a closed one has nothing under its <summary>
-       once the UA's own `details:not([open]) > *:not(summary) { display:
-       none }` default is in effect, same mechanism as the TOC's collapsed
-       groups but with no equivalent print override yet. Generic, not
-       scoped to .yt-embed, since it's the only <details> on the site right
-       now and a future one would have the same problem. Author rules beat
-       the UA default at equal specificity, so this needs no !important. */
+       and DOES silently omit content when collapsed is any <details> box
+       (.yt-embed below, .quran-more in quran.md): a closed one has nothing
+       under its <summary> once the UA's own `details:not([open]) >
+       *:not(summary) { display: none }` default is in effect, same
+       mechanism as the TOC's collapsed groups but with no equivalent print
+       override yet. Generic, not scoped to either class, so any future
+       <details> gets the same fix for free. Author rules beat the UA
+       default at equal specificity, so this needs no !important. */
     details:not([open]) > *:not(summary) {
       display: block;
     }
