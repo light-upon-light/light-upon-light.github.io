@@ -33,7 +33,7 @@ share: true
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَمَا كُنتَ تَتْلُوا۟ مِن قَبْلِهِۦ مِن كِتَـٰبٍ وَلَا تَخُطُّهُۥ بِيَمِينِكَ ۖ إِذًا لَّٱرْتَابَ ٱلْمُبْطِلُونَ ۝٤٨﴾ <span class="ayah-ref">سُورَةُ العَنكَبُوتِ</span></div>
     {: .quote }
 1. Revealed over **23 years**, in **separate portions** and **not in** the **order** in which we read it today—often amid unfolding events and in response to unforeseen questions and circumstances. The Qur’an nevertheless stands in its final arrangement as a coherent literary composition.
-    > This is crucial context for everything that follows. The Qur'an's remarkable features become much more difficult to explain once we remember that it emerged piecemeal across 23 years of unpredictable events.
+    > This is crucial context for everything that follows. The Qur'an's qualities that may already seem impressive on their own become dramatically more so when one considers that it emerged piecemeal and out-of-order across 23 years of unpredictable events.
     {: .gloss }
 1. Once he recited a verse, it was fixed, with **no retraction, no revision, and no second draft**.
 
