@@ -23,6 +23,10 @@ At some point:
 
 - better theme (is the current theme the source of all the issues we keep fixing?)
 - web dev / jekyll / GFM / HTML best practice
+- it seems like we've been consistently running into limitations of the minimal mistakes theme whenever we want to implement a feature. So we have to change the theme defaults or implement things ourselves to get what we want. Is this normal? Or is minimal mistakes not a powerful enough Jekyll theme for our purposes? Should we switch to another theme that will make our life easier? Think critically about this and explore the options out there and let me know what possible paths we have
+- (I asked chatgpt to generate a prompt for the above issue. Search chatgpt chat history for context)
+- In the past few commits you've been struggling quite hard to implement a cleanly working dark / light mode toggle. I feel like this must be a done and dusted problem in web dev. So where is the issue? Is it that you aren't searching the internet? Is it the limitation of the stack we're using (Jekyll + minimal mistakes)? Is it something else? Why was it so hard when a standard implementation and reference should exist?
+
 - review all the caveats and things written in claude.md and theme_internals.md, and test them out. are they true? do we still need to keep them?
 - fix [2026-08-06 23:14:20] ERROR '/favicon.ico' not found. error
 
