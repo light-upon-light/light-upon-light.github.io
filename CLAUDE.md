@@ -324,11 +324,31 @@ strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, a, tr,
 td, …`. Every one of those wedges on a palette change, so bold and italic text
 and `h1`/`h2`'s border-bottom used to arrive late and visibly slide out of the
 old palette *after* the cross-fade ended. (`hr` is absent from the theme's list,
-which is why it alone always changed cleanly — a useful tell.) `apply()`
-therefore hangs `.theme-switching` on `<html>`, which is `transition: none
-!important` on everything, forces the recalculation, and holds the class until
-the new palette is genuinely in effect. **Anything that changes the palette must
-go through `apply()`**; a bare `setAttribute`/`media` flip reintroduces the lag.
+which is why it alone always changed cleanly — a useful tell.) That rule is now
+overridden directly in `custom.html` with `html :is(b, i, strong, …) {
+transition: none }` (the interactive subset — `a`, `.btn`, `form button`,
+`input[type="submit"]` — keeps a named colour transition), so the root cause is
+gone rather than papered over. `.theme-switching` (`transition: none
+!important` on everything) stays in place regardless, as a safety net for
+anything the `:is()` list misses, and becomes a no-op once dark mode stops
+being a second stylesheet swapped by media attribute — that rework is still
+pending. **Anything that changes the palette must go through `apply()`**; a
+bare `setAttribute`/`media` flip reintroduces the lag.
+
+`custom.html`'s `<style>` block is emitted *after* `main.css`'s `<link>` (byte
+~1750 vs ~3000 in a built page), so an override only needs to match the
+theme's specificity, not beat it with `!important` — source order already
+does that. The nine `!important`s that remain there all have a real reason:
+four beat a rule `dark.css` re-declares at equal specificity *after* this
+block (dark mode is a second stylesheet activated later, not a same-document
+cascade loss); the rest beat `.page__content :first-child { margin-top: 0em
+}`, a theme rule at `(0,2,0)` that outranks several lower-specificity
+overrides here, or exist to outrank another rule in this same file that
+itself must stay `!important`. Every other `!important` in the file was
+removed as unnecessary — checked against both compiled stylesheets, not
+assumed. The four tied to `dark.css` go away once dark mode stops being a
+second stylesheet; the rest are independent of that and would need
+revisiting on their own terms.
 
 Forcing layout is *not* the same as the sheet applying. Resolving pending style
 and re-evaluating which stylesheets match after a `media` change are separate

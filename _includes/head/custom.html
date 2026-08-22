@@ -66,10 +66,14 @@
      font-family rule of their own in the theme, so they already inherit
      from body without needing to be named here.
 
-     !important for the same cascade-order reason as the other overrides in
-     this file: this include renders before main.css, so a plain override of
-     equal specificity loses to source order -- and the theme's own
-     h1-h6 rule is exactly that: equal specificity, defined later. */
+     In the built page this block is emitted AFTER main.css's <link>, so an
+     override only needs to match the theme's specificity, not beat it with
+     !important -- source order alone would do it. This one still carries
+     !important because dark.css re-declares the identical body/h1-h6 rule
+     (same specificity) *after* this block, and dark mode is a second
+     stylesheet activated later, not a cascade dark.css loses on its own;
+     without !important the site would render in the sans stack again every
+     time dark mode was on. Verified against both compiled stylesheets. */
   body,
   h1, h2, h3, h4, h5, h6 {
     font-family: "Source Serif 4", Georgia, "Times New Roman", serif !important;
@@ -78,25 +82,27 @@
   /* Masthead brand mark only -- a heavier, more dramatic display face than
      the reading type above, reserved for the one-word site title. .site-title
      has no font-family rule of its own in the theme (it inherits the sans
-     stack from its parent .masthead__inner-wrap), so this doesn't need
-     !important to win, but carries one anyway for consistency with the
-     cascade-order reasoning used throughout this file. font-weight: 400 is
-     Abril Fatface's only cut -- the face is drawn heavy, not made heavy by
-     weight. */
+     stack from its parent .masthead__inner-wrap), so font-family here needs
+     no !important -- there is nothing in main.css or dark.css to beat.
+     font-weight is different: the theme sets `.site-title { font-weight:
+     bold }` at the same specificity as this selector, and dark.css
+     re-declares that same rule after this block, so without !important
+     dark mode's site-title would render bold instead of Abril Fatface's
+     single (400) cut. */
   .site-title {
-    font-family: "Abril Fatface", "Source Serif 4", Georgia, serif !important;
+    font-family: "Abril Fatface", "Source Serif 4", Georgia, serif;
     font-weight: 400 !important;
     letter-spacing: 0.01em;
   }
 
   /* Masthead nav link ("The Qur'an and the Messenger ﷺ") -- UI text, not
      reading content and not the brand mark, so neither the serif nor the
-     display face belongs here. Like .site-title, this has no font-family
-     of its own in the theme (inherits sans from .masthead__inner-wrap), so
-     !important isn't required to win, but is kept for consistency. */
+     display face belongs here. Like .site-title's font-family, this has no
+     rule of its own to beat in either compiled stylesheet, so no
+     !important is needed. */
   .masthead__menu-item a {
     font-family: "Karla", -apple-system, BlinkMacSystemFont, "Roboto",
-                 "Segoe UI", Arial, sans-serif !important;
+                 "Segoe UI", Arial, sans-serif;
   }
 
   /* The mode toggle in the masthead, styled to match the theme's adjacent
@@ -277,6 +283,51 @@
     transition: none !important;
   }
 
+  /* Kill the theme's own root cause, not just its symptom above.
+     _sass/minimal-mistakes/_base.scss ("Global animation transition") puts
+     a bare `transition: all 0.2s ease-in-out` on:
+
+       b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2,
+       header, input, a, tr, td, form button, input[type="submit"], .btn,
+       .highlight, .archive__item-teaser
+
+     `all`, on twenty element types, is what wedges on a palette change --
+     the comment above explains why a stylesheet-activation change can't
+     start a CSS transition, so any of those elements' colours sit at the
+     old palette until something unrelated jars them loose. .theme-switching
+     papers over that only for the moment the swap happens; this removes the
+     `all` transition itself so nothing is wedged in the first place.
+
+     Two rules, not one: `a`, `.btn`, `form button` and `input[type="submit"]`
+     keep a transition -- hover/focus colour feedback on links and buttons is
+     real and worth keeping -- while everything else in the theme's list gets
+     none. This is the theme's own element list; verified against the
+     compiled selector in both main.css and dark.css, not retyped from
+     memory.
+
+     :is() rather than !important: this block is emitted after main.css, so
+     it already wins ties on source order -- except dark.css re-declares the
+     same bare-element selectors again, later still. :is()'s specificity is
+     that of its most specific argument, so `html :is(b, i, strong, ...)` is
+     (0,0,2) -- an `html` type selector plus whichever list member is
+     matching -- which beats the theme's bare (0,0,1) type selectors in both
+     stylesheets regardless of source order, without !important.
+
+     .theme-switching above is deliberately left in place rather than
+     deleted now: it is a safety net for any element this rule doesn't
+     reach (inline styles, a future theme element) and becomes a true no-op
+     once dark mode stops being a second stylesheet swapped by media
+     attribute -- a later change. */
+  html :is(b, i, strong, em, blockquote, p, q, span, figure, img,
+           h1, h2, header, input, tr, td, .highlight, .archive__item-teaser) {
+    transition: none;
+  }
+
+  html :is(a, .btn, form button, input[type="submit"]) {
+    transition: color 0.2s ease-in-out, background-color 0.2s ease-in-out,
+                border-color 0.2s ease-in-out;
+  }
+
   /* The light/dark cross-fade. The toggle in this file's script wraps the
      palette swap in document.startViewTransition(), which snapshots the
      viewport before and after and animates between the two; this only sets
@@ -398,9 +449,15 @@
      already carries still reserves room on the right for the TOC, which
      pulls into that padding via its own negative margin. */
   @media (min-width: 64em) {
-    /* !important: this include is emitted before the theme's own
-       stylesheet link, so a plain override of the same specificity loses
-       the cascade to main.css's later rules. */
+    /* This block is emitted after main.css, so a plain override of equal
+       specificity would already win on source order alone -- !important
+       isn't needed for main.css. It is needed for dark.css: dark.css
+       re-declares this same `.page`/`.archive` float+width rule, at the
+       same specificity, *after* this block, and dark mode is a second
+       stylesheet activated later rather than something that loses a
+       same-document cascade. Without !important, entering dark mode would
+       silently refloat the content column and narrow it back down.
+       Verified against both compiled stylesheets. */
     .page,
     .archive {
       float: none !important;
@@ -418,12 +475,12 @@
      the em-based margins on headings/blockquotes ride along with it
      proportionally rather than compounding. Tightening line-height
      independently (moderate cut, ~10-15%) is what actually buys more
-     article per viewport. !important on line-height because this include
-     is emitted before the theme's own stylesheet link, so a plain override
-     of the same specificity loses the cascade to main.css's later rules. */
+     article per viewport. No !important on either property: neither
+     main.css nor dark.css sets line-height or font-size on .page__content
+     itself, so there's nothing to beat. */
   .page__content {
     font-size: 0.85em;
-    line-height: 1.4 !important;
+    line-height: 1.4;
   }
 
   /* #font-size-toggle's "large" state: undoes the shrink above for prose,
@@ -445,9 +502,13 @@
      .page__content, i.e. 0.9 * 0.85em = 0.765em of the root in the normal
      state -- restated directly here so the large state lands on the exact
      same absolute size instead of drifting to 0.9 * 1em. .quran-arabic
-     rides along unchanged too, since its 1.4em is relative to this. */
+     rides along unchanged too, since its 1.4em is relative to this. No
+     !important: this selector and .page__content blockquote below are the
+     only two rules in either compiled stylesheet touching blockquote
+     font-size, and this one carries an extra class, so it already wins on
+     specificity. */
   [data-font-size="large"] .page__content blockquote {
-    font-size: 0.765em !important;
+    font-size: 0.765em;
   }
 
   /* Same call for the collapsible YouTube references (yt-embed.html) that
@@ -482,8 +543,9 @@
   /* TOC entries are UI navigation, not reading content, so they get the
      same Karla treatment as the masthead nav link rather than the serif
      reading face. .toc already has its own explicit sans-family rule in
-     the theme (equal specificity, defined later in main.css), hence
-     !important -- same cascade-order reason as elsewhere in this file.
+     the theme, but both selectors here carry an extra class over the
+     theme's bare `.toc`, so they win on specificity in both main.css and
+     dark.css without !important.
 
      #toc-panel is footer/custom.html's mobile floating-drawer clone of this
      same widget, mounted outside .page__content -- without naming it here
@@ -492,7 +554,7 @@
   .page__content .toc,
   #toc-panel .toc {
     font-family: "Karla", -apple-system, BlinkMacSystemFont, "Roboto",
-                 "Segoe UI", Arial, sans-serif !important;
+                 "Segoe UI", Arial, sans-serif;
   }
 
   /* Same problem as the font-size exemption above: the list-indent and
@@ -506,24 +568,41 @@
      margin is already zero), so the fix is to zero the heading-margin
      rule's contribution outright, not to reintroduce 0.5rem as a margin --
      that would stack a second 0.5rem on top of the padding already doing
-     the job. */
+     the job. Neither compiled stylesheet sets padding-inline-start on
+     `.toc ul`/`.toc ol` (only the theme's deeper `.toc__menu li ul` nesting
+     does, a different selector), so there's nothing to beat here either --
+     no !important needed. */
   .page__content .toc ul,
   .page__content .toc ol {
-    padding-inline-start: 0 !important;
+    padding-inline-start: 0;
   }
 
+  /* Three classes beats the theme's bare `.nav__title` and this file's own
+     `.page__content h1...h6 { margin-top: 1.3em }` below on specificity
+     alone -- except the latter carries !important (see there for why), and
+     !important always wins over a non-!important rule regardless of
+     specificity. So this keeps its own !important too, purely to outrank
+     that sibling rule within this file; neither main.css nor dark.css is
+     the reason. */
   .page__content .toc .nav__title {
     margin-top: 0 !important;
   }
 
   /* "On this page" is UI chrome, like the rest of .toc, even though it
-     happens to render as an <h4>. Without this, the h1-h6 rule above pulls
-     just this title into the serif face while its sibling entries stay
-     Karla -- an inconsistency within one widget. Matches .toc's own font
-     above; more specific selector, so it wins regardless of the shared
-     !important. Also covers #toc-panel's clone, for the same reason as
-     the .toc rule above -- kept separate from the margin-top fix since
-     that one is inline-TOC-specific and this one isn't. */
+     happens to render as an <h4>. Without this, the body/h1-h6 rule above
+     pulls just this title into the serif face while its sibling entries
+     stay Karla -- an inconsistency within one widget. This one keeps
+     !important not for main.css or dark.css -- both selectors here already
+     beat the theme's bare `.nav__title` on specificity -- but because
+     .nav__title renders as an <h4>, so it is also matched by this file's
+     own `body, h1...h6 { font-family: ... !important }` above, one of the
+     four survivors. That rule is a bare `h4` type selector, (0,0,1), far
+     below these two in specificity, but !important always wins over a
+     non-!important rule regardless of specificity, so without this the
+     serif face would win instead of Karla. Also covers #toc-panel's clone,
+     for the same reason as the .toc rule above -- kept separate from the
+     margin-top fix since that one is inline-TOC-specific and this one
+     isn't. */
   .page__content .toc .nav__title,
   #toc-panel .nav__title {
     font-family: "Karla", -apple-system, BlinkMacSystemFont, "Roboto",
@@ -569,6 +648,17 @@
     color: #8e8b82;
   }
 
+  /* One class plus one type beats the theme's bare `h1,h2,...{ margin:
+     2em 0 0.5em }` (each member (0,0,1)), but that isn't the rule this
+     needs !important for: the theme also has `.page__content :first-child,
+     .page__content aside+:nth-child(2) { margin-top: 0em }` at (0,2,0) --
+     two classes -- which outranks this selector's (0,1,1) outright. Every
+     article on this site happens to open with a blockquote today, but
+     nothing stops a future one from opening with a heading, and without
+     !important that heading would lose its 1.3em top margin to the reset.
+     Verified against the compiled selector, not assumed. Keeping this
+     !important also keeps `.page__content .toc .nav__title` above in
+     front of it for the TOC's own h4 -- see there. */
   .page__content h1,
   .page__content h2,
   .page__content h3,
@@ -608,17 +698,30 @@
      bullet were paying both indents at once (list padding + blockquote
      margin + blockquote padding), so this matters most there. Font-size is
      generally smaller than body text too, matching the existing .src
-     convention below rather than inventing a second scale. */
+     convention below rather than inventing a second scale. One class plus
+     one type beats the theme's bare `blockquote { margin-block: 2em;
+     margin-inline-end: 1em; padding-inline: 1em }` (no font-size rule of
+     its own at all) in both stylesheets -- but margin-block still needs
+     !important, for the same reason as the heading margin-top rule above:
+     `.page__content :first-child { margin-top: 0em }` is (0,2,0), which
+     outranks this selector's (0,1,1), and every article on this site opens
+     with a blockquote, so margin-block-start would otherwise lose its
+     start value to that reset (verified in the browser -- margin-inline
+     and padding-inline aren't first-child properties, so they don't hit
+     it, and font-size has no competing rule at all). */
   .page__content blockquote {
     margin-block: 1.3em !important;
-    margin-inline: 0 !important;
-    padding-inline: 0.75em !important;
-    font-size: 0.9em !important;
+    margin-inline: 0;
+    padding-inline: 0.75em;
+    font-size: 0.9em;
   }
 
+  /* No padding-inline-start rule targets `.page__content ul`/`ol` directly
+     in either stylesheet (only the UA default and unrelated classed lists
+     do), so no !important is needed here either. */
   .page__content ul,
   .page__content ol {
-    padding-inline-start: 1.25em !important;
+    padding-inline-start: 1.25em;
   }
 
   /* revealed text: gold */
