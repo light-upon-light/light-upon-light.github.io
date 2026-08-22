@@ -1,6 +1,6 @@
 <!-- start custom head snippets -->
 
-<!-- Amiri: designed for Qur'anic typesetting. Loaded so the end-of-ayah marker
+{%- comment -%} Amiri: designed for Qur'anic typesetting. Loaded so the end-of-ayah marker
      (U+06DD) encloses its digits and the ornate parentheses (U+FD3E/FD3F)
      render correctly, rather than depending on the reader's installed fonts.
 
@@ -65,7 +65,7 @@
      and end-of-ayah/ornate-parenthesis marks use (U+0600-06FF, U+0750-077F,
      U+08A0-08FF, U+FB50-FDFF, U+FE70-FEFF) in place of Google's own (wider,
      multi-file) Arabic subset, so a Latin-only reader's browser never even
-     requests it -- Amiri was the largest of the four families. -->
+     requests it -- Amiri was the largest of the four families. {%- endcomment -%}
 <style>
   @font-face {
     font-family: "Abril Fatface";
@@ -147,7 +147,7 @@
   }
 </style>
 
-<!-- Preload only the cuts painted above the fold on first contentful paint:
+{%- comment -%} Preload only the cuts painted above the fold on first contentful paint:
      the masthead title (Abril Fatface 400) and the article's opening body
      text (Source Serif 4 400 roman). Everything else -- bold, italic,
      Karla, Amiri -- is below the fold or conditional (Amiri only paints at
@@ -158,13 +158,13 @@
      plain ASCII, so latin-ext would load speculatively and, for most
      requests, unnecessarily. as="font" + crossorigin is required for the
      browser to actually use a preloaded font rather than double-fetching
-     it (fonts are fetched anonymous-mode regardless of same-origin). -->
+     it (fonts are fetched anonymous-mode regardless of same-origin). {%- endcomment -%}
 <link rel="preload" as="font" type="font/woff2" href="{{ '/assets/fonts/abril-fatface/AbrilFatface-latin.woff2' | relative_url }}" crossorigin>
 <link rel="preload" as="font" type="font/woff2" href="{{ '/assets/fonts/source-serif-4/SourceSerif4-latin.woff2' | relative_url }}" crossorigin>
 
 <link rel="stylesheet" href="{{ '/assets/css/site.css' | relative_url }}">
 
-<!-- Structured data (JSON-LD). The theme's own _includes/seo.html (the
+{%- comment -%} Structured data (JSON-LD). The theme's own _includes/seo.html (the
      jekyll-seo-tag include the github-pages gem bundles) emits OpenGraph and
      Twitter Card meta but no JSON-LD beyond a single site-wide WebSite block
      on the homepage (schema.html, gated `page.url == '/'` there) -- nothing
@@ -190,7 +190,7 @@
      _includes/breadcrumbs.html uses: Google requires this to match the
      visible trail exactly, so the three items mirror
      _includes/quran-breadcrumb.html's three <li> verbatim rather than being
-     computed independently. -->
+     computed independently. {%- endcomment -%}
 {% if page.description %}
   <script type="application/ld+json">
     {
@@ -258,7 +258,7 @@
   </script>
 {% endif %}
 
-<!-- Dark mode.
+{%- comment -%} Dark mode.
 
      The palette lives entirely in custom properties -- see the three
      :root blocks in _sass/minimal-mistakes/skins/_dirt.scss (light,
@@ -269,7 +269,7 @@
      second-stylesheet-activated-by-media-attribute design this replaced (see
      _notes/guides/theme_internals.md for that history) -- which is what lets
      everything below be this short. The script runs here in <head>, before
-     the masthead is parsed, so the page never paints in the wrong mode. -->
+     the masthead is parsed, so the page never paints in the wrong mode. {%- endcomment -%}
 <script>
   (function () {
     var KEY = "theme";
@@ -395,7 +395,7 @@
   })();
 </script>
 
-<!-- Article text-size toggle.
+{%- comment -%} Article text-size toggle.
 
      Same shape as the dark-mode script above, deliberately: an explicit
      choice lives in localStorage under its own key, is mirrored onto
@@ -413,7 +413,7 @@
      of an article per desktop viewport, which is the opposite problem on
      a phone, where there is little screen to fit more onto and small type
      is the harder read. Picking the size the viewport already defaults to
-     clears the stored value, exactly like the theme toggle. -->
+     clears the stored value, exactly like the theme toggle. {%- endcomment -%}
 <script>
   (function () {
     var KEY = "fontSize";
