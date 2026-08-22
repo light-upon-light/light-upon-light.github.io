@@ -21,16 +21,47 @@
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Amiri:wght@400;700&family=Karla:wght@400;500;700&family=Source+Serif+4:ital,wght@0,400;0,600;0,700;1,400&display=swap">
 
 <style>
-  /* form controls, scrollbars and the like. assets/css/dark.scss sets the
-     dark counterpart. */
+  /* form controls, scrollbars and the like. Left as `light dark` this would
+     have UA scrollbars and form controls follow the *system* while the page
+     follows the reader's *choice*. Keyed to the same attribute the palette
+     itself uses, in the same three-block shape as the custom properties in
+     _sass/minimal-mistakes/skins/_dirt.scss: explicit choice, then the
+     no-JS/no-choice system fallback. */
   :root {
     color-scheme: light;
+  }
+
+  :root[data-theme="dark"] {
+    color-scheme: dark;
+  }
+
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) {
+      color-scheme: dark;
+    }
+  }
+
+  /* Selection colour: dark-only. Light mode never set one and keeps the
+     browser default, so there's no --site-* property pairing it with a
+     light value -- these two selectors are the whole rule, duplicated
+     across the explicit-choice/system-fallback split the same way the
+     palette itself is. */
+  :root[data-theme="dark"] ::selection {
+    color: var(--mm-background-color);
+    background: var(--site-quote-gold);
+  }
+
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) ::selection {
+      color: var(--mm-background-color);
+      background: var(--site-quote-gold);
+    }
   }
 
   /* WebKit paints a rectangular highlight over the whole tap target on
      touch, which pokes out past round buttons (#floating-nav, TOC toggle)
      as a visible box. Cosmetic only -- does not touch the real :focus-visible
-     ring ($focus-color in dark.scss), so keyboard focus stays visible. */
+     ring (var(--mm-focus-color)), so keyboard focus stays visible. */
   html {
     -webkit-tap-highlight-color: transparent;
   }
@@ -45,7 +76,7 @@
      pointer-triggered focus while leaving it for keyboard use. Two extra
      `:not()`s beat the theme's plain `a:focus`/`button:focus` on
      specificity, so this wins regardless of source order and needs no
-     `!important` and no duplicate in dark.scss. */
+     `!important`. */
   a:focus:not(:focus-visible),
   button:focus:not(:focus-visible) {
     outline: none;
@@ -68,30 +99,28 @@
 
      In the built page this block is emitted AFTER main.css's <link>, so an
      override only needs to match the theme's specificity, not beat it with
-     !important -- source order alone would do it. This one still carries
-     !important because dark.css re-declares the identical body/h1-h6 rule
-     (same specificity) *after* this block, and dark mode is a second
-     stylesheet activated later, not a cascade dark.css loses on its own;
-     without !important the site would render in the sans stack again every
-     time dark mode was on. Verified against both compiled stylesheets. */
+     !important -- source order alone does it. Dark mode used to be a second
+     stylesheet that re-declared this same rule *after* this block, which is
+     the only reason this ever needed !important; now that the palette is
+     custom properties resolved on this same rule, there is nothing left to
+     beat. */
   body,
   h1, h2, h3, h4, h5, h6 {
-    font-family: "Source Serif 4", Georgia, "Times New Roman", serif !important;
+    font-family: "Source Serif 4", Georgia, "Times New Roman", serif;
   }
 
   /* Masthead brand mark only -- a heavier, more dramatic display face than
      the reading type above, reserved for the one-word site title. .site-title
      has no font-family rule of its own in the theme (it inherits the sans
-     stack from its parent .masthead__inner-wrap), so font-family here needs
-     no !important -- there is nothing in main.css or dark.css to beat.
-     font-weight is different: the theme sets `.site-title { font-weight:
-     bold }` at the same specificity as this selector, and dark.css
-     re-declares that same rule after this block, so without !important
-     dark mode's site-title would render bold instead of Abril Fatface's
-     single (400) cut. */
+     stack from its parent .masthead__inner-wrap), so font-family needs no
+     !important -- nothing in main.css to beat. font-weight used to need one:
+     the theme sets `.site-title { font-weight: bold }` at the same
+     specificity, and a second dark stylesheet re-declared it after this
+     block. That stylesheet is gone, so source order alone is enough here
+     too. */
   .site-title {
     font-family: "Abril Fatface", "Source Serif 4", Georgia, serif;
-    font-weight: 400 !important;
+    font-weight: 400;
     letter-spacing: 0.01em;
   }
 
@@ -125,20 +154,14 @@
      site.search is off (no .search__toggle to supply its own 1rem gap) this
      button would otherwise sit flush against the hamburger next to it.
 
-     Colours are hardcoded from the dirt skin, like everything else in this
-     file; assets/css/dark.scss carries the dark values. */
-  /* No `transition` on `color` here, deliberately. Both buttons change colour
-     when the palette does -- and the palette changes by flipping the media
-     attribute on the dark.css <link>, not by any change to the element. Chrome
-     does not re-run a transition on a stylesheet activation change, so the
-     transition stays wedged at the *old* palette's value: after switching to
-     light mode the sun/moon kept painting dark mode's cream (reading as a
-     washed-out grey) and the text-size button kept dark mode's colour instead
-     of returning to #343434, until some unrelated recalculation -- a reload, a
-     scroll that re-laid out the masthead -- knocked it loose. Hover feedback
-     is instant instead, which is what the theme's own .search__toggle does.
-     Verified in the browser: forcing `transition: none` snapped both to the
-     correct colour immediately. */
+     Layout only here -- colour is set below, alongside .search__toggle,
+     since all three masthead controls share one rule. */
+  /* No `transition` on `color` here, deliberately: the whole-page palette
+     swap is animated once, as a cross-fade of the old and new snapshots (see
+     the view-transition rules further down) -- a per-element transition
+     would race that snapshot-based fade, visibly lagging or leading it
+     rather than moving with the rest of the page. Hover feedback stays
+     instant instead, which is what the theme's own .search__toggle does. */
   #theme-toggle {
     margin-inline-start: 0.1rem;
     margin-inline-end: 0.6rem;
@@ -146,32 +169,18 @@
     padding: 0 0.3rem;
     display: flex;
     align-items: center;
-    color: #343434;
     background-color: transparent;
     border: 0;
     outline: none;
     cursor: pointer;
   }
 
-  /* Hover goes *darker* than the resting colour, matching the theme's own
-     .search__toggle:hover (#272727) sitting next to these in the masthead.
-     #8e8b82 was lighter than #343434, so on a light ground the control faded
-     on hover instead of firming up, and -- since the :hover rule and the
-     [aria-pressed="true"] rule below have equal specificity -- an unpressed
-     text-size button under the pointer read as a washed-out grey rather than
-     returning to black. assets/css/dark.scss does the mirror-image thing on a
-     dark ground, lightening cream towards white. */
-  #theme-toggle:hover {
-    color: #272727;
-  }
-
   /* This button (and #floating-nav's, in footer/custom.html) is plain HTML
      added by this repo, not part of the theme's compiled CSS -- so it never
      picked up the theme's own :focus-visible-gated ring (built around
-     $focus-color in dark.scss) and instead shows the browser's raw UA
-     outline on ANY focus, including a mobile tap. :not(:focus-visible)
-     keeps that outline for real keyboard navigation and removes it
-     everywhere else. */
+     $focus-color) and instead shows the browser's raw UA outline on ANY
+     focus, including a mobile tap. :not(:focus-visible) keeps that outline
+     for real keyboard navigation and removes it everywhere else. */
   #theme-toggle:focus:not(:focus-visible) {
     outline: none;
   }
@@ -189,32 +198,45 @@
     padding: 0 0.3rem;
     display: flex;
     align-items: center;
-    color: #343434;
     background-color: transparent;
     border: 0;
     outline: none;
     cursor: pointer;
   }
 
-  #font-size-toggle:hover {
-    color: #272727;
-  }
-
   #font-size-toggle:focus:not(:focus-visible) {
     outline: none;
   }
 
-  /* A pressed/active look for "large text is on", parallel to the sun/moon
-     swap on #theme-toggle -- there's no second icon to swap here, so the
-     state is carried by colour and weight instead. */
-  #font-size-toggle[aria-pressed="true"] {
-    color: #a8792a;
+  /* The theme's own .search__toggle reads var(--mm-primary-color), which in
+     dark mode is only 2:1 against the background -- not a visible control,
+     since these are controls, not surfaces drawn on the page. All three
+     masthead controls -- the theme's search toggle and this repo's own
+     theme/font-size toggles -- are matched to var(--mm-text-color) instead,
+     which stays legible in both palettes. In light mode $primary-color and
+     $text-color are the same value, so this changes nothing there; the
+     override only does real work once dark's palette block in _dirt.scss
+     pulls them apart. */
+  .search__toggle,
+  #theme-toggle,
+  #font-size-toggle {
+    color: var(--mm-text-color);
   }
 
-  /* Same no-JS story as #theme-toggle: without JavaScript there is no
-     working toggle, so the button never appears. */
-  html:not(.js) .font-size-toggle {
-    display: none;
+  .search__toggle:hover,
+  #theme-toggle:hover,
+  #font-size-toggle:hover {
+    color: var(--mm-link-color-hover);
+  }
+
+  /* A pressed/active look for "large text is on", parallel to the sun/moon
+     swap on #theme-toggle -- there's no second icon to swap here, so the
+     state is carried by colour and weight instead. Gold in both palettes,
+     via --site-quote-gold (_sass/minimal-mistakes/skins/_dirt.scss) -- same
+     property that marks revealed-text blockquotes and section numerals,
+     since this is the same "marked" meaning applied to a control. */
+  #font-size-toggle[aria-pressed="true"] {
+    color: var(--site-quote-gold);
   }
 
   /* Which icon shows is "what clicking does", not "what mode this is": the sun
@@ -241,83 +263,44 @@
     display: none;
   }
 
-  html:not(.js) .theme-toggle {
+  /* Without JavaScript neither toggle can do anything, so neither should be
+     on screen. The class-only form of this rule never worked: it is (0,2,1),
+     and every one of these buttons carries a `display` from an ID-scoped
+     rule -- `#theme-toggle`/`#font-size-toggle` at (1,0,0) in this file, and
+     `#floating-nav button` at (1,0,1) in footer/custom.html -- all of which
+     outrank it. A reader without JavaScript therefore saw both controls, in
+     both places, and clicking them did nothing. Naming the IDs here takes
+     each selector to (1,1,1), which beats them. */
+  html:not(.js) #theme-toggle,
+  html:not(.js) #font-size-toggle,
+  html:not(.js) #floating-theme-toggle,
+  html:not(.js) #floating-font-size-toggle {
     display: none;
   }
 
-  /* Palette-swap guard. The script below hangs this class on <html> for the
-     duration of the swap and takes it off again in the same tick.
-
-     The theme's own reset carries a bare `transition: 0.2s` -- every
-     property, not a named one -- on this list:
+  /* The theme's own reset (_sass/minimal-mistakes/_base.scss, "Global
+     animation transition") puts a bare `transition: all 0.2s ease-in-out` --
+     every property, not a named one -- on:
 
        b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2,
        header, input, a, tr, td, form button, input[type="submit"], .btn,
        .highlight, .archive__item-teaser
 
-     which is bold, italic, body text, and headings. Those transitions can
-     never work across a palette change, for the reason written up above
-     #theme-toggle: the swap flips the media attribute on the dark.css
-     <link>, and Chrome does not start a transition on a stylesheet
-     activation change. So the colour sat wedged at the OLD palette until
-     some later recalculation knocked it loose, and then it ran its 0.2s
-     fade -- after the cross-fade had already finished. Bold and italic text
-     arrived late and visibly slid from the previous palette's colour into
-     the right one, and h1/h2's border-bottom -- the page-wide rule under a
-     title -- did the same. `hr` is absent from the theme's list, which is
-     why it was the one line that always changed cleanly.
-
-     Suppressing the transitions while the new palette is forced through
-     means the values land instantly, so the view transition snapshots a
-     page that is entirely in the new palette. Scoped to the swap rather
-     than declared globally so that hover and focus fades, which the same
-     0.2s covers and which work fine, are left alone. Taking the class off
-     afterwards animates nothing: every property is already at its target.
-
-     !important and the universal selector because this has to beat whatever
-     the theme, dark.scss, or this file declare on any element. */
-  html.theme-switching,
-  html.theme-switching *,
-  html.theme-switching *::before,
-  html.theme-switching *::after {
-    transition: none !important;
-  }
-
-  /* Kill the theme's own root cause, not just its symptom above.
-     _sass/minimal-mistakes/_base.scss ("Global animation transition") puts
-     a bare `transition: all 0.2s ease-in-out` on:
-
-       b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2,
-       header, input, a, tr, td, form button, input[type="submit"], .btn,
-       .highlight, .archive__item-teaser
-
-     `all`, on twenty element types, is what wedges on a palette change --
-     the comment above explains why a stylesheet-activation change can't
-     start a CSS transition, so any of those elements' colours sit at the
-     old palette until something unrelated jars them loose. .theme-switching
-     papers over that only for the moment the swap happens; this removes the
-     `all` transition itself so nothing is wedged in the first place.
-
-     Two rules, not one: `a`, `.btn`, `form button` and `input[type="submit"]`
-     keep a transition -- hover/focus colour feedback on links and buttons is
-     real and worth keeping -- while everything else in the theme's list gets
-     none. This is the theme's own element list; verified against the
-     compiled selector in both main.css and dark.css, not retyped from
-     memory.
-
-     :is() rather than !important: this block is emitted after main.css, so
-     it already wins ties on source order -- except dark.css re-declares the
-     same bare-element selectors again, later still. :is()'s specificity is
-     that of its most specific argument, so `html :is(b, i, strong, ...)` is
-     (0,0,2) -- an `html` type selector plus whichever list member is
-     matching -- which beats the theme's bare (0,0,1) type selectors in both
-     stylesheets regardless of source order, without !important.
-
-     .theme-switching above is deliberately left in place rather than
-     deleted now: it is a safety net for any element this rule doesn't
-     reach (inline styles, a future theme element) and becomes a true no-op
-     once dark mode stops being a second stylesheet swapped by media
-     attribute -- a later change. */
+     A palette change now happens by redefining custom properties on :root
+     ([data-theme], _sass/minimal-mistakes/skins/_dirt.scss), which is a
+     genuine property change on every element that reads one of them -- so
+     `transition: all` would actually fire this time, unlike the old
+     stylesheet-swap that never triggered a running transition at all. That
+     is worse here, not better: a full-page view-transition cross-fade (see
+     below) already animates the whole swap as one held-still-then-dissolved
+     snapshot pair, and twenty more element-level transitions racing it
+     independently would arrive late and visibly slide into place after the
+     cross-fade has already finished -- the same "bold text and h1/h2's
+     border-bottom slide in late" artefact this used to produce, with the
+     opposite cause. So: none for the theme's list, except `a`, `.btn`,
+     `form button` and `input[type="submit"]`, whose hover/focus colour
+     feedback is real and worth keeping -- verified against the compiled
+     selector in main.css, not retyped from memory. */
   html :is(b, i, strong, em, blockquote, p, q, span, figure, img,
            h1, h2, header, input, tr, td, .highlight, .archive__item-teaser) {
     transition: none;
@@ -326,6 +309,23 @@
   html :is(a, .btn, form button, input[type="submit"]) {
     transition: color 0.2s ease-in-out, background-color 0.2s ease-in-out,
                 border-color 0.2s ease-in-out;
+  }
+
+  /* That surviving transition still races the cross-fade the same way,
+     since these elements' colour is itself one of the custom properties the
+     swap changes. Verified in the browser: an <a> mid-viewport visibly eased
+     into its new colour after the snapshot dissolve had already settled.
+     `.theme-swap` suppresses it for exactly the swap's own synchronous
+     callback -- added, the properties are mutated, a layout read forces
+     them to land, then removed, all before the browser is given a chance to
+     paint a frame -- so nothing ever visibly transitions. This is narrower
+     than the guard class dark mode used to need: that one had to cover
+     every element for as long as an asynchronous stylesheet activation took
+     to resolve (up to two frames on some engines); a data-theme change
+     resolves synchronously, so this only ever needs to reach four selectors
+     for one tick. */
+  html.theme-swap :is(a, .btn, form button, input[type="submit"]) {
+    transition: none;
   }
 
   /* The light/dark cross-fade. The toggle in this file's script wraps the
@@ -343,9 +343,6 @@
      alone, the two snapshots are stacked at identical coordinates and
      nothing can move. The moon fades out exactly where the sun fades in, so
      the icon slot is never empty.
-
-     Nothing is needed in assets/css/dark.scss for this: the animation runs
-     between the two palettes rather than belonging to either.
 
      No prefers-reduced-motion query here -- the script checks it and skips
      the view transition entirely, so there is no animation to shorten.
@@ -450,18 +447,14 @@
      pulls into that padding via its own negative margin. */
   @media (min-width: 64em) {
     /* This block is emitted after main.css, so a plain override of equal
-       specificity would already win on source order alone -- !important
-       isn't needed for main.css. It is needed for dark.css: dark.css
-       re-declares this same `.page`/`.archive` float+width rule, at the
-       same specificity, *after* this block, and dark mode is a second
-       stylesheet activated later rather than something that loses a
-       same-document cascade. Without !important, entering dark mode would
-       silently refloat the content column and narrow it back down.
-       Verified against both compiled stylesheets. */
+       specificity already wins on source order alone -- no !important
+       needed. (It used to be needed because dark mode was a second
+       stylesheet activated later rather than something that lost a
+       same-document cascade; that design is gone.) */
     .page,
     .archive {
-      float: none !important;
-      width: 100% !important;
+      float: none;
+      width: 100%;
     }
   }
 
@@ -475,25 +468,53 @@
      the em-based margins on headings/blockquotes ride along with it
      proportionally rather than compounding. Tightening line-height
      independently (moderate cut, ~10-15%) is what actually buys more
-     article per viewport. No !important on either property: neither
-     main.css nor dark.css sets line-height or font-size on .page__content
-     itself, so there's nothing to beat. */
+     article per viewport. No !important on either property: main.css sets
+     neither line-height nor font-size on .page__content itself, so there's
+     nothing to beat.
+
+     This is the desktop default. CSS owns the default in both directions
+     now -- the media query just below supplies the phone default (large),
+     and [data-font-size] further down expresses only an explicit override,
+     in whichever direction the reader actually chose. The toggle script
+     keeps matchMedia only to decide whether a choice should clear storage,
+     not to write the default itself. */
   .page__content {
     font-size: 0.85em;
     line-height: 1.4;
   }
 
-  /* #font-size-toggle's "large" state: undoes the shrink above for prose,
-     back to the theme's un-shrunk 1em. Scoped to .page__content only, so the
-     masthead, the TOC and the floating buttons are untouched -- exactly the
-     "content itself, nothing else" the toggle promises. Arabic scales along
-     with it automatically (its own 1.4em is relative to its English
-     surroundings), which is correct: only blockquotes are pinned below.
+  /* Phone/tablet default: large, un-shrunk text, on the same 64em breakpoint
+     the rest of the site already treats as the mobile/desktop line (see
+     isSidebarLayout in footer/custom.html and the TOC media query there).
+     Reasoning is the mirror image of the desktop shrink above: there is
+     little screen to fit more onto, and small type is the harder read.
+     Un-attributed, so this is what a reader gets with no JavaScript and no
+     stored choice at all -- the toggle used to require JS to reach this
+     state on a phone; now the CSS default already puts a reader there. */
+  @media (max-width: 63.9375em) {
+    .page__content {
+      font-size: 1em;
+    }
+  }
 
-     [data-font-size="large"] lives on <html>, set by the script further
-     down, mirroring how [data-theme] drives the light/dark toggle. */
+  /* Explicit override, either direction -- [data-font-size] lives on <html>,
+     set by the script further down, mirroring how [data-theme] drives the
+     light/dark toggle. One extra attribute selector on the ancestor gives
+     each of these (0,2,0), which beats both the plain (0,1,0) desktop
+     default above and the (0,1,0) media-query phone default, regardless of
+     viewport width -- so an explicit choice always wins over whichever
+     default would otherwise apply, with no !important needed either way.
+     Scoped to .page__content only, so the masthead, the TOC and the
+     floating buttons are untouched -- exactly the "content itself, nothing
+     else" the toggle promises. Arabic scales along with the large state
+     automatically (its own 1.4em is relative to its English surroundings),
+     which is correct: only blockquotes are pinned below. */
   [data-font-size="large"] .page__content {
     font-size: 1em;
+  }
+
+  [data-font-size="normal"] .page__content {
+    font-size: 0.85em;
   }
 
   /* Quotations stay the size the reader already knows regardless of the
@@ -544,8 +565,8 @@
      same Karla treatment as the masthead nav link rather than the serif
      reading face. .toc already has its own explicit sans-family rule in
      the theme, but both selectors here carry an extra class over the
-     theme's bare `.toc`, so they win on specificity in both main.css and
-     dark.css without !important.
+     theme's bare `.toc`, so they win on specificity in main.css without
+     !important.
 
      #toc-panel is footer/custom.html's mobile floating-drawer clone of this
      same widget, mounted outside .page__content -- without naming it here
@@ -582,8 +603,7 @@
      alone -- except the latter carries !important (see there for why), and
      !important always wins over a non-!important rule regardless of
      specificity. So this keeps its own !important too, purely to outrank
-     that sibling rule within this file; neither main.css nor dark.css is
-     the reason. */
+     that sibling rule within this file; main.css is not the reason. */
   .page__content .toc .nav__title {
     margin-top: 0 !important;
   }
@@ -591,22 +611,17 @@
   /* "On this page" is UI chrome, like the rest of .toc, even though it
      happens to render as an <h4>. Without this, the body/h1-h6 rule above
      pulls just this title into the serif face while its sibling entries
-     stay Karla -- an inconsistency within one widget. This one keeps
-     !important not for main.css or dark.css -- both selectors here already
-     beat the theme's bare `.nav__title` on specificity -- but because
-     .nav__title renders as an <h4>, so it is also matched by this file's
-     own `body, h1...h6 { font-family: ... !important }` above, one of the
-     four survivors. That rule is a bare `h4` type selector, (0,0,1), far
-     below these two in specificity, but !important always wins over a
-     non-!important rule regardless of specificity, so without this the
-     serif face would win instead of Karla. Also covers #toc-panel's clone,
-     for the same reason as the .toc rule above -- kept separate from the
-     margin-top fix since that one is inline-TOC-specific and this one
-     isn't. */
+     stay Karla -- an inconsistency within one widget. No !important needed:
+     both selectors here already beat the theme's bare `.nav__title`/`h4` on
+     specificity, and the body/h1-h6 rule they used to also lose to (it
+     carried !important only while a second dark stylesheet re-declared it)
+     no longer does. Also covers #toc-panel's clone, for the same reason as
+     the .toc rule above -- kept separate from the margin-top fix since that
+     one is inline-TOC-specific and this one isn't. */
   .page__content .toc .nav__title,
   #toc-panel .nav__title {
     font-family: "Karla", -apple-system, BlinkMacSystemFont, "Roboto",
-                 "Segoe UI", Arial, sans-serif !important;
+                 "Segoe UI", Arial, sans-serif;
   }
 
   /* .page__content a:not(.btn):hover underlines every link inside an
@@ -645,7 +660,7 @@
      (ul + a) beats the theme's rule regardless of source order. */
   .toc .active ul a {
     background-color: transparent;
-    color: #8e8b82;
+    color: var(--mm-muted-text-color);
   }
 
   /* One class plus one type beats the theme's bare `h1,h2,...{ margin:
@@ -656,9 +671,7 @@
      article on this site happens to open with a blockquote today, but
      nothing stops a future one from opening with a heading, and without
      !important that heading would lose its 1.3em top margin to the reset.
-     Verified against the compiled selector, not assumed. Keeping this
-     !important also keeps `.page__content .toc .nav__title` above in
-     front of it for the TOC's own h4 -- see there. */
+     Verified against the compiled selector, not assumed. */
   .page__content h1,
   .page__content h2,
   .page__content h3,
@@ -682,10 +695,12 @@
      The numeral is inline at the heading's own size -- a separate line/size
      (tried first) read as an orphaned floating character rather than as
      numbering. Gold + bold is what marks it as a numeral rather than a
-     stray capital letter. Dark counterpart in assets/css/dark.scss. */
+     stray capital letter -- --site-quote-gold
+     (_sass/minimal-mistakes/skins/_dirt.scss), same property as
+     blockquote.quote's border below, since both mark the same thing. */
   .page__content .num-roman,
   .page__content .num-alpha {
-    color: #a8792a;
+    color: var(--site-quote-gold);
     margin-inline-end: 0.1em;
   }
 
@@ -701,8 +716,8 @@
      convention below rather than inventing a second scale. One class plus
      one type beats the theme's bare `blockquote { margin-block: 2em;
      margin-inline-end: 1em; padding-inline: 1em }` (no font-size rule of
-     its own at all) in both stylesheets -- but margin-block still needs
-     !important, for the same reason as the heading margin-top rule above:
+     its own at all) -- but margin-block still needs !important, for the
+     same reason as the heading margin-top rule above:
      `.page__content :first-child { margin-top: 0em }` is (0,2,0), which
      outranks this selector's (0,1,1), and every article on this site opens
      with a blockquote, so margin-block-start would otherwise lose its
@@ -724,18 +739,34 @@
     padding-inline-start: 1.25em;
   }
 
-  /* revealed text: gold */
-  blockquote.quote {
-    border-inline-start-color: #a8792a;
+  /* An untagged blockquote -- a bare link, a prose aside -- keeps a rule
+     colour of its own rather than the theme's default, which is
+     var(--mm-primary-color): that variable does two opposing jobs (the
+     background *behind* white text on .nav__title/.btn--primary, and a rule
+     drawn *on* the page background here), and in dark mode it is chosen for
+     the first job, which makes it too dark to read as a rule here.
+     --site-blockquote-border-default decouples them; in light mode the two
+     happen to be the same colour, so this changes nothing there. */
+  blockquote {
+    border-inline-start-color: var(--site-blockquote-border-default);
   }
 
-  /* apparatus: taupe rule, sepia text, a shade smaller. Recedes. */
+  /* revealed text: gold */
+  blockquote.quote {
+    border-inline-start-color: var(--site-quote-gold);
+  }
+
+  /* apparatus: taupe rule, sepia text, a shade smaller. Recedes.
+     --site-src-text sets a `color`, never an `opacity` -- opacity would
+     fade any link inside the block along with the text. Contrast: 5.4:1 on
+     the light background (WCAG AA for small text is 4.5:1); 7.7:1 in dark
+     (which recedes there too, the same way). */
   blockquote.src {
     /* the theme italicises blockquotes; a citation is not a quotation */
     font-style: normal;
     font-size: 0.9em;
-    color: #6f6152;
-    border-inline-start-color: #a1937c;
+    color: var(--site-src-text);
+    border-inline-start-color: var(--site-src-border);
   }
 
   /* the author's own voice: verdigris rule and the faintest wash, so
@@ -743,8 +774,8 @@
   blockquote.gloss {
     font-style: normal;
     border-inline-start-width: 0.375em;
-    border-inline-start-color: #2e6b63;
-    background-color: rgba(46, 107, 99, 0.05);
+    border-inline-start-color: var(--site-gloss-border);
+    background-color: var(--site-gloss-bg);
     padding-block: 0.6em;
   }
 
@@ -764,17 +795,16 @@
      sepia palette as .src above, since a linked video is the same kind of
      apparatus as a source citation -- it recedes rather than asserting.
      <details>/<summary> gives closed-by-default and keyboard toggling for
-     free, so there is no open/close JS to write. Dark counterpart in
-     assets/css/dark.scss. */
+     free, so there is no open/close JS to write. */
   .yt-embed {
     margin: 0.6em 0;
-    border-inline-start: 0.1875em solid #a1937c;
+    border-inline-start: 0.1875em solid var(--site-src-border);
     padding-inline-start: 0.75em;
   }
 
   .yt-embed > summary {
     cursor: pointer;
-    color: #6f6152;
+    color: var(--site-src-text);
     font-size: 0.9em;
     padding-block: 0.3em;
     list-style: none;
@@ -841,8 +871,8 @@
 
      The background is the poster's own near-black rather than a tint of
      the page, so that any sliver visible around the poster -- or behind
-     the player once the poster has gone -- is dark. Dark in both skins by
-     construction, so assets/css/dark.scss carries no counterpart. */
+     the player once the poster has gone -- is dark. Dark in both palettes by
+     construction, so this needs no --site-* property of its own. */
   .yt-embed__frame.is-loaded {
     position: relative;
     height: 0;
@@ -1006,9 +1036,11 @@
     transition: transform 0.15s ease, background-color 0.15s ease;
   }
 
-  /* A lighter tint of the skin's gold. NOT the #a8792a of blockquote.quote
-     -- that gold means "revealed text" and should not leak onto a control;
-     this is the same hue lifted for contrast on a near-black ground. */
+  /* A lighter tint of the skin's gold. NOT --site-quote-gold (blockquote.quote's
+     border) -- that gold means "revealed text" and should not leak onto a
+     control; this is the same hue lifted for contrast on a near-black
+     ground, and stays a plain constant since the ground it sits on (the
+     poster) is dark in both palettes. */
   .yt-embed__poster-play::before {
     content: "";
     display: block;
@@ -1100,9 +1132,9 @@
     align-items: center;
     gap: 0.5em;
     padding: 0.6em 1.2em;
-    border: 1px solid #a1937c;
+    border: 1px solid var(--site-src-border);
     border-radius: 0.35em;
-    color: #6f6152;
+    color: var(--site-src-text);
     font-family: "Karla", -apple-system, BlinkMacSystemFont, "Roboto",
                  "Segoe UI", Arial, sans-serif;
     font-size: 0.85em;
@@ -1112,9 +1144,9 @@
   }
 
   .page__content .quran-return a:hover {
-    background-color: rgba(161, 147, 124, 0.14);
-    border-color: #6f6152;
-    color: #343434;
+    background-color: var(--site-return-hover-bg);
+    border-color: var(--site-src-text);
+    color: var(--mm-text-color);
     text-decoration: none;
   }
 
@@ -1125,9 +1157,10 @@
 
   /* Citations are hand-authored markdown links styled to look like kramdown's
      old footnote markers (`.footnote` is the theme's own class, so light and
-     dark colors come for free from dark.scss recompiling the whole theme --
-     see _pages citation markup). vertical-align/font-size aren't colors, so
-     no dark counterpart is needed for these two rules. */
+     dark colors come for free from the var(--mm-link-color) family in
+     _sass/minimal-mistakes/skins/_dirt.scss -- see _pages citation markup).
+     vertical-align/font-size aren't colors, so nothing further is needed for
+     either mode. */
   a.footnote {
     vertical-align: super;
     font-size: 0.75em;
@@ -1144,33 +1177,20 @@
 
 <!-- Dark mode.
 
-     assets/css/dark.scss compiles the whole theme a second time with a dark
-     palette; this link switches it on and off. It has to stay the *last*
-     stylesheet in the document head: dark.css and main.css are generated from
-     the same partials, so every selector matches exactly and source order is
-     what decides the winner. That includes the custom CSS above — the dark
-     halves of those rules live in dark.scss.
-
-     The media attribute ships as the system query, so a reader with JavaScript
-     disabled still gets dark on a dark-preferring system. The script below then
-     pins it to `all` / `not all` once there is an explicit choice, and because
-     it runs here in <head> the page never paints in the wrong mode. -->
-<link id="theme-dark-css" rel="stylesheet" media="(prefers-color-scheme: dark)"
-      href="{{ '/assets/css/dark.css' | relative_url }}">
-
+     The palette lives entirely in custom properties -- see the three
+     :root blocks in _sass/minimal-mistakes/skins/_dirt.scss (light,
+     explicit-dark via [data-theme="dark"], and the no-JS/no-choice system
+     fallback via prefers-color-scheme). `data-theme` on <html> is the single
+     source of truth for which one is in effect; a change to it is a defined
+     style-change event the browser resolves synchronously, unlike the old
+     second-stylesheet-activated-by-media-attribute design this replaced (see
+     _notes/guides/theme_internals.md for that history) -- which is what lets
+     everything below be this short. The script runs here in <head>, before
+     the masthead is parsed, so the page never paints in the wrong mode. -->
 <script>
   (function () {
     var KEY = "theme";
-    var SYSTEM_MEDIA = "(prefers-color-scheme: dark)";
-
-    var link = document.getElementById("theme-dark-css");
-    var system = window.matchMedia(SYSTEM_MEDIA);
-
-    /* Set to false only if the palette once failed to resolve inside a view
-       transition callback within waitForPalette's cap -- see there. Until
-       that happens the cross-fade is allowed. */
-    var paletteResolvesInCallback = true;
-    var swapToken = 0;
+    var system = window.matchMedia("(prefers-color-scheme: dark)");
 
     // null means "follow the system"; localStorage throws in some privacy modes
     var stored = null;
@@ -1189,24 +1209,6 @@
 
     function apply() {
       var root = document.documentElement;
-
-      /* Force the new palette through with the theme's `transition: 0.2s`
-         switched off -- see the .theme-switching rules in the <style> above
-         for what that reset covers and why a transition can never survive a
-         stylesheet activation change. On and off within this one function,
-         so nothing else ever sees the class.
-
-         Every caller is guarded, not just the click: apply() also runs when
-         prefers-color-scheme flips under a reader who is following the
-         system, and that path wedges exactly the same way. */
-      root.classList.add("theme-switching");
-
-      // with no explicit choice, leave the media query in place and let the
-      // stylesheet keep tracking the system by itself
-      link.media = stored === null ? SYSTEM_MEDIA
-                 : stored === "dark" ? "all"
-                 : "not all";
-
       var mode = resolved();
       root.setAttribute("data-theme", mode);
 
@@ -1222,61 +1224,6 @@
         btns[i].setAttribute("aria-label", label);
         btns[i].setAttribute("title", label);
       }
-
-      /* Force the recalculation now, then hold the guard until the new
-         palette is actually in effect -- however many frames that takes.
-
-         Not the same thing. Reading a layout property resolves style that
-         is already pending; re-evaluating which stylesheets apply after a
-         media attribute changed is a separate piece of work, and an engine
-         may leave it for a later frame. Blink and WebKit 26.5 do it here.
-         iOS does not: measured on an iPhone, the palette was still the old
-         one two frames after the swap, by which point an earlier version of
-         this had already restored transitions -- so 148 of them fired and
-         animated every colour from the old palette to the new one. That is
-         what "the bold text is delayed" and "the rule turns white first"
-         were. A pale cream rule left on a background that has already gone
-         dark reads as white; dark brown left on a light background reads as
-         black. Stale colour against a changed ground, not a blend.
-
-         So do not count frames -- watch for the thing itself. Computed
-         `color-scheme` on the root is exactly the right sentinel and costs
-         no new markup: the <style> above sets it to `light` on :root and
-         dark.css sets it to `dark`, so it flips precisely when that sheet
-         starts or stops applying, in both directions.
-
-         The cap is there so that a sentinel that never matches -- someone
-         edits one of those two declarations away -- degrades to restoring
-         transitions a second late, rather than suppressing them forever.
-         The extra frame after it lands lets the new values paint before
-         transitions come back, so nothing has an old value to animate from.
-
-         The token makes a fast second toggle safe: only the most recent
-         swap is allowed to lift the guard, or an earlier loop finishing
-         late would uncover a swap still in progress. */
-      if (!document.body || !window.requestAnimationFrame) {
-        root.classList.remove("theme-switching");
-        return;
-      }
-
-      document.body.getBoundingClientRect();
-
-      var token = ++swapToken;
-      var waited = 0;
-
-      (function settle() {
-        if (token !== swapToken) return;
-
-        if (getComputedStyle(root).colorScheme === mode || waited >= 60) {
-          requestAnimationFrame(function () {
-            if (token === swapToken) root.classList.remove("theme-switching");
-          });
-          return;
-        }
-
-        waited++;
-        requestAnimationFrame(settle);
-      })();
     }
 
     apply();
@@ -1292,126 +1239,54 @@
         else window.localStorage.setItem(KEY, stored);
       } catch (e) {}
 
-      /* Swap the palette under a full-page cross-fade.
+      /* Swap the palette under a full-page cross-fade rather than letting
+         every element's color property change land silently. The API
+         snapshots the viewport, suppresses rendering while the callback
+         mutates the DOM, then cross-fades the old snapshot into the new
+         one -- and the callback here is synchronous, since a data-theme
+         change (unlike the old media-attribute stylesheet swap) resolves
+         within the same task, with nothing to wait on.
 
-         Why not a CSS transition: there is nothing for one to transition.
-         apply() flips the media attribute on the dark.css <link>; no
-         property on any element changes, a different stylesheet just starts
-         winning the cascade. Chrome does not re-run transitions on a
-         stylesheet activation change, which is the bug written up above
-         #theme-toggle -- the transition wedges at the OLD palette and stays
-         there until some unrelated recalculation knocks it loose. A view
-         transition works on a different principle: it snapshots the
-         viewport, suppresses rendering while the callback mutates the DOM,
-         then cross-fades the old snapshot into the new one. Stylesheet
-         activation is invisible to transitions but perfectly visible to a
-         snapshot.
-
-         That also fixes, rather than papers over, the tearing this replaced.
-         dark.css @imports the entire theme -- ~820 rules -- so activating it
-         invalidates the style of every element on a 12,000px article, and
-         Chrome used to spread that recalc across several frames and paint
-         each one: measured on the article page, a click was followed by
-         frames of 50ms, 30ms, 25ms, 19ms against a 16.7ms idle baseline.
-         The icons swapped a frame or two before the colours did, and the
-         eye read those intermediate paints as the row of masthead buttons
-         juddering sideways -- nothing actually moved, every rect and SVG
-         bbox is identical across the swap. Under a view transition those
-         frames happen behind a frozen snapshot, so none of them is seen.
-
-         The callback returns a promise, and the API holds the "new" snapshot
-         until it resolves. That is what makes this correct on an engine
-         that resolves the media change late -- without the wait it would
-         snapshot the OLD palette as the new state and cross-fade two
-         identical frames, then pop. See waitForPalette below.
+         That also avoids the tearing a plain synchronous mutation would
+         show on its own: changing dozens of custom properties on :root
+         invalidates the style of every element on a 12,000px article in one
+         go, and without a view transition the browser would spread that
+         recalc's paint across several frames -- the masthead's icons and
+         colours arriving a frame or two apart reads as the row of buttons
+         juddering sideways, even though nothing actually moved. Under a
+         view transition those frames happen behind a frozen snapshot, so
+         none of them is seen.
 
          Deliberately root-only -- see the ::view-transition rules in the
-         <style> above. */
+         <style> above. `html.theme-swap` there suppresses the one CSS
+         transition still on `a`/`.btn`/form controls for the instant of
+         this callback, so it can't run its own animation on top of the
+         snapshot cross-fade -- see there for why. */
       if (!canCrossFade()) {
         apply();
         return;
       }
 
+      var root = document.documentElement;
       document.startViewTransition(function () {
+        root.classList.add("theme-swap");
         apply();
-        return new Promise(function (resolve) { waitForPalette(resolve); });
+        root.offsetHeight; // force the new colors to land before un-suppressing
+        root.classList.remove("theme-swap");
       });
     }
 
-    /* Three ways to end up on the plain, instant path instead, all of them
-       leaving exactly the behaviour this had before cross-fading existed:
+    /* Two ways to end up on the plain, instant path instead, both leaving
+       exactly the behaviour this had before cross-fading existed:
 
        - no View Transitions API. Baseline since October 2025 (Chrome 111,
          Safari 18, Firefox 144), so this is the older-browser tail.
        - the reader asked for less motion. A whole-page cross-fade is
          squarely what that preference is about, and skipping it loses
-         nothing: the snapshot still commits the swap in one frame, which
-         is what stopped the tearing.
-       - dark.css has not parsed yet. This is the one that would make things
-         WORSE rather than merely plainer: if the sheet is not reachable
-         when the callback runs, flipping its media attribute changes
-         nothing yet, so the API cross-fades light into light for the full
-         duration and the real palette lands afterwards -- the abrupt flash,
-         with a delay bolted in front of it. Chrome speculatively fetches
-         non-matching-media sheets, so it is reachable here on a cold first
-         toggle (checked: 820 rules while the media query did not match),
-         but that is a Chrome optimisation, not a guarantee, and the failure
-         it prevents is worst on a phone. The flush above cannot rescue this
-         case -- it forces a recalculation, not a fetch. */
+         nothing: the snapshot still commits the swap in one frame. */
     function canCrossFade() {
       if (!document.startViewTransition) return false;
-      if (window.matchMedia("(prefers-reduced-motion: reduce)").matches) {
-        return false;
-      }
-      try {
-        if (!link.sheet || !link.sheet.cssRules.length) return false;
-      } catch (e) {
-        return false;
-      }
-      /* Fourth gate: an engine where the palette has actually been seen to
-         miss the wait below. Optimistic until proven otherwise, because the
-         wait makes the common deferral harmless. */
-      return paletteResolvesInCallback;
-    }
-
-    /* Wait for the media change to take effect, polling on TIMERS, not
-       frames.
-
-       This is what lets the cross-fade survive an engine that resolves a
-       stylesheet media change late. Measured on an iPhone: at the end of
-       the click the palette was still the old one, but by the next task it
-       had landed -- the deferral is one task boundary, not a repaint. So
-       the view transition callback returns a promise and the API holds the
-       "new" snapshot until this resolves, which is the whole point of the
-       callback being allowed to be async.
-
-       setTimeout rather than requestAnimationFrame deliberately: rendering
-       is suppressed while that callback is outstanding, so a frame callback
-       may not run at all and would deadlock the swap until the cap. Timers
-       are unaffected. Reading getComputedStyle each poll also forces the
-       style resolution rather than waiting for one to happen on its own.
-
-       The cap bounds the damage if an engine cannot resolve it here at all:
-       the swap proceeds, looking as it did before any of this existed, and
-       the cross-fade is switched off for the rest of the session so that
-       the next toggle is cleanly instant instead of a cross-fade between
-       two identical frames followed by a pop. */
-    function waitForPalette(done) {
-      var root = document.documentElement;
-      var target = root.getAttribute("data-theme");
-      var waited = 0;
-
-      (function poll() {
-        if (getComputedStyle(root).colorScheme === target) return done();
-
-        if (waited >= 150) {
-          paletteResolvesInCallback = false;
-          return done();
-        }
-
-        waited += 10;
-        window.setTimeout(poll, 10);
-      })();
+      return !window.matchMedia("(prefers-reduced-motion: reduce)").matches;
     }
 
     function ready() {
@@ -1478,10 +1353,15 @@
     }
 
     function apply() {
-      if (resolved() === "large") {
-        document.documentElement.setAttribute("data-font-size", "large");
-      } else {
+      /* CSS owns the default in both directions now (see .page__content in
+         the <style> above) -- [data-font-size] only needs to be written at
+         all when there's an explicit choice to express; with none, removing
+         the attribute lets the stylesheet's own viewport-width default show
+         through undisturbed. */
+      if (stored === null) {
         document.documentElement.removeAttribute("data-font-size");
+      } else {
+        document.documentElement.setAttribute("data-font-size", stored);
       }
 
       /* none present yet on the first call -- this runs before the masthead.

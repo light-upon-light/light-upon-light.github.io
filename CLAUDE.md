@@ -255,19 +255,24 @@ Arabic has no true italic — browsers synthesise a slant that mangles the joins
 so `.quran-arabic` cancels it with `font-style: normal`.
 
 Blockquotes carrying evidence come in three kinds, each with its own rule
-colour: **revealed text** (`{: .quote }`, gold `#a8792a`), a **source-led**
-block (`{: .src }`, taupe `#a1937c` with sepia `#6f6152` text), and the
-author's **commentary** (`{: .gloss }`, verdigris `#2e6b63` with a 5% wash).
-The tag is a kramdown inline attribute list on the line directly after the
-block — plain markdown, so MD033 stays as it is. Tag a quotation anywhere;
-`.src` and `.gloss` only appear indented under a bullet. A blockquote holding
-only a link stays untagged and keeps the theme's dark rule.
+colour: **revealed text** (`{: .quote }`, `--site-quote-gold`), a
+**source-led** block (`{: .src }`, `--site-src-border` rule with
+`--site-src-text` text), and the author's **commentary** (`{: .gloss }`,
+`--site-gloss-border` with a 5% wash, `--site-gloss-bg`). The tag is a
+kramdown inline attribute list on the line directly after the block — plain
+markdown, so MD033 stays as it is. Tag a quotation anywhere; `.src` and
+`.gloss` only appear indented under a bullet. A blockquote holding only a
+link stays untagged and keeps `--site-blockquote-border-default`, decoupled
+from `--mm-primary-color` because that variable does two opposing jobs (see
+its comment in `_dirt.scss`).
 
-That palette is **deliberately not the skin's**. `.src` sets `color`, never
-`opacity`, because opacity fades any link inside the block along with the text;
-at `#6f6152` it clears WCAG AA for small text at 5.4:1. Every colour here has a
-dark counterpart in `assets/css/dark.scss` — re-check both by hand if the skin
-changes.
+That palette is **deliberately not the skin's** — its own `--site-*`
+properties, defined in the same three `:root` blocks as the skin's `--mm-*`
+ones in `_sass/minimal-mistakes/skins/_dirt.scss` (see Dark mode below).
+`.src` sets `color`, never `opacity`, because opacity fades any link inside
+the block along with the text; at `--site-src-text`'s light value (`#6f6152`)
+it clears WCAG AA for small text at 5.4:1. Re-check the contrast ratios by
+hand if either palette changes.
 
 Anything that needs to be *in* `<body>` goes in `_includes/footer/custom.html`,
 the theme's other hook. `#floating-nav` lives there — markup, style, and script
@@ -283,20 +288,26 @@ classes (`.font-size-toggle`, `.theme-toggle`) are shared. The scripts in
 `head/custom.html` bind and sync `aria-pressed`/`aria-label`/`title` with
 `querySelectorAll` over the class — an `getElementById` there silently leaves
 the other copy describing the old state. CSS splits the same way: the icon swap
-and the no-JS hide are class-scoped so they cover both, while layout and colour
-stay ID-scoped, since the masthead copies sit transparent on the page ground and
-the floating ones on a dark translucent disc. The floating "large text is on"
-state uses `#d4a04a` in *both* palettes for that reason, so `dark.scss` needs
-nothing for it.
+is class-scoped so it covers both, while layout and colour stay ID-scoped, since
+the masthead copies sit transparent on the page ground and the floating ones on
+a dark translucent disc. The **no-JS hide has to name all four IDs**, not the
+shared class: every one of these buttons gets its `display` from an ID-scoped
+rule, so a class-scoped `html:not(.js) .theme-toggle` at `(0,2,1)` loses to
+`#theme-toggle` at `(1,0,0)` and to `#floating-nav button` at `(1,0,1)`. It did
+lose, silently, for as long as the rule existed — a reader without JavaScript
+got both controls in both places, and clicking them did nothing. The floating "large text is on"
+state uses a plain `#d4a04a` constant in *both* palettes for that reason — it
+always wants the lifted gold that reads on a dark ground, so it isn't one of
+the `--site-*` properties that vary by mode.
 
-`dark.css` re-imports the whole theme, so activating it invalidates every
-element on the page. Chrome spreads that recalc over several frames and paints
-each one, which tore the masthead — the icons swapped a frame or two before the
-colours did, and the still buttons read as juddering sideways. The toggle
-therefore wraps the swap in `document.startViewTransition()`: those frames now
-happen behind a frozen snapshot, and the two snapshots cross-fade (260ms, set
-on `::view-transition-old/new(root)`). A CSS transition cannot do this — see
-the note above `#theme-toggle` for why one wedges at the old palette.
+Redefining ~41 custom properties on `:root` invalidates every element on the
+page, so a plain `data-theme` write recalculates the whole document's style in
+one go — and without help, a browser can spread that recalc's *paint* across
+several frames, which used to tear the masthead (icons and colours arriving a
+frame or two apart reads as the buttons juddering sideways, even though
+nothing moved). The toggle wraps the swap in `document.startViewTransition()`:
+those frames happen behind a frozen snapshot, and the two snapshots cross-fade
+(260ms, set on `::view-transition-old/new(root)`) instead.
 
 It is a **dissolve, not the browser's cross-fade**. The default fades both
 snapshots at once under `mix-blend-mode: plus-lighter`, which *adds* the two
@@ -314,73 +325,43 @@ animations from `document.getAnimations()` and screenshot.
 
 `root` is the only participant. **Never give the toggles a
 `view-transition-name`** — a named element gets its geometry interpolated, which
-is precisely how the apparent sideways drift comes back. Three gates fall back
-to an instant swap: no API, `prefers-reduced-motion`, and `link.sheet` not yet
-parsed — that last one matters, since cross-fading light into light and landing
-the palette afterwards is worse than no animation at all.
+is precisely how the apparent sideways drift comes back. Two gates fall back to
+an instant swap instead: no View Transitions API, and `prefers-reduced-motion`.
 
 The theme's reset puts a bare `transition: 0.2s` — all properties — on `b, i,
 strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, a, tr,
-td, …`. Every one of those wedges on a palette change, so bold and italic text
-and `h1`/`h2`'s border-bottom used to arrive late and visibly slide out of the
-old palette *after* the cross-fade ended. (`hr` is absent from the theme's list,
-which is why it alone always changed cleanly — a useful tell.) That rule is now
-overridden directly in `custom.html` with `html :is(b, i, strong, …) {
-transition: none }` (the interactive subset — `a`, `.btn`, `form button`,
-`input[type="submit"]` — keeps a named colour transition), so the root cause is
-gone rather than papered over. `.theme-switching` (`transition: none
-!important` on everything) stays in place regardless, as a safety net for
-anything the `:is()` list misses, and becomes a no-op once dark mode stops
-being a second stylesheet swapped by media attribute — that rework is still
-pending. **Anything that changes the palette must go through `apply()`**; a
-bare `setAttribute`/`media` flip reintroduces the lag.
+td, …`. A `data-theme` change is a genuine property change on every element
+that reads one of the custom properties it redefines, so — unlike the old
+second-stylesheet design, where a transition could never even start — this
+transition *would* run, racing the view-transition cross-fade and arriving
+late. `custom.html` overrides that rule directly with `html :is(b, i, strong,
+…) { transition: none }` (the interactive subset — `a`, `.btn`, `form button`,
+`input[type="submit"]` — keeps a named colour transition for real hover/focus
+feedback), and a narrow, synchronous `html.theme-swap` guard suppresses that
+one surviving transition for the instant of the swap only, so it can't run its
+own animation on top of the snapshot. Nothing broader is needed: a
+`data-theme` write resolves in the same task, so there is no multi-frame
+window for a page-wide guard class to paper over.
 
-`custom.html`'s `<style>` block is emitted *after* `main.css`'s `<link>` (byte
-~1750 vs ~3000 in a built page), so an override only needs to match the
-theme's specificity, not beat it with `!important` — source order already
-does that. The nine `!important`s that remain there all have a real reason:
-four beat a rule `dark.css` re-declares at equal specificity *after* this
-block (dark mode is a second stylesheet activated later, not a same-document
-cascade loss); the rest beat `.page__content :first-child { margin-top: 0em
-}`, a theme rule at `(0,2,0)` that outranks several lower-specificity
-overrides here, or exist to outrank another rule in this same file that
-itself must stay `!important`. Every other `!important` in the file was
-removed as unnecessary — checked against both compiled stylesheets, not
-assumed. The four tied to `dark.css` go away once dark mode stops being a
-second stylesheet; the rest are independent of that and would need
-revisiting on their own terms.
+`custom.html`'s `<style>` block is emitted *after* `main.css`'s `<link>`, so
+an override only needs to match the theme's specificity, not beat it with
+`!important` — source order already does that. Three `!important`s remain
+there, none of them about dark mode: two beat `.page__content :first-child {
+margin-top: 0em }`, a theme rule at `(0,2,0)` that outranks the lower-
+specificity overrides on heading/blockquote top margin; the third outranks
+that same sibling rule's own `!important` from within this file. Every other
+`!important` — a second-stylesheet-only rule beating one `dark.css` used to
+re-declare after this block — was removed once that stylesheet was, checked
+against the compiled `main.css`, not assumed.
 
-Forcing layout is *not* the same as the sheet applying. Resolving pending style
-and re-evaluating which stylesheets match after a `media` change are separate
-work, and an engine may defer the second — iOS did, leaving the palette stale
-two frames on and firing 148 transitions once it landed. Do not count frames:
-watch computed **`color-scheme` on the root**, which is `light` from the inline
-`<style>` and `dark` from `dark.css`, so it flips exactly when that sheet starts
-or stops applying. `apply()` spins on it (capped, with a token so a fast second
-toggle can't be uncovered by an older loop) and lifts the guard one frame after
-it matches. The invariant to test: **whenever `.theme-switching` is off,
-`data-theme` must equal computed `color-scheme`.**
-
-That deferral is **one task boundary, not a repaint** — measured on iOS: stale
-at the end of the click, landed by the next task. So the view transition
-callback returns a promise and `waitForPalette` polls the same sentinel on
-`setTimeout` until it matches, which holds the "new" snapshot until the palette
-is really there. Without it the API snapshots the *old* palette as the new
-state and cross-fades two identical frames, then pops.
-
-Poll on **timers, not `requestAnimationFrame`** — rendering is suppressed while
-that callback is outstanding, so a frame callback may never run and would
-deadlock the swap. The cap exists for that case: it proceeds, and switches the
-cross-fade off for the session so the next toggle is cleanly instant rather than
-an animation between two identical frames. To prove no timeout happened, swap
-three times — if all three animate, none timed out.
-
-Skin colours are hardcoded from `_sass/minimal-mistakes/skins/_dirt.scss` — the
-theme exposes its palette as Sass variables, not CSS custom properties, so an
-include cannot read them. That path is inside the theme gem, not this repo
-(`remote_theme` never vendors it locally), so it isn't something to `Read` or
-`Grep` here — it's cited for provenance only. Changing `minimal_mistakes_skin`
-means updating the hardcoded values by hand, in both palettes.
+Skin colours (`--mm-*`) and this repo's own (`--site-*`) are both custom
+properties defined in `_sass/minimal-mistakes/skins/_dirt.scss`; `custom.html`
+consumes them with `var()` rather than hardcoding hex. That path is inside
+the theme gem otherwise (`remote_theme` never vendors it locally) except for
+this one shadowed skin file, so `_dirt.scss` is the only place to `Read` or
+`Grep` the palette. Changing `minimal_mistakes_skin` means updating both the
+`--mm-*` values (from a built `main.css`) and the `--site-*` ones by hand, in
+both palettes.
 
 **Dark mode and the TOC drawer have their own failure modes. Read
 `_notes/guides/theme_internals.md` before changing either.**

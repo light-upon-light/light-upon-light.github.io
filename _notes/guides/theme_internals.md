@@ -1,71 +1,102 @@
 # Theme internals
 
-Two customisations big enough to have their own failure modes: the dark-mode
-stylesheet and the mobile TOC drawer. Read the relevant half before changing
-either. Everything else lives in `CLAUDE.md`.
+Two customisations big enough to have their own failure modes: dark mode and
+the mobile TOC drawer. Read the relevant half before changing either.
+Everything else lives in `CLAUDE.md`.
 
 ## Dark mode
 
-`assets/css/dark.scss` compiles **the whole theme a second time** with a dark
-palette. `_includes/head/custom.html` links it last in `<head>` and switches it
-on and off with the `<link media>` attribute — `main.css` (dirt skin) always
-applies, `dark.css` loads second and wins when its media query matches.
+One stylesheet, palette in CSS custom properties, `data-theme` on `<html>` as
+the single source of truth. `_sass/minimal-mistakes/skins/_dirt.scss` defines
+three `:root` blocks — light (the bare block), explicit dark
+(`:root[data-theme="dark"]`), and the no-JS/no-choice system fallback
+(`@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) {`) —
+each setting the same ~41 `--mm-*`/`--site-*` properties. Every theme
+component and every piece of this repo's own CSS reads one of those
+properties, so a `data-theme` change repaints the whole page from one
+attribute write. This replaced compiling the theme twice into a second
+stylesheet (`assets/css/dark.css`, toggled by a `<link media>` attribute) —
+the reasoning below is for anyone diffing against that history, not a
+description of what exists now.
 
-**Custom properties cannot do this job.** A minimal-mistakes skin is a set of
-*Sass* variables and the theme runs Sass colour functions over them — `mix()`,
+**Why this took two passes.** A minimal-mistakes skin is a set of *Sass*
+variables, and the theme runs Sass colour functions over them — `mix()`,
 `rgba()`, `yiq-contrasted()`. `mix(#fff, var(--x), 20%)` does not compile, so
-the palette has to be resolved at build time. Compiling twice costs ~70 KB
-minified (~10 KB gzipped) and covers every theme component, including ones the
-site doesn't use yet.
+turning the skin into custom properties (the previous commit) needed a
+precomputed fallback property for every one of those call sites, guarded by
+`@if type-of(...) == color`. This commit only had to add the *values* for a
+second palette behind that plumbing — extracted from the last build of
+`dark.css` by matching each consuming selector against `main.css`, not
+recomputed by hand, since Sass still can't run those functions on a `var()`
+to check them.
 
-Because both files come from the same partials, **every selector matches
-exactly and source order decides the winner**. Three consequences:
+The palette is hand-derived from dirt, not one of the theme's stock dark
+skins. `_dirt.scss`'s dark block carries the computed WCAG contrast ratios in
+its header comment; re-check them by hand if any value changes. Two of the
+choices are not free:
 
-- The `dark.css` link must stay the **last** stylesheet in the head. It is
-  already after the `<style>` block in the same include, which is what lets it
-  override the custom light-mode CSS there.
-- Dark variants of this repo's own CSS belong **in `dark.scss`**, not behind a
-  `prefers-color-scheme` block or an `html[data-theme]` selector somewhere else.
-  One toggled stylesheet is what makes the no-JavaScript path come out right.
-- Rules defined in `_includes/footer/custom.html` are an inline `<style>` inside
-  `<body>`, so they come *after* `dark.css` and would win a tie. Their dark
-  counterparts are prefixed with `body` (`body #floating-nav button`) to raise
-  specificity. **Do not drop that prefix.**
-
-The palette is hand-derived from dirt, not one of the theme's stock dark skins.
-`dark.scss` lists the computed contrast ratios; re-check them by hand if any
-value changes. Two of the choices are not free:
-
-- `$primary-color` (`#6f5f48`) does two opposing jobs: it is the background
-  *behind* white text (`.nav__title`, `.btn--primary`) and the default
-  `blockquote` rule drawn *on* the page background. It is a compromise between
-  them, and the blockquote rule is re-set after the import to decouple the two.
-  `#toc-panel .nav__title` and `#toc-close` need no dark rule at all because of
-  this — primary is dark in both modes, so white text still works.
-- `$active-color` (the TOC scrollspy highlight) has to stay dark enough that
-  `yiq-contrasted()` still picks white. The stock 80%-white value would paint a
-  near-white pill on a dark page.
+- `--mm-primary-color` (`#6f5f48` dark) does two opposing jobs: it is the
+  background *behind* white text (`.nav__title`, `.btn--primary`) and the
+  default `blockquote` rule drawn *on* the page background.
+  `--site-blockquote-border-default` decouples the two — see its comment in
+  `_dirt.scss` and its consumer in `_includes/head/custom.html`. `#toc-panel
+  .nav__title` and `#toc-close` need no dark rule at all because of this —
+  primary is dark in both modes, so white text still works.
+- `--mm-active-color` (the TOC scrollspy highlight) has to stay dark enough
+  that `yiq-contrasted()` still picks `--mm-active-color-contrast: #fff`. The
+  stock 80%-white value would paint a near-white pill on a dark page.
 
 Dirt's base16 syntax colours are already a dark scheme, so they carry over
-verbatim and code blocks look the same in both modes.
+verbatim (still literal hex, not custom properties — see the comment in
+`_dirt.scss`) and code blocks look the same in both modes.
 
-**Mode selection.** The `media` attribute ships as `(prefers-color-scheme: dark)`,
-so a reader with JavaScript off still gets dark on a dark-preferring system. The
-inline script in `head/custom.html` pins it to `all` / `not all` once there is an
-explicit choice in `localStorage`, and mirrors the result onto
-`documentElement.dataset.theme`, which picks the button's icon and label. It runs
-in `<head>`, before the masthead is parsed, so the page never paints in the wrong
-mode. Choosing the mode the system already prefers **clears** the stored value
-rather than pinning it, so the site goes back to following the system.
+This repo's own palette — the evidence blockquotes, the floating nav, the
+breadcrumb, and the dozen or so other rules hardcoded in `head/custom.html`
+and `footer/custom.html` — is `--site-*` properties in the same three
+`_dirt.scss` blocks, consumed directly by those rules. A few reuse an
+existing `--mm-*` property instead of getting their own, where the dirt skin
+already happens to carry the right value (e.g. the TOC active-row highlight
+reuses `--mm-active-color`/`-contrast`, the same properties the theme's own
+`.toc .active a` reads).
 
-`_includes/masthead.html` is a **fork of the theme's file**, verbatim for 4.28.0
-apart from the `#theme-toggle` button. The theme has no hook inside the masthead.
-If the `remote_theme` pin in `_config.yml` moves, diff this file against the new
-release. GreedyNav measures the space left for nav links by subtracting the title
-and the search toggle from the nav width and knows nothing about
-`#theme-toggle`, so it thinks it has ~2.6rem more room than it does — harmless
-while `_data/navigation.yml` holds one short link, worth revisiting if the nav
-grows.
+**Mode selection.** The inline script in `head/custom.html` reads
+`localStorage`, resolves against `matchMedia("(prefers-color-scheme: dark)")`
+when there is no stored choice, and writes the result onto
+`documentElement.dataset.theme` — which is also what CSS keys off, so setting
+it *is* the mode switch, not a hint to some other mechanism. It runs in
+`<head>`, before the masthead is parsed, so the page never paints in the
+wrong mode. Choosing the mode the system already prefers **clears** the
+stored value rather than pinning it, so the site goes back to following the
+system.
+
+A `data-theme` write is a defined style-change event the browser resolves
+synchronously — unlike the old media-attribute stylesheet swap, which could
+defer recognising its own change by a task or more (measured on iOS: still
+the old palette two frames after the swap). That deferral is what the old
+design's `waitForPalette()` polling, the `color-scheme`-as-sentinel checks,
+and the `.theme-switching` transition guard all existed to survive. None of
+it is needed now: the toggle's `document.startViewTransition()` callback is
+synchronous, and the only remaining transition-suppression is
+`html.theme-swap`, scoped to the four selectors (`a`, `.btn`, `form button`,
+`input[type="submit"]`) that still carry a CSS transition after the theme's
+`transition: all 0.2s` reset was trimmed — see the comments above it in
+`head/custom.html` for why even those would otherwise race the cross-fade.
+
+**Never give the toggle buttons a `view-transition-name`.** `root` is the
+only participant in the cross-fade; a named element gets its old and new
+geometry interpolated, which is exactly how the apparent sideways drift in
+`#font-size-toggle` came back the one time this was tried.
+
+**A dissolve, not the browser's default cross-fade.** The UA default fades
+both snapshots at once under `mix-blend-mode: plus-lighter`, which *adds* the
+two layers — right for two near-identical frames, wrong for two different
+palettes, since a pixel can land brighter than it is in either one (hairlines
+showed it worst: anti-aliased coverage differs between a 1px light rule and a
+0.8px dark one, and the sum blew out to white crossing into dark mode). So
+`::view-transition-old(root)` holds still and opaque as the base while
+`::view-transition-new(root)` fades in on top with normal blending —
+monotonic per pixel, total alpha stays 1 throughout, and the mid-transition
+overshoot can't come back.
 
 ## The TOC drawer
 

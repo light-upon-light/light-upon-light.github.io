@@ -64,21 +64,21 @@
   .quran-breadcrumb li + li::before {
     content: "\203a";
     margin: 0 0.5em;
-    color: #c3b4a0;
+    color: var(--site-breadcrumb-sep);
   }
 
   .quran-breadcrumb a {
-    color: #8e8b82;
+    color: var(--mm-muted-text-color);
     text-decoration: none;
   }
 
   .page__content .quran-breadcrumb a:hover {
-    color: #343434;
+    color: var(--mm-text-color);
     text-decoration: underline;
   }
 
   .quran-breadcrumb li[aria-current="page"] {
-    color: #6f6152;
+    color: var(--site-src-text);
   }
 </style>
 {% assign quran_page = site.pages | where: "permalink", "/quran" | first %}
@@ -268,14 +268,16 @@
     align-items: center;
     justify-content: center;
 
-    /* dirt skin: $primary-color #343434 on $border-color #e9dcbe. Alpha'd
-       down so text scrolled underneath stays readable through the button;
-       dark counterpart in assets/css/dark.scss. */
-    color: #f3f3f3;
-    background-color: rgba(52, 52, 52, 0.55);
-    border: 1px solid #e9dcbe;
+    /* --site-* properties, not the theme's own -- these sit on a dark
+       translucent disc in both palettes (unlike the masthead copies, which
+       sit transparent on the page ground), so they don't track
+       var(--mm-text-color)/var(--mm-primary-color) the way those do. Alpha'd
+       down so text scrolled underneath stays readable through the button. */
+    color: var(--site-floatnav-icon);
+    background-color: var(--site-floatnav-bg);
+    border: 1px solid var(--site-floatnav-border);
     border-radius: 50%;
-    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.3);
+    box-shadow: 0 2px 6px var(--site-floatnav-shadow);
     cursor: pointer;
   }
 
@@ -304,10 +306,10 @@
   }
 
   /* "Large text is on", the same state the masthead copy shows in gold.
-     Both floating palettes put these buttons on a dark translucent disc, so
-     this uses dark.scss's lifted #d4a04a in BOTH modes -- the dirt skin's
-     #a8792a reads muddy here even in light mode. Nothing to add to
-     dark.scss for this one. */
+     A plain constant, not --site-quote-gold: this button sits on a dark
+     translucent disc in both palettes, so it always wants the lifted gold
+     that reads on a dark ground -- the dirt skin's darker light-mode gold
+     would read muddy here even in light mode. */
   #floating-nav #floating-font-size-toggle[aria-pressed="true"] {
     color: #d4a04a;
   }
@@ -320,7 +322,7 @@
     position: fixed;
     inset: 0;
     z-index: 105;
-    background-color: rgba(52, 52, 52, 0.5);
+    background-color: var(--site-tocbackdrop-bg);
     opacity: 0;
     transition: opacity 0.25s ease;
     /* swallows pan gestures, which is the whole scroll lock. The theme's
@@ -481,9 +483,9 @@
        the reader clicks to toggle -- give the whole strip a hand cursor,
        not just the text and the button */
     cursor: pointer;
-    /* dirt skin $border-color; dark counterpart in assets/css/dark.scss.
-       Moved here from the <a> below so the rule spans the toggle too. */
-    border-bottom: 1px solid #e9dcbe;
+    /* var(--mm-border-color) -- moved here from the <a> below so the rule
+       spans the toggle too. */
+    border-bottom: 1px solid var(--mm-border-color);
   }
 
   /* Deliberately NOT flex: 1 1 auto. Stretching the <a> to fill the row
@@ -524,15 +526,17 @@
      explicitly rather than left to inherit from the row -- the theme's
      `.toc__menu a` sets colour directly on the element, and a specified
      value there always wins over an inherited one regardless of the
-     ancestor rule's specificity. */
+     ancestor rule's specificity. var(--mm-active-color)/-contrast, the same
+     properties the theme's own `.toc .active a` reads, so both palettes
+     come for free. */
   .toc .active > .toc__heading-row {
-    background-color: #d6d6d6;
+    background-color: var(--mm-active-color);
   }
 
   .toc .active > .toc__heading-row,
   .toc .active > .toc__heading-row a,
   .toc .active > .toc__heading-row .toc__toggle {
-    color: #3d4144;
+    color: var(--mm-active-color-contrast);
   }
 
   /* The theme puts `transition: 0.2s ease-in-out` on bare `a` (among other

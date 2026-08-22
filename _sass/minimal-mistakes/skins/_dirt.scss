@@ -2,21 +2,29 @@
    Dirt skin — palette expressed as CSS custom properties
 
    Shadows the theme's 4.28.0 _dirt.scss. Each of the skin's own palette
-   variables now resolves to a CSS custom property instead of a literal hex
-   value, so the same compiled main.css can carry a light and (later) a dark
-   palette without recompiling. This is the *enabling* step only: no dark
-   values exist yet, and the :root block below reproduces exactly the colors
-   the previous literal-hex build produced — verified against a built
-   _site/assets/css/main.css, not recomputed by hand.
+   variables resolves to a CSS custom property instead of a literal hex
+   value, so one compiled main.css carries both the light and dark palette —
+   `data-theme` on <html> is what picks between them, not a second stylesheet.
+   See _includes/head/custom.html for the toggle script and
+   _notes/guides/theme_internals.md for how the two used to be kept in sync
+   before this.
 
    Sass still cannot run mix()/rgba()/yiq-contrasted() on a var(), so every
    partial that calls those functions on one of these variables has a
    matching @if type-of(...) == color guard, falling back to a second,
    precomputed custom property (also defined below) when the value is no
-   longer a literal Sass color. assets/css/dark.scss still imports these same
-   partials with real hex colors, so the guarded branch is untouched there —
-   dark.css must build byte-identical to before this change.
-   ========================================================================== */
+   longer a literal Sass color. Those precomputed dark values were pulled out
+   of the last build of assets/css/dark.css (before it was deleted) by
+   matching each consuming selector between main.css and dark.css — not
+   recomputed by hand, since Sass can't run those functions on a var() to
+   check them.
+
+   --site-* custom properties below are this repo's own palette (the evidence
+   blockquotes, the floating nav, the breadcrumb, …) — previously duplicated
+   wholesale in assets/css/dark.scss with a `body` specificity prefix to beat
+   a later stylesheet. Now they're consumed directly by the rules in
+   _includes/head/custom.html and _includes/footer/custom.html, which pick up
+   the dark value the same way every theme rule does. */
 
 /* Colors */
 $background-color: var(--mm-background-color) !default;
@@ -131,4 +139,128 @@ $base0f: #b49368 !default;
   --mm-code-notice-bg-warning: #f0e7db;
   --mm-code-notice-bg-success: #e1ebe1;
   --mm-code-notice-bg-danger: #f3e4e4;
+
+  /* This repo's own palette, not the theme's. Consumed directly by
+     _includes/head/custom.html and _includes/footer/custom.html — see the
+     comment at the top of this file. Values are the illuminated-manuscript
+     scheme documented there: gold for revealed text, taupe/sepia for the
+     apparatus, verdigris for the author's own commentary. */
+  --site-quote-gold: #a8792a; // blockquote.quote border, .num-roman/.num-alpha, #font-size-toggle[aria-pressed]
+  --site-src-text: #6f6152; // blockquote.src text, .yt-embed summary, breadcrumb current crumb, quran-return text
+  --site-src-border: #a1937c; // blockquote.src / .yt-embed / .quran-return border
+  --site-gloss-border: #2e6b63; // blockquote.gloss border
+  --site-gloss-bg: rgba(46, 107, 99, 0.05); // blockquote.gloss background wash
+  --site-breadcrumb-sep: #c3b4a0; // quran-breadcrumb "›" separator
+  --site-return-hover-bg: rgba(161, 147, 124, 0.14); // quran-return hover background
+  --site-floatnav-icon: #f3f3f3; // #floating-nav button icon color
+  --site-floatnav-bg: rgba(52, 52, 52, 0.55); // #floating-nav button background
+  --site-floatnav-border: #e9dcbe; // #floating-nav button border
+  --site-floatnav-shadow: rgba(0, 0, 0, 0.3); // #floating-nav button box-shadow
+  --site-tocbackdrop-bg: rgba(52, 52, 52, 0.5); // #toc-backdrop background
+
+  /* $primary-color does two opposing jobs in the theme's own default
+     blockquote rule (background behind white text elsewhere, but a rule
+     drawn *on* the page background here) — decoupled from --mm-primary-color
+     for the untagged case, same as dark.scss used to do explicitly. Light
+     value equals --mm-primary-color; kept as its own property so the dark
+     value doesn't have to. */
+  --site-blockquote-border-default: var(--mm-primary-color);
+}
+
+/* Dark palette. Values are hand-derived from dirt (a night version of the
+   same warm, illuminated-manuscript scheme), not one of the theme's stock
+   dark skins — carried over verbatim from the last build of
+   assets/css/dark.scss (deleted; see _notes/guides/theme_internals.md),
+   which listed the WCAG 2.1 contrast ratios below. Re-check them by hand if
+   any value changes.
+
+     body text   #e6ded2   13.0:1   AAA   (background #1c1a17)
+     muted       #a2988a    6.1:1   AA
+     .src text   #b8ab97    7.7:1   AA  (recedes, as 5.4:1 does in light)
+     #fff on $primary-color  6.2:1   AA
+     blockquote rule vs page 3.3:1   AA non-text
+
+   $primary-color (#6f5f48) does the same two opposing jobs as in light: the
+   background behind white text (.nav__title, .btn--primary) and the default
+   blockquote rule. --site-blockquote-border-default decouples them here too.
+
+   $active-color (--mm-active-color, the TOC scrollspy highlight) has to stay
+   dark enough that yiq-contrasted() still picks white: at 10% white the YIQ
+   is 113 (threshold 175) and white clears AA at 4.9:1. The stock 80% would
+   give a near-white pill on a dark page.
+
+   Defined once via a mixin and included from both the explicit-choice
+   selector and the no-JS system-preference fallback, so the two palettes
+   never drift apart from being hand-copied twice. */
+@mixin site-dark-palette {
+  --mm-background-color: #1c1a17;
+  --mm-text-color: #e6ded2;
+  --mm-muted-text-color: #a2988a;
+  --mm-primary-color: #6f5f48;
+  --mm-border-color: #4a4238;
+  --mm-footer-background-color: #2a251e;
+  --mm-link-color: #e6ded2;
+  --mm-link-color-hover: #ece6dd;
+  --mm-link-color-visited: #c4bdb3;
+  --mm-masthead-link-color: #e6ded2;
+  --mm-masthead-link-color-hover: #ece6dd;
+  --mm-navicon-link-color-hover: #494845;
+  --mm-focus-color: #d4a04a; // $primary-color is only 2:1 here — not a visible focus ring
+  --mm-active-color: #7d6f5a;
+  --mm-form-background-color: #26221c;
+  --mm-code-background-color: #26221c;
+  --mm-code-background-color-dark: #16140f;
+
+  --mm-border-color-h00025: #38322a;
+  --mm-primary-color-h00025: #534736;
+  --mm-primary-color-hover: #594c3a;
+  --mm-primary-color-h00010: #645641;
+  --mm-primary-color-h00050: #383024;
+  --mm-primary-color-alpha-25: rgba(111, 95, 72, 0.25);
+  --mm-text-color-alpha-06: rgba(230, 222, 210, 0.06);
+  --mm-primary-color-alpha-70: rgba(111, 95, 72, 0.7);
+  --mm-muted-text-color-alpha-50: rgba(162, 152, 138, 0.5);
+  --mm-on-accent: #fff;
+  --mm-muted-text-color-contrast: #fff;
+  --mm-active-color-contrast: #fff;
+  --mm-notice-bg-default: #3c3b3a;
+  --mm-notice-bg-primary: #2d2821;
+  --mm-notice-bg-info: #223438;
+  --mm-notice-bg-warning: #412e13;
+  --mm-notice-bg-success: #23361f;
+  --mm-notice-bg-danger: #462825;
+  --mm-code-notice-bg-default: #2c2b28;
+  --mm-code-notice-bg-primary: #24211c;
+  --mm-code-notice-bg-info: #1f2727;
+  --mm-code-notice-bg-warning: #2f2415;
+  --mm-code-notice-bg-success: #20281b;
+  --mm-code-notice-bg-danger: #31211e;
+
+  --site-quote-gold: #d4a04a; // dirt's light gold reads muddy on a dark ground; lifted
+  --site-src-text: #b8ab97;
+  --site-src-border: #8a7d68;
+  --site-gloss-border: #4fa89c;
+  --site-gloss-bg: rgba(79, 168, 156, 0.08);
+  --site-breadcrumb-sep: #6b6152;
+  --site-return-hover-bg: rgba(138, 125, 104, 0.18);
+  --site-floatnav-icon: #e6ded2;
+  --site-floatnav-bg: rgba(47, 42, 35, 0.55);
+  --site-floatnav-border: #6f5f48;
+  --site-floatnav-shadow: rgba(0, 0, 0, 0.6);
+  --site-tocbackdrop-bg: rgba(0, 0, 0, 0.65);
+  --site-blockquote-border-default: #6b6152; // decoupled from --mm-primary-color; see above
+}
+
+/* Explicit choice, via [data-theme] on <html> — see the toggle script in
+   _includes/head/custom.html. */
+:root[data-theme="dark"] {
+  @include site-dark-palette;
+}
+
+/* No-JS / no-explicit-choice path: follow the OS. An explicit light choice
+   still beats a dark OS, because :not([data-theme="light"]) excludes it. */
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    @include site-dark-palette;
+  }
 }
