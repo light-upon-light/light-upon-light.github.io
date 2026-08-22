@@ -6,7 +6,7 @@ date: 2025-08-16
 # Standard short-form label for this page, used wherever the full title (with
 # its "Evidence for Prophethood" subtitle) would be too long -- currently the
 # breadcrumb trail on the misconceptions sub-pages (_includes/footer/custom.html).
-short_title: "The Qur'an and the Messenger ﷺ"
+short_title: "Qur'an and the Messenger ﷺ"
 
 permalink: /quran
 
@@ -20,7 +20,7 @@ toc_sticky: true
 share: true
 ---
 
-> This page presents evidence for the **miraculous nature** of the **Qur'an** and the **prophethood** of **Prophet Muhammad** ﷺ. Not every point is a miracle or decisive proof by itself. Taken together, however, they form a cumulative case for the Qur'an's divine origin and the authenticity of the Prophet's mission. -- *note: this page is a work in progress*
+> This page presents evidence for the **miraculous nature** of the **Qur'an** and the **prophethood** of **Prophet Muhammad** ﷺ. Not every point is a miracle or proof by itself. Taken together, however, they form a cumulative case for the Qur'an's divine origin and the authenticity of the Prophet's mission. -- *note: this page is a work in progress*
 
 ## The Book
 
