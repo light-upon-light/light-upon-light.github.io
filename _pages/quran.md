@@ -126,6 +126,8 @@ share: true
 {: #guidance-law-and-morality }
 
 1. Presents itself as coming from the **same Divine Author** as the earlier scriptures. It **confirms** their original teaching, **expands** their guidance, and **restores** what was altered over time.
+    > Note: "Allah" is simply the **Arabic word for God**, not the name of a distinct or separate deity. It is the same word **Arab Christians and Jews** use for God in their own scriptures and worship, and it shares a root with the Hebrew *Elohim* and Aramaic *Alaha*, which Jesus himself would have used.
+    {: .gloss }
 1. Names **mercy** as God's defining attribute. **Every chapter but one opens** by calling Him the Most Compassionate, the Most Merciful, and the text sets **no limit** on that mercy.
     > "My mercy encompasses all things." (**Sūrat al-Aʿrāf 7:156**), Saheeh International
     >
