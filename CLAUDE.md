@@ -326,11 +326,28 @@ and `h1`/`h2`'s border-bottom used to arrive late and visibly slide out of the
 old palette *after* the cross-fade ended. (`hr` is absent from the theme's list,
 which is why it alone always changed cleanly — a useful tell.) `apply()`
 therefore hangs `.theme-switching` on `<html>`, which is `transition: none
-!important` on everything, forces the recalculation with
-`document.body.getBoundingClientRect()`, and takes the class off again — all in
-one tick, so the snapshot is entirely in the new palette and ordinary hover
-fades are untouched. **Anything that changes the palette must go through
-`apply()`**; a bare `setAttribute`/`media` flip reintroduces the lag.
+!important` on everything, forces the recalculation, and holds the class until
+the new palette is genuinely in effect. **Anything that changes the palette must
+go through `apply()`**; a bare `setAttribute`/`media` flip reintroduces the lag.
+
+Forcing layout is *not* the same as the sheet applying. Resolving pending style
+and re-evaluating which stylesheets match after a `media` change are separate
+work, and an engine may defer the second — iOS did, leaving the palette stale
+two frames on and firing 148 transitions once it landed. Do not count frames:
+watch computed **`color-scheme` on the root**, which is `light` from the inline
+`<style>` and `dark` from `dark.css`, so it flips exactly when that sheet starts
+or stops applying. `apply()` spins on it (capped, with a token so a fast second
+toggle can't be uncovered by an older loop) and lifts the guard one frame after
+it matches. The invariant to test: **whenever `.theme-switching` is off,
+`data-theme` must equal computed `color-scheme`.**
+
+The two directions are not symmetric — dropping the sheet resolves immediately,
+bringing it in may not — and it varies run to run, so the cross-fade gate is
+*measured, never assumed*: `apply()` records whether the palette landed
+synchronously, sticky-false once seen deferred, and `canCrossFade()` needs
+`true`. Unknown counts as deferred, so **the first swap of a session is always
+instant** — deliberate, because cross-fading two identical frames and then
+popping is worse than not animating.
 
 Skin colours are hardcoded from `_sass/minimal-mistakes/skins/_dirt.scss` — the
 theme exposes its palette as Sass variables, not CSS custom properties, so an
