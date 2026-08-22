@@ -100,25 +100,59 @@ overshoot can't come back.
 
 ## The TOC drawer
 
-`#toc-toggle` opens `#toc-panel`, a full-height panel sliding in from the right
-edge. The panel is built at load from a **clone** of the theme's TOC and
-appended to `<body>`; it is always mounted and always `position: fixed`, parked
-off-screen behind `visibility: hidden`.
+`#toc-toggle` opens `#toc-panel`, a real `<dialog>` opened with `showModal()`,
+sliding in from the right edge. The panel is built at load from a **clone** of
+the theme's TOC and appended to `<body>`; `<dialog>` is `display: none` at rest
+(the UA default), not mounted-but-hidden the way the old plain-`<div>` version
+was.
 
-**Do not reposition the real `.sidebar__right` instead.** Two independent things
-break:
+Converting it from a hand-built div + `#toc-backdrop` pair to a real `<dialog>`
+(audit P1-6) replaced four things the old version had to fake or got wrong:
 
-- Going `position: fixed` pulls that node out of the document flow. It is a tall
-  block near the top of the article — on `/quran` roughly a thousand pixels — so
-  everything below it jumps up by its full height.
-- The theme puts `animation: intro` on `#main`, and an element with an animation
-  in effect is a stacking context. From inside it no `z-index` can lift the panel
-  above a body-level backdrop, so the backdrop paints *over* the panel, greying
-  it out and swallowing every tap.
+- **No focus trap.** `showModal()` supplies one natively — Tab cannot reach the
+  masthead or the article behind the panel.
+- **Background not inert.** `showModal()` marks everything outside the dialog
+  inert and sets the dialog's accessible semantics — never add `role="dialog"`
+  or `aria-modal` by hand; they come for free and a hand-added one can conflict.
+- **Scroll lock was touch-only.** `touch-action: none` on the backdrop stopped
+  a touch drag but did nothing for a mouse wheel or arrow keys. The dialog's
+  focus trap handles keyboard scrolling (focus can't reach anything a key
+  could scroll), but wheel input doesn't depend on focus and isn't reliably
+  absorbed by `::backdrop` across engines, so `blockWheel()` in site.js still
+  explicitly `preventDefault()`s a `wheel` event unless its target is inside
+  `.toc__menu`. `touch-action: none` on `::backdrop` (below) still covers the
+  touch case.
+- **A `setTimeout` duplicated the CSS transition duration.** The old close
+  path waited a hardcoded 250ms — guessed to match the transition — before
+  unmounting `#toc-backdrop`; changing one and not the other would
+  desynchronise them. `transition-behavior: allow-discrete` on `display` and
+  `overlay` (in the `#toc-panel` CSS) replaces that: calling `panel.close()`
+  removes `[open]` immediately, but allow-discrete holds the dialog in the top
+  layer for exactly as long as the `transform` transition it's paired with
+  actually takes, so there's nothing left to keep in sync by hand.
 
-Cloning sidesteps both: the article is never touched, and the panel is already a
-child of `<body>`. The theme's `.toc` / `.toc__menu` rules are unscoped, so the
-clone is styled for free. Only the clone's root gets an id (`toc-drawer`).
+`showModal()`/`close()` still don't give a scroll-position-preserving open —
+that part is unrelated to any of the above and is why the clone stays (next
+paragraph), and `panel.showModal()` itself doesn't skip the same
+`focus({ preventScroll: true })` call the old code needed, since its own
+default focus move isn't guaranteed to be scroll-safe either.
+
+**Do not reposition the real `.sidebar__right` instead.** Repositioning it with
+`position: fixed` would pull it out of the document flow — it's a tall block
+near the top of the article, on `/quran` roughly a thousand pixels — so
+everything below it would jump up by its full height the moment the drawer
+opened, to a reader scrolled well past it. A second reason used to apply too:
+the theme's `animation: intro` on `#main` creates a stacking context, and
+inside it no `z-index` could lift a plain fixed panel above a body-level
+backdrop. That reason is gone now that the panel is a `<dialog>` — top-layer
+rendering ignores ancestor stacking contexts entirely — but the layout-jump
+reason doesn't depend on how the panel itself is rendered, so cloning stays
+either way.
+
+Cloning sidesteps the remaining problem: the article is never touched, and the
+panel is already a child of `<body>`. The theme's `.toc` / `.toc__menu` rules
+are unscoped, so the clone is styled for free. Only the clone's root gets an id
+(`toc-drawer`).
 
 **The clone is a bare `<nav>` wrapping a `<div class="toc">`.** Both halves are
 load-bearing:
@@ -144,10 +178,12 @@ cannot change while the panel is up.
 **The scroll lock cannot be the theme's `overflow--hidden`.** `overflow: hidden`
 on `<body>` establishes a block formatting context, and reflowing the theme's
 layout under it shortens the page by ~1400px — the same visible lurch, from a
-different cause. `touch-action: none` on the backdrop swallows pan gestures
-instead, with `overscroll-behavior: contain` on `.toc__menu` so a flick past the
-end of the list does not chain into the article. Neither touches layout. Focus
-moves with `preventScroll: true` for the same reason.
+different cause. `touch-action: none` on `#toc-panel::backdrop` (the browser's
+own generated backdrop box, styled directly — see the note above) swallows pan
+gestures instead, with `overscroll-behavior: contain` on `.toc__menu` so a
+flick past the end of the list does not chain into the article. `blockWheel()`
+in site.js covers the mouse wheel, which touch-action doesn't. None of this
+touches layout. Focus moves with `preventScroll: true` for the same reason.
 
 Width is `min(86vw, 21rem)` — the `vw` term guarantees a strip of backdrop
 survives on the left, so there is always somewhere to tap to dismiss. Running
@@ -198,7 +234,16 @@ The regression test is three numbers — `scrollY`,
 `documentElement.scrollHeight`, and the `getBoundingClientRect().top` of a
 heading — sampled before opening, while open, and after closing. All three must
 be identical across the three samples. Then `document.elementFromPoint` over the
-panel must return a TOC `<a>`, not `#toc-backdrop`.
+panel must return a TOC `<a>`, not the dialog's `::backdrop` (there's nothing to
+name in a DOM query any more — `::backdrop` is generated, not an element — but
+the same failure mode is worth checking for: a click landing on the backdrop
+instead of the content underneath it).
+
+Also worth checking now that the panel is a `<dialog>`: Tab cannot walk focus
+out to the masthead or article while it's open (the focus trap), and a `wheel`
+event dispatched at `document` while it's open comes back `defaultPrevented`
+unless its target is inside `.toc__menu` (the scroll lock — see `blockWheel()`
+in site.js).
 
 For the collapsing specifically, don't scroll-test — dispatch the event and read
 the DOM, which needs no layout:
