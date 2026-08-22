@@ -239,13 +239,15 @@ share: true
 
 ## The Messenger of God ﷺ
 
-Everything described above was recited by **one man** who could **neither read nor write**, over twenty-three years in seventh-century Arabia. The Qur'an cannot be separated from the life of the man who delivered it, and that life is documented in unusual detail by his followers, family, servants, and enemies.
+Everything described above was recited by **one man** who could **neither read nor write**, over twenty-three years in seventh-century Arabia. The **Qur'an cannot be separated** from the **life of the man who delivered it**, and that life is **documented in unusual detail** by his followers, family, servants, and enemies. And when his life, teachings, character, sacrifices, and actions are examined in full, the evidence overwhelmingly points to one conclusion: **Prophet Muhammad** ﷺ was what he claimed to be—**a true prophet of God**.
 
-The **section about the Prophet Muhammad ﷺ** has moved to its own **page linked below**. That page is tightly linked to the points made on this one, afterall the **Qur'an is the enduring miracle God sent to us through him**. The argument on that page is also **cumulative**; no single point is presented as a proof of prophethood by itself. However taken together, along with evidence for the miraculous nature of the Qur'an, they present a compelling case for the authenticity of his prophethood.
+The **section about the Prophet Muhammad** ﷺ has moved to its own **page linked below**. That page is tightly linked to this one, afterall it is **through him that God sent us** the **enduring miracle** of the **Qur'an**. The argument on that page is also **cumulative**; no single point is presented as a proof of prophethood by itself. However taken together, along with evidence for the miraculous nature of the Qur'an, they present a compelling case for the authenticity of his prophethood.
+> It's a lengthy page; I would recommend using the navigation buttons and table of contents to help read through it.
+{: .gloss }
 
-It follows him from a reputation for honesty built over forty years before he made any claim, through the persecution and personal loss the message cost him, and the Qur'an's own treatment of him: correcting him publicly, disclosing his private fears, and stripping him of the supernatural persona a fabricator would have wanted. It then examines his conduct once he held total power over Arabia — the limits he placed on his own veneration and authority, justice enforced even against his own family and interest, and a household that died in debt. It documents mercy applied consistently to slaves, orphans, animals, women, children, and enemies alike; what he taught about ordinary life and how he taught it; the private testimony of those who knew him best; the transformation of the society he left behind; and the discipline by which his record was preserved and tested. It closes with predictions recorded before their fulfilment, recognition from outside Islam, and why the ordinary alternative explanations — impostor, sincere but deluded, legend, or satanically inspired — fail to account for the record as a whole.
+<!-- It follows him from a reputation for honesty built over forty years before he made any claim, through the persecution and personal loss the message cost him, and the Qur'an's own treatment of him: correcting him publicly, disclosing his private fears, and stripping him of the supernatural persona a fabricator would have wanted. It then examines his conduct once he held total power over Arabia — the limits he placed on his own veneration and authority, justice enforced even against his own family and interest, and a household that didn't leave much worldly belongings behind. It documents mercy applied consistently to slaves, orphans, animals, women, children, and enemies alike; what he taught about ordinary life and how he taught it; the private testimony of those who knew him best; the transformation of the society he left behind; and the discipline by which his record was preserved and tested. It closes with predictions recorded before their fulfilment, recognition from outside Islam, and why the ordinary alternative explanations — impostor, sincere but deluded, legend, or satanically inspired — fail to account for the record as a whole. -->
 
-<div class="quran-return"><a href="/messenger">Read the full argument: <strong>The Messenger Muhammad ﷺ: Evidence for Prophethood</strong> <span class="quran-return__arrow" aria-hidden="true">&#8594;</span></a></div>
+<div class="quran-return"><a href="/messenger">Read the full page: <strong>The Messenger Muhammad ﷺ: Evidence for Prophethood</strong> <span class="quran-return__arrow" aria-hidden="true">&#8594;</span></a></div>
 
 ## Playlist
 
@@ -318,7 +320,7 @@ It follows him from a reputation for honesty built over forty years before he ma
 > Some Islamic teachings, verses, and historical events are often quoted without context or presented inaccurately. The pages below examine common claims using the relevant historical, linguistic, and scholarly evidence, while also considering the Qur'an, the teachings of Prophet Muhammad ﷺ, and Islam's broader moral framework.
 
 - Prophet Muhammad's ﷺ marriage to our Lady Aisha
-    > [The Prophet Muhammad's Marriage to Lady Aisha](/aisha)
+    > [Prophet Muhammad's Marriage to Lady Aisha](/aisha)
 
 - Islam and domestic violence
     > [Islam and the Misreading of Qur'an 4:34](/wadribuhunna)
