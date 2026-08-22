@@ -138,25 +138,35 @@ share: true
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿۞ قُلْ يَـٰعِبَادِىَ ٱلَّذِينَ أَسْرَفُوا۟ عَلَىٰٓ أَنفُسِهِمْ لَا تَقْنَطُوا۟ مِن رَّحْمَةِ ٱللَّهِ ۚ إِنَّ ٱللَّهَ يَغْفِرُ ٱلذُّنُوبَ جَمِيعًا ۚ إِنَّهُۥ هُوَ ٱلْغَفُورُ ٱلرَّحِيمُ ۝٥٣﴾ <span class="ayah-ref">سُورَةُ الزُّمَرِ</span></div>
     {: .quote }
-1. Attaches **no inherited guilt** to anyone. Nobody is born owing a debt, and **no soul carries another's burden** — not a parent's, not an ancestor's, not a nation's.
+1. Attaches **no inherited guilt** to anyone. Nobody is born owing a debt, and **no soul carries another's burden**.
     > "That no bearer of burdens will bear the burden of another. And that there is not for man except that [good] for which he strives." (**Sūrat al-Najm 53:38-39**), Saheeh International
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿أَلَّا تَزِرُ وَازِرَةٌ وِزْرَ أُخْرَىٰ ۝٣٨ وَأَن لَّيْسَ لِلْإِنسَـٰنِ إِلَّا مَا سَعَىٰ ۝٣٩﴾ <span class="ayah-ref">سُورَةُ النَّجۡمِ</span></div>
     {: .quote }
-1. Puts **character above ritual**. Worship that leaves a person cruel is rejected outright: righteousness is **not which direction you face**, and the man who pushes the orphan away is called a **denier of the religion itself**.
+1. Emphasizes **genuine character instead of hollow rituals**; worship that leaves a person cruel is rejected outright. And a man who turns the orphan away and does not feed the poor is described as denying the religion itself.
+    > "Righteousness is not in turning your faces towards the east or the west. Rather, the righteous are those who believe in Allah, the Last Day, the angels, the Books, and the prophets; who give charity out of their cherished wealth to relatives, orphans, the poor, ˹needy˺ travellers, beggars, and for freeing captives; who establish prayer, pay alms-tax, and keep the pledges they make; and who are patient in times of suffering, adversity, and in ˹the heat of˺ battle. It is they who are true ˹in faith˺, and it is they who are mindful ˹of Allah˺." (**Sūrat al-Baqarah 2:177**), Dr. Mustafa Khattab, *The Clear Quran*
+    >
+    > <div dir="rtl" lang="ar" class="quran-arabic">﴿۞ لَّيْسَ ٱلْبِرَّ أَن تُوَلُّوا۟ وُجُوهَكُمْ قِبَلَ ٱلْمَشْرِقِ وَٱلْمَغْرِبِ وَلَـٰكِنَّ ٱلْبِرَّ مَنْ ءَامَنَ بِٱللَّهِ وَٱلْيَوْمِ ٱلْـَٔاخِرِ وَٱلْمَلَـٰٓئِكَةِ وَٱلْكِتَـٰبِ وَٱلنَّبِيِّـۧنَ وَءَاتَى ٱلْمَالَ عَلَىٰ حُبِّهِۦ ذَوِى ٱلْقُرْبَىٰ وَٱلْيَتَـٰمَىٰ وَٱلْمَسَـٰكِينَ وَٱبْنَ ٱلسَّبِيلِ وَٱلسَّآئِلِينَ وَفِى ٱلرِّقَابِ وَأَقَامَ ٱلصَّلَوٰةَ وَءَاتَى ٱلزَّكَوٰةَ وَٱلْمُوفُونَ بِعَهْدِهِمْ إِذَا عَـٰهَدُوا۟ ۖ وَٱلصَّـٰبِرِينَ فِى ٱلْبَأْسَآءِ وَٱلضَّرَّآءِ وَحِينَ ٱلْبَأْسِ ۗ أُو۟لَـٰٓئِكَ ٱلَّذِينَ صَدَقُوا۟ ۖ وَأُو۟لَـٰٓئِكَ هُمُ ٱلْمُتَّقُونَ ۝١٧٧﴾ <span class="ayah-ref">سُورَةُ البَقَرَةِ</span></div>
+    {: .quote }
     > "Have you seen the one who denies the ˹final˺ Judgment? That is the one who repulses the orphan and does not encourage the feeding of the poor." (**Sūrat al-Māʿūn 107:1-3**), Dr. Mustafa Khattab, *The Clear Quran*
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿أَرَءَيْتَ ٱلَّذِى يُكَذِّبُ بِٱلدِّينِ ۝١ فَذَٰلِكَ ٱلَّذِى يَدُعُّ ٱلْيَتِيمَ ۝٢ وَلَا يَحُضُّ عَلَىٰ طَعَامِ ٱلْمِسْكِينِ ۝٣﴾ <span class="ayah-ref">سُورَةُ المَاعُونِ</span></div>
     {: .quote }
 1. Commands **honesty, keeping your word, humility, patience, and restraint in anger**, and forbids **backbiting, mockery, contempt, and suspicion** of others by name.
-1. Spells out **kindness in the ordinary relationships** rather than leaving it to inference: **parents in old age**, husband and wife, orphans, relatives, **the near neighbour and the distant one**, the traveller, and the servant beside you.
-1. Makes the poor's share of your wealth **an obligation, not a favour**. Alms are a **due**, debts are to be forgiven when the debtor cannot pay, **interest is banned**, and charity followed by humiliation is worthless.
+1. Treats care for the **weak and dependent** as an obligation: **parents in old age**, orphans, the poor, the traveller, the debtor, captives, and servants.
+
+1. Treats **care for others**, especially the weak and dependent, as a **duty** on all: husband and wife, children, parents in old age, relatives, orphans, the poor, the traveller, the debtor, captives, servants and those in your charge.
+1. Makes the poor's share of your wealth **an obligation, not a favour**. Alms are a **due**, debts are to be forgiven when the debtor cannot pay, interest is banned, and charity followed by humiliation is worthless.
     > "And in their wealth there was a rightful share ˹fulfilled˺ for the beggar and the poor." (**Sūrat al-Dhāriyāt 51:19**), Dr. Mustafa Khattab, *The Clear Quran*
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَفِىٓ أَمْوَٰلِهِمْ حَقٌّ لِّلسَّآئِلِ وَٱلْمَحْرُومِ ۝١٩﴾ <span class="ayah-ref">سُورَةُ الذَّارِيَاتِ</span></div>
     {: .quote }
 1. Treats **one life as standing for all of humanity** — to kill a person unjustly is as to kill everyone, and to save one is to save everyone.
-1. Requires **justice in all circumstances**, even towards people you hate. And testimony must be given even **against yourself, your parents, and your own tribe**.
+    > "That is why We ordained for the Children of Israel that whoever takes a life—unless as a punishment for murder or mischief in the land—it will be as if they killed all of humanity; and whoever saves a life, it will be as if they saved all of humanity." (**Sūrat al-Māʼidah 5:32**), Dr. Mustafa Khattab, *The Clear Quran*
+    >
+    > <div dir="rtl" lang="ar" class="quran-arabic">﴿مِنْ أَجْلِ ذَٰلِكَ كَتَبْنَا عَلَىٰ بَنِىٓ إِسْرَٰٓءِيلَ أَنَّهُۥ مَن قَتَلَ نَفْسًۢا بِغَيْرِ نَفْسٍ أَوْ فَسَادٍ فِى ٱلْأَرْضِ فَكَأَنَّمَا قَتَلَ ٱلنَّاسَ جَمِيعًا وَمَنْ أَحْيَاهَا فَكَأَنَّمَآ أَحْيَا ٱلنَّاسَ جَمِيعًا﴾ <span class="ayah-ref">[سُورَةُ المَائـِدَةِ: ٣٢]</span></div>
+    {: .quote }
+1. Requires **justice in all circumstances**, even towards people you hate, and testimony must be given even **against yourself, your parents, and your own tribe**.
     > "O believers! Stand firm for Allah and bear true testimony. Do not let the hatred of a people lead you to injustice. Be just! That is closer to righteousness." (**Sūrat al-Māʼidah 5:8**), Dr. Mustafa Khattab, *The Clear Quran*
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ كُونُوا۟ قَوَّٰمِينَ لِلَّهِ شُهَدَآءَ بِٱلْقِسْطِ ۖ وَلَا يَجْرِمَنَّكُمْ شَنَـَٔانُ قَوْمٍ عَلَىٰٓ أَلَّا تَعْدِلُوا۟ ۚ ٱعْدِلُوا۟ هُوَ أَقْرَبُ لِلتَّقْوَىٰ ۖ وَٱتَّقُوا۟ ٱللَّهَ ۚ إِنَّ ٱللَّهَ خَبِيرٌۢ بِمَا تَعْمَلُونَ ۝٨﴾ <span class="ayah-ref">سُورَةُ المَائـِدَةِ</span></div>
@@ -170,15 +180,19 @@ share: true
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَلَا تَسْتَوِى ٱلْحَسَنَةُ وَلَا ٱلسَّيِّئَةُ ۚ ٱدْفَعْ بِٱلَّتِى هِىَ أَحْسَنُ فَإِذَا ٱلَّذِى بَيْنَكَ وَبَيْنَهُۥ عَدَٰوَةٌ كَأَنَّهُۥ وَلِىٌّ حَمِيمٌ ۝٣٤﴾ <span class="ayah-ref">سُورَةُ فُصِّلَتۡ</span></div>
     {: .quote }
-1. Measures a person by **conduct alone**. Ancestry, tribe, wealth and colour are set aside; the most honourable is the one **most conscious of God**. This was said to a society that ranked people by birth.
+1. Measures a person by **conduct alone**. Ancestry, tribe, wealth and colour are set aside; the most honourable is the one **most conscious of God**.
     > "O humanity! Indeed, We created you from a male and a female, and made you into peoples and tribes so that you may ˹get to˺ know one another. Surely the most noble of you in the sight of Allah is the most righteous among you. Allah is truly All-Knowing, All-Aware." (**Sūrat al-Ḥujurāt 49:13**), Dr. Mustafa Khattab, *The Clear Quran*
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿يَـٰٓأَيُّهَا ٱلنَّاسُ إِنَّا خَلَقْنَـٰكُم مِّن ذَكَرٍ وَأُنثَىٰ وَجَعَلْنَـٰكُمْ شُعُوبًا وَقَبَآئِلَ لِتَعَارَفُوٓا۟ ۚ إِنَّ أَكْرَمَكُمْ عِندَ ٱللَّهِ أَتْقَىٰكُمْ ۚ إِنَّ ٱللَّهَ عَلِيمٌ خَبِيرٌ ۝١٣﴾ <span class="ayah-ref">سُورَةُ الحُجُرَاتِ</span></div>
     {: .quote }
-1. Asks **nothing beyond a person's capacity**. No monasticism, no celibacy, no demand for sainthood, and no hardship laid on anyone in the religion. Obligations **lift under hardship, illness, travel, and coercion**.
+1. Asks **nothing beyond a person's capacity**. No monasticism, no celibacy and no hardship laid on anyone in the religion; obligations **lift under hardship, illness, travel, and coercion**.
     > "Allah does not require of any soul more than what it can afford." (**Sūrat al-Baqarah 2:286**), Dr. Mustafa Khattab, *The Clear Quran*
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿لَا يُكَلِّفُ ٱللَّهُ نَفْسًا إِلَّا وُسْعَهَا﴾ <span class="ayah-ref">[سُورَةُ البَقَرَةِ: ٢٨٦]</span></div>
+    {: .quote }
+    > "And He has not placed upon you in the religion any difficulty." (**Sūrat al-Ḥajj 22:78**), Saheeh International
+    >
+    > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَمَا جَعَلَ عَلَيْكُمْ فِى ٱلدِّينِ مِنْ حَرَجٍ﴾ <span class="ayah-ref">[سُورَةُ الحَجِّ: ٧٨]</span></div>
     {: .quote }
 1. Rules out **compulsion in religion**, and argues with the reader instead — evidence, reflection, and questions put to him rather than a demand for submission.
     > "Let there be no compulsion in religion, for the truth stands out clearly from falsehood. So whoever renounces false gods and believes in Allah has certainly grasped the firmest, unfailing hand-hold. And Allah is All-Hearing, All-Knowing." (**Sūrat al-Baqarah 2:256**), Dr. Mustafa Khattab, *The Clear Quran*
