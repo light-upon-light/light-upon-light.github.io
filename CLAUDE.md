@@ -247,7 +247,19 @@ comparison when testing for it.
 
 ## Styling
 
-Custom CSS lives in `_includes/head/custom.html` (the theme's override point).
+Custom CSS lives in `assets/css/site.scss` (front matter, even empty, is what
+makes Jekyll run it through Sass) and custom JS in `assets/js/site.js`, linked
+from `_includes/head/custom.html` and `site.footer_scripts` in `_config.yml`
+respectively — moved out of inline `<style>`/`<script>` blocks so they're
+cacheable instead of repeated on every page. The two `custom.html` includes
+(`head/` and `footer/`) now hold only markup, the pre-paint theme/font-size
+bootstrap scripts (must run before first paint, so they stay inline), and the
+`quran_section` breadcrumb's own Liquid-templated `<style>`/`<script>`.
+`footer_scripts` order is load-bearing: `site.js` must be listed before
+`main.min.js` so its `gumshoeActivate` listener is registered before the
+theme's Gumshoe init runs its first synchronous `detect()` — see the comment
+in `_config.yml`.
+
 Arabic uses `.quran-arabic`, citation labels `.ayah-ref`. Amiri is loaded from
 Google Fonts so the ayah marker encloses its digits regardless of what the
 reader has installed. The theme sets `blockquote { font-style: italic }`, and

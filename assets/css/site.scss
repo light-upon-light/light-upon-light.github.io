@@ -1,0 +1,1525 @@
+---
+# Front matter (even empty) is what makes Jekyll run this through Sass.
+---
+
+/* ==========================================================================
+   Site CSS
+   ==========================================================================
+
+   All custom CSS for this site, moved out of the <style> blocks that used to
+   be inlined into every page via _includes/head/custom.html and
+   _includes/footer/custom.html (P1-3 in the site audit: ~61 KB of identical
+   CSS repeated verbatim on every one of the 13 pages, uncacheable). Linked
+   from _includes/head/custom.html after main.css, so the cascade order is
+   unchanged from before this move.
+
+   Order matters here and mirrors the pages' original document order:
+   head/custom.html's rules first, then footer/custom.html's -- some footer
+   rules depend on winning specificity/source-order ties against head rules,
+   so preserving that relative order is load-bearing.
+
+   This is a pure relocation. Nothing below has been reordered, renamed, or
+   rewritten -- diff it against the pre-move includes and the only change is
+   which file it lives in. The two include files still carry: the font
+   <link>s, the pre-paint theme/font-size bootstrap <script>s (must run
+   before first paint, so they stay inline), the quran_section breadcrumb's
+   own <style>/<script> (Liquid-templated, about to be replaced separately),
+   and all HTML markup (#floating-nav, #toc-backdrop, the SVGs). */
+
+/* --------------------------------------------------------------------------
+   From _includes/head/custom.html
+   -------------------------------------------------------------------------- */
+
+  /* form controls, scrollbars and the like. Left as `light dark` this would
+     have UA scrollbars and form controls follow the *system* while the page
+     follows the reader's *choice*. Keyed to the same attribute the palette
+     itself uses, in the same three-block shape as the custom properties in
+     _sass/minimal-mistakes/skins/_dirt.scss: explicit choice, then the
+     no-JS/no-choice system fallback. */
+  :root {
+    color-scheme: light;
+  }
+
+  :root[data-theme="dark"] {
+    color-scheme: dark;
+  }
+
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) {
+      color-scheme: dark;
+    }
+  }
+
+  /* Selection colour: dark-only. Light mode never set one and keeps the
+     browser default, so there's no --site-* property pairing it with a
+     light value -- these two selectors are the whole rule, duplicated
+     across the explicit-choice/system-fallback split the same way the
+     palette itself is. */
+  :root[data-theme="dark"] ::selection {
+    color: var(--mm-background-color);
+    background: var(--site-quote-gold);
+  }
+
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) ::selection {
+      color: var(--mm-background-color);
+      background: var(--site-quote-gold);
+    }
+  }
+
+  /* WebKit paints a rectangular highlight over the whole tap target on
+     touch, which pokes out past round buttons (#floating-nav, TOC toggle)
+     as a visible box. Cosmetic only -- does not touch the real :focus-visible
+     ring (var(--mm-focus-color)), so keyboard focus stays visible. */
+  html {
+    -webkit-tap-highlight-color: transparent;
+  }
+
+  /* The theme's own compiled CSS sets `a:focus, button:focus { outline: ...
+     }` unconditionally -- it is not gated by :focus-visible at all (checked
+     the compiled output; there is no :focus-visible anywhere in it). So
+     every plain link and button the theme renders, not just the ones this
+     repo adds, shows that outline on a mouse click, not only on real
+     keyboard navigation -- most noticeably clicking around the sticky TOC
+     sidebar's own <a> links. :not(:focus-visible) suppresses it for a
+     pointer-triggered focus while leaving it for keyboard use. Two extra
+     `:not()`s beat the theme's plain `a:focus`/`button:focus` on
+     specificity, so this wins regardless of source order and needs no
+     `!important`. */
+  a:focus:not(:focus-visible),
+  button:focus:not(:focus-visible) {
+    outline: none;
+  }
+
+  /* Reading type face, replacing the theme's default system-UI sans stack
+     for body copy and headings. Deliberately scoped to body + headings, not
+     a blanket override: the theme gives nav/masthead/sidebar/buttons/TOC/
+     breadcrumbs/pagination/notices/tables their own explicit font-family
+     rule (same sans stack), so a `body *` wildcard would also have to fight
+     past those, plus Font Awesome's icon classes and the monospace code/
+     .quran-arabic rules below -- all of which need to keep their own font.
+     Leaving UI chrome in the system sans stack and reserving the serif for
+     reading content is also a deliberate, common editorial split, not just
+     the easy way out.
+
+     Plain paragraphs, lists, and blockquote text in .page__content have no
+     font-family rule of their own in the theme, so they already inherit
+     from body without needing to be named here.
+
+     In the built page this block is emitted AFTER main.css's <link>, so an
+     override only needs to match the theme's specificity, not beat it with
+     !important -- source order alone does it. Dark mode used to be a second
+     stylesheet that re-declared this same rule *after* this block, which is
+     the only reason this ever needed !important; now that the palette is
+     custom properties resolved on this same rule, there is nothing left to
+     beat. */
+  body,
+  h1, h2, h3, h4, h5, h6 {
+    font-family: "Source Serif 4", Georgia, "Times New Roman", serif;
+  }
+
+  /* Masthead brand mark only -- a heavier, more dramatic display face than
+     the reading type above, reserved for the one-word site title. .site-title
+     has no font-family rule of its own in the theme (it inherits the sans
+     stack from its parent .masthead__inner-wrap), so font-family needs no
+     !important -- nothing in main.css to beat. font-weight used to need one:
+     the theme sets `.site-title { font-weight: bold }` at the same
+     specificity, and a second dark stylesheet re-declared it after this
+     block. That stylesheet is gone, so source order alone is enough here
+     too. */
+  .site-title {
+    font-family: "Abril Fatface", "Source Serif 4", Georgia, serif;
+    font-weight: 400;
+    letter-spacing: 0.01em;
+  }
+
+  /* Masthead nav link ("The Qur'an and the Messenger ﷺ") -- UI text, not
+     reading content and not the brand mark, so neither the serif nor the
+     display face belongs here. Like .site-title's font-family, this has no
+     rule of its own to beat in either compiled stylesheet, so no
+     !important is needed. */
+  .masthead__menu-item a {
+    font-family: "Karla", -apple-system, BlinkMacSystemFont, "Roboto",
+                 "Segoe UI", Arial, sans-serif;
+  }
+
+  /* The mode toggle in the masthead, styled to match the theme's adjacent
+     .search__toggle (borderless, $primary-color) but with a 26px icon rather
+     than the theme's ~18px, so the glyph carries the control instead of
+     floating in it.
+
+     The horizontal box is built from `padding`, and deliberately NOT from a
+     `min-width`. A min-width wide enough to be a touch target (2.75rem) is far
+     wider than a 26px glyph, and the leftover is split by centring into dead
+     space on each side -- which lands *between* the two buttons and reads as
+     the gap between them. At 2.75rem that was 9px a side, so the visible
+     glyph-to-glyph gap was 9 + margins + 9 ≈ 24px, and shrinking the margins
+     barely moved it: they were only ~6px of the total. Padding puts that
+     number under direct control. `min-height` still carries the vertical
+     touch target on its own, giving ~36x44 -- comfortably past WCAG 2.5.8's
+     24x24 -- while keeping the pair visually tight.
+
+     The margin-end here is bigger than the gap within the pair, since when
+     site.search is off (no .search__toggle to supply its own 1rem gap) this
+     button would otherwise sit flush against the hamburger next to it.
+
+     Layout only here -- colour is set below, alongside .search__toggle,
+     since all three masthead controls share one rule. */
+  /* No `transition` on `color` here, deliberately: the whole-page palette
+     swap is animated once, as a cross-fade of the old and new snapshots (see
+     the view-transition rules further down) -- a per-element transition
+     would race that snapshot-based fade, visibly lagging or leading it
+     rather than moving with the rest of the page. Hover feedback stays
+     instant instead, which is what the theme's own .search__toggle does. */
+  #theme-toggle {
+    margin-inline-start: 0.1rem;
+    margin-inline-end: 0.6rem;
+    min-height: 2.75rem;
+    padding: 0 0.3rem;
+    display: flex;
+    align-items: center;
+    background-color: transparent;
+    border: 0;
+    outline: none;
+    cursor: pointer;
+  }
+
+  /* This button (and #floating-nav's, in footer/custom.html) is plain HTML
+     added by this repo, not part of the theme's compiled CSS -- so it never
+     picked up the theme's own :focus-visible-gated ring (built around
+     $focus-color) and instead shows the browser's raw UA outline on ANY
+     focus, including a mobile tap. :not(:focus-visible) keeps that outline
+     for real keyboard navigation and removes it everywhere else. */
+  #theme-toggle:focus:not(:focus-visible) {
+    outline: none;
+  }
+
+  /* Text-size toggle, sized identically to #theme-toggle just above -- see
+     there for why the horizontal box comes from padding and not a min-width.
+     Placed before it in the masthead (font, then appearance), so this one
+     carries the margin-start gap from the nav links, and the small
+     margin-end gap to #theme-toggle that keeps the pair close but
+     distinguishable as two separate buttons. */
+  #font-size-toggle {
+    margin-inline-start: 1rem;
+    margin-inline-end: 0.1rem;
+    min-height: 2.75rem;
+    padding: 0 0.3rem;
+    display: flex;
+    align-items: center;
+    background-color: transparent;
+    border: 0;
+    outline: none;
+    cursor: pointer;
+  }
+
+  #font-size-toggle:focus:not(:focus-visible) {
+    outline: none;
+  }
+
+  /* The theme's own .search__toggle reads var(--mm-primary-color), which in
+     dark mode is only 2:1 against the background -- not a visible control,
+     since these are controls, not surfaces drawn on the page. All three
+     masthead controls -- the theme's search toggle and this repo's own
+     theme/font-size toggles -- are matched to var(--mm-text-color) instead,
+     which stays legible in both palettes. In light mode $primary-color and
+     $text-color are the same value, so this changes nothing there; the
+     override only does real work once dark's palette block in _dirt.scss
+     pulls them apart. */
+  .search__toggle,
+  #theme-toggle,
+  #font-size-toggle {
+    color: var(--mm-text-color);
+  }
+
+  .search__toggle:hover,
+  #theme-toggle:hover,
+  #font-size-toggle:hover {
+    color: var(--mm-link-color-hover);
+  }
+
+  /* A pressed/active look for "large text is on", parallel to the sun/moon
+     swap on #theme-toggle -- there's no second icon to swap here, so the
+     state is carried by colour and weight instead. Gold in both palettes,
+     via --site-quote-gold (_sass/minimal-mistakes/skins/_dirt.scss) -- same
+     property that marks revealed-text blockquotes and section numerals,
+     since this is the same "marked" meaning applied to a control. */
+  #font-size-toggle[aria-pressed="true"] {
+    color: var(--site-quote-gold);
+  }
+
+  /* Which icon shows is "what clicking does", not "what mode this is": the sun
+     appears in dark mode because it switches back to light.
+
+     The inline script in this file sets data-theme before the masthead is
+     parsed, so there is no frame where both are visible. Without JavaScript
+     there is no data-theme and no working toggle, so the button is hidden
+     entirely — the theme puts the `js` class on <html> in its own head.
+
+     These four rules are class-scoped, not ID-scoped like the layout rules
+     above: the icon swap and the no-JS hide apply to BOTH copies of each
+     control, the masthead one and #floating-nav's. Layout and colour stay on
+     the IDs, since the two sit on completely different grounds. */
+  .theme-toggle .theme-toggle__sun {
+    display: none;
+  }
+
+  [data-theme="dark"] .theme-toggle .theme-toggle__sun {
+    display: block;
+  }
+
+  [data-theme="dark"] .theme-toggle .theme-toggle__moon {
+    display: none;
+  }
+
+  /* Without JavaScript neither toggle can do anything, so neither should be
+     on screen. The class-only form of this rule never worked: it is (0,2,1),
+     and every one of these buttons carries a `display` from an ID-scoped
+     rule -- `#theme-toggle`/`#font-size-toggle` at (1,0,0) in this file, and
+     `#floating-nav button` at (1,0,1) in footer/custom.html -- all of which
+     outrank it. A reader without JavaScript therefore saw both controls, in
+     both places, and clicking them did nothing. Naming the IDs here takes
+     each selector to (1,1,1), which beats them. */
+  html:not(.js) #theme-toggle,
+  html:not(.js) #font-size-toggle,
+  html:not(.js) #floating-theme-toggle,
+  html:not(.js) #floating-font-size-toggle {
+    display: none;
+  }
+
+  /* The theme's own reset (_sass/minimal-mistakes/_base.scss, "Global
+     animation transition") puts a bare `transition: all 0.2s ease-in-out` --
+     every property, not a named one -- on:
+
+       b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2,
+       header, input, a, tr, td, form button, input[type="submit"], .btn,
+       .highlight, .archive__item-teaser
+
+     A palette change now happens by redefining custom properties on :root
+     ([data-theme], _sass/minimal-mistakes/skins/_dirt.scss), which is a
+     genuine property change on every element that reads one of them -- so
+     `transition: all` would actually fire this time, unlike the old
+     stylesheet-swap that never triggered a running transition at all. That
+     is worse here, not better: a full-page view-transition cross-fade (see
+     below) already animates the whole swap as one held-still-then-dissolved
+     snapshot pair, and twenty more element-level transitions racing it
+     independently would arrive late and visibly slide into place after the
+     cross-fade has already finished -- the same "bold text and h1/h2's
+     border-bottom slide in late" artefact this used to produce, with the
+     opposite cause. So: none for the theme's list, except `a`, `.btn`,
+     `form button` and `input[type="submit"]`, whose hover/focus colour
+     feedback is real and worth keeping -- verified against the compiled
+     selector in main.css, not retyped from memory. */
+  html :is(b, i, strong, em, blockquote, p, q, span, figure, img,
+           h1, h2, header, input, tr, td, .highlight, .archive__item-teaser) {
+    transition: none;
+  }
+
+  html :is(a, .btn, form button, input[type="submit"]) {
+    transition: color 0.2s ease-in-out, background-color 0.2s ease-in-out,
+                border-color 0.2s ease-in-out;
+  }
+
+  /* That surviving transition still races the cross-fade the same way,
+     since these elements' colour is itself one of the custom properties the
+     swap changes. Verified in the browser: an <a> mid-viewport visibly eased
+     into its new colour after the snapshot dissolve had already settled.
+     `.theme-swap` suppresses it for exactly the swap's own synchronous
+     callback -- added, the properties are mutated, a layout read forces
+     them to land, then removed, all before the browser is given a chance to
+     paint a frame -- so nothing ever visibly transitions. This is narrower
+     than the guard class dark mode used to need: that one had to cover
+     every element for as long as an asynchronous stylesheet activation took
+     to resolve (up to two frames on some engines); a data-theme change
+     resolves synchronously, so this only ever needs to reach four selectors
+     for one tick. */
+  html.theme-swap :is(a, .btn, form button, input[type="submit"]) {
+    transition: none;
+  }
+
+  /* The light/dark cross-fade. The toggle in this file's script wraps the
+     palette swap in document.startViewTransition(), which snapshots the
+     viewport before and after and animates between the two; this only sets
+     how long. The user-agent default is 250ms, so these rules mostly exist
+     to make the number visible and adjustable rather than folklore.
+
+     `root` is the ONLY participant, deliberately: no element here gets a
+     `view-transition-name` of its own. A named element is animated
+     independently, with its old and new geometry interpolated -- which for
+     the masthead controls would mean the browser tweening positions during
+     the swap, reintroducing by design the apparent sideways drift in
+     #font-size-toggle that this whole change exists to remove. With root
+     alone, the two snapshots are stacked at identical coordinates and
+     nothing can move. The moon fades out exactly where the sun fades in, so
+     the icon slot is never empty.
+
+     No prefers-reduced-motion query here -- the script checks it and skips
+     the view transition entirely, so there is no animation to shorten.
+
+     A DISSOLVE, NOT THE DEFAULT CROSS-FADE. The browser's own cross-fade
+     fades both snapshots at once and blends them with `mix-blend-mode:
+     plus-lighter` -- it ADDS the two layers. That exists so a cross-fade
+     between two nearly identical images does not dip darker through the
+     middle, and it is the right default. It is the wrong thing here,
+     because the two snapshots are not nearly identical: they are two
+     different palettes. Adding them lets a pixel land brighter than it is
+     in either one, and hairlines showed it worst -- the border under a
+     heading is 1px in light and 0.8px in dark, so the two snapshots put
+     slightly different anti-aliased coverage in the same row of pixels and
+     the sum blew out to white. Caught by freezing the transition 40ms in:
+     the rule under a heading, and the separators in the table of contents,
+     painted white, which is not a colour in either palette (light cream is
+     #e9dcbe, dark brown is #4a4238). That is what read as the lines "turning
+     white first, then fading to the right colour" on the way into dark mode.
+
+     So: hold the old snapshot still and fully opaque as the base, and fade
+     the new one in on top of it with normal blending. ::view-transition-new
+     already paints above ::view-transition-old, so this is an ordinary
+     dissolve -- every pixel moves straight from its old colour to its new
+     one and cannot overshoot past either. Replacing the animation on each
+     also drops the browser's -ua-mix-blend-mode-plus-lighter animation with
+     it; the explicit mix-blend-mode is belt and braces.
+
+     Total alpha stays 1 throughout, since the base layer never fades, so
+     this cannot reintroduce the mid-transition dip that plus-lighter is
+     there to prevent. */
+  ::view-transition-old(root) {
+    animation: none;
+    mix-blend-mode: normal;
+  }
+
+  ::view-transition-new(root) {
+    animation: 260ms ease both theme-dissolve-in;
+    mix-blend-mode: normal;
+  }
+
+  @keyframes theme-dissolve-in {
+    from { opacity: 0; }
+    to { opacity: 1; }
+  }
+
+  /* Qur'anic Arabic (Uthmani script) shown alongside English translations */
+  .quran-arabic {
+    font-family: "Amiri", "Scheherazade New", "Noto Naskh Arabic",
+                 "Traditional Arabic", "Arabic Typesetting", serif;
+    font-size: 1.4em;
+    line-height: 2.1;
+    text-align: right;
+    margin: 0.4em 0;
+    /* the theme italicises blockquotes; Arabic has no true italic, so the
+       browser fakes an oblique slant. Cancel it. */
+    font-style: normal;
+  }
+
+  /* trailing reference: end-of-ayah marker for whole verses,
+     [surah: number] for partial quotations */
+  .quran-arabic .ayah-ref {
+    font-size: 0.75em;
+    opacity: 0.7;
+    white-space: nowrap;
+  }
+
+  /* Evidence blocks come in three kinds, each with its own rule colour so a
+     reader can tell which is which before reading it:
+
+       .quote  - revealed text: Qur'an and hadith
+       .src    - a block led by its source reference; recedes
+       .gloss  - the author's own commentary; asserts
+
+     Applied in markdown with a kramdown attribute list on the line directly
+     after the block ({: .src }), so no inline HTML is involved and MD033 in
+     .markdownlint.json does not need widening. A blockquote holding only a
+     link, or a prose aside, is left untagged and keeps the theme's default
+     dark rule.
+
+     The palette is an illuminated-manuscript one -- gold for the revealed
+     text, verdigris for the commentary, and a taupe between them for the
+     apparatus -- chosen to sit with the dirt skin's warm accents (#e9dcbe,
+     #b4a490, #ca7f32) on its #f3f3f3 background without borrowing the link
+     colour. It does not track the skin, so changing minimal_mistakes_skin
+     means re-checking these by hand.
+
+     Contrast on #f3f3f3: .src text 5.4:1 (WCAG AA for small text is 4.5:1);
+     rules are decorative, and .gloss/.quote text is the theme's #343434 at
+     11.2:1. Do not swap the .src colour back to an opacity -- opacity fades
+     any link inside the block along with the text. */
+
+  /* minimal-mistakes reserves the right-sidebar gutter by floating .page
+     (and .archive) right and narrowing it by $right-sidebar-width(-narrow).
+     That only tiles correctly when a left `.sidebar` (author profile) fills
+     the space the float leaves behind on its left. author_profile is false
+     everywhere on this site, so nothing does, and the content column
+     rendered ~200-300px narrower than it needed to be with a blank gutter
+     to its left instead of its right. Dropping the float lets the block
+     sit flush left and use the full width; the padding-inline-end it
+     already carries still reserves room on the right for the TOC, which
+     pulls into that padding via its own negative margin. */
+  @media (min-width: 64em) {
+    /* This block is emitted after main.css, so a plain override of equal
+       specificity already wins on source order alone -- no !important
+       needed. (It used to be needed because dark mode was a second
+       stylesheet activated later rather than something that lost a
+       same-document cascade; that design is gone.) */
+    .page,
+    .archive {
+      float: none;
+      width: 100%;
+    }
+  }
+
+  /* Shrink article body text (not the masthead, nav, or TOC) so more of an
+     article fits on screen without scrolling. Em-based: the theme's own
+     heading rules (e.g. h1 { font-size: 1.563em }) are already relative to
+     this, so headings inside articles shrink proportionally along with
+     paragraphs.
+
+     Font-size alone barely moves content-per-screen, since line-height and
+     the em-based margins on headings/blockquotes ride along with it
+     proportionally rather than compounding. Tightening line-height
+     independently (moderate cut, ~10-15%) is what actually buys more
+     article per viewport. No !important on either property: main.css sets
+     neither line-height nor font-size on .page__content itself, so there's
+     nothing to beat.
+
+     This is the desktop default. CSS owns the default in both directions
+     now -- the media query just below supplies the phone default (large),
+     and [data-font-size] further down expresses only an explicit override,
+     in whichever direction the reader actually chose. The toggle script
+     keeps matchMedia only to decide whether a choice should clear storage,
+     not to write the default itself. */
+  .page__content {
+    font-size: 0.85em;
+    line-height: 1.4;
+  }
+
+  /* Phone/tablet default: large, un-shrunk text, on the same 64em breakpoint
+     the rest of the site already treats as the mobile/desktop line (see
+     isSidebarLayout in footer/custom.html and the TOC media query there).
+     Reasoning is the mirror image of the desktop shrink above: there is
+     little screen to fit more onto, and small type is the harder read.
+     Un-attributed, so this is what a reader gets with no JavaScript and no
+     stored choice at all -- the toggle used to require JS to reach this
+     state on a phone; now the CSS default already puts a reader there. */
+  @media (max-width: 63.9375em) {
+    .page__content {
+      font-size: 1em;
+    }
+  }
+
+  /* Explicit override, either direction -- [data-font-size] lives on <html>,
+     set by the script further down, mirroring how [data-theme] drives the
+     light/dark toggle. One extra attribute selector on the ancestor gives
+     each of these (0,2,0), which beats both the plain (0,1,0) desktop
+     default above and the (0,1,0) media-query phone default, regardless of
+     viewport width -- so an explicit choice always wins over whichever
+     default would otherwise apply, with no !important needed either way.
+     Scoped to .page__content only, so the masthead, the TOC and the
+     floating buttons are untouched -- exactly the "content itself, nothing
+     else" the toggle promises. Arabic scales along with the large state
+     automatically (its own 1.4em is relative to its English surroundings),
+     which is correct: only blockquotes are pinned below. */
+  [data-font-size="large"] .page__content {
+    font-size: 1em;
+  }
+
+  [data-font-size="normal"] .page__content {
+    font-size: 0.85em;
+  }
+
+  /* Quotations stay the size the reader already knows regardless of the
+     toggle above, per an explicit editorial call: only the surrounding
+     prose should grow. blockquote's own rule below is 0.9em of
+     .page__content, i.e. 0.9 * 0.85em = 0.765em of the root in the normal
+     state -- restated directly here so the large state lands on the exact
+     same absolute size instead of drifting to 0.9 * 1em. .quran-arabic
+     rides along unchanged too, since its 1.4em is relative to this. No
+     !important: this selector and .page__content blockquote below are the
+     only two rules in either compiled stylesheet touching blockquote
+     font-size, and this one carries an extra class, so it already wins on
+     specificity. */
+  [data-font-size="large"] .page__content blockquote {
+    font-size: 0.765em;
+  }
+
+  /* Same call for the collapsible YouTube references (yt-embed.html) that
+     sit beside these quotes -- apparatus, not prose, so it shouldn't grow
+     with the toggle either. Unlike blockquote, .yt-embed carries no
+     font-size of its own normally (its "Watch: ..." summary is 0.9em of
+     whatever it inherits), so the fix is simpler: 0.85em undoes the large
+     state's .page__content bump back to the article's un-toggled 0.85em of
+     root, and .yt-embed > summary's 0.9em rides on top of that unchanged. */
+  [data-font-size="large"] .page__content .yt-embed {
+    font-size: 0.85em;
+  }
+
+  /* The TOC widget (nav.toc, both the desktop sticky sidebar and the
+     mobile inline version) renders inside .page__content, so without this
+     it inherits the reduction above and reads smaller than the rest of
+     the site's navigation. rem, not em, so it's sized off the root and
+     doesn't restack with the ancestor's reduced font-size.
+
+     .sidebar__right -- the theme's own wrapper around .toc, also a direct
+     child of .page__content -- has to be reset the same way, even though
+     none of its own text is visible: the theme gives it `padding-left: 1em`
+     (reserving the gutter .toc sits in), so without this its padding grows
+     and shrinks with .page__content's font-size, and .toc visibly shifts
+     sideways inside the fixed-width sidebar column every time the
+     font-size toggle or the shrink above changes .page__content's size. */
+  .page__content .toc,
+  .page__content .sidebar__right {
+    font-size: 1rem;
+  }
+
+  /* TOC entries are UI navigation, not reading content, so they get the
+     same Karla treatment as the masthead nav link rather than the serif
+     reading face. .toc already has its own explicit sans-family rule in
+     the theme, but both selectors here carry an extra class over the
+     theme's bare `.toc`, so they win on specificity in main.css without
+     !important.
+
+     #toc-panel is footer/custom.html's mobile floating-drawer clone of this
+     same widget, mounted outside .page__content -- without naming it here
+     too, the drawer would keep the theme's default sans while the desktop/
+     inline TOC switched to Karla. */
+  .page__content .toc,
+  #toc-panel .toc {
+    font-family: "Karla", -apple-system, BlinkMacSystemFont, "Roboto",
+                 "Segoe UI", Arial, sans-serif;
+  }
+
+  /* Same problem as the font-size exemption above: the list-indent and
+     heading-margin density rules further down also match .toc's own <ul>
+     and its <h4> "On this page" title, adding an unwanted left indent and
+     a gap above the title. Both new selectors carry more classes than the
+     rules they're correcting, so specificity -- not source order -- is
+     what makes them win regardless of where they sit in the cascade.
+
+     The title's spacing is 0.5rem 0.75rem of *padding* (.nav__title's own
+     margin is already zero), so the fix is to zero the heading-margin
+     rule's contribution outright, not to reintroduce 0.5rem as a margin --
+     that would stack a second 0.5rem on top of the padding already doing
+     the job. Neither compiled stylesheet sets padding-inline-start on
+     `.toc ul`/`.toc ol` (only the theme's deeper `.toc__menu li ul` nesting
+     does, a different selector), so there's nothing to beat here either --
+     no !important needed. */
+  .page__content .toc ul,
+  .page__content .toc ol {
+    padding-inline-start: 0;
+  }
+
+  /* Three classes beats the theme's bare `.nav__title` and this file's own
+     `.page__content h1...h6 { margin-top: 1.3em }` below on specificity
+     alone -- except the latter carries !important (see there for why), and
+     !important always wins over a non-!important rule regardless of
+     specificity. So this keeps its own !important too, purely to outrank
+     that sibling rule within this file; main.css is not the reason. */
+  .page__content .toc .nav__title {
+    margin-top: 0 !important;
+  }
+
+  /* "On this page" is UI chrome, like the rest of .toc, even though it
+     happens to render as an <h4>. Without this, the body/h1-h6 rule above
+     pulls just this title into the serif face while its sibling entries
+     stay Karla -- an inconsistency within one widget. No !important needed:
+     both selectors here already beat the theme's bare `.nav__title`/`h4` on
+     specificity, and the body/h1-h6 rule they used to also lose to (it
+     carried !important only while a second dark stylesheet re-declared it)
+     no longer does. Also covers #toc-panel's clone, for the same reason as
+     the .toc rule above -- kept separate from the margin-top fix since that
+     one is inline-TOC-specific and this one isn't. */
+  .page__content .toc .nav__title,
+  #toc-panel .nav__title {
+    font-family: "Karla", -apple-system, BlinkMacSystemFont, "Roboto",
+                 "Segoe UI", Arial, sans-serif;
+  }
+
+  /* .page__content a:not(.btn):hover underlines every link inside an
+     article, and the TOC lives in .page__content (see above), so its
+     links picked up the underline too -- appropriate for prose links,
+     not for navigation. One more class than the theme rule so it wins
+     on specificity, matching the pattern above. */
+  .page__content .toc .toc__menu a:hover {
+    text-decoration: none;
+  }
+
+  /* The theme's own "On this page" title icon reads as a second, redundant
+     hamburger next to #toc-toggle's. Since the Font Awesome CDN link was
+     removed from the forked _includes/head.html, the theme's
+     `<i class="fas fa-bars">` has no glyph to paint and is an empty
+     element -- but it is still a flex child of .nav__title, so `gap` would
+     open 0.5em of dead space in front of the label. `display: none` is
+     therefore still needed, and still has to be display rather than
+     visibility: gap only spaces *visible* flex children.
+
+     Hiding it here rather than forking _layouts/single.html to delete the
+     element: a layout is the heaviest thing in the theme to keep in sync
+     across a version bump, and one CSS rule buys the same result. */
+  .page__content .toc .nav__title i,
+  #toc-panel .nav__title i {
+    display: none;
+  }
+
+  /* Nested subsection links inherit the theme's `.toc .active a` rule
+     wherever they are descendants of the currently active <li> -- e.g. an
+     h2's h3 children while the h2 itself is active -- because that rule is
+     a plain descendant selector with no depth limit. That paints a partial,
+     text-width highlight under links that are not actually the active one.
+     Reset just the nested case; the active row's own link is untouched
+     since it never sits inside a `ul` of its own li. Type-selector count
+     (ul + a) beats the theme's rule regardless of source order. */
+  .toc .active ul a {
+    background-color: transparent;
+    color: var(--mm-muted-text-color);
+  }
+
+  /* One class plus one type beats the theme's bare `h1,h2,...{ margin:
+     2em 0 0.5em }` (each member (0,0,1)), but that isn't the rule this
+     needs !important for: the theme also has `.page__content :first-child,
+     .page__content aside+:nth-child(2) { margin-top: 0em }` at (0,2,0) --
+     two classes -- which outranks this selector's (0,1,1) outright. Every
+     article on this site happens to open with a blockquote today, but
+     nothing stops a future one from opening with a heading, and without
+     !important that heading would lose its 1.3em top margin to the reset.
+     Verified against the compiled selector, not assumed. */
+  .page__content h1,
+  .page__content h2,
+  .page__content h3,
+  .page__content h4,
+  .page__content h5,
+  .page__content h6 {
+    margin-top: 1.3em !important;
+  }
+
+  /* Section numbering (quran.md, messenger.md): the roman numeral / letter
+     is written directly in the markdown, wrapped in a <span
+     class="num-roman"|"num-alpha"> right in the heading text -- e.g.
+     `### <span class="num-roman">I.</span> Mode of Revelation`. This has to
+     be real heading text, not CSS-generated content: the sidebar TOC and its
+     mobile-drawer clone (see _notes/guides/theme_internals.md) both read the
+     rendered heading, so a ::before-only numeral (tried first) never showed
+     up there. Each heading also carries an explicit `{: #slug }` IAL pinning
+     its id to what it was before the numeral existed, since kramdown's
+     autogenerated id would otherwise fold "I." into the slug and break any
+     existing link or bookmark to that section.
+     The numeral is inline at the heading's own size -- a separate line/size
+     (tried first) read as an orphaned floating character rather than as
+     numbering. Gold + bold is what marks it as a numeral rather than a
+     stray capital letter -- --site-quote-gold
+     (_sass/minimal-mistakes/skins/_dirt.scss), same property as
+     blockquote.quote's border below, since both mark the same thing. */
+  .page__content .num-roman,
+  .page__content .num-alpha {
+    color: var(--site-quote-gold);
+    margin-inline-end: 0.1em;
+  }
+
+  /* Lists and blockquotes were carrying the browser's UA default indents
+     (ul/ol padding-inline-start: 40px; blockquote margin-inline-start:
+     40px, which the theme's own blockquote rule below never touched).
+     On a bullet-led site that's a lot of reclaimable line width -- a
+     narrower line wraps to more lines, which costs far more vertical
+     space than the indent bought in scannability. Quotes nested inside a
+     bullet were paying both indents at once (list padding + blockquote
+     margin + blockquote padding), so this matters most there. Font-size is
+     generally smaller than body text too, matching the existing .src
+     convention below rather than inventing a second scale. One class plus
+     one type beats the theme's bare `blockquote { margin-block: 2em;
+     margin-inline-end: 1em; padding-inline: 1em }` (no font-size rule of
+     its own at all) -- but margin-block still needs !important, for the
+     same reason as the heading margin-top rule above:
+     `.page__content :first-child { margin-top: 0em }` is (0,2,0), which
+     outranks this selector's (0,1,1), and every article on this site opens
+     with a blockquote, so margin-block-start would otherwise lose its
+     start value to that reset (verified in the browser -- margin-inline
+     and padding-inline aren't first-child properties, so they don't hit
+     it, and font-size has no competing rule at all). */
+  .page__content blockquote {
+    margin-block: 1.3em !important;
+    margin-inline: 0;
+    padding-inline: 0.75em;
+    font-size: 0.9em;
+  }
+
+  /* No padding-inline-start rule targets `.page__content ul`/`ol` directly
+     in either stylesheet (only the UA default and unrelated classed lists
+     do), so no !important is needed here either. */
+  .page__content ul,
+  .page__content ol {
+    padding-inline-start: 1.25em;
+  }
+
+  /* An untagged blockquote -- a bare link, a prose aside -- keeps a rule
+     colour of its own rather than the theme's default, which is
+     var(--mm-primary-color): that variable does two opposing jobs (the
+     background *behind* white text on .nav__title/.btn--primary, and a rule
+     drawn *on* the page background here), and in dark mode it is chosen for
+     the first job, which makes it too dark to read as a rule here.
+     --site-blockquote-border-default decouples them; in light mode the two
+     happen to be the same colour, so this changes nothing there. */
+  blockquote {
+    border-inline-start-color: var(--site-blockquote-border-default);
+  }
+
+  /* revealed text: gold */
+  blockquote.quote {
+    border-inline-start-color: var(--site-quote-gold);
+  }
+
+  /* apparatus: taupe rule, sepia text, a shade smaller. Recedes.
+     --site-src-text sets a `color`, never an `opacity` -- opacity would
+     fade any link inside the block along with the text. Contrast: 5.4:1 on
+     the light background (WCAG AA for small text is 4.5:1); 7.7:1 in dark
+     (which recedes there too, the same way). */
+  blockquote.src {
+    /* the theme italicises blockquotes; a citation is not a quotation */
+    font-style: normal;
+    font-size: 0.9em;
+    color: var(--site-src-text);
+    border-inline-start-color: var(--site-src-border);
+  }
+
+  /* the author's own voice: verdigris rule and the faintest wash, so
+     commentary reads as a panel rather than as more of the source */
+  blockquote.gloss {
+    font-style: normal;
+    border-inline-start-width: 0.375em;
+    border-inline-start-color: var(--site-gloss-border);
+    background-color: var(--site-gloss-bg);
+    padding-block: 0.6em;
+  }
+
+  /* The panel's own padding-block already sets the gap above and below the
+     text; without this, the <p>'s UA margin (~0.75em) stacks on top of it
+     on both ends, doubling the gap and reading as leftover empty space
+     inside the coloured panel. */
+  blockquote.gloss > p:first-child {
+    margin-top: 0;
+  }
+
+  blockquote.gloss > p:last-child {
+    margin-bottom: 0;
+  }
+
+  /* Collapsible YouTube reference (_includes/yt-embed.html). Same taupe/
+     sepia palette as .src above, since a linked video is the same kind of
+     apparatus as a source citation -- it recedes rather than asserting.
+     <details>/<summary> gives closed-by-default and keyboard toggling for
+     free, so there is no open/close JS to write. */
+  .yt-embed {
+    margin: 0.6em 0;
+    border-inline-start: 0.1875em solid var(--site-src-border);
+    padding-inline-start: 0.75em;
+  }
+
+  .yt-embed > summary {
+    cursor: pointer;
+    color: var(--site-src-text);
+    font-size: 0.9em;
+    padding-block: 0.3em;
+    list-style: none;
+  }
+
+  .yt-embed > summary::-webkit-details-marker {
+    display: none;
+  }
+
+  .yt-embed > summary::before {
+    content: "\25b8";
+    display: inline-block;
+    width: 1em;
+    transition: transform 0.2s ease;
+  }
+
+  .yt-embed[open] > summary::before {
+    transform: rotate(90deg);
+  }
+
+  .yt-embed__note {
+    opacity: 0.75;
+  }
+
+  /* Holds the no-JS fallback link until the script in footer/custom.html
+     swaps a player in, so this is in normal flow by default -- collapsing
+     it to the 16:9 box below while it contains only a link would leave a
+     lone link floating in a viewport-wide empty rectangle. */
+  .yt-embed__frame {
+    margin-block: 0.5em;
+  }
+
+  /* An opened box between the browser showing it and the script filling it
+     -- see the `yt-embed-js` note in footer/custom.html. Collapsed to
+     nothing, margins included, so it hands over to the growth animation's
+     first frame at exactly the same height and the page never twitches.
+     Gated on the class, so a reader without JS keeps the plain link that
+     is all they have. */
+  .yt-embed-js .yt-embed[open] .yt-embed__frame:not(.is-loaded) {
+    height: 0;
+    margin-block: 0;
+    padding-bottom: 0;
+    overflow: hidden;
+  }
+
+  /* 16:9 responsive frame -- the classic padding-bottom hack, since aspect-
+     ratio support is not needed anywhere else on the site yet. Gated on the
+     class rather than `:has(iframe)` so the rule lands in the same tick as
+     the injected element, with no dependence on :has support.
+
+     The growth is animated because the box's contents are built on open
+     rather than shipped with the page: without this it snaps from a
+     one-line link to a viewport-wide 16:9 rectangle in a single frame,
+     throwing everything below it down the page. Animating padding-bottom
+     (not height, which is pinned at 0 by the hack above) is what actually
+     moves layout -- an opacity fade alone would leave the jump untouched.
+
+     Doing it as an animation rather than a transition is deliberate: the
+     class lands in the same tick as the injected poster, so a transition
+     would have no earlier value to start from and would need a JS
+     requestAnimationFrame dance in footer/custom.html. `both` holds the
+     final frame, and the declared padding-bottom below is the same value,
+     so the box is correct with or without animation support.
+
+     The background is the poster's own near-black rather than a tint of
+     the page, so that any sliver visible around the poster -- or behind
+     the player once the poster has gone -- is dark. Dark in both palettes by
+     construction, so this needs no --site-* property of its own. */
+  .yt-embed__frame.is-loaded {
+    position: relative;
+    height: 0;
+    padding-bottom: 56.25%;
+    overflow: hidden;
+    background-color: #1e1b18;
+    animation: yt-embed-open 0.28s ease-out both;
+  }
+
+  /* Margins ride along with the padding. They are only 0.5em each, but a
+     box that grows smoothly from a standing start of 1em still starts with
+     a visible step, and in a swap the step is only invisible because the
+     other box happens to take it at the same moment. */
+  @keyframes yt-embed-open {
+    from {
+      margin-block: 0;
+      padding-bottom: 0;
+    }
+    to {
+      margin-block: 0.5em;
+      padding-bottom: 56.25%;
+    }
+  }
+
+  /* The mirror of the open, and deliberately not `reverse` of it: the two
+     have to cancel out. When one box is swapped for another, this shrink
+     and that growth run at the same time, and the page only holds still if
+     what one loses the other gains at every instant -- which needs the
+     same duration and the same easing read the same way round, from a
+     `from` of 56.25% rather than a reversed curve.
+
+     The close cannot be done in CSS alone. <details> drops its content the
+     instant `open` clears, leaving nothing to animate, so the script in
+     footer/custom.html intercepts the click, adds this class, and only
+     then lets the box close. */
+  .yt-embed__frame.is-loaded.is-closing {
+    animation: yt-embed-close 0.28s ease-out both;
+  }
+
+  @keyframes yt-embed-close {
+    from {
+      margin-block: 0.5em;
+      padding-bottom: 56.25%;
+    }
+    to {
+      margin-block: 0;
+      padding-bottom: 0;
+    }
+  }
+
+  .yt-embed__frame.is-loaded > a {
+    display: none;
+  }
+
+  /* The fade is what softens the player's arrival while it is mounted on
+     open: it comes up out of the frame's near-black rather than slapping
+     a white document over it. It cannot hide that load -- only the poster
+     below does that -- but it takes the edge off. Invisible, and harmless,
+     when USE_POSTER puts an opaque panel on top of it. */
+  .yt-embed__frame iframe {
+    position: absolute;
+    inset: 0;
+    width: 100%;
+    height: 100%;
+    border: 0;
+    animation: yt-embed-fade 0.4s ease-out both;
+  }
+
+  /* The poster: a stand-in for the player, shown when a box opens. Opening
+     used to mount the real player, and what a reader saw was YouTube's own
+     document painting -- white, then the black stage, then the video. That
+     is inside a cross-origin frame: no CSS or JS here can style it, and no
+     event says when it has painted. The only fix is not to have a player
+     there yet.
+
+     Its own background is the near-black the frame carries, so the box is
+     dark from the first frame and the thumbnail arriving later cannot
+     flash. Everything but the thumbnail is drawn here, which is also the
+     fallback: block i.ytimg.com and what remains is a dark panel with a
+     title and a play control, still perfectly usable.
+
+     Sits above the iframe (which the click handler inserts underneath) and
+     covers it while YouTube loads. */
+  .yt-embed__poster {
+    position: absolute;
+    inset: 0;
+    z-index: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    background-color: #1e1b18;
+    cursor: pointer;
+  }
+
+  .yt-embed__poster-img {
+    position: absolute;
+    inset: 0;
+    z-index: 0;
+    width: 100%;
+    height: 100%;
+    /* cover, because the hqdefault fallback is 4:3 with letterbox bars
+       baked into the image -- contain would show them, cover crops them
+       off. maxresdefault is already 16:9 and is unaffected. */
+    object-fit: cover;
+    animation: yt-embed-fade 0.3s ease-out both;
+  }
+
+  @keyframes yt-embed-fade {
+    from {
+      opacity: 0;
+    }
+    to {
+      opacity: 1;
+    }
+  }
+
+  /* Scrim: thumbnails are chosen to be eye-catching and many are bright,
+     which leaves the play control and title fighting the image. */
+  .yt-embed__poster::after {
+    content: "";
+    position: absolute;
+    inset: 0;
+    z-index: 1;
+    background-color: rgba(0, 0, 0, 0.28);
+  }
+
+  .yt-embed__poster-title {
+    position: absolute;
+    z-index: 2;
+    top: 0;
+    left: 0;
+    right: 0;
+    padding: 0.55em 0.8em 1.4em;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));
+    color: #f2ece1;
+    font-size: 0.85em;
+    line-height: 1.3;
+    text-align: left;
+  }
+
+  /* The disc is not decoration. A bare triangle has to survive whatever
+     the thumbnail happens to be, and these are gold-heavy Islamic art --
+     a gold mark on gold calligraphy disappears. The disc gives it a
+     constant dark ground, so contrast no longer depends on the image. */
+  .yt-embed__poster-play {
+    position: relative;
+    z-index: 2;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 3.4em;
+    height: 3.4em;
+    border: 1px solid rgba(242, 236, 225, 0.3);
+    border-radius: 50%;
+    background-color: rgba(22, 19, 16, 0.72);
+    transition: transform 0.15s ease, background-color 0.15s ease;
+  }
+
+  /* A lighter tint of the skin's gold. NOT --site-quote-gold (blockquote.quote's
+     border) -- that gold means "revealed text" and should not leak onto a
+     control; this is the same hue lifted for contrast on a near-black
+     ground, and stays a plain constant since the ground it sits on (the
+     poster) is dark in both palettes. */
+  .yt-embed__poster-play::before {
+    content: "";
+    display: block;
+    width: 0;
+    height: 0;
+    /* nudged right by a third of the triangle's width: a triangle centred
+       on its bounding box reads as sitting left of centre in a circle. */
+    margin-left: 0.4em;
+    border-style: solid;
+    border-width: 0.7em 0 0.7em 1.15em;
+    border-color: transparent transparent transparent #c9973a;
+  }
+
+  .yt-embed__poster:hover .yt-embed__poster-play,
+  .yt-embed__poster:focus-visible .yt-embed__poster-play {
+    transform: scale(1.1);
+    background-color: rgba(22, 19, 16, 0.85);
+  }
+
+  /* Fades out over the loading player rather than being torn out from in
+     front of it. The delay is deliberately generous: too short and a slow
+     connection crossfades into the very white this exists to hide, while
+     too long costs nothing a reader would notice. `both` holds it
+     transparent, and pointer-events go with the paint so the faded poster
+     cannot swallow clicks meant for the player. */
+  .yt-embed__poster.is-dismissed {
+    pointer-events: none;
+    animation: yt-embed-poster-out 0.45s ease-in 0.7s both;
+  }
+
+  @keyframes yt-embed-poster-out {
+    from {
+      opacity: 1;
+    }
+    to {
+      opacity: 0;
+    }
+  }
+
+  /* The animations are pure decoration -- the fill state is what the plain
+     rules already declare, so switching them off changes nothing but the
+     motion. The poster must still end up transparent, or a reader with
+     reduced motion gets a panel stuck over a playing video. */
+  @media (prefers-reduced-motion: reduce) {
+    .yt-embed__frame.is-loaded,
+    .yt-embed__frame.is-loaded.is-closing,
+    .yt-embed__frame iframe,
+    .yt-embed__poster-img,
+    .yt-embed__poster-play {
+      animation: none;
+      transition: none;
+    }
+
+    .yt-embed__poster.is-dismissed {
+      animation: none;
+      opacity: 0;
+    }
+  }
+
+  /* Scoped to paragraphs and list items, not the whole .page__content block
+     -- justifying short blockquote citations (.src) produces visibly ragged
+     word-spacing on a couple of lines, and .quran-arabic already sets its
+     own text-align: right. hyphens: auto keeps the narrow phone column from
+     opening large rivers between words.
+
+     :not(.toc *) excludes the TOC -- both the sticky/inline copy, which
+     lives inside .page__content (see the font-size rule above), and the
+     mobile drawer clone, which doesn't but is harmless to exclude too.
+     Justifying nav entries reads as broken, not as prose. */
+  .page__content p:not(.toc *),
+  .page__content li:not(.toc *) {
+    text-align: justify;
+    -webkit-hyphens: auto;
+    hyphens: auto;
+  }
+
+  /* Quiet bordered button: the end-of-article link back to quran.md on its
+     sub-pages (back-to-quran.html), and the forward link from quran.md to
+     messenger.md. Lives here rather than in footer/custom.html's
+     page.quran_section conditional block, because quran.md itself has no
+     quran_section front matter -- that gate only fires on the sub-pages. */
+  .quran-return {
+    margin-block: 1.75em;
+    text-align: center;
+  }
+
+  .quran-return a {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5em;
+    padding: 0.6em 1.2em;
+    border: 1px solid var(--site-src-border);
+    border-radius: 0.35em;
+    color: var(--site-src-text);
+    font-family: "Karla", -apple-system, BlinkMacSystemFont, "Roboto",
+                 "Segoe UI", Arial, sans-serif;
+    font-size: 0.85em;
+    text-decoration: none;
+    transition: background-color 0.15s ease, border-color 0.15s ease,
+                color 0.15s ease;
+  }
+
+  .page__content .quran-return a:hover {
+    background-color: var(--site-return-hover-bg);
+    border-color: var(--site-src-text);
+    color: var(--mm-text-color);
+    text-decoration: none;
+  }
+
+  .quran-return__arrow {
+    font-size: 1.1em;
+    line-height: 1;
+  }
+
+  /* Citations are hand-authored markdown links styled to look like kramdown's
+     old footnote markers (`.footnote` is the theme's own class, so light and
+     dark colors come for free from the var(--mm-link-color) family in
+     _sass/minimal-mistakes/skins/_dirt.scss -- see _pages citation markup).
+     vertical-align/font-size aren't colors, so nothing further is needed for
+     either mode. */
+  a.footnote {
+    vertical-align: super;
+    font-size: 0.75em;
+  }
+
+  /* Citations are sometimes stacked (e.g. a hadith cited alongside its
+     commentary and a secondary source) as adjacent links with nothing
+     between them, so "42" and "12" would read as the single number "4212"
+     without a small gap. */
+  a.footnote + a.footnote {
+    margin-inline-start: 0.2em;
+  }
+
+/* --------------------------------------------------------------------------
+   From _includes/footer/custom.html
+   -------------------------------------------------------------------------- */
+
+  /* ------------------------------------------------------------------
+     Floating buttons
+     ------------------------------------------------------------------ */
+
+  #floating-nav {
+    position: fixed;
+    right: 1rem;
+    bottom: calc(1rem + env(safe-area-inset-bottom, 0px));
+    z-index: 100;
+
+    display: grid;
+    grid-template-rows: repeat(3, auto);
+    grid-auto-flow: column;
+    gap: 0.6rem;
+
+    /* hidden until scrolled; visibility (not just opacity) keeps the buttons
+       out of the tab order and the accessibility tree while they are off */
+    opacity: 0;
+    visibility: hidden;
+    transform: translateY(0.5rem);
+    transition: opacity 0.2s ease, transform 0.2s ease, visibility 0.2s;
+  }
+
+  #floating-nav.is-visible {
+    opacity: 0.9;
+    visibility: visible;
+    transform: translateY(0);
+  }
+
+  #floating-nav:hover,
+  #floating-nav:focus-within {
+    opacity: 1;
+  }
+
+  #floating-nav button {
+    /* 44px: minimum comfortable touch target */
+    width: 2.75rem;
+    height: 2.75rem;
+    padding: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    /* --site-* properties, not the theme's own -- these sit on a dark
+       translucent disc in both palettes (unlike the masthead copies, which
+       sit transparent on the page ground), so they don't track
+       var(--mm-text-color)/var(--mm-primary-color) the way those do. Alpha'd
+       down so text scrolled underneath stays readable through the button. */
+    color: var(--site-floatnav-icon);
+    background-color: var(--site-floatnav-bg);
+    border: 1px solid var(--site-floatnav-border);
+    border-radius: 50%;
+    box-shadow: 0 2px 6px var(--site-floatnav-shadow);
+    cursor: pointer;
+  }
+
+  /* Plain HTML added by this repo, not part of the theme's compiled CSS --
+     so it never picked up the theme's own :focus-visible-gated ring and
+     instead shows the browser's raw UA outline on ANY focus, including a
+     mobile tap (reliably, on the round toc-toggle button in particular).
+     :not(:focus-visible) keeps the ring for real keyboard navigation and
+     drops it everywhere else. .toc__toggle and #toc-close get the same
+     treatment further down, for the same reason. */
+  #floating-nav button:focus:not(:focus-visible) {
+    outline: none;
+  }
+
+  /* pages without a TOC (home, about) keep only the back-to-top button --
+     there are no sections to navigate between either */
+  #floating-nav.no-toc #toc-toggle,
+  #floating-nav.no-toc #prev-section,
+  #floating-nav.no-toc #next-section {
+    display: none;
+  }
+
+  #floating-nav button:disabled {
+    opacity: 0.35;
+    cursor: default;
+  }
+
+  /* "Large text is on", the same state the masthead copy shows in gold.
+     A plain constant, not --site-quote-gold: this button sits on a dark
+     translucent disc in both palettes, so it always wants the lifted gold
+     that reads on a dark ground -- the dirt skin's darker light-mode gold
+     would read muddy here even in light mode. */
+  #floating-nav #floating-font-size-toggle[aria-pressed="true"] {
+    color: #d4a04a;
+  }
+
+  /* ------------------------------------------------------------------
+     TOC panel
+     ------------------------------------------------------------------ */
+
+  #toc-backdrop {
+    position: fixed;
+    inset: 0;
+    z-index: 105;
+    background-color: var(--site-tocbackdrop-bg);
+    opacity: 0;
+    transition: opacity 0.25s ease;
+    /* swallows pan gestures, which is the whole scroll lock. The theme's
+       `overflow--hidden` body class is NOT usable here: `overflow: hidden`
+       on <body> establishes a block formatting context, and reflowing the
+       theme's layout under it shortens the page by well over a thousand
+       pixels — the reader watches the article jump to another section. */
+    touch-action: none;
+  }
+
+  #toc-backdrop.is-open {
+    opacity: 1;
+  }
+
+  /* Always mounted and always fixed, so it never takes part in layout and
+     there is nothing to move on open. Off-screen and `visibility: hidden`
+     keeps it out of the tab order until it is wanted. */
+  #toc-panel {
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    z-index: 110;
+
+    /* the vw term guarantees a strip of backdrop survives on the left, so
+       there is always somewhere to tap to dismiss */
+    width: min(86vw, 21rem);
+    display: flex;
+    flex-direction: column;
+
+    transform: translateX(100%);
+    visibility: hidden;
+    transition: transform 0.25s ease, visibility 0.25s;
+  }
+
+  #toc-panel.is-open {
+    transform: translateX(0);
+    visibility: visible;
+  }
+
+  /* the clone's <nav> wrapper has to pass the panel's height through to the
+     `.toc` inside it, or the menu has nothing to scroll within */
+  #toc-panel > nav {
+    display: flex;
+    flex-direction: column;
+    flex: 1 1 auto;
+    min-height: 0;
+  }
+
+  /* fill the panel and let the menu scroll inside it; it runs flush to the
+     top and right edges, so the theme's rounding has to go or it shows as
+     notches against the viewport corners */
+  #toc-panel .toc {
+    display: flex;
+    flex-direction: column;
+    flex: 1 1 auto;
+    min-height: 0;
+    margin: 0;
+    border-radius: 0;
+    border-top: 0;
+    border-right: 0;
+    border-bottom: 0;
+  }
+
+  #toc-panel .toc__menu {
+    min-height: 0;
+    overflow-y: auto;
+    -webkit-overflow-scrolling: touch;
+    /* stops a flick that runs past the end of the list from chaining into
+       the article behind it */
+    overscroll-behavior: contain;
+    padding-bottom: env(safe-area-inset-bottom, 0px);
+  }
+
+  /* the panel covers the floating buttons, so its header carries the only
+     visible dismiss control (backdrop tap and Escape also close it) */
+  #toc-panel .toc > header {
+    position: relative;
+  }
+
+  #toc-panel .nav__title {
+    display: flex;
+    /* flex drops the whitespace between the theme's icon and its label */
+    gap: 0.5em;
+    align-items: center;
+    min-height: 2.75rem;
+    padding-inline-end: 3rem;
+    border-radius: 0;
+    /* the theme's own .nav__title rule gives this 0.5rem of bottom padding;
+       matching it on top (before adding the safe-area inset) keeps the
+       icon/label centred in the box instead of sitting high against a
+       lopsided top/bottom padding split. Clears the notch / status bar,
+       since the panel reaches the top edge. */
+    padding-top: calc(0.5rem + env(safe-area-inset-top, 0px));
+  }
+
+  #toc-close {
+    position: absolute;
+    top: 0;
+    inset-inline-end: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 2.75rem;
+    height: 2.75rem;
+    padding: 0;
+    color: #fff;
+    background: none;
+    border: 0;
+    cursor: pointer;
+  }
+
+  #toc-close:focus:not(:focus-visible) {
+    outline: none;
+  }
+
+  /* $large — from here up the sticky sidebar is on screen, so the
+     TOC-in-a-drawer machinery (toggle button, backdrop, slide-out panel)
+     is redundant. back-to-top and prev/next-section aren't provided by
+     the sidebar, though, so #floating-nav itself stays on: only the
+     drawer pieces go. */
+  @media (min-width: 64em) {
+    #floating-nav #toc-toggle,
+    #toc-backdrop,
+    #toc-panel {
+      display: none;
+    }
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    #floating-nav,
+    #toc-backdrop,
+    #toc-panel {
+      transition: none;
+    }
+  }
+
+  @media print {
+    #floating-nav,
+    #toc-backdrop,
+    #toc-panel {
+      display: none;
+    }
+  }
+
+  /* ------------------------------------------------------------------
+     Collapsible TOC sections. Applies wherever the theme's `.toc__menu`
+     renders — the desktop sticky sidebar and the mobile drawer clone
+     both pick this up, since the clone copies the sidebar's innerHTML
+     *after* the script below has already mutated it.
+     ------------------------------------------------------------------ */
+
+  .toc__heading-row {
+    display: flex;
+    align-items: stretch;
+    justify-content: space-between;
+    /* the <a> below only wraps its own text now, so the row itself is what
+       the reader clicks to toggle -- give the whole strip a hand cursor,
+       not just the text and the button */
+    cursor: pointer;
+    /* var(--mm-border-color) -- moved here from the <a> below so the rule
+       spans the toggle too. */
+    border-bottom: 1px solid var(--mm-border-color);
+  }
+
+  /* Deliberately NOT flex: 1 1 auto. Stretching the <a> to fill the row
+     would make its clickable box cover the empty space between the text
+     and the toggle too, so a click there would navigate instead of
+     collapsing. Sized to its own text, the empty strip belongs to the row
+     (see the click handler below), and only the text and the button
+     themselves navigate or toggle respectively. */
+  .toc__heading-row > a {
+    border-bottom: 0;
+  }
+
+  .toc__toggle {
+    flex: 0 0 auto;
+    width: 2rem;
+    padding: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: inherit;
+    background: none;
+    border: 0;
+    cursor: pointer;
+  }
+
+  .toc__toggle:focus:not(:focus-visible) {
+    outline: none;
+  }
+
+  .toc__toggle svg {
+    transition: transform 0.2s ease;
+  }
+
+  /* The theme's own `.toc .active a` colours only the <a>, sized to its
+     own text (see above), so the toggle button sat outside the highlight
+     and looked unstyled next to it. Painting the whole row instead reads
+     as one continuous highlighted bar. The <a>'s own colour is repeated
+     explicitly rather than left to inherit from the row -- the theme's
+     `.toc__menu a` sets colour directly on the element, and a specified
+     value there always wins over an inherited one regardless of the
+     ancestor rule's specificity. var(--mm-active-color)/-contrast, the same
+     properties the theme's own `.toc .active a` reads, so both palettes
+     come for free. */
+  .toc .active > .toc__heading-row {
+    background-color: var(--mm-active-color);
+  }
+
+  .toc .active > .toc__heading-row,
+  .toc .active > .toc__heading-row a,
+  .toc .active > .toc__heading-row .toc__toggle {
+    color: var(--mm-active-color-contrast);
+  }
+
+  /* The theme puts `transition: 0.2s ease-in-out` on bare `a` (among other
+     elements) but not on a plain `<button>` -- so on activate/deactivate,
+     `.toc__toggle`'s colour snaps instantly while the row's own <a> fades
+     over 200ms, and the two visibly fall out of sync ("the toggle loses
+     its highlight before the text" in one direction, or lags behind it in
+     the other). Forcing both to snap together is more consistent for a
+     scrollspy highlight than a lingering fade. */
+  .toc__menu a,
+  .toc__toggle {
+    transition: none;
+  }
+
+  /* Any depth, not just `.toc__menu > li` -- the h3 groups collapse too. */
+  .toc li.is-collapsed > .toc__heading-row .toc__toggle svg {
+    transform: rotate(-90deg);
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    .toc__toggle svg {
+      transition: none;
+    }
+  }
