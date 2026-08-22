@@ -1,0 +1,134 @@
+/* ==========================================================================
+   Dirt skin — palette expressed as CSS custom properties
+
+   Shadows the theme's 4.28.0 _dirt.scss. Each of the skin's own palette
+   variables now resolves to a CSS custom property instead of a literal hex
+   value, so the same compiled main.css can carry a light and (later) a dark
+   palette without recompiling. This is the *enabling* step only: no dark
+   values exist yet, and the :root block below reproduces exactly the colors
+   the previous literal-hex build produced — verified against a built
+   _site/assets/css/main.css, not recomputed by hand.
+
+   Sass still cannot run mix()/rgba()/yiq-contrasted() on a var(), so every
+   partial that calls those functions on one of these variables has a
+   matching @if type-of(...) == color guard, falling back to a second,
+   precomputed custom property (also defined below) when the value is no
+   longer a literal Sass color. assets/css/dark.scss still imports these same
+   partials with real hex colors, so the guarded branch is untouched there —
+   dark.css must build byte-identical to before this change.
+   ========================================================================== */
+
+/* Colors */
+$background-color: var(--mm-background-color) !default;
+$text-color: var(--mm-text-color) !default;
+$muted-text-color: var(--mm-muted-text-color) !default;
+$primary-color: var(--mm-primary-color) !default;
+$border-color: var(--mm-border-color) !default;
+$footer-background-color: var(--mm-footer-background-color) !default;
+$link-color: var(--mm-link-color) !default;
+$link-color-hover: var(--mm-link-color-hover) !default;
+$link-color-visited: var(--mm-link-color-visited) !default;
+$masthead-link-color: var(--mm-masthead-link-color) !default;
+$masthead-link-color-hover: var(--mm-masthead-link-color-hover) !default;
+$navicon-link-color-hover: var(--mm-navicon-link-color-hover) !default;
+$focus-color: var(--mm-focus-color) !default;
+$active-color: var(--mm-active-color) !default;
+$form-background-color: var(--mm-form-background-color) !default;
+$code-background-color: var(--mm-code-background-color) !default;
+$code-background-color-dark: var(--mm-code-background-color-dark) !default;
+
+/* dirt syntax highlighting (base16) — identical in both palettes by design,
+   so these stay literal hex rather than custom properties. */
+$base00: #231e18 !default;
+$base01: #302b25 !default;
+$base02: #48413a !default;
+$base03: #9d8b70 !default;
+$base04: #b4a490 !default;
+$base05: #cabcb1 !default;
+$base06: #d7c8bc !default;
+$base07: #e4d4c8 !default;
+$base08: #d35c5c !default;
+$base09: #ca7f32 !default;
+$base0a: #e0ac16 !default;
+$base0b: #b7ba53 !default;
+$base0c: #6eb958 !default;
+$base0d: #88a4d3 !default;
+$base0e: #bb90e2 !default;
+$base0f: #b49368 !default;
+
+/* Light palette (the only palette this task adds — dirt's existing colors,
+   moved verbatim into custom properties). Values were read out of a built
+   main.css, not recomputed: see _sass/minimal-mistakes/_notices.scss,
+   _navigation.scss, _buttons.scss, _mixins.scss, _page.scss, _search.scss,
+   _tables.scss and _utilities.scss for where the "-h000NN" / "-contrast" /
+   "-mix-*" / "notice-*" properties below are consumed. */
+:root {
+  --mm-background-color: #f3f3f3;
+  --mm-text-color: #343434;
+  --mm-muted-text-color: #8e8b82;
+  --mm-primary-color: #343434;
+  --mm-border-color: #e9dcbe;
+  --mm-footer-background-color: #e9dcbe;
+  --mm-link-color: #343434;
+  --mm-link-color-hover: #272727;
+  --mm-link-color-visited: #525252;
+  --mm-masthead-link-color: #343434;
+  --mm-masthead-link-color-hover: #343434;
+  --mm-navicon-link-color-hover: #d6d6d6;
+  --mm-focus-color: #343434;
+  --mm-active-color: #d6d6d6;
+  --mm-form-background-color: #f2f3f3;
+  --mm-code-background-color: #fafafa;
+  --mm-code-background-color-dark: #bdc1c4;
+
+  /* mix(#000, $border-color, 25%) / mix(#000, $primary-color, 25%) —
+     _navigation.scss, _page.scss, _search.scss, _tables.scss, _utilities.scss */
+  --mm-border-color-h00025: #afa58f;
+  --mm-primary-color-h00025: #272727;
+
+  /* mix(#000, $primary-color, 20%) — _buttons.scss primary hover background */
+  --mm-primary-color-hover: #2a2a2a;
+
+  /* mix(#000, $primary-color, 10%) / mix(#000, $primary-color, 50%) —
+     _notices.scss notice--primary link / link:hover / blockquote border */
+  --mm-primary-color-h00010: #2f2f2f;
+  --mm-primary-color-h00050: #1a1a1a;
+
+  /* rgba($primary-color, 0.25) — _notices.scss notice--primary box-shadow */
+  --mm-primary-color-alpha-25: rgba(52, 52, 52, 0.25);
+
+  /* rgba($text-color, 0.06) / rgba($primary-color, 0.7) —
+     _forms.scss input:focus, textarea:focus box-shadow */
+  --mm-text-color-alpha-06: rgba(52, 52, 52, 0.06);
+  --mm-primary-color-alpha-70: rgba(52, 52, 52, 0.7);
+
+  /* rgba($muted-text-color, 0.5) — _navigation.scss pagination li.disabled */
+  --mm-muted-text-color-alpha-50: rgba(142, 139, 130, 0.5);
+
+  /* yiq-contrasted() text color when the background argument is one of the
+     variables above (always white against dirt's light palette) —
+     _mixins.scss generic fallback, _navigation.scss .toc__menu a border case
+     is separate (see -contrast properties below) */
+  --mm-on-accent: #fff;
+
+  /* yiq-contrasted($muted-text-color) / yiq-contrasted($active-color) —
+     _navigation.scss .pagination--pager:hover and .toc .active a */
+  --mm-muted-text-color-contrast: #fff;
+  --mm-active-color-contrast: #3d4144;
+
+  /* mix($background-color, $notice-color, 80%) / mix(..., 90%) per notice
+     variant — _notices.scss @mixin notice() background-color / code
+     background-color */
+  --mm-notice-bg-default: #e8e9ea;
+  --mm-notice-bg-primary: #cdcdcd;
+  --mm-notice-bg-info: #cee2e8;
+  --mm-notice-bg-warning: #eddcc3;
+  --mm-notice-bg-success: #cfe4cf;
+  --mm-notice-bg-danger: #f2d5d5;
+  --mm-code-notice-bg-default: #eee;
+  --mm-code-notice-bg-primary: #e0e0e0;
+  --mm-code-notice-bg-info: #e1eaed;
+  --mm-code-notice-bg-warning: #f0e7db;
+  --mm-code-notice-bg-success: #e1ebe1;
+  --mm-code-notice-bg-danger: #f3e4e4;
+}
