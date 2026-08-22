@@ -559,19 +559,35 @@
     }
   }
 
-  /* The theme leaves 1em between the masthead and .page__inner-wrap on an
-     ordinary page, but .breadcrumbs -- rendered before #main, so it's the
-     masthead's sibling rather than page__inner-wrap's -- carries no top
-     margin of its own and butts straight against it. Match the two, and
-     nudge both up from the theme's bare 1em: the masthead's controls were
-     enlarged after that default was set, and the old gap now reads as
-     cramped under the taller bar. */
-  .page__inner-wrap {
-    margin-top: 1.75em;
+  /* The theme's own rule is `.page .page__inner-wrap { margin-top: 1em }`
+     (two classes) -- a plain `.page__inner-wrap` override loses to it on
+     specificity regardless of source order, so this has to match that
+     selector shape to actually win. Raised past the theme's bare 1em: the
+     masthead's controls were enlarged after that default was set, and on a
+     page with no breadcrumb the old gap read as noticeably tighter than the
+     gap the title leaves before the body text below it. 2em clears that
+     comparison with room to spare. */
+  .page .page__inner-wrap {
+    margin-top: 2em;
   }
 
+  /* .breadcrumbs -- rendered before #main, so it's the masthead's sibling
+     rather than page__inner-wrap's -- carried no top margin at all and
+     butted straight against the masthead. A plain 1em, matching the
+     theme's own masthead-to-title default above, reads as intentional
+     rather than either flush or oversized. */
   .breadcrumbs {
-    margin-top: 1.75em;
+    margin-top: 1em;
+  }
+
+  /* On a page with a breadcrumb, .quran-breadcrumb's own 1.2em bottom
+     margin (below) is already the deliberate, tuned gap down to the title
+     -- see the comment there. Zero out page__inner-wrap's margin in just
+     this case so the two don't stack into a double gap; the extra
+     specificity from #main and .breadcrumbs beats the bare rule above
+     without needing source order or !important. */
+  .breadcrumbs + #main .page .page__inner-wrap {
+    margin-top: 0;
   }
 
   /* Shrink article body text (not the masthead, nav, or TOC) so more of an
