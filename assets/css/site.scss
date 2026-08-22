@@ -559,6 +559,21 @@
     }
   }
 
+  /* The theme leaves 1em between the masthead and .page__inner-wrap on an
+     ordinary page, but .breadcrumbs -- rendered before #main, so it's the
+     masthead's sibling rather than page__inner-wrap's -- carries no top
+     margin of its own and butts straight against it. Match the two, and
+     nudge both up from the theme's bare 1em: the masthead's controls were
+     enlarged after that default was set, and the old gap now reads as
+     cramped under the taller bar. */
+  .page__inner-wrap {
+    margin-top: 1.75em;
+  }
+
+  .breadcrumbs {
+    margin-top: 1.75em;
+  }
+
   /* Shrink article body text (not the masthead, nav, or TOC) so more of an
      article fits on screen without scrolling. Em-based: the theme's own
      heading rules (e.g. h1 { font-size: 1.563em }) are already relative to
