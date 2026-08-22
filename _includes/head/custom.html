@@ -178,13 +178,20 @@
      /about/ and 404.html do not, so this condition alone is what keeps
      those three out without hardcoding their URLs.
 
-     No datePublished/dateModified: neither exists as a trustworthy value.
-     There is no `date` front matter on any of these pages (they are not
-     posts) and no last-modified plugin is installed (jekyll-last-modified-at
-     is not a project dependency -- see Gemfile), so there is nothing real to
-     read. A fabricated date would be worse than none, per CLAUDE.md's
-     verify-before-asserting rule -- so both are simply omitted rather than
-     filled with a guess.
+     datePublished, gated on `page.date`: each article page now sets a `date`
+     front matter value, hand-derived once from this file's first commit
+     (`git log --follow --diff-filter=A`), not fabricated.
+
+     No dateModified: that one still isn't trustworthy to maintain by hand
+     -- these pages get prose edits after publication, and a stale
+     hand-written value would misreport "unchanged since X" to search
+     engines, which is worse than omitting it. The plugin that would derive
+     it automatically from git history, jekyll-last-modified-at, isn't in
+     GitHub Pages' legacy-build plugin whitelist (this repo has no
+     `.github/workflows`, so builds run through GitHub's own `github-pages`
+     gem, not a custom Actions build), so adding it as a dependency would
+     silently do nothing on the actual publish. Revisit only alongside a
+     switch to an Actions-based Pages deploy.
 
      BreadcrumbList, gated on `page.quran_section`, the same condition
      _includes/breadcrumbs.html uses: Google requires this to match the
@@ -198,7 +205,8 @@
       "@type": "Article",
       "headline": {{ page.title | strip_html | jsonify }},
       "description": {{ page.description | jsonify }},
-      "author": {
+      {% if page.date %}"datePublished": {{ page.date | date_to_xmlschema | jsonify }},
+      {% endif %}"author": {
         "@type": "Person",
         "name": {{ site.author.name | jsonify }}
       },
