@@ -1,0 +1,51 @@
+{%- comment -%}
+  A local copy of minimal-mistakes 4.28.0's _includes/footer.html, verbatim
+  except that the feed link's `<i class="fas fa-fw fa-square-rss">` Font
+  Awesome icon is replaced with an inline <svg> -- the classic feed-icon
+  glyph (concentric radio-wave arcs plus a dot), a generic public-domain
+  shape rather than Font Awesome's own path data. Styled like the icons
+  already hand-drawn in _includes/masthead.html and
+  _includes/footer/custom.html (viewBox 0 0 24 24, stroke/fill
+  "currentColor", aria-hidden="true", focusable="false", sized in em so it
+  scales with the surrounding text the way the Font Awesome glyph used to).
+
+  This is the last of the six icons that depended on the unpinned, SRI-less
+  Font Awesome CDN link removed from _includes/head.html (see that fork's
+  comment for the full rationale) -- this one renders on every page, via the
+  atom feed link in the footer.
+
+  `site.footer.links[].icon` still defaults to the literal string
+  `'fas fa-link'` below, untouched: _config.yml's footer.links entries have
+  no `url` set, so that branch never renders in this site's build. Revisit
+  if a footer link with a URL is ever added.
+
+  The theme is pinned to 4.28.0 in _config.yml, so this fork is stable. If
+  that pin moves, diff this file against the new release.
+{%- endcomment -%}
+{% assign locale = include.locale | default: site.locale %}
+{% unless site.atom_feed.hide %}
+  {% assign show_atom = true %}
+{% endunless %}
+{% if site.footer.links or show_atom %}
+<div class="page__footer-follow">
+  <ul class="social-icons">
+    {% if site.data.ui-text[locale].follow_label %}
+      <li><strong>{{ site.data.ui-text[locale].follow_label }}</strong></li>
+    {% endif %}
+
+    {% if site.footer.links %}
+      {% for link in site.footer.links %}
+        {% if link.label and link.url %}
+          <li><a href="{{ link.url }}" rel="nofollow noopener noreferrer{% if link.rel %} {{ link.rel }}{% endif %}"><i class="{{ link.icon | default: 'fas fa-link' }}" aria-hidden="true"></i> {{ link.label | escape_once | strip }}</a></li>
+        {% endif %}
+      {% endfor %}
+    {% endif %}
+
+    {% unless site.atom_feed.hide %}
+      <li><a href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ '/feed.xml' | relative_url }}{% endif %}"><svg viewBox="0 0 24 24" width="1em" height="1em" aria-hidden="true" focusable="false" style="vertical-align: -0.125em;"><circle cx="6" cy="18" r="2.3" fill="currentColor" /><path d="M4 11a9 9 0 0 1 9 9" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" /><path d="M4 4a16 16 0 0 1 16 16" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" /></svg> {{ site.data.ui-text[locale].feed_label | default: "Feed" }}</a></li>
+    {% endunless %}
+  </ul>
+</div>
+{% endif %}
+
+<div class="page__footer-copyright">&copy; {% assign site_time = site.time | date: '%Y' %}{% if site.footer.since and site_time != site.footer.since %}{{ site.footer.since }} - {% endif %}{{ site_time }} <a href="{{ site.copyright_url | default: site.url }}">{{ site.copyright | default: site.title | escape_once | strip }}</a>. {{ site.data.ui-text[locale].powered_by | default: "Powered by" }} <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/jekyll-themes/minimal-mistakes/" rel="nofollow">Minimal Mistakes</a>.</div>

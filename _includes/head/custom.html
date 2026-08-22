@@ -412,14 +412,18 @@
      article fits on screen without scrolling. Em-based: the theme's own
      heading rules (e.g. h1 { font-size: 1.563em }) are already relative to
      this, so headings inside articles shrink proportionally along with
-     paragraphs. */
-  /* Shrink article body text (not the masthead, nav, or TOC) so more of an
-     article fits on screen without scrolling. Em-based: the theme's own
-     heading rules (e.g. h1 { font-size: 1.563em }) are already relative to
-     this, so headings inside articles shrink proportionally along with
-     paragraphs. */
+     paragraphs.
+
+     Font-size alone barely moves content-per-screen, since line-height and
+     the em-based margins on headings/blockquotes ride along with it
+     proportionally rather than compounding. Tightening line-height
+     independently (moderate cut, ~10-15%) is what actually buys more
+     article per viewport. !important on line-height because this include
+     is emitted before the theme's own stylesheet link, so a plain override
+     of the same specificity loses the cascade to main.css's later rules. */
   .page__content {
     font-size: 0.85em;
+    line-height: 1.4 !important;
   }
 
   /* #font-size-toggle's "large" state: undoes the shrink above for prose,
@@ -535,11 +539,18 @@
     text-decoration: none;
   }
 
-  /* The theme's own "On this page" title icon (fa-bars) reads as a second,
-     redundant hamburger next to #toc-toggle's. Hiding it is display: none,
-     not visibility, so #toc-panel .nav__title's flex `gap` (added to fill
-     the whitespace the icon used to occupy) collapses to zero along with
-     it -- gap only spaces *visible* flex children. */
+  /* The theme's own "On this page" title icon reads as a second, redundant
+     hamburger next to #toc-toggle's. Since the Font Awesome CDN link was
+     removed from the forked _includes/head.html, the theme's
+     `<i class="fas fa-bars">` has no glyph to paint and is an empty
+     element -- but it is still a flex child of .nav__title, so `gap` would
+     open 0.5em of dead space in front of the label. `display: none` is
+     therefore still needed, and still has to be display rather than
+     visibility: gap only spaces *visible* flex children.
+
+     Hiding it here rather than forking _layouts/single.html to delete the
+     element: a layout is the heaviest thing in the theme to keep in sync
+     across a version bump, and one CSS rule buys the same result. */
   .page__content .toc .nav__title i,
   #toc-panel .nav__title i {
     display: none;
@@ -556,17 +567,6 @@
   .toc .active ul a {
     background-color: transparent;
     color: #8e8b82;
-  }
-
-  /* Font-size alone barely moves content-per-screen, since line-height and
-     the em-based margins on headings/blockquotes ride along with it
-     proportionally rather than compounding. Tightening them independently
-     (moderate cut, ~10-15%) is what actually buys more article per
-     viewport. !important for the same cascade-order reason as above;
-     specificity would otherwise tie with the theme's own .page__content
-     rules and lose to source order. */
-  .page__content {
-    line-height: 1.4 !important;
   }
 
   .page__content h1,
@@ -599,10 +599,6 @@
     margin-inline-end: 0.1em;
   }
 
-  .page__content blockquote {
-    margin-block: 1.3em !important;
-  }
-
   /* Lists and blockquotes were carrying the browser's UA default indents
      (ul/ol padding-inline-start: 40px; blockquote margin-inline-start:
      40px, which the theme's own blockquote rule below never touched).
@@ -610,21 +606,19 @@
      narrower line wraps to more lines, which costs far more vertical
      space than the indent bought in scannability. Quotes nested inside a
      bullet were paying both indents at once (list padding + blockquote
-     margin + blockquote padding), so this matters most there. */
+     margin + blockquote padding), so this matters most there. Font-size is
+     generally smaller than body text too, matching the existing .src
+     convention below rather than inventing a second scale. */
+  .page__content blockquote {
+    margin-block: 1.3em !important;
+    margin-inline: 0 !important;
+    padding-inline: 0.75em !important;
+    font-size: 0.9em !important;
+  }
+
   .page__content ul,
   .page__content ol {
     padding-inline-start: 1.25em !important;
-  }
-
-  .page__content blockquote {
-    margin-inline: 0 !important;
-    padding-inline: 0.75em !important;
-  }
-
-  /* generally smaller than body text, matching the existing .src
-     convention below rather than inventing a second scale */
-  .page__content blockquote {
-    font-size: 0.9em !important;
   }
 
   /* revealed text: gold */

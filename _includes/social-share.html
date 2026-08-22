@@ -1,0 +1,49 @@
+{%- comment -%}
+  A local copy of minimal-mistakes 4.28.0's _includes/social-share.html,
+  verbatim except that each `<i class="fab fa-fw fa-...">` Font Awesome icon
+  is replaced with an inline <svg>, styled like the icons already hand-drawn
+  in _includes/masthead.html and _includes/footer/custom.html (viewBox 0 0
+  24 24, fill="currentColor" or stroke="currentColor", aria-hidden="true",
+  focusable="false", sized in em so it scales with the button's font-size the
+  way the Font Awesome glyph used to). This removes the last of this repo's
+  four social-brand icons that depended on the unpinned, SRI-less Font
+  Awesome CDN link removed from _includes/head.html (see that fork's
+  comment for the full rationale).
+
+  The glyphs are original, simple geometric approximations -- crossing
+  strokes for X, plain letterforms for Facebook/LinkedIn, a two-wing outline
+  for Bluesky -- not Font Awesome's own path data (CC-BY-4.0, which would
+  require attribution this site doesn't carry).
+
+  The theme is pinned to 4.28.0 in _config.yml, so this fork is stable. If
+  that pin moves, diff this file against the new release.
+{%- endcomment -%}
+{% assign locale = include.locale | default: site.locale %}
+<section class="page__share">
+  <h4 class="page__share-title">{{ site.data.ui-text[locale].share_on_label | default: "Share on" }}</h4>
+
+  <a href="https://x.com/intent/tweet?{% if site.twitter.username %}via={{ site.twitter.username | url_encode }}&{% endif %}text={{ page.title | url_encode }}%20{{ page.url | absolute_url | url_encode }}" class="btn btn--x" aria-label="Share on X" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="{{ site.data.ui-text[locale].share_on_label | default: 'Share on' }} X">
+    <svg viewBox="0 0 24 24" width="1em" height="1em" aria-hidden="true" focusable="false" style="vertical-align: -0.125em;">
+      <path d="M5 5 L19 19 M19 5 L5 19" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" />
+    </svg><span> X</span>
+  </a>
+
+  <a href="https://www.facebook.com/sharer/sharer.php?u={{ page.url | absolute_url | url_encode }}" class="btn btn--facebook" aria-label="Share on Facebook" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="{{ site.data.ui-text[locale].share_on_label | default: 'Share on' }} Facebook">
+    <svg viewBox="0 0 24 24" width="1em" height="1em" aria-hidden="true" focusable="false" style="vertical-align: -0.125em;">
+      <text x="7" y="18" font-size="17" font-family="Karla, -apple-system, BlinkMacSystemFont, 'Roboto', 'Segoe UI', Arial, sans-serif" font-weight="900" fill="currentColor">f</text>
+    </svg><span> Facebook</span>
+  </a>
+
+  <a href="https://www.linkedin.com/shareArticle?mini=true&url={{ page.url | absolute_url }}" class="btn btn--linkedin" aria-label="Share on LinkedIn" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="{{ site.data.ui-text[locale].share_on_label | default: 'Share on' }} LinkedIn">
+    <svg viewBox="0 0 24 24" width="1em" height="1em" aria-hidden="true" focusable="false" style="vertical-align: -0.125em;">
+      <text x="2" y="17" font-size="12" font-family="Karla, -apple-system, BlinkMacSystemFont, 'Roboto', 'Segoe UI', Arial, sans-serif" font-weight="900" fill="currentColor">in</text>
+    </svg><span> LinkedIn</span>
+  </a>
+
+  <a href="https://bsky.app/intent/compose?text={{ page.title | url_encode }}%20{{ page.url | absolute_url | url_encode }}" class="btn btn--bluesky" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="{{ site.data.ui-text[locale].share_on_label | default: 'Share on' }} Bluesky">
+    <svg viewBox="0 0 24 24" width="1em" height="1em" aria-hidden="true" focusable="false" style="vertical-align: -0.125em;">
+      <path d="M12 12 C9 6 4 4 3 6 C2 8 5 12 9 13 C5 13 2 16 3 18 C4 20 9 18 12 12 Z" fill="currentColor" />
+      <path d="M12 12 C15 6 20 4 21 6 C22 8 19 12 15 13 C19 13 22 16 21 18 C20 20 15 18 12 12 Z" fill="currentColor" />
+    </svg><span> Bluesky</span>
+  </a>
+</section>
