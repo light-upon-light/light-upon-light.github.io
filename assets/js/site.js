@@ -5,16 +5,111 @@
    Custom JS for this site, moved out of the <script> blocks that used to be
    inlined into every page via _includes/footer/custom.html (P1-3 in the site
    audit: ~37 KB of identical JS repeated verbatim on every one of the 13
-   pages, uncacheable). Loaded via site.footer_scripts in _config.yml, which
-   MUST list this file before /assets/js/main.min.js: this script registers a
-   `gumshoeActivate` listener that has to be in place before the theme's own
-   Gumshoe init runs its first synchronous detect(), or the initial
-   activation is missed. See the comment in _config.yml.
+   pages, uncacheable).
 
-   This is a pure relocation -- nothing below has been reordered, renamed, or
-   rewritten. The pre-paint theme/font-size toggle bootstrap scripts and the
-   quran_section breadcrumb script stay inline in the two custom.html includes
-   (see the header comment in assets/css/site.scss for why). */
+   P1-5 (audit) then dropped the theme's jQuery bundle (main.min.js --
+   jQuery + fitvids + magnific-popup + throttle-debounce + smooth-scroll +
+   greedy-navigation + gumshoe, 124 KB / 42.7 KB gzipped) entirely: this
+   site's own JS was already vanilla, and jQuery was there only to run that
+   bundle. Only the pieces this site actually used got reimplemented --
+   Gumshoe (below, a line-for-line port), the theme's header-permalink
+   anchors (below), and a ~30-line stand-in for GreedyNav (below, NOT a
+   port -- see its own comment for why the naive "ship nothing, the toggle
+   and dropdown already carry `.hidden`" plan turned out to be wrong).
+   fitvids, magnific-popup and throttle-debounce were dead code (no
+   matching elements anywhere in the built site -- no static iframe/video,
+   no `.image-popup` targets, and _main.js never even called
+   throttle-debounce). SmoothScroll became a plain CSS `scroll-behavior:
+   smooth` + `scroll-padding-top` in site.scss (the masthead is `position:
+   relative`, not fixed, so no extra offset is needed for anything
+   scrolling under it). See theme_internals.md for the scrollspy diff
+   verification.
+
+   This file's own script tag is now the only one in footer_scripts
+   (_config.yml) -- ordering within THIS file is what matters instead:
+   the scrollspy's own first detect() runs synchronously and dispatches
+   `gumshoeActivate`, so anything that listens for it (the floating-nav
+   IIFE just below) must be defined earlier in this same file, which it is.
+
+   Everything below the P1-3 relocation comment is a pure relocation --
+   nothing in it has been reordered, renamed, or rewritten. The pre-paint
+   theme/font-size toggle bootstrap scripts and the quran_section breadcrumb
+   script stay inline in the two custom.html includes (see the header
+   comment in assets/css/site.scss for why). */
+
+/* --------------------------------------------------------------------------
+   Nav-link overflow (P1-5: replaces the theme's GreedyNav plugin)
+   -------------------------------------------------------------------------- */
+
+  /* _data/navigation.yml holds exactly one link, so GreedyNav's own job --
+     incrementally measuring and moving links one at a time to fit as many
+     as possible -- is more than this site ever needs: the only question is
+     whether that ONE link fits at all. Everything below is that binary
+     check, not a port of the plugin.
+
+     _includes/masthead.html's own comment (accurate when written) argued
+     this could never overflow because GreedyNav doesn't know about the two
+     appearance toggle buttons it added and so overestimates available
+     space by their combined width. That comment turned out to be wrong at
+     narrow widths once GreedyNav itself was removed: at 375px the link
+     doesn't just fail to fit, it renders ~135px into the site title's own
+     space (`.visible-links` is flex:1 with `justify-content: flex-end`, so
+     overflow spills past the container's START edge, not its end -- content
+     `scrollWidth` doesn't register that direction of overflow, which is why
+     this measures the link's own natural width against the container's
+     box instead of using a scrollWidth check). Confirmed side-by-side
+     against the theme's own GreedyNav output at 375/768/1280px -- see
+     theme_internals.md. */
+  (function () {
+    var nav = document.querySelector("nav.greedy-nav");
+    if (!nav) return;
+
+    var vlinks = nav.querySelector(".visible-links");
+    var hlinks = nav.querySelector(".hidden-links");
+    var toggle = nav.querySelector(".greedy-nav__toggle");
+    if (!vlinks || !hlinks || !toggle || !vlinks.children.length) return;
+
+    function naturalWidth() {
+      var w = 0;
+      var items = vlinks.children;
+      for (var i = 0; i < items.length; i++) w += items[i].offsetWidth;
+      return w;
+    }
+
+    function check() {
+      // Reset to "all visible" before each measurement -- offsetWidth on an
+      // item already sitting in the hidden, display:none dropdown is 0, so
+      // measuring from there would always read as "fits".
+      hlinks.classList.add("hidden");
+      toggle.classList.remove("close");
+      while (hlinks.firstElementChild) vlinks.appendChild(hlinks.firstElementChild);
+
+      if (naturalWidth() > vlinks.clientWidth) {
+        while (vlinks.firstElementChild) hlinks.appendChild(vlinks.firstElementChild);
+        toggle.classList.remove("hidden");
+      } else {
+        toggle.classList.add("hidden");
+      }
+    }
+
+    toggle.addEventListener("click", function () {
+      hlinks.classList.toggle("hidden");
+      toggle.classList.toggle("close");
+    });
+
+    // Dismiss on an outside click/tap, same as GreedyNav's own hidden-links
+    // click/mouseleave handling -- simplified to one listener since there's
+    // no hover-intent close timer to replicate for a single link.
+    document.addEventListener("click", function (e) {
+      if (hlinks.classList.contains("hidden")) return;
+      if (e.target.closest(".hidden-links") || e.target === toggle || toggle.contains(e.target)) return;
+      hlinks.classList.add("hidden");
+      toggle.classList.remove("close");
+    });
+
+    window.addEventListener("resize", check);
+    check();
+  })();
 
 /* --------------------------------------------------------------------------
    Floating navigation / TOC drawer (from _includes/footer/custom.html)
@@ -743,4 +838,248 @@
 
       frame.classList.add("is-loaded");
     }, true);
+  })();
+
+/* --------------------------------------------------------------------------
+   Heading permalink anchors (P1-5: ported from the theme's _main.js)
+   -------------------------------------------------------------------------- */
+
+  /* Was already plain DOM code inside _main.js's $(document).ready wrapper
+     -- nothing here needed jQuery, so this is a straight move, not a
+     rewrite. Runs on every heading with an id (kramdown auto-generates one
+     for every h1-h6) inside .page__content, appending a "#" permalink icon
+     the theme's own CSS already styles (`.header-link`). */
+  (function () {
+    var pageContentElement = document.querySelector(".page__content");
+    if (!pageContentElement) return;
+
+    pageContentElement
+      .querySelectorAll("h1, h2, h3, h4, h5, h6")
+      .forEach(function (element) {
+        var id = element.getAttribute("id");
+        if (!id) return;
+        var anchor = document.createElement("a");
+        anchor.className = "header-link";
+        anchor.href = "#" + id;
+        anchor.innerHTML =
+          '<span class="sr-only">Permalink</span><i class="fas fa-link"></i>';
+        anchor.title = "Permalink";
+        element.appendChild(anchor);
+      });
+  })();
+
+/* --------------------------------------------------------------------------
+   Scrollspy (P1-5: replaces the theme's Gumshoe plugin from main.min.js)
+   -------------------------------------------------------------------------- */
+
+  /* A line-for-line port of gumshoejs v5.1.1's algorithm (MIT, Chris
+     Ferdinandi), not an approximation. This has to reproduce Gumshoe's
+     contract exactly: the floating-nav IIFE above listens for
+     `gumshoeActivate` and reads `e.detail.link`, `.toc .active a` /
+     `.toc .active > .toc__heading-row` in site.scss key off `.active` on
+     the <li>, and the drawer clone in the IIFE above is deliberately a
+     `<nav>` that does NOT match `nav.toc a` so it can't steal the
+     highlight -- see theme_internals.md. An IntersectionObserver
+     approximation would diverge from Gumshoe exactly at the edge cases
+     that matter (the null/no-active state at the top of the page, the
+     forced-last-item case at the bottom); Gumshoe itself is a plain
+     scroll+rAF scan, so replicating that algorithm is neither slower nor
+     riskier than approximating it.
+
+     MUST run after the floating-nav IIFE above: this spy's very first
+     detect() (below) runs synchronously, and it dispatches the
+     `gumshoeActivate` that IIFE listens for -- the listener has to already
+     be registered, which it is, having executed earlier in this same
+     script. (The _config.yml comment ordering site.js before
+     main.min.js documented the opposite requirement for the theme's own
+     Gumshoe init; now that Gumshoe is gone, ordering within this single
+     file is what matters instead.) */
+
+  (function () {
+    var navItems = Array.prototype.slice.call(document.querySelectorAll("nav.toc a"));
+    if (!navItems.length) return; // pages without a TOC (home, about)
+
+    // Offset from the top of the viewport at which a heading counts as
+    // "reached". Keep this the same number as `scroll-padding-top` in
+    // site.scss so the heading a reader jumps to is also the one that
+    // lights up on arrival.
+    var OFFSET = 20;
+
+    var items = []; // { nav: <a>, content: <heading> } pairs
+    navItems.forEach(function (a) {
+      if (!a.hash) return;
+      var id;
+      try {
+        id = decodeURIComponent(a.hash.substr(1));
+      } catch (e) {
+        return; // malformed fragment -- skip rather than take the whole spy down
+      }
+      var content = document.getElementById(id);
+      if (content) items.push({ nav: a, content: content });
+    });
+    if (!items.length) return;
+
+    function offsetTop(el) {
+      var y = 0;
+      while (el) {
+        y += el.offsetTop;
+        el = el.offsetParent;
+      }
+      return y >= 0 ? y : 0;
+    }
+
+    // Sort content areas top-to-bottom in the document, same as Gumshoe's
+    // sortContents -- needed because CSS order and DOM order can differ,
+    // and this is re-run on resize (Gumshoe's `reflow: true`).
+    function sortItems() {
+      items.sort(function (a, b) { return offsetTop(a.content) - offsetTop(b.content); });
+    }
+    sortItems();
+
+    function documentHeight() {
+      var body = document.body, doc = document.documentElement;
+      return Math.max(
+        body.scrollHeight, doc.scrollHeight,
+        body.offsetHeight, doc.offsetHeight,
+        body.clientHeight, doc.clientHeight
+      );
+    }
+
+    function isAtBottom() {
+      return window.innerHeight + window.pageYOffset >= documentHeight();
+    }
+
+    // Gumshoe compares with `parseInt(bounds.top, 10)`, not the raw float --
+    // truncation, not rounding. A landing spot from `scroll-padding-top: 20px`
+    // (site.scss) can settle at a sub-pixel value like 20.125, which is
+    // "past OFFSET" once truncated to 20 but NOT by a bare `<= 20` float
+    // comparison -- caught by diffing this exact case (the #next-section
+    // button landing one heading short) against the theme's own Gumshoe,
+    // which truncates and therefore does activate there.
+    function topInView(el) {
+      return parseInt(el.getBoundingClientRect().top, 10) <= OFFSET;
+    }
+
+    function bottomInView(el) {
+      var vh = window.innerHeight || document.documentElement.clientHeight;
+      return parseInt(el.getBoundingClientRect().bottom, 10) < vh;
+    }
+
+    // Gumshoe's getActive: force the last item at the bottom of the page
+    // (so the final section is highlighted even if its heading never
+    // crosses OFFSET, e.g. a short trailing section); otherwise the
+    // deepest (last, document-order) content area whose top has scrolled
+    // up past OFFSET.
+    function getActive() {
+      var last = items[items.length - 1];
+      if (isAtBottom() && bottomInView(last.content)) return last;
+      for (var i = items.length - 1; i >= 0; i--) {
+        if (topInView(items[i].content)) return items[i];
+      }
+      return null; // nothing reached yet (top of page) -- a real state, not a bug:
+                    // activeIndex stays -1 and #next-section's "jump to first
+                    // section" special case (site.js above) depends on it.
+    }
+
+    var current = null;
+
+    function deactivate(item) {
+      if (!item) return;
+      var li = item.nav.closest("li");
+      if (li) li.classList.remove("active");
+      item.content.classList.remove("active"); // Gumshoe's contentClass; nothing
+                                                 // in this repo's CSS currently
+                                                 // keys off it outside .toc, but
+                                                 // the contract includes it
+    }
+
+    function activate(item) {
+      if (!item) return;
+      var li = item.nav.closest("li");
+      if (li) li.classList.add("active");
+      item.content.classList.add("active");
+
+      // Dispatched from the <li>, bubbling, exactly like Gumshoe -- the
+      // floating-nav IIFE above reads e.detail.link and does
+      // tocLinks.indexOf(link), so it must be this exact <a> node from the
+      // real sidebar TOC (not a clone).
+      if (li) {
+        li.dispatchEvent(new CustomEvent("gumshoeActivate", {
+          bubbles: true,
+          cancelable: true,
+          detail: { link: item.nav, content: item.content }
+        }));
+      }
+    }
+
+    function detect() {
+      var active = getActive();
+
+      if (!active) {
+        if (current) { deactivate(current); current = null; }
+        return;
+      }
+      // Fire only on an actual transition, like Gumshoe -- otherwise the
+      // 180ms debounce in the floating-nav IIFE above never sees quiet
+      // during a continuous scroll and the TOC stops re-expanding.
+      if (current && active.content === current.content) return;
+
+      deactivate(current);
+      activate(active);
+      current = active;
+    }
+
+    var scrollTicking = false;
+    window.addEventListener("scroll", function () {
+      if (scrollTicking) return;
+      scrollTicking = true;
+      window.requestAnimationFrame(function () { scrollTicking = false; detect(); });
+    }, { passive: true });
+
+    var resizeTicking = false;
+    window.addEventListener("resize", function () {
+      if (resizeTicking) return;
+      resizeTicking = true;
+      window.requestAnimationFrame(function () {
+        resizeTicking = false;
+        sortItems();
+        detect();
+      });
+    });
+
+    detect(); // synchronous initial detect, mirrors Gumshoe's own init()
+
+    /* --- auto-scroll the sticky sidebar TOC so the active entry stays
+       visible, ported verbatim (Chrome-only gate and all -- the theme's own
+       comment says it "has issues on Firefox") from the theme's _main.js.
+       `e.target` here is the <li> the dispatch above bubbled from, exactly
+       as it was `event.target` on Gumshoe's own dispatch.
+
+       `behavior: "instant"`, not the original's "auto": "auto" defers to
+       the CSS `scroll-behavior` of the scrolling box, and site.scss now
+       sets `html { scroll-behavior: smooth }` (P1-5, replacing the
+       theme's SmoothScroll plugin). Left as "auto" this call would pick up
+       that smooth animation and lag behind the reader's own scrolling --
+       exactly the desync this function exists to prevent. "instant" opts
+       out of CSS scroll-behavior explicitly and reproduces what "auto"
+       actually did before that CSS rule existed. */
+    function scrollTocToContent(e) {
+      var target = e.target;
+      var scrollOptions = { behavior: "instant", block: "nearest", inline: "start" };
+
+      var tocElement = document.querySelector("aside.sidebar__right.sticky");
+      if (!tocElement) return;
+      if (window.getComputedStyle(tocElement).position !== "sticky") return;
+
+      if (target.parentElement.classList.contains("toc__menu") && target === target.parentElement.firstElementChild) {
+        var header = document.querySelector("nav.toc header");
+        if (header) header.scrollIntoView(scrollOptions);
+      } else {
+        target.scrollIntoView(scrollOptions);
+      }
+    }
+
+    if (window.chrome) {
+      document.addEventListener("gumshoeActivate", scrollTocToContent);
+    }
   })();
