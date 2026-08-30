@@ -297,8 +297,8 @@ share: true
 ### <span class="num-roman">VI.</span> Preservation and Memorization
 {: #preservation-and-memorization }
 
-1. **Perfectly preserved for over 1,400 years** through **rigorous mass oral transmission**, accompanied throughout by a written record. Early manuscripts have also been carbon dated.
-    > No other book of comparable age has been preserved through the same combination of mass oral transmission and an early written record. Other ancient works generally survive through textual loss, variant versions, or translations (which are inherently interpretations) that stand between the reader and the original language.
+1. **Perfectly preserved for over 1,400 years** through a **rigorous tradition of memorization and oral transmission**, accompanied throughout by a written record. Early manuscripts have been carbon dated to very close to the time of the Prophet ﷺ.
+    > No other book of comparable age and significance has been preserved through the same combination of mass oral transmission and memorization, and an early written record. Other ancient works generally survive through textual loss, variant versions, or translations (which are inherently interpretations) that stand between the reader and the original language.
     {: .gloss }
 
     {% include yt-embed.html url="https://youtu.be/4l7pbX5J8Lg" title="The Most DIRECT Proof That The Qur'an is From Allah | Arabic101" %}
