@@ -40,6 +40,10 @@ Maybe not:
 
 quran:
 
+- add page for each point
+- mobile todos
+- add videos from candidate playlist to real playlist + add relevant links of them to website
+
 aisha:
 
 - make it bullet points, add bolding
