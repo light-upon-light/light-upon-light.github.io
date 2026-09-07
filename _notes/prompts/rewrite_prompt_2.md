@@ -38,19 +38,14 @@ I will have a page dedicated to islam's treatment of women on the website, so we
 
 Also, if you think there are quranic text quotations or source quotations that are slowing the reading, but still think they're relevant to include, you can include it in a details section like the below for example
 
-    \<details class="quran-more" markdown="1">
+<details class="quran-more" markdown="1">
+<summary>Show another verse on this theme</summary>
 
-    \<summary>Show another verse on this theme\</summary>
-
-    *> "Have you seen the one who denies the ˹final˺ Judgment? That is the one who repulses the orphan and does not encourage the feeding of the poor." (***\*\*Sūrat al-Māʿūn 107:1-3\*\****), Dr. Mustafa Khattab, \*The Clear Quran\**
-
-    *>*
-
-    *> <*div dir*="rtl"* lang*="ar"* class*="quran-arabic">﴿أَرَءَيْتَ ٱلَّذِى يُكَذِّبُ بِٱلدِّينِ ۝١ فَذَٰلِكَ ٱلَّذِى يَدُعُّ ٱلْيَتِيمَ ۝٢ وَلَا يَحُضُّ عَلَىٰ طَعَامِ ٱلْمِسْكِينِ ۝٣﴾ <*span class*="ayah-ref">سُورَةُ المَاعُونِ\</*span*>\</*div*>*
-
-    {: .quote }
-
-    \</details>
+> "Have you seen the one who denies the ˹final˺ Judgment? That is the one who repulses the orphan and does not encourage the feeding of the poor." (**Sūrat al-Māʿūn 107:1-3**), Dr. Mustafa Khattab, *The Clear Quran*
+>
+> <div dir="rtl" lang="ar" class="quran-arabic">﴿أَرَءَيْتَ ٱلَّذِى يُكَذِّبُ بِٱلدِّينِ ۝١ فَذَٰلِكَ ٱلَّذِى يَدُعُّ ٱلْيَتِيمَ ۝٢ وَلَا يَحُضُّ عَلَىٰ طَعَامِ ٱلْمِسْكِينِ ۝٣﴾ <span class="ayah-ref">سُورَةُ المَاعُونِ</span></div>
+{: .quote }
+</details>
 
 ## For bullet point pages
 
