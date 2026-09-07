@@ -442,14 +442,16 @@ The evidence from his life is examined in detail on the **Messenger of God ﷺ**
     {% include yt-embed.html url="https://youtu.be/9gJWIGLJhHM" title="Marvels of the Qur'an | Dr. Ali Ataie" %}
 
     {% include yt-embed.html url="https://youtu.be/_HlpfgaDATU" title="Conquering Doubts & Confidently Defending Islam | Ali Ataie" %}
-- Why believe?
-    {% include yt-embed.html url="https://youtu.be/_HlpfgaDATU" title="Conquering Doubts & Confidently Defending Islam | Ali Ataie" %}
 
+    {% include yt-embed.html url="https://youtu.be/Gm-u0LPOmKw" title="The Qur'an: Its Supernatural Provenance | Dr. Ali Ataie" %}
+- Why believe?
     {% include yt-embed.html url="https://youtu.be/wNrbUwGP5_U" title="Ep 6 Why Islam" %}
 
     {% include yt-embed.html url="https://youtu.be/VjIL0Gio4yA" title="Millenials are returning to God - Here's why | Blogging Theology" %}
 
     {% include yt-embed.html url="https://youtu.be/EQsKDZzd7U8" title="The World's Leading Atheist Admitted: God Exists" %}
+
+    {% include yt-embed.html url="https://youtu.be/_HlpfgaDATU" title="Conquering Doubts & Confidently Defending Islam | Ali Ataie" %}
 
 - Are love and mercy really Islam's central message?
     {% include yt-embed.html url="https://youtu.be/KQFrovc_1G0" title="The Power of Love | Al-Habib Ali Al-Jifri" note="turn on English captions" %}
