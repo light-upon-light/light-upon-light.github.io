@@ -44,6 +44,8 @@ share: true
 
 1. The Qur'an extends to **more than 600 pages** of recited text. The claims below concern a work of that scale.
 1. In **every generation since its revelation**, it has been regarded as the **summit of Arabic eloquence**, by admirers and opponents alike.
+    {% include yt-embed.html url="https://youtu.be/9gJWIGLJhHM" title="Marvels of the Qur'an | Dr. Ali Ataie" %}
+
     {% include yt-embed.html url="https://youtu.be/abzZL_3Av2E" title="Linguistic Miracle of the Qur'an" %}
 
     {% include yt-embed.html url="https://youtu.be/jmNY06nmpL8" title="A Linguistic Marvel in Surah Al-Fatihah | Arabic101" %}
@@ -81,6 +83,8 @@ share: true
     {% include yt-embed.html url="https://youtu.be/9gJWIGLJhHM" title="Marvels of the Qur'an | Dr. Ali Ataie" %}
 
     {% include yt-embed.html url="https://youtu.be/b5Y5gMc_XZo" title="THE RING COMPOSITION! - Remarkable Structure of the Quran" %}
+
+    {% include yt-embed.html url="https://youtu.be/yYY1BGKrr1E" title="The Remarkable Structure of the Qur'an" %}
 
     {% include yt-embed.html url="https://youtu.be/eLaWEciecTc" title="Miracle of Surah Yusuf | Linguistic Miracle - Nouman Ali Khan" %}
 1. Its chapters can be **read in any order** without losing the book's coherence or guidance, unlike an ordinary narrative.
@@ -477,8 +481,15 @@ The evidence from his life is examined in detail on the **Messenger of God ﷺ**
 
     > [Blind Spots: The Origins of the Western Method of Critiquing Hadith \| Dr. Jonathan Brown](https://yaqeeninstitute.org/read/paper/blind-spots-the-origins-of-the-western-method-of-critiquing-hadith)
 
+- Moses, Jesus & Muhammad: three brothers in faith
+    {% include yt-embed.html url="https://youtu.be/vVGiHoPZa0A" title="Similarities in the Abrahamic Tradition | Ustadh Dr. Ali Ataie (Interfaith Dialogue)" %}
+
+    {% include yt-embed.html url="https://youtu.be/_DnP0wxvnH4" title="Moses, Jesus & Muhammad: Three Brothers in Faith | Ustadh Dr. Ali Ataie" %}
+
 - Was Prophet Muhammad ﷺ mentioned in previous religions? (Also discussed on [The Messenger of God ﷺ](/messenger) page.)
     {% include yt-embed.html url="https://youtu.be/OzSyIla5Z-Q" title="The Praised One ﷺ in World Scriptures | Hamza Yusuf" %}
+
+    {% include yt-embed.html url="https://youtu.be/RRlhH3_iedU" title="Muhammad ﷺ the Prophet like Moses" %}
 
     {% include yt-embed.html url="https://youtu.be/EGZ2RibrJtc" title="Jesus Foretold Muhammad ﷺ" %}
 
@@ -487,6 +498,8 @@ The evidence from his life is examined in detail on the **Messenger of God ﷺ**
     {% include yt-embed.html url="https://youtu.be/Z4pm2fSYhCI" title="The Jews of Medina were expecting a Prophet" %}
 
     {% include yt-embed.html url="https://youtu.be/rk1S_Ovt5Ms" title="Muhammad ﷺ in Song of Solomon" %}
+
+    {% include yt-embed.html url="https://youtu.be/4s2UTAtSKd0" title="MUHAMMAD ﷺ AND MADINAH IN THE BIBLE" %}
 
 ## Misconceptions About Islam
 
