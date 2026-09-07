@@ -4,27 +4,16 @@ general:
 
 - manual edits to pages. (restructure args, remove stuff, add stuff from prev commits that got removed by edits, let claude compare with prev versions or other articles and add pieces that could strengthen argument)
 - consider unbolding everything and using it extremely sparingly
+- add summary to each misonception page at the top and make it clearly separate from the intro
 
 ---
 
-quran:
-
-- add page for each point that needs one: literary miracle, numerical, historical info, ring structure etc.
-- expand heavily on the literary miracle section and the summit of arabic eloquence part, and add all the video links, part is massive and is a whole area of research on its own
-
-- miconceptions to add: inheritance, multiple wives
-
 messenger:
 
-- file for ideas
+- reword using same prompt used for quran
 - take the what the possible explanations are section of messenger to top level
-
-aisha:
-
-- make it bullet points, add bolding
-- make style easier to read, add summary
-
-wadribuhunna:
+- split into page for core argument then page for each part of it to go into details, since it's currently way too long
+- ideas in file
 
 women:
 
@@ -47,6 +36,13 @@ sword:
 
 - separation between people and rulers. people weren't touched. ruling system was moved to islamic one.
 - at least 4 cases: pre-emptive attack on impending threat, refusal/killing of message spreading peacefully, people called for help against their rules,
+
+quran:
+
+- add page for each point that needs one: literary miracle, numerical, historical info, ring structure etc.
+- expand heavily on the literary miracle section and the summit of arabic eloquence part, and add all the video links, part is massive and is a whole area of research on its own
+
+- miconceptions to add: inheritance, multiple wives
 
 ---
 
