@@ -14,7 +14,7 @@ Do another pass to remove **meta-framing and argumentative scaffolding**. Avoid 
 
 I will have a page dedicated to islam's treatment of women on the website, so we can have the most effective points in section 5 and then link to that page with [/women]
 
-If you think the quranic text / source quotations are slowing the reading, but still think they're relevant to include, you can include it in a details section like the below for example
+Also, if you think there are quranic text quotations or source quotations that are slowing the reading, but still think they're relevant to include, you can include it in a details section like the below for example
 
     \<details class="quran-more" markdown="1">
 
