@@ -39,17 +39,8 @@ Maybe not:
 
 quran:
 
-- add page for each point
-- mobile todos
-- add videos from candidate playlist to real playlist + add relevant links of them to website
+- add page for each point that needs one: literary miracle, numerical, historical info, ring structure etc.
 - expand heavily on the literary miracle section and the summit of arabic eloquence part, and add all the video links, part is massive and is a whole area of research on its own
-- scientific: gender of bees, weight of clouds, iron, expansion of the universe, embryology, chest constriction going up, ...
-- quran breadth and depth of topics and universal scope
-- expand on powerful flow and sound of the quran
-- verses rich and deep in meaning the more you dig into it the more you get out of it, unending well of wisdom,
-- any fraud would not make that challenge why stake credibility on that ,
-- add all of "in the name of..." and that we are encouraged to say that before starting everything,
-- in the no later propher part add no comparable reach or effect too
 
 - miconceptions to add: inheritance, multiple wives
 
