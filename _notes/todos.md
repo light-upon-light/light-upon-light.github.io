@@ -19,8 +19,7 @@ women:
 
 - wa lel rejal 3alayhenna daraja: one interpretation is that men should give women their full rights without expecting their full right to be given back in return
 - often in the quran, whenever a woman or women are addressed, it begins with the words: "Do not be saddened, do not be anxious, do not grieve, do not feel sorrow."
-- general commentary on fundamental difference in nature
-- general diff roles of masculine vs feminine:a good system of teachings has to have different roles and responsibilities for them, otherwise by definition it would be unfair and non optimal
+- general commentary on fundamental difference in nature of masculine vs feminine:a good system of teachings has to have different roles and responsibilities for them, otherwise by definition it would be unfair and non optimal
 
 ridda:
 
