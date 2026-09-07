@@ -437,6 +437,9 @@ The evidence from his life is examined in detail on the **Messenger of God ﷺ**
 
 ## Common Questions
 
+- Evidence for the truth of Islam
+    {% include yt-embed.html url="https://youtu.be/I7O2WLt2CcM" title="Islam is default Truth - in 33 minutes from start to finish" note="(this is basically a summary of the argument being presented on this page)" %}
+
 - How can the Qur'an be a miracle for non-Arabic speakers?
     {% include yt-embed.html url="https://youtu.be/5fyF-35naDE" title="How can the Qur'an be a Miracle for NON-ARABIC Speakers? | Arabic101" %}
 
@@ -470,7 +473,7 @@ The evidence from his life is examined in detail on the **Messenger of God ﷺ**
 - Are love and mercy really Islam's central message?
     {% include yt-embed.html url="https://youtu.be/KQFrovc_1G0" title="The Power of Love | Al-Habib Ali Al-Jifri" note="turn on English captions" %}
 
-    {% include yt-embed.html url="https://youtu.be/TD3jqd-YWec" title="Love & Faith | Al-Habib Ali Al-Jifri" %}
+    {% include yt-embed.html url="https://youtu.be/TD3jqd-YWec" title="Love & Faith | Al-Habib Ali Al-Jifri" note="turn on English captions" %}
 
 - Is Shari'ah law as cruel as Western media portrays it?
     {% include yt-embed.html url="https://youtu.be/AHOH_t03sIc" title="What the West Needs to Know About the Shari'ah | Blogging Theology" %}
