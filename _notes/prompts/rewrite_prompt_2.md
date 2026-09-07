@@ -2,7 +2,11 @@
 
 The uploaded document is a page in an Islam apologetics website. I fear that it is currently badly written and is not a pleasant, clear and convincing read.
 
-Revise this page for presentation only. Preserve every substantive claim, qualification, and meaning, but make it much shorter, clearer, more natural, and easier to read. Improve wording, sentence and paragraph structure, section order, tone, headings, and formatting; remove repetition and unnecessary explanation. Do not fact-check, add arguments, strengthen/weaken claims, or introduce new content.
+Revise this page for **presentation only**. Preserve every substantive claim, qualification, distinction, and intended meaning, but make the page significantly shorter, clearer, more natural, and easier to follow.
+
+Improve the writing style, word choice, sentence structure, paragraph structure, section order, headings, transitions, tone, and formatting. Remove repetition, redundant explanation, overlong quotations, unnecessary setup, and anything that slows the argument without adding meaning. Consolidate related points where useful so the page feels deliberate rather than repetitive.
+
+Do **not** fact-check, add new arguments, remove unique points, strengthen or weaken the substance, or introduce outside material. The goal is to present the existing argument as clearly, easy-to-read, concisely, and convincingly as possible.
 
 Overall, we want to shorten, restructure, and improve clarity, tone, paragraphing and flow while preserving meanings.
 
