@@ -7,36 +7,6 @@ general:
 
 ---
 
-At some point:
-
-- add a brief bullet point summary to pages at the top
-- make different length versions of pages and let users choose which to display
-
-- create a comprehensive quran page from gpt max too and merge it in
-- review classical islamic literature on the inimitability of the quran and adapt that into the page. Maybe into the page itself or maybe in sections below that tackle specific books or literature, or just an expanded details section. (e.g. إعجاز القرآن والبلاغة النبوية)
-
-- for long pages, maybe make sections collapsed by default?
-
-- add links to good articles at the bottom in further reading
-- add good arguments, points and sources from good links
-
-- better theme (is the current theme the source of all the issues we keep fixing?)
-- web dev / jekyll / GFM / HTML best practice
-- it seems like we've been consistently running into limitations of the minimal mistakes theme whenever we want to implement a feature. So we have to change the theme defaults or implement things ourselves to get what we want. Is this normal? Or is minimal mistakes not a powerful enough Jekyll theme for our purposes? Should we switch to another theme that will make our life easier? Think critically about this and explore the options out there and let me know what possible paths we have
-- (I asked chatgpt to generate a prompt for the above issue. Search chatgpt chat history for context)
-- In the past few commits you've been struggling quite hard to implement a cleanly working dark / light mode toggle. I feel like this must be a done and dusted problem in web dev. So where is the issue? Is it that you aren't searching the internet? Is it the limitation of the stack we're using (Jekyll + minimal mistakes)? Is it something else? Why was it so hard when a standard implementation and reference should exist?
-
-- review all the caveats and things written in claude.md and theme_internals.md, and test them out. are they true? do we still need to keep them?
-- fix [2026-08-06 23:14:20] ERROR '/favicon.ico' not found. error
-- on safari, since you can see the page behind the bar on top and on bottom of browser, when you open toc it only darkens the part not behing them.
-
-Maybe not:
-
-- re turn on search
-- clarify quote usage in site: separate quotes into gold for quran AND hadith and sira direct quotations. The brown one for pure references, The green one for anything that has commentary / prose, and normal quotes for links
-
----
-
 quran:
 
 - add page for each point that needs one: literary miracle, numerical, historical info, ring structure etc.
@@ -77,6 +47,36 @@ sword:
 
 - separation between people and rulers. people weren't touched. ruling system was moved to islamic one.
 - at least 4 cases: pre-emptive attack on impending threat, refusal/killing of message spreading peacefully, people called for help against their rules,
+
+---
+
+At some point:
+
+- add a brief bullet point summary to pages at the top
+- make different length versions of pages and let users choose which to display
+
+- create a comprehensive quran page from gpt max too and merge it in
+- review classical islamic literature on the inimitability of the quran and adapt that into the page. Maybe into the page itself or maybe in sections below that tackle specific books or literature, or just an expanded details section. (e.g. إعجاز القرآن والبلاغة النبوية)
+
+- for long pages, maybe make sections collapsed by default?
+
+- add links to good articles at the bottom in further reading
+- add good arguments, points and sources from good links
+
+- better theme (is the current theme the source of all the issues we keep fixing?)
+- web dev / jekyll / GFM / HTML best practice
+- it seems like we've been consistently running into limitations of the minimal mistakes theme whenever we want to implement a feature. So we have to change the theme defaults or implement things ourselves to get what we want. Is this normal? Or is minimal mistakes not a powerful enough Jekyll theme for our purposes? Should we switch to another theme that will make our life easier? Think critically about this and explore the options out there and let me know what possible paths we have
+- (I asked chatgpt to generate a prompt for the above issue. Search chatgpt chat history for context)
+- In the past few commits you've been struggling quite hard to implement a cleanly working dark / light mode toggle. I feel like this must be a done and dusted problem in web dev. So where is the issue? Is it that you aren't searching the internet? Is it the limitation of the stack we're using (Jekyll + minimal mistakes)? Is it something else? Why was it so hard when a standard implementation and reference should exist?
+
+- review all the caveats and things written in claude.md and theme_internals.md, and test them out. are they true? do we still need to keep them?
+- fix [2026-08-06 23:14:20] ERROR '/favicon.ico' not found. error
+- on safari, since you can see the page behind the bar on top and on bottom of browser, when you open toc it only darkens the part not behing them.
+
+Maybe not:
+
+- re turn on search
+- clarify quote usage in site: separate quotes into gold for quran AND hadith and sira direct quotations. The brown one for pure references, The green one for anything that has commentary / prose, and normal quotes for links
 
 ---
 
