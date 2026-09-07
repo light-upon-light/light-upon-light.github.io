@@ -20,7 +20,7 @@ toc_sticky: true
 share: true
 ---
 
-Critics often cite Qur'an 4:34—especially the verb **waḍribūhunna**—as evidence that Islam permits domestic abuse. But that conclusion depends on isolating one possible sense of one word from the verse's sequence, the Prophet's example, and the limits recognized in Islamic law. Read together, these sources describe a controlled response to serious marital conflict, not permission to inflict harm.
+Critics often cite Qur'an 4:34—especially the verb **waḍribūhunna**—as evidence that Islam permits domestic abuse. That reading isolates one possible sense of the word from the verse's sequence, the Prophet's example, and the limits recognized in Islamic law. The passage describes a controlled response to serious marital conflict, not permission to inflict harm.
 
 ## The verse in question
 
@@ -31,9 +31,9 @@ Critics often cite Qur'an 4:34—especially the verb **waḍribūhunna**—as ev
 
 The key Arabic verb, **ḍaraba**, can mean *to strike*, but it also has other meanings, including *to travel, separate, set forth,* and *distance*. Early scholars—including al-Tabari—recognized that the wording allowed more than one reading, and several interpreted **waḍribūhunna** as *“separate from them”* or *“part ways.”*
 
-Other scholars understood the word physically. Even on that reading, however, jurists did not treat it as an unrestricted permission to strike or harm a wife; they imposed strict limits on what the verse could permit.
+Other scholars understood the word physically. Even on that reading, jurists did not treat it as unrestricted permission to strike or harm a wife; they imposed strict limits on what the verse could permit.
 
-Ibn Ashur (d. 1973), for example, understood the verse as a form of deterrence rather than permission to cause harm and held that modern circumstances call for separation. The existence of these interpretations matters: **waḍribūhunna does not have the single, obvious meaning of abusive violence sometimes attributed to it.**
+Ibn Ashur (d. 1973), for example, understood the verse as a form of deterrence rather than permission to cause harm and held that modern circumstances call for separation. **Waḍribūhunna therefore does not have the single, obvious meaning of abusive violence sometimes attributed to it.**
 
 ## 2. A graduated response to marital conflict
 
@@ -43,9 +43,9 @@ Qur'an 4:34 presents a **three-stage sequence** for dealing with serious marital
 2. **Wahjurūhunna fī'l-maḍājiʿ [withdraw from them in bed]** — withdraw from the marital bed, expressing disapproval without hostility.
 3. **Waḍribūhunna** — understood either as separation or, on the physical reading, as a strictly non-harmful symbolic act.
 
-The sequence therefore moves from counsel to withdrawal and then to separation or a harmless symbolic act. Its direction is toward **containing and resolving conflict, not escalating it into injury**.
+The sequence moves from counsel to withdrawal and then to separation or a harmless symbolic act, **containing and resolving conflict rather than escalating it into injury**.
 
-The following verse continues this process by calling for arbitration when the marriage remains in serious conflict:
+The following verse calls for arbitration when the marriage remains in serious conflict:
 
 > “Appoint an arbiter from his people and an arbiter from hers.” (**Qur'an 4:35**)
 >
@@ -54,11 +54,11 @@ The following verse continues this process by calling for arbitration when the m
 
 ## 3. The Prophet's example and the limits of the physical reading
 
-The Qur'an presents the Prophet as an **“excellent example”** for believers (Qur'an 33:21), making his own conduct directly relevant to how this verse is understood.
+The Qur'an presents the Prophet as an **“excellent example”** for believers (Qur'an 33:21).
 
 An authentic report states that the Prophet **“never struck anything with his hand, neither a woman nor a servant”** (Sahih Muslim). He also taught that the best men are those who are best to their wives, repeatedly instructed men to treat women well, and condemned husbands whose wives complained of being beaten.
 
-That Prophetic example is consistent with the restrictions imposed by classical jurists who accepted a physical meaning of **ḍaraba**. They held that the act:
+Classical jurists who accepted a physical meaning of **ḍaraba** imposed strict restrictions. They held that the act:
 
 - had to be symbolic and cause no harm;
 - could not cause pain or leave a mark;
@@ -69,7 +69,7 @@ Many also regarded it as **makrūh [morally repugnant, though technically allowe
 
 Islamic law further recognizes **ḍarar [harm]** as grounds for divorce or judicial separation. A husband who harms his wife is answerable before God and the courts.
 
-Even the physical interpretation, therefore, does not amount to permission for domestic abuse. An abuser who cites the verse as a blanket justification for violence is invoking it contrary to the Prophetic example and the restrictions placed on that reading.
+On the physical interpretation, the verse still does not permit domestic abuse. Using it as a blanket justification for violence contradicts the Prophetic example and the restrictions placed on that reading.
 
 <details class="quran-more" markdown="1">
 
@@ -142,7 +142,7 @@ And it describes marriage in terms of tranquility, love, and mercy:
 > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَمِنْ ءَايَـٰتِهِۦٓ أَنْ خَلَقَ لَكُم مِّنْ أَنفُسِكُمْ أَزْوَٰجًا لِّتَسْكُنُوٓا۟ إِلَيْهَا وَجَعَلَ بَيْنَكُم مَّوَدَّةً وَرَحْمَةً﴾ <span class="ayah-ref">[سُورَةُ الرُّومِ: ٢١]</span></div>
 {: .quote }
 
-These passages do not replace the linguistic and contextual analysis of 4:34; they provide the wider ethical framework within which it is read. The Qur'an repeatedly emphasizes mercy and condemns **ẓulm [oppression]**. An interpretation that turns 4:34 into permission for cruelty or abuse conflicts with that framework.
+The Qur'an repeatedly commands kindness in marriage, forbids harm, emphasizes mercy, and condemns **ẓulm [oppression]**. An interpretation that turns 4:34 into permission for cruelty or abuse conflicts with those teachings.
 
 For a fuller discussion of Islam's teachings concerning women, see **[Islam and Women](/women)**.
 
@@ -188,9 +188,9 @@ And God says:
 
 ## Conclusion
 
-The claim that Qur'an 4:34 authorizes domestic abuse depends on isolating **waḍribūhunna** from the rest of the verse and then treating its physical interpretation as unrestricted. The word has been understood in more than one way; the verse places it within a graduated process for serious marital conflict; the Prophet never struck a woman; and jurists who accepted a physical reading expressly excluded harm.
+Qur'an 4:34 does not authorize domestic abuse. **Waḍribūhunna** has been understood in more than one way; the verse places it within a graduated process for serious marital conflict; the Prophet never struck a woman; and jurists who accepted a physical reading expressly excluded harm.
 
-Read alongside the Qur'an's commands of kindness and prohibition of harm, **the verse concerns the restrained handling of serious marital discord—not permission to abuse a wife.**
+The Qur'an's commands of kindness and prohibition of harm reinforce the same conclusion: **the verse concerns the restrained handling of serious marital discord—not permission to abuse a wife.**
 
 ---
 
