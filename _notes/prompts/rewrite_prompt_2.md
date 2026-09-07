@@ -51,3 +51,16 @@ Also, if you think there are quranic text quotations or source quotations that a
     {: .quote }
 
     \</details>
+
+## For bullet point pages
+
+The uploaded document is a page in an Islam apologetics website. I fear that some points in it are currently badly written and are not a pleasant, clear and convincing read.
+
+Revise this page for **presentation only**. Preserve every substantive claim, qualification, distinction, and intended meaning, but make the page significantly clearer, more natural, and easier to follow.
+
+Improve the writing style, word choice, sentence structure, paragraph structure, tone, and formatting.
+Do **not** fact-check, add new arguments, remove unique points, strengthen or weaken the substance, or introduce outside material. The goal is to present the existing argument as clearly, easy-to-read, concisely, and convincingly as possible.
+
+Overall, we want to improve clarity, tone, paragraphing and flow while preserving meanings.
+
+Please create a plan first, show it to me, then implement it after I give you the go.
