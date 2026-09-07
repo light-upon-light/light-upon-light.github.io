@@ -501,6 +501,8 @@ The evidence from his life is examined in detail on the **Messenger of God ﷺ**
 
     {% include yt-embed.html url="https://youtu.be/4s2UTAtSKd0" title="MUHAMMAD ﷺ AND MADINAH IN THE BIBLE" %}
 
+    {% include yt-embed.html url="https://youtu.be/ReKh8akX32w" title="Muhammad ﷺ and the Companions in the Bible" %}
+
 ## Misconceptions About Islam
 
 > Some Islamic teachings, verses, and historical events are often quoted without context or presented inaccurately. The pages below examine common claims using the relevant historical, linguistic, and scholarly evidence, while also considering the Qur'an, the teachings of Prophet Muhammad ﷺ, and Islam's broader moral framework.
