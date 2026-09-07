@@ -55,7 +55,9 @@ share: true
 1. It belongs to **neither poetry nor prose**, but to a **unique form of its own** that combines rhythmic beauty with precision of meaning.
 1. It maintains the same **literary quality across all 23 years** of revelation, unlike human authors, whose style normally changes over the course of a career.
 1. It became the **reference text for Arabic grammar itself**. When grammarians recorded the rules of the language, they treated the Qur'an as a standard of correct Arabic because it contains **no linguistic errors**. Fourteen centuries of scrutiny have **turned up no error in it**.
-1. The same words carry **multiple layers of meaning**. The **exoteric** sense is the apparent meaning; beneath it are several **esoteric** layers that scholars have continued to examine for fourteen centuries without exhausting them.
+1. The same words carry **multiple layers of meaning**. There is the apparent meaning, and beneath it are several layers of hidden meanings that scholars have unearthed through meticulous contemplation and cross-examination.
+    > Its verses are remarkably **dense with meaning**: a short passage can yield further linguistic, legal, theological, spiritual, and rhetorical insights the more closely it is studied. Generations of scholarship have drawn from the same verses without exhausting them.
+    {: .gloss }
 1. **Ring structure:** intricate **symmetrical patterns** (chiastic structures) appear within individual verses, complete chapters, and groups of chapters.
     > Producing such symmetrical patterns across an entire book would be difficult even with a complete manuscript and the freedom to revise. The Qur'an, however, was delivered in separate portions, out of order, with each passage fixed when first recited.
     {: .gloss }
@@ -89,7 +91,7 @@ share: true
 
     {% include yt-embed.html url="https://youtu.be/_HlpfgaDATU" title="Conquering Doubts & Confidently Defending Islam | Ali Ataie" note="The whole of this video is great" %}
 
-1. Its recitation **flows naturally** and is **beautifully melodic**, with a **profound effect on the heart**. Even without understanding the words, people who do not know Arabic often weep while listening to it or describe being overcome by a surreal sense of peace and tranquility.
+1. Its recitation has an unusually **powerful flow and sound**. Rhythm, cadence, rhyme, pauses, emphasis, and changes in sentence length reinforce the meaning without sacrificing precision; the Qur'an can move from warning to tenderness, narrative to law, or vast cosmic imagery to intimate address while remaining cohesive and compelling. Even without understanding the words, people who do not know Arabic often weep while listening to it or describe being overcome by a profound sense of peace and tranquility.
     > "The inimitability of the Qur'an has yet another dimension, one which people tend to overlook, and is unrecognized except by a sparse few—namely what it generates in the hearts and impresses onto the souls. Aside from the Qur'an, you do not hear of any discourse, neither poetry nor prose, that upon reaching one's ears provides such immediate pleasure and sweetness, and at other times such awe and intimidation, like the Qur'an does." Muḥammad Khalaf Allāh Aḥmad (ed.), Muḥammad Zaghlūl Sallām (ed.), and Issa J. Boullata (trans.), *Three Treatises on the I'jāz of the Qur'ān* (Reading, UK: Garnet Publishing, 2014),
     {: .src }
 
@@ -129,13 +131,16 @@ share: true
     > "Like it" here is not an arbitrary standard. A rival chapter should match the Qur'an's eloquence, structure, meaning, guidance, and effect on people's hearts **together**, rather than merely imitating one feature. Attempts were made, most famously those attributed to Musaylima, but classical Arabic sources treated them as parody, and later critics have not presented them as serious equals. The first audience was both the most qualified to judge the challenge and strongly motivated to reject the Qur'an.
     {: .gloss }
 
+    > A fabricator could have protected his credibility with vague, unfalsifiable claims. Instead, the Qur'an repeatedly places its claim in the open: **meet this challenge**, find a contradiction, or watch whether its stated future outcomes occur. Why deliberately create clear points of failure—some extending beyond the Prophet's ﷺ own lifetime—if the aim were merely to sustain a fraud?
+    {: .gloss }
+
 ### <span class="num-roman">IV.</span> Guidance, Law, and Morality
 {: #guidance-law-and-morality }
 
 1. It presents itself as coming from the **same Divine Author** as the earlier scriptures. It **confirms** their original teaching, **expands** their guidance, and **restores** what was altered over time.
     > Note: "Allah" means **God in Arabic**; it is not the name of a distinct or separate deity. **Arab Christians and Jews** use the same word for God in their own scriptures and worship. It also shares a root with the Hebrew *Elohim* and Aramaic *Alaha*, which Jesus himself would have used.
     {: .gloss }
-1. It names **mercy** as God's defining attribute. **Every chapter but one opens** by calling Him "the Most Compassionate, the Most Merciful", and the text sets **no limit** on that mercy.
+1. It names **mercy** as God's defining attribute. **Every chapter but one opens** with the invocation, **"In the name of God, the Most Compassionate, the Most Merciful."** Muslims are taught to say these words before beginning their actions, so mercy frames not only the Qur'an but the rhythm of everyday life.
     > "My mercy encompasses all things." (**Sūrat al-Aʿrāf 7:156**), Saheeh International
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَرَحْمَتِى وَسِعَتْ كُلَّ شَىْءٍ﴾ <span class="ayah-ref">[سُورَةُ الأَعۡرَافِ: ١٥٦]</span></div>
@@ -258,6 +263,7 @@ share: true
     {: .quote }
     </details>
 1. It provides a complete **moral and legal framework** that holds **justice and mercy** in balance and guided a **flourishing civilization** for centuries.
+1. Its **breadth of subject and universal scope** are remarkable: theology, worship, ethics, law, family life, economics, social justice, war and peace, history, human character, nature, and the afterlife are woven into a single worldview. It addresses the **individual, family, society, and humanity as a whole**, rather than one tribe, class, place, or era.
 1. Its **guidance and the lessons in its stories remain directly applicable**: what it addressed to seventh-century Arabs still addresses readers today.
 1. These points offer only a glimpse of the Qur'an's guidance. The [Messenger of God](/messenger) page gives more comprehensive examples of the moral teachings of the Qur'an and Prophet Muhammad ﷺ.
 
@@ -265,6 +271,8 @@ share: true
 {: #knowledge-historical-scientific-and-linguistic }
 
 1. It describes **features of the natural world** that were not established until centuries later, in some cases only after instruments made them observable.
+    > To name a few examples often discussed: the Qur'an uses **feminine grammatical forms for the worker honeybees**, describes **rain-bearing clouds as heavy**, and gives a striking **stage-by-stage description of embryonic development**.
+    {: .gloss }
     > These claims should be assessed individually. Strong examples depend on a verse making a specific statement that later evidence confirms; vague wording stretched to fit a modern discovery does not contribute to the argument.
     {: .gloss }
 
@@ -325,7 +333,7 @@ share: true
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿مَّا كَانَ مُحَمَّدٌ أَبَآ أَحَدٍ مِّن رِّجَالِكُمْ وَلَـٰكِن رَّسُولَ ٱللَّهِ وَخَاتَمَ ٱلنَّبِيِّـۧنَ ۗ وَكَانَ ٱللَّهُ بِكُلِّ شَىْءٍ عَلِيمًا ۝٤٠﴾ <span class="ayah-ref">سُورَةُ الأَحۡزَابِ</span></div>
     {: .quote }
 
-    > Later centuries have produced several large religious movements, but none rests on a remotely similar combination of claims and evidence: a text presented as God's own speech, regarded as unmatched in its language, preserved and memorized at scale, and delivered by a man whose life was recorded by followers and opponents alike. Any later claimant would have to present a comparable case.
+    > Later centuries have produced several large religious movements, but none rests on a similar combination of claims and evidence: including the claim of a miracle that rivals the Qura'n or the unmatched character and teachings of prophet Muhammad ﷺ, nor has any later prophetic claimant achieved a comparable reach or historical effect.
     {: .gloss }
 1. It **prophesies its own future spread** while its followers were still a persecuted minority in a single city in the desert of Arabia.
     > "He is the One Who has sent His Messenger with ˹right˺ guidance and the religion of truth, making it prevail over all others. And sufficient is Allah as a Witness." (**Sūrat al-Fatḥ 48:28**), Dr. Mustafa Khattab, *The Clear Quran*
