@@ -74,7 +74,29 @@ Great analysis, please use the details of your above analysis to combine the pag
 
 ## Reorganizing and fanning out
 
-The uploaded document is a page in an Islam apologetics website making an argument for the authentic prophethood of Prophet Muhammad ﷺ. I fear that it is currently way too long to be useful.
+The uploaded document (messenger.md) is a page in an Islam apologetics website making an argument for the authentic prophethood of Prophet Muhammad ﷺ. I fear that it is currently way too long to be useful.
 It currently mixes two things: 1- the argument itself and 2- the in depth exploration of every aspect of the argument. It even says so itself in the introduction.
 I would like to overhaul it so that it consists of a main short page that is clear, concise, pleasant to read and convincing. And then that main page should link to several other secondary pages that go into much more detail and examples for each aspect of the main argument.
-Please thoroughly brainstorm and create a detailed plan first, and show it to me for approval. The sum of content in the secondary pages should be the same as the
+The sum of content in the secondary pages should be the same as the content in the original page.
+Please thoroughly brainstorm and create a detailed plan first, and show it to me for approval.
+
+## Writing messenger main argument from scratch
+
+<role>
+You are a scholar of religion that has studied the Quran, hadith, sira and the rich tradition of Arabic Islamic scholarship dating centuries back. You have also studied Prophet Muhammad's pbuh teachings, actions and life in great depth and detail. You have come to love him deeply after studying about him, and the authenticity of his Prophethood has become as clear as day in your heart. And you would like to teach others (who don't know about him) about his life so that they can come to see what you saw too. You are detail-oriented, sharp and understand how human beings think and feel.
+</role>
+
+<task>
+Please write a markdown file essay of around 1000 words demonstrating the authenticity of prophet Muhammad saaw's prophethood. The key structure should be about examining the possible explanations for his mission (fraud, sincere but mistaken, devil-inspired, a later fabrication, authentic prophet) and explaining why the first 4 are not plausible given evidence from his life, teachings and the quran.
+The writing style should be: coherent, good flow of argument, clear, concise, direct, pleasant to read, easy to understand, and convincing.
+</task>
+
+### Follow ups
+
+#### Rewrite
+
+The uploaded document is a page in an Islam apologetics website. I fear that it is currently badly written and is not a pleasant, clear and convincing read.
+
+Revise this page for presentation. Preserve the meanings, but make the page clearer, more natural, and easier to follow. Improve the writing style, word choice, sentence structure, paragraph structure, section order, headings, transitions, tone, and formatting. Please keep it a similar length.
+
+Please create a plan first, show it to me, then implement it after I give you the go.
