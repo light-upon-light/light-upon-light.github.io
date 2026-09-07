@@ -20,7 +20,7 @@ toc_sticky: true
 share: true
 ---
 
-Critics often cite *Sūrat al-Nisāʾ* 4:34—and especially the word *waḍribūhunna*—as evidence that Islam permits domestic abuse. But that conclusion does not follow when the verse's language, context, Prophetic interpretation, and treatment in Islamic law are considered together. The passage presents a restrained process for dealing with serious marital conflict, not a license to inflict harm.
+Critics often cite *Sūrat al-Nisāʾ* 4:34—and especially the word *waḍribūhunna*—as evidence that Islam permits domestic abuse. The verse concerns a restrained process for dealing with serious marital conflict; its language, context, Prophetic interpretation, and treatment in Islamic law do not authorize domestic abuse.
 
 ## The verse in question
 
@@ -31,7 +31,7 @@ Critics often cite *Sūrat al-Nisāʾ* 4:34—and especially the word *waḍrib�
 
 The Arabic verb *ḍaraba* has a broad range of meanings. It can mean *to strike*, but also *to travel, separate, set forth,* or *distance*. Early scholars, including al-Tabari, recognized that the word allowed more than one reading, and several interpreted *waḍribūhunna* as meaning *“separate from them”* or *“part ways.”*
 
-Scholars who understood the word physically did not treat it as permission to cause harm. Their restrictions are discussed below.
+Jurists who understood the word physically still excluded harm.
 
 ## 2. The verse describes a sequence
 
@@ -57,9 +57,7 @@ An authentic report states:
 > “The Messenger of God never struck anything with his hand, neither a woman nor a servant…” (Sahih Muslim).
 {: .quote }
 
-The Prophet ﷺ therefore provides the practical interpretation of the verse. He never treated it as permission to harm a wife, and his own conduct consistently rejected such behavior.
-
-He also explicitly condemned men whose wives complained of being beaten:
+He never struck a woman or servant, and he explicitly condemned men whose wives complained of being beaten:
 
 > “Many women have come to the family of Muhammad complaining about their husbands; those men are not the best among you.” (Abu Dawud, Ibn Majah).
 {: .quote }
@@ -72,11 +70,11 @@ Islamic law also recognizes abuse or harm (*ḍarar*) as grounds for divorce. A 
 
 The legal maxim *“no harm and no reciprocating harm”* treats abuse as unlawful in itself. Harm, abandonment, or cruelty can justify *tafrīq* (court-ordered separation) or *khulʿ*, and an aggressor may also face damages or discipline. Conditions placed in a marriage contract can likewise protect rights and permit dissolution when those conditions are breached.
 
-An abuser who cites Qur'an 4:34 is therefore misusing it, just as laws and scriptures have been misused in other traditions to excuse wrongdoing.
+Citing Qur'an 4:34 to excuse abuse is a misuse of the verse; laws and scriptures in other traditions have likewise been misused to excuse wrongdoing.
 
 ## 5. The wider teaching on marriage and women
 
-Qur'an 4:34 does not stand alone. The Qur'an repeatedly frames marriage through kindness, protection from harm, mercy, and reconciliation.
+Elsewhere, the Qur'an frames marriage through kindness, protection from harm, mercy, and reconciliation.
 
 It commands:
 
@@ -101,7 +99,7 @@ And it describes marriage in terms of tranquility, love, and mercy:
 
 The Prophet ﷺ likewise said, *“The best of you are those who are best to their wives, and I am the best among you to my wives”* (Tirmidhi), and repeatedly instructed Muslims to treat women well.
 
-Together, these teachings present marriage in terms of kindness, mercy, solemn commitment, and protection from harm—not abuse.
+These teachings frame marriage through kindness, mercy, solemn commitment, and protection from harm—not abuse.
 
 For a broader treatment of women in the Qur'an, Sunnah, and Islamic law, see [Islam and Women](/women).
 
@@ -181,13 +179,13 @@ The Prophet ﷺ repeatedly gave explicit instructions concerning women:
 
 - *“O God, I strongly enjoin the rights of the two vulnerable ones: the woman and the orphan.”* (Ahmad, Ibn Majah; graded *ḥasan* by some).
 
-His conduct reflected these teachings. He never struck a woman or servant (Sahih Muslim), served his family, mended clothes, and did housework (Bukhari and others). In conflict, he reconciled, advised, or withdrew with dignity rather than causing harm or humiliation.
+He never struck a woman or servant (Sahih Muslim), served his family, mended clothes, and did housework (Bukhari and others). In conflict, he reconciled, advised, or withdrew with dignity rather than causing harm or humiliation.
 
 </details>
 
-The same moral framework extends beyond marriage. Mercy and compassion are recurring Qur'anic themes. Every chapter of the Qur'an except one begins by invoking God as the Most Merciful and Most Compassionate; the Prophet's mission is described as *“a mercy to the worlds”* (**Sūrat al-Anbiyāʾ 21:107**); God's mercy is said to encompass all things (**Sūrat al-Aʿrāf 7:156**); and love is associated with trust in God and doing good (**Sūrat Āl ʿImrān 3:159; Sūrat al-Baqarah 2:195**).
+Mercy and compassion recur throughout the Qur'an. Every chapter except one begins by invoking God as the Most Merciful and Most Compassionate; the Prophet's mission is described as *“a mercy to the worlds”* (**Sūrat al-Anbiyāʾ 21:107**); God's mercy is said to encompass all things (**Sūrat al-Aʿrāf 7:156**); and love is associated with trust in God and doing good (**Sūrat Āl ʿImrān 3:159; Sūrat al-Baqarah 2:195**).
 
-Abuse is *ẓulm* (oppression), which the Qur'an and Sunnah repeatedly condemn as a grave sin. Mercy and love therefore set limits within which 4:34 can be understood. An interpretation permitting cruelty, abuse, or oppression conflicts with those principles.
+Abuse is *ẓulm* (oppression), which the Qur'an and Sunnah repeatedly condemn as a grave sin. Reading Qur'an 4:34 as permitting cruelty, abuse, or oppression conflicts with those principles.
 
 <details class="quran-more" markdown="1">
 
@@ -223,13 +221,13 @@ Abuse is *ẓulm* (oppression), which the Qur'an and Sunnah repeatedly condemn a
 
 Ibn Ashur (d. 1973) understood the verse as a form of deterrence rather than permission to cause harm, and held that modern circumstances call for separation.
 
-The existence of such differing interpretations reinforces the broader point: the verse does not have the single, obvious meaning often attributed to it.
+The verse has more than the single, obvious meaning often attributed to it.
 
 ## Conclusion
 
-The claim that Qur'an 4:34 authorizes domestic abuse depends on reading one word in isolation. *Ḍaraba* allows more than one meaning; the verse itself presents a controlled sequence for addressing serious marital discord; and even jurists who accepted a physical reading prohibited harm.
+*Ḍaraba* allows more than one meaning. Qur'an 4:34 presents a controlled sequence for addressing serious marital discord, and even jurists who accepted a physical reading prohibited harm.
 
-The Prophet ﷺ never struck his wives and condemned men who mistreated theirs. The Qur'an's wider teachings require kindness, forbid using marriage to cause harm, and describe marriage through love and mercy. Islamic law also provides remedies for women who are harmed.
+The Prophet ﷺ never struck his wives and condemned men who mistreated theirs. The Qur'an requires kindness, forbids using marriage to cause harm, and describes marriage through love and mercy. Islamic law also provides remedies for women who are harmed.
 
 **Qur'an 4:34 concerns the restrained handling of serious marital conflict, not permission to abuse.**
 
