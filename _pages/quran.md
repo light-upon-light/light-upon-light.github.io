@@ -472,8 +472,6 @@ The **section about the Prophet Muhammad** ﷺ has moved to its own **page linke
 - The jizya, the tax non-Muslims paid under Muslim rule
     > [The Jizya: What Non-Muslims Paid, and What For](/jizya)
 
-    > [The Jizya: What Non-Muslims Paid, and What For - prose version](/jizya_prose)
-
 - Pages coming soon: Islam's treatment of women, The claim that Islam was spread by the sword, Why Islam permits a man more than one wife, The death penalty for apostasy, The severe hudud punishments — amputation, stoning, flogging
 
 <!-- - Islam's treatment of women
