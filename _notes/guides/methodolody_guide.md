@@ -59,7 +59,6 @@ When giving examples of actions of muslims or rulers, make it clear how close th
 When responding to a common criticism or misrepresentation, follow this sequence where appropriate:
 
 - State the criticism accurately in recognizable form.
-- Present its strongest reasonable form.
 - Identify the assumptions on which it depends.
 - Establish the relevant Islamic teaching, text, or historical facts.
 - Distinguish facts from interpretations and moral judgments.
