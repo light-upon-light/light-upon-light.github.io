@@ -381,9 +381,9 @@ share: true
 
 ## The Messenger of God ﷺ
 
-Everything described above was recited by **one man** who could **neither read nor write**, over twenty-three years in seventh-century Arabia. The **Qur'an cannot be separated from the life of the man who delivered it**, and that life is **documented in unusual detail** by his followers, family, servants, and enemies. When his life, teachings, character, sacrifices, and actions are examined as a whole, the evidence overwhelmingly points to one conclusion: **Prophet Muhammad** ﷺ was what he claimed to be—**a true prophet of God**.
+Everything described above was recited by **one man** who could **neither read nor write**, over twenty-three years in seventh-century Arabia. The Qur'an and the man who delivered it cannot be considered in isolation from one another. Prophet Muhammad's ﷺ character, teachings, sacrifices, and conduct are therefore part of the same case: the marvels of the Qur'an came through a man whose own life and message were themselves extraordinary, and whose life is documented in unusual detail by his followers, family, servants, and enemies.
 
-The material on **Prophet Muhammad** ﷺ has moved to its own **page linked below**. The two pages are tightly connected: after all, it is **through him that God sent us** the **enduring miracle** of the **Qur'an**. The argument on that page is also **cumulative**; no single point is presented as proof of prophethood by itself. Taken together, and alongside the evidence for the miraculous nature of the Qur'an, the points present a compelling case for the authenticity of his prophethood.
+Taken together, the **Qur'an's remarkable qualities** and the Prophet's ﷺ **impeccable character, life, and teachings** overwhelmingly point in the same direction: that **Prophet Muhammad** ﷺ was what he claimed to be—a **true prophet of God**. The evidence from his life is examined in detail on the **Messenger of God ﷺ** page. Like the case presented here, it is cumulative: no single point is meant to stand alone, but the Qur'an and the Messenger, considered together, form one inseparable and compelling case for his prophethood.
 > The page is lengthy; the navigation buttons and table of contents can make it easier to read through.
 {: .gloss }
 
