@@ -437,9 +437,6 @@ The evidence from his life is examined in detail on the **Messenger of God ﷺ**
 
 ## Common Questions
 
-- Evidence for the truth of Islam
-    {% include yt-embed.html url="https://youtu.be/I7O2WLt2CcM" title="Islam is default Truth - in 33 minutes from start to finish" note="(this is basically a summary of the argument being presented on this page)" %}
-
 - How can the Qur'an be a miracle for non-Arabic speakers?
     {% include yt-embed.html url="https://youtu.be/5fyF-35naDE" title="How can the Qur'an be a Miracle for NON-ARABIC Speakers? | Arabic101" %}
 
@@ -469,6 +466,9 @@ The evidence from his life is examined in detail on the **Messenger of God ﷺ**
     {% include yt-embed.html url="https://youtu.be/If3cNUixEBM" title="Does God Exist? Dr Ali Ataie responds to the New Atheism" %}
 
     {% include yt-embed.html url="https://youtu.be/5pmencwHCKk" title="Rational evidence for God's existence" %}
+
+- Evidence for the truth of Islam
+    {% include yt-embed.html url="https://youtu.be/I7O2WLt2CcM" title="Islam is default Truth - in 33 minutes from start to finish" note="(this is basically a summary of the argument being presented on this page)" %}
 
 - Are love and mercy really Islam's central message?
     {% include yt-embed.html url="https://youtu.be/KQFrovc_1G0" title="The Power of Love | Al-Habib Ali Al-Jifri" note="turn on English captions" %}
