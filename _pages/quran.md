@@ -412,17 +412,59 @@ share: true
 
 Everything described above was recited by **one man** who could **neither read nor write**, over the course of twenty-three years in seventh-century Arabia. But the Qur’an cannot be separated from the man who delivered it.
 
-Prophet Muhammad ﷺ's life presents a remarkable case of its own. The man through whom the Qur’an came was known for his integrity, endured years of persecution and sacrifice for his message, lived according to what he preached, and left behind teachings and an example that transformed Arabia and shaped the lives of generations after him. His life was also preserved in extraordinary detail and rigor through reports from his family, companions, servants, followers, and even opponents.
-
 The two lines of evidence therefore reinforce one another. The **extraordinary qualities of the Qur’an** came through a man whose **character, life, and message were themselves extraordinary**. Taken together, they point overwhelmingly toward the same conclusion: that **Prophet Muhammad ﷺ was what he claimed to be—a true prophet of God**.
 
-The evidence from his life is examined in detail on the **Messenger of God ﷺ** page. Like the case for the Qur’an, it is cumulative. No single point is intended to stand alone; rather, the Qur’an and the Messenger who brought it form one connected and compelling case for his prophethood.
-> The page is lengthy; the navigation buttons and table of contents can make it easier to read through.
-{: .gloss }
+His life presents a remarkable case of its own. The man through whom the Qur’an came was known for his integrity, endured years of persecution and sacrifice for his message, lived according to what he preached, and left behind teachings and an example that transformed Arabia and shaped the lives of generations after him. His life was also preserved in extraordinary detail and rigor through reports from his family, companions, servants, followers, and even opponents.
 
-<!-- It follows him from a reputation for honesty built over forty years before he made any claim, through the persecution and personal loss the message cost him, and the Qur'an's own treatment of him: correcting him publicly, disclosing his private fears, and stripping him of the supernatural persona a fabricator would have wanted. It then examines his conduct once he held total power over Arabia — the limits he placed on his own veneration and authority, justice enforced even against his own family and interest, and a household that didn't leave much worldly belongings behind. It documents mercy applied consistently to slaves, orphans, animals, women, children, and enemies alike; what he taught about ordinary life and how he taught it; the private testimony of those who knew him best; the transformation of the society he left behind; and the discipline by which his record was preserved and tested. It closes with predictions recorded before their fulfilment, recognition from outside Islam, and why the ordinary alternative explanations — impostor, sincere but deluded, legend, or satanically inspired — fail to account for the record as a whole. -->
+### Was Muhammad ﷺ Truly a Prophet?
 
-<div class="quran-return"><a href="/messenger">Read the full page: <strong>The Messenger Muhammad ﷺ: Evidence for Prophethood</strong> <span class="quran-return__arrow" aria-hidden="true">&#8594;</span></a></div>
+Broadly speaking, there are five possible explanations for Prophet Muhammad ﷺ's life: He was either a conscious fraud, sincerely mistaken, inspired by an evil source, turned into a prophet by later legend, or he was what he claimed to be: a messenger of God. His life, message, and the historical record make the first four explanations increasingly difficult to sustain.
+
+### <span class="num-roman">I.</span> The Fraud Hypothesis
+
+Fraud usually serves some gain: wealth, status, comfort, power, or admiration. Muhammad's mission brought him years of ridicule, isolation, persecution, and danger. He continued preaching when compromise would have been easier.
+
+The Qur'an also preserves public corrections of him. It rebukes him for turning away from a blind man while speaking to Meccan leaders (Qur'an 80:1–10) and questions his decision to permit some men to stay behind from an expedition (9:43). A religious impostor controlling his own scripture would have little reason to preserve revelations that diminish his image before his followers.
+
+Success did not turn him into a king. Early reports describe a simple household, periods of scarcity, and a life far removed from luxury. His conduct does not resemble a man who invented revelation to enrich or glorify himself.
+
+### <span class="num-roman">II.</span> Sincere, but Mistaken
+
+A sincere delusion can produce conviction, but Muhammad's case involved more than conviction.
+
+For twenty-three years, the Qur'an addressed theology, ethics, law, worship, family life, war and peace, earlier prophets, personal crises, and changing political circumstances while maintaining a stable religious core: worship God alone, live morally, prepare for judgment, defend the weak, repent, forgive, give charity, and resist pride.
+
+Muhammad also showed sustained practical judgment. He negotiated treaties, resolved disputes, led a community, delegated authority, altered strategy when circumstances changed, and distinguished personal opinion from revelation. The message repeatedly imposed difficult duties on him, corrected him, and constrained his own preferences.
+
+A supposed delusion that remained coherent across decades, accompanied effective leadership, and repeatedly disciplined the person experiencing it is possible in principle, but poorly fits the evidence.
+
+### <span class="num-roman">III.</span> Devil-Inspired
+
+The Qur'an relentlessly condemns Satan, idolatry, arrogance, dishonesty, exploitation, sexual immorality, and injustice. It commands prayer, charity, humility, repentance, forgiveness, care for parents and orphans, moral accountability, and worship of the Creator alone.
+
+An evil source would therefore have produced a movement centered on rejecting evil worship, restraining vice, resisting spiritual pride, condemning Satan, and directing human beings toward repentance and obedience to God. Such an explanation works against the moral and theological direction of the message itself.
+
+### <span class="num-roman">IV.</span> A Later Fabricated Legend
+
+The Qur'an was preserved through both public recitation and writing. It was memorized across the Muslim community, taught from teacher to student, recited in worship, and copied in written form. These overlapping channels limited the possibility of a later authority quietly replacing the text across geographically separated communities.
+
+The Birmingham Qur'an folios preserve parts of Surahs 18–20 in an early Hijazi script. The parchment was radiocarbon dated to 568–645 CE with 95.4% probability, and the University of Birmingham places the manuscript in the mid-seventh century, within decades of Muhammad's death. Manuscript specialist Marijn van Putten has also argued that shared, highly specific spellings across numerous early Qur'an manuscripts point back to a single written archetype in the first Islamic century.
+
+Modern critical historians likewise place Muhammad and the Qur'an firmly in the seventh century. Sean W. Anthony treats the Qur'an as the earliest and strongest literary witness to the historical Muhammad and draws on seventh-century inscriptions, documentary evidence, and non-Muslim writings that independently attest an Arabian prophetic movement associated with him. Gregor Schoeler's work supports an early culture in which reports about Muhammad circulated through both oral teaching and written notes.
+
+Hadith transmission developed its own critical machinery. Reports circulated with named chains of transmitters, often through multiple routes. Scholars compared chains and textual variants, examined whether transmitters had met, assessed memory and honesty, compiled biographical dictionaries, and classified reports as strong, weak, or fabricated. Modern isnad-cum-matn analysis has shown that some traditions can be traced substantially earlier than the surviving canonical collections.
+
+Muhammad's life and message are anchored in first-century scripture, manuscripts, inscriptions, outside testimony, and traceable streams of transmission. They do not first appear as a polished legend centuries later.
+
+### <span class="num-roman">V.</span> The Prophetic Explanation
+
+The fraud theory conflicts with Muhammad's sacrifices, austerity, and the Qur'an's corrections of him. The delusion theory fits poorly with decades of coherent teaching, disciplined conduct, and effective leadership. The demonic theory runs against the message's sustained orientation toward God, repentance, justice, and moral reform. The legend theory is incompatible with the early documentary and transmission evidence.
+
+Muhammad's own explanation remains: the source of the message was God.
+
+His claim was not confined to a private experience or a brief burst of enthusiasm. He lived under it through persecution and victory, weakness and power, grief and public responsibility. His character, the content of the Qur'an, the structure of his mission, and the early preservation of the sources converge more naturally on sincere prophethood than on fraud, delusion, demonic inspiration, or later invention.
+
+Belief in his prophethood can therefore rest on a cumulative historical and rational judgment: the prophetic explanation accounts for the evidence more coherently than its principal alternatives.
 
 ## Playlist
 
