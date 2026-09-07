@@ -299,6 +299,8 @@ share: true
     {% include yt-embed.html url="https://youtu.be/DoP6Ft-VE70" title="Are there scientific miracles in the Qur'an?" %}
 1. It gives **strikingly accurate historical detail**, some of which was confirmed only by modern scholarship.
     {% include yt-embed.html url="https://youtu.be/c2ovILc_sKY" title="The Qur'an and the Secrets of Egypt" %}
+
+    {% include yt-embed.html url="https://youtu.be/BDitIpKLhjc" title="Another Sign of the Quran’s Divine Origin?" %}
 1. It retells narratives shared with the Bible while **correcting their historical and theological errors** rather than repeating them.
     > Examples include the different titles used for the ruler in the accounts of Moses and Joseph, as well as the Qur'an's description of the Israelites as a small group at the exodus.
     {: .gloss }
@@ -438,12 +440,17 @@ The evidence from his life is examined in detail on the **Messenger of God ﷺ**
 - How can the Qur'an be a miracle for non-Arabic speakers?
     {% include yt-embed.html url="https://youtu.be/5fyF-35naDE" title="How can the Qur'an be a Miracle for NON-ARABIC Speakers? | Arabic101" %}
 
-- Further videos on the miraculous nature of the Qur'an:
+- Further videos on the miraculous nature of the Qur'an
     {% include yt-embed.html url="https://youtu.be/9gJWIGLJhHM" title="Marvels of the Qur'an | Dr. Ali Ataie" %}
 
     {% include yt-embed.html url="https://youtu.be/_HlpfgaDATU" title="Conquering Doubts & Confidently Defending Islam | Ali Ataie" %}
 
     {% include yt-embed.html url="https://youtu.be/Gm-u0LPOmKw" title="The Qur'an: Its Supernatural Provenance | Dr. Ali Ataie" %}
+
+    {% include yt-embed.html url="https://youtu.be/aINML5H7M_Q" title="The STRANGEST proof that the Quran is from Allah | Arabic 101" %}
+
+    {% include yt-embed.html url="https://youtu.be/BDitIpKLhjc" title="Another Sign of the Quran’s Divine Origin?" %}
+
 - Why believe?
     {% include yt-embed.html url="https://youtu.be/wNrbUwGP5_U" title="Ep 6 Why Islam" %}
 
@@ -452,6 +459,13 @@ The evidence from his life is examined in detail on the **Messenger of God ﷺ**
     {% include yt-embed.html url="https://youtu.be/EQsKDZzd7U8" title="The World's Leading Atheist Admitted: God Exists" %}
 
     {% include yt-embed.html url="https://youtu.be/_HlpfgaDATU" title="Conquering Doubts & Confidently Defending Islam | Ali Ataie" %}
+
+- Does God exist?
+    {% include yt-embed.html url="https://youtu.be/x_ZomUjol-s" title="Does God Exist?: A Muslim’s Response to Atheism | Ustadh Dr. Ali Ataie" %}
+
+    {% include yt-embed.html url="https://youtu.be/If3cNUixEBM" title="Does God Exist? Dr Ali Ataie responds to the New Atheism" %}
+
+    {% include yt-embed.html url="https://youtu.be/5pmencwHCKk" title="Rational evidence for God's existence" %}
 
 - Are love and mercy really Islam's central message?
     {% include yt-embed.html url="https://youtu.be/KQFrovc_1G0" title="The Power of Love | Al-Habib Ali Al-Jifri" note="turn on English captions" %}
