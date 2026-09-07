@@ -479,6 +479,8 @@ The evidence from his life is examined in detail on the **Messenger of God ﷺ**
     > [Blind Spots: The Origins of the Western Method of Critiquing Hadith \| Dr. Jonathan Brown](https://yaqeeninstitute.org/read/paper/blind-spots-the-origins-of-the-western-method-of-critiquing-hadith)
 
 - The Prophet Muhammad's example
+    {% include yt-embed.html url="https://youtu.be/LeRhJQYZbWw" title="Prophetic Responses in an Age of Ignorance" %}
+
     {% include yt-embed.html url="https://youtu.be/1Ww6b_AUYjw" title="Addressing Muhammad (PBUH)’s Motive: Wealth, Power, or a Greater Purpose? | Ustadh Dr. Ali Ataie" %}
 
     {% include yt-embed.html url="https://youtu.be/6OGOmqvBKEU" title="The Foundation of Good Muslim Moral Character: The Prophet’s Excellent Example | Dr. Ali Ataie" %}
