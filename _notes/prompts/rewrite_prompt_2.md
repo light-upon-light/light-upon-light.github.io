@@ -4,12 +4,13 @@
 
 The uploaded document is a page in an Islam apologetics website. I fear that it is currently badly written and is not a pleasant, clear and convincing read.
 
-Revise this page for **presentation only**. Preserve every substantive claim, qualification, distinction, and intended meaning, but make the page significantly shorter, clearer, more natural, and easier to follow.
+Revise this page for **presentation only**. Preserve every meaning, but make the page significantly shorter, clearer, more natural, and easier to follow.
 
 Improve the writing style, word choice, sentence structure, paragraph structure, section order, headings, transitions, tone, and formatting. Remove repetition, redundant explanation, overlong quotations, unnecessary setup, and anything that slows the argument without adding meaning. Consolidate related points where useful so the page feels deliberate rather than repetitive.
 
-Do **not** fact-check, add new arguments, remove unique points, strengthen or weaken the substance, or introduce outside material. The goal is to present the existing argument as clearly, easy-to-read, concisely, and convincingly as possible.
+Do **not** fact-check, add new arguments, remove unique points, or introduce outside material. The goal is to present the existing argument as clearly, easy-to-read, concisely, and convincingly as possible.
 
+Feel free to change **how and where** a meaning is being made, but **not what** meaning is being made.
 Overall, we want to shorten, restructure, and improve clarity, tone, paragraphing and flow while preserving meanings.
 
 Please create a plan first, show it to me, then implement it after I give you the go.
@@ -51,11 +52,29 @@ Also, if you think there are quranic text quotations or source quotations that a
 
 The uploaded document is a page in an Islam apologetics website. I fear that some points in it are currently badly written and are not a pleasant, clear and convincing read.
 
-Revise this page for **presentation only**. Preserve every substantive claim, qualification, distinction, and intended meaning, but make the page significantly clearer, more natural, and easier to follow.
-
+Revise this page for **presentation only**. Preserve meanings, but make the page significantly clearer, more natural, and easier to follow.
 Improve the writing style, word choice, sentence structure, paragraph structure, tone, and formatting.
-Do **not** fact-check, add new arguments, remove unique points, strengthen or weaken the substance, or introduce outside material. The goal is to present the existing argument as clearly, easy-to-read, concisely, and convincingly as possible.
+Do **not** fact-check, add new arguments, remove unique points, or introduce outside material. The goal is to present the existing general meanings as clearly, easy-to-read, concisely, and convincingly as possible.
 
 Overall, we want to improve clarity, tone, paragraphing and flow while preserving meanings.
 
-Please create a plan first, show it to me, then implement it after I give you the go.
+Please create a detailed plan first, and show it to me for approval.
+
+## Reword each point in messenger
+
+The uploaded document is a page in an Islam apologetics website about proving the prophethood of Prophet Muhammad ﷺ. I fear that the points in it are currently badly written and are not a pleasant, clear and convincing read.
+
+The main thing I don't like about it is that every point feels like an empty advertisement that's trying to be clever or something. I just want a normal human clear, concise sentence / small paragraph that tells the reader what the teaching is plainly and clearly and pleasantly, not a bolded catch phrase followed by some more vague words while depending on the quotation below it to clarify what this means. A reader currently does not immediately get what the points are trying to say. And it is probably best to remove the bolding, keep each a clear, concise, human, easy-to-read and easy-to-understand sentence. DO NOT delete any points, just reword each of them. Please diagnose this issue and make a thorough and rigorous plan to remedy it
+
+## Merging
+
+The uploaded documents are different rewrites of a page in an Islam apologetics website. Please compare them in detail and give me a detailed report on the advantages and disadvantages of each with a score matrix, and an overall score for each one
+
+Great analysis, please use the details of your above analysis to combine the pages into one best page that combines their strengths and avoids their weaknesses
+
+## Reorganizing and fanning out
+
+The uploaded document is a page in an Islam apologetics website making an argument for the authentic prophethood of Prophet Muhammad ﷺ. I fear that it is currently way too long to be useful.
+It currently mixes two things: 1- the argument itself and 2- the in depth exploration of every aspect of the argument. It even says so itself in the introduction.
+I would like to overhaul it so that it consists of a main short page that is clear, concise, pleasant to read and convincing. And then that main page should link to several other secondary pages that go into much more detail and examples for each aspect of the main argument.
+Please thoroughly brainstorm and create a detailed plan first, and show it to me for approval. The sum of content in the secondary pages should be the same as the
