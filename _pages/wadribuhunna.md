@@ -39,6 +39,8 @@ Some interpreters have therefore understood ***waḍribūhunna*** non-physically
 
 Other scholars understood the expression physically. But even on that interpretation, Islamic jurists did not treat the verse as giving husbands unrestricted permission to strike their wives. They imposed restrictions intended to exclude injury, cruelty, and abuse.
 
+One way to picture the restricted physical reading is therefore not as a blow intended to hurt, but as something closer to **a light, two-handed push away when a person is approached intimately by their spouse—more expressive than aggressive—meant to reject affection and signal deep displeasure**. Understood this way, the act is physical while also performing the function of separation or distancing. It therefore brings the two main interpretive strands closer together: a restricted physical gesture whose practical meaning is to push away and separate, not to injure.
+
 This distinction is important. The question is not merely whether ***ḍaraba*** can ever carry a physical meaning. The question is whether Qur'an 4:34 authorizes **domestic abuse**. Even the physical interpretation described by classical jurists does not amount to such an authorization.
 
 ## 2. A graduated response to serious marital conflict
@@ -47,9 +49,9 @@ Qur'an 4:34 places the disputed expression within a three-stage response to seri
 
 1. ***Faʿiẓūhunna*** [counsel them] — advise, admonish, and engage in dialogue.
 2. ***Wahjurūhunna fī'l-maḍājiʿ*** [withdraw from them in bed] — withdraw from the marital bed, expressing disapproval without physical hostility.
-3. ***Waḍribūhunna*** — understood either as separation or, according to the restricted physical reading, as a non-injurious symbolic act.
+3. ***Waḍribūhunna*** — understood either as separation or, on the restricted physical reading, as a non-injurious gesture of rejection and distancing.
 
-The sequence begins with speech, moves to withdrawal, and only then reaches the disputed third step. It describes a controlled process for containing serious conflict, not an open-ended permission to inflict violence.
+The sequence begins with speech, moves to withdrawal, and only then reaches the disputed third step. On the physical reading described above, the act functions less as an attack than as an embodied refusal of intimacy: a final signal of deep displeasure and separation before outside arbitration. The sequence therefore describes a controlled process for containing serious conflict, not an open-ended permission to inflict violence.
 
 The immediately following verse then turns to arbitration when the marriage approaches breakdown:
 
@@ -139,6 +141,8 @@ They imposed severe restrictions. The act was understood as limited and non-inju
 - it could not amount to cruelty or abuse.
 
 Many jurists also regarded even this restricted act as ***makrūh*** [disliked or morally blameworthy, though technically permitted].
+
+Taken together, these restrictions help clarify what such a physical reading would have to look like in practice. The light push-away described above fits the restrictions summarized here: it is not aimed at causing pain or injury, does not target a vulnerable area, leaves no mark, and is expressive of rejection rather than cruelty. Its function is therefore closer to physically creating distance than to administering a beating.
 
 The significance of these restrictions is often overlooked. A jurist may have accepted a physical meaning of the verb without thereby permitting what is ordinarily meant by **domestic abuse**: injurious, cruel, degrading, habitual, coercive, or uncontrolled violence.
 
