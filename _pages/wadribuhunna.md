@@ -49,7 +49,7 @@ Qur'an 4:34 places the disputed expression within a three-stage response to seri
 
 1. ***Faʿiẓūhunna*** [counsel them] — advise, admonish, and engage in dialogue.
 2. ***Wahjurūhunna fī'l-maḍājiʿ*** [withdraw from them in bed] — withdraw from the marital bed, expressing disapproval without physical hostility.
-3. ***Waḍribūhunna*** — understood either as separation or, on the restricted physical reading, as a non-injurious gesture of rejection and distancing.
+3. ***Waḍribūhunna*** — understood either as separation or, according to the restricted physical reading, as a harmless physical gesture of rejection and distancing.
 
 The sequence begins with speech, moves to withdrawal, and only then reaches the disputed third step. On the physical reading described above, the act functions less as an attack than as an embodied refusal of intimacy: a final signal of deep displeasure and separation before outside arbitration. The sequence therefore describes a controlled process for containing serious conflict, not an open-ended permission to inflict violence.
 
@@ -60,7 +60,7 @@ The immediately following verse then turns to arbitration when the marriage appr
 > <div dir="rtl" lang="ar" class="quran-arabic">﴿فَٱبْعَثُوا۟ حَكَمًا مِّنْ أَهْلِهِۦ وَحَكَمًا مِّنْ أَهْلِهَآ﴾ <span class="ayah-ref">[سُورَةُ النِّسَاءِ: ٣٥]</span></div>
 {: .quote }
 
-Read together, verses 4:34–35 describe a movement from counsel, to marital withdrawal, to a final restricted measure, and then to outside arbitration if the conflict remains unresolved.
+Read together, verses 4:34–35 describe a movement from counsel, to marital withdrawal, to a final restricted measure of distancing, and then to outside arbitration if the conflict remains unresolved.
 
 ## 3. The Prophet's example
 
@@ -71,7 +71,7 @@ The Qur'an presents the Prophet as an example for believers:
 
 An authentic report states:
 
-> **“The Messenger of God never struck anything with his hand, neither a woman nor a servant.”**  
+> **“The Messenger of God never struck anything with his hand, neither a woman nor a servant.”**
 > — Sahih Muslim
 {: .quote }
 
@@ -84,19 +84,19 @@ He also instructed Muslims to treat women well and condemned husbands whose wive
 
 When women later came to his household complaining about husbands who had beaten them, he said:
 
-> **“Many women have come to the family of Muhammad complaining about their husbands; those men are not the best among you.”**  
+> **“Many women have come to the family of Muhammad complaining about their husbands; those men are not the best among you.”**
 > — Abu Dawud, Ibn Majah
 {: .quote }
 
 He also said:
 
-> **“Let none of you flog his wife like a slave, then sleep with her at the end of the day.”**  
+> **“Let none of you flog his wife like a slave, then sleep with her at the end of the day.”**
 > — Sahih al-Bukhari, Sahih Muslim
 {: .quote }
 
 And:
 
-> **“The best of you are those who are best to their wives.”**  
+> **“The best of you are those who are best to their wives.”**
 > — Tirmidhi
 {: .quote }
 
@@ -145,6 +145,8 @@ Many jurists also regarded even this restricted act as ***makrūh*** [disliked o
 Taken together, these restrictions help clarify what such a physical reading would have to look like in practice. The light push-away described above fits the restrictions summarized here: it is not aimed at causing pain or injury, does not target a vulnerable area, leaves no mark, and is expressive of rejection rather than cruelty. Its function is therefore closer to physically creating distance than to administering a beating.
 
 The significance of these restrictions is often overlooked. A jurist may have accepted a physical meaning of the verb without thereby permitting what is ordinarily meant by **domestic abuse**: injurious, cruel, degrading, habitual, coercive, or uncontrolled violence.
+
+This also reveals a possible conceptual overlap between the two major readings of the verse. If the non-physical interpretation understands ***waḍribūhunna*** as “separate from them” or “distance yourselves from them,” the severely restricted physical interpretation may be understood as the bodily expression of essentially the same message: **a decisive gesture of separation and rejection rather than an act of bodily punishment.**
 
 The existence of a restricted physical interpretation therefore does not establish the claim that Islam authorizes wife abuse.
 
@@ -237,7 +239,7 @@ Qur'an 4:34 does not authorize domestic abuse.
 
 The disputed verb ***ḍaraba*** has been understood in more than one way. The verse places its instruction within a graduated response to serious marital conflict, and the immediately following verse turns to family arbitration.
 
-Most importantly, the conclusion does not depend on rejecting every physical interpretation. **Even jurists who understood the verb physically restricted it so as to exclude injury and abuse.**
+Most importantly, the conclusion does not depend on rejecting every physical interpretation. **Even jurists who understood the verb physically restricted it to a symbolic gesture of displeasure.**
 
 The Prophet never struck a woman and condemned husbands who mistreated their wives. The Qur'an commands kindness in marriage, explicitly forbids marital harm, and describes marriage through tranquility, love, and mercy. Islamic law likewise recognizes remedies when a wife is harmed.
 
