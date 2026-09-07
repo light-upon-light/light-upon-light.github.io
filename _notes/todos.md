@@ -2,9 +2,8 @@
 
 general:
 
-- assess if prose led or bullet led is better. and use above prompt to rewrite everything into one of them. (check first if no restrictions about structure prompt rewrites into prose led) (i'm leaning towards prose with good bullet point summaries in the beginning)
 - manual edits to pages. (restructure args, remove stuff, add stuff from prev commits that got removed by edits, let claude compare with prev versions or other articles and add pieces that could strengthen argument)
-- then re bold everything
+- consider unbolding everything and using it extremely sparingly
 
 ---
 
@@ -43,6 +42,21 @@ quran:
 - add page for each point
 - mobile todos
 - add videos from candidate playlist to real playlist + add relevant links of them to website
+- expand heavily on the literary miracle section and the summit of arabic eloquence part, and add all the video links, part is massive and is a whole area of research on its own
+- scientific: gender of bees, weight of clouds, iron, expansion of the universe, embryology, chest constriction going up, ...
+- quran breadth and depth of topics and universal scope
+- expand on powerful flow and sound of the quran
+- verses rich and deep in meaning the more you dig into it the more you get out of it, unending well of wisdom,
+- any fraud would not make that challenge why stake credibility on that ,
+- add all of "in the name of..." and that we are encouraged to say that before starting everything,
+- in the no later propher part add no comparable reach or effect too
+
+- miconceptions to add: inheritance, multiple wives
+
+messenger:
+
+- file for ideas
+- take the what the possible explanations are section of messenger to top level
 
 aisha:
 
@@ -51,14 +65,13 @@ aisha:
 
 wadribuhunna:
 
-- add that the wadribuhunna is equivalent to the light shove that a spouse would do to the other when the latter initiates physical intimacy and the other is rejecting it out of being sad
-- A brief, two-handed push away—more emotional than aggressive—meant to clearly reject affection and signal deep displeasure.
-
 women:
 
 - wa lel rejal 3alayhenna daraja: one interpretation is that men should give women their full rights without expecting their full right to be given back in return
 - often in the quran, whenever a woman or women are addressed, it begins with the words: "Do not be saddened, do not be anxious, do not grieve, do not feel sorrow."
 - general commentary on fundamental difference in nature
+- general diff roles of masculine vs feminine:a good system of teachings has to have different roles and responsibilities for them, otherwise by definition it would be unfair and non optimal
+
 ridda:
 
 - mostly a translation issue. ridda doesn't translate cleanly to apostasy. it carries more of a social order / treason meaning. people are free to make their own choices about their belief as long as they don't cause corruption in the society they live in.
