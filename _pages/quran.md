@@ -382,6 +382,7 @@ share: true
 ## The Messenger of God ﷺ
 
 Everything described above was recited by **one man** who could **neither read nor write**, over the course of twenty-three years in seventh-century Arabia. But the Qur’an cannot be separated from the man who delivered it.
+
 Prophet Muhammad ﷺ's life presents a remarkable case of its own. The man through whom the Qur’an came was known for his integrity, endured years of persecution and sacrifice for his message, lived according to what he preached, and left behind teachings and an example that transformed Arabia and shaped the lives of generations after him. His life was also preserved in extraordinary detail and rigor through reports from his family, companions, servants, followers, and even opponents.
 
 The two lines of evidence therefore reinforce one another. The **extraordinary qualities of the Qur’an** came through a man whose **character, life, and message were themselves extraordinary**. Taken together, they point overwhelmingly toward the same conclusion: that **Prophet Muhammad ﷺ was what he claimed to be—a true prophet of God**.
