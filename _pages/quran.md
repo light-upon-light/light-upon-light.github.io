@@ -35,7 +35,7 @@ share: true
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَمَا كُنتَ تَتْلُوا۟ مِن قَبْلِهِۦ مِن كِتَـٰبٍ وَلَا تَخُطُّهُۥ بِيَمِينِكَ ۖ إِذًا لَّٱرْتَابَ ٱلْمُبْطِلُونَ ۝٤٨﴾ <span class="ayah-ref">سُورَةُ العَنكَبُوتِ</span></div>
     {: .quote }
 1. It was revealed over **23 years**, in **separate portions** and **not in the order** in which it is read today—often as events unfolded and in response to unforeseen questions and circumstances. Yet in its final arrangement, the Qur'an stands as a coherent literary composition.
-1. Once the Prophet ﷺ recited a verse, it was fixed, with **no retraction, no revision, and no second draft**.
+1. Once the Prophet ﷺ recited a verse, it was fixed, with **no retraction or revision**.
     > This is crucial context for everything that follows. Qualities of the Qur'an that may already seem impressive on their own become dramatically more striking when considered alongside the way it emerged: piecemeal and out of order, across 23 years of unpredictable events, without revision or retraction, through oral recitation from a man who could not read or write.
     {: .gloss }
 
