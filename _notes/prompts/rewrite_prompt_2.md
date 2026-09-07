@@ -1,5 +1,7 @@
 # Presentation Rewrite Prompts
 
+## Prompt 1 (best)
+
 The uploaded document is a page in an Islam apologetics website. I fear that it is currently badly written and is not a pleasant, clear and convincing read.
 
 Revise this page for **presentation only**. Preserve every substantive claim, qualification, distinction, and intended meaning, but make the page significantly shorter, clearer, more natural, and easier to follow.
@@ -11,6 +13,22 @@ Do **not** fact-check, add new arguments, remove unique points, strengthen or we
 Overall, we want to shorten, restructure, and improve clarity, tone, paragraphing and flow while preserving meanings.
 
 Please create a plan first, show it to me, then implement it after I give you the go.
+
+## Prompt 2 (more concise)
+
+The uploaded document is a page in an Islam apologetics website. I fear that it is currently badly written and is not a pleasant, clear and convincing read.
+
+Revise this page for presentation only. Preserve every substantive claim, qualification, and meaning, but make it much shorter, clearer, more natural, and easier to read. Improve wording, sentence and paragraph structure, section order, tone, headings, and formatting; remove repetition and unnecessary explanation. Do not fact-check, add arguments, strengthen/weaken claims, or introduce new content.
+
+Overall, we want to shorten, restructure, and improve clarity, tone, paragraphing and flow while preserving meanings.
+
+Please create a plan first, show it to me, then implement it after I give you the go.
+
+## Prompt 3 (my wording)
+
+The uploaded document is a page in an Islam apologetics website. I fear that it is currently badly written and is not a pleasant, clear and convincing read. Please read the page and brainstorm the best ways to improve it. Please think about how to improve the writing style, choice of word, sentence structure, paragraph structure, whole page/argument structure, tone of voice, wording of titles, and format of the page. And importantly, make the page much shorter and more concise so it's more digestible and to remove unproductive repetition. Overall, we want to shorten, restructure, and improve clarity, tone, paragraphing and flow while preserving meanings.
+
+This exercise isn't about making the argument stronger (and definitely not weaker. you should maintain the strength of the argument and all meanings of current points), or verifying facts/sources, or adding points. This is purely an exercise to improve presentation. And you don't need to make changes just for the sake of making changes. Please identify real weaknesses in presentation and think of suggestions to improve them. Please create a plan first, show it to me, then implement it after I give you the go.
 
 ## Follow ups
 
