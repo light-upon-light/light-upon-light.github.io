@@ -1,7 +1,13 @@
-The uploaded document is a page in an Islam apologetics website. I fear that it is currently badly written and is not a pleasant, clear and convincing read. Please read the page and brainstorm the best ways to improve it. Please think about how to improve the writing style, choice of word, sentence structure, paragraph structure, whole page/argument structure, tone of voice, wording of titles, and format of the page. And importantly, make the page much shorter and more concise so it's more digestible and to remove unproductive repetition. Overall, we want to shorten, restructure, and improve clarity, tone, paragraphing and flow while preserving meanings.
+# Presentation Rewrite Prompts
 
+The uploaded document is a page in an Islam apologetics website. I fear that it is currently badly written and is not a pleasant, clear and convincing read.
 
-This exercise isn't about making the argument stronger (and definitely not weaker. you should maintain the strength of the argument and all meanings of current points), or verifying facts/sources, or adding points. This is purely an exercise to improve presentation. And you don't need to make changes just for the sake of making changes. Please identify real weaknesses in presentation and think of suggestions to improve them. Please create a plan first, show it to me, then implement it after I give you the go.
+Revise this page for presentation only. Preserve every substantive claim, qualification, and meaning, but make it much shorter, clearer, more natural, and easier to read. Improve wording, sentence and paragraph structure, section order, tone, headings, and formatting; remove repetition and unnecessary explanation. Do not fact-check, add arguments, strengthen/weaken claims, or introduce new content.
 
-Follow ups:
+Overall, we want to shorten, restructure, and improve clarity, tone, paragraphing and flow while preserving meanings.
+
+Please create a plan first, show it to me, then implement it after I give you the go.
+
+## Follow ups
+
 Do another pass to remove **meta-framing and argumentative scaffolding**. Avoid sentences like “this is important because,” “the objection is straightforward,” “this shows,” or “that disagreement should not be concealed.” Prefer stating the claim, evidence, concession, or inference directly. Keep the prose confident, natural, and analytical rather than sounding like the author is narrating how the argument should be read.
