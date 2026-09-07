@@ -431,17 +431,17 @@ The evidence from his life is examined in detail on the **Messenger of God ﷺ**
 
 - A comprehensive free book on the miraculous nature of the Qur'an:
     > [A Journey Through The Miraculous Qur'an](https://onereason.org/eternalchallenge/)
+- [Evidences for the truth of Islam \| Mohammed Hijab (Website)](https://mohammedhijab.com/articles/evidences-for-the-truth-of-islam/)
+
+## Common Questions
+
+- How can the Qur'an be a miracle for non-Arabic speakers?
+    {% include yt-embed.html url="https://youtu.be/5fyF-35naDE" title="How can the Qur'an be a Miracle for NON-ARABIC Speakers? | Arabic101" %}
+
 - Further videos on the miraculous nature of the Qur'an:
     {% include yt-embed.html url="https://youtu.be/9gJWIGLJhHM" title="Marvels of the Qur'an | Dr. Ali Ataie" %}
 
     {% include yt-embed.html url="https://youtu.be/_HlpfgaDATU" title="Conquering Doubts & Confidently Defending Islam | Ali Ataie" %}
-
-- [Evidences for the truth of Islam \| Mohammed Hijab (Website)](https://mohammedhijab.com/articles/evidences-for-the-truth-of-islam/)
-- [Truthfulness of the Prophet (Youtube Short)](https://youtube.com/shorts/HcViZkHoxK0)
-- [I read the Qur'an as a non-Muslim](https://youtu.be/G5nSm73o4bw)
-
-## Common Questions
-
 - Why believe?
     {% include yt-embed.html url="https://youtu.be/_HlpfgaDATU" title="Conquering Doubts & Confidently Defending Islam | Ali Ataie" %}
 
@@ -459,6 +459,9 @@ The evidence from his life is examined in detail on the **Messenger of God ﷺ**
 - Is Shari'ah law as cruel as Western media portrays it?
     {% include yt-embed.html url="https://youtu.be/AHOH_t03sIc" title="What the West Needs to Know About the Shari'ah | Blogging Theology" %}
 
+- Did Prophet Muhammad ﷺ really exist? (Also discussed on [The Messenger of God ﷺ](/messenger) page.)
+    {% include yt-embed.html url="https://youtu.be/_mZgSIlX20U" title="Did Muhammad ﷺ really exist? | Blogging Theology" %}
+
 - Is the Qur'an really preserved as it was revealed?
     {% include yt-embed.html url="https://youtu.be/4l7pbX5J8Lg" title="The Most DIRECT Proof That The Qur'an is From Allah | Arabic101" %}
 
@@ -470,17 +473,17 @@ The evidence from his life is examined in detail on the **Messenger of God ﷺ**
 
     {% include yt-embed.html url="https://youtu.be/n281Zyywyn4" title="How To Prove The Qur'an Has Been Preserved Accurately" %}
 
-- How can the Qur'an be a miracle for non-Arabic speakers?
-    {% include yt-embed.html url="https://youtu.be/5fyF-35naDE" title="How can the Qur'an be a Miracle for NON-ARABIC Speakers? | Arabic101" %}
-
-- Did Prophet Muhammad ﷺ really exist? (Also discussed on [The Messenger of God ﷺ](/messenger) page.)
-    {% include yt-embed.html url="https://youtu.be/_mZgSIlX20U" title="Did Muhammad ﷺ really exist? | Blogging Theology" %}
-
 - How were the Prophet's ﷺ own life and sayings preserved? (Also discussed on [The Messenger of God ﷺ](/messenger) page.)
     > [How the Record Was Kept](/messenger#how-the-record-was-kept) — the chains of transmission, narrator biographies, report grading, and published catalogues of forgeries
 
     > [Blind Spots: The Origins of the Western Method of Critiquing Hadith \| Dr. Jonathan Brown](https://yaqeeninstitute.org/read/paper/blind-spots-the-origins-of-the-western-method-of-critiquing-hadith)
 
+- The Prophet Muhammad's example
+    {% include yt-embed.html url="https://youtu.be/1Ww6b_AUYjw" title="Addressing Muhammad (PBUH)’s Motive: Wealth, Power, or a Greater Purpose? | Ustadh Dr. Ali Ataie" %}
+
+    {% include yt-embed.html url="https://youtu.be/6OGOmqvBKEU" title="The Foundation of Good Muslim Moral Character: The Prophet’s Excellent Example | Dr. Ali Ataie" %}
+
+    {% include yt-embed.html url="https://youtube.com/shorts/HcViZkHoxK0" title="Truthfulness of the Prophet (Youtube Short)" %}
 - Moses, Jesus & Muhammad: three brothers in faith
     {% include yt-embed.html url="https://youtu.be/vVGiHoPZa0A" title="Similarities in the Abrahamic Tradition | Ustadh Dr. Ali Ataie (Interfaith Dialogue)" %}
 
@@ -538,3 +541,6 @@ The evidence from his life is examined in detail on the **Messenger of God ﷺ**
 ## Other useful links
 
 - [Is It Hypocritical for Muslims to Criticize Non-Muslim Occupation If Classical Islamic Law Permits Muslims to Rule over Non-Muslims?](https://seekersguidance.org/answers/general-answers-feeds/is-it-hypocritical-for-muslims-to-criticize-non-muslim-occupation-if-classical-islamic-law-permits-muslims-to-rule-over-non-muslims/)
+
+- Testimonies
+    {% include yt-embed.html url="https://youtu.be/G5nSm73o4bw" title="I read the Qur'an as a non-Muslim" %}
