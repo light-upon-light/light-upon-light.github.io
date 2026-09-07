@@ -70,7 +70,7 @@ share: true
 
     > [The Inimitable Qur'an - paper](https://yaqeeninstitute.ca/read/paper/the-inimitable-quran-the-revelation-to-prophet-muhammad)
 
-1. It belongs to **neither poetry nor prose**, but to a **unique form of its own** that combines rhythmic beauty with precision of meaning.
+1. It belongs to neither poetry nor prose, but introduced a distinct literary form of its own—a mode of expression previously unknown in Arabic—that combines rhythmic beauty with precision of meaning.
 1. It maintains the same **literary quality across all 23 years** of revelation, unlike human authors, whose style normally changes over the course of a career.
 1. It became the **reference text for Arabic grammar itself**. When grammarians recorded the rules of the language, they treated the Qur'an as a standard of correct Arabic because it contains **no linguistic errors**. Fourteen centuries of scrutiny have **turned up no error in it**.
 1. The same words carry **multiple layers of meaning**. There is the apparent meaning, and beneath it are several layers of hidden meanings that scholars have unearthed through meticulous contemplation and cross-examination.
