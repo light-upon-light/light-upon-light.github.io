@@ -52,6 +52,7 @@ aisha:
 wadribuhunna:
 
 - add that the wadribuhunna is equivalent to the light shove that a spouse would do to the other when the latter initiates physical intimacy and the other is rejecting it out of being sad
+- A brief, two-handed push away—more emotional than aggressive—meant to clearly reject affection and signal deep displeasure.
 
 women:
 
