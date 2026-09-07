@@ -46,9 +46,25 @@ share: true
 1. In **every generation since its revelation**, it has been regarded as the **summit of Arabic eloquence**, by admirers and opponents alike.
     {% include yt-embed.html url="https://youtu.be/abzZL_3Av2E" title="Linguistic Miracle of the Qur'an" %}
 
+    {% include yt-embed.html url="https://youtu.be/jmNY06nmpL8" title="A Linguistic Marvel in Surah Al-Fatihah | Arabic101" %}
+
     {% include yt-embed.html url="https://youtu.be/vady0SQGHCU" title="Incredible Word Patterns found in the Quran" %}
 
     {% include yt-embed.html url="https://youtu.be/phO4YyNJ244" title="The Amazonian Tribe That Accidentally Proved the Quran is Unmatched | Arabic101" %}
+
+    {% include yt-embed.html url="https://youtu.be/pH5JzIAPivY" title="This Connection Proves The Prophet Muhammad ﷺ MUST Be A True Messenger Of Allah" %}
+
+    {% include yt-embed.html url="https://youtu.be/ACBIkx1KaBE" title="Linguistic Miracles: Do Not Kill Your Children" %}
+
+    {% include yt-embed.html url="https://youtu.be/vdWdhv1DbFg" title="Linguistic Miracles - DWELL" %}
+
+    {% include yt-embed.html url="https://youtu.be/N8Pr_nykRH0" title="Linguistic Miracles - The Cosmos as a Home" %}
+
+    {% include yt-embed.html url="https://youtu.be/SA-hkxqolIA" title="Linguistic Miracles - Reorder of Words" %}
+
+    {% include yt-embed.html url="https://youtu.be/DdWFSP-5vwM" title="Linguistic Miracles - Ibraheem’s Dua" %}
+
+    {% include yt-embed.html url="https://youtu.be/2iiGZlyDOXk" title="Quran's Miracle You’ll Hear for the First Time! - This Will Change the Way You See the Quran" %}
 
     > [The Inimitable Qur'an - paper](https://yaqeeninstitute.ca/read/paper/the-inimitable-quran-the-revelation-to-prophet-muhammad)
 
@@ -63,8 +79,6 @@ share: true
     {: .gloss }
 
     {% include yt-embed.html url="https://youtu.be/9gJWIGLJhHM" title="Marvels of the Qur'an | Dr. Ali Ataie" %}
-
-    {% include yt-embed.html url="https://youtu.be/2iiGZlyDOXk" title="Mind Blowing Symmetry in Quran Pages! - The Miracle You'll Hear for the First Time!" %}
 
     {% include yt-embed.html url="https://youtu.be/b5Y5gMc_XZo" title="THE RING COMPOSITION! - Remarkable Structure of the Quran" %}
 
@@ -296,11 +310,12 @@ share: true
 
     {% include yt-embed.html url="https://youtu.be/11dDOBdQobQ" title="The Numerical Miracles in the Quran | Arabic101" %}
 
-    {% include yt-embed.html url="https://youtu.be/2iiGZlyDOXk" title="Hidden Visual Patterns in the Quran" %}
 1. It uses **words from other languages**, including Hebrew, precisely where the meaning in *that* language is being expressed. **Prophet Muhammad ﷺ spoke none of them**, and recognizing such wordplay requires command of both languages.
     {% include yt-embed.html url="https://youtu.be/wA4v8MrBHHc" title="The Hebrew word that PROVED that the Qur'an is from Allah" %}
 
     {% include yt-embed.html url="https://youtu.be/OED98p4bpx0" title="ONE WORD Proving the Quran is Allah's Words | Arabic101" %}
+
+    {% include yt-embed.html url="https://youtu.be/pH5JzIAPivY" title="This Connection Proves The Prophet Muhammad ﷺ MUST Be A True Messenger Of Allah" %}
 
 ### <span class="num-roman">VI.</span> Preservation and Memorization
 {: #preservation-and-memorization }
@@ -425,6 +440,8 @@ The evidence from his life is examined in detail on the **Messenger of God ﷺ**
 
 - Why believe?
     {% include yt-embed.html url="https://youtu.be/_HlpfgaDATU" title="Conquering Doubts & Confidently Defending Islam | Ali Ataie" %}
+
+    {% include yt-embed.html url="https://youtu.be/wNrbUwGP5_U" title="Ep 6 Why Islam" %}
 
     {% include yt-embed.html url="https://youtu.be/VjIL0Gio4yA" title="Millenials are returning to God - Here's why | Blogging Theology" %}
 
