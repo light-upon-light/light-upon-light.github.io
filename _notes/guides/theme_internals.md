@@ -3,7 +3,8 @@
 Three customisations big enough to have their own failure modes: dark mode,
 the mobile TOC drawer, and the scrollspy/nav-link-overflow pair that replaced
 two of the theme's jQuery plugins. Read the relevant section before changing
-any of them. Everything else lives in `CLAUDE.md`.
+any of them. The rest of the CSS/JS layout is `styling.md`; `CLAUDE.md`
+routes to both.
 
 ## Dark mode
 
@@ -83,10 +84,33 @@ synchronous, and the only remaining transition-suppression is
 `transition: all 0.2s` reset was trimmed — see the comments above it in
 `head/custom.html` for why even those would otherwise race the cross-fade.
 
+That trim is an explicit override, not a deletion: the theme's reset puts a
+bare `transition: 0.2s` — all properties — on `b, i, strong, em, blockquote,
+p, q, span, figure, img, h1, h2, header, input, a, tr, td, …`, and a
+`data-theme` change is a genuine property change on every one of them that
+reads a redefined custom property. `head/custom.html` answers it with
+`html :is(b, i, strong, …) { transition: none }`, keeping a *named* colour
+transition only for the interactive subset so real hover/focus feedback
+survives. `html.theme-swap` then suppresses that surviving transition for the
+instant of the swap. Nothing broader is needed: a `data-theme` write resolves
+in the same task, so there is no multi-frame window for a page-wide guard
+class to paper over.
+
+**Why a view transition at all.** Redefining ~41 custom properties on `:root`
+invalidates every element on the page. The style recalc happens in one go, but
+without help a browser can spread the resulting *paint* across several frames
+— which used to tear the masthead, icons and colours arriving a frame or two
+apart, reading as buttons juddering sideways even though nothing moved. Those
+frames now happen behind a frozen snapshot, and the two snapshots cross-fade
+over 260ms set on `::view-transition-old/new(root)`.
+
 **Never give the toggle buttons a `view-transition-name`.** `root` is the
 only participant in the cross-fade; a named element gets its old and new
 geometry interpolated, which is exactly how the apparent sideways drift in
 `#font-size-toggle` came back the one time this was tried.
+
+Two gates fall back to an instant swap instead of a transition: no View
+Transitions API, and `prefers-reduced-motion`.
 
 **A dissolve, not the browser's default cross-fade.** The UA default fades
 both snapshots at once under `mix-blend-mode: plus-lighter`, which *adds* the
@@ -98,6 +122,11 @@ showed it worst: anti-aliased coverage differs between a 1px light rule and a
 `::view-transition-new(root)` fades in on top with normal blending —
 monotonic per pixel, total alpha stays 1 throughout, and the mid-transition
 overshoot can't come back.
+
+Replacing both animations also drops the UA's
+`-ua-mix-blend-mode-plus-lighter`. To check any of this, freeze it: `await
+t.ready`, then set `currentTime` on the `::view-transition-*` animations from
+`document.getAnimations()` and screenshot.
 
 ## The TOC drawer
 
