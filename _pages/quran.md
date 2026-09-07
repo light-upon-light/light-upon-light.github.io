@@ -381,9 +381,13 @@ share: true
 
 ## The Messenger of God ﷺ
 
-Everything described above was recited by **one man** who could **neither read nor write**, over twenty-three years in seventh-century Arabia. The Qur'an and the man who delivered it cannot be considered in isolation from one another. Prophet Muhammad's ﷺ character, teachings, sacrifices, and conduct are therefore part of the same case: the marvels of the Qur'an came through a man whose own life and message were themselves extraordinary, and whose life is documented in unusual detail and rigor by his followers, family, servants, and enemies.
+Everything described above was recited by **one man** who could **neither read nor write**, over the course of twenty-three years in seventh-century Arabia. But the Qur’an cannot be separated from the man who delivered it. If its origin is to be understood, then the life, character, teachings, and conduct of **Prophet Muhammad ﷺ** must also be considered.
 
-Taken together, the **Qur'an's marvelous qualities** and the Prophet's ﷺ **remarkable character, life, and teachings** overwhelmingly point in the same direction: that **Prophet Muhammad** ﷺ was what he claimed to be—a **true prophet of God**. The evidence from his life is examined in detail on the **Messenger of God ﷺ** page. Like the case presented here, it is cumulative: no single point is meant to stand alone, but the Qur'an and the Messenger, considered together, form one inseparable and compelling case for his prophethood.
+And his life presents a remarkable case of its own. The man through whom the Qur’an came was known for his integrity, endured years of persecution and sacrifice for his message, lived according to what he preached, and left behind teachings and an example that transformed Arabia and shaped the lives of generations after him. His life was also preserved in extraordinary detail through reports from his family, companions, servants, followers, and even opponents.
+
+The two lines of evidence therefore reinforce one another. The **extraordinary qualities of the Qur’an** came through a man whose **character, life, and message were themselves extraordinary**. Taken together, they point overwhelmingly toward the same conclusion: that **Prophet Muhammad ﷺ was what he claimed to be—a true prophet of God**.
+
+The evidence from his life is examined in detail on the **Messenger of God ﷺ** page. Like the case for the Qur’an, it is cumulative. No single point is intended to stand alone; rather, the Qur’an and the Messenger who brought it form one connected and compelling case for his prophethood.
 > The page is lengthy; the navigation buttons and table of contents can make it easier to read through.
 {: .gloss }
 
