@@ -194,7 +194,8 @@
 
     /* Below $large the disclosure is moved to sit AFTER the TL;DR card, so
        the article opens with its summary and the reader meets navigation
-       only once they have the gist -- above the card it was a control with
+       only once they have the gist (on quran.md the card is collapsed by
+       default, so what they meet first is the summary's label) -- above the card it was a control with
        nothing yet to navigate. The whole <aside> moves, not just the
        <details>: at $large `.sidebar__right` is what carries the sticky
        sidebar positioning, so it has to go back to being .page__content's

@@ -46,6 +46,14 @@ quotation. Its colours are a verdigris tint — `.gloss`'s hue without
 label is a full-size titled bar; the card's prose is the reading serif, and
 a fading hairline below the card separates it from the article's intro.
 
+`quran.md` alone authors it as a `<details class="tldr" markdown="1">` with
+the label inside a `<summary>`, so its two-paragraph summary is **collapsed by
+default** instead of pushing the article's own opening below the fold. Same
+card, same colours; the base `.tldr` rules apply to a `<details>` unchanged,
+and `details.tldr` in `site.scss` adds only the chevron and the collapsed/open
+spacing. `markdown="1"` on the tag is required, as it is for `.quran-more`.
+The other seven pages keep the plain `<div>`.
+
 Every page currently carries placeholder bullets.
 
 ## Source citations
