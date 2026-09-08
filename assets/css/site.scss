@@ -2212,19 +2212,23 @@
     margin: 0;
   }
 
+  /* Theme's _base.scss puts margin-top:1em on every dt -- far too much
+     between entries in this compact block. */
   .glossary-key dt {
+    margin-top: 0.5em;
     font-weight: 700;
     text-transform: capitalize;
   }
 
+  .glossary-key dt:first-child {
+    margin-top: 0;
+  }
+
   .glossary-key dd {
-    margin: 0 0 0.2em;
+    margin: 0;
     padding-inline-start: 0.9em;
   }
 
-  .glossary-key dd:last-child {
-    margin-bottom: 0;
-  }
 
   /* Wrapped in the prose by site.js. Dotted underline so it reads as
      "there is more here" without the weight of a link. */
