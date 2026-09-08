@@ -609,27 +609,29 @@ The [full evidence library](/messenger) runs to seventeen pages. Each entry ther
 - Islam and domestic violence
     > [Islam and the Misreading of Qur'an 4:34](/wadribuhunna)
 
+- Why Islam permits a man more than one wife
+    > [Four Wives: What the Qur'an Permits and What It Requires](/polygyny)
+
 - The jizya, the tax non-Muslims paid under Muslim rule
     > [The Jizya: What Non-Muslims Paid, and What For](/jizya)
 
-- Pages coming soon: Islam's treatment of women, The claim that Islam was spread by the sword, Why Islam permits a man more than one wife, The death penalty for apostasy, The severe hudud punishments — amputation, stoning, flogging
-
-<!-- - Islam's treatment of women
-    > [Islam and Women](/women) — the status the Qur'an gives women and the
-    > verses and reports most often cited against Islam. The page links to the
-    > more focused discussions below.
-
 - The claim that Islam was spread by the sword
     > [Did Islam Spread by the Sword?](/sword)
-
-- Why Islam permits a man more than one wife
-    > [Four Wives: What the Qur'an Permits and What It Requires](/polygyny)
 
 - The death penalty for apostasy
     > [Apostasy in Islam](/ridda)
 
 - The severe hudud punishments — amputation, stoning, flogging
-    > [The Hudud Punishments in Islam](/punishments) -->
+    > [The Hudud Punishments in Islam](/punishments)
+
+- Pages coming soon: Islam's treatment of women
+
+<!--
+- Islam's treatment of women
+    > [Islam and Women](/women) — the status the Qur'an gives women and the
+    > verses and reports most often cited against Islam. The page links to the
+    > more focused discussions below.
+-->
 
 ## Other useful links
 
