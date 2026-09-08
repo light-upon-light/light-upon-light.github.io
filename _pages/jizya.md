@@ -36,11 +36,11 @@ share: true
 <div class="tldr" markdown="1">
 <span class="tldr__label">TL;DR</span>
 
-The article argues that **jizya was not simply a penalty for refusing Islam**, but part of a pre-modern system in which certain non-Muslim men paid a tax, were generally exempt from military service, and were owed state protection. Women, children, the poor, elderly, disabled, and others were usually exempt.
+The article argues that jizya was not simply a penalty for refusing Islam, but part of a pre-modern system in which certain non-Muslim men paid a tax, were generally exempt from military service, and were owed state protection. Women, children, the poor, elderly, disabled, and others were usually exempt.
 
 It presents Qur'an 9:29 as dealing with a wartime settlement rather than forced conversion, while acknowledging that jizya was religiously discriminatory and could create financial pressure to convert because conversion ended the tax.
 
-The article also concedes that some rulers and jurists enforced jizya in humiliating or abusive ways, even though other Islamic legal sources condemned such treatment. Its conclusion is that jizya was **more than a “pay or convert” penalty, but not free from coercive pressure or historical abuse**.
+The article also concedes that some rulers and jurists enforced jizya in humiliating or abusive ways, even though other Islamic legal sources condemned such treatment. Its conclusion is that jizya was more than a “pay or convert” penalty, but not free from coercive pressure or historical abuse.
 </div>
 
 Under Muslim rule, some non-Muslim subjects paid the jizya while Muslims did not. Qur'an 9:29 tells Muslims to fight certain opponents *until they pay the jizya* and ends with a phrase commonly translated as "while they are humbled."[1](#ref-1){: .footnote} Conversion also ended the liability. The tax can therefore look like a fine for refusing Islam, or a way to make conversion financially attractive.
