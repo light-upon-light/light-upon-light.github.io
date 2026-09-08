@@ -177,3 +177,11 @@ The following section is from a page in an Islam apologetics website. I fear tha
 ## Page tldrs
 
 The uploaded document is a page in an Islam apologetics website. Please create a tldr for it. Make it concise, coherent, clear and easy to read and understand.
+
+### Alt prompt
+
+The uploaded document is a page from an Islamic apologetics website. Please create a concise TL;DR to place at the top of the page.
+
+Write it from the same perspective as the page itself: it should present and support the page’s argument, not describe it from the perspective of a detached or neutral outside observer.
+
+Keep it coherent, clear, pleasant to read, easy to understand, and faithful to the page’s reasoning and conclusions.
