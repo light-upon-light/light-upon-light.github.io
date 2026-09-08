@@ -4,7 +4,7 @@
 
 The uploaded document is a page in an Islam apologetics website. I fear that it is currently badly written and is not a pleasant, clear and convincing read.
 
-Revise this page for **presentation only**. Preserve every meaning, but make the page significantly shorter, clearer, more natural, and easier to follow.
+Revise this page for **presentation only**. Preserve the meanings, but make the page (significantly shorter,) clearer, more natural, and easier to follow.
 
 Improve the writing style, word choice, sentence structure, paragraph structure, overall argument flow and structure, section order, headings, transitions, tone, and formatting. Remove repetition, redundant explanation, overlong quotations, unnecessary setup, and anything that slows the argument without adding meaning. Consolidate related points where useful so the page feels deliberate rather than repetitive.
 
@@ -33,7 +33,7 @@ The uploaded document is a page in an Islam apologetics website. I fear that it 
 
 This exercise isn't about making the argument stronger (and definitely not weaker. you should maintain the strength of the argument and all meanings of current points), or verifying facts/sources, or adding points. This is purely an exercise to improve presentation. And you don't need to make changes just for the sake of making changes. Please identify real weaknesses in presentation and think of suggestions to improve them.
 
-Please create a thorough plan first for approval.
+Please create a well thought out plan first for approval.
 
 ## Follow ups
 
@@ -96,6 +96,12 @@ If you think there are quranic text quotations or source quotations that are slo
 {: .quote }
 </details>
 
+### Highlight a crucial point
+
+This is good, but I'm not sure it highlights the crucial idea: which is that ""
+
+Given that the above are rough notes about the idea, you don't need to take any words verbatim, please synthesize the intended meanings.
+
 ### Other page reference
 
 I will have a page dedicated to islam's treatment of women on the website, so we can have the most effective points in section 5 and then link to that page with [/women]
@@ -155,7 +161,7 @@ Please create a plan first, show it to me, then implement it after I give you th
 
 ## Adding points from notes to page
 
-The uploaded document is a page in an Islam apologetics website. Below are some very rough notes of ideas that I think are useful to have on the page. Please think about how to include them on the page in a coherent, clear, **concise**, flowing, easy to understand, effective and convincing manner. Given that these are rough notes, you don't need to take any words verbatim, please synthesize the intended meanings. Please also follow the writing style of the page Make a thorough plan on how to integrate them first for approval.
+The uploaded document is a page in an Islam apologetics website. Below are some very rough notes of ideas that I think are useful to have on the page. Please think about how to include them on the page in a coherent, clear, **concise**, flowing, easy to understand, effective and convincing manner. Given that these are rough notes, you don't need to take any words verbatim, please synthesize the intended meanings. Please also follow the writing style of the page. Make a thorough plan on how to integrate them first for approval.
 
 """
 """
