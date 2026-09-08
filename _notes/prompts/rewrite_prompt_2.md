@@ -168,6 +168,12 @@ The uploaded document is a page in an Islam apologetics website. Below are some 
 
 ### Follow ups 3
 
+Given that the above are rough notes about the idea, you don't need to take any words verbatim, please synthesize the intended meanings.
+
 These additions do not feel concise. Its also not pleasant to read. Please rewrite it concisely, coherently, clearly and easy to read and understand, and give it back
 
 The following section is from a page in an Islam apologetics website. I fear that it is currently badly written and is not a pleasant, clear and convincing read. Please rewrite it concisely, coherently, clearly and easy to read and understand, and give it back.
+
+## Page tldrs
+
+The uploaded document is a page in an Islam apologetics website. Please create a tldr for it. Make it concise, coherent, clear and easy to read and understand.
