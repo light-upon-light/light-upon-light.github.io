@@ -917,6 +917,33 @@
     line-height: 1.4;
   }
 
+  /* The middle ground between the theme's divider-under-every-entry (which
+     read as a spreadsheet) and none at all (which read as an undifferen-
+     tiated column). Rules go between TOP-LEVEL sections only, so an h2 and
+     its h3 children stay one visual group, and they are drawn as
+     border-block-START on `li + li` -- never on the first item. That is the
+     part that matters: a border-bottom on every li, or a border-top on
+     every li, would put a second line immediately under the title's own
+     hairline. `> li` restricts this to .toc__menu's own children, so the
+     nested <ul>s inside them are untouched. --mm-border-color rather than
+     --site-src-border: these are separators inside a list, not the label
+     rule that closes the header, and they should sit a step below it. */
+  .page__content .toc .toc__menu > li + li,
+  #toc-panel .toc__menu > li + li {
+    border-block-start: 1px solid var(--mm-border-color);
+  }
+
+  /* Below $large the TOC sits between the TL;DR's hairline and the article's
+     opening paragraph, and the theme's flat `margin-bottom: 1em` left it
+     closer to the prose it is not part of than to the break it follows.
+     Scoped to the breakpoint: at $large the aside is back in its own column
+     and its bottom margin is nobody's spacing problem. */
+  @media (max-width: 63.9375em) {
+    .page__content .sidebar__right {
+      margin-bottom: 2.4em;
+    }
+  }
+
   /* ---- Mobile TOC disclosure -------------------------------------------
 
      Below $large the theme gives .sidebar__right no positioning at all --
@@ -1185,7 +1212,7 @@
     /* Extra space below, plus the ::after rule, is the demarcation between
        the summary and the article's own opening paragraph: without it the
        intro started immediately under the card and read as more of it. */
-    margin-block: 1.6em 3.4em !important;
+    margin-block: 1.6em 2.8em !important;
     /* full content width: every evidence blockquote is indented, and
        refusing the indent is half of what says this is not one of them */
     margin-inline: 0;
@@ -1207,7 +1234,7 @@
     content: "";
     position: absolute;
     inset-inline-start: 50%;
-    bottom: -1.9em;
+    bottom: -1.4em;
     transform: translateX(-50%);
     width: 5em;
     height: 1px;

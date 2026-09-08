@@ -170,15 +170,22 @@
 
     var summary = document.createElement("summary");
     summary.className = "toc-disclosure__summary";
-    /* Labelled here rather than reusing the theme's own `.nav__title`
-       ("On this page"), which sits INSIDE .toc and so would show a second
-       time once the disclosure opens -- site.scss hides it in that one
-       case. */
+    /* The label is READ from the theme's own `.nav__title` rather than
+       hardcoded, so `toc_label` -- defaulted in _config.yml, overridable
+       per page -- reaches the summary too instead of drifting from it. The
+       title itself still has to be duplicated rather than moved: it sits
+       INSIDE .toc, which the drawer clones verbatim, and it would show a
+       second time once the disclosure opened, so site.scss hides it in that
+       one case. */
+    var titleEl = toc.querySelector(".nav__title");
+    var label = titleEl ? titleEl.textContent.trim() : "ON THIS PAGE";
+
     summary.innerHTML =
-      '<span class="toc-disclosure__label">On This Page</span>' +
+      '<span class="toc-disclosure__label"></span>' +
       '<svg viewBox="0 0 24 24" width="14" height="14" aria-hidden="true" focusable="false">' +
       '<path d="M7 10 L12 15 L17 10" fill="none" stroke="currentColor" ' +
       'stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" /></svg>';
+    summary.querySelector(".toc-disclosure__label").textContent = label;
 
     toc.parentNode.insertBefore(details, toc);
     details.appendChild(summary);

@@ -325,3 +325,10 @@ defaults:
     values:
       layout: single
       author_profile: false
+      # The TOC heading, for every page that sets `toc: true`. The theme
+      # reads `page.toc_label` first, so a page can still override it in
+      # front matter; this only removes the identical line that used to be
+      # repeated in all 24 of them. site.js reads the rendered .nav__title
+      # rather than hardcoding a second copy, so an override reaches the
+      # mobile disclosure summary too.
+      toc_label: "ON THIS PAGE"
