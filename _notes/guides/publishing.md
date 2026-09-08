@@ -27,6 +27,11 @@ flat (`_site/quran.html`, not `_site/quran/index.html`). Link to them the same
 way — `/quran`, not `/quran/`, which 404s on GitHub Pages. `about.markdown` uses
 `/about/` and does build to a directory; the asymmetry is deliberate.
 
+Sub-directories of `_pages/` are published too: `_pages/messenger/*.md` carry
+`permalink: /messenger/<slug>` and build to `_site/messenger/<slug>.html`,
+alongside `_site/messenger.html` for `/messenger` itself. Nothing in
+`_config.yml` needs to name the sub-directory.
+
 ## Site description
 
 Two strings in `_config.yml`, each with one job — don't reintroduce a third:
