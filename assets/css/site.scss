@@ -1186,7 +1186,7 @@
     /* Extra space below, plus the ::after rule, is the demarcation between
        the summary and the article's own opening paragraph: without it the
        intro started immediately under the card and read as more of it. */
-    margin-block: 1.6em 2em !important;
+    margin-block: 1.6em 2.8em !important;
     /* full content width: every evidence blockquote is indented, and
        refusing the indent is half of what says this is not one of them */
     margin-inline: 0;
