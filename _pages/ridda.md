@@ -24,9 +24,9 @@ toc_levels: 2..3
 share: true
 ---
 
-Classical Islamic law generally prescribes death for apostasy — a Muslim leaving Islam. The ruling is severe, plainly present in the sources, and should not be dismissed.
+Islam is often accused of prescribing death simply for leaving the faith. But this framing overlooks the historical and legal context in which *ridda* [apostasy] was tied to political defection, rebellion, and separation from the Muslim community.
 
-The Qur'an, however, prescribes no worldly punishment for apostasy. The principal hadith include language about separation from the Muslim community, and Muslim jurists have disagreed over the ruling from the second century of Islam to the present. The death penalty was the majority position, but not an unqualified consensus.
+The Qur'an prescribes no worldly punishment for a private change of belief, while the relevant hadith, historical cases, and juristic disagreements point to a more specific offence than apostasy alone. This article examines that distinction.
 
 The *hudud* — severe corporal and capital punishments associated with theft, adultery and other offences — are a related but separate issue, addressed at [The Hudud Punishments in Islam](/punishments).
 
