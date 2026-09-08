@@ -2,6 +2,7 @@
 title: "The Hudud Punishments in Islam"
 description: "A response to criticisms of the hudud punishments — amputation, stoning, flogging — examining the evidentiary standards, the doubt maxim, and the conditions classical jurists attached to them."
 date: 2026-08-03
+last_modified_at: 2026-09-07
 
 permalink: /punishments
 

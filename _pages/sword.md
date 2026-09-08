@@ -2,6 +2,7 @@
 title: "Did Islam Spread by the Sword?"
 description: "A response to the claim that Islam was spread by force, separating military conquest from the question of how people actually became Muslim."
 date: 2026-08-03
+last_modified_at: 2026-09-07
 
 permalink: /sword
 
