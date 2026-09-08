@@ -863,10 +863,41 @@
      border are also what make the DRAWER opaque -- #toc-panel sets no
      background of its own -- so a `#toc-panel .toc { border: 0 }` renders
      the drawer transparent over the article. */
+  /* The theme's card fills with the page background colour, so the box reads
+     only via its 1px border and otherwise dissolves into the page. A faint
+     warm wash (the same surface the breadcrumb return-link hovers to) lifts
+     it off the ground and sits with the manuscript palette rather than
+     fighting it the way a neutral grey did. Desktop/inline copy only --
+     #toc-panel's drawer clone sets its own opaque background further down. */
+  .page__content .toc {
+    background-color: var(--site-return-hover-bg);
+  }
+
+  /* The theme's default entry colour is --mm-muted-text-color, which on the
+     wash above is a washed-out grey. --site-src-text -- the same sepia the
+     disclosure summary and the source apparatus use -- keeps the entries
+     quiet (they are navigation, not prose links) while clearing 4.4:1 in
+     both palettes. Bare `.toc__menu a` so every `.active` rule, at higher
+     specificity, still wins. */
+  .toc__menu a {
+    color: var(--site-src-text);
+  }
+
+  /* The title reads as a filled eyebrow: --mm-border-color, the site's
+     cream/brown hairline colour, as a gentle solid bar a shade warmer than
+     the wash below it -- present but not the theme's loud --mm-primary-color
+     bar. --site-src-text on it is the same sepia the entries use, 4.4:1 in
+     both palettes. The disclosure summary (the inline/collapsed form of this
+     same bar) is named alongside so both forms match. */
+  .page__content .toc .nav__title,
+  #toc-panel .nav__title,
+  .toc-disclosure > summary {
+    background: var(--mm-border-color);
+    color: var(--site-src-text);
+  }
+
   .page__content .toc .nav__title,
   #toc-panel .nav__title {
-    background: transparent;
-    color: var(--site-src-text);
     font-size: 0.8rem;
     font-weight: bold;
     letter-spacing: 0.08em;
@@ -920,7 +951,7 @@
      and its bottom margin is nobody's spacing problem. */
   @media (max-width: 63.9375em) {
     .page__content .sidebar__right {
-      margin-bottom: 2.4em;
+      margin-bottom: 1.4em;
     }
   }
 
@@ -1192,7 +1223,7 @@
     /* Extra space below, plus the ::after rule, is the demarcation between
        the summary and the article's own opening paragraph: without it the
        intro started immediately under the card and read as more of it. */
-    margin-block: 1.6em 2.8em !important;
+    margin-block: 1.6em 2em !important;
     /* full content width: every evidence blockquote is indented, and
        refusing the indent is half of what says this is not one of them */
     margin-inline: 0;
