@@ -420,10 +420,12 @@ The two lines of evidence therefore reinforce one another. The extraordinary qua
 His life presents a remarkable case of its own. The man through whom the Qur’an came was known for his integrity, endured years of persecution and sacrifice for his message, lived according to what he preached, and left behind teachings and an example that transformed Arabia and shaped the lives of generations after him. His life was also preserved in extraordinary detail and rigor through reports from his family, companions, servants, followers, and even opponents.
 
 ### Was Muhammad ﷺ Truly a Prophet?
+{: #was-muhammad-truly-a-prophet }
 
 Broadly speaking, there are five possible explanations for Prophet Muhammad ﷺ's life: He was either a conscious fraud, sincerely mistaken, inspired by an evil source, turned into a prophet by later legend, or he was what he claimed to be: a messenger of God. His life, message, and the historical record make the first four explanations increasingly difficult to sustain.
 
 ### <span class="num-roman">I.</span> The Fraud Hypothesis
+{: #the-fraud-hypothesis }
 
 Fraud usually serves some gain: wealth, status, comfort, power, or admiration. Muhammad's mission brought him years of ridicule, isolation, persecution, and danger. He continued preaching when compromise would have been easier.
 
@@ -434,6 +436,7 @@ Success did not turn him into a king. Early reports describe a simple household,
 The evidence on his motives, his household, and the Qur'an's corrections of him is collected under [the competing explanations](/messenger/claim), [what those closest to him saw](/messenger/character), and [the Qur'an he delivered](/messenger/quran).
 
 ### <span class="num-roman">II.</span> Sincere, but Mistaken
+{: #sincere-but-mistaken }
 
 A sincere delusion can produce conviction, but Muhammad's case involved more than conviction.
 
@@ -446,6 +449,7 @@ A supposed delusion that remained coherent across decades, accompanied effective
 For the range and consistency of the teaching, and for his conduct as a leader, see [worship and the inner life](/messenger/worship), [work and public responsibility](/messenger/work-and-authority), and [his life through hardship and power](/messenger/life).
 
 ### <span class="num-roman">III.</span> Devil-Inspired
+{: #devil-inspired }
 
 The Qur'an relentlessly condemns Satan, idolatry, arrogance, dishonesty, exploitation, sexual immorality, and injustice. It commands prayer, charity, humility, repentance, forgiveness, care for parents and orphans, moral accountability, and worship of the Creator alone.
 
@@ -454,6 +458,7 @@ An evil source would therefore have produced a movement centered on rejecting ev
 What the message actually commands is set out at length under [worship and the inner life](/messenger/worship), [justice and restraint in conflict](/messenger/justice), and [care for the vulnerable and human dignity](/messenger/human-dignity).
 
 ### <span class="num-roman">IV.</span> A Later Fabricated Legend
+{: #a-later-fabricated-legend }
 
 The Qur'an was preserved through both public recitation and writing. It was memorized across the Muslim community, taught from teacher to student, recited in worship, and copied in written form. These overlapping channels limited the possibility of a later authority quietly replacing the text across geographically separated communities.
 
@@ -468,6 +473,7 @@ Muhammad's life and message are anchored in first-century scripture, manuscripts
 [Sources, transmission, and bibliography](/messenger/sources) sets out how the hadith record was preserved and tested; [Muhammad ﷺ and the Qur'an he delivered](/messenger/quran) covers the text's own preservation.
 
 ### <span class="num-roman">V.</span> The Prophetic Explanation
+{: #the-prophetic-explanation }
 
 The fraud theory conflicts with Muhammad's sacrifices, austerity, and the Qur'an's corrections of him. The delusion theory fits poorly with decades of coherent teaching, disciplined conduct, and effective leadership. The demonic theory runs against the message's sustained orientation toward God, repentance, justice, and moral reform. The legend theory is incompatible with the early documentary and transmission evidence.
 
@@ -480,6 +486,7 @@ Belief in his prophethood can therefore rest on a cumulative historical and rati
 That cumulative case is laid out under [the competing explanations](/messenger/claim), with the harder-to-weigh evidence kept separate in [predictions](/messenger/predictions) and [reported miracles](/messenger/miracles). [Encounters, changed minds, and later appraisals](/messenger/encounters) collects what people who met him said.
 
 ### Explore the evidence
+{: #explore-the-evidence }
 
 The [full evidence library](/messenger) runs to seventeen pages. Each entry there carries its quotation, its reference, and its qualifications.
 
