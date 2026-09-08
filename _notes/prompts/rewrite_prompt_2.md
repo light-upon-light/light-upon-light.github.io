@@ -37,33 +37,49 @@ Please create a thorough plan first for approval.
 
 ### Meta framing removal
 
-Do another pass to remove unnecessary **meta-framing** and excessive argumentative scaffolding. Cut sentences that merely narrate how the argument should be read, announce what is about to be shown, comment on the author’s argumentative choices, or tell the reader what they should think.
+Do another pass to remove unnecessary **meta-framing** and excessive argumentative scaffolding from the whole document.
+
+Cut or rewrite sentences that merely narrate how the argument should be read, announce what is about to be shown, comment on the author’s argumentative choices, or tell the reader what they should think.
 
 Prefer stating the claim, evidence, concession, or inference directly.
 
-However, **do not flatten substantive emphasis or useful evaluative qualifications**. Preserve wording that communicates a genuine part of the argument, including judgments about the strength, severity, significance, reliability, difficulty, scale, or practical effect of the evidence or underlying facts. Concision should not come at the expense of argumentative force, nuance, emphasis, or the author’s intended characterization of the evidence.
+However, **do not flatten substantive emphasis, logical flow, or rhetorical force**. Preserve wording that communicates a genuine part of the argument, including judgments about the strength, severity, significance, reliability, difficulty, scale, or practical effect of the evidence or underlying facts.
 
-A useful test is:
+Also preserve **useful connective and inferential language** such as “therefore,” “thus,” “however,” “but,” “yet,” and similar terms when they genuinely express the logical relationship between sentences. These are not meta-framing merely because they guide the reader through the reasoning.
 
-* Remove language about **how the reader should process the argument**.
-* Preserve language that says **what the evidence means, how strong or significant it is, or how the author characterizes the underlying fact**.
+When a sentence contains both unnecessary framing and a useful argumentative function, **rewrite it rather than simply deleting it**. Preserve the contrast, inference, emphasis, or transition in a more direct form.
 
 For example:
 
 * Cut: “This is an important point because it changes how the evidence should be understood.”
-* Prefer: “The evidence changes the interpretation substantially.”
-* Cut: “It is worth emphasizing that the requirement is unusually demanding.”
-* Preserve: “The requirement is unusually demanding.”
-* Cut: “The weakness of this source should be acknowledged.”
-* Preserve: “The source is weak.”
-* Cut: “The point is difficult to miss: the policy had serious consequences.”
-* Prefer: “The policy had serious consequences.”
-* Preserve: “The standard of proof is exceptionally high.”
-* Preserve: “The penalties are severe.”
-* Preserve: “The evidence is limited.”
-* Preserve: “The distinction is significant.”
 
-Keep the prose confident, natural, analytical, and concise, but retain evaluative wording wherever it carries substantive argumentative meaning or useful emphasis.
+* Prefer: “The evidence changes the interpretation substantially.”
+
+* Cut: “It is worth emphasizing that the requirement is unusually demanding.”
+
+* Preserve: “The requirement is unusually demanding.”
+
+* Cut: “The weakness of this source should be acknowledged.”
+
+* Preserve: “The source is weak.”
+
+* Rewrite: “But it does show something important: the lawfulness of polygyny did not make Fatima’s hurt irrelevant.”
+
+* Prefer: “But the report still shows that the lawfulness of polygyny did not make Fatima’s hurt irrelevant.”
+
+* Preserve: “A second marriage thus creates another set of enforceable obligations.”
+  Here, “thus” expresses a real inference from the preceding discussion and should not be removed merely for concision.
+
+* Preserve: “The distinction is significant.”
+  if the significance itself is part of the argument rather than a comment about presentation.
+
+A useful test is:
+
+* Remove language about **how the reader should process the argument** when it adds no substantive content.
+* Preserve language that expresses **what follows from the evidence, how ideas contrast, why a fact matters substantively, or how strong or significant the evidence is**.
+* If removing a phrase would weaken the transition, inference, emphasis, or argumentative force, replace it with a more direct formulation rather than deleting it.
+
+Keep the prose confident, natural, analytical, concise, and flowing. Concision should remove verbal overhead, not logical structure or rhetorical force.
 
 ### Quran quotations in details
 
