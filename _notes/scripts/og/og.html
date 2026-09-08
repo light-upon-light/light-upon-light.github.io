@@ -42,18 +42,8 @@
     padding: 70px 84px;
     display: flex;
     flex-direction: column;
-    position: relative;
     overflow: hidden;
-  }
-
-  /* faint vertical band on the right, echoing the site's warmth without imagery */
-  body::after {
-    content: "";
-    position: absolute;
-    top: 0; right: 0; bottom: 0;
-    width: 14px;
-    background: #343434;
-    opacity: 0.9;
+    border-left: 10px solid #ca7f32; /* dirt skin base09 (warm ochre) */
   }
 
   .wordmark {
@@ -113,7 +103,8 @@
 <script>
   const params = new URLSearchParams(location.search);
   const kicker = params.get("kicker") || "";
-  const title = params.get("title") || "";
+  // keep the ﷺ glyph tight to the name it follows, never wrapping alone
+  const title = (params.get("title") || "").replace(/ ﷺ/g, " ﷺ");
   document.getElementById("title").textContent = title;
   const k = document.getElementById("kicker");
   if (kicker) { k.textContent = kicker; } else { k.style.display = "none"; }
