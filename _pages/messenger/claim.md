@@ -4,6 +4,10 @@ description: "What best explains Muhammad ﷺ’s claim to revelation? These evi
 date: 2025-08-16
 last_modified_at: 2026-09-07
 permalink: /messenger/claim
+
+header:
+  og_image: /assets/images/og/messenger-claim.png
+
 layout: single
 short_title: "The competing explanations"
 quran_section: the-messenger-of-god-ﷺ

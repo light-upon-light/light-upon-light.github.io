@@ -4,6 +4,10 @@ description: "Each prediction should be considered with its wording, reported ou
 date: 2025-08-16
 last_modified_at: 2026-09-07
 permalink: /messenger/predictions
+
+header:
+  og_image: /assets/images/og/messenger-predictions.png
+
 layout: single
 short_title: "Predictions"
 quran_section: the-messenger-of-god-ﷺ

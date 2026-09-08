@@ -5,6 +5,9 @@ date: 2025-08-25
 
 permalink: /wadribuhunna
 
+header:
+  og_image: /assets/images/og/wadribuhunna.png
+
 layout: single
 
 short_title: "Qur'an 4:34 and Domestic Abuse"

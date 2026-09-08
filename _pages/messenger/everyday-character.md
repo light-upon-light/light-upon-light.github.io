@@ -4,6 +4,10 @@ description: "Truthfulness, restraint, forgiveness, privacy, and reconciliation 
 date: 2025-08-16
 last_modified_at: 2026-09-07
 permalink: /messenger/everyday-character
+
+header:
+  og_image: /assets/images/og/messenger-everyday-character.png
+
 layout: single
 short_title: "Everyday character"
 quran_section: the-messenger-of-god-ﷺ

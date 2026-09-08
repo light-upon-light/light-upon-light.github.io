@@ -5,6 +5,9 @@ date: 2025-08-17
 
 permalink: /women
 
+header:
+  og_image: /assets/images/og/women.png
+
 layout: single
 
 short_title: "Islam and Women"

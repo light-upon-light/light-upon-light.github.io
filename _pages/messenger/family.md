@@ -4,6 +4,10 @@ description: "The home is a place where duties, rights, and affection meet. Thes
 date: 2025-08-16
 last_modified_at: 2026-09-07
 permalink: /messenger/family
+
+header:
+  og_image: /assets/images/og/messenger-family.png
+
 layout: single
 short_title: "Family and marriage"
 quran_section: the-messenger-of-god-ﷺ

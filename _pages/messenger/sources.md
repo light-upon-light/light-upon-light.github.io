@@ -4,6 +4,10 @@ description: "The evidence draws on scripture, transmitted reports, early biogra
 date: 2025-08-16
 last_modified_at: 2026-09-07
 permalink: /messenger/sources
+
+header:
+  og_image: /assets/images/og/messenger-sources.png
+
 layout: single
 short_title: "Sources and transmission"
 quran_section: the-messenger-of-god-ﷺ

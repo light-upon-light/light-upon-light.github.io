@@ -4,6 +4,10 @@ description: "These teachings concern people whose needs can be overlooked: the 
 date: 2025-08-16
 last_modified_at: 2026-09-07
 permalink: /messenger/human-dignity
+
+header:
+  og_image: /assets/images/og/messenger-human-dignity.png
+
 layout: single
 short_title: "Care and human dignity"
 quran_section: the-messenger-of-god-ﷺ

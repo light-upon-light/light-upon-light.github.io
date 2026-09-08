@@ -10,6 +10,9 @@ short_title: "Qur'an and the Messenger ﷺ"
 
 permalink: /quran
 
+header:
+  og_image: /assets/images/og/quran.png
+
 layout: single
 
 toc: true

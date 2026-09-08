@@ -4,6 +4,10 @@ description: "The chronology places the evidence in changing circumstances: ordi
 date: 2025-08-16
 last_modified_at: 2026-09-07
 permalink: /messenger/life
+
+header:
+  og_image: /assets/images/og/messenger-life.png
+
 layout: single
 short_title: "His life"
 quran_section: the-messenger-of-god-ﷺ

@@ -43,3 +43,13 @@ Two things worth knowing without opening a file: article pages set
 `/quran/` 404s. And `jekyll-optional-front-matter` means every markdown file
 the build can see becomes a page; `_notes/` and `CLAUDE.md` are excluded in
 `_config.yml`, which is why guides live there.
+
+## Link-preview (Open Graph) cards
+
+Every article page sets `header.og_image` to a committed 1200×630 PNG in
+`assets/images/og/`; `_config.yml`'s `og_image` is the fallback
+(`og/default.png`). The theme's `_includes/seo.html` emits `og:image` from
+`page.header.og_image` (falling back to `site.og_image`) — no Twitter-card
+tags, since `site.twitter.username` is unset. Regenerate the cards with
+`python _notes/scripts/og/gen.py [slug ...]` (needs Chrome; edit the `CARDS`
+list there when a title or section label changes), then commit the PNGs.

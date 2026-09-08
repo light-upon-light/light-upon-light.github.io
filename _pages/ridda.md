@@ -5,6 +5,9 @@ date: 2026-08-03
 
 permalink: /ridda
 
+header:
+  og_image: /assets/images/og/ridda.png
+
 layout: single
 
 short_title: "Apostasy in Islam"
