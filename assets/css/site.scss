@@ -1270,7 +1270,10 @@
   .page__content details.tldr > summary .tldr__label::before {
     content: "\25b8";
     display: inline-block;
-    width: 1em;
+    /* Not .yt-embed's `width: 1em`: the glyph is narrow and sits at the left
+       of that box, so under the label's 0.12em tracking it crowded the T.
+       Its own width plus an explicit gap instead. */
+    margin-inline-end: 0.5em;
     transition: transform 0.2s ease;
   }
 

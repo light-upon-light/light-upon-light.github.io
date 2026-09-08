@@ -48,7 +48,11 @@ a fading hairline below the card separates it from the article's intro.
 
 `quran.md` alone authors it as a `<details class="tldr" markdown="1">` with
 the label inside a `<summary>`, so its two-paragraph summary is **collapsed by
-default** instead of pushing the article's own opening below the fold. Same
+default**, and sits *below* the intro note rather than above it. Being a
+one-line card there is nothing to read past, so `site.js` also leaves the
+mobile TOC disclosure at the top of the content on that page instead of
+moving it below the card (it anchors on `div.tldr`, which quran.md no longer
+has). Same
 card, same colours; the base `.tldr` rules apply to a `<details>` unchanged,
 and `details.tldr` in `site.scss` adds only the chevron and the collapsed/open
 spacing. `markdown="1"` on the tag is required, as it is for `.quran-more`.
