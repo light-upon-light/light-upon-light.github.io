@@ -57,7 +57,7 @@ The verse does not begin with "two, three, or four." It begins with the rights o
 > "If you fear you might fail to give orphan women their ˹due˺ rights ... then marry other women of your choice — two, three, or four. But if you are afraid you will fail to maintain justice, then ˹content yourselves with˺ one..."
 > (**Sūrat al-Nisāʾ 4:3**), Dr. Mustafa Khattab, *The Clear Quran*
 >
-> <div dir="rtl" lang="ar" class="quran-arabic">﴿وَإِنْ خِفْتُمْ أَلَّا تُقْسِطُوا۟ فِى ٱلْيَتَـٰمَىٰ ... فَإِنْ خِفْتُمْ أَلَّا تَعْدِلُوا۟ فَوَٰحِدَةً﴾ <span class="ayah-ref">[سُورَةُ النِّسَاءِ: ٣]</span></div>
+> <div dir="rtl" lang="ar" class="quran-arabic">﴿وَإِنْ خِفْتُمْ أَلَّا تُقْسِطُوا۟ فِى ٱلْيَتَـٰمَىٰ فَٱنكِحُوا۟ مَا طَابَ لَكُم مِّنَ ٱلنِّسَآءِ مَثْنَىٰ وَثُلَـٰثَ وَرُبَـٰعَ ۖ فَإِنْ خِفْتُمْ أَلَّا تَعْدِلُوا۟ فَوَٰحِدَةً﴾ <span class="ayah-ref">[سُورَةُ النِّسَاءِ: ٣]</span></div>
 {: .quote }
 
 The Qur'an introduces polygyny amid a problem involving vulnerable women and orphans, not as a means of maximizing male romantic or sexual satisfaction. The permission is immediately surrounded by limits, justice, and responsibility.
