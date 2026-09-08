@@ -17,7 +17,7 @@ quran_section: misconceptions-about-islam
 quran_section_label: "Misconceptions About Islam"
 
 toc: true
-toc_label: "On this page"
+toc_label: "On This Page"
 toc_icon: "bars"
 toc_sticky: true
 toc_levels: 2..3

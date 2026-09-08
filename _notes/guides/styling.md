@@ -29,6 +29,11 @@ bordered panel in a verdigris tint, deliberately refusing the left rule
 that marks the three evidence blockquotes. Markup is `formatting_guide.md`;
 its `--site-tldr-*` values and their contrast ratios are in `_dirt.scss`.
 
+`.toc` is restyled plain at both widths — no box, no filled title bar, no
+per-entry dividers, just a muted uppercase label over a hairline. The box
+removal is scoped to `.page__content .toc` on purpose: the drawer clone's
+`.toc` **is** `#toc-panel`'s opaque surface. See `theme_internals.md`.
+
 Arabic uses `.quran-arabic`, citation labels `.ayah-ref`. Amiri is loaded from
 Google Fonts so the ayah marker encloses its digits regardless of what the
 reader has installed. The theme sets `blockquote { font-style: italic }`, and

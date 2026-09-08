@@ -157,10 +157,10 @@ $base0f: #b49368 !default;
      still not a fourth evidence type -- the form does that work (full
      content width, a border, no left rule, no indent), and .gloss remains
      the only *left-ruled* teal thing on the page. Contrast on
-     --site-tldr-fill: label 6.8:1, body text 10.4:1 (WCAG AA for small
-     text is 4.5:1). The fill sits 1.1:1 against the page ground, so the
-     border and the label still carry most of the separation. */
-  --site-tldr-fill: #ddeeea;
+     --site-tldr-fill: label 6.1:1, body text 9.3:1 (WCAG AA for small
+     text is 4.5:1). The fill sits 1.2:1 against the page ground -- pushed greyer and
+     deeper than the first mint-green attempt, which read washed out. */
+  --site-tldr-fill: #d3e2de;
   --site-tldr-line: #2e6b63;
   --site-tldr-label: #1d5851;
   --site-breadcrumb-sep: #c3b4a0; // quran-breadcrumb "›" separator
