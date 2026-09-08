@@ -16,7 +16,7 @@ quran_section_label: "The Messenger of God ﷺ"
 share: true
 ---
 
-The argument for the prophethood of Prophet Muhammad ﷺ is made on [the main page](/quran#the-messenger-of-god-ﷺ). This is the evidence behind it: seventeen pages collecting the teachings, reports, and sources in full, each entry with its quotation, reference, and qualifications.
+The argument for the prophethood of Prophet Muhammad ﷺ is made on [the main page](/quran#the-messenger-of-god-ﷺ). This page contains the evidence behind it: seventeen pages collecting the teachings, reports, and sources in full, each entry with its quotation, reference, and qualifications.
 
 ## Explore the evidence
 {: #explore-the-evidence }
