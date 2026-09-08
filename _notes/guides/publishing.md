@@ -40,3 +40,24 @@ Two strings in `_config.yml`, each with one job — don't reintroduce a third:
   and `og:description`. Plain, no ﷺ, since it renders in search snippets.
 - `blurb` — the prose sentence. The homepage and the about page render
   `{{ site.blurb }}`; nothing hardcodes it.
+
+## Dates
+
+Two front-matter keys, both optional, both rendered in the page footer:
+
+- `date` — the publish date. Also feeds `itemprop="datePublished"` and
+  `article:published_time`.
+- `last_modified_at` — the date of the last substantive revision. Set it by
+  hand when a page changes materially; leave it off until then. Feeds
+  `itemprop="dateModified"` and `article:modified_time`.
+
+The theme prints only one of the two, labelled "Updated:" either way — so
+every page announced its publish date as an update.
+`_includes/page__date.html` shadows the theme's include of that name (same
+mechanism as `breadcrumbs.html`) and labels them separately, showing
+"Updated:" only when `last_modified_at` differs from `date`. Labels are
+literals in that file; a local `_data/ui-text.yml` would replace the theme's
+whole copy rather than merge one key.
+
+Only `messenger.md` and `_pages/messenger/*.md` currently carry
+`last_modified_at`; the rest show a publish date alone, which is correct.
