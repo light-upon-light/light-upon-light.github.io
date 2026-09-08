@@ -27,7 +27,7 @@ share: true
 
 Islam permits a man to have up to four wives at one time, while a woman may have only one husband. The asymmetry is real. But it does not follow that Islam values men more, or that polygyny exists simply to satisfy male desire. One wife is the normal arrangement; polygyny is a limited permission that can meet particular family and social needs, and every additional wife brings additional legal obligations.
 
-Qur'an 4:3 itself makes that clear. The permission appears in a passage about protecting orphans, limits an existing practice, makes justice a condition, and tells a man to marry one if he fears he cannot meet it.
+Qur'an 4:3 places that permission in a passage about protecting orphans, limits an existing practice, makes justice a condition, and tells a man to marry one if he fears he cannot meet it.
 
 **Terms.** *Polygyny* means one man having several wives; *polygamy* is the broader term for plural marriage; *polyandry* means one woman having several husbands. A *hadith* is a report about what the Prophet ﷺ said or did; *Sahih al-Bukhari* and *Sahih Muslim* are the two most rigorously screened hadith collections. *Mahr* means the marriage gift a husband pays directly to his wife.
 
@@ -50,7 +50,7 @@ The verse does not begin with "two, three, or four." It begins with the rights o
 > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَإِنْ خِفْتُمْ أَلَّا تُقْسِطُوا۟ فِى ٱلْيَتَـٰمَىٰ ... فَإِنْ خِفْتُمْ أَلَّا تَعْدِلُوا۟ فَوَٰحِدَةً﴾ <span class="ayah-ref">[سُورَةُ النِّسَاءِ: ٣]</span></div>
 {: .quote }
 
-That setting matters. The Qur'an does not introduce polygyny while discussing how men can maximize romantic or sexual satisfaction. It introduces it amid a problem involving vulnerable women and orphans, and immediately surrounds the permission with limits, justice, and responsibility.
+The Qur'an introduces polygyny amid a problem involving vulnerable women and orphans, not as a means of maximizing male romantic or sexual satisfaction. The permission is immediately surrounded by limits, justice, and responsibility.
 
 The verse addresses the danger of guardians exploiting orphaned women under their control. Marrying other women is presented as the alternative to that abuse.
 
@@ -96,7 +96,7 @@ The Prophet ﷺ exceeded the ordinary four-wife limit, but his marital history a
 
 He was married to Khadija alone for twenty-five years, from about age twenty-five until her death when he was around fifty. This covered his early adulthood and the entire first phase of his mission. His plural marriages came later, mostly after the migration to Medina. Most were to widows, several were to women past youth, and several established alliances between clans. His marriage to Aisha is discussed separately in [The Prophet Muhammad's ﷺ Marriage to Aisha](/aisha).
 
-That history is difficult to reduce to a picture of polygyny as the defining ideal of male married life. The longest marriage of the Prophet's life was monogamous, and his later marriages had family, communal, political and social dimensions as well as personal ones.
+The longest marriage of the Prophet's life was monogamous, while his later marriages had family, communal, political and social dimensions as well as personal ones.
 
 The Qur'an gave him a dispensation from the ordinary limit, then prohibited him from marrying further. His wives could not remarry after his death and were offered a choice between the life of the world and remaining with him under the conditions he could provide.[2](#ref-2){: .footnote} His exception was therefore accompanied by restrictions of its own rather than functioning as an open-ended licence.
 
@@ -108,9 +108,7 @@ Ali ibn Abi Talib, who was married to the Prophet's ﷺ daughter Fatima, sought 
 
 Ali did not proceed.
 
-The report does **not** establish a general prohibition of polygyny. Its reasoning refers to Fatima's particular status, and a parallel version says that the daughter of the Messenger of God and the daughter of the enemy of God should not be wives of the same man.
-
-But it does show something important: the fact that polygyny is lawful does not make a wife's hurt irrelevant. In this case, the harm a second marriage would cause Fatima was taken seriously enough for the Prophet ﷺ to prevent it publicly.
+The report does **not** establish a general prohibition of polygyny. Its reasoning refers to Fatima's particular status, and a parallel version says that the daughter of the Messenger of God and the daughter of the enemy of God should not be wives of the same man. But the lawfulness of polygyny did not make Fatima's hurt irrelevant: the harm a second marriage would cause her was sufficient for the Prophet ﷺ to prevent it publicly.
 
 ## Can a wife require monogamy?
 
@@ -122,7 +120,7 @@ Therefore, this allows a woman to secure monogamy before marriage if that is wha
 
 ## Why is the permission one-sided?
 
-The basic asymmetry remains: a man may have several wives, while a woman may not have several husbands. But Islamic family law does not treat men and women as interchangeable. It assigns them different roles and responsibilities, with the husband obligated to provide for and care for his wife and family.
+The basic asymmetry remains: a man may have several wives, while a woman may not have several husbands. Islamic family law does not treat men and women as interchangeable. It assigns them different roles and responsibilities, with the husband obligated to provide for and care for his wife and family.
 
 **Financial and familial responsibility.** A husband pays the *mahr*, owes his wife maintenance and housing, and supports the children. Her property and earnings remain her own. If he marries another wife, those responsibilities multiply. Polygyny therefore gives a man additional obligations, not simply additional marital options.
 
@@ -146,7 +144,7 @@ Tunisia prohibits plural marriage outright, while several other Muslim-majority 
 
 Islam does not permit men more than one wife because men matter more than women. One wife is the normal form of marriage; polygyny is a restricted allowance that can meet particular family and social needs, and every additional wife brings another set of responsibilities.
 
-The rule is asymmetric because Islamic family law itself is asymmetric. Men and women have equal human worth, but they are not treated as interchangeable: their reproductive roles differ, their financial duties differ, and some of their rights differ accordingly.
+The rule is asymmetric because Islamic family law itself is asymmetric. Men and women have equal human worth, but they are not treated as interchangeable: their fundamental natures differ, therefore their reproductive roles differ, financial duties differ, and some of their rights differ accordingly.
 
 Qur'an 4:3 therefore does not present polygyny as a prize for male desire. It places the permission in a passage about vulnerable dependents, limits it to four, conditions it on justice, and directs a man to one wife when he fears he cannot be fair. Reducing the institution to "men are allowed four women" leaves out the context, obligations, and family structure through which Islam understands it.
 
