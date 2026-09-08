@@ -52,13 +52,16 @@ share: true
 
     {% include yt-embed.html url="https://youtu.be/abzZL_3Av2E" title="Linguistic Miracle of the Qur'an" %}
 
+    <details class="quran-more" markdown="1">
+    <summary>Show more videos on this theme</summary>
+
+    {% include yt-embed.html url="https://youtu.be/pH5JzIAPivY" title="This Connection Proves The Prophet Muhammad ﷺ MUST Be A True Messenger Of Allah" %}
+
     {% include yt-embed.html url="https://youtu.be/jmNY06nmpL8" title="A Linguistic Marvel in Surah Al-Fatihah | Arabic101" %}
 
     {% include yt-embed.html url="https://youtu.be/vady0SQGHCU" title="Incredible Word Patterns found in the Quran" %}
 
     {% include yt-embed.html url="https://youtu.be/phO4YyNJ244" title="The Amazonian Tribe That Accidentally Proved the Quran is Unmatched | Arabic101" %}
-
-    {% include yt-embed.html url="https://youtu.be/pH5JzIAPivY" title="This Connection Proves The Prophet Muhammad ﷺ MUST Be A True Messenger Of Allah" %}
 
     {% include yt-embed.html url="https://youtu.be/ACBIkx1KaBE" title="Linguistic Miracles: Do Not Kill Your Children" %}
 
@@ -73,6 +76,12 @@ share: true
     {% include yt-embed.html url="https://youtu.be/2iiGZlyDOXk" title="Quran's Miracle You’ll Hear for the First Time! - This Will Change the Way You See the Quran" %}
 
     > [The Inimitable Qur'an - paper](https://yaqeeninstitute.ca/read/paper/the-inimitable-quran-the-revelation-to-prophet-muhammad)
+
+    {% include yt-embed.html url="https://youtu.be/wA4v8MrBHHc" title="The Hebrew word that PROVED that the Qur'an is from Allah" %}
+
+    {% include yt-embed.html url="https://youtu.be/OED98p4bpx0" title="ONE WORD Proving the Quran is Allah's Words | Arabic101" %}
+
+    </details>
 
 1. It belongs to neither poetry nor prose, but introduced a distinct literary form of its own—a mode of expression previously unknown in Arabic—that combines rhythmic beauty with precision of meaning.
 1. It maintains the same literary quality across all 23 years of revelation, unlike human authors, whose style normally changes over the course of a career.
