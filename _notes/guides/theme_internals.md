@@ -367,13 +367,23 @@ theme and font-size bootstraps, because CSS keys off it too.
 
 The summary is styled as a hairline and a muted label — the `.quran-more` /
 `.yt-embed` idiom. The desktop TOC title is now the same thing: the theme's
-solid `--mm-primary-color` bar is gone at both widths, and `.toc` has no box
-at all inside `.page__content`: the filled bar was the loudest thing above the
-article, and the box's own top border landed a pixel below the summary's
-underline, so the disclosure opened showing two parallel lines. The theme's
-`border-bottom` under each entry **stays** — it was removed for a while and
-the list read as an undifferentiated column, and it was never the line that
-collided with the title's hairline.
+solid `--mm-primary-color` bar is the only thing changed: it was the loudest
+thing above the article, and it becomes the same muted uppercase eyebrow the
+disclosure summary uses, with a hairline under it in place of the fill.
+
+**Every other line the theme draws is the theme's, and stays** — the box
+around `.toc`, and the `border-bottom` under each entry. Both were stripped
+for a while during this work and both had to come back: without the box the
+widget stopped reading as a bounded thing, and without the dividers the list
+read as an undifferentiated column.
+
+One exception, and it is scoped: inside the mobile disclosure the summary
+already draws a full-width underline, and the box's top border lands a pixel
+below it — two parallel lines the moment the panel opens. So
+`.toc-disclosure > .toc` drops its `border-block-start` and squares its top
+corners, **inside `@media (max-width: 63.9375em)` only**. The wrapper exists
+at every width and at `64em` the summary is `display: none`, so an unscoped
+version leaves the desktop sidebar's box open along its top edge.
 
 `toc_label` is defaulted to `ON THIS PAGE` in `_config.yml`'s `pages` scope
 rather than repeated in front matter; a page can still override it there. The

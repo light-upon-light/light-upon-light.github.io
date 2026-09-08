@@ -841,36 +841,28 @@
   /* ---- Plain TOC ------------------------------------------------------
 
      The theme ships .toc as a card: a bordered, shadowed, rounded box, a
-     solid --mm-primary-color bar for the "On This Page" title, and a
-     1px divider under *every* entry. Three problems on this site. The
-     filled bar was the loudest thing above the article, and inside the
-     mobile disclosure the box's own top border landed a pixel below the
-     summary's underline, so the widget opened with two parallel lines.
+     solid --mm-primary-color bar for the "On This Page" title, and a 1px
+     divider under every entry. Only the filled bar is changed here -- it
+     was the loudest thing above the article. The box and the dividers are
+     the theme's, kept: without them the widget stopped reading as a
+     bounded thing and the list read as an undifferentiated column.
 
-     So: no box at all, at either width. The title becomes the same muted
-     uppercase Karla eyebrow the disclosure summary already uses, with a
-     hairline under it. The theme's per-entry dividers stay -- see the
-     .toc__menu a rule below.
+     The title becomes the same muted uppercase Karla eyebrow the
+     disclosure summary uses, with a hairline under it in place of the
+     fill. It keeps the theme's own padding, since it now sits inside the
+     box rather than against the article's left edge.
 
      #toc-panel is footer/custom.html's drawer clone of the same widget and
      is named alongside for the same reason as the font rules above: it is
      mounted outside .page__content, so a .page__content-scoped selector
-     would leave the drawer on the theme's card styling. Both selectors
-     carry a class more than the theme's bare `.toc`/`.nav__title`/
-     `.toc__menu a`, so specificity wins without !important. */
-  /* Box removal is INLINE-TOC ONLY. #toc-panel's `.toc` is the drawer's own
-     surface -- the theme's `background-color: var(--mm-background-color)`
-     and border on `.toc` are what make the panel opaque against the
-     backdrop, since #toc-panel itself sets no background. Stripping them
-     there left the drawer transparent over the article; caught in the
-     preview, not reasoned about. */
-  .page__content .toc {
-    background-color: transparent;
-    border: 0;
-    border-radius: 0;
-    box-shadow: none;
-  }
+     would leave the drawer on the theme's title bar. Both selectors carry
+     a class more than the theme's bare `.toc`/`.nav__title`/`.toc__menu a`,
+     so specificity wins without !important.
 
+     NOTE for anyone tempted to strip the box: `.toc`'s background and
+     border are also what make the DRAWER opaque -- #toc-panel sets no
+     background of its own -- so a `#toc-panel .toc { border: 0 }` renders
+     the drawer transparent over the article. */
   .page__content .toc .nav__title,
   #toc-panel .nav__title {
     background: transparent;
@@ -880,25 +872,29 @@
     letter-spacing: 0.08em;
     text-transform: uppercase;
     border-radius: 0;
+    padding: 0.6rem 0.75rem 0.5rem;
     border-block-end: 1px solid var(--site-src-border);
   }
 
-  /* The inline TOC's title aligns with the article's own left edge, so it
-     drops the theme's inline padding; the drawer's keeps it, because there
-     `.toc` has no padding of its own and 0 would put the label against the
-     panel edge. */
-  .page__content .toc .nav__title {
-    padding: 0 0 0.5rem;
-  }
-
-  #toc-panel .nav__title {
-    padding: 0.75rem 0.75rem 0.5rem;
+  /* Inside the mobile disclosure the summary already draws a full-width
+     underline, and the box's own top border lands a pixel below it -- two
+     parallel lines the moment the panel opens. The box keeps its sides and
+     bottom; only the edge that duplicates the summary's rule is dropped,
+     with the top corners squared so the remaining border meets the summary
+     cleanly. The media query is load-bearing: the wrapper exists at every
+     width, and at $large the summary is display:none, so an unscoped rule
+     would leave the desktop sidebar's box open along its top edge. */
+  @media (max-width: 63.9375em) {
+    .toc-disclosure > .toc {
+      border-block-start: 0;
+      border-start-start-radius: 0;
+      border-start-end-radius: 0;
+    }
   }
 
   /* The theme sets the entry font at 0.6875em of .toc's 1rem, which is
-     11px -- readable only as a dense card. With the box gone the list is
-     type on the page and has to hold its own, hence the step up and the
-     looser line-height. `font-weight: normal` undoes the theme's bold on
+     11px -- too small to scan comfortably at this site's reading size,
+     hence the step up and the looser line-height. `font-weight: normal` undoes the theme's bold on
      top-level entries; its own deeper `li ul > li a` rule already sets
      normal on nested ones, so this only levels the two. */
   .page__content .toc .toc__menu,
