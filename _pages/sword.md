@@ -55,31 +55,42 @@ The Prophet's ﷺ instructions to commanders expressly allowed settlement withou
 
 Acceptance of Muslim rule therefore did not require acceptance of Islam. Political submission and religious conversion were separate outcomes.
 
+## Jerusalem provides an early example
+
+The surrender of Jerusalem under Umar ibn al-Khattab illustrates the distinction unusually clearly. Christian sources remember his arrival for its conspicuous simplicity: the Byzantine chronicler Theophanes, who was hostile to the Muslim conquerors, describes Umar entering in rough camel-hair clothing and refusing finer clothes offered by Patriarch Sophronius. Muslim tradition adds the well-known account that Umar and his attendant shared a single mount by turns, and that Umar approached on foot while the attendant rode.[6](#ref-6){: .footnote}
+
+More directly relevant is a later Christian account preserved by Eutychius of Alexandria. It relates that Sophronius invited Umar to pray inside the Church of the Holy Sepulchre, but Umar prayed outside, explaining that later Muslims might otherwise use his prayer there as grounds to take the church. The account was written centuries after the conquest, so its details are not contemporary reportage. But the tradition is striking: **the exemplary Muslim conqueror was remembered as deliberately refusing to turn political victory into a claim over Christian worship.**[6](#ref-6){: .footnote}
+
 ## Conversion took centuries
 
 If conquest itself had been a program of mass conversion, religious change should have followed military victory quickly. Instead, the evidence shows a much slower process.
 
-Richard Bulliet's *Conversion to Islam in the Medieval Period* reconstructed conversion timelines from Muslim personal names in biographical dictionaries. For Iran, Iraq, Syria, Egypt and Spain, he found gradual S-curves extending across roughly three to four centuries rather than sudden changes at conquest.[6](#ref-6){: .footnote}
+Richard Bulliet's *Conversion to Islam in the Medieval Period* reconstructed conversion timelines from Muslim personal names in biographical dictionaries. For Iran, Iraq, Syria, Egypt and Spain, he found gradual S-curves extending across roughly three to four centuries rather than sudden changes at conquest.[7](#ref-7){: .footnote}
 
-Egypt provides a particularly clear comparison. Quantitative research using tax records and later census data places the conversion of the Coptic population between 641 and about 1200.[7](#ref-7){: .footnote} The conquest took about two years; the transition to a Muslim majority took roughly five centuries.
+Egypt provides a particularly clear comparison. Quantitative research using tax records and later census data places the conversion of the Coptic population between 641 and about 1200.[8](#ref-8){: .footnote} The conquest took about two years; the transition to a Muslim majority took roughly five centuries.
 
-Bulliet's graphs count those who eventually converted, not the whole population. Syria and Egypt still contained substantial Christian populations at the end of the medieval period.[6](#ref-6){: .footnote} Later scholarship has revised particular regional curves, especially for al-Andalus, but the broader pattern remains gradual conversion over generations rather than immediate mass conversion.
+Bulliet's graphs count those who eventually converted, not the whole population. Syria and Egypt still contained substantial Christian populations at the end of the medieval period.[7](#ref-7){: .footnote} Later scholarship has revised particular regional curves, especially for al-Andalus, but the broader pattern remains gradual conversion over generations rather than immediate mass conversion.
 
 **Political conquest was rapid. Religious change was not.** That is not the pattern expected if armies were ordinarily being used to make conquered populations profess Islam.
 
-## Non-Muslim communities survived centuries of Muslim rule
+## Non-Muslim communities survived—and sometimes flourished
 
-The same distinction appears in the communities that remained non-Muslim under long periods of Muslim government. Egypt's Copts have been continuously present since before the conquest. Syriac and Assyrian Christian communities survived in Iraq and Syria, Zoroastrians remained in Iran, and Hindus remained the majority across most of the Indian subcontinent despite centuries of Muslim dynastic rule.
+The same distinction appears in communities that remained non-Muslim under long periods of Muslim government. Egypt's Copts have been continuously present since before the conquest. Syriac and Assyrian Christian communities survived in Iraq and Syria, Zoroastrians remained in Iran, and Hindus remained the majority across most of the Indian subcontinent despite centuries of Muslim dynastic rule.
 
-India is especially instructive. Muslim dynasties ruled large parts of the subcontinent from the Delhi Sultanate beginning in 1206 through the end of Mughal rule in 1857. Yet the 2011 census still recorded roughly 80 per cent of India's population as Hindu and 14 per cent as Muslim.[8](#ref-8){: .footnote}
+India is especially instructive. Muslim dynasties ruled large parts of the subcontinent from the Delhi Sultanate beginning in 1206 through the end of Mughal rule in 1857. Yet the 2011 census still recorded roughly 80 per cent of India's population as Hindu and 14 per cent as Muslim.[9](#ref-9){: .footnote}
 
-Centuries of Muslim sovereignty therefore did not produce the religious uniformity expected from a general policy of conversion by force. **Changing who governed a population was not the same thing as changing what that population believed.**
+Survival was not always mere endurance. Under the Abbasids, the great Jewish academies of Babylonia became centres of authority for Jewish communities across the Islamic world; Oxford scholarship describes their prestige and influence as unprecedented. The Church of the East likewise entered a period of exceptional power and influence after its patriarchate moved to Baghdad, while Syriac Christians played a central role in the Abbasid translation movement.[10](#ref-10){: .footnote}
+
+Nor were conquered populations simply extensions of the governments that ruled them. In Visigothic Spain, Jews had endured severe persecution and forced conversion; when Muslim forces entered in 711, significant elements of Jewish communities gave them allegiance. In Egypt, the Coptic Church had suffered Byzantine pressure to accept imperial doctrine; after the conquest its patriarch Benjamin returned from exile, and the Christian chronicler John of Nikiu says that Amr ibn al-As preserved church property during his rule. Later Byzantine reconquests could even drive non-Chalcedonian Christians to seek refuge in Muslim-held territory.[11](#ref-11){: .footnote}
+
+These examples should not be turned into the opposite simplification that conquered populations universally welcomed Muslim armies. Reactions differed, and Muslim governments could themselves become oppressive. The narrower point is enough: **the defeated ruler and the people he ruled were not the same thing.** Some non-Muslim communities survived, some flourished, and some had reasons to prefer Muslim rule to the regime it replaced.
+
 
 ## Islam also spread without Muslim conquest
 
 The “sword” explanation also fails where Islam spread without an invading Muslim army.
 
-The Islamisation of the Indonesian archipelago developed through trade, Muslim merchant communities, preaching, marriage and the conversion of local rulers rather than an Arab conquest. Indonesia had roughly 242 million Muslims in 2022.[9](#ref-9){: .footnote}
+The Islamisation of the Indonesian archipelago developed through trade, Muslim merchant communities, preaching, marriage and the conversion of local rulers rather than an Arab conquest. Indonesia had roughly 242 million Muslims in 2022.[12](#ref-12){: .footnote}
 
 Similar commercial and scholarly networks carried Islam through the Malay world, across trans-Saharan routes into West Africa and along the Indian Ocean coast of East Africa. Muslim communities also developed in China through merchants travelling by land and sea.
 
@@ -122,29 +133,29 @@ The English wording below follows the cited translations, with “God” used fo
 
 ## The rules of war protected non-combatants
 
-After a woman was found killed during an expedition, the Prophet ﷺ "forbade the killing of women and children" (*Sahih al-Bukhari* 3015; also 3014, *Sahih Muslim* 4547–4548 and *Muwatta Malik* 967).[10](#ref-10){: .footnote}
+After a woman was found killed during an expedition, the Prophet ﷺ "forbade the killing of women and children" (*Sahih al-Bukhari* 3015; also 3014, *Sahih Muslim* 4547–4548 and *Muwatta Malik* 967).[13](#ref-13){: .footnote}
 
-Another report gives the reason. Seeing soldiers around the body of a woman, the Prophet ﷺ said, "This one was not among those who were fighting," then ordered Khalid ibn al-Walid not to kill "any children, or women, or any labourer" (*Sunan Ibn Majah* 2842).[11](#ref-11){: .footnote}
+Another report gives the reason. Seeing soldiers around the body of a woman, the Prophet ﷺ said, "This one was not among those who were fighting," then ordered Khalid ibn al-Walid not to kill "any children, or women, or any labourer" (*Sunan Ibn Majah* 2842).[14](#ref-14){: .footnote}
 
 The governing distinction is **combatant versus non-combatant, not Muslim versus non-Muslim**. The woman's religion is irrelevant to the ruling; the labourer is protected because he is not fighting. Standing instructions to commanders also prohibit treachery, mutilation and the killing of children.[5](#ref-5){: .footnote}
 
-A report attributed to Abu Bakr, the first caliph, similarly tells armies sent to Syria not to kill women, children, the elderly or infirm; destroy inhabited places or fruit trees; slaughter livestock except for food; or disturb monks in their monasteries. Its chain is weaker than the Prophetic reports above, so it is evidence of reported early practice rather than the basis of the ruling.[12](#ref-12){: .footnote}
+A report attributed to Abu Bakr, the first caliph, similarly tells armies sent to Syria not to kill women, children, the elderly or infirm; destroy inhabited places or fruit trees; slaughter livestock except for food; or disturb monks in their monasteries. Its chain is weaker than the Prophetic reports above, so it is evidence of reported early practice rather than the basis of the ruling.[15](#ref-15){: .footnote}
 
 ## Forced conversions did occur
 
 There were periods in which Muslim rulers did use force to impose religious conformity.
 
-The Almohads in twelfth-century North Africa and al-Andalus forced Jews and Christians to profess Islam. Their policy broke with the earlier arrangement under which those communities had lived for centuries as non-Muslim subjects.[13](#ref-13){: .footnote}
+The Almohads in twelfth-century North Africa and al-Andalus forced Jews and Christians to profess Islam. Their policy broke with the earlier arrangement under which those communities had lived for centuries as non-Muslim subjects.[16](#ref-16){: .footnote}
 
-From 1501, the Safavid state used coercion in the transformation of predominantly Sunni Iran into a Twelver Shi'i state. Sunnis faced pressure, persecution and, in some places, forced conformity to Shi'i practice.[13](#ref-13){: .footnote}
+From 1501, the Safavid state used coercion in the transformation of predominantly Sunni Iran into a Twelver Shi'i state. Sunnis faced pressure, persecution and, in some places, forced conformity to Shi'i practice.[16](#ref-16){: .footnote}
 
 These cases are important precisely because they are identifiable as forced conversion. **Muslim rule and forced conversion are not the same historical category**; otherwise there would be no meaningful contrast between these episodes and the centuries in which large non-Muslim communities remained under Muslim government.
 
 ## Political pressure could still encourage conversion
 
-Absence of forced conversion does not mean political rule had no effect on religious choices. Muslim government could make conversion advantageous through taxation, access to office, patronage or proximity to a Muslim ruling class. The *jizya* created a financial incentive in some periods, including measurable effects among poorer converts; the evidence is discussed in [The Jizya](/jizya).[7](#ref-7){: .footnote}
+Absence of forced conversion does not mean political rule had no effect on religious choices. Muslim government could make conversion advantageous through taxation, access to office, patronage or proximity to a Muslim ruling class. The *jizya* created a financial incentive in some periods, including measurable effects among poorer converts; the evidence is discussed in [The Jizya](/jizya).[8](#ref-8){: .footnote}
 
-Some rulers also imposed discriminatory or coercive policies short of a general forced-conversion program. Aurangzeb, for example, restored the *jizya* in Mughal India in 1679, and his reign included the destruction of particular Hindu temples.[14](#ref-14){: .footnote}
+Some rulers also imposed discriminatory or coercive policies short of a general forced-conversion program. Aurangzeb, for example, restored the *jizya* in Mughal India in 1679, and his reign included the destruction of particular Hindu temples.[17](#ref-17){: .footnote}
 
 But **pressure, incentive and forced profession of faith are different claims**. The historical test remains the same: conversion was usually gradual, substantial non-Muslim populations persisted, and the explanation cannot account for regions such as Indonesia where Islam spread without Muslim conquest or a *jizya*-paying subject population.
 
@@ -152,7 +163,7 @@ But **pressure, incentive and forced profession of faith are different claims**.
 
 The phrase “spread by the sword” collapses three different histories into one.
 
-Muslim armies fought for different reasons: some campaigns answered attacks or reported threats, some arose from local political appeals, and others were expansion by states seeking power and territory. When conquest occurred, it ordinarily changed the ruling authority rather than the population's religion. Conversion then followed its own, much slower history—and in many regions spread without Muslim conquest at all.
+Muslim armies fought for different reasons: some campaigns answered attacks or reported threats, some arose from local political appeals, and others were expansion by states seeking power and territory. When conquest occurred, it ordinarily changed the ruling authority rather than the population's religion. Non-Muslim communities could remain for centuries; some Jewish and Christian institutions flourished, and some groups oppressed by previous rulers cooperated with or preferred the new order. Conversion then followed its own, much slower history—and in many regions spread without Muslim conquest at all.
 
 Forced conversion did occur, and political rule could create pressure to convert. Neither fact makes forced conversion the general mechanism by which Islam spread.
 
@@ -177,23 +188,29 @@ Forced conversion did occur, and political rule could create pressure to convert
 
 5. <span id="ref-5"></span>*Sahih Muslim* 4521. The full report also prohibits embezzling spoils, breaking pledges and mutilating the dead. It instructs commanders not to grant terms in the name of God and His Prophet ﷺ when their own guarantee would suffice, because breaking a human pledge is the lesser wrong.
 
-6. <span id="ref-6"></span>Richard W. Bulliet, *Conversion to Islam in the Medieval Period: An Essay in Quantitative History* (Harvard University Press, 1979), includes conversion curves for Iran, Iraq, Egypt, Tunisia, Syria and Spain. Bulliet infers conversion dates from Muslim given names in biographical dictionaries. His graphs count eventual converts, not entire populations—important in Syria and Egypt, where large minorities did not convert. Later scholarship has revised particular regional curves, especially for al-Andalus, but the general pattern remains gradual conversion over several centuries rather than sudden change.
+6. <span id="ref-6"></span>Theophanes, *Chronographia*, writing in the early ninth century from a hostile Byzantine perspective, describes Umar entering Jerusalem in rough camel-hair garments and refusing finer clothing offered by Patriarch Sophronius; see the translated extract collected by Loyola University Chicago, [“Theophanes”](https://avande1.sites.luc.edu/jerusalem/sources/theophanes.htm). The account that Umar and his attendant shared one mount and that the attendant was riding as they approached Jerusalem belongs to later Muslim historical tradition and is cited here as tradition rather than contemporary testimony. The refusal-to-pray account is preserved by Eutychius of Alexandria (Sa'id ibn Batriq, d. 940), roughly three centuries after the conquest. See Denys Pringle, *The Churches of the Crusader Kingdom of Jerusalem*, vol. III (Cambridge University Press), pp. 9–10, citing Eutychius. Its late date is why the text uses it as an illustrative remembered ideal rather than proof of the precise events.
 
-7. <span id="ref-7"></span>Mohamed Saleh and Jean Tirole, [*Taxing Identity: Fiscal Policy and Conversions in Early Islam*](https://www.tse-fr.eu/sites/default/files/TSE/documents/doc/by/tirole/taxing_identity_051218.pdf), Toulouse School of Economics, 5 December 2018, testing their model against "Egypt's conversion to Islam between 641 and 1200."
+7. <span id="ref-7"></span>Richard W. Bulliet, *Conversion to Islam in the Medieval Period: An Essay in Quantitative History* (Harvard University Press, 1979), includes conversion curves for Iran, Iraq, Egypt, Tunisia, Syria and Spain. Bulliet infers conversion dates from Muslim given names in biographical dictionaries. His graphs count eventual converts, not entire populations—important in Syria and Egypt, where large minorities did not convert. Later scholarship has revised particular regional curves, especially for al-Andalus, but the general pattern remains gradual conversion over several centuries rather than sudden change.
 
-8. <span id="ref-8"></span>Census of India 2011, religion tables: approximately 79.8 per cent Hindu and 14.2 per cent Muslim. The Delhi Sultanate is conventionally dated from 1206 and Mughal rule ends in 1857; Muslim sovereignty varied considerably by region and period.
+8. <span id="ref-8"></span>Mohamed Saleh and Jean Tirole, [*Taxing Identity: Fiscal Policy and Conversions in Early Islam*](https://www.tse-fr.eu/sites/default/files/TSE/documents/doc/by/tirole/taxing_identity_051218.pdf), Toulouse School of Economics, 5 December 2018, testing their model against "Egypt's conversion to Islam between 641 and 1200."
 
-9. <span id="ref-9"></span>On Southeast Asian Islamisation through merchants, trade networks and conversion of rulers, see standard histories of Southeast Asian Islam; for a concise modern discussion, see Stelios Michalopoulos, Alireza Naghavi and Giovanni Prarolo, “Trade and Geography in the Spread of Islam,” *The Economic Journal* 128 (2018). Pew Research Center, using Indonesian Ministry of Religious Affairs data released in 2022, reports roughly 242 million Muslims in Indonesia.
+9. <span id="ref-9"></span>Census of India 2011, religion tables: approximately 79.8 per cent Hindu and 14.2 per cent Muslim. The Delhi Sultanate is conventionally dated from 1206 and Mughal rule ends in 1857; Muslim sovereignty varied considerably by region and period.
 
-10. <span id="ref-10"></span>*Sahih al-Bukhari* 3015 and 3014; *Sahih Muslim* 4547–4548; *Muwatta Malik* 967.
+10. <span id="ref-10"></span>On Jewish life under the Abbasids, see Marina Rustow, [“Jews under Medieval Islam,” *Oxford Bibliographies in Jewish Studies*](https://academic.oup.com/reference/62376/reference-article-abstract/554965018), which notes that the Babylonian academies attained “unprecedented prestige and influence” over Jewish communities across the Islamic world; see also Eve Krakowski, [“Jews and Diaspora in the Medieval Islamic Middle East,” *The Oxford Handbook of the Jewish Diaspora*](https://academic.oup.com/edited-volume/37080/chapter-abstract/323170779). On the Church of the East, see Philip Wood, [“The Church of Baghdad: A New Past for Christian Iraq”](https://academic.oup.com/book/26826/chapter/195827063), describing the Abbasid period after the transfer of the catholicosate to Baghdad as one of “unprecedented power and influence.” On Syriac Christians in the translation movement, see R. Y. Ebied, [“The Syrian impact on Arabic literature,” *The Cambridge History of Arabic Literature*](https://www.cambridge.org/core/books/abs/arabic-literature-to-the-end-of-the-umayyad-period/syrian-impact-on-arabic-literature/85830F02B6A09CC50944CAE173189091).
 
-11. <span id="ref-11"></span>*Sunan Ibn Majah* 2842, graded *hasan sahih* and *sahih li-ghayrihi* in the collection's apparatus.
+11. <span id="ref-11"></span>For Visigothic Spain, William D. Phillips Jr and Carla Rahn Phillips, [*A Concise History of Spain*, ch. 3](https://www.cambridge.org/core/books/abs/concise-history-of-spain/diversity-in-medieval-spain/F90568162C95CEE90DB2DFC5E038D2A4), note both Visigothic oppression of Jews and the allegiance given to Tariq's forces by significant elements of Jewish communities. The broader history includes royal forced conversions of Jews in Visigothic Spain; see [*The Cambridge History of Christianity*, ch. 7](https://www.cambridge.org/core/books/abs/cambridge-history-of-christianity/christians-and-jews/6C6F471E2D67274114F86CDCA9467A89). For Egypt, the *Chronicle of John of Nikiu* records Benjamin's return after exile under the Romans and says that Amr “took none of the property of the Churches”; [English translation](https://www.tertullian.org/fathers/nikiu2_chronicle.htm). Modern scholarship cautions against treating Coptic attitudes as uniform, while confirming prior imperial pressure on the anti-Chalcedonian church and the flourishing of Coptic language and literature after the conquest; see Roger S. Bagnall (ed.), [*Roman Egypt*, ch. 6](https://www.cambridge.org/core/books/abs/roman-egypt/persians-the-arab-conquest-and-another-transformation-of-egypt/986CA226D2F4015505668D02DD263D02). On non-Chalcedonian Christians later seeking refuge in Muslim territory during Byzantine reconquest, see Jean Richard, [“The Eastern Churches,” *The New Cambridge Medieval History*](https://www.cambridge.org/core/books/abs/new-cambridge-medieval-history/eastern-churches/BDE394997434F4C6F3C1AE8A84FD7550).
 
-12. <span id="ref-12"></span>*Muwatta Malik* 968, graded *mauquf da'if*. *Mauquf* means the report ends with a Companion rather than reaching the Prophet ﷺ; *da'if* means its chain is weak. It is cited here only as reported early practice, while the legal principle is established by the Prophetic reports above.
+12. <span id="ref-12"></span>On Southeast Asian Islamisation through merchants, trade networks and conversion of rulers, see standard histories of Southeast Asian Islam; for a concise modern discussion, see Stelios Michalopoulos, Alireza Naghavi and Giovanni Prarolo, “Trade and Geography in the Spread of Islam,” *The Economic Journal* 128 (2018). Pew Research Center, using Indonesian Ministry of Religious Affairs data released in 2022, reports roughly 242 million Muslims in Indonesia.
 
-13. <span id="ref-13"></span>For the Almohads, see Maribel Fierro, “Conversion, ancestry and universal religion: the case of the Almohads in the Islamic West,” *Journal of Medieval Iberian Studies* 2.2 (2010), and “The Religious Policy of the Almohads,” in *The Oxford Handbook of Islamic Theology*. For Safavid Iran, see Encyclopaedia Iranica, “Shi'ism in Iran Since the Safavids”; coercion was especially severe in the early Safavid period, although the longer conversion of Iran to Shi'ism was more complex and gradual.
+13. <span id="ref-13"></span>*Sahih al-Bukhari* 3015 and 3014; *Sahih Muslim* 4547–4548; *Muwatta Malik* 967.
 
-14. <span id="ref-14"></span>Aurangzeb reimposed the *jizya* in 1679. Temple destruction under his reign is historically documented but was not a uniform policy toward every Hindu temple; particular demolitions were often entangled with political rebellion and imperial control. See Satish Chandra, “Jizyah and the State in India during the 17th Century,” *Journal of the Economic and Social History of the Orient* 12.3 (1969), and Richard M. Eaton's work on temple desecration in premodern India.
+14. <span id="ref-14"></span>*Sunan Ibn Majah* 2842, graded *hasan sahih* and *sahih li-ghayrihi* in the collection's apparatus.
+
+15. <span id="ref-15"></span>*Muwatta Malik* 968, graded *mauquf da'if*. *Mauquf* means the report ends with a Companion rather than reaching the Prophet ﷺ; *da'if* means its chain is weak. It is cited here only as reported early practice, while the legal principle is established by the Prophetic reports above.
+
+16. <span id="ref-16"></span>For the Almohads, see Maribel Fierro, “Conversion, ancestry and universal religion: the case of the Almohads in the Islamic West,” *Journal of Medieval Iberian Studies* 2.2 (2010), and “The Religious Policy of the Almohads,” in *The Oxford Handbook of Islamic Theology*. For Safavid Iran, see Encyclopaedia Iranica, “Shi'ism in Iran Since the Safavids”; coercion was especially severe in the early Safavid period, although the longer conversion of Iran to Shi'ism was more complex and gradual.
+
+17. <span id="ref-17"></span>Aurangzeb reimposed the *jizya* in 1679. Temple destruction under his reign is historically documented but was not a uniform policy toward every Hindu temple; particular demolitions were often entangled with political rebellion and imperial control. See Satish Chandra, “Jizyah and the State in India during the 17th Century,” *Journal of the Economic and Social History of the Orient* 12.3 (1969), and Richard M. Eaton's work on temple desecration in premodern India.
 
 </div>
 
