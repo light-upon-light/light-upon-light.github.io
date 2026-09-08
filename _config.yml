@@ -21,8 +21,8 @@ title                    : "Light upon Light"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Light upon Light"
-description              : "Articles on the Qur'an, the life of the Prophet Muhammad, and responses to common misrepresentations of Islam."
-blurb                    : "This site collects articles examining the Qur'an and the life of the Prophet Muhammad ﷺ, and responding to common misrepresentations of Islam."
+description              : "Articles on the Qur'an, the life of the Prophet Muhammad, and responses to common misconceptions about Islam."
+blurb                    : "This site collects articles examining the Qur'an and the life of the Prophet Muhammad ﷺ, and responding to common misconceptions about Islam."
 url                      : "https://lightuponlight.info" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 domain                   : lightuponlight.info
 baseurl                  : # the subpath of your site, e.g. "/blog"

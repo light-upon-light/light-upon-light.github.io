@@ -3,7 +3,7 @@
 Use this methodology for articles concerning:
 
 - the miraculous nature of the Qur’an;
-- common misrepresentations of Islam;
+- common misconceptions about Islam;
 - objections to the Prophet Muhammad ﷺ;
 - moral, historical, theological, or legal criticisms of Islamic teachings;
 - explanations of disputed verses, hadith, doctrines, or historical events;
