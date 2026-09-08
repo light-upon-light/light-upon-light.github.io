@@ -122,19 +122,15 @@ Therefore, this allows a woman to secure monogamy before marriage if that is wha
 
 ## Why is the permission one-sided?
 
-The basic asymmetry remains: a man may have several wives, while a woman may not have several husbands.
+The basic asymmetry remains: a man may have several wives, while a woman may not have several husbands. But Islamic family law does not treat men and women as interchangeable. It assigns them different roles and responsibilities, with the husband obligated to provide for and care for his wife and family.
 
-The starting point in Islamic family law is not that men and women must have identical rules in order to have equal worth. Islam treats the masculine and the feminine as genuinely different, and some different rights and responsibilities follow from those differences. Equality in dignity does not require interchangeability in every family role.
+**Financial and familial responsibility.** A husband pays the *mahr*, owes his wife maintenance and housing, and supports the children. Her property and earnings remain her own. If he marries another wife, those responsibilities multiply. Polygyny therefore gives a man additional obligations, not simply additional marital options.
 
-**Reproduction and lineage.** A mother and father do not occupy identical biological positions. A woman bears pregnancy and gives birth; motherhood is immediately certain, while fatherhood is established through the marital bond. Islamic law builds inheritance, maintenance, guardianship, and prohibited degrees of marriage around clear family lines. Modern genetic testing can answer questions of biological paternity, but it does not make motherhood and fatherhood interchangeable or remove the broader family structure built around them.
+**Social function.** Because men bear that responsibility, polygyny can also address circumstances involving widows, divorcees, demographic imbalance, or women and children needing family support. It provides another route into a household in which the husband owes them concrete duties. The institution is therefore not centered simply on satisfying male desire.
 
-**Financial responsibility.** A husband pays the *mahr*, owes his wife maintenance and housing, and supports the children. He acquires no claim over her property or earnings, which remain hers. If he marries another wife, those obligations multiply. A second wife therefore means another person toward whom he has legal and financial duties, not simply another benefit for himself.
+**Reproduction and lineage.** Men and women also play different biological roles in reproduction. Islamic law structures parenthood, inheritance, maintenance, and kinship around an identifiable mother and father. DNA testing can establish biological paternity today, but it does not remove the broader differences between motherhood and fatherhood or make a several-husbands-one-wife family structure equivalent to polygyny.
 
-**Family structure.** Polygyny can fit within that framework without multiplying husbands over the same wife: each wife has one husband, each child belongs to a defined family line, and the husband's obligations expand with each household. Polyandry would not simply be the female mirror-image of polygyny; it would create a different structure of marital authority, financial responsibility, parenthood, and kinship.
-
-**Social function.** The same arrangement can also answer real social needs. In societies affected by war, widowhood, divorce, demographic imbalance, or other pressures on family formation, polygyny can give women and children another route into a household whose husband owes them support. That does not mean every plural marriage must solve a public crisis. It means the institution can serve family and social purposes that disappear if it is described only as a concession to male appetite.
-
-Different rules therefore do not by themselves show that one sex is valued more. Islamic family law already assigns men and women different duties in several areas. The relevant question is whether each is treated justly within the responsibilities given to them, not whether every rule is identical.
+The asymmetry therefore belongs to a wider Islamic understanding of men and women as equal in human worth but different in nature, roles, and responsibilities. Different rules do not by themselves imply that one sex is valued more.
 
 ## Where the criticism is justified
 
