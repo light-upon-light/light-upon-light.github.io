@@ -1082,10 +1082,10 @@
      It must NOT read as a fourth evidence type. Those three are a semantic
      LEFT-RULE system, so this refuses the left rule and the indent both and
      takes the full content width instead: a different layer of the page, not
-     another kind of quotation. The card form does that separating work; the
-     parchment colour only has to avoid colliding with gold/taupe/verdigris,
-     which is why it reuses the skin's own cream family rather than
-     introducing a fourth hue. Palette and contrast ratios are in _dirt.scss.
+     another kind of quotation. The card form does that separating work, so
+     the colour is free to be loud: a verdigris tint, borrowed from .gloss's
+     hue but not its left rule. Palette and contrast ratios are in
+     _dirt.scss.
 
      Deliberately NOT a markdown heading: the misconception pages set
      `toc_levels: 2..3` and quran.md sets none, so an `## TL;DR` would enter
@@ -1102,28 +1102,67 @@
      !important can. Measured, not reasoned: getComputedStyle read back
      marginTop: 0px without it. */
   .page__content .tldr {
-    margin-block: 1.6em !important;
+    position: relative;
+    /* Extra space below, plus the ::after rule, is the demarcation between
+       the summary and the article's own opening paragraph: without it the
+       intro started immediately under the card and read as more of it. */
+    margin-block: 1.6em 3.4em !important;
     /* full content width: every evidence blockquote is indented, and
        refusing the indent is half of what says this is not one of them */
     margin-inline: 0;
-    padding: 0.9em 1em;
+    /* Wider inline padding than block: the text was running into the left
+       and right border. The block padding stays smaller because the card's
+       last child has its own margin zeroed just below, so what you see at
+       the bottom is the padding alone rather than padding plus a stacked
+       paragraph margin. */
+    padding: 1em 1.5em;
     background-color: var(--site-tldr-fill);
     border: 1px solid var(--site-tldr-line);
     border-radius: 4px;
-    /* the UI face, like .toc and the masthead nav -- the other places on
-       this site that say "not the article itself" */
-    font-family: "Karla", -apple-system, BlinkMacSystemFont, "Roboto",
-                 "Segoe UI", Arial, sans-serif;
   }
 
+  /* The break between the card and the intro: a short centred hairline,
+     fading out at both ends, in the gap the margin-bottom above opens. A
+     pseudo-element rather than markup, so none of the eight article pages
+     needs an extra element. */
+  .page__content .tldr::after {
+    content: "";
+    position: absolute;
+    inset-inline-start: 50%;
+    bottom: -1.9em;
+    transform: translateX(-50%);
+    width: 5em;
+    height: 1px;
+    background-image: linear-gradient(to right, transparent,
+                                      var(--site-tldr-line), transparent);
+  }
+
+  /* The card's own padding sets the gap above and below its content; the
+     first and last children's margins would otherwise stack on top of it,
+     the same doubling .gloss corrects above. Was li-only, which left the
+     prose-paragraph pages (all of them) with a visibly deeper bottom gap
+     than top. */
+  .page__content .tldr > :first-child { margin-top: 0; }
+  .page__content .tldr > :last-child { margin-bottom: 0; }
+
+  /* The label is the card's title and has to read as one -- at 0.72em it
+     was a caption. Karla and the uppercase tracking stay (this is the UI
+     face, as on .toc and the masthead nav), but at full body size with a
+     rule under it. The card's *body* prose is the reading serif like the
+     rest of the article: Karla there made the summary look like chrome
+     rather than like the page's own argument in short. */
   .page__content .tldr__label {
     display: block;
     color: var(--site-tldr-label);
-    font-size: 0.72em;
+    font-family: "Karla", -apple-system, BlinkMacSystemFont, "Roboto",
+                 "Segoe UI", Arial, sans-serif;
+    font-size: 1em;
     font-weight: bold;
-    letter-spacing: 0.09em;
+    letter-spacing: 0.12em;
     text-transform: uppercase;
-    margin-bottom: 0.5em;
+    margin-bottom: 0.7em;
+    padding-bottom: 0.4em;
+    border-block-end: 1px solid var(--site-tldr-line);
   }
 
   /* Neither stylesheet sets list-style on .page__content ul, so the marker
@@ -1153,12 +1192,6 @@
     background-color: currentColor;
     opacity: 0.45;
   }
-
-  /* The card's own padding-block already sets the gap above and below the
-     list; without these the first and last items' margins stack on top of
-     it, the same doubling .gloss corrects just above. */
-  .page__content .tldr li:first-child { margin-top: 0; }
-  .page__content .tldr li:last-child { margin-bottom: 0; }
 
   /* Collapsible YouTube reference (_includes/yt-embed.html). Same taupe/
      sepia palette as .src above, since a linked video is the same kind of

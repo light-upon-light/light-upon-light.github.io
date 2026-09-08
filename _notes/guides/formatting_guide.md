@@ -41,8 +41,10 @@ identical.
 It is not a fourth evidence type. `.quote`/`.src`/`.gloss` are a semantic
 *left-rule* system; the TL;DR is a full-content-width card with a border, no
 left rule and no indent — a different layer of the page, not another kind of
-quotation. Its parchment colours reuse the skin's existing cream family
-rather than adding a hue; palette and contrast ratios are in `_dirt.scss`.
+quotation. Its colours are a verdigris tint — `.gloss`'s hue without
+`.gloss`'s left rule; palette and contrast ratios are in `_dirt.scss`. The
+label is a full-size titled bar; the card's prose is the reading serif, and
+a fading hairline below the card separates it from the article's intro.
 
 Every page currently carries placeholder bullets.
 

@@ -25,7 +25,7 @@ stand-in for GreedyNav; ordering *within* `site.js` is what's load-bearing
 now, not `footer_scripts` order — see the header comment in `site.js`.
 
 `.tldr` is the summary card at the top of every article — a full-width
-bordered panel in the parchment family, deliberately refusing the left rule
+bordered panel in a verdigris tint, deliberately refusing the left rule
 that marks the three evidence blockquotes. Markup is `formatting_guide.md`;
 its `--site-tldr-*` values and their contrast ratios are in `_dirt.scss`.
 
