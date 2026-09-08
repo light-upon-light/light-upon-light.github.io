@@ -76,36 +76,50 @@ The Qur'an contains commands to fight in particular conflicts, but it also addre
 
 - **No religious compulsion:** "Let there be no compulsion in religion" (**Sūrat al-Baqarah 2:256**), Dr. Mustafa Khattab, *The Clear Quran*.
 
+  > "Let there be no compulsion in religion" (**Sūrat al-Baqarah 2:256**), Dr. Mustafa Khattab, *The Clear Quran*
+  >
   > <div dir="rtl" lang="ar" class="quran-arabic">﴿لَآ إِكْرَاهَ فِى ٱلدِّينِ﴾ <span class="ayah-ref">[سُورَةُ البَقَرَةِ: ٢٥٦]</span></div>
   {: .quote }
 
 - **Belief cannot be forced:** "Had your Lord so willed... all people on earth would have certainly believed... Would you then force people to become believers" (**Sūrat Yūnus 10:99**), Dr. Mustafa Khattab, *The Clear Quran*.
 
+  > "Had your Lord so willed ˹O Prophet˺, all ˹people˺ on earth would have certainly believed, every single one of them! Would you then force people to become believers" (**Sūrat Yūnus 10:99**), Dr. Mustafa Khattab, *The Clear Quran*
+  >
   > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَلَوْ شَآءَ رَبُّكَ لَـَٔامَنَ مَن فِى ٱلْأَرْضِ كُلُّهُمْ جَمِيعًا ۚ أَفَأَنتَ تُكْرِهُ ٱلنَّاسَ حَتَّىٰ يَكُونُوا۟ مُؤْمِنِينَ ۝٩٩﴾ <span class="ayah-ref">سُورَةُ يُونُسَ</span></div>
   {: .quote }
 
 - **Belief is presented as a choice, with consequences in the next life:** "whoever wills — let him believe; and whoever wills — let him disbelieve" (**Sūrat al-Kahf 18:29**), Saheeh International.
 
+  > "so whoever wills — let him believe; and whoever wills — let him disbelieve" (**Sūrat al-Kahf 18:29**), Saheeh International
+  >
   > <div dir="rtl" lang="ar" class="quran-arabic">﴿فَمَن شَآءَ فَلْيُؤْمِن وَمَن شَآءَ فَلْيَكْفُرْ﴾ <span class="ayah-ref">[سُورَةُ الكَهۡفِ: ٢٩]</span></div>
   {: .quote }
 
 - **The Prophet's ﷺ role is to remind:** "you are only a reminder" (**Sūrat al-Ghāshiyah 88:21**), Saheeh International.
 
+  > "So remind, [O Muhammad]; you are only a reminder." (**Sūrat al-Ghāshiyah 88:21**), Saheeh International
+  >
   > <div dir="rtl" lang="ar" class="quran-arabic">﴿فَذَكِّرْ إِنَّمَآ أَنتَ مُذَكِّرٌ ۝٢١﴾ <span class="ayah-ref">سُورَةُ الغَاشِيَةِ</span></div>
   {: .quote }
 
 - **People are to be invited through persuasion:** "with wisdom and kind advice" and debate "in the best manner" (**Sūrat al-Naḥl 16:125**), Dr. Mustafa Khattab, *The Clear Quran*.
 
+  > "Invite ˹all˺ to the Way of your Lord with wisdom and kind advice, and only debate with them in the best manner" (**Sūrat al-Naḥl 16:125**), Dr. Mustafa Khattab, *The Clear Quran*
+  >
   > <div dir="rtl" lang="ar" class="quran-arabic">﴿ٱدْعُ إِلَىٰ سَبِيلِ رَبِّكَ بِٱلْحِكْمَةِ وَٱلْمَوْعِظَةِ ٱلْحَسَنَةِ﴾ <span class="ayah-ref">[سُورَةُ النَّحۡلِ: ١٢٥]</span></div>
   {: .quote }
 
 - **Peace is to be accepted when offered:** "If the enemy is inclined towards peace, make peace with them" (**Sūrat al-Anfāl 8:61**), Dr. Mustafa Khattab, *The Clear Quran*.
 
+  > "If the enemy is inclined towards peace, make peace with them. And put your trust in Allah." (**Sūrat al-Anfāl 8:61**), Dr. Mustafa Khattab, *The Clear Quran*
+  >
   > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَإِن جَنَحُوا۟ لِلسَّلْمِ فَٱجْنَحْ لَهَا وَتَوَكَّلْ عَلَى ٱللَّهِ﴾ <span class="ayah-ref">[سُورَةُ الأَنفَالِ: ٦١]</span></div>
   {: .quote }
 
 - **Fighting is bounded:** "Fight in the cause of God only against those who wage war against you, but do not exceed the limits" (**Sūrat al-Baqarah 2:190**), Dr. Mustafa Khattab, *The Clear Quran*.
 
+  > "Fight in the cause of Allah ˹only˺ against those who wage war against you, but do not exceed the limits. Allah does not like transgressors" (**Sūrat al-Baqarah 2:190**), Dr. Mustafa Khattab, *The Clear Quran*
+  >
   > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَقَـٰتِلُوا۟ فِى سَبِيلِ ٱللَّهِ ٱلَّذِينَ يُقَـٰتِلُونَكُمْ وَلَا تَعْتَدُوٓا۟ ۚ إِنَّ ٱللَّهَ لَا يُحِبُّ ٱلْمُعْتَدِينَ ۝١٩٠﴾ <span class="ayah-ref">سُورَةُ البَقَرَةِ</span></div>
   {: .quote }
 
