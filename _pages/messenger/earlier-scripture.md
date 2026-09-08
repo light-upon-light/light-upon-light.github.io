@@ -13,7 +13,6 @@ short_title: "Earlier scripture"
 quran_section: the-messenger-of-god-ﷺ
 quran_section_label: "The Messenger of God ﷺ"
 toc: true
-toc_label: "On This Page"
 toc_icon: "bars"
 toc_sticky: true
 glossary:

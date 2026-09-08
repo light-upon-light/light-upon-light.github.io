@@ -363,12 +363,25 @@ bootstraps, because CSS keys off it too.
 
 The summary is styled as a hairline and a muted label — the `.quran-more` /
 `.yt-embed` idiom. The desktop TOC title is now the same thing: the theme's
-solid `--mm-primary-color` bar and the 1px divider under every entry are both
-gone, at both widths, and `.toc` has no box at all inside `.page__content`.
-The filled bar was the loudest thing above the article, the dividers made an
-eight-item list read as a spreadsheet, and inside the disclosure the box's own
-top border landed a pixel below the summary's underline, so the widget opened
-showing two parallel lines.
+solid `--mm-primary-color` bar is gone at both widths, and `.toc` has no box
+at all inside `.page__content`. The filled bar was the loudest thing above the
+article, and the box's own top border landed a pixel below the summary's
+underline, so the disclosure opened showing two parallel lines.
+
+The theme's divider **under every entry** is gone too, but not the dividers:
+none at all left the list undifferentiated. Rules now go between top-level
+sections only — `.toc__menu > li + li`, `border-block-start`. Three things are
+deliberate. `> li` keeps an h2 and its h3 children one visual group. `li + li`
+never draws on the first item, which is what keeps a second line from landing
+directly under the title's own hairline — a `border-bottom` on every `li`, or
+a `border-top` on every `li`, reintroduces exactly that. And the colour is
+`--mm-border-color`, a step below the `--site-src-border` header rule, because
+these separate items inside a list rather than close a header.
+
+`toc_label` is defaulted to `ON THIS PAGE` in `_config.yml`'s `pages` scope
+rather than repeated in front matter; a page can still override it there. The
+disclosure summary **reads** its label from the rendered `.nav__title` instead
+of carrying a second hardcoded copy, so an override reaches both.
 
 ## Scrollspy and nav-link overflow (P1-5)
 
