@@ -95,7 +95,7 @@ Avoiding a *hadd* did not necessarily mean avoiding accountability. Conduct that
 
 ### Repentance and forgiveness
 
-The Qur’an places repentance not only throughout its moral teaching but alongside the punishment verses themselves. This matters because the *hadd* is not presented as the price of God's forgiveness. A person can turn back to God through repentance and reform; whether a court may impose a worldly penalty is a separate legal question.
+The Qur’an places repentance not only throughout its moral teaching but alongside the punishment verses themselves. The *hadd* therefore is not presented as the price of God's forgiveness. A person can turn back to God through repentance and reform; whether a court may impose a worldly penalty is a separate legal question.
 
 For *hiraba*:
 
@@ -131,13 +131,9 @@ These practices can be criticized from within the Islamic sources, not only from
 
 ## Conclusion
 
-The *hudud* penalties are severe and genuinely present in the sources. But they were not a state-administered answer to every occurrence of sin. Islamic teaching leaves the sinner a direct path of repentance, reform, and forgiveness before God, while classical law sharply limited the circumstances in which the state could turn wrongdoing into a fixed public punishment.
+The *hudud* penalties are severe and genuinely present in the sources, but classical law did not treat the state as responsible for uncovering and punishing every sin. Repentance and God's forgiveness remained open to the sinner, while a fixed public punishment required a lawfully established case under demanding rules.
 
-That distinction helps explain the legal structure. Authorities were not to hunt out concealed faults; proof was demanding; unsupported accusation could itself be punished; confession could be discouraged; doubt favoured avoiding the fixed penalty; and social conditions mattered. A concealed sin could remain a matter between the person and God. A *hadd* belonged to the public legal order and required a lawfully established case.
-
-The point is therefore not simply that severe punishments had many technical conditions. The conditions reveal a broader division between personal moral accountability and public legal order. The former is pervaded by the Qur'an's call to repentance and God's forgiveness; the latter is where a severe, public sanction may arise once the law's demanding threshold has actually been crossed.
-
-An account that lists only the maximum punishments while omitting this distinction gives a distorted picture of Islamic criminal law.
+The prohibition on prying, high standards of proof, penalties for unsupported accusation, discouraged confession, the doubt maxim, and attention to social conditions all reflect that distinction. Listing only the maximum punishments while omitting these limits conflates private moral accountability with public legal order and gives a distorted picture of Islamic criminal law.
 
 ---
 
