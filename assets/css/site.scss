@@ -2215,7 +2215,7 @@
   /* Theme's _base.scss puts margin-top:1em on every dt -- far too much
      between entries in this compact block. */
   .glossary-key dt {
-    margin-top: 0.5em;
+    margin-top: 0.25em;
     font-weight: 700;
     text-transform: capitalize;
   }
