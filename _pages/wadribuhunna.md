@@ -2,6 +2,7 @@
 title: "Does Qur'an 4:34 Permit Domestic Abuse?"
 description: "A response to the claim that Qur'an 4:34 permits domestic abuse, based on the verse's language, immediate context, Prophetic example, juristic interpretation, and Islamic law."
 date: 2025-08-25
+last_modified_at: 2026-09-07
 
 permalink: /wadribuhunna
 
