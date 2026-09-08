@@ -13,7 +13,7 @@ permalink: /quran
 layout: single
 
 toc: true
-toc_label: "Table of Contents"
+toc_label: "On this page"
 toc_icon: "bars"
 toc_sticky: true
 
