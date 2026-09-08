@@ -24,7 +24,7 @@ toc_levels: 2..3
 share: true
 ---
 
-Within roughly a century of the Prophet's ﷺ death in 632, armies fighting under the banner of Islam had conquered Syria, Egypt, Iraq, Persia, North Africa and Spain. These were military conquests, and any serious defence of Islam should acknowledge that plainly.
+Within roughly a century of the Prophet's ﷺ death in 632, armies fighting under the banner of Islam had conquered Syria, Egypt, Iraq, Persia, North Africa and Spain.
 
 But conquest and conversion are different historical processes. Chronicles show when territory changed hands; tax records, biographical dictionaries and census data help show when populations changed religion. Muslim rule spread rapidly. Conversion usually did not.
 
