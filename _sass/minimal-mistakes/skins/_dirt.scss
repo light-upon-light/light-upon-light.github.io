@@ -174,7 +174,7 @@ $base0f: #b49368 !default;
    which listed the WCAG 2.1 contrast ratios below. Re-check them by hand if
    any value changes.
 
-     body text   #d8cfbf   10.7:1   AAA   (background #1c1a17)
+     body text   #e6ded2   13.0:1   AAA   (background #1c1a17)
      muted       #a2988a    6.1:1   AA
      .src text   #b8ab97    7.7:1   AA  (recedes, as 5.4:1 does in light)
      #fff on $primary-color  6.2:1   AA
@@ -194,7 +194,7 @@ $base0f: #b49368 !default;
    never drift apart from being hand-copied twice. */
 @mixin site-dark-palette {
   --mm-background-color: #1c1a17;
-  --mm-text-color: #d8cfbf; // eased down from #e6ded2 to cut halation of the reading serif on the dark ground; 10.7:1, still AAA
+  --mm-text-color: #e6ded2;
   --mm-muted-text-color: #a2988a;
   --mm-primary-color: #6f5f48;
   --mm-border-color: #4a4238;
@@ -217,7 +217,7 @@ $base0f: #b49368 !default;
   --mm-primary-color-h00010: #645641;
   --mm-primary-color-h00050: #383024;
   --mm-primary-color-alpha-25: rgba(111, 95, 72, 0.25);
-  --mm-text-color-alpha-06: rgba(216, 207, 191, 0.06); // tracks --mm-text-color above
+  --mm-text-color-alpha-06: rgba(230, 222, 210, 0.06);
   --mm-primary-color-alpha-70: rgba(111, 95, 72, 0.7);
   --mm-muted-text-color-alpha-50: rgba(162, 152, 138, 0.5);
   --mm-on-accent: #fff;
