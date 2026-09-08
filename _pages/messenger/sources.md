@@ -5,7 +5,9 @@ date: 2025-08-16
 last_modified_at: 2026-09-07
 permalink: /messenger/sources
 layout: single
-short_title: "Sources, transmission, and bibliography"
+short_title: "Sources and transmission"
+quran_section: the-messenger-of-god-ﷺ
+quran_section_label: "The Messenger of God ﷺ"
 toc: true
 toc_label: "On this page"
 toc_icon: "bars"
@@ -13,132 +15,88 @@ toc_sticky: true
 share: true
 ---
 
-[← Read the main argument](/messenger) · [Browse all evidence](/messenger#explore-the-evidence)
+[← Read the main argument](/quran#the-messenger-of-god-ﷺ) · [Browse all evidence](/messenger)
 
 The evidence draws on scripture, transmitted reports, early biography, commentary, and historical scholarship. This guide explains their different roles, outlines hadith criticism, and provides the complete bibliography used across the collection.
 
 ## How the sources are used
 {: #how-the-sources-are-used }
 
-<span id="src-0039"></span>
-
-- **The Qur’an** is the primary text Prophet Muhammad ﷺ publicly recited as revelation.[1](#ref-1){: .footnote}[36](#ref-36){: .footnote}
+- <span id="src-0039"></span>**The Qur’an** is the primary text Prophet Muhammad ﷺ publicly recited as revelation.[1](#ref-1){: .footnote}[36](#ref-36){: .footnote}
 
 
-<span id="src-0040"></span>
-
-- **Hadith** are transmitted reports of his words, actions, and approvals. This collection gives priority to *Sahih al-Bukhari* and *Sahih Muslim*, the two most highly regarded Sunni hadith collections. In hadith terminology, *sahih* [sound/authentic] is the standard term for a report judged to meet the highest ordinary grade of authenticity. Other collections are identified explicitly when used.[2](#ref-2){: .footnote}[3](#ref-3){: .footnote}[22](#ref-22){: .footnote}[23](#ref-23){: .footnote}[33](#ref-33){: .footnote}[43](#ref-43){: .footnote}[44](#ref-44){: .footnote}
+- <span id="src-0040"></span>**Hadith** are transmitted reports of his words, actions, and approvals. This collection gives priority to *Sahih al-Bukhari* and *Sahih Muslim*, the two most highly regarded Sunni hadith collections. In hadith terminology, *sahih* [sound/authentic] is the standard term for a report judged to meet the highest ordinary grade of authenticity. Other collections are identified explicitly when used.[2](#ref-2){: .footnote}[3](#ref-3){: .footnote}[22](#ref-22){: .footnote}[23](#ref-23){: .footnote}[33](#ref-33){: .footnote}[43](#ref-43){: .footnote}[44](#ref-44){: .footnote}
 
 
-<span id="src-0041"></span>
-
-- **Early biography, often called *sira* [prophetic biography],** preserves important narrative material that is not always found in the major hadith collections. Its reports vary in the strength of their transmission, so biographical material is identified as such rather than treated as equivalent to a rigorously authenticated hadith.[8](#ref-8){: .footnote}[19](#ref-19){: .footnote}[28](#ref-28){: .footnote}[29](#ref-29){: .footnote}[37](#ref-37){: .footnote}[38](#ref-38){: .footnote}[39](#ref-39){: .footnote}
+- <span id="src-0041"></span>**Early biography**, often called *sira* [prophetic biography], preserves important narrative material that is not always found in the major hadith collections. Its reports vary in the strength of their transmission, so biographical material is identified as such rather than treated as equivalent to a rigorously authenticated hadith.[8](#ref-8){: .footnote}[19](#ref-19){: .footnote}[28](#ref-28){: .footnote}[29](#ref-29){: .footnote}[37](#ref-37){: .footnote}[38](#ref-38){: .footnote}[39](#ref-39){: .footnote}
 
 
-<span id="src-0042"></span>
-
-- **Qur’anic quotations are attributed to Dr.** Mustafa Khattab’s *The Clear Quran* or Saheeh International, with the translation selected for clarity in English. The quotation entries retain their attributed English wording and accompanying Arabic. Hadith quotations identify the collection and report number.
+- <span id="src-0042"></span>**Qur’anic quotations** are attributed to Dr. Mustafa Khattab’s *The Clear Quran* or Saheeh International, with the translation selected for clarity in English. The quotation entries retain their attributed English wording and accompanying Arabic. Hadith quotations identify the collection and report number.
 
 
-<span id="src-0043"></span>
-
-- The symbol **ﷺ** means “may God’s peace and blessings be upon him.”
+- <span id="src-0043"></span>The symbol **ﷺ** means “may God’s peace and blessings be upon him.”
 
 
 ## Hadith preservation and criticism
 {: #hadith-preservation-and-criticism }
 
-<span id="src-2649"></span>
-
-- **Much of the evidence in this collection about Prophet Muhammad’s ﷺ character, conduct, predictions, and reported miracles comes through hadith.** That record therefore has to be examined rather than taken for granted. The classical Muslim system for criticizing transmission is historically unusual in its scale, rigor, and detail, but it does not make every report automatically true.
+- <span id="src-2649"></span>Much of the evidence in this collection about Prophet Muhammad’s ﷺ character, conduct, predictions, and reported miracles **comes through hadith**. That record therefore has to be examined rather than taken for granted. The classical Muslim system for criticizing transmission is historically unusual in its scale, rigor, and detail, but it does not make every report automatically true.
 
 
-<span id="src-2651"></span>
-
-- **Modern historians also debate how confidently later chains of transmission can recover events from Islam’s first century.** Even with those cautions, the surviving material is not simply an undifferentiated collection of anonymous legends.[22](#ref-22){: .footnote}[23](#ref-23){: .footnote}[31](#ref-31){: .footnote}[32](#ref-32){: .footnote}[33](#ref-33){: .footnote}[43](#ref-43){: .footnote}[44](#ref-44){: .footnote}[45](#ref-45){: .footnote}[46](#ref-46){: .footnote}
+- <span id="src-2651"></span>Modern historians also debate how confidently **later chains of transmission** can recover events from Islam’s first century. Even with those cautions, the surviving material is not simply an undifferentiated collection of anonymous legends.[22](#ref-22){: .footnote}[23](#ref-23){: .footnote}[31](#ref-31){: .footnote}[32](#ref-32){: .footnote}[33](#ref-33){: .footnote}[43](#ref-43){: .footnote}[44](#ref-44){: .footnote}[45](#ref-45){: .footnote}[46](#ref-46){: .footnote}
 
 
-<span id="src-2653"></span>
-
-- **Hadith reports were normally accompanied by named *isnads* [chains of transmission].** The chain records who claimed to have received the report from whom, reaching back toward an earlier witness. This gave critics a stated history of transmission to investigate rather than leaving a saying as an anonymous maxim.
+- <span id="src-2653"></span>Hadith reports were normally accompanied by named *isnads* [**chains of transmission**]. The chain records who claimed to have received the report from whom, reaching back toward an earlier witness. This gave critics a stated history of transmission to investigate rather than leaving a saying as an anonymous maxim.
 
     > "The *isnad* [chain of transmission] is part of the religion. Were it not for the *isnad* [chain of transmission], whoever wished could say whatever he wished." — Abdullah ibn al-Mubarak, cited by Muslim in the introduction to *Sahih Muslim*[3](#ref-3){: .footnote}[14](#ref-14){: .footnote}[22](#ref-22){: .footnote}[23](#ref-23){: .footnote}[43](#ref-43){: .footnote}
     {: .quote }
 
-<span id="src-2658"></span>
-
-- **Evaluating those chains produced a vast biographical literature about the transmitters themselves.** Hadith critics recorded dates, locations, teachers, students, memory, deterioration late in life, and reputations for honesty. Works such as al-Mizzi’s *Tahdhib al-Kamal*, Ibn Hajar’s later abridgments, and al-Dhahabi’s biographical writings preserve judgments on many thousands of transmitters.[24](#ref-24){: .footnote}[25](#ref-25){: .footnote}[26](#ref-26){: .footnote}[33](#ref-33){: .footnote}[43](#ref-43){: .footnote}
+- <span id="src-2658"></span>Evaluating those chains produced **a vast biographical literature** about the transmitters themselves. Hadith critics recorded dates, locations, teachers, students, memory, deterioration late in life, and reputations for honesty. Works such as al-Mizzi’s *Tahdhib al-Kamal*, Ibn Hajar’s later abridgments, and al-Dhahabi’s biographical writings preserve judgments on many thousands of transmitters.[24](#ref-24){: .footnote}[25](#ref-25){: .footnote}[26](#ref-26){: .footnote}[33](#ref-33){: .footnote}[43](#ref-43){: .footnote}
 
 
-<span id="src-2660"></span>
-
-- **The same critical standards could be applied even to teachers, relatives, and respected insiders.** A well-known example is Ali ibn al-Madini, an important teacher of al-Bukhari, judging his own father too weak to serve as a reliable hadith authority. The purpose of *al-jarh wa-l-ta‘dil* [criticism and accreditation of transmitters] was precisely to keep affection or status from rescuing a defective chain.[22](#ref-22){: .footnote}[24](#ref-24){: .footnote}[26](#ref-26){: .footnote}[33](#ref-33){: .footnote}
+- <span id="src-2660"></span>The same critical standards could be applied even to teachers, relatives, and **respected insiders**. A well-known example is Ali ibn al-Madini, an important teacher of al-Bukhari, judging his own father too weak to serve as a reliable hadith authority. The purpose of *al-jarh wa-l-ta‘dil* [criticism and accreditation of transmitters] was precisely to keep affection or status from rescuing a defective chain.[22](#ref-22){: .footnote}[24](#ref-24){: .footnote}[26](#ref-26){: .footnote}[33](#ref-33){: .footnote}
 
 
-<span id="src-2662"></span>
-
-- **Hadith critics did not treat every report as equally credible.** They distinguished grades such as *sahih* [sound], *hasan* [good], and weak, and compiled works devoted to reports they considered fabricated. Ibn al-Jawzi’s *al-Mawdu‘at*, for example, catalogued sayings he judged forged rather than pretending that false attributions did not exist.[23](#ref-23){: .footnote}[27](#ref-27){: .footnote}[33](#ref-33){: .footnote}[43](#ref-43){: .footnote}
+- <span id="src-2662"></span>Hadith critics did not treat every report as **equally credible**. They distinguished grades such as *sahih* [sound], *hasan* [good], and weak, and compiled works devoted to reports they considered fabricated. Ibn al-Jawzi’s *al-Mawdu‘at*, for example, catalogued sayings he judged forged rather than pretending that false attributions did not exist.[23](#ref-23){: .footnote}[27](#ref-27){: .footnote}[33](#ref-33){: .footnote}[43](#ref-43){: .footnote}
 
 
-<span id="src-2664"></span>
-
-- **Written transmission existed alongside oral transmission well before the major ninth-century compilations.** The *Sahifa* [written collection] associated with Hammam ibn Munabbih, a student of the Companion Abu Hurayra, represents an early written hadith collection transmitted into later manuscripts. Many of its reports have parallels in Bukhari and Muslim through their own chains. The surviving manuscripts are not Hammam’s autograph, so the evidence should not be overstated, but they weigh against the idea that hadith first began to be written only in al-Bukhari’s time.[31](#ref-31){: .footnote}[32](#ref-32){: .footnote}[43](#ref-43){: .footnote}[44](#ref-44){: .footnote}[45](#ref-45){: .footnote}[46](#ref-46){: .footnote}
+- <span id="src-2664"></span>Written transmission existed **alongside oral transmission** well before the major ninth-century compilations. The *Sahifa* [written collection] associated with Hammam ibn Munabbih, a student of the Companion Abu Hurayra, represents an early written hadith collection transmitted into later manuscripts. Many of its reports have parallels in Bukhari and Muslim through their own chains. The surviving manuscripts are not Hammam’s autograph, so the evidence should not be overstated, but they weigh against the idea that hadith first began to be written only in al-Bukhari’s time.[31](#ref-31){: .footnote}[32](#ref-32){: .footnote}[43](#ref-43){: .footnote}[44](#ref-44){: .footnote}[45](#ref-45){: .footnote}[46](#ref-46){: .footnote}
 
 
-<span id="src-2666"></span>
-
-- **Scholars sometimes traveled great distances to hear a report from a nearer source or investigate its transmission.** The practice became known as *al-rihla fi talab al-hadith* [travel in search of hadith]. It reflects a scholarly culture in which verifying or shortening a chain could be considered worth months of travel.[22](#ref-22){: .footnote}[23](#ref-23){: .footnote}[31](#ref-31){: .footnote}[43](#ref-43){: .footnote}
+- <span id="src-2666"></span>Scholars sometimes **traveled great distances** to hear a report from a nearer source or investigate its transmission. The practice became known as *al-rihla fi talab al-hadith* [travel in search of hadith]. It reflects a scholarly culture in which verifying or shortening a chain could be considered worth months of travel.[22](#ref-22){: .footnote}[23](#ref-23){: .footnote}[31](#ref-31){: .footnote}[43](#ref-43){: .footnote}
 
 
-<span id="src-2668"></span>
-
-- **The canonical collections were filtered selections, not archives of everything then in circulation.** Al-Bukhari knew far more reports and transmission routes than he included in his *Sahih*. Rejected material was therefore not an accidental embarrassment outside the method. Distinguishing stronger reports from weaker ones was part of the method’s purpose.[23](#ref-23){: .footnote}[43](#ref-43){: .footnote}
+- <span id="src-2668"></span>The canonical collections were **filtered selections**, not archives of everything then in circulation. Al-Bukhari knew far more reports and transmission routes than he included in his *Sahih*. Rejected material was therefore not an accidental embarrassment outside the method. Distinguishing stronger reports from weaker ones was part of the method’s purpose.[23](#ref-23){: .footnote}[43](#ref-43){: .footnote}
 
 
-<span id="src-2670"></span>
-
-- **Classical scholars distinguished ordinary reports from *mutawatir* [mass-transmitted] reports.** The latter category was reserved for material transmitted through enough independent routes that deliberate coordinated fabrication was judged implausible. Most individual hadith are not *mutawatir*. That is precisely why “found in a hadith book” and “mass-transmitted” should not be treated as equivalent claims.[23](#ref-23){: .footnote}[33](#ref-33){: .footnote}[43](#ref-43){: .footnote}
+- <span id="src-2670"></span>Classical scholars distinguished **ordinary reports** from *mutawatir* [mass-transmitted] reports. The latter category was reserved for material transmitted through enough independent routes that deliberate coordinated fabrication was judged implausible. Most individual hadith are not *mutawatir*. That is precisely why “found in a hadith book” and “mass-transmitted” should not be treated as equivalent claims.[23](#ref-23){: .footnote}[33](#ref-33){: .footnote}[43](#ref-43){: .footnote}
 
 
-<span id="src-2672"></span>
-
-- **This method explains how Muslim scholarship can accept some reports, weaken others, and identify statements falsely attributed to Prophet Muhammad ﷺ.** It also explains why the date of a source still matters here. The major canonical collections were compiled generations after the Prophet, so a prediction fulfilled before compilation remains open to the skeptical possibility that its wording was shaped after the event. A prediction whose canonical written source demonstrably predates the event, such as the report later connected with the 1256 Hijaz eruption, has a different evidentiary advantage.
+- <span id="src-2672"></span>This method explains how Muslim scholarship can accept some reports, weaken others, and identify statements **falsely attributed** to Prophet Muhammad ﷺ. It also explains why the date of a source still matters here. The major canonical collections were compiled generations after the Prophet, so a prediction fulfilled before compilation remains open to the skeptical possibility that its wording was shaped after the event. A prediction whose canonical written source demonstrably predates the event, such as the report later connected with the 1256 Hijaz eruption, has a different evidentiary advantage.
 
 
-<span id="src-2674"></span>
-
-- **For an academic introduction to the discipline and its modern criticisms, see Jonathan A.** C. Brown, *Hadith: Muhammad’s Legacy in the Medieval and Modern World* (Oneworld, 2009; later editions).
+- <span id="src-2674"></span>For **an academic introduction** to the discipline and its modern criticisms, see Jonathan A. C. Brown, *Hadith: Muhammad’s Legacy in the Medieval and Modern World* (Oneworld, 2009; later editions).
 
 
 ## Selected primary-source index
 {: #selected-primary-source-index }
 
-<span id="src-3246"></span>
-
-- **Qur’an:** linked throughout by chapter and verse.[1](#ref-1){: .footnote}
+- <span id="src-3246"></span>**Qur’an:** linked throughout by chapter and verse.[1](#ref-1){: .footnote}
 
 
-<span id="src-3247"></span>
-
-- **Sahih al-Bukhari:** first revelation (3), Heraclius and Abu Sufyan (7), character and service (3560, 6038), mercy toward opponents (1269, 2937, 3231), religious difference (1312, 1356, 2620, 3166), leadership and social status (3729–3730, 4469, 7146), Hudaybiyyah (2731–2732), eclipse (1043), predictions (2704, 2788–2789, 2812, 3176, 3595, 3623–3624, 3675, 7118), miracles (3009, 3576, 3582–3584, 3636, 4101), final illness and estate (2916, 4240–4241, 4463).[2](#ref-2){: .footnote}
+- <span id="src-3247"></span>**Sahih al-Bukhari:** first revelation (3), Heraclius and Abu Sufyan (7), character and service (3560, 6038), mercy toward opponents (1269, 2937, 3231), religious difference (1312, 1356, 2620, 3166), leadership and social status (3729–3730, 4469, 7146), Hudaybiyyah (2731–2732), eclipse (1043), predictions (2704, 2788–2789, 2812, 3176, 3595, 3623–3624, 3675, 7118), miracles (3009, 3576, 3582–3584, 3636, 4101), final illness and estate (2916, 4240–4241, 4463).[2](#ref-2){: .footnote}
 
 
-<span id="src-3248"></span>
-
-- **Sahih Muslim:** concern for his community (202), private conduct (2328a), attention to a vulnerable petitioner (2326), public authority as trust (1825), mercy and gentleness (2588, 2594a), repentance (2747a, 2766a), former enemies and companions (121, 2312a, 2313), prophecy and signs (8a, 1066g, 2902), animal welfare (1955a, 1957a).[3](#ref-3){: .footnote}
+- <span id="src-3248"></span>**Sahih Muslim:** concern for his community (202), private conduct (2328a), attention to a vulnerable petitioner (2326), public authority as trust (1825), mercy and gentleness (2588, 2594a), repentance (2747a, 2766a), former enemies and companions (121, 2312a, 2313), prophecy and signs (8a, 1066g, 2902), animal welfare (1955a, 1957a).[3](#ref-3){: .footnote}
 
 
-<span id="src-3249"></span>
-
-- **Early biography:** Ibn Ishaq as preserved by Ibn Hisham, English translation by A. Guillaume, used only where explicitly labeled, especially for the Black Stone arbitration, the Medinan charter, and the reported general clemency at the conquest of Mecca.[8](#ref-8){: .footnote}[9](#ref-9){: .footnote}[19](#ref-19){: .footnote}[28](#ref-28){: .footnote}[37](#ref-37){: .footnote}[38](#ref-38){: .footnote}
+- <span id="src-3249"></span>**Early biography:** Ibn Ishaq as preserved by Ibn Hisham, English translation by A. Guillaume, used only where explicitly labeled, especially for the Black Stone arbitration, the Medinan charter, and the reported general clemency at the conquest of Mecca.[8](#ref-8){: .footnote}[9](#ref-9){: .footnote}[19](#ref-19){: .footnote}[28](#ref-28){: .footnote}[37](#ref-37){: .footnote}[38](#ref-38){: .footnote}
 
 
 ## What the bibliography establishes
 {: #what-the-bibliography-establishes }
 
-<span id="src-3253"></span>
-
-- **The numbered citations throughout the collection point to the works below.** For Qur’an and hadith claims, the inline citations identify the exact verse or report, with links to the relevant collections and bibliography. Commentary works help readers check interpretation and transmission, while modern scholarship provides source-critical and historical context. For reported miracles and prophecies, these references can establish what the textual tradition reports and, where relevant, independently date surrounding historical or natural events; they do not by themselves make a theological claim experimentally verifiable. No finite bibliography could include every work written about Prophet Muhammad ﷺ, so the list below gives the primary texts and a deliberately broad selection of Arabic and English, classical and modern scholarship actually used to make the collection’s factual claims checkable.
+- <span id="src-3253"></span>**The numbered citations** throughout the collection point to the works below. For Qur’an and hadith claims, the inline citations identify the exact verse or report, with links to the relevant collections and bibliography. Commentary works help readers check interpretation and transmission, while modern scholarship provides source-critical and historical context. For reported miracles and prophecies, these references can establish what the textual tradition reports and, where relevant, independently date surrounding historical or natural events; they do not by themselves make a theological claim experimentally verifiable. No finite bibliography could include every work written about Prophet Muhammad ﷺ, so the list below gives the primary texts and a deliberately broad selection of Arabic and English, classical and modern scholarship actually used to make the collection’s factual claims checkable.
 
 
 ## Primary sources
@@ -359,4 +317,4 @@ The evidence draws on scripture, transmitted reports, early biography, commentar
 - [Muhammad ﷺ and the Qur’an he delivered](/messenger/quran)
 - [Predictions and their reported fulfillment](/messenger/predictions)
 
-[← Return to the main argument](/messenger)
+{% include back-to-quran.html %}

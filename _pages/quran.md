@@ -283,7 +283,7 @@ share: true
 1. It provides a complete **moral and legal framework** that holds **justice and mercy** in balance and guided a **flourishing civilization** for centuries.
 1. Its **breadth of subject and universal scope** are remarkable: theology, worship, ethics, law, family life, economics, social justice, war and peace, history, human character, nature, and the afterlife are woven into a single worldview. It addresses the **individual, family, society, and humanity as a whole**, rather than one tribe, class, place, or era.
 1. Its **guidance and the lessons in its stories remain directly applicable**: what it addressed to seventh-century Arabs still addresses readers today.
-1. These points offer only a glimpse of the Qur'an's guidance. The [Messenger of God](/messenger) page gives more comprehensive examples of the moral teachings of the Qur'an and Prophet Muhammad ﷺ.
+1. These points offer only a glimpse of the Qur'an's guidance. The [evidence on his teachings](/messenger#teachings) gives more comprehensive examples of the moral teachings of the Qur'an and Prophet Muhammad ﷺ.
 
 ### <span class="num-roman">V.</span> Knowledge: Historical, Scientific and Linguistic
 {: #knowledge-historical-scientific-and-linguistic }
@@ -428,6 +428,8 @@ The Qur'an also preserves public corrections of him. It rebukes him for turning 
 
 Success did not turn him into a king. Early reports describe a simple household, periods of scarcity, and a life far removed from luxury. His conduct does not resemble a man who invented revelation to enrich or glorify himself.
 
+The evidence on his motives, his household, and the Qur'an's corrections of him is collected under [the competing explanations](/messenger/claim), [what those closest to him saw](/messenger/character), and [the Qur'an he delivered](/messenger/quran).
+
 ### <span class="num-roman">II.</span> Sincere, but Mistaken
 
 A sincere delusion can produce conviction, but Muhammad's case involved more than conviction.
@@ -438,11 +440,15 @@ Muhammad also showed sustained practical judgment. He negotiated treaties, resol
 
 A supposed delusion that remained coherent across decades, accompanied effective leadership, and repeatedly disciplined the person experiencing it is possible in principle, but poorly fits the evidence.
 
+For the range and consistency of the teaching, and for his conduct as a leader, see [worship and the inner life](/messenger/worship), [work and public responsibility](/messenger/work-and-authority), and [his life through hardship and power](/messenger/life).
+
 ### <span class="num-roman">III.</span> Devil-Inspired
 
 The Qur'an relentlessly condemns Satan, idolatry, arrogance, dishonesty, exploitation, sexual immorality, and injustice. It commands prayer, charity, humility, repentance, forgiveness, care for parents and orphans, moral accountability, and worship of the Creator alone.
 
 An evil source would therefore have produced a movement centered on rejecting evil worship, restraining vice, resisting spiritual pride, condemning Satan, and directing human beings toward repentance and obedience to God. Such an explanation works against the moral and theological direction of the message itself.
+
+What the message actually commands is set out at length under [worship and the inner life](/messenger/worship), [justice and restraint in conflict](/messenger/justice), and [care for the vulnerable and human dignity](/messenger/human-dignity).
 
 ### <span class="num-roman">IV.</span> A Later Fabricated Legend
 
@@ -456,6 +462,8 @@ Hadith transmission developed its own critical machinery. Reports circulated wit
 
 Muhammad's life and message are anchored in first-century scripture, manuscripts, inscriptions, outside testimony, and traceable streams of transmission. They do not first appear as a polished legend centuries later.
 
+[Sources, transmission, and bibliography](/messenger/sources) sets out how the hadith record was preserved and tested; [Muhammad ﷺ and the Qur'an he delivered](/messenger/quran) covers the text's own preservation.
+
 ### <span class="num-roman">V.</span> The Prophetic Explanation
 
 The fraud theory conflicts with Muhammad's sacrifices, austerity, and the Qur'an's corrections of him. The delusion theory fits poorly with decades of coherent teaching, disciplined conduct, and effective leadership. The demonic theory runs against the message's sustained orientation toward God, repentance, justice, and moral reform. The legend theory is incompatible with the early documentary and transmission evidence.
@@ -465,6 +473,16 @@ Muhammad's own explanation remains: the source of the message was God.
 His claim was not confined to a private experience or a brief burst of enthusiasm. He lived under it through persecution and victory, weakness and power, grief and public responsibility. His character, the content of the Qur'an, the structure of his mission, and the early preservation of the sources converge more naturally on sincere prophethood than on fraud, delusion, demonic inspiration, or later invention.
 
 Belief in his prophethood can therefore rest on a cumulative historical and rational judgment: the prophetic explanation accounts for the evidence more coherently than its principal alternatives.
+
+That cumulative case is laid out under [the competing explanations](/messenger/claim), with the harder-to-weigh evidence kept separate in [predictions](/messenger/predictions) and [reported miracles](/messenger/miracles). [Encounters, changed minds, and later appraisals](/messenger/encounters) collects what people who met him said.
+
+### Explore the evidence
+
+The [full evidence library](/messenger) runs to seventeen pages. Each entry there carries its quotation, its reference, and its qualifications.
+
+- **Teachings** — [worship and the inner life](/messenger/worship), [human dignity](/messenger/human-dignity), [justice and conflict](/messenger/justice), [work and public responsibility](/messenger/work-and-authority), [knowledge and nature](/messenger/knowledge), [health, animals, and shared resources](/messenger/health-and-creation), [parents, marriage, and children](/messenger/family), and [everyday character](/messenger/everyday-character).
+- **Life and character** — [what those closest to him saw](/messenger/character), [his life through hardship and power](/messenger/life), and [encounters and later appraisals](/messenger/encounters).
+- **The claim, signs, and sources** — [the competing explanations](/messenger/claim), [the Qur'an he delivered](/messenger/quran), [predictions](/messenger/predictions), [reported miracles](/messenger/miracles), [earlier scripture](/messenger/earlier-scripture), and [the sources themselves](/messenger/sources).
 
 ## Playlist
 
@@ -520,7 +538,7 @@ Belief in his prophethood can therefore rest on a cumulative historical and rati
 - Is Shari'ah law as cruel as Western media portrays it?
     {% include yt-embed.html url="https://youtu.be/AHOH_t03sIc" title="What the West Needs to Know About the Shari'ah | Blogging Theology" %}
 
-- Did Prophet Muhammad ﷺ really exist? (Also discussed on [The Messenger of God ﷺ](/messenger) page.)
+- Did Prophet Muhammad ﷺ really exist? (Also discussed under [sources and transmission](/messenger/sources).)
     {% include yt-embed.html url="https://youtu.be/_mZgSIlX20U" title="Did Muhammad ﷺ really exist? | Blogging Theology" %}
 
 - Is the Qur'an really preserved as it was revealed?
@@ -534,12 +552,12 @@ Belief in his prophethood can therefore rest on a cumulative historical and rati
 
     {% include yt-embed.html url="https://youtu.be/n281Zyywyn4" title="How To Prove The Qur'an Has Been Preserved Accurately" %}
 
-- How were the Prophet's ﷺ own life and sayings preserved? (Also discussed on [The Messenger of God ﷺ](/messenger) page.)
-    > [How the Record Was Kept](/messenger#how-the-record-was-kept) — the chains of transmission, narrator biographies, report grading, and published catalogues of forgeries
+- How were the Prophet's ﷺ own life and sayings preserved? (Also discussed under [sources and transmission](/messenger/sources).)
+    > [Hadith preservation and criticism](/messenger/sources#hadith-preservation-and-criticism) — the chains of transmission, narrator biographies, report grading, and published catalogues of forgeries
 
     > [Blind Spots: The Origins of the Western Method of Critiquing Hadith \| Dr. Jonathan Brown](https://yaqeeninstitute.org/read/paper/blind-spots-the-origins-of-the-western-method-of-critiquing-hadith)
 
-- [The Prophet Muhammad's example](/messenger)
+- [The Prophet Muhammad's example](/messenger/character)
     {% include yt-embed.html url="https://youtu.be/LeRhJQYZbWw" title="Prophetic Responses in an Age of Ignorance" %}
 
     {% include yt-embed.html url="https://youtu.be/1Ww6b_AUYjw" title="Addressing Muhammad (PBUH)’s Motive: Wealth, Power, or a Greater Purpose? | Ustadh Dr. Ali Ataie" %}
@@ -554,7 +572,7 @@ Belief in his prophethood can therefore rest on a cumulative historical and rati
 
     {% include yt-embed.html url="https://youtu.be/_DnP0wxvnH4" title="Moses, Jesus & Muhammad: Three Brothers in Faith | Ustadh Dr. Ali Ataie" %}
 
-- Was Prophet Muhammad ﷺ mentioned in previous religions? (Also discussed on [The Messenger of God ﷺ](/messenger) page.)
+- Was Prophet Muhammad ﷺ mentioned in previous religions? (Also discussed under [earlier scripture and the prophetic claim](/messenger/earlier-scripture).)
     {% include yt-embed.html url="https://youtu.be/OzSyIla5Z-Q" title="The Praised One ﷺ in World Scriptures | Hamza Yusuf" %}
 
     {% include yt-embed.html url="https://youtu.be/RRlhH3_iedU" title="Muhammad ﷺ the Prophet like Moses" %}
