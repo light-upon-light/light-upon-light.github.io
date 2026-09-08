@@ -898,13 +898,16 @@
     line-height: 1.4;
   }
 
-  /* Below $large the TOC sits between the TL;DR's hairline and the article's
-     opening paragraph, and the theme's flat `margin-bottom: 1em` left it
-     closer to the prose it is not part of than to the break it follows.
-     Scoped to the breakpoint: at $large the aside is back in its own column
-     and its bottom margin is nobody's spacing problem. */
+  /* Below $large the TOC is an in-flow block at the top of the article,
+     directly under the page title and above the opening prose. The theme
+     gives it only a flat `margin-bottom: 1em` and no top margin at all, so
+     it sat tight against the title and closer to the prose it is not part
+     of than to the heading it follows. Scoped to the breakpoint: at $large
+     the aside is back in its own column and its margins are nobody's
+     spacing problem. */
   @media (max-width: 63.9375em) {
     .page__content .sidebar__right {
+      margin-top: 1.4em;
       margin-bottom: 1.4em;
     }
   }
