@@ -89,11 +89,8 @@
     font-size: 72px;
     line-height: 1.12;
     letter-spacing: -0.01em;
-    max-width: 20ch;
+    max-width: 1000px;
   }
-
-  .title.long { font-size: 58px; }
-  .title.xlong { font-size: 48px; }
 
   .footer {
     font-family: "Karla", "Source Serif 4", sans-serif;
@@ -121,11 +118,14 @@
   const k = document.getElementById("kicker");
   if (kicker) { k.textContent = kicker; } else { k.style.display = "none"; }
 
-  // scale title down by length so it always fits
+  // Shrink the title to fit its box rather than guessing from length, so
+  // short and long titles land at a consistent size where they can.
   const t = document.getElementById("title");
-  const len = title.length;
-  if (len > 78) { t.classList.add("xlong"); }
-  else if (len > 44) { t.classList.add("long"); }
+  const MAX_H = kicker ? 320 : 360; // px available for the title block
+  for (let px = 72; px >= 40; px -= 2) {
+    t.style.fontSize = px + "px";
+    if (t.scrollHeight <= MAX_H && t.scrollWidth <= t.clientWidth) break;
+  }
 </script>
 </body>
 </html>
