@@ -1,5 +1,5 @@
 ---
-title: "The Prophet Muhammad's ﷺ Marriage to Aisha: A Historical, Moral, and Islamic Examination"
+title: "Prophet Muhammad's ﷺ Marriage to Aisha: A Historical, Moral, and Islamic Examination"
 description: "A historical, moral, and Islamic examination of the Prophet Muhammad's ﷺ marriage to Aisha, addressing common criticisms and misrepresentations."
 date: 2025-08-17
 last_modified_at: 2026-09-08
@@ -11,7 +11,7 @@ header:
 
 layout: single
 
-short_title: "The Prophet's ﷺ Marriage to Aisha"
+short_title: "Prophet's ﷺ Marriage to Aisha"
 
 quran_section: misconceptions-about-islam
 quran_section_label: "Misconceptions About Islam"
@@ -35,10 +35,9 @@ share: true
 <div class="tldr" markdown="1">
 <span class="tldr__label">TL;DR</span>
 
-- Placeholder: replace these bullets with the page’s summary.
-- Placeholder: one point per bullet.
-- Placeholder: one point per bullet.
-- Placeholder: one point per bullet.
+The article accepts the traditional report that Aisha entered Prophet Muhammad’s household at nine, but argues that the age alone does not settle the moral question. It says modern assumptions about childhood cannot simply be projected onto seventh-century Arabia; the relevant questions are whether Aisha was incapable, coerced, harmed, or exploited.
+
+It argues that the surviving sources instead portray her as close to her family, able to disagree openly, and later a major scholar who spoke extensively about the marriage. It also argues that the Prophet’s wider marital history does not show a recurring preference for young girls. Finally, it stresses that defending the marriage historically does not mean endorsing marriage at nine today: Islamic principles of consent, sound judgment, kindness, welfare, and prevention of harm can support modern minimum-age laws.
 </div>
 
 The traditional reports state that the Prophet Muhammad ﷺ contracted marriage with Aisha when she was six or seven and that she entered his household at nine.[1](#ref-1){: .footnote} This article accepts those figures for the purpose of the argument. Its case does not depend on revising them, although the principal scholarly challenges to the traditional chronology are noted below.

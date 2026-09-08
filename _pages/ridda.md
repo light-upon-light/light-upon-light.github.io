@@ -38,10 +38,11 @@ share: true
 <div class="tldr" markdown="1">
 <span class="tldr__label">TL;DR</span>
 
-- Placeholder: replace these bullets with the page’s summary.
-- Placeholder: one point per bullet.
-- Placeholder: one point per bullet.
-- Placeholder: one point per bullet.
+The article argues that **Islam does not prescribe death simply for privately leaving the faith**. The Qur'an mentions apostasy but gives it no worldly punishment, while key hadith and historical cases connect *ridda* to **separation from the Muslim community, rebellion, or violent wrongdoing**.
+
+Although execution became the majority classical ruling, the legal tradition was not unanimous. Some early and Hanafi jurists, as well as modern scholars, distinguished **unbelief itself from punishable acts such as treason, combat, or public rebellion**.
+
+**Bottom line:** the article argues that private disbelief is a matter between a person and God, while the classical death penalty is better understood in connection with political or violent defection rather than belief alone.
 </div>
 
 Islam is often accused of prescribing death simply for leaving the faith. But translating *ridda* simply as "apostasy" can be misleading if that is understood as a private change of belief. In the legal and historical material below, *ridda* is repeatedly connected with political defection from the Muslim community, rebellion, or other public conduct.
