@@ -27,13 +27,6 @@ toc_sticky: true
 # disclosure block in assets/js/site.js.
 toc_mobile: expanded
 
-glossary:
-  - hadith
-  - jizya
-  - hudud
-  - ridda
-  - companions
-
 share: true
 ---
 
@@ -48,8 +41,6 @@ It then argues that Muhammad ﷺ is difficult to explain as a fraud, deluded per
 </div>
 
 > This page presents evidence for the **miraculous nature** of the **Qur'an** and the **prophethood** of **Prophet Muhammad** ﷺ. Not every point is a miracle or proof on its own. Taken together, however, the points form a cumulative case for the Qur'an's divine origin and the authenticity of the Prophet's mission. — *Note: this page is a work in progress.*
-
-{% include glossary-key.html %}
 
 ## The Book
 
