@@ -26,61 +26,53 @@ share: true
 
 Within roughly a century of the Prophet's ﷺ death in 632, armies fighting under the banner of Islam had conquered Syria, Egypt, Iraq, Persia, North Africa and Spain. These were military conquests, and any serious defence of Islam should acknowledge that plainly.
 
-The further claim is that conquest was also *how Islam spread as a religion*: that conquered populations became Muslim because armies forced them to. But conquest and conversion are separate historical questions. Chronicles show when territory changed hands; tax records, biographical dictionaries and census data help show when populations changed religion.
+But conquest and conversion are different historical processes. Chronicles show when territory changed hands; tax records, biographical dictionaries and census data help show when populations changed religion. Muslim rule spread rapidly. Conversion usually did not.
 
-## Conquest is not conversion
+## Conquest established Muslim rule, not immediate conversion
 
-The objection is straightforward: Islam expanded rapidly through military conquest; the Qur'an contains commands to fight in particular conflicts; the Prophet ﷺ led armies; and populations under Muslim rule later became Muslim. Therefore, it is argued, political expansion and religious conversion were the same process.
+The early conquests brought territory, tribute and political control—the usual aims of seventh-century empire—as a new power advanced against two exhausted rivals.
 
-The first points are not in dispute. The question is whether the conclusion follows. The evidence presented here does not show that it does.
+Conquered populations were not required to become Muslim. Non-Muslims could retain their religion, accept Muslim political authority and pay the *jizya*, a tax imposed on non-Muslim subjects and discussed separately in [The Jizya](/jizya). A system built around a tax on non-Muslims presupposed the continued existence of non-Muslim populations; papyri document its collection over centuries.
 
-## What the conquests established
-
-The early conquests expanded a state. They brought territory, tribute and political control—the usual aims of seventh-century empire—as a new power advanced against two exhausted rivals.
-
-They did not require conquered populations to become Muslim. Non-Muslims could remain in their religion, accept Muslim political authority and pay the *jizya*, a tax imposed on non-Muslim subjects and discussed separately in [The Jizya](/jizya). A state systematically eliminating non-Muslims through forced conversion would undermine a tax paid only by non-Muslims; the papyri instead document its continued collection over centuries.
-
-The Prophet's ﷺ instructions to commanders make the same distinction. One report gives three alternatives, with conversion only the first:
+The Prophet's ﷺ instructions to commanders likewise allowed settlement without conversion:
 
 > "Invite them to accept Islam... If they refuse to accept Islam, demand from them the *jizya*. If they agree to pay, accept it from them and hold off your hands."
 > — *Sahih Muslim* 4521[1](#ref-1){: .footnote}
 {: .src }
 
-Remaining non-Muslim while accepting Muslim rule was therefore treated as a legitimate settlement, not as a failed conversion.
+Acceptance of Muslim rule and payment of the *jizya* therefore counted as a legitimate settlement while the population remained non-Muslim.
 
 ## Conversion took centuries
 
-If conquest itself converted populations, religious change should have followed military conquest quickly. Instead, the evidence shows a much slower process.
+If conquest itself had made populations Muslim, religious change should have followed conquest quickly. Instead, the evidence shows a much slower process.
 
 Richard Bulliet's *Conversion to Islam in the Medieval Period* reconstructed conversion timelines from Muslim personal names in biographical dictionaries. Because descendants of converts generally carried Muslim names, the records can indicate when conversion occurred. For Iran, Iraq, Syria, Egypt and Spain, Bulliet found slow S-curves extending across roughly three to four centuries rather than sudden changes at conquest.[2](#ref-2){: .footnote}
 
-Egypt provides an especially clear comparison. Quantitative research using tax records and later census data places conversion of the Coptic population between 641 and about 1200.[3](#ref-3){: .footnote} The conquest took about two years; the transition to a Muslim majority took roughly five centuries—around twenty generations.
+Egypt provides a particularly clear comparison. Quantitative research using tax records and later census data places conversion of the Coptic population between 641 and about 1200.[3](#ref-3){: .footnote} The conquest took about two years; the transition to a Muslim majority took roughly five centuries—around twenty generations.
 
-Bulliet's graphs count those who eventually converted, not the whole population. Syria and Egypt still contained substantial Christian populations at the end of the medieval period.[2](#ref-2){: .footnote} Later scholarship has revised particular regional curves, especially for al-Andalus, but not the broader pattern of gradual conversion over centuries rather than immediate mass conversion.
+Bulliet's graphs count those who eventually converted, not the whole population. Syria and Egypt still contained substantial Christian populations at the end of the medieval period.[2](#ref-2){: .footnote} Later scholarship has revised particular regional curves, especially for al-Andalus, but the broader pattern remains gradual conversion over centuries rather than immediate mass conversion.
 
-That chronology is difficult to reconcile with systematic forced conversion, which is meant to produce immediate, visible compliance. The Egyptian record instead shows slow change over centuries.
+A five-century transition is not the pattern of systematic forced conversion, which seeks immediate, visible compliance. Egypt instead records gradual religious change across many generations.
 
-## What happened under—and beyond—Muslim rule
-
-Two further tests point in the same direction: many non-Muslim communities survived centuries of Muslim rule, while Islam also spread widely where Arab armies never conquered.
-
-### Communities that survived Muslim rule
+## Non-Muslim communities survived centuries of Muslim rule
 
 Egypt's Copts have remained continuously present since before the conquest and are still the largest Christian community in the Middle East. Assyrian and Syriac Christians in Iraq and Syria, Maronites in Lebanon, and Armenian communities across the region also predate Muslim rule and survived it. Jewish communities lived across the Muslim world from the seventh century until the mid-twentieth; their later departure belongs to modern political history, not medieval Islamic law. Zoroastrians remained in Iran, as did Hindus in India.
 
-India is especially important. Muslim dynasties ruled large parts of the subcontinent from the Delhi Sultanate in 1206 until the end of Mughal rule in 1857—about six and a half centuries of Muslim political and military rule over a Hindu majority. Yet India remained overwhelmingly Hindu. The 2011 census records roughly 80 per cent Hindu and 14 per cent Muslim.[4](#ref-4){: .footnote} If systematic conversion had been a consistent state project, successive rulers had centuries to impose it; the result does not show such a policy determining the region's religious composition.
+India is especially striking. Muslim dynasties ruled large parts of the subcontinent from the Delhi Sultanate in 1206 until the end of Mughal rule in 1857—about six and a half centuries of Muslim political and military rule over a Hindu majority. Yet India remained overwhelmingly Hindu. The 2011 census records roughly 80 per cent Hindu and 14 per cent Muslim.[4](#ref-4){: .footnote}
 
-### Islam also spread without conquest
+Six and a half centuries gave successive Muslim states ample time to impose conversion had that been their consistent policy. The subcontinent's enduring Hindu majority is incompatible with forced conversion as the general mechanism determining its religious composition.
+
+## Islam also spread without Muslim conquest
 
 Indonesia was never conquered by an Arab army. Islam arrived through trade, Sufi preaching, marriage and the conversion of local rulers, then spread gradually from around the thirteenth century. Indonesia now has roughly 230 million Muslims—more than any Arab state and more than the entire Middle East.[5](#ref-5){: .footnote}
 
-Malaysia and the wider Malay archipelago were reached through similar commercial and scholarly networks. West Africa encountered Islam through trans-Saharan trade, East Africa along the Indian Ocean coast, with merchants and scholars as major carriers rather than invading armies. China has had Muslim communities since the Tang period, founded by traders travelling by land and sea.
+Malaysia and the wider Malay archipelago were reached through similar commercial and scholarly networks. West Africa encountered Islam through trans-Saharan trade, and East Africa along the Indian Ocean coast, with merchants and scholars as major carriers rather than invading armies. China has had Muslim communities since the Tang period, founded by traders travelling by land and sea.
 
-Together, these regions contain a substantial share of the world's Muslims. Any account that makes conquest the main mechanism of conversion must still explain their development.
+These regions contain a substantial share of the world's Muslims. Conquest cannot account for Islam's spread where no Muslim conquest occurred.
 
-## Belief, compulsion and the rules of war
+## Belief and compulsion in the Qur'an
 
-The Qur'an contains commands to fight in particular conflicts, but it also speaks directly about compelled belief and the limits of warfare.
+The Qur'an contains commands to fight in particular conflicts, but it also addresses compelled belief directly.
 
 - **No religious compulsion:** "Let there be no compulsion in religion" (**Sūrat al-Baqarah 2:256**), Dr. Mustafa Khattab, *The Clear Quran*.
 
@@ -117,9 +109,13 @@ The Qur'an contains commands to fight in particular conflicts, but it also speak
   > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَقَـٰتِلُوا۟ فِى سَبِيلِ ٱللَّهِ ٱلَّذِينَ يُقَـٰتِلُونَكُمْ وَلَا تَعْتَدُوٓا۟ ۚ إِنَّ ٱللَّهَ لَا يُحِبُّ ٱلْمُعْتَدِينَ ۝١٩٠﴾ <span class="ayah-ref">سُورَةُ البَقَرَةِ</span></div>
   {: .quote }
 
-The recorded rules of war likewise distinguish combatants from non-combatants. After a woman was found killed during an expedition, the Prophet ﷺ "forbade the killing of women and children" (*Sahih al-Bukhari* 3015; also 3014, *Sahih Muslim* 4547–4548 and *Muwatta Malik* 967).[6](#ref-6){: .footnote}
+## The rules of war protected non-combatants
 
-Another report makes the reason explicit. Seeing soldiers around the body of a woman, the Prophet ﷺ said, "This one was not among those who were fighting," then ordered Khalid ibn al-Walid not to kill "any children, or women, or any labourer" (*Sunan Ibn Majah* 2842, graded *hasan sahih*).[7](#ref-7){: .footnote} The distinction is combatant versus non-combatant, not Muslim versus non-Muslim; the woman's religion is irrelevant to the ruling, and the labourer is protected for the same reason. Standing instructions to commanders also prohibit treachery, mutilation, looting and the killing of children.[1](#ref-1){: .footnote}
+After a woman was found killed during an expedition, the Prophet ﷺ "forbade the killing of women and children" (*Sahih al-Bukhari* 3015; also 3014, *Sahih Muslim* 4547–4548 and *Muwatta Malik* 967).[6](#ref-6){: .footnote}
+
+Another report gives the reason. Seeing soldiers around the body of a woman, the Prophet ﷺ said, "This one was not among those who were fighting," then ordered Khalid ibn al-Walid not to kill "any children, or women, or any labourer" (*Sunan Ibn Majah* 2842, graded *hasan sahih*).[7](#ref-7){: .footnote}
+
+The governing distinction is combatant versus non-combatant, not Muslim versus non-Muslim. The woman's religion is not mentioned because it does not affect the ruling; the labourer is protected for the same reason. Standing instructions to commanders also prohibit treachery, mutilation, looting and the killing of children.[1](#ref-1){: .footnote}
 
 Abu Bakr—the Prophet's ﷺ closest Companion and the first caliph—also instructed armies sent to Syria not to kill women, children, the elderly or infirm; cut down fruit trees; destroy inhabited places; slaughter livestock except for food; or disturb monks in their monasteries.
 
@@ -127,31 +123,31 @@ A *hadith* is a report about something the Prophet ﷺ said or did, transmitted 
 
 ## Forced conversions did occur
 
-Muslims did sometimes impose conversion by force, and those cases should be acknowledged.
+The Almohads in twelfth-century North Africa and Spain forced Jews and Christians to convert under threat of death or exile. Their policy ended communities that had survived four centuries of earlier Muslim rule, and Maimonides' family fled the Almohads.[9](#ref-9){: .footnote}
 
-- **The Almohads** in twelfth-century North Africa and Spain forced Jews and Christians to convert under threat of death or exile. Their policy ended communities that had survived four centuries of earlier Muslim rule, and Maimonides' family fled the Almohads.[9](#ref-9){: .footnote}
-- **The Safavids** used state coercion from 1501 onward to convert Iran from Sunni to Twelver Shi'i Islam—a case of Muslims forcibly converting other Muslims.[9](#ref-9){: .footnote}
-- Under **Aurangzeb**, temple demolitions and the restoration of the *jizya* in Mughal India in 1679 were coercive policies and were resisted as such.
+The Safavids used state coercion from 1501 onward to convert Iran from Sunni to Twelver Shi'i Islam—a case of Muslims forcibly converting other Muslims.[9](#ref-9){: .footnote}
 
-None is defended here. They were identifiable episodes, not the general mechanism that produced the Muslim world. The Almohad policy is notable precisely because it departed from a broader pattern in which non-Muslim communities had survived for centuries.
+Under Aurangzeb, temple demolitions and the restoration of the *jizya* in Mughal India in 1679 were coercive policies and were resisted as such.
 
-## What about indirect pressure to convert?
+None of these policies is defensible. They were identifiable episodes rather than the general mechanism that produced the Muslim world. The Almohad policy stands out precisely because it broke with a broader pattern in which non-Muslim communities had survived for centuries.
 
-A stronger objection accepts that conquest did not usually produce immediate forced conversion but argues that Muslim rule made conversion advantageous through taxation, limits on advancement and access to a ruling class defined by religion. On this view, "not by the sword" may seem too technical because military rule created the incentives.
+## Indirect pressure to convert
 
-The **tax incentive was real**, including measurable effects among poorer converts; the evidence is discussed in [The Jizya](/jizya). But **incentive is not the same as force**. The original accusation is that Islam uniquely depended on violence to create believers. Expanding powers throughout history have often made their own religion socially advantageous; once the claim shifts to social advantage under empire, it is a different and less Islam-specific charge.
+Muslim rule could also make conversion advantageous through taxation, limits on advancement and access to a ruling class defined by religion. The conquests therefore created incentives to convert even where they did not compel conversion directly.
 
-The **timescale still requires explanation**. An advantage operating for five centuries without quickly producing a majority was limited in effect. Egypt shows a slow, partial and reversible process rather than a population converting under immediate compulsion.
+The **tax incentive was real**, including measurable effects among poorer converts; the evidence is discussed in [The Jizya](/jizya). But **incentive is not the same as force**. Expanding powers throughout history have often made their own religion socially advantageous. A claim about social advantage under empire is therefore different from a claim that Islam depended on violence to create believers.
 
-Nor can this account explain Islam **outside the empire**. Indonesia had no Muslim conquest, no *jizya* and no Muslim ruling class to join, yet became the world's largest Muslim country.
+The **timescale limits the effect**. In Egypt, such advantages operated for centuries without quickly producing a Muslim majority. The record is slow, partial and reversible rather than one of immediate conversion under compulsion.
+
+The explanation also stops at the empire's borders. Indonesia had no Muslim conquest, no *jizya* and no Muslim ruling class to join, yet became the world's largest Muslim country.
 
 ## Conclusion
 
-The Arab conquests were real, rapid and military. Islam's expansion as a **political power** depended heavily on them. The evidence presented here does not show that Islam's expansion as a **faith** followed in the same way.
+The Arab conquests were real, rapid and military. Islam's expansion as a **political power** depended heavily on them. Its expansion as a **faith** followed a different pattern.
 
-Conquered populations often remained largely non-Muslim for centuries; many communities survived; major Muslim populations developed without Arab conquest; and the cited Islamic sources reject compelled belief while restricting warfare and protecting non-combatants. Forced conversion did occur, but in identifiable episodes rather than as the general mechanism of Islam's spread.
+Conquered populations often remained largely non-Muslim for centuries. Many non-Muslim communities survived Muslim rule. Major Muslim populations developed without Arab conquest. The cited Islamic sources reject compelled belief, restrict warfare and protect non-combatants. Forced conversion occurred, but in identifiable episodes rather than as the general mechanism of Islam's spread.
 
-**The empire expanded through conquest. The evidence presented here indicates that the religion usually spread through other means.**
+**The empire expanded through conquest. The religion usually spread through other means.**
 
 ---
 
