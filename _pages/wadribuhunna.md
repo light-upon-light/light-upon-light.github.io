@@ -28,6 +28,15 @@ glossary:
 share: true
 ---
 
+<div class="tldr" markdown="1">
+<span class="tldr__label">TL;DR</span>
+
+- Placeholder: replace these bullets with the page’s summary.
+- Placeholder: one point per bullet.
+- Placeholder: one point per bullet.
+- Placeholder: one point per bullet.
+</div>
+
 Critics often cite Qur'an 4:34—especially the disputed expression *waḍribūhunna*—as evidence that Islam permits domestic abuse. But that conclusion does not follow from the verse.
 
 Qur'an 4:34 does not give a husband permission to injure, cruelly mistreat, degrade, or abuse his wife. Before examining the disputed expression itself, it is important to begin with what Islamic teaching makes clear: the Qur'an requires kindness in marriage and prohibits wrongful harm, while the Prophet never struck a woman and condemned husbands who mistreated their wives.

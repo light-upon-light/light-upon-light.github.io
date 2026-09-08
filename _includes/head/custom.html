@@ -278,6 +278,18 @@
      _notes/guides/theme_internals.md for that history) -- which is what lets
      everything below be this short. The script runs here in <head>, before
      the masthead is parsed, so the page never paints in the wrong mode. {%- endcomment -%}
+{%- comment -%} Which of the two TOC templates this page uses on mobile:
+     `collapsed` (the default -- the whole TOC becomes a one-line disclosure
+     below $large, so the article starts above the fold) or `expanded`, set
+     with `toc_mobile: expanded` in front matter. Written here, pre-paint and
+     alongside the two bootstraps below, because site.scss keys a rule off it
+     to hide the TOC menu from first paint rather than letting it render and
+     then collapse; see the mobile TOC disclosure block in site.js. {%- endcomment -%}
+<script>
+  document.documentElement.setAttribute(
+    "data-toc-mobile", {{ page.toc_mobile | default: "collapsed" | jsonify }});
+</script>
+
 <script>
   (function () {
     var KEY = "theme";

@@ -1,10 +1,11 @@
 # Theme internals
 
-Three customisations big enough to have their own failure modes: dark mode,
-the mobile TOC drawer, and the scrollspy/nav-link-overflow pair that replaced
-two of the theme's jQuery plugins. Read the relevant section before changing
-any of them. The rest of the CSS/JS layout is `styling.md`; `CLAUDE.md`
-routes to both.
+Four customisations big enough to have their own failure modes: dark mode,
+the mobile TOC drawer, the mobile TOC disclosure (a separate thing from the
+drawer, and the one with the worst failure mode), and the
+scrollspy/nav-link-overflow pair that replaced two of the theme's jQuery
+plugins. Read the relevant section before changing any of them. The rest of
+the CSS/JS layout is `styling.md`; `CLAUDE.md` routes to both.
 
 ## Dark mode
 
@@ -292,6 +293,55 @@ clock so opacity and transform read their *start* values, and the window cannot
 go narrower than a ~504px viewport. Force the end state directly — add
 `is-visible`, click the toggle, disable transitions — and assert on
 `getBoundingClientRect` and class lists instead of pixels.
+
+## The mobile TOC disclosure
+
+Separate from the drawer above, and easy to confuse with it. Below `64em` the
+theme gives `.sidebar__right` no positioning at all — only `margin-bottom:
+1em` — so the TOC is an in-flow block between the title and the first
+paragraph: 13 rows on `/sword`, a screenful of navigation before any prose.
+`site.js` wraps it in a `<details>` so a phone shows one line, expanded again
+at `64em` where the sidebar is its own column.
+
+Four things here are load-bearing:
+
+- **The wrapper goes OUTSIDE `.toc`.** The drawer clone copies
+  `sourceToc.className` and `sourceToc.innerHTML` verbatim; a `<details>`
+  added *within* `.toc` would be cloned into the drawer, where a collapsed
+  TOC is exactly wrong.
+- **It is built in JS, not markup.** Shadowing the theme's
+  `_includes/toc.html` could emit the element but not decide its open state
+  per breakpoint, and open state is an attribute, not something CSS reaches.
+  With no JavaScript no wrapper is built and the reader gets the fully
+  expanded TOC — the right thing to degrade to.
+- **`html.toc-ready` gates a pre-paint rule, and a failure is dangerous.**
+  site.scss hides the TOC menu from first paint under
+  `html.js:not(.toc-ready)[data-toc-mobile="collapsed"]`, so the full list
+  never paints and then collapses. If `site.js` failed to add `.toc-ready`,
+  the mobile TOC would stay hidden with **no TOC reachable at all**:
+  `#floating-nav`, and therefore the drawer, only becomes visible after a
+  full viewport of scroll. So the class is added as the block's first
+  statement, before any DOM work, and the block is deliberately independent
+  of the floating-nav IIFE, which returns early when `#floating-nav` is
+  absent. The `html.js` half of the selector (set in the shadowed
+  `_includes/head.html`) is what keeps a no-JS reader out of the rule.
+- **Print is JS too.** A closed `<details>` hides its content through the
+  UA's own `::details-content` / `content-visibility` machinery, which a
+  print stylesheet cannot reliably override. `site.js` opens the panel on
+  `beforeprint` and restores it on `afterprint`; the print CSS only drops the
+  summary.
+
+Two templates, switched per page: `toc_mobile: expanded` in front matter opts
+out of collapsing (`quran.md` only — its TOC is the page's own structure
+rather than an aside to a linear argument), everything else defaults to
+collapsed. The value is written onto `<html>` as `data-toc-mobile` by
+`_includes/head/custom.html`, pre-paint alongside the theme and font-size
+bootstraps, because CSS keys off it too.
+
+The summary is styled as a hairline and a muted label — the `.quran-more` /
+`.yt-embed` idiom — not as the desktop TOC title's solid fill: it sits
+directly above the article's `.tldr`, and a full-width filled bar made the
+navigation the loudest thing on the screen.
 
 ## Scrollspy and nav-link overflow (P1-5)
 

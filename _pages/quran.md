@@ -21,6 +21,12 @@ toc_label: "On this page"
 toc_icon: "bars"
 toc_sticky: true
 
+# Keep the whole TOC expanded on mobile rather than collapsing it to a
+# one-line disclosure (the default for every other page). This page's TOC is
+# its own structure, not an aside to a linear argument. See the mobile TOC
+# disclosure block in assets/js/site.js.
+toc_mobile: expanded
+
 glossary:
   - hadith
   - jizya
@@ -30,6 +36,15 @@ glossary:
 
 share: true
 ---
+
+<div class="tldr" markdown="1">
+<span class="tldr__label">TL;DR</span>
+
+- Placeholder: replace these bullets with the page’s summary.
+- Placeholder: one point per bullet.
+- Placeholder: one point per bullet.
+- Placeholder: one point per bullet.
+</div>
 
 > This page presents evidence for the **miraculous nature** of the **Qur'an** and the **prophethood** of **Prophet Muhammad** ﷺ. Not every point is a miracle or proof on its own. Taken together, however, the points form a cumulative case for the Qur'an's divine origin and the authenticity of the Prophet's mission. — *Note: this page is a work in progress.*
 

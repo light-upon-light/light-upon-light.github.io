@@ -32,6 +32,15 @@ glossary:
 share: true
 ---
 
+<div class="tldr" markdown="1">
+<span class="tldr__label">TL;DR</span>
+
+- Placeholder: replace these bullets with the page’s summary.
+- Placeholder: one point per bullet.
+- Placeholder: one point per bullet.
+- Placeholder: one point per bullet.
+</div>
+
 The traditional reports state that the Prophet Muhammad ﷺ contracted marriage with Aisha when she was six or seven and that she entered his household at nine.[1](#ref-1){: .footnote} This article accepts those figures for the purpose of the argument. Its case does not depend on revising them, although the principal scholarly challenges to the traditional chronology are noted below.
 
 Nine is plainly young by modern standards. But the number does not carry the same social and developmental meaning in every age. A nine-year-old in a modern industrial society lives within a world of prolonged schooling, economic dependence, delayed household formation, and a long period before adult responsibilities are normally expected. Seventh-century Arabia was organized very differently.

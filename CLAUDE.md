@@ -35,7 +35,7 @@ check there is.
 | add footnotes, references, or an evidence blockquote | `_notes/guides/formatting_guide.md` |
 | add a key-terms block or a glossary term/hover | `_notes/guides/formatting_guide.md`, `_notes/guides/styling.md` |
 | touch CSS or JS | `_notes/guides/styling.md` |
-| touch dark mode, the TOC drawer, or the scrollspy | `_notes/guides/theme_internals.md` |
+| touch dark mode, either TOC collapse, or the scrollspy | `_notes/guides/theme_internals.md` |
 | change a permalink, or reason about what gets published | `_notes/guides/publishing.md` |
 | turn search back on | `_notes/guides/search.md` |
 
