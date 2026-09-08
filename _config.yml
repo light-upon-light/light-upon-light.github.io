@@ -331,4 +331,4 @@ defaults:
       # repeated in all 24 of them. site.js reads the rendered .nav__title
       # rather than hardcoding a second copy, so an override reaches the
       # mobile disclosure summary too.
-      toc_label: "ON THIS PAGE"
+      toc_label: "On this page"
