@@ -27,25 +27,21 @@ share: true
 
 Classical Islamic law prescribes severe punishments for certain offences: amputation for theft, stoning for adultery by a married person, and flogging for fornication, false accusation, and intoxication. Critics regard these penalties as cruel and disproportionate. They are not marginal interpretations: they appear in the canonical hadith collections, were accepted across all four schools of law, and some Muslim-majority states still enforce them.
 
-But these penalties are not simply the inevitable worldly consequence God has attached to every commission of the underlying sin. Islamic teaching distinguishes between a person's sin before God and the state's response to a legally established offence.
+But these penalties are not simply the inevitable worldly consequence of every commission of the underlying sin. Islamic teaching distinguishes between a person's sin before God and the state's response to a legally established offence. God's forgiveness is tied to repentance, reform, and His mercy; the *hudud* belong to the separate sphere of public law and social order.
 
-That distinction is crucial. God's forgiveness is tied to repentance, reform, and His mercy, not to whether a sinner receives a *hadd*. The *hudud* belong instead to the sphere of public law: maintaining social order, deterring public wrongdoing, and dealing with offences that become legally established before the courts. Islamic law did not instruct authorities to uncover and punish every private sin.
-
-This helps explain the surrounding legal structure. Classical jurists required demanding forms of proof, prohibited prying into concealed wrongdoing, punished unsupported accusations, discouraged confession, sought to avert fixed penalties where serious doubt remained, recognized legal consequences for repentance, and considered the social circumstances surrounding an offence.
+That distinction helps explain the surrounding legal structure. Classical jurists required demanding forms of proof, prohibited prying into concealed wrongdoing, punished unsupported accusations, discouraged confession, sought to avert fixed penalties where serious doubt remained, recognized legal consequences for repentance, and considered the social circumstances surrounding an offence.
 
 The death penalty for apostasy is a related but separate issue, discussed at [Apostasy in Islam](/ridda).
 
 *Terms:* the *hudud* (singular *hadd*, “limit”) are a small class of offences whose penalties are fixed in the sources. *Taʿzir* is discretionary punishment set by a judge, while *hiraba* means armed robbery or brigandage. A *hadith* is a report of something the Prophet ﷺ said or did, transmitted through a named chain and assessed for reliability. *Sahih al-Bukhari* and *Sahih Muslim* are the most rigorously screened collections; reports graded *da'if* are weak and cannot establish a legal ruling on their own.
 
-## Sin before God and punishment by the state are different questions
+## Sin, forgiveness, and public law
 
 A *hadd* is not the worldly price a sinner must pay for committing the sin, nor is it a condition of God's forgiveness. The Qur'an tells sinners not to despair of God's mercy and calls them to return to Him (39:53–54); the Prophet ﷺ likewise described God as rejoicing intensely at a servant's repentance.[1](#ref-1){: .footnote} A person may therefore sin, repent sincerely, and receive God's forgiveness without ever receiving a worldly punishment.
 
-The *hudud* belong to a different sphere: the public legal order. A concealed wrong may remain between the individual and God. A fixed punishment becomes a matter for the courts only when conduct enters the legal sphere and is established through the forms of proof the law recognizes.
+The *hudud* belong to a different sphere: the public legal order. A concealed wrong may remain between the individual and God. A fixed punishment becomes a matter for the courts only when an offence is brought before them and established through the forms of proof the law recognizes.
 
-The state's concern is therefore not identical to God's judgment of the sinner. The law may condemn an act while still limiting the state's authority to discover it, prosecute it, or impose a fixed penalty for it. The *hudud* function as public legal sanctions and deterrents against wrongdoing becoming open and socially corrupting; they are not a command to seek out every private sinner and punish every instance of the sin.
-
-This does not mean that the *hudud* lack a punitive or retributive function. It means that moral guilt before God is much broader than legally punishable guilt before the state, while God's mercy and forgiveness remain available independently of whether any court case occurs.
+The law may therefore condemn an act while still limiting the state's authority to uncover and punish it. This does not mean that the *hudud* lack a punitive or retributive function. It means that moral guilt before God is broader than legally punishable guilt before the state.
 
 ## The fixed penalties were narrowly bounded
 
@@ -61,8 +57,6 @@ For fornication, four eyewitnesses had to see the act itself and agree about wha
 
 An accuser who failed to produce the required witnesses was himself flogged eighty lashes, and his testimony was permanently rejected thereafter.[2](#ref-2){: .footnote} Unsupported accusation was therefore dangerous for the accuser, protecting the accused from having a reputation destroyed by allegation.
 
-The rule is easier to understand in light of the distinction above. The law did not treat every suspected private sin as something the state should convert into a criminal conviction. A fixed public punishment required the offence to become legally established under an exceptionally demanding standard.
-
 ### Confession was not simply pursued
 
 Confession could also be discouraged. When Maʿiz ibn Malik confessed to fornication, the Prophet ﷺ repeatedly turned him away and had his people asked whether anything was wrong with his mind.[3](#ref-3){: .footnote} When Maʿiz persisted, he was offered lesser explanations:
@@ -71,13 +65,13 @@ Confession could also be discouraged. When Maʿiz ibn Malik confessed to fornica
 > — *Sunan Abi Dawud* 4427; also *Sahih al-Bukhari* 6824[4](#ref-4){: .footnote}
 {: .src }
 
-The procedure sought a credible alternative that would avoid the fixed penalty rather than simply securing a conviction. Again, the aim was not to ensure that every sinner received the maximum worldly punishment.
+The procedure sought a credible alternative that would avoid the fixed penalty rather than simply securing a conviction.
 
 ### Private wrongdoing was not to be hunted out
 
-The same principle appears in the prohibition on *tajassus* — seeking out concealed faults. The Qur'an commands, “do not spy” (49:12). When a man was brought to Ibn Masʿud with wine dripping from his beard, Ibn Masʿud replied that they had been forbidden to seek out faults; if wrongdoing became manifest, they could act on it.[5](#ref-5){: .footnote}
+The Qur'an commands, “do not spy” (49:12). When a man was brought to Ibn Masʿud with wine dripping from his beard, Ibn Masʿud replied that they had been forbidden to seek out faults; if wrongdoing became manifest, they could act on it.[5](#ref-5){: .footnote}
 
-Private wrongdoing did not therefore cease to be wrong. Rather, the law distinguished between wrongdoing before God and wrongdoing that had become a matter of public legal concern. Authorities were not given a general mandate to search people's private lives in order to expose sin.
+Private wrongdoing did not therefore cease to be wrong. Rather, the law restricted the authority of rulers and judges to search people's private lives in order to expose it.
 
 ### Doubt favoured the accused
 
@@ -85,19 +79,17 @@ Jurists also developed the maxim *idra'u al-hudud bi'l-shubuhat* — roughly, �
 
 The principle operated across the legal schools of thought. Avoiding a fixed punishment where legally significant doubt remained was not a loophole around the law; it became part of the law itself.
 
-Taken together, these rules show that the existence of a severe penalty and the state's authority to impose it were two different questions. The law could strongly condemn the underlying conduct while still making the fixed public sanction difficult to reach.
-
 ## The penalties were rare in practice
 
 These restrictions had practical effects. In his study of Ottoman criminal law, Rudolph Peters describes amputation for theft as rare and stoning as extremely rare; the only Ottoman stoning he found was a highly exceptional case in Istanbul in 1680.[7](#ref-7){: .footnote}
 
 Surviving records are incomplete and cannot establish a total for all Muslim societies. They are nevertheless consistent with a system in which the fixed penalties were difficult to reach.
 
-Avoiding a *hadd* did not necessarily mean avoiding accountability. Conduct that failed the requirements for a fixed penalty could still, where the law allowed, be handled under *taʿzir*. The distinction was therefore not between punishment and complete legal indifference, but between a narrowly bounded fixed sanction and the broader sphere of discretionary public law.
+Avoiding a *hadd* did not necessarily mean avoiding accountability. Conduct that failed the requirements for a fixed penalty could still, where the law allowed, be handled under *taʿzir*.
 
-## Repentance and God's forgiveness
+## Repentance and its legal effect
 
-The Qur'an places repentance not only throughout its moral teaching but alongside the punishment verses themselves. This reinforces the distinction between a person's standing before God and the state's legal response. The *hadd* is not presented as the price of God's forgiveness: a person can turn back to God through repentance and reform whether or not a worldly punishment occurs.
+The Qur'an places repentance not only throughout its moral teaching but alongside the punishment verses themselves.
 
 For *hiraba*:
 
@@ -113,7 +105,7 @@ For theft, in the verse immediately after the amputation verse:
 > <div dir="rtl" lang="ar" class="quran-arabic">﴿فَمَن تَابَ مِنۢ بَعْدِ ظُلْمِهِۦ وَأَصْلَحَ فَإِنَّ ٱللَّهَ يَتُوبُ عَلَيْهِ ۗ إِنَّ ٱللَّهَ غَفُورٌ رَّحِيمٌ ۝٣٩﴾ <span class="ayah-ref">سُورَةُ المَائـِدَةِ</span></div>
 {: .quote }
 
-The legal effect of repentance differs by offence. Qur'an 5:34 expressly exempts those who repent from *hiraba* before capture, while 5:39 promises divine forgiveness after theft without itself cancelling the earthly penalty. Repentance therefore does not automatically erase every *hadd*. The broader point is that God's forgiveness of sin and the state's authority to punish a legally established public offence are not the same question.
+The legal effect of repentance differs by offence. Qur'an 5:34 expressly exempts those who repent from *hiraba* before capture, while 5:39 promises divine forgiveness after theft without itself cancelling the earthly penalty. Repentance therefore does not automatically erase every *hadd*.
 
 ## Social conditions mattered
 
@@ -122,8 +114,6 @@ Classical jurists did not regard the *hudud* as applicable without regard to soc
 As caliph, Umar ibn al-Khattab suspended the theft penalty during the famine year known as the *ʿam al-ramada*. His reasoning was that someone who steals food to survive is not the kind of thief contemplated by the penalty. The report appears in juristic and historical literature rather than the canonical hadith collections, and jurists cite it as a precedent for suspending a *hadd* when its social preconditions are absent.[8](#ref-8){: .footnote}
 
 The state therefore could not treat necessity and its own social obligations as irrelevant and then impose the maximum penalty mechanically. The circumstances surrounding the offence formed part of determining whether the *hadd* was legally available at all.
-
-This, too, fits the broader structure: the fixed penalties belonged to the maintenance of a just public order, not to a mechanical system in which every instance of a sin had to receive the same worldly punishment regardless of circumstances.
 
 ## Modern enforcement
 
