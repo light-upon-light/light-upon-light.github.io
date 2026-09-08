@@ -23,8 +23,8 @@ share: true
 
 Within roughly a century of the Prophet's ﷺ death in 632, armies fighting under
 the banner of Islam had conquered Syria, Egypt, Iraq, Persia, North Africa and
-Spain. **These were military conquests, and any serious defence of Islam must
-begin by acknowledging them.**
+Spain. These were military conquests, and any serious defence of Islam must
+begin by acknowledging them.
 
 The further claim is that this is *how the religion spread*: that conquered
 people became Muslim because armies forced them to, and that Islam was therefore
@@ -53,15 +53,15 @@ The argument, stated in its strongest form, is as follows:
 4. The expansion of the empire and the spread of the faith were therefore the
    same process, and Islam owes its growth to violence.
 
-The first two points are true as stated. **The problem lies in the move from 3
-to 4**, and the historical evidence does not support it.
+The first two points are true as stated. The problem lies in the move from 3
+to 4, and the historical evidence does not support it.
 
 ## What conquest actually produced
 
-- The conquests represented **the expansion of a state**. They brought
+- The conquests represented the expansion of a state. They brought
   territory, tribute and political control: the usual aims of seventh-century
   empire, pursued by a new power against two exhausted rivals.
-- Conquered populations were **not required to become Muslim**. They had to
+- Conquered populations were not required to become Muslim. They had to
   accept Muslim political authority and pay tax. The existence of the jizya
   reflects this arrangement: a tax imposed on non-Muslim subjects assumes that
   substantial non-Muslim populations will continue to live under Muslim rule.
@@ -73,7 +73,7 @@ to 4**, and the historical evidence does not support it.
     {: .gloss }
 
 - The Prophet's ﷺ standing instructions to army commanders make the political
-  nature of submission clear. A commander was to offer **three alternatives**,
+  nature of submission clear. A commander was to offer three alternatives,
   of which conversion was only the first:
 
     > "When you meet your enemies who are polytheists, invite them to three
@@ -86,7 +86,7 @@ to 4**, and the historical evidence does not support it.
 
     > The second alternative is decisive. The opposing population could retain
     > its religion, accept Muslim rule, and pay the *jizya*, and this counted as
-    > **a legitimate settlement, not a failed conversion**. If conversion had
+    > a legitimate settlement, not a failed conversion. If conversion had
     > been the objective, payment of a tax could not have satisfied it.
     {: .gloss }
 
@@ -100,14 +100,14 @@ conquered. The evidence does not show that pattern.
   conversion timelines from personal names in biographical dictionaries.
   Descendants of converts generally carried Muslim names, allowing the records
   to indicate when conversion occurred. For Iran, Iraq, Syria, Egypt and Spain,
-  the results are **slow S-curves extending over three to four centuries**, not
+  the results are slow S-curves extending over three to four centuries, not
   sudden changes at the time of conquest.[2](#ref-2){: .footnote}
 - Quantitative research on Egypt, based on tax records and later census data,
-  places the conversion of the Coptic population across the period **641 to
-  about 1200**.[3](#ref-3){: .footnote} The conquest took two years, while the transition to a Muslim
+  places the conversion of the Coptic population across the period 641 to
+  about 1200.[3](#ref-3){: .footnote} The conquest took two years, while the transition to a Muslim
   majority took roughly five centuries.
-- Syria and Egypt still had **substantial Christian populations at the end of
-  the medieval period**. Bulliet's graphs must therefore be read as describing
+- Syria and Egypt still had substantial Christian populations at the end of
+  the medieval period. Bulliet's graphs must therefore be read as describing
   the people who eventually converted, not the entire population.[2](#ref-2){: .footnote}
 
     > A five-century transition is difficult to reconcile with systematic forced
@@ -124,19 +124,19 @@ of the communities subjected to it.
 
 - **Egypt's Copts** have remained continuously present since before the conquest
   and are still the largest Christian community in the Middle East.
-- **Assyrian and Syriac Christians** in Iraq and Syria, **Maronites** in Lebanon,
-  and **Armenian** communities throughout the region all predate Muslim rule and
+- **Assyrian and Syriac Christians** in Iraq and Syria, Maronites in Lebanon,
+  and Armenian communities throughout the region all predate Muslim rule and
   survived it.
 - **Jewish communities** lived continuously across the Muslim world from the
   seventh century until the mid-twentieth. Their departure belongs to the history
   of modern politics, not medieval Islamic law.
-- **Zoroastrians** remained in Iran, as did **Hindus** in India.
+- **Zoroastrians** remained in Iran, as did Hindus in India.
 
 India provides an especially important test. Muslim dynasties ruled large parts
 of the subcontinent from the establishment of the Delhi Sultanate in 1206 until
 the end of Mughal rule in 1857. This amounted to six and a half centuries of
 Muslim political and military rule over a Hindu majority. At the end of that
-period, **India was, and remains, overwhelmingly Hindu**. The 2011 census records
+period, India was, and remains, overwhelmingly Hindu. The 2011 census records
 roughly 80 per cent Hindu and 14 per cent Muslim.[4](#ref-4){: .footnote}
 
 > Six and a half centuries of Muslim rule gave successive states more than
@@ -159,8 +159,8 @@ populations developed in places without an Arab conquest.
   than the entire Middle East.[5](#ref-5){: .footnote}
 - **Malaysia and the Malay archipelago** were reached through the same commercial
   and scholarly networks.
-- **West Africa** encountered Islam through trans-Saharan trade, while **East
-  Africa** encountered it along the Indian Ocean coast. In both regions,
+- **West Africa** encountered Islam through trans-Saharan trade, while East
+  Africa encountered it along the Indian Ocean coast. In both regions,
   merchants and scholars were the main carriers rather than invading armies.
 - **China** has had Muslim communities since the Tang period, founded by traders
   travelling over land and sea.
@@ -264,7 +264,7 @@ who fight and those who do not.
     > — *Sunan Ibn Majah* 2842, graded *hasan sahih*[7](#ref-7){: .footnote}
     {: .src }
 
-    > The relevant distinction is between **combatants and non-combatants**, not
+    > The relevant distinction is between combatants and non-combatants, not
     > Muslims and non-Muslims. The report does not mention the woman's religion
     > because it makes no difference to the ruling. She was protected because she
     > was not fighting, and the labourer is included for the same reason.
@@ -301,7 +301,7 @@ which Muslims did impose conversion by force.
   India in 1679 were coercive policies and were resisted as such.
 
 None of these cases is defensible, and none is being defended here. They were
-not, however, **the mechanism that produced the Muslim world**. They are
+not, however, the mechanism that produced the Muslim world. They are
 identifiable episodes within a longer history in which non-Muslim communities
 usually survived for centuries. The Almohad policy is notable precisely because
 it departed from that broader pattern.
@@ -310,8 +310,8 @@ it departed from that broader pattern.
 
 The strongest remaining criticism accepts that conquest did not usually produce
 immediate conversion but shifts attention to the conditions created by Muslim
-rule. **The conquests may not have converted people directly, but they made
-conversion advantageous** through taxation, limits on advancement and access to
+rule. The conquests may not have converted people directly, but they made
+conversion advantageous through taxation, limits on advancement and access to
 a ruling class defined by religion. On this account, "not by the sword" remains
 a technical distinction because military rule created the incentives.
 
@@ -336,7 +336,7 @@ This objection should be answered directly.
 
 The Arab conquests were real, rapid and military. Islam's expansion as a
 **political power** depended heavily on them. The evidence does not show that
-Islam's expansion as a **faith** followed in the same way.
+Islam's expansion as a faith followed in the same way.
 
 The populations conquered by Muslim armies remained largely non-Muslim for
 centuries. Many of the communities placed under Muslim rule still exist. The

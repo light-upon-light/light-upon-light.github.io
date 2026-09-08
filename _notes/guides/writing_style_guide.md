@@ -19,7 +19,7 @@ Below is an sample of a good writing style, please follow the style and voice, n
 
 ### Markdown Formatting
 
-Use bold text freely to highlight key words. Bold should help the reader follow the reasoning at a glance, not merely decorate the prose. Avoid bolding whole paragraphs or so much text that the emphasis loses its value.
+Do not bold words or phrases inside running prose. Bold is reserved for lead-in labels that open a paragraph or list item (`**A note on terms.**`), and citations keep their existing `**Sūrat …**` convention inside blockquotes. Let sentence structure carry the emphasis instead.
 
 ### Good writing example
 

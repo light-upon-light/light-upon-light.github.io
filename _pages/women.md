@@ -82,7 +82,7 @@ rules altered.
     {: .quote }
 
     > The verse does not question the father who killed her. It questions
-    > **the child**: "for what crime" was she put to death? The answer is none.
+    > the child: "for what crime" was she put to death? The answer is none.
     > By giving the murdered daughter a voice, the Qur'an turns her death into
     > an accusation against the society that accepted it.
     {: .gloss }
@@ -146,8 +146,8 @@ different contexts.
 
     > The passage could have answered in general terms that women were
     > included. Instead, it repeats all ten qualities in both masculine and
-    > feminine forms. **Umm Umara complained that women were not being named,
-    > and the answer named them category by category.**
+    > feminine forms. Umm Umara complained that women were not being named,
+    > and the answer named them category by category.
     {: .gloss }
 
 - **Mutual responsibility, expressed in the same term.** Believing men and
@@ -216,8 +216,8 @@ brought the matter to the Prophet ﷺ.
 > an-Nasa'i* 3268, both graded *sahih*[2](#ref-2){: .footnote}
 {: .src }
 
-- The ruling was not limited to Khansa's case. It became **a precedent that
-  other women invoked**. A woman from Jaʿfar's family feared that her guardian
+- The ruling was not limited to Khansa's case. It became a precedent that
+  other women invoked. A woman from Jaʿfar's family feared that her guardian
   would marry her against her will. She sent for two elders of the Ansar, who
   told her: *"Don't be afraid — Khansa bint Khidham was given by her father in
   marriage against her will, and the Prophet ﷺ declared it invalid."*[3](#ref-3){: .footnote}
@@ -236,8 +236,8 @@ brought the matter to the Prophet ﷺ.
   agreed, and he ordered Thabit to divorce her.[4](#ref-4){: .footnote}
 
     > This is *khulʿ*. A wife does not need to accuse her husband of
-    > misconduct, produce witnesses, or prove that he harmed her. **Her statement
-    > that she cannot continue is sufficient.** She returns the marriage gift,
+    > misconduct, produce witnesses, or prove that he harmed her. Her statement
+    > that she cannot continue is sufficient. She returns the marriage gift,
     > and the marriage ends.
     {: .gloss }
 
@@ -310,7 +310,7 @@ The surah is named *al-Mujadila* — "the woman who argues."
   rights for you upon your women, and rights for your women upon you,"* and
   instructed men to provide women with good clothing and food.[11](#ref-11){: .footnote}
 
-    > **The sentence about striking appears in this same sermon**, qualified
+    > The sentence about striking appears in this same sermon, qualified
     > as "a beating that is not painful." It is not being passed over here. Its
     > wording, the term behind it, and the limits Muslim jurists placed on it are
     > examined in [The Misreading of Qur'an 4:34](/wadribuhunna).
@@ -340,7 +340,7 @@ This is discussed at
 
 ### "Her testimony is half"
 
-- Verse 2:282 concerns **written commercial debt contracts**. It asks for two
+- Verse 2:282 concerns written commercial debt contracts. It asks for two
   men, or one man and two women, so that one woman can remind the other if she
   errs. The rule governs documentation for a particular transaction; it is not a
   general rule for all testimony.
@@ -351,24 +351,24 @@ This is discussed at
   oath answers his on equal terms.
 - The Qur'an's general rule for accusations imposes a severe burden on the
   accuser. A man who accuses a woman of adultery without producing four witnesses
-  is **flogged eighty lashes and his testimony is rejected for life** (24:4).
+  is flogged eighty lashes and his testimony is rejected for life (24:4).
   The rule protects a woman's reputation rather than treating her word as
   inherently unreliable.
 
 ### "She inherits half"
 
-- The half-share applies in **specific family arrangements**, most commonly
+- The half-share applies in specific family arrangements, most commonly
   when a son and daughter inherit together. It is not a universal ratio. In other
   cases, a woman may inherit an equal share, a larger share, or inherit when a
   male relative does not.
-- The rule belongs to a financial system in which **a man's share carries
-  obligations that a woman's share does not**. He owes *mahr*, must maintain his
+- The rule belongs to a financial system in which a man's share carries
+  obligations that a woman's share does not. He owes *mahr*, must maintain his
   wife and children, and may also be responsible for other relatives. He has no
   corresponding claim to her property or earnings, and she may keep her entire
   share.
 - Muslim jurists have debated whether this arrangement remains fair when men no
-  longer meet those financial duties. The narrower point here is that **the
-  ratio is not a statement about worth**; it is part of a wider allocation of
+  longer meet those financial duties. The narrower point here is that the
+  ratio is not a statement about worth; it is part of a wider allocation of
   rights and obligations.
 
 ### "Deficient in intellect and religion"
@@ -383,8 +383,8 @@ This is discussed at
   discussed above.
 - The word *naqṣ* denotes a measurable shortfall, such as a debt or quantity that
   is incomplete. It does not describe an essential defect in a person's nature.
-- The Prophet's ﷺ conduct also limits how the report can be read. **He left Aisha
-  as an authority on some of the community's most intimate legal questions.**
+- The Prophet's ﷺ conduct also limits how the report can be read. He left Aisha
+  as an authority on some of the community's most intimate legal questions.
   The Companions sought her rulings and accepted her corrections. That practice
   is inconsistent with treating women's minds as generally unreliable.
 
@@ -394,8 +394,8 @@ This is discussed at
   **Khosrau's daughter** on the throne after his death (*Jami' at-Tirmidhi* 2262,
   graded *sahih*). The immediate context was a particular dynastic succession in
   an empire already in decline.
-- The reading adopted on this site understands the sentence as **addressed to the
-  men, not as a judgment about women**. In this reading, leadership is a burden
+- The reading adopted on this site understands the sentence as addressed to the
+  men, not as a judgment about women. In this reading, leadership is a burden
   for which men were made responsible before God. A society in which men transfer
   that responsibility to women has failed to meet an obligation placed on them.
 - **This is one interpretation, and it is presented as such.** Scholars have
@@ -404,10 +404,10 @@ This is discussed at
   how it relates to modern states. Muslim jurists have supported women serving in
   judicial and ministerial positions.
 - The same tradition also records the Prophet ﷺ accepting political advice from
-  his wife **Umm Salama** at Hudaybiyya, the 628 truce with the Quraysh of Mecca
+  his wife Umm Salama at Hudaybiyya, the 628 truce with the Quraysh of Mecca
   and the worst crisis of his leadership. After the treaty, he ordered the
   Companions three times to slaughter their
-  sacrifices and shave their heads, but **not one of them moved.** He told Umm
+  sacrifices and shave their heads, but not one of them moved. He told Umm
   Salama what had happened. She advised him to go out, say nothing, and perform
   the rites himself. He followed her advice, and the entire camp then followed
   him.[12](#ref-12){: .footnote}
@@ -420,7 +420,7 @@ This is discussed at
 
 ### Covering
 
-- The Qur'an addresses **men first**. Verse 24:30 tells believing men to lower
+- The Qur'an addresses men first. Verse 24:30 tells believing men to lower
   their gaze and guard their modesty; 24:31 then addresses women. Men are
   therefore instructed to restrain their gaze before women are given their own
   dress and modesty requirements.
@@ -454,8 +454,8 @@ of those that require interpretation:
   predetermined case may isolate verses that require interpretation and assign
   them a meaning that conflicts with the clear verses. Critics do this when they
   quote 4:34 without the Prophet's ﷺ practice. Muslim men do the same when they
-  quote it without the restrictions imposed by jurists. **In both cases, an
-  ambiguous text is isolated from the sources that govern its interpretation.**
+  quote it without the restrictions imposed by jurists. In both cases, an
+  ambiguous text is isolated from the sources that govern its interpretation.
 
 ## Where the criticism does land
 
@@ -493,19 +493,19 @@ The Prophet ﷺ said **"I was sent to perfect good character,"**[14](#ref-14){: 
 man's treatment of his wife a measure of his character. The tradition should be
 judged by that standard, as should the conduct of Muslims.
 
-The sources give women specific rights and forms of legal standing: **the buried
+The sources give women specific rights and forms of legal standing: the buried
 daughter is allowed to testify against the wrong done to her; a woman's earnings
 belong to her; her marriage gift is paid to her rather than her father; her
 consent is required for marriage; the annulment of a forced marriage became a
 precedent another woman could invoke; she may leave a marriage through *khulʿ*;
 her access to the mosque is protected; her complaint about being omitted is
-answered by revelation; and a surah is named after a woman who argued her case.**
+answered by revelation; and a surah is named after a woman who argued her case.
 
 The difficult verses remain difficult, and they are addressed here and on the
 linked pages rather than omitted. They do not, however, establish that Islam
-regards women as lesser. **When Umm Umara complained that women had not been
+regards women as lesser. When Umm Umara complained that women had not been
 mentioned, the Qur'an answered by naming men and women separately across ten
-pairs and promising both the same reward.**
+pairs and promising both the same reward.
 
 ---
 

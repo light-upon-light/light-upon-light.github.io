@@ -21,7 +21,7 @@ toc_levels: 2..3
 share: true
 ---
 
-Under Muslim rule, some non-Muslim subjects paid the **jizya** while Muslims did not. Qur'an 9:29 tells Muslims to fight certain opponents *until they pay the jizya* and ends with a phrase commonly translated as "while they are humbled."[1](#ref-1){: .footnote} Conversion also ended the liability. The tax can therefore look like a fine for refusing Islam, or a way to make conversion financially attractive.
+Under Muslim rule, some non-Muslim subjects paid the jizya while Muslims did not. Qur'an 9:29 tells Muslims to fight certain opponents *until they pay the jizya* and ends with a phrase commonly translated as "while they are humbled."[1](#ref-1){: .footnote} Conversion also ended the liability. The tax can therefore look like a fine for refusing Islam, or a way to make conversion financially attractive.
 
 The religious distinction was real, and the tax could create financial pressure. But liability was limited to a defined group, military service could remove it, Muslims carried different fiscal and military obligations, and the state assumed enforceable duties toward those from whom it collected the tax.
 
@@ -31,7 +31,7 @@ Across the four Sunni schools of law, liability was restricted to free, adult, s
 
 Military service also removed the liability. A non-Muslim who fought alongside Muslim forces paid no jizya because service and payment were treated as alternatives.[4](#ref-4){: .footnote} The liable group closely resembled the group from which a pre-modern state could demand military service. If the tax had simply been imposed on people for being non-Muslim, there would be no obvious reason to exempt women, children, monks, the elderly, the poor, and those unable to fight.
 
-Muslims did not pay the jizya, but they were not free of public obligations. They paid **zakat**, an annual obligation commonly assessed at two and a half per cent of qualifying accumulated wealth, and remained liable for **military service**. A protected non-Muslim normally paid jizya instead of zakat and was exempt from conscription.
+Muslims did not pay the jizya, but they were not free of public obligations. They paid zakat, an annual obligation commonly assessed at two and a half per cent of qualifying accumulated wealth, and remained liable for military service. A protected non-Muslim normally paid jizya instead of zakat and was exempt from conscription.
 
 Zakat and jizya were not financially identical, and neither status was automatically cheaper. Zakat was assessed on wealth, while jizya was generally assessed per liable man; actual burdens varied by wealth, place, period, and enforcement. Military service also carried a cost that cannot be reduced to a tax rate: the risk of injury or death.
 
