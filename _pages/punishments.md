@@ -24,27 +24,33 @@ toc_levels: 2..3
 share: true
 ---
 
-Classical Islamic law prescribes amputation for theft, stoning for adultery by a married person, and flogging for fornication, false accusation, and intoxication. These penalties are severe. They are not marginal interpretations: they appear in the canonical hadith collections and all four schools of law, and some Muslim-majority states still enforce them.
+Classical Islamic law prescribes amputation for theft, stoning for adultery by a married person, and flogging for fornication, false accusation, and intoxication. These penalties are severe and plainly present in the sources.
 
-Critics therefore condemn them as cruel and disproportionate. But classical law did not treat the fixed punishments as automatic responses to an offence. Their application depended on demanding rules of proof, procedures that avoided fixed penalties where doubt remained, provisions for repentance, and social conditions that governed whether the penalty could be imposed at all.
+They were not treated as automatic responses to an offence. Classical jurists attached demanding rules of proof, procedures designed to avoid fixed penalties where doubt remained, repentance provisions, and social conditions governing whether those penalties could be imposed.
 
 The death penalty for apostasy is a related but separate issue, discussed at [Apostasy in Islam](/ridda).
 
-The *hudud* (singular *hadd*, “limit”) are a small class of offences whose penalties are fixed in the sources; *taʿzir* is discretionary punishment set by a judge. *Hiraba* means armed robbery or brigandage. A *hadith* is a report of something the Prophet ﷺ said or did, transmitted through a named chain and assessed for reliability. *Sahih al-Bukhari* and *Sahih Muslim* are the most rigorously screened collections, while reports graded *da'if* are weak and cannot establish a legal ruling on their own.
+*Terms:* the *hudud* (singular *hadd*, “limit”) are a small class of offences whose penalties are fixed in the sources; *taʿzir* is discretionary punishment set by a judge. *Hiraba* means armed robbery or brigandage. A *hadith* is a report of something the Prophet ﷺ said or did, transmitted through a named chain and assessed for reliability; *Sahih al-Bukhari* and *Sahih Muslim* are the most rigorously screened collections, while reports graded *da'if* are weak and cannot establish a legal ruling on their own.
+
+## The objection
+
+Critics object that Islamic law amputates the hands of thieves and stones adulterers; these punishments are cruel and disproportionate; they are not marginal interpretations but appear in the canonical hadith collections and all four schools of law; and some Muslim-majority states still enforce them.
+
+The punishments are genuinely part of the classical tradition, and modern enforcement is not merely a historical concern. Describing only the maximum punishments, however, omits the legal structure that determined when they could actually be imposed.
 
 ## The fixed penalties were tightly constrained
 
 The *hudud* form a short, closed list: theft, brigandage, fornication, false accusation of fornication, and intoxication. Their penalties are fixed in the sources rather than left to a judge’s discretion.
 
-That fixed character limits the ruler as well as the offender. It defines both the offence and the maximum punishment instead of giving authorities an open-ended licence to punish. Matters outside this list fall under *taʿzir*, where judges have discretion, and in practice most criminal cases were handled there.
+Fixing both the offence and the penalty limits rulers as well as offenders by restricting arbitrary punishment. Matters outside this list fall under *taʿzir*, where judges have discretion, and in practice most criminal cases were handled there.
 
-A fixed penalty applies only when its legal requirements are satisfied.
+A fixed penalty is not automatic. It is reached only if the legal requirements for imposing it are satisfied.
 
 ## The evidentiary bar
 
 For fornication, the standard of proof is exceptionally high: four eyewitnesses must have seen the act itself and agree about what they saw. Circumstantial evidence is not enough.
 
-An accuser who fails to produce the required witnesses is himself flogged eighty lashes, and his testimony is permanently rejected thereafter.[1](#ref-1){: .footnote} Unsupported accusation is therefore dangerous for the accuser; the rule is meant to protect women from having their reputations destroyed by allegation.
+An accuser who fails to produce the required witnesses is himself flogged eighty lashes, and his testimony is permanently rejected thereafter.[1](#ref-1){: .footnote} The rule makes unsupported accusation dangerous for the accuser and is meant to protect women from having their reputations destroyed by allegation.
 
 Confession was also actively discouraged. When Maʿiz ibn Malik came to confess fornication, the Prophet ﷺ repeatedly turned him away and had his people asked whether anything was wrong with his mind.[2](#ref-2){: .footnote} When Maʿiz persisted, he was offered lesser explanations:
 
@@ -58,7 +64,7 @@ The procedure sought a credible alternative that would avoid the fixed penalty r
 
 Jurists expressed this approach in the maxim *idraʾu al-hudud bi'l-shubuhat* — “avert the fixed penalties by doubts.” It operated across the schools and helped make the *hudud* rare in practice.
 
-The hadith commonly cited for the maxim is weak. The wording attributed to the Prophet ﷺ is graded *da'if* in *Jami' at-Tirmidhi* 1424 and *da'if*, indeed “very *da'if*,” in *Sunan Ibn Majah* 2545.[4](#ref-4){: .footnote} The maxim’s legal authority does not rest on a sound Prophetic chain, but on its acceptance by jurists, supported by the practice described above and by reports from the Companions.
+The hadith commonly cited for this maxim is weak. The wording attributed to the Prophet ﷺ is graded *da'if* in *Jami' at-Tirmidhi* 1424 and *da'if*, indeed “very *da'if*,” in *Sunan Ibn Majah* 2545.[4](#ref-4){: .footnote} The maxim’s legal authority therefore does not rest on a sound Prophetic chain. It comes from its acceptance by jurists, supported by the practice described above and by reports from the Companions.
 
 ## The punishment was not automatic
 
@@ -82,7 +88,7 @@ For theft, in the verse immediately after the amputation verse:
 
 ### Social conditions
 
-Classical jurists did not treat the *hudud* as applicable without regard to the society in which an offence occurred.
+Classical jurists did not regard the *hudud* as applicable without regard to social conditions.
 
 As caliph, Umar ibn al-Khattab suspended the theft penalty during the famine year known as the *ʿam al-ramada*. His reasoning was that someone who steals food to survive is not the kind of thief contemplated by the penalty. The report appears in juristic and historical literature rather than the canonical hadith collections, and jurists cite it as a precedent for suspending a *hadd* when its social preconditions are absent.[5](#ref-5){: .footnote}
 
@@ -90,17 +96,17 @@ A punishment for theft therefore presupposes a society that has already met its 
 
 ## Modern enforcement
 
-Some states apply these penalties without the preconditions that made them difficult to impose in classical law. A state that retains the punishment while discarding the evidentiary standards, the doubt maxim, the repentance provisions, and the social obligations that constrained it is not applying the legal structure described above. It preserves the severity while abandoning the restraints.
+Some states apply these penalties without the preconditions that made them difficult to impose in classical law. If a state retains the punishment while discarding the evidentiary standards, the doubt maxim, the repentance provisions, and the social obligations that constrained it, it is not applying the legal structure described above. It preserves the severity while abandoning the restraints.
 
-*Zina* accusations have also been used against women who report rape. That reverses the purpose of the four-witness rule, which makes accusation costly in order to protect the accused.
+Likewise, *zina* accusations have been used against women who report rape. That reverses the purpose of the four-witness rule, which makes accusation costly in order to protect the accused.
 
-These practices can be condemned from within the Islamic sources, not only from outside them.
+These practices can be criticized from within the Islamic sources, not only from outside them.
 
 ## Conclusion
 
-The *hudud* penalties are severe and genuinely present in the sources, but classical Islamic law did not treat them as automatic responses to an offence. Their application depended on demanding standards of proof, procedures that favoured avoiding the fixed penalty where doubt remained, provisions for repentance, and social preconditions that the society itself was expected to fulfil.
+The *hudud* penalties are severe and genuinely present in the sources. Classical Islamic law did not treat them as automatic responses to an offence. Their application depended on demanding standards of proof, procedures that favoured avoiding the fixed penalty where doubt remained, provisions for repentance, and social preconditions that the society itself was expected to fulfil.
 
-Listing only the maximum punishments while omitting the rules that determine whether they may be imposed gives a distorted picture of Islamic criminal law.
+The penalties therefore cannot be understood apart from the procedures governing them. An account that lists only the maximum punishments while omitting the rules that determine whether they may be imposed gives a distorted picture of Islamic criminal law.
 
 ---
 
