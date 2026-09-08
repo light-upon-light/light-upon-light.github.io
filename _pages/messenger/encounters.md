@@ -16,12 +16,18 @@ toc: true
 toc_label: "On this page"
 toc_icon: "bars"
 toc_sticky: true
+glossary:
+  - hadith
+  - companions
+
 share: true
 ---
 
 [← Read the main argument](/quran#the-messenger-of-god-ﷺ) · [Browse all evidence](/messenger)
 
 The record includes household observations, encounters with opponents, and accounts of changed convictions. These are distinguished below from later historical and theological appraisals, which illuminate reception without independently proving prophethood.
+
+{% include glossary-key.html %}
 
 ## What the witness record can establish
 {: #what-the-witness-record-can-establish }

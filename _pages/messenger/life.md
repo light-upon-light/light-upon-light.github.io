@@ -16,12 +16,18 @@ toc: true
 toc_label: "On this page"
 toc_icon: "bars"
 toc_sticky: true
+glossary:
+  - hadith
+  - companions
+
 share: true
 ---
 
 [← Read the main argument](/quran#the-messenger-of-god-ﷺ) · [Browse all evidence](/messenger)
 
 The chronology places the evidence in changing circumstances: ordinary adult life, persecution, migration, community leadership, victory, and death. These episodes show where the mission’s teachings and claims were tested, while distinguishing hadith from early biography.
+
+{% include glossary-key.html %}
 
 ## A life tested by powerlessness and power
 {: #a-life-tested-by-powerlessness-and-power }

@@ -1083,3 +1083,226 @@
       document.addEventListener("gumshoeActivate", scrollTocToContent);
     }
   })();
+
+/* --------------------------------------------------------------------------
+   Glossary term hovers
+
+   Reads the page-scoped JSON that _includes/glossary-key.html emits
+   (#glossary-data), wraps every later occurrence of a known term in the
+   article prose with <span class="gloss-term">, and drives one shared
+   tooltip (#gloss-tip) on hover, keyboard focus, and tap.
+
+   Independent of the scrollspy above -- it listens for nothing and
+   dispatches nothing -- so its position at the end of the file does not
+   matter the way ordering above the gumshoeActivate listeners does.
+
+   Progressive enhancement: with no JS, none of this runs and the reader
+   still gets the full definitions from the <dl> the include rendered.
+   -------------------------------------------------------------------------- */
+
+  (function () {
+    var dataEl = document.getElementById("glossary-data");
+    var root = document.querySelector(".page__content");
+    if (!dataEl || !root || !document.createTreeWalker) return;
+
+    var terms;
+    try {
+      terms = JSON.parse(dataEl.textContent || "[]");
+    } catch (e) {
+      return;
+    }
+    if (!terms || !terms.length) return;
+
+    // lowercased surface form -> term record, plus a combined finder regex.
+    var byForm = {};
+    var forms = [];
+    var i, j;
+    for (i = 0; i < terms.length; i++) {
+      var t = terms[i];
+      var ms = t.match || [];
+      for (j = 0; j < ms.length; j++) {
+        var form = String(ms[j]).normalize ? String(ms[j]).normalize("NFC") : String(ms[j]);
+        byForm[form.toLowerCase()] = t;
+        forms.push(form);
+      }
+    }
+    if (!forms.length) return;
+
+    // longest first so "ahl al-dhimma" wins over "dhimma"
+    forms.sort(function (a, b) { return b.length - a.length; });
+
+    function escapeRe(s) { return s.replace(/[.*+?^${}()|[\]\\]/g, "\\$&"); }
+
+    var finder, wordChar;
+    try {
+      finder = new RegExp("(?:" + forms.map(escapeRe).join("|") + ")", "giu");
+      wordChar = /[\p{L}\p{M}]/u;
+    } catch (e) {
+      return; // no Unicode-property regex support: skip the enhancement
+    }
+
+    var SKIP = "a,h1,h2,h3,h4,h5,h6,pre,code,sup,button,.quran-arabic,.ayah-ref,.glossary-key,.gloss-term,.no-gloss";
+    var PER_TERM_CAP = 40;
+    var counts = {};
+
+    function skip(node) {
+      var el = node.parentNode;
+      while (el && el !== root) {
+        if (el.nodeType === 1 && el.matches && el.matches(SKIP)) return true;
+        el = el.parentNode;
+      }
+      return false;
+    }
+
+    // collect first so the walk is not mutated mid-iteration
+    var targets = [];
+    var walker = document.createTreeWalker(root, NodeFilter.SHOW_TEXT, null, false);
+    var n;
+    while ((n = walker.nextNode())) {
+      if (n.nodeValue && /\S/.test(n.nodeValue) && !skip(n)) targets.push(n);
+    }
+
+    for (i = 0; i < targets.length; i++) wrap(targets[i]);
+
+    function wrap(textNode) {
+      var text = textNode.nodeValue;
+      var hay = text.normalize ? text.normalize("NFC") : text;
+      finder.lastIndex = 0;
+      var m, hits = null;
+      while ((m = finder.exec(hay))) {
+        var s = m.index, e = s + m[0].length;
+        var before = s > 0 ? hay.charAt(s - 1) : "";
+        var after = e < hay.length ? hay.charAt(e) : "";
+        if (before && wordChar.test(before)) continue;
+        if (after && wordChar.test(after)) continue;
+        var rec = byForm[m[0].toLowerCase()];
+        if (!rec) continue;
+        if ((counts[rec.id] || 0) >= PER_TERM_CAP) continue;
+        counts[rec.id] = (counts[rec.id] || 0) + 1;
+        (hits || (hits = [])).push([s, e, rec]);
+      }
+      if (!hits) return;
+
+      var frag = document.createDocumentFragment();
+      var pos = 0;
+      for (var k = 0; k < hits.length; k++) {
+        var h = hits[k];
+        if (h[0] > pos) frag.appendChild(document.createTextNode(text.slice(pos, h[0])));
+        var span = document.createElement("span");
+        span.className = "gloss-term";
+        span.setAttribute("tabindex", "0");
+        span.setAttribute("role", "button");
+        span.setAttribute("aria-label", h[2].label + ": definition");
+        span.setAttribute("data-term", h[2].id);
+        span.textContent = text.slice(h[0], h[1]);
+        frag.appendChild(span);
+        pos = h[1];
+      }
+      if (pos < text.length) frag.appendChild(document.createTextNode(text.slice(pos)));
+      textNode.parentNode.replaceChild(frag, textNode);
+    }
+
+    if (!document.querySelector(".gloss-term")) return;
+
+    /* ---- shared tooltip ---- */
+    var defs = {};
+    for (i = 0; i < terms.length; i++) defs[terms[i].id] = terms[i];
+
+    var tip = document.createElement("div");
+    tip.id = "gloss-tip";
+    tip.setAttribute("role", "tooltip");
+    tip.hidden = true;
+    document.body.appendChild(tip);
+
+    var current = null;   // the .gloss-term the tip is describing
+    var pinned = false;    // set by tap/click; survives mouseout
+    var reflowQueued = false;
+
+    function place() {
+      if (!current) return;
+      var r = current.getBoundingClientRect();
+      tip.style.top = "0px";
+      tip.style.left = "0px";
+      var tw = tip.offsetWidth, th = tip.offsetHeight;
+      var margin = 8;
+      var left = r.left;
+      if (left + tw > window.innerWidth - margin) left = window.innerWidth - margin - tw;
+      if (left < margin) left = margin;
+      var top = r.bottom + 6;
+      if (top + th > window.innerHeight - margin && r.top - 6 - th > margin) top = r.top - 6 - th;
+      tip.style.left = Math.round(left) + "px";
+      tip.style.top = Math.round(top) + "px";
+    }
+
+    function show(el) {
+      var rec = defs[el.getAttribute("data-term")];
+      if (!rec) return;
+      current = el;
+      tip.innerHTML = rec.short;
+      tip.hidden = false;
+      place();
+    }
+
+    function hide() {
+      if (pinned) return;
+      current = null;
+      tip.hidden = true;
+    }
+
+    function forceHide() {
+      pinned = false;
+      current = null;
+      tip.hidden = true;
+    }
+
+    root.addEventListener("mouseover", function (ev) {
+      var el = ev.target.closest && ev.target.closest(".gloss-term");
+      if (el && !pinned) show(el);
+    });
+    root.addEventListener("mouseout", function (ev) {
+      var el = ev.target.closest && ev.target.closest(".gloss-term");
+      if (el && !pinned) hide();
+    });
+    root.addEventListener("focusin", function (ev) {
+      var el = ev.target.closest && ev.target.closest(".gloss-term");
+      if (el) { pinned = false; show(el); }
+    });
+    root.addEventListener("focusout", function (ev) {
+      var el = ev.target.closest && ev.target.closest(".gloss-term");
+      if (el) forceHide();
+    });
+    root.addEventListener("click", function (ev) {
+      var el = ev.target.closest && ev.target.closest(".gloss-term");
+      if (!el) return;
+      ev.preventDefault();
+      if (pinned && current === el) { forceHide(); return; }
+      pinned = false;
+      show(el);
+      pinned = true;
+    });
+    document.addEventListener("click", function (ev) {
+      if (!pinned) return;
+      if (ev.target.closest && ev.target.closest(".gloss-term")) return;
+      if (ev.target === tip || (tip.contains && tip.contains(ev.target))) return;
+      forceHide();
+    });
+    document.addEventListener("keydown", function (ev) {
+      if (ev.key !== "Escape" && ev.keyCode !== 27) return;
+      if (tip.hidden) return;
+      var active = current;
+      forceHide();
+      if (active && active.focus) active.focus();
+    });
+
+    function onReflow() {
+      if (tip.hidden || reflowQueued) return;
+      reflowQueued = true;
+      window.requestAnimationFrame(function () {
+        reflowQueued = false;
+        if (pinned) place();
+        else hide();
+      });
+    }
+    window.addEventListener("scroll", onReflow, { passive: true });
+    window.addEventListener("resize", onReflow);
+  })();

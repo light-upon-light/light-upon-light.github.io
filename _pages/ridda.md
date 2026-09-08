@@ -22,6 +22,16 @@ toc_icon: "bars"
 toc_sticky: true
 toc_levels: 2..3
 
+glossary:
+  - ridda
+  - hiraba
+  - zanadiqa
+  - zakat
+  - hudud
+  - hadith
+  - sahih
+  - daif
+
 share: true
 ---
 
@@ -31,7 +41,7 @@ The Qur'an prescribes no worldly punishment for a private change of belief, whil
 
 The *hudud* — severe corporal and capital punishments associated with theft, adultery and other offences — are a related but separate issue, addressed at [The Hudud Punishments in Islam](/punishments).
 
-**Terms used below:** *ridda* is conventionally translated as apostasy, but in the material below can also involve separation from or rebellion against the community. *Hiraba* means armed robbery or brigandage. A *hadith* is a transmitted report about what the Prophet ﷺ said or did. *Sahih al-Bukhari* and *Sahih Muslim* are the most rigorously screened hadith collections; reports graded *da'if* are weak and cannot establish a legal ruling by themselves.
+{% include glossary-key.html %}
 
 ## The objection
 

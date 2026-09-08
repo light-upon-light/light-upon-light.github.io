@@ -16,12 +16,18 @@ toc: true
 toc_label: "On this page"
 toc_icon: "bars"
 toc_sticky: true
+glossary:
+  - hadith
+  - companions
+
 share: true
 ---
 
 [← Read the main argument](/quran#the-messenger-of-god-ﷺ) · [Browse all evidence](/messenger)
 
 Muhammad ﷺ’s message places itself in the line of Abraham, Moses, and Jesus. These entries collect Qur’anic claims and proposed biblical correspondences, preserving the distinctions between Muslim interpretation, other readings, and the surviving textual evidence.
+
+{% include glossary-key.html %}
 
 ## How to weigh scriptural correspondences
 {: #how-to-weigh-scriptural-correspondences }

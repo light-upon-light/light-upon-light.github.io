@@ -61,6 +61,18 @@ Numbers are assigned sequentially by physical position of the `[^N]:` /
 list-item source, not preserved from any prior footnote label — so an
 out-of-order label doesn't leak into the rendered numbering.
 
+## Key-terms block
+
+Every article that leans on recurring Arabic terms sets a `glossary:` list in
+its front matter (keys from `_data/glossary.yml`, in display order) and drops
+`{% include glossary-key.html %}` on its own line below the opening one or two
+paragraphs, before the first `##`. It replaces the old hand-written
+`**Terms used below:**` / `*Terms:*` paragraphs. Definitions are edited only in
+`_data/glossary.yml` — never inline — since the same string feeds both the
+visible list and the hover gloss `site.js` wraps around later occurrences (see
+`styling.md`). The include's raw `<dl>`/`<script>` live in a `.html` file, so
+MD033 does not apply; the `.md` only ever holds the Liquid tag.
+
 ## markdownlint
 
 `.markdownlint.json` is configured around the Arabic-quotation pattern, not

@@ -22,6 +22,16 @@ toc_icon: "bars"
 toc_sticky: true
 toc_levels: 2..3
 
+glossary:
+  - polygyny
+  - polygamy
+  - polyandry
+  - mahr
+  - hadith
+  - sahih
+  - daif
+  - companions
+
 share: true
 ---
 
@@ -29,7 +39,7 @@ Islam permits a man to have up to four wives at one time, while a woman may have
 
 Qur'an 4:3 places that permission in a passage about protecting orphans, limits an existing practice, makes justice a condition, and tells a man to marry one if he fears he cannot meet it.
 
-**Terms.** *Polygyny* means one man having several wives; *polygamy* is the broader term for plural marriage; *polyandry* means one woman having several husbands. A *hadith* is a report about what the Prophet ﷺ said or did; *Sahih al-Bukhari* and *Sahih Muslim* are the two most rigorously screened hadith collections. *Mahr* means the marriage gift a husband pays directly to his wife.
+{% include glossary-key.html %}
 
 ## The objection
 

@@ -21,10 +21,19 @@ toc_label: "On this page"
 toc_icon: "bars"
 toc_sticky: true
 
+glossary:
+  - hadith
+  - jizya
+  - hudud
+  - ridda
+  - companions
+
 share: true
 ---
 
 > This page presents evidence for the **miraculous nature** of the **Qur'an** and the **prophethood** of **Prophet Muhammad** ﷺ. Not every point is a miracle or proof on its own. Taken together, however, the points form a cumulative case for the Qur'an's divine origin and the authenticity of the Prophet's mission. — *Note: this page is a work in progress.*
+
+{% include glossary-key.html %}
 
 ## The Book
 
