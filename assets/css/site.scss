@@ -203,6 +203,40 @@
     font-family: "Source Serif 4", Georgia, "Times New Roman", serif;
   }
 
+  /* Dark-mode type rendering. On a near-black ground the reading serif reads
+     heavier and blunter than the same weight does dark-on-light: light
+     glyphs optically bloom (halation), and on macOS/WebKit the default
+     subpixel antialiasing fattens the stems on top of that. Two fixes,
+     dark only:
+
+       - -webkit-font-smoothing: antialiased / -moz-osx-font-smoothing:
+         grayscale switch macOS off subpixel AA, thinning the render. No
+         effect on Windows/Linux (they ignore it) and none on print (scoped
+         to the dark selectors).
+       - font-weight: 385 asks the Source Serif 4 roman variable file (loaded
+         as a 400-700 wght range, see _includes/head/custom.html) for a
+         slightly lighter cut -- counters the bloom on every platform, not
+         just macOS. Must be `font-weight`, NOT font-variation-settings:
+         the latter would pin the axis and break the theme's `strong { font-
+         weight: 700 }`. Headings inherit the theme's `bold` and stay heavy.
+
+     Same three-block shape as the palette itself (_dirt.scss) and the
+     ::selection rule above: explicit choice, then the no-JS/no-choice
+     system fallback. */
+  :root[data-theme="dark"] body {
+    font-weight: 385;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) body {
+      font-weight: 385;
+      -webkit-font-smoothing: antialiased;
+      -moz-osx-font-smoothing: grayscale;
+    }
+  }
+
   /* Masthead brand mark only -- a heavier, more dramatic display face than
      the reading type above, reserved for the one-word site title. .site-title
      has no font-family rule of its own in the theme (it inherits the sans
