@@ -917,22 +917,6 @@
     line-height: 1.4;
   }
 
-  /* The middle ground between the theme's divider-under-every-entry (which
-     read as a spreadsheet) and none at all (which read as an undifferen-
-     tiated column). Rules go between TOP-LEVEL sections only, so an h2 and
-     its h3 children stay one visual group, and they are drawn as
-     border-block-START on `li + li` -- never on the first item. That is the
-     part that matters: a border-bottom on every li, or a border-top on
-     every li, would put a second line immediately under the title's own
-     hairline. `> li` restricts this to .toc__menu's own children, so the
-     nested <ul>s inside them are untouched. --mm-border-color rather than
-     --site-src-border: these are separators inside a list, not the label
-     rule that closes the header, and they should sit a step below it. */
-  .page__content .toc .toc__menu > li + li,
-  #toc-panel .toc__menu > li + li {
-    border-block-start: 1px solid var(--mm-border-color);
-  }
-
   /* Below $large the TOC sits between the TL;DR's hairline and the article's
      opening paragraph, and the theme's flat `margin-bottom: 1em` left it
      closer to the prose it is not part of than to the break it follows.
