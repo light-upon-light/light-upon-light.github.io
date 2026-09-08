@@ -31,8 +31,13 @@ The central point does not depend on accepting a non-physical interpretation. Ev
 
 ## The verse in question
 
+> **“Men are the caretakers of women, as men have been provisioned by Allah over women and tasked with supporting them financially. And righteous women are devoutly obedient and, when alone, protective of what Allah has entrusted them with. And if you sense ill-conduct from your women, advise them ˹first˺, ˹if they persist,˺ do not share their beds, ˹but if they still persist,˺ then *waḍribūhunna*. But if they change their ways, do not be unjust to them. Surely Allah is Most High, All-Great.”** (**Qur'an 4:34**)
+>
 > <div dir="rtl" lang="ar" class="quran-arabic">﴿ٱلرِّجَالُ قَوَّٰمُونَ عَلَى ٱلنِّسَآءِ بِمَا فَضَّلَ ٱللَّهُ بَعْضَهُمْ عَلَىٰ بَعْضٍ وَبِمَآ أَنفَقُوا۟ مِنْ أَمْوَٰلِهِمْ ۚ فَٱلصَّـٰلِحَـٰتُ قَـٰنِتَـٰتٌ حَـٰفِظَـٰتٌ لِّلْغَيْبِ بِمَا حَفِظَ ٱللَّهُ ۚ وَٱلَّـٰتِى تَخَافُونَ نُشُوزَهُنَّ فَعِظُوهُنَّ وَٱهْجُرُوهُنَّ فِى ٱلْمَضَاجِعِ وَٱضْرِبُوهُنَّ ۖ فَإِنْ أَطَعْنَكُمْ فَلَا تَبْغُوا۟ عَلَيْهِنَّ سَبِيلًا ۗ إِنَّ ٱللَّهَ كَانَ عَلِيًّا كَبِيرًا ۝٣٤﴾ <span class="ayah-ref">سُورَةُ النِّسَاءِ</span></div>
 {: .quote }
+
+> The disputed word *waḍribūhunna* is left untranslated here on purpose. Its meaning is the very question this page examines, and any English rendering already commits to one interpretation of it.
+{: .gloss }
 
 ## 1. What does *waḍribūhunna* mean?
 
