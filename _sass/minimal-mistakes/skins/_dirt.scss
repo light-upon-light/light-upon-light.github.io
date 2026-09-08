@@ -77,9 +77,9 @@ $base0f: #b49368 !default;
   --mm-primary-color: #343434;
   --mm-border-color: #e9dcbe;
   --mm-footer-background-color: #e9dcbe;
-  --mm-link-color: #343434;
-  --mm-link-color-hover: #272727;
-  --mm-link-color-visited: #525252;
+  --mm-link-color: #8a5320; // burnt sienna, a darker sibling of --site-quote-gold: a warm tint against #343434 body text, 5.7:1 on the page ground
+  --mm-link-color-hover: #6e3f14; // 7.9:1
+  --mm-link-color-visited: #6b5a48; // recedes to muted umber, 6.0:1
   --mm-masthead-link-color: #343434;
   --mm-masthead-link-color-hover: #343434;
   --mm-navicon-link-color-hover: #d6d6d6;
@@ -199,9 +199,9 @@ $base0f: #b49368 !default;
   --mm-primary-color: #6f5f48;
   --mm-border-color: #4a4238;
   --mm-footer-background-color: #2a251e;
-  --mm-link-color: #e6ded2;
-  --mm-link-color-hover: #ece6dd;
-  --mm-link-color-visited: #c4bdb3;
+  --mm-link-color: #d9b483; // wheat-gold tint against #e6ded2 body text, 8.9:1 on the dark ground (kin to --mm-focus-color #d4a04a)
+  --mm-link-color-hover: #e8cea3; // 11.4:1
+  --mm-link-color-visited: #b7a58c; // recedes to muted tan, 7.3:1
   --mm-masthead-link-color: #e6ded2;
   --mm-masthead-link-color-hover: #ece6dd;
   --mm-navicon-link-color-hover: #494845;
