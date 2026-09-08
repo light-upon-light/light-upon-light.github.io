@@ -1244,6 +1244,54 @@
     margin-bottom: 0.7em;
   }
 
+  /* Collapsed-by-default variant: the card authored as <details class="tldr">
+     with its label inside the <summary>, currently only on quran.md, whose
+     summary runs to two full paragraphs and pushed the article's own opening
+     below the fold. Every other page keeps the plain <div>. No JS: the
+     element gives closed-by-default state and keyboard toggling for free,
+     the same reason .yt-embed and .quran-more use it. `markdown="1"` on the
+     tag is required, as it is there -- without it kramdown treats the whole
+     block as opaque raw HTML and never parses the prose inside.
+
+     The base .tldr rules above apply unchanged (a <details> takes them the
+     same as a <div>); what follows is only the disclosure mechanics. */
+  .page__content details.tldr > summary {
+    cursor: pointer;
+    list-style: none;
+  }
+
+  .page__content details.tldr > summary::-webkit-details-marker {
+    display: none;
+  }
+
+  /* The chevron rides the label, not the summary: .tldr__label is
+     `display: block`, so a marker on the summary itself would be stranded
+     alone on the line above it. Same glyph and rotation as .yt-embed. */
+  .page__content details.tldr > summary .tldr__label::before {
+    content: "\25b8";
+    display: inline-block;
+    width: 1em;
+    transition: transform 0.2s ease;
+  }
+
+  .page__content details.tldr[open] > summary .tldr__label::before {
+    transform: rotate(90deg);
+  }
+
+  /* Closed, the label is the card's last visible line and its own bottom
+     margin reads as an empty band under it; open, the same margin is the
+     gap before the prose, so it can only be zeroed in the closed state.
+     And `.tldr > :first-child { margin-top: 0 }` above now lands on the
+     summary rather than the first paragraph, so that paragraph's own top
+     margin would stack on the label's -- hence the zero here too. */
+  .page__content details.tldr:not([open]) > summary .tldr__label {
+    margin-bottom: 0;
+  }
+
+  .page__content details.tldr[open] > summary + * {
+    margin-top: 0;
+  }
+
   /* Neither stylesheet sets list-style on .page__content ul, so the marker
      is the UA disc at full text colour -- too heavy inside a quiet card.
      A pseudo-element bullet at 45% recedes with whatever colour the text
