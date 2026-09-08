@@ -40,10 +40,11 @@ share: true
 <div class="tldr" markdown="1">
 <span class="tldr__label">TL;DR</span>
 
-- Placeholder: replace these bullets with the page’s summary.
-- Placeholder: one point per bullet.
-- Placeholder: one point per bullet.
-- Placeholder: one point per bullet.
+The page argues that the Qur’an and Prophet Muhammad ﷺ together form a cumulative case for Islam’s truth. It highlights the Qur’an’s oral revelation over 23 years, literary qualities, coherence, teachings, preservation, predictions, and historical impact.
+
+It then argues that Muhammad ﷺ is difficult to explain as a fraud, deluded person, evil influence, or later legend, given his sacrifices, character, leadership, message, and early historical attestation.
+
+**In short:** taken together, the Qur’an’s qualities and Muhammad’s life are presented as best explained by the claim that the Qur’an came from God and that Muhammad ﷺ was a genuine prophet.
 </div>
 
 > This page presents evidence for the **miraculous nature** of the **Qur'an** and the **prophethood** of **Prophet Muhammad** ﷺ. Not every point is a miracle or proof on its own. Taken together, however, the points form a cumulative case for the Qur'an's divine origin and the authenticity of the Prophet's mission. — *Note: this page is a work in progress.*
