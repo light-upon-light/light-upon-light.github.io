@@ -154,14 +154,15 @@
     var toc = document.querySelector(".sidebar__right .toc");
     if (!toc || !toc.querySelector(".toc__menu")) return;
 
-    /* Two templates, switched per page. `toc_mobile: expanded` in front
-       matter opts a page out of collapsing (quran.md, whose TOC is the
-       page's own structure rather than an aside to it); everything else
-       defaults to collapsed. The attribute is written pre-paint by
-       _includes/head/custom.html, alongside the theme and font-size
-       bootstraps, so the CSS rule can key off it too. */
+    /* `toc_mobile: expanded` in front matter (quran.md, whose TOC is the
+       page's own structure rather than an aside to it) opts a page out of
+       starting CLOSED below $large -- and out of nothing else. Every page
+       gets the same disclosure, in the same place, with the same summary;
+       the only difference is the initial open state, so the two pages do
+       not look like two different widgets. The attribute is written
+       pre-paint by _includes/head/custom.html, alongside the theme and
+       font-size bootstraps, so the CSS rule can key off it too. */
     var collapses = root.getAttribute("data-toc-mobile") !== "expanded";
-    if (!collapses) return;
 
     var isSidebarLayout = window.matchMedia("(min-width: 64em)");
 
@@ -226,7 +227,7 @@
        shut in a layout whose sidebar has room for it. A reader's own toggle
        below $large stands until the breakpoint is actually crossed. */
     function sync() {
-      details.open = isSidebarLayout.matches;
+      details.open = isSidebarLayout.matches || !collapses;
       place();
     }
     sync();

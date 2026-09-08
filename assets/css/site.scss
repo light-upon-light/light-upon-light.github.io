@@ -843,17 +843,14 @@
      The theme ships .toc as a card: a bordered, shadowed, rounded box, a
      solid --mm-primary-color bar for the "On This Page" title, and a
      1px divider under *every* entry. Three problems on this site. The
-     filled bar was the loudest thing above the article. The dividers made
-     an eight-item list read as a spreadsheet. And inside the mobile
-     disclosure the box's own top border landed a pixel below the summary's
-     underline, so the widget opened with two parallel lines.
+     filled bar was the loudest thing above the article, and inside the
+     mobile disclosure the box's own top border landed a pixel below the
+     summary's underline, so the widget opened with two parallel lines.
 
      So: no box at all, at either width. The title becomes the same muted
-     uppercase Karla eyebrow the disclosure summary already uses, with one
-     hairline under it -- the only rule in the widget. Entries are plain
-     rows; the theme's .active highlight still marks position, and with the
-     dividers gone it is the only horizontal band in the list, which is
-     what makes it readable at a glance.
+     uppercase Karla eyebrow the disclosure summary already uses, with a
+     hairline under it. The theme's per-entry dividers stay -- see the
+     .toc__menu a rule below.
 
      #toc-panel is footer/custom.html's drawer clone of the same widget and
      is named alongside for the same reason as the font rules above: it is
@@ -909,9 +906,12 @@
     font-size: 0.8125em;
   }
 
+  /* The theme's own `border-bottom` under each entry is kept. It was
+     removed for a while and the list read as an undifferentiated column;
+     it is also not the line that ever collided with the title's hairline
+     -- that was `.toc`'s box border-top, gone with the box above. */
   .page__content .toc .toc__menu a,
   #toc-panel .toc__menu a {
-    border-bottom: 0;
     font-weight: normal;
     padding-block: 0.35rem;
     line-height: 1.4;
