@@ -4,6 +4,10 @@ description: "The sources describe extraordinary events in public and private se
 date: 2025-08-16
 last_modified_at: 2026-09-07
 permalink: /messenger/miracles
+
+header:
+  og_image: /assets/images/og/messenger-miracles.png
+
 layout: single
 short_title: "Reported miracles"
 quran_section: the-messenger-of-god-ﷺ

@@ -4,6 +4,10 @@ description: "The call to learn includes reflection on creation, respect for exp
 date: 2025-08-16
 last_modified_at: 2026-09-07
 permalink: /messenger/knowledge
+
+header:
+  og_image: /assets/images/og/messenger-knowledge.png
+
 layout: single
 short_title: "Knowledge and reason"
 quran_section: the-messenger-of-god-ﷺ

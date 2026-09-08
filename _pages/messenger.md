@@ -6,6 +6,9 @@ last_modified_at: 2026-09-07
 
 permalink: /messenger
 
+header:
+  og_image: /assets/images/og/messenger.png
+
 layout: single
 
 short_title: "The evidence in full"

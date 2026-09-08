@@ -5,6 +5,9 @@ date: 2026-08-03
 
 permalink: /polygyny
 
+header:
+  og_image: /assets/images/og/polygyny.png
+
 layout: single
 
 short_title: "Four Wives"

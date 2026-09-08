@@ -5,6 +5,9 @@ date: 2026-08-03
 
 permalink: /punishments
 
+header:
+  og_image: /assets/images/og/punishments.png
+
 layout: single
 
 short_title: "The Hudud Punishments"

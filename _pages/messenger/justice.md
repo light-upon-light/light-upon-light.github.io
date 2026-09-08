@@ -4,6 +4,10 @@ description: "Justice is tested by conflict, unequal power, and disagreement. Th
 date: 2025-08-16
 last_modified_at: 2026-09-07
 permalink: /messenger/justice
+
+header:
+  og_image: /assets/images/og/messenger-justice.png
+
 layout: single
 short_title: "Justice and conflict"
 quran_section: the-messenger-of-god-ﷺ

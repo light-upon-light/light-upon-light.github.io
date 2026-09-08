@@ -4,6 +4,10 @@ description: "Care extends to the body, other living creatures, and resources on
 date: 2025-08-16
 last_modified_at: 2026-09-07
 permalink: /messenger/health-and-creation
+
+header:
+  og_image: /assets/images/og/messenger-health-and-creation.png
+
 layout: single
 short_title: "Health and creation"
 quran_section: the-messenger-of-god-ﷺ

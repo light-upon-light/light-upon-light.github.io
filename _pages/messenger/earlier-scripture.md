@@ -4,6 +4,10 @@ description: "Muhammad ﷺ’s message places itself in the line of Abraham, Mos
 date: 2025-08-16
 last_modified_at: 2026-09-07
 permalink: /messenger/earlier-scripture
+
+header:
+  og_image: /assets/images/og/messenger-earlier-scripture.png
+
 layout: single
 short_title: "Earlier scripture"
 quran_section: the-messenger-of-god-ﷺ

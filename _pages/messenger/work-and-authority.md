@@ -4,6 +4,10 @@ description: "Work, exchange, leadership, and public office carry duties toward 
 date: 2025-08-16
 last_modified_at: 2026-09-07
 permalink: /messenger/work-and-authority
+
+header:
+  og_image: /assets/images/og/messenger-work-and-authority.png
+
 layout: single
 short_title: "Work and authority"
 quran_section: the-messenger-of-god-ﷺ

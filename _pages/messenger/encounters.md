@@ -4,6 +4,10 @@ description: "The record includes household observations, encounters with oppone
 date: 2025-08-16
 last_modified_at: 2026-09-07
 permalink: /messenger/encounters
+
+header:
+  og_image: /assets/images/og/messenger-encounters.png
+
 layout: single
 short_title: "Encounters and appraisals"
 quran_section: the-messenger-of-god-ﷺ

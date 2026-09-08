@@ -5,6 +5,9 @@ date: 2026-08-03
 
 permalink: /sword
 
+header:
+  og_image: /assets/images/og/sword.png
+
 layout: single
 
 short_title: "Did Islam Spread by the Sword?"

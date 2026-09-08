@@ -4,6 +4,10 @@ description: "A teacher’s public message can be compared with conduct observed
 date: 2025-08-16
 last_modified_at: 2026-09-07
 permalink: /messenger/character
+
+header:
+  og_image: /assets/images/og/messenger-character.png
+
 layout: single
 short_title: "Companions and family"
 quran_section: the-messenger-of-god-ﷺ

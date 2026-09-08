@@ -5,6 +5,9 @@ date: 2025-08-17
 
 permalink: /aisha
 
+header:
+  og_image: /assets/images/og/aisha.png
+
 layout: single
 
 short_title: "The Prophet's ﷺ Marriage to Aisha"

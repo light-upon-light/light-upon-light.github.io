@@ -1,0 +1,131 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<style>
+  @font-face {
+    font-family: "Abril Fatface";
+    src: url("FONTS/abril-fatface/AbrilFatface-latin.woff2") format("woff2");
+    font-weight: 400;
+  }
+  @font-face {
+    font-family: "Source Serif 4";
+    src: url("FONTS/source-serif-4/SourceSerif4-latin.woff2") format("woff2");
+    font-weight: 400 700;
+  }
+  @font-face {
+    font-family: "Source Serif 4";
+    src: url("FONTS/source-serif-4/SourceSerif4-latin-ext.woff2") format("woff2");
+    font-weight: 400 700;
+    unicode-range: U+0100-02BA, U+1E00-1E9F, U+2000-206F;
+  }
+  @font-face {
+    font-family: "Amiri";
+    src: url("FONTS/amiri/Amiri-arabic.woff2") format("woff2");
+    font-weight: 400;
+    unicode-range: U+0600-06FF, U+0750-077F, U+08A0-08FF, U+FB50-FDFF, U+FE70-FEFF;
+  }
+  @font-face {
+    font-family: "Karla";
+    src: url("FONTS/karla/Karla-latin.woff2") format("woff2");
+    font-weight: 400 700;
+  }
+
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  html, body { width: 1200px; height: 630px; }
+
+  body {
+    background: #e9dcbe;
+    color: #343434;
+    font-family: "Source Serif 4", "Amiri", Georgia, serif;
+    padding: 70px 84px;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    overflow: hidden;
+  }
+
+  /* faint vertical band on the right, echoing the site's warmth without imagery */
+  body::after {
+    content: "";
+    position: absolute;
+    top: 0; right: 0; bottom: 0;
+    width: 14px;
+    background: #343434;
+    opacity: 0.9;
+  }
+
+  .wordmark {
+    font-family: "Abril Fatface", "Source Serif 4", Georgia, serif;
+    font-size: 40px;
+    line-height: 1;
+    letter-spacing: 0.005em;
+  }
+
+  .rule {
+    margin-top: 26px;
+    border-top: 1px solid rgba(52, 52, 52, 0.32);
+  }
+
+  .body-block {
+    margin-top: auto;
+    margin-bottom: auto;
+  }
+
+  .kicker {
+    font-family: "Karla", "Source Serif 4", sans-serif;
+    font-weight: 700;
+    font-size: 21px;
+    letter-spacing: 0.16em;
+    text-transform: uppercase;
+    color: #7a6f57;
+    margin-bottom: 22px;
+  }
+
+  .title {
+    font-family: "Source Serif 4", "Amiri", Georgia, serif;
+    font-weight: 700;
+    font-size: 72px;
+    line-height: 1.12;
+    letter-spacing: -0.01em;
+    max-width: 20ch;
+  }
+
+  .title.long { font-size: 58px; }
+  .title.xlong { font-size: 48px; }
+
+  .footer {
+    font-family: "Karla", "Source Serif 4", sans-serif;
+    font-weight: 400;
+    font-size: 20px;
+    letter-spacing: 0.06em;
+    color: #7a6f57;
+  }
+</style>
+</head>
+<body>
+  <div class="wordmark">Light upon Light</div>
+  <div class="rule"></div>
+  <div class="body-block">
+    <div class="kicker" id="kicker"></div>
+    <div class="title" id="title"></div>
+  </div>
+  <div class="footer">lightuponlight.info</div>
+
+<script>
+  const params = new URLSearchParams(location.search);
+  const kicker = params.get("kicker") || "";
+  const title = params.get("title") || "";
+  document.getElementById("title").textContent = title;
+  const k = document.getElementById("kicker");
+  if (kicker) { k.textContent = kicker; } else { k.style.display = "none"; }
+
+  // scale title down by length so it always fits
+  const t = document.getElementById("title");
+  const len = title.length;
+  if (len > 78) { t.classList.add("xlong"); }
+  else if (len > 44) { t.classList.add("long"); }
+</script>
+</body>
+</html>

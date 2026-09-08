@@ -4,6 +4,10 @@ description: "The call to worship one God reaches into hope, repentance, hardshi
 date: 2025-08-16
 last_modified_at: 2026-09-07
 permalink: /messenger/worship
+
+header:
+  og_image: /assets/images/og/messenger-worship.png
+
 layout: single
 short_title: "Worship and inner life"
 quran_section: the-messenger-of-god-ﷺ

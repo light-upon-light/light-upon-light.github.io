@@ -5,6 +5,9 @@ date: 2026-08-03
 
 permalink: /jizya
 
+header:
+  og_image: /assets/images/og/jizya.png
+
 layout: single
 
 short_title: "The Jizya"

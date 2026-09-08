@@ -4,6 +4,10 @@ description: "The Qur’an’s relationship with its messenger is itself part of
 date: 2025-08-16
 last_modified_at: 2026-09-07
 permalink: /messenger/quran
+
+header:
+  og_image: /assets/images/og/messenger-quran.png
+
 layout: single
 short_title: "The Qur’an he delivered"
 quran_section: the-messenger-of-god-ﷺ

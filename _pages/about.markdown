@@ -1,6 +1,9 @@
 ---
 title: About
 permalink: /about/
+
+header:
+  og_image: /assets/images/og/about.png
 ---
 
 {{ site.blurb }}
