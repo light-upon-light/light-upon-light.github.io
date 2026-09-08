@@ -1,6 +1,6 @@
 ---
 title: "Did Islam Spread by the Sword?"
-description: "A response to the claim that Islam was spread by force, separating the fact of the Arab conquests from the question of how people actually came to believe."
+description: "A response to the claim that Islam was spread by force, separating military conquest from the question of how people actually became Muslim."
 date: 2026-08-03
 
 permalink: /sword
@@ -24,333 +24,134 @@ toc_levels: 2..3
 share: true
 ---
 
-Within roughly a century of the Prophet's ﷺ death in 632, armies fighting under
-the banner of Islam had conquered Syria, Egypt, Iraq, Persia, North Africa and
-Spain. These were military conquests, and any serious defence of Islam must
-begin by acknowledging them.
+Within roughly a century of the Prophet's ﷺ death in 632, armies fighting under the banner of Islam had conquered Syria, Egypt, Iraq, Persia, North Africa and Spain. These were military conquests, and any serious defence of Islam should acknowledge that plainly.
 
-The further claim is that this is *how the religion spread*: that conquered
-people became Muslim because armies forced them to, and that Islam was therefore
-established by the sword. This concerns conversion, not simply conquest, and the
-two can be examined separately. Chronicles record when territory changed hands.
-Tax registers, biographical dictionaries and census records provide evidence for
-when populations changed religion. Historians have studied those records
-quantitatively.
+The further claim is that conquest was also *how Islam spread as a religion*: that conquered populations became Muslim because armies forced them to. But conquest and conversion are separate historical questions. Chronicles show when territory changed hands; tax records, biographical dictionaries and census data help show when populations changed religion.
 
-**A note on terms.** A *hadith* is a report about something the Prophet ﷺ said or
-did. Each report is transmitted through a named chain of narrators and assessed
-for reliability. *Sahih al-Bukhari* and *Sahih Muslim* are the most rigorously
-screened collections. *Jizya* is the tax paid by non-Muslims under Muslim rule
-and is discussed separately in [The Jizya](/jizya). The *Companions* are the
-generation who knew the Prophet ﷺ personally.
+## Conquest is not conversion
 
-## The objection
+The objection is straightforward: Islam expanded rapidly through military conquest; the Qur'an contains commands to fight in particular conflicts; the Prophet ﷺ led armies; and populations under Muslim rule later became Muslim. Therefore, it is argued, political expansion and religious conversion were the same process.
 
-The argument, stated in its strongest form, is as follows:
+The first points are not in dispute. The question is whether the conclusion follows. The evidence presented here does not show that it does.
 
-1. Islam expanded across much of the known world through military conquest in
-   less than a century.
-2. Its scripture contains direct commands to fight unbelievers, and the Prophet
-   ﷺ personally led armies.
-3. Populations living under Muslim rule later became Muslim.
-4. The expansion of the empire and the spread of the faith were therefore the
-   same process, and Islam owes its growth to violence.
+## What the conquests established
 
-The first two points are true as stated. The problem lies in the move from 3
-to 4, and the historical evidence does not support it.
+The early conquests expanded a state. They brought territory, tribute and political control—the usual aims of seventh-century empire—as a new power advanced against two exhausted rivals.
 
-## What conquest actually produced
+They did not require conquered populations to become Muslim. Non-Muslims could remain in their religion, accept Muslim political authority and pay the *jizya*, a tax imposed on non-Muslim subjects and discussed separately in [The Jizya](/jizya). A state systematically eliminating non-Muslims through forced conversion would undermine a tax paid only by non-Muslims; the papyri instead document its continued collection over centuries.
 
-- The conquests represented the expansion of a state. They brought
-  territory, tribute and political control: the usual aims of seventh-century
-  empire, pursued by a new power against two exhausted rivals.
-- Conquered populations were not required to become Muslim. They had to
-  accept Muslim political authority and pay tax. The existence of the jizya
-  reflects this arrangement: a tax imposed on non-Muslim subjects assumes that
-  substantial non-Muslim populations will continue to live under Muslim rule.
+The Prophet's ﷺ instructions to commanders make the same distinction. One report gives three alternatives, with conversion only the first:
 
-    > A state pursuing forced conversion would undermine a tax paid only by
-    > non-Muslims. The two policies work against each other. What the papyri
-    > document, century after century, is the continued collection of that tax
-    > from non-Muslim subjects.
-    {: .gloss }
+> "Invite them to accept Islam... If they refuse to accept Islam, demand from them the *jizya*. If they agree to pay, accept it from them and hold off your hands."
+> — *Sahih Muslim* 4521[1](#ref-1){: .footnote}
+{: .src }
 
-- The Prophet's ﷺ standing instructions to army commanders make the political
-  nature of submission clear. A commander was to offer three alternatives,
-  of which conversion was only the first:
-
-    > "When you meet your enemies who are polytheists, invite them to three
-    > courses of action… Invite them to accept Islam; if they respond to you,
-    > accept it from them and desist from fighting against them… If they refuse
-    > to accept Islam, demand from them the *jizya*. If they agree to pay, accept
-    > it from them and hold off your hands."
-    > — *Sahih Muslim* 4521[1](#ref-1){: .footnote}
-    {: .src }
-
-    > The second alternative is decisive. The opposing population could retain
-    > its religion, accept Muslim rule, and pay the *jizya*, and this counted as
-    > a legitimate settlement, not a failed conversion. If conversion had
-    > been the objective, payment of a tax could not have satisfied it.
-    {: .gloss }
+Remaining non-Muslim while accepting Muslim rule was therefore treated as a legitimate settlement, not as a failed conversion.
 
 ## Conversion took centuries
 
-The chronology of conversion is central to the question. If conquest itself
-made populations Muslim, conversion should rise sharply when a territory was
-conquered. The evidence does not show that pattern.
+If conquest itself converted populations, religious change should have followed military conquest quickly. Instead, the evidence shows a much slower process.
 
-- Richard Bulliet's *Conversion to Islam in the Medieval Period* reconstructed
-  conversion timelines from personal names in biographical dictionaries.
-  Descendants of converts generally carried Muslim names, allowing the records
-  to indicate when conversion occurred. For Iran, Iraq, Syria, Egypt and Spain,
-  the results are slow S-curves extending over three to four centuries, not
-  sudden changes at the time of conquest.[2](#ref-2){: .footnote}
-- Quantitative research on Egypt, based on tax records and later census data,
-  places the conversion of the Coptic population across the period 641 to
-  about 1200.[3](#ref-3){: .footnote} The conquest took two years, while the transition to a Muslim
-  majority took roughly five centuries.
-- Syria and Egypt still had substantial Christian populations at the end of
-  the medieval period. Bulliet's graphs must therefore be read as describing
-  the people who eventually converted, not the entire population.[2](#ref-2){: .footnote}
+Richard Bulliet's *Conversion to Islam in the Medieval Period* reconstructed conversion timelines from Muslim personal names in biographical dictionaries. Because descendants of converts generally carried Muslim names, the records can indicate when conversion occurred. For Iran, Iraq, Syria, Egypt and Spain, Bulliet found slow S-curves extending across roughly three to four centuries rather than sudden changes at conquest.[2](#ref-2){: .footnote}
 
-    > A five-century transition is difficult to reconcile with systematic forced
-    > conversion. Coercive campaigns are meant to produce immediate, visible
-    > compliance. The Egyptian evidence instead records gradual change over about
-    > twenty generations, as people converted at different times and for
-    > different reasons.
-    {: .gloss }
+Egypt provides an especially clear comparison. Quantitative research using tax records and later census data places conversion of the Coptic population between 641 and about 1200.[3](#ref-3){: .footnote} The conquest took about two years; the transition to a Muslim majority took roughly five centuries—around twenty generations.
 
-## The communities that are still there
+Bulliet's graphs count those who eventually converted, not the whole population. Syria and Egypt still contained substantial Christian populations at the end of the medieval period.[2](#ref-2){: .footnote} Later scholarship has revised particular regional curves, especially for al-Andalus, but not the broader pattern of gradual conversion over centuries rather than immediate mass conversion.
 
-A policy of systematic forced conversion should be visible in the disappearance
-of the communities subjected to it.
+That chronology is difficult to reconcile with systematic forced conversion, which is meant to produce immediate, visible compliance. The Egyptian record instead shows slow change over centuries.
 
-- **Egypt's Copts** have remained continuously present since before the conquest
-  and are still the largest Christian community in the Middle East.
-- **Assyrian and Syriac Christians** in Iraq and Syria, Maronites in Lebanon,
-  and Armenian communities throughout the region all predate Muslim rule and
-  survived it.
-- **Jewish communities** lived continuously across the Muslim world from the
-  seventh century until the mid-twentieth. Their departure belongs to the history
-  of modern politics, not medieval Islamic law.
-- **Zoroastrians** remained in Iran, as did Hindus in India.
+## What happened under—and beyond—Muslim rule
 
-India provides an especially important test. Muslim dynasties ruled large parts
-of the subcontinent from the establishment of the Delhi Sultanate in 1206 until
-the end of Mughal rule in 1857. This amounted to six and a half centuries of
-Muslim political and military rule over a Hindu majority. At the end of that
-period, India was, and remains, overwhelmingly Hindu. The 2011 census records
-roughly 80 per cent Hindu and 14 per cent Muslim.[4](#ref-4){: .footnote}
+Two further tests point in the same direction: many non-Muslim communities survived centuries of Muslim rule, while Islam also spread widely where Arab armies never conquered.
 
-> Six and a half centuries of Muslim rule gave successive states more than
-> enough time to impose conversion had that been their policy. Yet the
-> subcontinent remained overwhelmingly Hindu. The Indian case therefore shows
-> that forced conversion was neither a consistent state project nor effective
-> enough to determine the region's religious composition.
-{: .gloss }
+### Communities that survived Muslim rule
 
-## Where Islam spread with no conquest at all
+Egypt's Copts have remained continuously present since before the conquest and are still the largest Christian community in the Middle East. Assyrian and Syriac Christians in Iraq and Syria, Maronites in Lebanon, and Armenian communities across the region also predate Muslim rule and survived it. Jewish communities lived across the Muslim world from the seventh century until the mid-twentieth; their later departure belongs to modern political history, not medieval Islamic law. Zoroastrians remained in Iran, as did Hindus in India.
 
-If military conquest were the main mechanism of conversion, Islam should not
-have spread far beyond the reach of Muslim armies. Yet some of its largest
-populations developed in places without an Arab conquest.
+India is especially important. Muslim dynasties ruled large parts of the subcontinent from the Delhi Sultanate in 1206 until the end of Mughal rule in 1857—about six and a half centuries of Muslim political and military rule over a Hindu majority. Yet India remained overwhelmingly Hindu. The 2011 census records roughly 80 per cent Hindu and 14 per cent Muslim.[4](#ref-4){: .footnote} If systematic conversion had been a consistent state project, successive rulers had centuries to impose it; the result does not show such a policy determining the region's religious composition.
 
-- **Indonesia** was never conquered by an Arab army. Islam arrived through
-  **trade, Sufi preaching, marriage and the conversion of local rulers**, then
-  spread gradually through the archipelago from around the thirteenth century.
-  It is now home to roughly 230 million Muslims, more than any Arab state and more
-  than the entire Middle East.[5](#ref-5){: .footnote}
-- **Malaysia and the Malay archipelago** were reached through the same commercial
-  and scholarly networks.
-- **West Africa** encountered Islam through trans-Saharan trade, while East
-  Africa encountered it along the Indian Ocean coast. In both regions,
-  merchants and scholars were the main carriers rather than invading armies.
-- **China** has had Muslim communities since the Tang period, founded by traders
-  travelling over land and sea.
+### Islam also spread without conquest
 
-    > Together, these regions contain a substantial share of the world's Muslims.
-    > Any account that treats conquest as the main explanation for Islam's spread
-    > must still explain Indonesia, whose vast Muslim population developed without
-    > an Arab conquest.
-    {: .gloss }
+Indonesia was never conquered by an Arab army. Islam arrived through trade, Sufi preaching, marriage and the conversion of local rulers, then spread gradually from around the thirteenth century. Indonesia now has roughly 230 million Muslims—more than any Arab state and more than the entire Middle East.[5](#ref-5){: .footnote}
 
-## What the Qur'an says about compelling belief
+Malaysia and the wider Malay archipelago were reached through similar commercial and scholarly networks. West Africa encountered Islam through trans-Saharan trade, East Africa along the Indian Ocean coast, with merchants and scholars as major carriers rather than invading armies. China has had Muslim communities since the Tang period, founded by traders travelling by land and sea.
 
-The verses commonly cited in support of coercion address fighting in particular
-conflicts. The Qur'an also speaks directly about belief and whether it may be
-compelled.
+Together, these regions contain a substantial share of the world's Muslims. Any account that makes conquest the main mechanism of conversion must still explain their development.
 
-- Religious compulsion is rejected directly:
+## Belief, compulsion and the rules of war
 
-    > "Let there be no compulsion in religion" (**Sūrat al-Baqarah 2:256**),
-    > Dr. Mustafa Khattab, *The Clear Quran*
-    >
-    > <div dir="rtl" lang="ar" class="quran-arabic">﴿لَآ إِكْرَاهَ فِى ٱلدِّينِ﴾ <span class="ayah-ref">[سُورَةُ البَقَرَةِ: ٢٥٦]</span></div>
-    {: .quote }
+The Qur'an contains commands to fight in particular conflicts, but it also speaks directly about compelled belief and the limits of warfare.
 
-- The Prophet ﷺ is told that universal belief was not God's will and is asked
-  whether he could force people to believe:
+- **No religious compulsion:** "Let there be no compulsion in religion" (**Sūrat al-Baqarah 2:256**), Dr. Mustafa Khattab, *The Clear Quran*.
 
-    > "Had your Lord so willed ˹O Prophet˺, all ˹people˺ on earth would have
-    > certainly believed, every single one of them! Would you then force people
-    > to become believers" (**Sūrat Yūnus 10:99**), Dr. Mustafa Khattab,
-    > *The Clear Quran*
-    >
-    > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَلَوْ شَآءَ رَبُّكَ لَـَٔامَنَ مَن فِى ٱلْأَرْضِ كُلُّهُمْ جَمِيعًا ۚ أَفَأَنتَ تُكْرِهُ ٱلنَّاسَ حَتَّىٰ يَكُونُوا۟ مُؤْمِنِينَ ۝٩٩﴾ <span class="ayah-ref">سُورَةُ يُونُسَ</span></div>
-    {: .quote }
+  > <div dir="rtl" lang="ar" class="quran-arabic">﴿لَآ إِكْرَاهَ فِى ٱلدِّينِ﴾ <span class="ayah-ref">[سُورَةُ البَقَرَةِ: ٢٥٦]</span></div>
+  {: .quote }
 
-- The choice is stated openly, while its consequences are placed in the next
-  life rather than this one:
+- **Belief cannot be forced:** "Had your Lord so willed... all people on earth would have certainly believed... Would you then force people to become believers" (**Sūrat Yūnus 10:99**), Dr. Mustafa Khattab, *The Clear Quran*.
 
-    > "so whoever wills — let him believe; and whoever wills — let him disbelieve"
-    > (**Sūrat al-Kahf 18:29**), Saheeh International
-    >
-    > <div dir="rtl" lang="ar" class="quran-arabic">﴿فَمَن شَآءَ فَلْيُؤْمِن وَمَن شَآءَ فَلْيَكْفُرْ﴾ <span class="ayah-ref">[سُورَةُ الكَهۡفِ: ٢٩]</span></div>
-    {: .quote }
+  > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَلَوْ شَآءَ رَبُّكَ لَـَٔامَنَ مَن فِى ٱلْأَرْضِ كُلُّهُمْ جَمِيعًا ۚ أَفَأَنتَ تُكْرِهُ ٱلنَّاسَ حَتَّىٰ يَكُونُوا۟ مُؤْمِنِينَ ۝٩٩﴾ <span class="ayah-ref">سُورَةُ يُونُسَ</span></div>
+  {: .quote }
 
-- The Prophet's ﷺ role is defined as reminding, with its limits made clear:
+- **Belief is presented as a choice, with consequences in the next life:** "whoever wills — let him believe; and whoever wills — let him disbelieve" (**Sūrat al-Kahf 18:29**), Saheeh International.
 
-    > "So remind, [O Muhammad]; you are only a reminder." (**Sūrat al-Ghāshiyah
-    > 88:21**), Saheeh International
-    >
-    > <div dir="rtl" lang="ar" class="quran-arabic">﴿فَذَكِّرْ إِنَّمَآ أَنتَ مُذَكِّرٌ ۝٢١﴾ <span class="ayah-ref">سُورَةُ الغَاشِيَةِ</span></div>
-    {: .quote }
+  > <div dir="rtl" lang="ar" class="quran-arabic">﴿فَمَن شَآءَ فَلْيُؤْمِن وَمَن شَآءَ فَلْيَكْفُرْ﴾ <span class="ayah-ref">[سُورَةُ الكَهۡفِ: ٢٩]</span></div>
+  {: .quote }
 
-- People are to be called to Islam through wisdom and argument, not force:
+- **The Prophet's ﷺ role is to remind:** "you are only a reminder" (**Sūrat al-Ghāshiyah 88:21**), Saheeh International.
 
-    > "Invite ˹all˺ to the Way of your Lord with wisdom and kind advice, and only
-    > debate with them in the best manner" (**Sūrat al-Naḥl 16:125**),
-    > Dr. Mustafa Khattab, *The Clear Quran*
-    >
-    > <div dir="rtl" lang="ar" class="quran-arabic">﴿ٱدْعُ إِلَىٰ سَبِيلِ رَبِّكَ بِٱلْحِكْمَةِ وَٱلْمَوْعِظَةِ ٱلْحَسَنَةِ﴾ <span class="ayah-ref">[سُورَةُ النَّحۡلِ: ١٢٥]</span></div>
-    {: .quote }
+  > <div dir="rtl" lang="ar" class="quran-arabic">﴿فَذَكِّرْ إِنَّمَآ أَنتَ مُذَكِّرٌ ۝٢١﴾ <span class="ayah-ref">سُورَةُ الغَاشِيَةِ</span></div>
+  {: .quote }
 
-- When an enemy offers peace, the instruction is to accept it:
+- **People are to be invited through persuasion:** "with wisdom and kind advice" and debate "in the best manner" (**Sūrat al-Naḥl 16:125**), Dr. Mustafa Khattab, *The Clear Quran*.
 
-    > "If the enemy is inclined towards peace, make peace with them. And put your
-    > trust in Allah." (**Sūrat al-Anfāl 8:61**), Dr. Mustafa Khattab,
-    > *The Clear Quran*
-    >
-    > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَإِن جَنَحُوا۟ لِلسَّلْمِ فَٱجْنَحْ لَهَا وَتَوَكَّلْ عَلَى ٱللَّهِ﴾ <span class="ayah-ref">[سُورَةُ الأَنفَالِ: ٦١]</span></div>
-    {: .quote }
+  > <div dir="rtl" lang="ar" class="quran-arabic">﴿ٱدْعُ إِلَىٰ سَبِيلِ رَبِّكَ بِٱلْحِكْمَةِ وَٱلْمَوْعِظَةِ ٱلْحَسَنَةِ﴾ <span class="ayah-ref">[سُورَةُ النَّحۡلِ: ١٢٥]</span></div>
+  {: .quote }
 
-- Fighting is restricted to those who fight first, and limits are imposed on it:
+- **Peace is to be accepted when offered:** "If the enemy is inclined towards peace, make peace with them" (**Sūrat al-Anfāl 8:61**), Dr. Mustafa Khattab, *The Clear Quran*.
 
-    > "Fight in the cause of Allah ˹only˺ against those who wage war against you,
-    > but do not exceed the limits. Allah does not like transgressors"
-    > (**Sūrat al-Baqarah 2:190**), Dr. Mustafa Khattab, *The Clear Quran*
-    >
-    > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَقَـٰتِلُوا۟ فِى سَبِيلِ ٱللَّهِ ٱلَّذِينَ يُقَـٰتِلُونَكُمْ وَلَا تَعْتَدُوٓا۟ ۚ إِنَّ ٱللَّهَ لَا يُحِبُّ ٱلْمُعْتَدِينَ ۝١٩٠﴾ <span class="ayah-ref">سُورَةُ البَقَرَةِ</span></div>
-    {: .quote }
+  > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَإِن جَنَحُوا۟ لِلسَّلْمِ فَٱجْنَحْ لَهَا وَتَوَكَّلْ عَلَى ٱللَّهِ﴾ <span class="ayah-ref">[سُورَةُ الأَنفَالِ: ٦١]</span></div>
+  {: .quote }
 
-## The rules the armies were given
+- **Fighting is bounded:** "Fight in the cause of God only against those who wage war against you, but do not exceed the limits" (**Sūrat al-Baqarah 2:190**), Dr. Mustafa Khattab, *The Clear Quran*.
 
-A policy of conversion by force would require rules of war that allow civilians
-to be terrorised. The recorded instructions instead distinguish between those
-who fight and those who do not.
+  > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَقَـٰتِلُوا۟ فِى سَبِيلِ ٱللَّهِ ٱلَّذِينَ يُقَـٰتِلُونَكُمْ وَلَا تَعْتَدُوٓا۟ ۚ إِنَّ ٱللَّهَ لَا يُحِبُّ ٱلْمُعْتَدِينَ ۝١٩٠﴾ <span class="ayah-ref">سُورَةُ البَقَرَةِ</span></div>
+  {: .quote }
 
-- One incident prompted an explicit prohibition on killing non-combatants:
+The recorded rules of war likewise distinguish combatants from non-combatants. After a woman was found killed during an expedition, the Prophet ﷺ "forbade the killing of women and children" (*Sahih al-Bukhari* 3015; also 3014, *Sahih Muslim* 4547–4548 and *Muwatta Malik* 967).[6](#ref-6){: .footnote}
 
-    > "During some of the expeditions of Allah's Messenger ﷺ a woman was found
-    > killed, so Allah's Messenger ﷺ forbade the killing of women and children."
-    > — *Sahih al-Bukhari* 3015; also *Sahih al-Bukhari* 3014, *Sahih Muslim*
-    > 4547–4548, and *Muwatta Malik* 967[6](#ref-6){: .footnote}
-    {: .src }
+Another report makes the reason explicit. Seeing soldiers around the body of a woman, the Prophet ﷺ said, "This one was not among those who were fighting," then ordered Khalid ibn al-Walid not to kill "any children, or women, or any labourer" (*Sunan Ibn Majah* 2842, graded *hasan sahih*).[7](#ref-7){: .footnote} The distinction is combatant versus non-combatant, not Muslim versus non-Muslim; the woman's religion is irrelevant to the ruling, and the labourer is protected for the same reason. Standing instructions to commanders also prohibit treachery, mutilation, looting and the killing of children.[1](#ref-1){: .footnote}
 
-- Another report states the reason and records the order being sent to Khalid
-  ibn al-Walid, one of the most prominent Muslim commanders. Hanzala al-Katib
-  describes the Prophet ﷺ finding soldiers gathered around the body of a woman:
+Abu Bakr—the Prophet's ﷺ closest Companion and the first caliph—also instructed armies sent to Syria not to kill women, children, the elderly or infirm; cut down fruit trees; destroy inhabited places; slaughter livestock except for food; or disturb monks in their monasteries.
 
-    > "This one was not among those who were fighting." Then he said to a man:
-    > "Go to Khalid ibn al-Walid and tell him that the Messenger of Allah ﷺ
-    > commands you: **do not kill any children, or women, or any labourer.**"
-    > — *Sunan Ibn Majah* 2842, graded *hasan sahih*[7](#ref-7){: .footnote}
-    {: .src }
+A *hadith* is a report about something the Prophet ﷺ said or did, transmitted through a named chain and assessed for reliability; *Sahih al-Bukhari* and *Sahih Muslim* are the most rigorously screened collections. The *Companions* are the generation who knew the Prophet ﷺ personally. Abu Bakr's report in *Muwatta Malik* 968 is weaker: its chain is graded weak and it records a Companion's instruction, not a Prophetic ruling. It is cited only as widely transmitted evidence of early practice; the legal proof comes from the Prophetic reports above.[8](#ref-8){: .footnote}
 
-    > The relevant distinction is between combatants and non-combatants, not
-    > Muslims and non-Muslims. The report does not mention the woman's religion
-    > because it makes no difference to the ruling. She was protected because she
-    > was not fighting, and the labourer is included for the same reason.
-    {: .gloss }
+## Forced conversions did occur
 
-- The standing instructions to commanders also prohibit treachery, mutilation,
-  looting and the killing of children.[1](#ref-1){: .footnote}
-- Abu Bakr, the Prophet's ﷺ closest companion and the first caliph after his
-  death, gave the armies sent to Syria a broader set of instructions: do not kill
-  women, children, the elderly or the infirm; do not cut down fruit trees or
-  destroy inhabited places; do not slaughter livestock except for food; and
-  leave monks in their monasteries alone.
+Muslims did sometimes impose conversion by force, and those cases should be acknowledged.
 
-    > *Muwatta Malik* 968. Its chain is graded **weak**, and the report records a
-    > Companion's instruction rather than a ruling of the Prophet ﷺ. It is cited
-    > here only as widely transmitted evidence of early practice, not as proof of
-    > the legal rule. That proof comes from the Prophetic reports above.[8](#ref-8){: .footnote}
-    {: .src }
+- **The Almohads** in twelfth-century North Africa and Spain forced Jews and Christians to convert under threat of death or exile. Their policy ended communities that had survived four centuries of earlier Muslim rule, and Maimonides' family fled the Almohads.[9](#ref-9){: .footnote}
+- **The Safavids** used state coercion from 1501 onward to convert Iran from Sunni to Twelver Shi'i Islam—a case of Muslims forcibly converting other Muslims.[9](#ref-9){: .footnote}
+- Under **Aurangzeb**, temple demolitions and the restoration of the *jizya* in Mughal India in 1679 were coercive policies and were resisted as such.
 
-## Where the criticism does land
+None is defended here. They were identifiable episodes, not the general mechanism that produced the Muslim world. The Almohad policy is notable precisely because it departed from a broader pattern in which non-Muslim communities had survived for centuries.
 
-Islam should be judged by its authoritative teachings rather than by every act
-committed in its name. That distinction also requires acknowledging cases in
-which Muslims did impose conversion by force.
+## What about indirect pressure to convert?
 
-- **The Almohads** in twelfth-century North Africa and Spain forced Jews and
-  Christians to convert under threat of death or exile. Their policy ended
-  communities that had survived four centuries of earlier Muslim rule, and
-  Maimonides' family fled the Almohads.[9](#ref-9){: .footnote}
-- **The Safavids** used state coercion from 1501 onward to convert Iran from
-  Sunni to Twelver Shi'i Islam. This was a case of Muslims forcibly converting
-  other Muslims.[9](#ref-9){: .footnote}
-- **Aurangzeb's** temple demolitions and restoration of the jizya in Mughal
-  India in 1679 were coercive policies and were resisted as such.
+A stronger objection accepts that conquest did not usually produce immediate forced conversion but argues that Muslim rule made conversion advantageous through taxation, limits on advancement and access to a ruling class defined by religion. On this view, "not by the sword" may seem too technical because military rule created the incentives.
 
-None of these cases is defensible, and none is being defended here. They were
-not, however, the mechanism that produced the Muslim world. They are
-identifiable episodes within a longer history in which non-Muslim communities
-usually survived for centuries. The Almohad policy is notable precisely because
-it departed from that broader pattern.
+The **tax incentive was real**, including measurable effects among poorer converts; the evidence is discussed in [The Jizya](/jizya). But **incentive is not the same as force**. The original accusation is that Islam uniquely depended on violence to create believers. Expanding powers throughout history have often made their own religion socially advantageous; once the claim shifts to social advantage under empire, it is a different and less Islam-specific charge.
 
-## The strongest remaining objection
+The **timescale still requires explanation**. An advantage operating for five centuries without quickly producing a majority was limited in effect. Egypt shows a slow, partial and reversible process rather than a population converting under immediate compulsion.
 
-The strongest remaining criticism accepts that conquest did not usually produce
-immediate conversion but shifts attention to the conditions created by Muslim
-rule. The conquests may not have converted people directly, but they made
-conversion advantageous through taxation, limits on advancement and access to
-a ruling class defined by religion. On this account, "not by the sword" remains
-a technical distinction because military rule created the incentives.
-
-This objection should be answered directly.
-
-- **The tax incentive was real**, including its measurable effect on the
-  poorest converts. The quantitative evidence is discussed in detail in [The
-  Jizya](/jizya).
-- **Incentive is not the same as force.** The distinction matters because the
-  original accusation presents Islam as uniquely dependent on violence. Expanding
-  powers throughout history have made their own religion socially advantageous.
-  If social advantage is the charge, it is no longer specific to Islam.
-- **The timescale still requires explanation.** An advantage that operates for
-  five centuries without producing a majority is limited in effect. The Egyptian
-  evidence shows a slow, partial and reversible process rather than a population
-  acting under compulsion.
-- **It also explains nothing outside the empire.** Indonesia experienced no
-  Muslim conquest, had no jizya and had no Muslim ruling class to join, yet
-  became the largest Muslim country in the world.
+Nor can this account explain Islam **outside the empire**. Indonesia had no Muslim conquest, no *jizya* and no Muslim ruling class to join, yet became the world's largest Muslim country.
 
 ## Conclusion
 
-The Arab conquests were real, rapid and military. Islam's expansion as a
-**political power** depended heavily on them. The evidence does not show that
-Islam's expansion as a faith followed in the same way.
+The Arab conquests were real, rapid and military. Islam's expansion as a **political power** depended heavily on them. The evidence presented here does not show that Islam's expansion as a **faith** followed in the same way.
 
-The populations conquered by Muslim armies remained largely non-Muslim for
-centuries. Many of the communities placed under Muslim rule still exist. The
-largest Muslim population in the world developed without Muslim conquest, and
-the Qur'an rejects compelled belief while defining the Prophet's ﷺ task as
-reminding. Cases of forced conversion did occur, but they are identifiable
-episodes that conflict with both the cited sources and the broader historical
-pattern.
+Conquered populations often remained largely non-Muslim for centuries; many communities survived; major Muslim populations developed without Arab conquest; and the cited Islamic sources reject compelled belief while restricting warfare and protecting non-combatants. Forced conversion did occur, but in identifiable episodes rather than as the general mechanism of Islam's spread.
 
-**The empire expanded through conquest. The evidence shows that the religion
-usually spread through other means.**
+**The empire expanded through conquest. The evidence presented here indicates that the religion usually spread through other means.**
 
 ---
 
@@ -361,35 +162,35 @@ usually spread through other means.**
 ## Notes
 
 <div class="footnotes" markdown="1">
-1. <span id="ref-1"></span>*Sahih Muslim* 4521. The full report also prohibits embezzling spoils, breaking pledges and mutilating the dead. It further instructs commanders not to grant terms in the name of God and His Prophet ﷺ when their own guarantee would suffice, because breaking a human pledge is the lesser wrong.
+1. <span id="ref-1"></span>*Sahih Muslim* 4521. The full report also prohibits embezzling spoils, breaking pledges and mutilating the dead. It instructs commanders not to grant terms in the name of God and His Prophet ﷺ when their own guarantee would suffice, because breaking a human pledge is the lesser wrong.
 
-2. <span id="ref-2"></span>Richard W. Bulliet, *Conversion to Islam in the Medieval Period: An Essay in Quantitative History* (Harvard University Press, 1979), includes chapters on the conversion curves of Iran, Iraq, Egypt, Tunisia, Syria and Spain. Bulliet infers conversion dates from Muslim given names recorded in biographical dictionaries. His graphs count those who eventually converted, not the entire population, an important qualification for Syria and Egypt, where large minorities did not convert. Later scholarship has revised particular regional curves, especially for al-Andalus, but the general pattern remains a gradual process lasting several centuries rather than a sudden change.
+2. <span id="ref-2"></span>Richard W. Bulliet, *Conversion to Islam in the Medieval Period: An Essay in Quantitative History* (Harvard University Press, 1979), includes conversion curves for Iran, Iraq, Egypt, Tunisia, Syria and Spain. Bulliet infers conversion dates from Muslim given names in biographical dictionaries. His graphs count eventual converts, not entire populations—important in Syria and Egypt, where large minorities did not convert. Later scholarship has revised particular regional curves, especially for al-Andalus, but the general pattern remains gradual conversion over several centuries rather than sudden change.
 
 3. <span id="ref-3"></span>Mohamed Saleh and Jean Tirole, [*Taxing Identity: Fiscal Policy and Conversions in Early Islam*](https://www.tse-fr.eu/sites/default/files/TSE/documents/doc/by/tirole/taxing_identity_051218.pdf), Toulouse School of Economics, 5 December 2018, testing their model against "Egypt's conversion to Islam between 641 and 1200."
 
 4. <span id="ref-4"></span>Census of India 2011, religion tables: approximately 79.8 per cent Hindu and 14.2 per cent Muslim. The Delhi Sultanate is conventionally dated from 1206 and Mughal rule ends in 1857.
 
-5. <span id="ref-5"></span>Standard surveys of Southeast Asian Islam describe the Islamisation of the Indonesian archipelago through trade, Sufi preaching, marriage and the conversion of rulers rather than conquest. The estimate of roughly 230 million Indonesian Muslims follows recent population figures. [unverified]
+5. <span id="ref-5"></span>Standard surveys of Southeast Asian Islam describe Islamisation of the Indonesian archipelago through trade, Sufi preaching, marriage and conversion of rulers rather than conquest. The estimate of roughly 230 million Indonesian Muslims follows recent population figures. [unverified]
 
-6. <span id="ref-6"></span>*Sahih al-Bukhari* 3015, and 3014 with the same substance; *Sahih Muslim* 4547 and 4548; *Muwatta Malik* 967, graded *sahih*.
+6. <span id="ref-6"></span>*Sahih al-Bukhari* 3015 and 3014; *Sahih Muslim* 4547–4548; *Muwatta Malik* 967, graded *sahih*.
 
 7. <span id="ref-7"></span>*Sunan Ibn Majah* 2842, graded *hasan sahih* and *sahih li-ghayrihi* in the collection's apparatus.
 
-8. <span id="ref-8"></span>*Muwatta Malik* 968, graded *mauquf da'if*. *Mauquf* means that the report ends with a Companion rather than reaching the Prophet ﷺ, as expected for an instruction attributed to Abu Bakr, while *da'if* means that its chain is weak. The instructions are widely reported in historical accounts of the Syrian campaigns and are cited here as an illustration of early practice, with that limitation stated.
+8. <span id="ref-8"></span>*Muwatta Malik* 968, graded *mauquf da'if*. *Mauquf* means the report ends with a Companion rather than reaching the Prophet ﷺ, as expected for an instruction attributed to Abu Bakr; *da'if* means its chain is weak. The instructions are widely reported in histories of the Syrian campaigns and are cited only as an illustration of early practice.
 
-9. <span id="ref-9"></span>Standard histories of the medieval Maghrib and al-Andalus discuss the Almohad persecutions of the twelfth century, while histories of early modern Iran discuss the Safavid imposition of Twelver Shi'ism from 1501. The dates and summaries given here follow standard reference works rather than primary sources. [unverified]
+9. <span id="ref-9"></span>Standard histories of the medieval Maghrib and al-Andalus discuss the twelfth-century Almohad persecutions, while histories of early modern Iran discuss the Safavid imposition of Twelver Shi'ism from 1501. The dates and summaries here follow standard reference works rather than primary sources. [unverified]
 
 </div>
 
 ## Qur'an verses cited
 
-- 2:190 — fighting restricted to those who fight first, and no exceeding the limits
+- 2:190 — fighting restricted to those who fight first, with limits on transgression
 - 2:256 — no compulsion in religion
-- 8:61 — where the enemy inclines to peace, incline to it
-- 10:99 — universal belief was never willed, and cannot be forced
-- 16:125 — invitation by wisdom and good argument
-- 18:29 — whoever wills, let him believe; whoever wills, let him disbelieve
-- 88:21 — the Prophet's ﷺ office is to remind
+- 8:61 — if the enemy inclines to peace, accept peace
+- 10:99 — universal belief was not willed and cannot be forced
+- 16:125 — invite through wisdom, good counsel and argument
+- 18:29 — whoever wills may believe, and whoever wills may disbelieve
+- 88:21 — the Prophet's ﷺ role is to remind
 
 ## Further reading
 
