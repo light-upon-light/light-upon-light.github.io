@@ -24,9 +24,9 @@ toc_levels: 2..3
 share: true
 ---
 
-Classical Islamic law generally prescribes death for apostasy — a Muslim leaving Islam. **The ruling is severe, plainly present in the sources, and should not be minimised.**
+Classical Islamic law generally prescribes death for apostasy — a Muslim leaving Islam. The ruling is severe, plainly present in the sources, and should not be dismissed.
 
-But it was not uncontested. The Qur'an prescribes no worldly punishment for apostasy, the principal hadith can be read in the context of political defection, and Muslim jurists have disagreed over the ruling from the second century of Islam to the present. Presenting the death penalty as an unqualified consensus therefore misrepresents the tradition.
+The Qur'an, however, prescribes no worldly punishment for apostasy. The principal hadith include language about separation from the Muslim community, and Muslim jurists have disagreed over the ruling from the second century of Islam to the present. The death penalty was the majority position, but not an unqualified consensus.
 
 The *hudud* — severe corporal and capital punishments associated with theft, adultery and other offences — are a related but separate issue, addressed at [The Hudud Punishments in Islam](/punishments).
 
@@ -34,19 +34,19 @@ The *hudud* — severe corporal and capital punishments associated with theft, a
 
 ## The objection
 
-The criticism can be stated in three points:
+The criticism has three parts:
 
 1. Islam puts people to death for changing their beliefs about God, contrary to freedom of conscience.
-2. This is not a marginal interpretation: it appears in canonical hadith collections and all four schools of law.
+2. The ruling appears in canonical hadith collections and all four schools of law.
 3. Muslim-majority states still enforce apostasy laws, so the issue is not merely historical.
 
-The second point contains the strongest textual evidence, but overstates the uniformity of the legal tradition. The third is largely correct and is addressed below.
+The second claim overstates the uniformity of the legal tradition. The third is largely correct.
 
 ## What the Qur'an prescribes
 
 The Qur'an discusses apostasy several times but never prescribes a worldly punishment for it.
 
-It says that an apostate who dies in disbelief loses his deeds and faces punishment in the hereafter:
+An apostate who dies in disbelief loses his deeds and faces punishment in the hereafter:
 
 > "And whoever of you reverts from his religion and dies while he is a disbeliever — for those, their deeds have become worthless in this world and the Hereafter."
 > (**Sūrat al-Baqarah 2:217**), Saheeh International
@@ -54,7 +54,7 @@ It says that an apostate who dies in disbelief loses his deeds and faces punishm
 > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَمَن يَرْتَدِدْ مِنكُمْ عَن دِينِهِۦ فَيَمُتْ وَهُوَ كَافِرٌ فَأُو۟لَـٰٓئِكَ حَبِطَتْ أَعْمَـٰلُهُمْ فِى ٱلدُّنْيَا وَٱلْـَٔاخِرَةِ﴾ <span class="ayah-ref">[سُورَةُ البَقَرَةِ: ٢١٧]</span></div>
 {: .quote }
 
-It also protects a person who verbally renounces the faith under coercion. The verse was revealed concerning Ammar ibn Yasir, who denied his faith under torture while remaining a believer inwardly:
+A person who verbally renounces the faith under coercion is exempted. The verse was revealed concerning Ammar ibn Yasir, who denied his faith under torture while remaining a believer inwardly:
 
 > "except for one who is forced [to renounce his religion] while his heart is secure in faith"
 > (**Sūrat al-Naḥl 16:106**), Saheeh International
@@ -62,7 +62,7 @@ It also protects a person who verbally renounces the faith under coercion. The v
 > <div dir="rtl" lang="ar" class="quran-arabic">﴿إِلَّا مَنْ أُكْرِهَ وَقَلْبُهُۥ مُطْمَئِنٌّۢ بِٱلْإِيمَـٰنِ﴾ <span class="ayah-ref">[سُورَةُ النَّحۡلِ: ١٠٦]</span></div>
 {: .quote }
 
-More significantly, the Qur'an describes people believing, apostatising, returning to belief, and apostatising again:
+The Qur'an also describes people believing, apostatising, returning to belief, and apostatising again:
 
 > "Indeed, those who have believed then disbelieved, then believed, then disbelieved, and then increased in disbelief — never will Allah forgive them, nor will He guide them to a way."
 > (**Sūrat al-Nisāʾ 4:137**), Saheeh International
@@ -70,9 +70,9 @@ More significantly, the Qur'an describes people believing, apostatising, returni
 > <div dir="rtl" lang="ar" class="quran-arabic">﴿إِنَّ ٱلَّذِينَ ءَامَنُوا۟ ثُمَّ كَفَرُوا۟ ثُمَّ ءَامَنُوا۟ ثُمَّ كَفَرُوا۟ ثُمَّ ٱزْدَادُوا۟ كُفْرًا لَّمْ يَكُنِ ٱللَّهُ لِيَغْفِرَ لَهُمْ وَلَا لِيَهْدِيَهُمْ سَبِيلًۢا ۝١٣٧﴾ <span class="ayah-ref">سُورَةُ النِّسَاءِ</span></div>
 {: .quote }
 
-That sequence is difficult to reconcile with a rule requiring execution for apostasy itself: someone executed after the first apostasy could not apostatise a second time. The verse instead assigns the consequence to God and mentions no worldly punishment.
+Execution after the first apostasy would make this sequence impossible. The verse assigns the consequence to God and mentions no worldly punishment.
 
-The Qur'an also states the broader principle:
+The Qur'an also states:
 
 > "Let there be no compulsion in religion."
 > (**Sūrat al-Baqarah 2:256**), Dr. Mustafa Khattab, *The Clear Quran*
@@ -82,7 +82,7 @@ The Qur'an also states the broader principle:
 
 ## What the hadith say
 
-The classical ruling therefore rests primarily on hadith rather than an explicit Qur'anic penalty. Two reports provide its main basis, and their wording differs.
+The classical ruling rests primarily on hadith rather than an explicit Qur'anic penalty.
 
 The shortest and most frequently quoted report comes through Ibn Abbas. It concerns Ali, the Prophet's ﷺ cousin and son-in-law, burning a group of *zanadiqa* — heretics or subversives. Ibn Abbas objected to burning them but said:
 
@@ -96,19 +96,17 @@ A second report lists three cases in which a Muslim's blood may be shed: retalia
 > — *Sahih al-Bukhari* 6878[2](#ref-2){: .footnote}
 {: .src }
 
-The Arabic is *al-tarik li-dinihi al-mufariq li'l-jamaʿa* — "the one who abandons his religion, separating from the community." The reference to separation is part of the hadith itself, not a qualification introduced by modern apologists. In *Sahih al-Bukhari*, the offence is described in two parts: leaving the faith and separating from the community.
+The Arabic is *al-tarik li-dinihi al-mufariq li'l-jamaʿa* — "the one who abandons his religion, separating from the community." In *Sahih al-Bukhari*, the offence is described as both leaving the faith and separating from the community.
 
-The context of the shorter report points in the same direction. Ali was dealing with *zanadiqa*, and Ibn Abbas was discussing how they should be executed, not setting out a rule concerning private unbelief in isolation.
+The shorter report likewise concerns *zanadiqa*, with Ibn Abbas discussing how they should be executed rather than private unbelief in isolation.
 
 ## Apostasy and political defection
 
-In a seventh-century polity, religious affiliation and political allegiance were not neatly separate. Leaving the Muslim community could mean more than changing one's private beliefs; it could mean changing sides in a conflict whose communities were defined religiously.
-
-Three episodes are especially relevant.
+In a seventh-century polity, religious affiliation and political allegiance were not neatly separate. Leaving the Muslim community could also mean changing sides in a conflict whose communities were defined religiously.
 
 ### The *ridda* wars
 
-After the Prophet ﷺ died in 632, many Arabian tribes withdrew their allegiance from Medina and stopped paying *zakat*. Abu Bakr, the first caliph, fought the campaigns later known as the *ridda* wars to preserve the polity.
+After the Prophet ﷺ died in 632, many Arabian tribes withdrew their allegiance from Medina and stopped paying *zakat* — the obligatory levy. Abu Bakr, the first caliph, fought the campaigns later known as the *ridda* wars.
 
 Umar objected that the tribes still professed the testimony of faith. Abu Bakr replied:
 
@@ -116,7 +114,7 @@ Umar objected that the tribes still professed the testimony of faith. Abu Bakr r
 > — *Sahih Muslim* 124; also *Sunan Abi Dawud* 1556[3](#ref-3){: .footnote}
 {: .src }
 
-Abu Bakr's answer did not claim that the tribes had ceased to believe inwardly. He argued that withholding *zakat* was a separate breach of obligation. The dispute concerned secession and state revenue: Umar invoked the principle that a profession of faith protects life, while Abu Bakr argued that refusal of *zakat* justified fighting despite that profession.
+Abu Bakr did not claim that the tribes had ceased to believe inwardly. Umar invoked the principle that a profession of faith protects life; Abu Bakr argued that withholding *zakat* was a separate breach of obligation justifying war. The dispute concerned secession and state revenue rather than private belief alone.
 
 ### The Urayna case
 
@@ -130,7 +128,7 @@ The Qur'anic verse associated with the incident concerns *hiraba* — armed pred
 > <div dir="rtl" lang="ar" class="quran-arabic">﴿إِنَّمَا جَزَٰٓؤُا۟ ٱلَّذِينَ يُحَارِبُونَ ٱللَّهَ وَرَسُولَهُۥ وَيَسْعَوْنَ فِى ٱلْأَرْضِ فَسَادًا أَن يُقَتَّلُوٓا۟ أَوْ يُصَلَّبُوٓا۟ أَوْ تُقَطَّعَ أَيْدِيهِمْ وَأَرْجُلُهُم مِّنْ خِلَـٰفٍ أَوْ يُنفَوْا۟ مِنَ ٱلْأَرْضِ﴾ <span class="ayah-ref">سُورَةُ المَائـِدَةِ</span></div>
 {: .quote }
 
-*Sunan Abi Dawud* 4369 states directly that "the verse regarding fighting against Allah and His Prophet ﷺ was then revealed" concerning these men. The incident also appears in *Sahih Muslim* and *Sahih al-Bukhari*.[4](#ref-4){: .footnote} The reports therefore identify the punished conduct as armed predation, not apostasy alone.
+*Sunan Abi Dawud* 4369 states that "the verse regarding fighting against Allah and His Prophet ﷺ was then revealed" concerning these men. The incident also appears in *Sahih Muslim* and *Sahih al-Bukhari*.[4](#ref-4){: .footnote} Their punished conduct included armed predation, not apostasy alone.
 
 ### Hudaybiyya
 
@@ -138,24 +136,23 @@ At Hudaybiyya in 628, the Prophet ﷺ agreed to a truce with the Quraysh of Mecc
 
 The Muslims strongly objected, but the Prophet ﷺ accepted the term and honoured it, returning Abu Jandal after he arrived in fetters.[5](#ref-5){: .footnote}
 
-That is difficult to reconcile with the claim that every departure from Islam was automatically treated as a capital offence. To secure a truce, the Prophet ﷺ accepted a written agreement requiring converts to be returned to the community they had left despite strong objections from his own followers.
+A universal rule requiring execution for every departure from Islam sits uneasily with an agreement requiring converts to be returned to the community they had left.
 
 ## The legal tradition was not unanimous
 
-The death penalty became the majority position, but disagreement appeared early and remained within the Islamic legal tradition.
+The death penalty became the majority position, but disagreement appeared early.
 
 ### Early and classical disagreement
 
 **The Hanafi school does not execute female apostates.** Its settled ruling is imprisonment until they return to Islam rather than death.[6](#ref-6){: .footnote}
 
-The school's reasoning is significant. If unbelief itself were the capital offence, men and women would receive the same punishment. The Hanafi explanation instead rests on women's status as non-combatants. On that reasoning, fighting rather than unbelief is what makes the offence capital, and the same principle can extend to other non-combatants.
+The Hanafi explanation rests on women's status as non-combatants. If unbelief itself were the capital offence, men and women would receive the same punishment. On this reasoning, fighting rather than unbelief makes the offence capital, and the same principle can extend to other non-combatants.
 
 **Ibrahim al-Nakhaʿi (d. 715) and Sufyan al-Thawri (d. 778)** — major early jurists, with al-Thawri founding a school that did not survive — rejected execution and held that an apostate should instead be invited to repent indefinitely.[7](#ref-7){: .footnote}
 
 **Al-Sarakhsi**, one of the most authoritative Hanafi jurists, wrote that apostasy and unbelief are grave offences "but they are between the human being and his Lord," with their punishment belonging in the hereafter.[7](#ref-7){: .footnote}
 
 ### Modern continuation of the disagreement
-
 Modern scholars have developed the same line of argument.
 
 **Taha Jabir al-Alwani** argued in a book-length study that neither the Qur'an nor the Sunnah supports a capital penalty for *ridda* itself, and that the relevant reports concern rebellion against the polity.[8](#ref-8){: .footnote}
@@ -164,19 +161,17 @@ Modern scholars have developed the same line of argument.
 
 **Abdullah bin Bayyah** has argued that applying an apostasy penalty today is counterproductive because it drives people away from religion.[10](#ref-10){: .footnote}
 
-None of this means that the tradition as a whole abandoned the death penalty. The classical majority prescribed it, and the position remains widely held. The narrower point is that alternatives did not arise from modern embarrassment: they are recorded from as early as the eighth century.
+The classical majority nevertheless prescribed death, and the position remains widely held. The alternative view, however, is recorded from as early as the eighth century.
 
-## Where the criticism does land
+## Contemporary apostasy laws
 
-The objection to contemporary apostasy laws cannot simply be dismissed by appealing to legal theory.
+States may enforce the death penalty while excluding the disagreement that has historically accompanied it. The distinction between private unbelief and political defection, juristic disagreement, and the opportunity to repent made the classical position more contested — and often more restrained in practice — than "kill the apostate" suggests. Retaining the harshest ruling while suppressing those qualifications selects one interpretation and presents it as the only one.
 
-**States may enforce the death penalty while excluding the disagreement that has always accompanied it.** The distinction between private unbelief and political defection, early and modern juristic disagreement, and the opportunity to repent made the classical position more contested — and often more restrained in practice — than the phrase "kill the apostate" suggests. A state that retains the harshest ruling while suppressing those qualifications is choosing among positions, not merely applying an uncontested tradition.
+Blasphemy and apostasy laws are also used politically against religious minorities, dissenters and personal enemies. Such cases have little connection to the *mufariq li'l-jamaʿa* — the person separating from the community — described in the hadith, and much more to do with local power.
 
-**Blasphemy and apostasy laws are also used politically**, including against religious minorities, dissenters and personal enemies. Such cases have little connection to the *mufariq li'l-jamaʿa* — the person separating from the community — described in the hadith, and much more to do with local power.
+Where the majority position has been codified, views held by al-Nakhaʿi, al-Thawri and modern muftis may be presented as though they fall outside Islam.
 
-**Internal disagreement is often suppressed** where the majority position has been codified. Views held by al-Nakhaʿi, al-Thawri and modern muftis may then be presented as though they fall outside Islam altogether.
-
-None of this defends those states. The case against their use of apostasy laws can be made from within Islamic sources, not only from outside them.
+Islamic sources themselves therefore provide grounds for criticising contemporary uses of apostasy laws.
 
 ## Conclusion
 
