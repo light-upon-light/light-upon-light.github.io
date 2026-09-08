@@ -31,6 +31,7 @@ quran:
 
 messenger:
 
+- add something in the second paragraph about the prophet's unmatched character and moral conduct. also about him being one of the most influential humans in history
 - ideas in file
 
 ---
