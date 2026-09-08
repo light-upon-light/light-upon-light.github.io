@@ -2379,3 +2379,15 @@
   #gloss-tip em {
     font-style: italic;
   }
+
+/* --------------------------------------------------------------------------
+   Home page feature row
+   -------------------------------------------------------------------------- */
+
+  /* The theme makes .feature__wrapper an inline-block on single-layout pages,
+     so on the home page it sits inside the blurb's line flow and splits that
+     sentence in half around the card at wide widths. It is a block-level
+     region of its own; say so. */
+  .layout--single .feature__wrapper {
+    display: block;
+  }
