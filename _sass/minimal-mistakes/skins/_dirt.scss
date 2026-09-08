@@ -150,20 +150,19 @@ $base0f: #b49368 !default;
   --site-src-border: #a1937c; // blockquote.src / .yt-embed / .quran-return border
   --site-gloss-border: #2e6b63; // blockquote.gloss border
   --site-gloss-bg: rgba(46, 107, 99, 0.05); // blockquote.gloss background wash
-  /* TL;DR card (.tldr) -- the parchment family the skin already uses for
-     --mm-border-color and the footer, not a new hue: the evidence palette
-     is an illuminated-manuscript one (gold revealed / verdigris commentary
-     / taupe apparatus) and a parchment ground for the page's own summary
-     belongs to that story rather than adding a fourth term to it. The card
-     form -- full content width, a border, no left rule -- is what separates
-     it from the three evidence blockquotes; the colour only has to avoid
-     colliding with them. Contrast on --site-tldr-fill: label 6.2:1, body
-     text 10.3:1 (WCAG AA for small text is 4.5:1). The fill sits 1.09:1
-     against the page ground -- deliberately faint, since the border and the
-     label carry the separation. */
-  --site-tldr-fill: #f0e9da;
-  --site-tldr-line: #b9a382;
-  --site-tldr-label: #6b5033;
+  /* TL;DR card (.tldr) -- a verdigris tint, the same family as
+     --site-gloss-border, rather than the parchment it started as: a card
+     the same cream as the page ground reads as a fold in the paper, not as
+     a distinct layer, and this panel has to be findable at a glance. It is
+     still not a fourth evidence type -- the form does that work (full
+     content width, a border, no left rule, no indent), and .gloss remains
+     the only *left-ruled* teal thing on the page. Contrast on
+     --site-tldr-fill: label 6.8:1, body text 10.4:1 (WCAG AA for small
+     text is 4.5:1). The fill sits 1.1:1 against the page ground, so the
+     border and the label still carry most of the separation. */
+  --site-tldr-fill: #ddeeea;
+  --site-tldr-line: #2e6b63;
+  --site-tldr-label: #1d5851;
   --site-breadcrumb-sep: #c3b4a0; // quran-breadcrumb "›" separator
   --site-return-hover-bg: rgba(161, 147, 124, 0.14); // quran-return hover background
   --site-floatnav-icon: #f3f3f3; // #floating-nav button icon color
@@ -263,12 +262,12 @@ $base0f: #b49368 !default;
   --site-src-border: #8a7d68;
   --site-gloss-border: #4fa89c;
   --site-gloss-bg: rgba(79, 168, 156, 0.08);
-  /* .tldr card, dark: the same parchment logic inverted -- a card lifted
+  /* .tldr card, dark: the same verdigris logic inverted -- a card lifted
      off the page ground rather than a light panel. Contrast on
-     --site-tldr-fill: label 8.3:1, body text 10.0:1. */
-  --site-tldr-fill: #262019;
-  --site-tldr-line: #6b5b45;
-  --site-tldr-label: #cbb896;
+     --site-tldr-fill: label 9.1:1, body text 9.9:1. */
+  --site-tldr-fill: #172422;
+  --site-tldr-line: #3f8078;
+  --site-tldr-label: #7fd2c5;
   --site-breadcrumb-sep: #6b6152;
   --site-return-hover-bg: rgba(138, 125, 104, 0.18);
   --site-floatnav-icon: #e6ded2;
