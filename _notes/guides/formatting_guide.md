@@ -96,7 +96,9 @@ paragraphs, before the first `##`. It replaces the old hand-written
 `_data/glossary.yml` — never inline — since the same string feeds both the
 visible list and the hover gloss `site.js` wraps around later occurrences (see
 `styling.md`). The include's raw `<dl>`/`<script>` live in a `.html` file, so
-MD033 does not apply; the `.md` only ever holds the Liquid tag.
+MD033 does not apply; the `.md` only ever holds the Liquid tag. The list is
+a native `<details>` collapsed by default ("Key terms" is the `<summary>`); no
+JS, and the `<dl>` still shows for readers whose browser ignores `<details>`.
 
 ## markdownlint
 
