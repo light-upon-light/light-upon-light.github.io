@@ -2,6 +2,8 @@
 
 general:
 
+- change all "where the criticism lands" titles to something better
+- go over each misconception, write the points you would say to someone in a convo. build up argument from there. maybe in the tldr esp.
 - manual edits to pages and below todos
 - find good articles discussing misconceptions online and have llm compare them and take in strengths.
 - add summary to each misonception page at the top and make it clearly separate from the intro
