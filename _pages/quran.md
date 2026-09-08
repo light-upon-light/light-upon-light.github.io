@@ -36,7 +36,7 @@ The page argues that the Qur’an and Prophet Muhammad ﷺ together form a cumul
 
 It then argues that Muhammad ﷺ is difficult to explain as a fraud, deluded person, evil influence, or later legend, given his sacrifices, character, leadership, message, and early historical attestation.
 
-**In short:** taken together, the Qur’an’s qualities and Muhammad’s life are presented as best explained by the claim that the Qur’an came from God and that Muhammad ﷺ was a genuine prophet.
+In short: taken together, the Qur’an’s qualities and Muhammad’s life are presented as best explained by the claim that the Qur’an came from God and that Muhammad ﷺ was a genuine prophet.
 </div>
 
 > This page presents evidence for the **miraculous nature** of the **Qur'an** and the **prophethood** of **Prophet Muhammad** ﷺ. Not every point is a miracle or proof on its own. Taken together, however, the points form a cumulative case for the Qur'an's divine origin and the authenticity of the Prophet's mission. — *Note: this page is a work in progress.*
