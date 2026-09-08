@@ -2,24 +2,32 @@
 
 general:
 
+- add hover over thing for arabic terms, and make sure to define them at least once in the beginning of all pages
+- few pages, go back to before meta remove and reremove meta with new prompt, then merge with latest version of page. aisha -
 - change all "where the criticism lands" titles to something better, maybe "where the criticism is justified". Additionaly in those sections, clearly address that many / most of muslims nowadays are bad representations of the faith's teachings and that they are acting out of their own sick desires and not in accordance to the faith, while in many cases unfortunately abuse the religion to justify their own sick desires.
 - go over each misconception, write the points you would say to someone in a convo. build up argument from there. maybe in the tldr esp.
 - manual edits to pages and below todos
 - find good articles discussing misconceptions online and have llm compare them and take in strengths.
-- add summary to each misonception page at the top and make it clearly separate from the intro
+- add summary to each misonception page at the top and make it clearly separate from the intro - add a tldr - brief bullet point summary to pages at the top
+- flesh out quran quotations again, with english and arabic across all pages.
+- render all Allah as God, and dont keep saying that it did
 
 ---
 
 ridda:
 
-- mostly a translation issue. ridda doesn't translate cleanly to apostasy. it carries more of a social order / treason meaning. people are free to make their own choices about their belief as long as they don't cause corruption in the society they live in.
-- punsihments and ridda: more of a social order thing, and not the punishment for the action itself (in the case of ridda it's more of a treason punishment, and someone who corrupts the social order by his ridda). evidenced by the fact that forgiveness and repentance is one of the most emphasized points in the quran and prophet's teachings. And that idra'ū al-ḥudūd bi'l-shubuhāt. And the 4 witnesses thing in punishments. And The amount of times these punishments were actually applied. And that in general the rulers shouldn't go after people to find their mistakes. It's clear that a person's journey is between themselves and God and that God is immediately forgiving for those, however when it comes to the social order and hurting others and undermining the order in society aspect, that's when serious and public punishments are invoked.
+punsihments:
 
 sword:
 
-- what this page currently lacks is the WHY the conquests happened in the first place. Also right now it's very concessionary and weirdly worded
 - separation between people and rulers. people weren't touched. ruling system was moved to islamic one.
-- at least 4 cases: pre-emptive attack on impending threat, refusal/killing of message spreading peacefully, people called for help against their rules,
+- what this page currently lacks is the WHY the conquests happened in the first place. There were at least 3 cases: pre-emptive attack on impending threat, refusal/killing of message spreading peacefully, people called for help against their rulers, and many more cases too.
+- Also right now it's very concessionary and weirdly worded
+
+- non muslim communities that flourished under muslim rule
+- stand out and exemplary example: sayedna umar's going into the city on his legs, while his servant rode the donkey, and wearing very humble clothes, and his refusal to pray in a church bec he knew muslims would want to build a mosque there
+- examples of jew and christian communities that invited muslim rule since it was infinitely better than any other rule theyve been under
+- other examples around the same general line of ideas above
 
 wadri:
 
@@ -47,8 +55,6 @@ messenger:
 ---
 
 At some point:
-
-- add a tldr - brief bullet point summary to pages at the top
 
 - create a comprehensive quran page from gpt max too and merge it in
 - review classical islamic literature on the inimitability of the quran and adapt that into the page. Maybe into the page itself or maybe in sections below that tackle specific books or literature, or just an expanded details section. (e.g. إعجاز القرآن والبلاغة النبوية)
