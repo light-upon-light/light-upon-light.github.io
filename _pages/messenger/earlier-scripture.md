@@ -22,20 +22,20 @@ Muhammad ﷺ’s message places itself in the line of Abraham, Moses, and Jesus.
 ## How to weigh scriptural correspondences
 {: #how-to-weigh-scriptural-correspondences }
 
-- <span id="src-3051"></span>Possible scriptural parallels are **supporting evidence** and require careful interpretation. Jewish, Christian, and Muslim readings can differ. The related discussion of [signs in nature](/messenger/knowledge) follows the same principle: an argument should not claim more than its wording and sources support.
+- <span id="src-3051"></span>Possible scriptural parallels are supporting evidence and require careful interpretation. Jewish, Christian, and Muslim readings can differ. The related discussion of [signs in nature](/messenger/knowledge) follows the same principle: an argument should not claim more than its wording and sources support.
 
 
 ## The Qur’an’s continuity claim
 {: #the-qurans-continuity-claim }
 
-- <span id="src-3053"></span>The Qur’an claims **continuity with earlier revelation** and says that Prophet Muhammad ﷺ is described in the Torah and Gospel. For a Muslim, this naturally invites comparison with earlier scripture. For a skeptic, however, the Qur’an’s statement cannot serve as independent confirmation of its own claim.
+- <span id="src-3053"></span>The Qur’an claims continuity with earlier revelation and says that Prophet Muhammad ﷺ is described in the Torah and Gospel. For a Muslim, this naturally invites comparison with earlier scripture. For a skeptic, however, the Qur’an’s statement cannot serve as independent confirmation of its own claim.
 
     > "Those who follow the Messenger, the unlettered prophet, whom they find written in what they have of the Torah and the Gospel, who enjoins upon them what is right and forbids them what is wrong and makes lawful for them the good things and prohibits for them the evil and relieves them of their burden and the shackles which were upon them. So they who have believed in him, honored him, supported him and followed the light which was sent down with him - it is those who will be the successful." (**Sūrat al-Aʿrāf 7:157**), Saheeh International[1](/messenger/sources#ref-1){: .footnote}[11](/messenger/sources#ref-11){: .footnote}[12](/messenger/sources#ref-12){: .footnote}[36](/messenger/sources#ref-36){: .footnote}
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿ٱلَّذِينَ يَتَّبِعُونَ ٱلرَّسُولَ ٱلنَّبِىَّ ٱلْأُمِّىَّ ٱلَّذِى يَجِدُونَهُۥ مَكْتُوبًا عِندَهُمْ فِى ٱلتَّوْرَىٰةِ وَٱلْإِنجِيلِ يَأْمُرُهُم بِٱلْمَعْرُوفِ وَيَنْهَىٰهُمْ عَنِ ٱلْمُنكَرِ وَيُحِلُّ لَهُمُ ٱلطَّيِّبَـٰتِ وَيُحَرِّمُ عَلَيْهِمُ ٱلْخَبَـٰٓئِثَ وَيَضَعُ عَنْهُمْ إِصْرَهُمْ وَٱلْأَغْلَـٰلَ ٱلَّتِى كَانَتْ عَلَيْهِمْ ۚ فَٱلَّذِينَ ءَامَنُوا۟ بِهِۦ وَعَزَّرُوهُ وَنَصَرُوهُ وَٱتَّبَعُوا۟ ٱلنُّورَ ٱلَّذِىٓ أُنزِلَ مَعَهُۥٓ ۙ أُو۟لَـٰٓئِكَ هُمُ ٱلْمُفْلِحُونَ ۝١٥٧﴾ <span class="ayah-ref">سُورَةُ الأَعۡرَافِ</span></div>
     {: .quote }
 
-- <span id="src-3060"></span>The Qur’an presents Jesus as announcing **a later messenger named Ahmad**, a name from the same Arabic root as Prophet Muhammad ﷺ. This matters within the Qur’anic case, but it should not be presented as though the same sentence appears verbatim in the surviving canonical Gospels.
+- <span id="src-3060"></span>The Qur’an presents Jesus as announcing a later messenger named Ahmad, a name from the same Arabic root as Prophet Muhammad ﷺ. This matters within the Qur’anic case, but it should not be presented as though the same sentence appears verbatim in the surviving canonical Gospels.
 
     > "And ˹remember˺ when Jesus, son of Mary, said, 'O children of Israel! I am truly Allah's messenger to you, confirming the Torah which came before me, and giving good news of a messenger after me whose name will be Aḥmad.' Yet when the Prophet came to them with clear proofs, they said, 'This is pure magic.'" (**Sūrat al-Ṣaff 61:6**), Dr. Mustafa Khattab, *The Clear Quran*[1](/messenger/sources#ref-1){: .footnote}[11](/messenger/sources#ref-11){: .footnote}[12](/messenger/sources#ref-12){: .footnote}[36](/messenger/sources#ref-36){: .footnote}
     >
@@ -45,7 +45,7 @@ Muhammad ﷺ’s message places itself in the line of Abraham, Moses, and Jesus.
 ## A prophet like Moses and the settlements of Kedar
 {: #a-prophet-like-moses-and-the-settlements-of-kedar }
 
-- <span id="src-3067"></span>Muslim writers have long read passages such as **Deuteronomy 18:18 and Isaiah 42** as possible anticipations of Prophet Muhammad ﷺ. Deuteronomy speaks of a prophet “like Moses,” while Isaiah 42 describes a servant bringing judgment or instruction to the nations and explicitly mentions the settlements of Kedar. The parallels can be suggestive, particularly within an Abrahamic reading, but Jewish and Christian interpreters understand these passages differently. They are therefore better treated as supporting correspondences than as uncontested proof.[69](/messenger/sources#ref-69){: .footnote}[70](/messenger/sources#ref-70){: .footnote}[71](/messenger/sources#ref-71){: .footnote}
+- <span id="src-3067"></span>Muslim writers have long read passages such as Deuteronomy 18:18 and Isaiah 42 as possible anticipations of Prophet Muhammad ﷺ. Deuteronomy speaks of a prophet “like Moses,” while Isaiah 42 describes a servant bringing judgment or instruction to the nations and explicitly mentions the settlements of Kedar. The parallels can be suggestive, particularly within an Abrahamic reading, but Jewish and Christian interpreters understand these passages differently. They are therefore better treated as supporting correspondences than as uncontested proof.[69](/messenger/sources#ref-69){: .footnote}[70](/messenger/sources#ref-70){: .footnote}[71](/messenger/sources#ref-71){: .footnote}
 
     > "The Messenger ˹firmly˺ believes in what has been revealed to him from his Lord, and so do the believers. They ˹all˺ believe in Allah, His angels, His Books, and His messengers. ˹They proclaim,˺ 'We make no distinction between any of His messengers.' And they say, 'We hear and obey. ˹We seek˺ Your forgiveness, our Lord! And to You ˹alone˺ is the final return.'" (**Sūrat al-Baqarah 2:285**), Dr. Mustafa Khattab, *The Clear Quran*[1](/messenger/sources#ref-1){: .footnote}[11](/messenger/sources#ref-11){: .footnote}[12](/messenger/sources#ref-12){: .footnote}[36](/messenger/sources#ref-36){: .footnote}
     >
@@ -55,7 +55,7 @@ Muhammad ﷺ’s message places itself in the line of Abraham, Moses, and Jesus.
 ## The Paraclete and the Greek textual evidence
 {: #the-paraclete-and-the-greek-textual-evidence }
 
-- <span id="src-3074"></span>Identifying the Gospel’s “Paraclete” with Prophet Muhammad ﷺ **requires particular care**. Muslim interpreters have connected Jesus’s promised advocate in John 14–16 with Prophet Muhammad ﷺ, but the surviving Greek manuscript tradition reads *paraklētos*, “advocate/helper,” not the proposed alternative term meaning “praised one.” The case for Prophet Muhammad ﷺ does not need a textual claim stronger than the manuscripts can support.[69](/messenger/sources#ref-69){: .footnote}[72](/messenger/sources#ref-72){: .footnote}
+- <span id="src-3074"></span>Identifying the Gospel’s “Paraclete” with Prophet Muhammad ﷺ requires particular care. Muslim interpreters have connected Jesus’s promised advocate in John 14–16 with Prophet Muhammad ﷺ, but the surviving Greek manuscript tradition reads *paraklētos*, “advocate/helper,” not the proposed alternative term meaning “praised one.” The case for Prophet Muhammad ﷺ does not need a textual claim stronger than the manuscripts can support.[69](/messenger/sources#ref-69){: .footnote}[72](/messenger/sources#ref-72){: .footnote}
 
     > "And do not pursue that of which you have no knowledge. Indeed, the hearing, the sight and the heart - about all those [one] will be questioned." (**Sūrat al-Isrāʾ 17:36**), Saheeh International[1](/messenger/sources#ref-1){: .footnote}[11](/messenger/sources#ref-11){: .footnote}[12](/messenger/sources#ref-12){: .footnote}[36](/messenger/sources#ref-36){: .footnote}
     >

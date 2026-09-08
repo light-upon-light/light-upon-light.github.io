@@ -58,8 +58,8 @@ and is addressed near the end.
 
 ## What the Qur'an prescribes
 
-The Qur'an discusses apostasy several times. **None of these passages
-prescribes a worldly punishment.** Each places the consequence in the next life.
+The Qur'an discusses apostasy several times. None of these passages
+prescribes a worldly punishment. Each places the consequence in the next life.
 
 - The main passage says that the apostate's deeds are lost and that punishment
   awaits in the hereafter. It goes no further:
@@ -71,7 +71,7 @@ prescribes a worldly punishment.** Each places the consequence in the next life.
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَمَن يَرْتَدِدْ مِنكُمْ عَن دِينِهِۦ فَيَمُتْ وَهُوَ كَافِرٌ فَأُو۟لَـٰٓئِكَ حَبِطَتْ أَعْمَـٰلُهُمْ فِى ٱلدُّنْيَا وَٱلْـَٔاخِرَةِ﴾ <span class="ayah-ref">[سُورَةُ البَقَرَةِ: ٢١٧]</span></div>
     {: .quote }
 
-- The verse on coerced denial protects a person who recants **under duress**.
+- The verse on coerced denial protects a person who recants under duress.
   It was revealed concerning Ammar ibn Yasir, who denied his faith verbally
   under torture while remaining a believer in his heart:
 
@@ -81,8 +81,8 @@ prescribes a worldly punishment.** Each places the consequence in the next life.
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿إِلَّا مَنْ أُكْرِهَ وَقَلْبُهُۥ مُطْمَئِنٌّۢ بِٱلْإِيمَـٰنِ﴾ <span class="ayah-ref">[سُورَةُ النَّحۡلِ: ١٠٦]</span></div>
     {: .quote }
 
-- Another verse describes a person **apostatising, returning, apostatising
-  again, and returning again**:
+- Another verse describes a person apostatising, returning, apostatising
+  again, and returning again:
 
     > "Indeed, those who have believed then disbelieved, then believed, then
     > disbelieved, and then increased in disbelief — never will Allah forgive
@@ -93,8 +93,8 @@ prescribes a worldly punishment.** Each places the consequence in the next life.
     {: .quote }
 
     > This verse is difficult to reconcile with a rule requiring execution
-    > for apostasy itself. **A man executed after his first apostasy could never
-    > apostatise a second time.** Yet the Qur'an expressly describes belief,
+    > for apostasy itself. A man executed after his first apostasy could never
+    > apostatise a second time. Yet the Qur'an expressly describes belief,
     > disbelief, renewed belief, and disbelief again. It assigns the consequence
     > to the hereafter and mentions no worldly punishment.
     {: .gloss }
@@ -134,10 +134,10 @@ Two reports provide its main basis, and their wording is not identical.
     {: .src }
 
     > The Arabic of the third clause is *al-tarik li-dinihi al-mufariq
-    > li'l-jamaʿa* — "the one who abandons his religion, **separating from the
-    > community**." That reference to separation comes from the report itself;
+    > li'l-jamaʿa* — "the one who abandons his religion, separating from the
+    > community." That reference to separation comes from the report itself;
     > it is not a qualification invented by modern apologists. In the most
-    > rigorously screened hadith collection, the offence has **two parts**:
+    > rigorously screened hadith collection, the offence has two parts:
     > leaving the faith *and* defecting from the polity.
     {: .gloss }
 
@@ -149,8 +149,8 @@ Two reports provide its main basis, and their wording is not identical.
 
 In a seventh-century polity, religious affiliation and political allegiance
 were not separate categories. Leaving the Muslim community was not simply a
-change of private belief; it could mean **switching sides in a conflict whose
-sides were defined religiously**. Three lines of evidence support reading the
+change of private belief; it could mean switching sides in a conflict whose
+sides were defined religiously. Three lines of evidence support reading the
 reports in this context.
 
 - **The wars of the ridda concerned state obligations, not private belief.**
@@ -166,7 +166,7 @@ reports in this context.
     > — *Sahih Muslim* 124; also *Sunan Abi Dawud* 1556[3](#ref-3){: .footnote}
     {: .src }
 
-    > The issue here is **the refusal to pay a tax owed to the state**, not
+    > The issue here is the refusal to pay a tax owed to the state, not
     > what the tribes privately believed. Umar's objection rests on the
     > principle that a profession of faith protects a person's life. Abu Bakr
     > does not deny that principle; he argues that withholding *zakat* was a
@@ -218,10 +218,10 @@ legal works.
 - **The Hanafi school does not execute women apostates.** Its ruling is
   imprisonment until they return, rather than death.[6](#ref-6){: .footnote}
 
-    > This exception reveals the reasoning behind the rule. If **unbelief
-    > itself** were the offence, men and women would receive the same punishment.
+    > This exception reveals the reasoning behind the rule. If unbelief
+    > itself were the offence, men and women would receive the same punishment.
     > The Hanafi explanation instead turns on women's status as non-combatants.
-    > On that reasoning, **fighting, not believing**, is what makes the offence
+    > On that reasoning, fighting, not believing, is what makes the offence
     > capital, and the same principle can extend to other non-combatants.
     {: .gloss }
 
@@ -237,7 +237,7 @@ legal works.
   Sunnah supports a capital penalty for *ridda* itself, and that the relevant
   reports concern rebellion against the polity.[8](#ref-8){: .footnote} In 2007, Ali Gomaa, then
   Grand Mufti of Egypt, stated publicly that a Muslim who merely rejects the
-  faith faces **no worldly punishment** because the matter is between the person
+  faith faces no worldly punishment because the matter is between the person
   and God.[9](#ref-9){: .footnote} Abdullah bin Bayyah has argued that applying an apostasy penalty
   today is counterproductive because it drives people away from religion.[10](#ref-10){: .footnote}
 
@@ -275,13 +275,13 @@ can be made from within the Islamic sources, not only from outside them.
 The Qur'an prescribes no worldly punishment for apostasy and describes a
 person apostatising and returning more than once, which execution after the
 first apostasy would make impossible. The hadith used for the classical ruling
-include, in the most reliable collection, a clause about **separating from the
-community**. The cases in which apostates were executed also involved murder,
+include, in the most reliable collection, a clause about separating from the
+community. The cases in which apostates were executed also involved murder,
 robbery, or armed secession. Within the legal tradition, the Hanafi exemption
 for women rests on reasoning concerned with combat rather than belief, while
 jurists from al-Nakhaʿi in the eighth century to muftis in the twenty-first have
-argued that the penalty does not apply to belief alone. **The death penalty was
-the majority position. It was not unanimous.**
+argued that the penalty does not apply to belief alone. The death penalty was
+the majority position. It was not unanimous.
 
 ---
 
@@ -300,7 +300,7 @@ the majority position. It was not unanimous.**
 
 4. <span id="ref-4"></span>*Sunan Abi Dawud* 4369, graded *hasan sahih*, which states that the *hiraba* verse was revealed concerning them; *Sunan Abi Dawud* 4364, graded *sahih*, cross-referenced to *Sahih al-Bukhari* 233 and *Sahih Muslim* 1671; *Sahih Muslim* 4353. Some versions of this incident record punishments — eyes put out, no water given — that later jurists held to have been abrogated by the prohibition on mutilation; this article does not rely on those details.
 
-5. <span id="ref-5"></span>*Sahih al-Bukhari* 2731–2732 and 4180–4181. Suhayl's stipulation: "We also stipulate that you should return to us whoever comes to you from us, **even if he embraced your religion**," and in the parallel wording, "you should return him to us, and should not interfere between us and him." The reports record that the Muslims found the condition intolerable, and that Abu Jandal, arriving from Mecca in fetters, was returned under it.
+5. <span id="ref-5"></span>*Sahih al-Bukhari* 2731–2732 and 4180–4181. Suhayl's stipulation: "We also stipulate that you should return to us whoever comes to you from us, even if he embraced your religion," and in the parallel wording, "you should return him to us, and should not interfere between us and him." The reports record that the Muslims found the condition intolerable, and that Abu Jandal, arriving from Mecca in fetters, was returned under it.
 
 6. <span id="ref-6"></span>The Hanafi position that a female apostate is imprisoned rather than executed, on the ground that women are not combatants, is the settled position of the school. Some Hanafi sources add coercive measures during imprisonment. See the survey in Yaqeen Institute, [*The Issue of Apostasy in Islam*](https://yaqeeninstitute.org/read/paper/the-issue-of-apostasy-in-islam).
 

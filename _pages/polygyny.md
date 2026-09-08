@@ -27,7 +27,7 @@ itself to show that Islamic marriage reduces a wife to one member of a
 collection.
 
 What receives less attention is the form of the permission. The verse that
-grants it **begins by discussing orphans**, directs men to marry only one if they
+grants it begins by discussing orphans, directs men to marry only one if they
 fear they cannot be just, and is followed a hundred and twenty-six verses later
 by a statement that complete justice will never be possible. Read as a whole,
 the verse limits an existing practice and makes its exercise conditional.
@@ -85,7 +85,7 @@ verse itself begins elsewhere.
   four wives were required to release those beyond the limit.
 
     > The historical change matters. The Qur'an did not expand men's options; it
-    > **reduced an unlimited practice to a maximum of four wives** and made even
+    > reduced an unlimited practice to a maximum of four wives and made even
     > that limit conditional on justice. In a society that had imposed no ceiling
     > at all, this was a restriction, not a new indulgence.
     {: .gloss }
@@ -119,10 +119,10 @@ complete.
 > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَلَن تَسْتَطِيعُوٓا۟ أَن تَعْدِلُوا۟ بَيْنَ ٱلنِّسَآءِ وَلَوْ حَرَصْتُمْ﴾ <span class="ayah-ref">[سُورَةُ النِّسَاءِ: ١٢٩]</span></div>
 {: .quote }
 
-- Read together, 4:3 and 4:129 give **a permission followed by a warning about
-  that permission** in the same chapter and to the same audience.
-- The classical explanation is that 4:129 concerns **the heart**, which cannot be
-  commanded, while 4:3 requires **justice in matters that can be measured**:
+- Read together, 4:3 and 4:129 give a permission followed by a warning about
+  that permission in the same chapter and to the same audience.
+- The classical explanation is that 4:129 concerns the heart, which cannot be
+  commanded, while 4:3 requires justice in matters that can be measured:
   time, housing, maintenance, and attention. The rest of 4:129 supports this
   reading. It does not say *therefore do not marry more than one*; it says *do
   not lean so far towards one wife that the other is left hanging*.
@@ -135,19 +135,19 @@ complete.
     > dissenting *da'if*.[1](#ref-1){: .footnote}
     {: .src }
 
-- Islamic law translated this requirement into specific duties: **equal division
-  of nights, equal maintenance, and separate accommodation for each wife.** A
+- Islamic law translated this requirement into specific duties: equal division
+  of nights, equal maintenance, and separate accommodation for each wife. A
   wife could take a husband who failed to meet them to court.
 
     > Taking a second wife therefore creates additional legal duties. A man must
     > be able to maintain another household, divide his nights equally, and
     > answer for failing to do either. The permission does not simply give him
-    > another wife; it **binds him to another set of enforceable obligations**.
+    > another wife; it binds him to another set of enforceable obligations.
     {: .gloss }
 
 ## Permitted is not recommended
 
-- The Qur'an never describes plural marriage as **better**, as a reward, or as a
+- The Qur'an never describes plural marriage as better, as a reward, or as a
   practice men should seek. It permits it under conditions in a passage concerned
   with protecting dependents.
 - Elsewhere, the Qur'an describes marriage in the singular and presents it in
@@ -170,7 +170,7 @@ complete.
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَعَاشِرُوهُنَّ بِٱلْمَعْرُوفِ﴾ <span class="ayah-ref">[سُورَةُ النِّسَاءِ: ١٩]</span></div>
     {: .quote }
 
-- In practice, plural marriage has always been **a minority arrangement** in
+- In practice, plural marriage has always been a minority arrangement in
   Muslim societies. The expense of maintaining separate households has itself
   limited how common it could become.
 
@@ -225,13 +225,13 @@ Ali abandoned the proposal.
   says that the daughter of the Messenger of God and the daughter of the enemy
   of God should not be wives of the same man. The report does not establish a
   general prohibition, and it is not being presented as one.
-- Its narrower conclusion is still important: **the harm that a second marriage
-  would cause an existing wife can be a reason to prevent it.** In this case, it
+- Its narrower conclusion is still important: the harm that a second marriage
+  would cause an existing wife can be a reason to prevent it. In this case, it
   prevented the marriage publicly and despite Ali's standing in the community.
 
 ## A wife can rule it out in advance
 
-- An Islamic marriage is a **contract**, and conditions included in that contract
+- An Islamic marriage is a contract, and conditions included in that contract
   can be enforceable. A woman may stipulate that her husband will not marry
   another wife.
 - The legal schools differ over the remedy. The Hanbali position is the most
@@ -267,7 +267,7 @@ desire.
 
     > None of these explanations removes the asymmetry, and they should not be
     > presented as though they do. They show instead that the permission operates
-    > within **a wider structure of financial and legal obligations**, not as an
+    > within a wider structure of financial and legal obligations, not as an
     > isolated male entitlement. Describing it as a concession to appetite alone
     > requires setting aside the conditions and liabilities that the same law
     > attaches to it.
@@ -292,12 +292,12 @@ Modern Muslim states have responded by regulating plural marriage. Tunisia
 prohibits it outright, while several other Muslim-majority jurisdictions require
 judicial permission, proof of financial means, or notification of an existing
 wife.[5](#ref-5){: .footnote} These regulations are debated within Islamic legal frameworks because
-4:3 is conditional: **a state may restrict a permission when it concludes that
-the condition attached to it is not being met.**
+4:3 is conditional: a state may restrict a permission when it concludes that
+the condition attached to it is not being met.
 
 ## Conclusion
 
-Qur'an 4:3 **sets a limit on a previously unlimited practice**. It appears in a
+Qur'an 4:3 sets a limit on a previously unlimited practice. It appears in a
 passage concerned with protecting orphans, makes justice a condition, and directs
 a man to marry one when he fears that he cannot meet it. Later in the same
 chapter, the Qur'an states that complete justice between wives will remain
@@ -308,9 +308,9 @@ The asymmetry with polyandry remains real. The usual explanations — determinat
 lineage, the husband's exclusive financial liability, and the provision of
 households for widows and orphans — explain the legal structure without removing
 every reason for discomfort. What the evidence does not support is treating
-plural marriage as a simple concession to male appetite. **The Prophet ﷺ spent
+plural marriage as a simple concession to male appetite. The Prophet ﷺ spent
 twenty-five years married to one woman and later refused from the pulpit to allow
-his cousin and son-in-law to take a second wife over his daughter.**
+his cousin and son-in-law to take a second wife over his daughter.
 
 ---
 

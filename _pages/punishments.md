@@ -23,8 +23,8 @@ share: true
 
 Classical Islamic law prescribes amputation for theft, stoning for adultery by a
 married person, and flogging for fornication, false accusation and
-intoxication. **These penalties are severe, and they are plainly present in the
-sources. Any serious account should begin by acknowledging that.**
+intoxication. These penalties are severe, and they are plainly present in the
+sources. Any serious account should begin by acknowledging that.
 
 This article explains what the penalties are, the procedures that the classical
 sources require, and why those procedures made convictions rare in practice.
@@ -55,7 +55,7 @@ least accurate. The third is largely correct and will be addressed at the end.
 
 ## The hudud: what they are
 
-The *hudud* form a **short, closed list** — theft, brigandage, fornication,
+The *hudud* form a short, closed list — theft, brigandage, fornication,
 false accusation of fornication, and intoxication. Their penalties are fixed in
 the sources rather than left to a judge's discretion.
 
@@ -99,8 +99,8 @@ difficult to meet even when everyone involved is trying to meet them.
 
     > A judge intent on securing a conviction would not first check whether the
     > confessing man was of sound mind and then offer him three lesser
-    > explanations for what he might have done. **The procedure was designed to
-    > avoid the fixed penalty whenever a credible alternative remained**, and
+    > explanations for what he might have done. The procedure was designed to
+    > avoid the fixed penalty whenever a credible alternative remained, and
     > this account shows that principle being applied deliberately.
     {: .gloss }
 
@@ -146,14 +146,14 @@ an unusual feature in a penal code.
 Classical jurists did not regard the *hudud* as applicable without regard to
 social conditions.
 
-- As caliph, **Umar ibn al-Khattab suspended the penalty for theft
-  during the famine year** known as the *ʿam al-ramada*. His reasoning was that
+- As caliph, Umar ibn al-Khattab suspended the penalty for theft
+  during the famine year known as the *ʿam al-ramada*. His reasoning was that
   a person who steals food to survive is not the kind of thief contemplated by
   the penalty. The report appears in juristic literature rather than the
   canonical hadith collections, and jurists cite it as a precedent for
   suspending a *hadd* when its social preconditions are absent.[5](#ref-5){: .footnote}
-- The broader principle is that **a penalty for theft presupposes a society in
-  which nobody needs to steal to survive** — a society that has already met its
+- The broader principle is that a penalty for theft presupposes a society in
+  which nobody needs to steal to survive — a society that has already met its
   obligations of zakat, maintenance and public provision. Imposing the penalty
   while neglecting those obligations reverses the proper order.
 
