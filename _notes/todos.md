@@ -2,8 +2,8 @@
 
 general:
 
-- manual edits to pages. (restructure args, remove stuff, add stuff from prev commits that got removed by edits, let claude compare with prev versions or other articles and add pieces that could strengthen argument)
-- consider unbolding everything and using it extremely sparingly
+- manual edits to pages and below todos
+- find good articles discussing misconceptions online and have llm compare them and take in strengths.
 - add summary to each misonception page at the top and make it clearly separate from the intro
 
 ---
@@ -33,6 +33,7 @@ polygyny:
 
 sword:
 
+- what this page currently lacks is the WHY the conquests happened in the first place. Also right now it's very concessionary and weirdly worded
 - separation between people and rulers. people weren't touched. ruling system was moved to islamic one.
 - at least 4 cases: pre-emptive attack on impending threat, refusal/killing of message spreading peacefully, people called for help against their rules,
 
