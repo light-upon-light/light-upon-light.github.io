@@ -39,6 +39,11 @@ sword:
 - separation between people and rulers. people weren't touched. ruling system was moved to islamic one.
 - at least 4 cases: pre-emptive attack on impending threat, refusal/killing of message spreading peacefully, people called for help against their rules,
 
+wadri:
+
+- Also the verse describes a gradual recommendation for very serious marital issues where the wife is being the devil basically. so the situation you have to imagine that this verse is referring to is one of the woman already abusing the husband and being extremely toxic. this is why it's important to understand the context in which this was revealed
+- So essentially if 99 out of 100 teachings are crystal clear and tell you you are not allowed to harm anyone, or abuse anyone, and you have to treat women kindly and gently and justly, and the same with everyone else. And then 1 out of 100 is ambiguous on a first reading, and then you come to interpret that as meaning that you SHOULD abuse someone, then that's just nonsensical, and that is not a valid interpretation. The process of interpretation has to take into considerations every other established and emphasized teaching
+
 quran:
 
 - add example recitations video
