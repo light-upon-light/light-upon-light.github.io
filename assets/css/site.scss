@@ -2214,10 +2214,11 @@
 
   .glossary-key dt {
     font-weight: 700;
+    text-transform: capitalize;
   }
 
   .glossary-key dd {
-    margin: 0 0 0.5em;
+    margin: 0 0 0.2em;
     padding-inline-start: 0.9em;
   }
 
