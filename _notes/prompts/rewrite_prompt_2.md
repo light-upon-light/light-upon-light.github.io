@@ -6,14 +6,14 @@ The uploaded document is a page in an Islam apologetics website. I fear that it 
 
 Revise this page for **presentation only**. Preserve every meaning, but make the page significantly shorter, clearer, more natural, and easier to follow.
 
-Improve the writing style, word choice, sentence structure, paragraph structure, section order, headings, transitions, tone, and formatting. Remove repetition, redundant explanation, overlong quotations, unnecessary setup, and anything that slows the argument without adding meaning. Consolidate related points where useful so the page feels deliberate rather than repetitive.
+Improve the writing style, word choice, sentence structure, paragraph structure, overall argument flow and structure, section order,, headings, transitions, tone, and formatting. Remove repetition, redundant explanation, overlong quotations, unnecessary setup, and anything that slows the argument without adding meaning. Consolidate related points where useful so the page feels deliberate rather than repetitive.
 
 Do **not** fact-check, add new arguments, remove unique points, or introduce outside material. The goal is to present the existing argument as clearly, easy-to-read, concisely, and convincingly as possible.
 
-Feel free to change **how and where** a meaning is being made, but **not what** meaning is being made.
+Feel free to change **how and where** a meaning is being made, but preserve the **what** somewhere on the page.
 Overall, we want to shorten, restructure, and improve clarity, tone, paragraphing and flow while preserving meanings.
 
-Please create a plan first, show it to me, then implement it after I give you the go.
+Please create a thorough plan first for approval.
 
 ## Prompt 2 (more concise)
 
@@ -23,21 +23,44 @@ Revise this page for presentation only. Preserve every substantive claim, qualif
 
 Overall, we want to shorten, restructure, and improve clarity, tone, paragraphing and flow while preserving meanings.
 
-Please create a plan first, show it to me, then implement it after I give you the go.
+Please create a thorough plan first for approval.
 
 ## Prompt 3 (my wording)
 
 The uploaded document is a page in an Islam apologetics website. I fear that it is currently badly written and is not a pleasant, clear and convincing read. Please read the page and brainstorm the best ways to improve it. Please think about how to improve the writing style, choice of word, sentence structure, paragraph structure, whole page/argument structure, tone of voice, wording of titles, and format of the page. And importantly, make the page much shorter and more concise so it's more digestible and to remove unproductive repetition. Overall, we want to shorten, restructure, and improve clarity, tone, paragraphing and flow while preserving meanings.
 
-This exercise isn't about making the argument stronger (and definitely not weaker. you should maintain the strength of the argument and all meanings of current points), or verifying facts/sources, or adding points. This is purely an exercise to improve presentation. And you don't need to make changes just for the sake of making changes. Please identify real weaknesses in presentation and think of suggestions to improve them. Please create a plan first, show it to me, then implement it after I give you the go.
+This exercise isn't about making the argument stronger (and definitely not weaker. you should maintain the strength of the argument and all meanings of current points), or verifying facts/sources, or adding points. This is purely an exercise to improve presentation. And you don't need to make changes just for the sake of making changes. Please identify real weaknesses in presentation and think of suggestions to improve them.
+
+Please create a thorough plan first for approval.
 
 ## Follow ups
 
-Do another pass to remove **meta-framing and argumentative scaffolding**. Avoid sentences like “this is important because,” “the objection is straightforward,” “this shows,” or “that disagreement should not be concealed.” Prefer stating the claim, evidence, concession, or inference directly. Keep the prose confident, natural, and analytical rather than sounding like the author is narrating how the argument should be read.
+### Meta framing removal
 
-I will have a page dedicated to islam's treatment of women on the website, so we can have the most effective points in section 5 and then link to that page with [/women]
+Do another pass to remove unnecessary **meta-framing and argumentative scaffolding**. Cut sentences that merely narrate how the argument should be read, announce what is about to be shown, comment on the author’s argumentative choices, or tell the reader that a point is important, obvious, fair, difficult to deny, or should be acknowledged.
 
-Also, if you think there are quranic text quotations or source quotations that are slowing the reading, but still think they're relevant to include, you can include it in a details section like the below for example
+Prefer stating the claim, evidence, concession, or inference directly.
+
+However, **do not flatten substantive emphasis or useful evaluative qualifications**. Preserve phrases such as “the standard of proof is exceptionally high,” “the penalties are severe,” “the report is sound,” or similar language when they communicate a genuine part of the argument rather than merely commenting on its presentation. Concision should not come at the expense of argumentative force, nuance, emphasis, or the author’s intended characterization of the evidence.
+
+A useful test is:
+
+- Remove language about **how the reader should process the argument**.
+- Preserve language that says **what the evidence means, how strong or significant it is, or how the author characterizes the underlying fact**.
+
+For example:
+
+- Cut: “The point is difficult to miss: the procedure was not designed to secure a conviction.”
+- Prefer: “The procedure sought a credible alternative that would avoid the fixed penalty rather than simply securing a conviction.”
+- Preserve: “The standard of proof is exceptionally high: four eyewitnesses must have seen the act itself.”
+- Preserve: “The penalties are severe.”
+- Preserve: “The hadith commonly cited for the maxim is weak.”
+
+Keep the prose confident, natural, analytical, and concise, but retain evaluative wording wherever it carries substantive argumentative meaning or useful emphasis.
+
+### Quran quotations in details
+
+If you think there are quranic text quotations or source quotations that are slowing the reading, but still think they're relevant to include, you can include it in a details section like the below for example
 
 <details class="quran-more" markdown="1">
 <summary>Show another verse on this theme</summary>
@@ -47,6 +70,10 @@ Also, if you think there are quranic text quotations or source quotations that a
 > <div dir="rtl" lang="ar" class="quran-arabic">﴿أَرَءَيْتَ ٱلَّذِى يُكَذِّبُ بِٱلدِّينِ ۝١ فَذَٰلِكَ ٱلَّذِى يَدُعُّ ٱلْيَتِيمَ ۝٢ وَلَا يَحُضُّ عَلَىٰ طَعَامِ ٱلْمِسْكِينِ ۝٣﴾ <span class="ayah-ref">سُورَةُ المَاعُونِ</span></div>
 {: .quote }
 </details>
+
+### Other page reference
+
+I will have a page dedicated to islam's treatment of women on the website, so we can have the most effective points in section 5 and then link to that page with [/women]
 
 ## For bullet point pages
 
