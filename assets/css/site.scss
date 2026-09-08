@@ -1316,34 +1316,20 @@
   }
 
   /* Scoped to paragraphs and list items, not the whole .page__content block
-     -- justifying short blockquote citations (.src) produces visibly ragged
-     word-spacing on a couple of lines, and .quran-arabic already sets its
-     own text-align: right. hyphens: auto keeps the narrow phone column from
-     opening large rivers between words.
+     -- .quran-arabic already sets its own text-align: right, and short
+     blockquote citations (.src) don't want hyphenation. hyphens: auto keeps
+     both the narrow phone column and the wide desktop measure from opening
+     large rivers between words on the ragged right edge.
 
      :not(.toc *) excludes the TOC -- both the sticky/inline copy, which
      lives inside .page__content (see the font-size rule above), and the
      mobile drawer clone, which doesn't but is harmless to exclude too.
-     Justifying nav entries reads as broken, not as prose.
 
-     Justification itself is gated to $large (64em) and up. WCAG 2.2 SC
-     1.4.8 (AAA) asks that text not be justified at all, because the
-     stretched/compressed word-spacing it needs to fill each line reads
-     worse for some readers (dyslexia in particular) than ragged-right
-     does. The measure this article column runs at makes that trade-off
-     width-dependent, though: justify's rivers of whitespace are worst on
-     a *narrow* column, where there are few words per line to spread the
-     slack across -- exactly the phone-width case this rule was written
-     for in the first place (see the hyphens comment above). Below $large
-     the browser default (ragged-right) applies instead; hyphens: auto
-     stays on unconditionally, since it helps a ragged edge too. */
-  @media (min-width: 64em) {
-    .page__content p:not(.toc *),
-    .page__content li:not(.toc *) {
-      text-align: justify;
-    }
-  }
-
+     Text is left-aligned (browser default) at every width. WCAG 2.2 SC
+     1.4.8 (AAA) asks that text not be justified at all: the
+     stretched/compressed word-spacing justification needs to fill each
+     line reads worse for some readers (dyslexia in particular) than
+     ragged-right does. */
   .page__content p:not(.toc *),
   .page__content li:not(.toc *) {
     -webkit-hyphens: auto;
