@@ -28,7 +28,7 @@ Umm Umara — Nusayba bint Kaʿb — came to the Prophet ﷺ with a complaint: *
 
 Her question frames this page: what standing did Islam give women, what did it require of men, and what should be made of the texts most often cited to argue that women are lesser?
 
-Several difficult subjects have dedicated pages: [Qur'an 4:34 and striking](/wadribuhunna), [plural marriage](/polygyny), [the Prophet Muhammad's ﷺ marriage to Aisha](/aisha), [apostasy](/ridda), and [severe punishments](/punishments). The remaining objections are addressed below.
+Related pages cover [Qur'an 4:34 and striking](/wadribuhunna), [plural marriage](/polygyny), [the Prophet Muhammad's ﷺ marriage to Aisha](/aisha), [apostasy](/ridda), and [severe punishments](/punishments).
 
 <details class="quran-more" markdown="1">
 
@@ -38,15 +38,15 @@ A *hadith* [report] records something the Prophet ﷺ said or did and is transmi
 
 </details>
 
-## The objection
+## Common objections
 
-The case against Islam is usually built from the same claims: a woman's testimony counts as half a man's; she inherits half what her brother does; her husband may have additional wives while she may not have another husband; Qur'an 4:34 permits him to strike her; she must cover while he need not; and the Prophet ﷺ called women deficient in intellect and religion and said that a people led by a woman would not succeed. A further criticism argues that Muslim-majority societies are, on most measures, among the worst places in the world to be a woman.
+Common objections are that a woman's testimony counts as half a man's; she inherits half what her brother does; her husband may have additional wives while she may not have another husband; Qur'an 4:34 permits him to strike her; she must cover while he need not; and the Prophet ﷺ called women deficient in intellect and religion and said that a people led by a woman would not succeed. A further criticism argues that Muslim-majority societies are, on most measures, among the worst places in the world to be a woman.
 
-The first set concerns genuine Islamic texts and must be read and answered as such. The last concerns what Muslims do. That distinction does not excuse abuse, but it matters to what is being assessed.
+The first six objections are grounded in genuine Islamic texts; the last concerns Muslim conduct. Abuse by Muslims is distinct from what Islamic texts teach, though the distinction does not excuse it.
 
 ## What Islam changed
 
-Historical context does not excuse injustice, but it shows what the new rules altered.
+Historical prevalence did not make these practices just.
 
 - **Infant daughters were buried alive.** Qur'an 81:8–9 condemns the practice by making the murdered girl the one questioned on the Day of Judgment: for what crime was she killed? The answer is none; the question itself indicts the society that accepted her death.
 - **Widows could be inherited with a man's property.** Qur'an 4:19 prohibited inheriting women by compulsion and, in the same verse, commanded good treatment in marriage.
@@ -67,7 +67,7 @@ Historical context does not excuse injustice, but it shows what the new rules al
 
 The Qur'an presents men and women as sharing one human origin (4:1), without presenting a woman as the cause of the fall; makes righteousness rather than sex, lineage, or tribe the measure of nobility (49:13); promises the same reward for the same good deeds to men and women (16:97); and calls believing men and women each other's *awliyaʾ* [allies and protectors], using the same term for both and making them responsible for one another and for commanding what is right (9:71).
 
-Most pointedly, the passage associated with Umm Umara's complaint does not merely say that women are included. It names them category by category:
+The passage associated with Umm Umara's complaint does not simply include women; it names them category by category:
 
 > "Indeed, the Muslim men and Muslim women, the believing men and believing women, the obedient men and obedient women, the truthful men and truthful women, the patient men and patient women, the humble men and humble women, the charitable men and charitable women, the fasting men and fasting women, the men who guard their private parts and the women who do so, and the men who remember God often and the women who do so — for them God has prepared forgiveness and a great reward." (**Sūrat al-Aḥzāb 33:35**), Saheeh International
 >
@@ -108,7 +108,7 @@ The Qur'an gives women legal and financial rights, not only statements of spirit
 
 Women also receive fixed inheritance entitlements (4:7, 4:11–12) that cannot be removed by a will. Many women had previously inherited nothing.
 
-Khadija bint Khuwaylid illustrates the legal capacity these rules protected. She operated a trading business, employed the Prophet ﷺ before their marriage, initiated the marriage proposal, supported his mission, became the first person to believe him, and remained his only wife until her death.
+Khadija bint Khuwaylid exercised that legal capacity: she operated a trading business, employed the Prophet ﷺ before their marriage, initiated the marriage proposal, supported his mission, became the first person to believe him, and remained his only wife until her death.
 
 <details class="quran-more" markdown="1">
 
@@ -134,7 +134,7 @@ Khansa bint Khidham's father arranged a marriage she did not want. She took the 
 > — *Sahih al-Bukhari* 5138 and 6945; *Sunan Abi Dawud* 2101 and *Sunan an-Nasa'i* 3268, both graded *sahih*[2](#ref-2){: .footnote}
 {: .src }
 
-The ruling became a precedent. When another woman from Jaʿfar's family feared that her guardian would marry her against her will, she sent for two elders of the Ansar, who reassured her by citing Khansa's case: *"Don't be afraid — Khansa bint Khidham was given by her father in marriage against her will, and the Prophet ﷺ declared it invalid."*[3](#ref-3){: .footnote} The annulment was therefore not merely an abstract principle; another woman could invoke it as an operative right.
+The ruling became an operative precedent. When another woman from Jaʿfar's family feared that her guardian would marry her against her will, she sent for two elders of the Ansar, who reassured her by citing Khansa's case: *"Don't be afraid — Khansa bint Khidham was given by her father in marriage against her will, and the Prophet ﷺ declared it invalid."*[3](#ref-3){: .footnote}
 
 ### Leaving a marriage
 
@@ -158,9 +158,9 @@ Women could not be barred from attending the mosque. When Ibn Umar reported the 
 
 Women also requested their own teaching sessions and received them, and they continued transmitting religious knowledge for centuries. Muhammad Akram Nadwi's biographical dictionary of women hadith scholars extends to dozens of volumes and records thousands of women.[8](#ref-8){: .footnote}
 
-Aisha became a primary legal authority. She narrated a large body of hadith and corrected senior Companions often enough for al-Zarkashi to compile an entire book about her corrections.[7](#ref-7){: .footnote} Her scholarship is discussed further in [The Prophet Muhammad's ﷺ Marriage to Aisha](/aisha).
+Aisha became a primary legal authority. She narrated a large body of hadith and corrected senior Companions often enough for al-Zarkashi to compile an entire book about her corrections.[7](#ref-7){: .footnote} See [The Prophet Muhammad's ﷺ Marriage to Aisha](/aisha) for her scholarship.
 
-Khawla bint Thaʿlaba provides another example of a woman pressing a legal grievance. Her husband repudiated her through a pre-Islamic formula that left her neither fully married nor free to remarry. She continued arguing her case before the Prophet ﷺ when he had no ruling to give. The chapter revealed afterward opens by stating that God heard her argument and her appeal (58:1). The surah is named *al-Mujadila* [the woman who argues].
+Khawla bint Thaʿlaba pressed a legal grievance after her husband repudiated her through a pre-Islamic formula that left her neither fully married nor free to remarry. She continued arguing her case before the Prophet ﷺ when he had no ruling to give. The chapter revealed afterward opens by stating that God heard her argument and her appeal (58:1). The surah is named *al-Mujadila* [the woman who argues].
 
 <details class="quran-more" markdown="1">
 
@@ -193,13 +193,13 @@ The tradition likewise gives mothers exceptional priority in good treatment. Whe
 
 </details>
 
-The Farewell Sermon also contains the sentence about striking, qualified as **"a beating that is not painful."** Its wording, the Arabic term behind it, and the limits Muslim jurists placed on it are treated in [The Misreading of Qur'an 4:34](/wadribuhunna), rather than passed over here.
+The Farewell Sermon also contains the sentence about striking, qualified as **"a beating that is not painful."** Its wording, the Arabic term behind it, and the limits Muslim jurists placed on it are treated in [The Misreading of Qur'an 4:34](/wadribuhunna).
 
-## How the difficult texts are read
+## Clear and interpretive verses
 
 The Qur'an itself distinguishes *muḥkamāt* [clear verses], which it calls the foundation of the Book, from *mutashābihāt* [verses requiring interpretation], and warns against pursuing the latter in order to create discord (3:7). The first category includes clear principles such as God's oneness, the obligation of justice, and the prohibition of compulsion in religion; their basic meaning does not depend on specialist interpretation. The second requires attention to language, occasions of revelation, related texts, and reports showing how the Prophet ﷺ applied them.
 
-That method cuts both ways. A critic can isolate Qur'an 4:34 from the Prophet's ﷺ practice; a Muslim man can isolate the same verse from the restrictions jurists placed on it. In either case, a text requiring interpretation is detached from the sources used to interpret it.
+A critic can isolate Qur'an 4:34 from the Prophet's ﷺ practice, and a Muslim man can isolate the same verse from the restrictions jurists placed on it. Both detach a text requiring interpretation from the sources used to interpret it.
 
 <details class="quran-more" markdown="1">
 
@@ -216,15 +216,15 @@ That method cuts both ways. A critic can isolate Qur'an 4:34 from the Prophet's 
 
 ### Qur'an 4:34 and striking
 
-This is the verse most often cited against Islam. Its verb *ḍaraba* has many meanings in Arabic; the Prophet ﷺ never struck a woman; and jurists who understood the word physically imposed restrictions that reduced the act to something symbolic. The Farewell Sermon likewise qualifies the act as **"a beating that is not painful."** The full argument appears in [The Misreading of Qur'an 4:34](/wadribuhunna).
+This is the verse most often cited against Islam. Its verb *ḍaraba* has many meanings in Arabic; the Prophet ﷺ never struck a woman; and jurists who understood the word physically imposed restrictions that reduced the act to something symbolic. The Farewell Sermon likewise qualifies the act as **"a beating that is not painful."** See [The Misreading of Qur'an 4:34](/wadribuhunna).
 
 ### Plural marriage
 
-The rule limits an unrestricted pre-Islamic practice, appears in a passage about orphans, and makes plural marriage conditional on justice that the same chapter says cannot be fully achieved. The full discussion is at [Four Wives](/polygyny).
+The rule limits an unrestricted pre-Islamic practice, appears in a passage about orphans, and makes plural marriage conditional on justice that the same chapter says cannot be fully achieved. See [Four Wives](/polygyny).
 
 ### The marriage to Aisha
 
-This is addressed separately in [The Prophet Muhammad's ﷺ Marriage to Aisha](/aisha).
+See [The Prophet Muhammad's ﷺ Marriage to Aisha](/aisha).
 
 ### "Her testimony is half"
 
@@ -240,13 +240,13 @@ The half-share applies in specific family arrangements, most commonly when a son
 
 The rule also sits inside a financial system in which a man's share carries obligations a woman's does not. He owes *mahr* [the marriage gift], must maintain his wife and children, and may be responsible for other relatives. He has no corresponding claim to her earnings or property, and she may keep her entire inheritance.
 
-Muslim jurists have debated whether this arrangement remains fair when men no longer meet those financial duties. The narrower point here is that the ratio is presented as part of an allocation of rights and obligations, not as a measure of human worth.
+Muslim jurists have debated whether this arrangement remains fair when men no longer meet those financial duties. The ratio is presented as part of an allocation of rights and obligations, not as a measure of human worth.
 
 ### "Deficient in intellect and religion"
 
-The phrase appears in a report in which the Prophet ﷺ addresses women at the Eid prayer (*Sahih al-Bukhari* 304, 1462). The English wording is harsh, and that should not be disguised.
+The phrase appears in a report in which the Prophet ﷺ addresses women at the Eid prayer (*Sahih al-Bukhari* 304, 1462). The English wording is harsh.
 
-The report itself explains both "deficiencies" through particular legal circumstances rather than innate qualities. The "deficiency in religion" is a menstruating woman's exemption from prayer and fasting, not a moral fault. The "deficiency" in testimony refers to the documentation rule in 2:282 discussed above. The word *naqṣ* [shortfall or incompleteness] denotes a measurable deficiency, such as a debt or quantity that is incomplete, rather than an essential defect in a person's nature.
+The report itself explains both "deficiencies" through particular legal circumstances rather than innate qualities. The "deficiency in religion" is a menstruating woman's exemption from prayer and fasting, not a moral fault. The "deficiency" in testimony refers to the documentation rule in 2:282. The word *naqṣ* [shortfall or incompleteness] denotes a measurable deficiency, such as a debt or quantity that is incomplete, rather than an essential defect in a person's nature.
 
 The Prophet's ﷺ conduct also limits how broadly the statement can be read. He left Aisha as an authority on some of the community's most intimate legal questions; the Companions sought her rulings and accepted her corrections. That practice is inconsistent with treating women's minds as generally unreliable.
 
@@ -254,9 +254,7 @@ The Prophet's ﷺ conduct also limits how broadly the statement can be read. He 
 
 The Prophet ﷺ made this statement after hearing that the Persians had placed Khosrau's daughter on the throne after his death (*Jami' at-Tirmidhi* 2262, graded *sahih*). Its immediate context was a particular dynastic succession in an empire already in decline.
 
-The reading adopted on this site understands the statement as addressed to men rather than as a judgment about women: leadership is a burden for which men were made responsible before God, and a society in which they transfer that responsibility to women has failed to meet an obligation placed on them.
-
-**This is one interpretation, and it is presented as such.** Scholars have disagreed over whether the report establishes a general legal rule or comments on that particular succession, whether it applies only to supreme leadership, and how it relates to modern states. Muslim jurists have supported women serving in judicial and ministerial positions.
+One interpretation understands the statement as addressed to men rather than as a judgment about women: leadership is a burden for which men were made responsible before God, and a society in which they transfer that responsibility to women has failed to meet an obligation placed on them. Scholars have disagreed over whether the report establishes a general legal rule or comments on that particular succession, whether it applies only to supreme leadership, and how it relates to modern states. Muslim jurists have supported women serving in judicial and ministerial positions.
 
 The tradition also records the Prophet ﷺ accepting political advice from his wife Umm Salama at Hudaybiyya, the 628 truce with the Quraysh of Mecca and the worst crisis of his leadership. After the treaty, he ordered the Companions three times to slaughter their sacrifices and shave their heads, but none moved. Umm Salama advised him to go out, say nothing, and perform the rites himself. He followed her advice, and the entire camp followed him.[12](#ref-12){: .footnote} The report appears in *Sahih al-Bukhari* and describes a serious leadership crisis resolved by acting on his wife's counsel.
 
@@ -270,19 +268,19 @@ A religious dress obligation is also distinct from a rule imposed through state 
 
 ## Where the criticism does land
 
-The criticism of Muslim societies cannot be answered only by citing religious texts. The treatment of women in many Muslim societies is poor and is not improving quickly. Forced marriage, denial of legally assigned inheritance, so-called honour violence, restrictions on education, and silence about domestic abuse are real and widespread; some are defended in religious language by people who should know the relevant rulings.
+The treatment of women in many Muslim societies is poor and is not improving quickly. Forced marriage, denial of legally assigned inheritance, so-called honour violence, restrictions on education, and silence about domestic abuse are real and widespread; some are defended in religious language by people who should know the relevant rulings.
 
-Most of these practices violate the rules described above. Forced marriage was annulled; inheritance shares were fixed; *khulʿ* [wife-initiated divorce] did not require proof of fault; and a husband who broke his wife's arm was ordered to release her. *ʿUrf* [custom] is often presented as religion, especially where doing so serves those with power.
+Most of these practices violate Islamic rules. Forced marriage was annulled; inheritance shares were fixed; *khulʿ* [wife-initiated divorce] did not require proof of fault; and a husband who broke his wife's arm was ordered to release her. *ʿUrf* [custom] is often presented as religion, especially where doing so serves those with power.
 
-Islamic law also provides grounds for condemning such practices. The Prophetic maxim *la darar wa la dirar* [there should be neither harming nor reciprocating harm] became a foundational legal principle from which jurists developed remedies.[13](#ref-13){: .footnote} Harm within marriage is not merely discouraged; it is unlawful and can give a wife grounds to dissolve the marriage.
+The Prophetic maxim *la darar wa la dirar* [there should be neither harming nor reciprocating harm] became a foundational legal principle from which jurists developed remedies.[13](#ref-13){: .footnote} Harm within marriage is not merely discouraged; it is unlawful and can give a wife grounds to dissolve the marriage.
 
-The harder problem is enforcement. Legal remedies may exist while a woman bears the social cost of using them. Assessing Islam by its authoritative teachings rather than every practice carried out in its name therefore does not excuse Muslims: a community that mistreats women is violating its own religion and can be condemned from the tradition's own sources.
+Enforcement is the harder problem. Legal remedies may exist while a woman bears the social cost of using them. Muslim conduct cannot simply be equated with Islamic teaching: a community that mistreats women may be violating its own religion and can be condemned from the tradition's own sources.
 
 ## Conclusion
 
-The Prophet ﷺ said **"I was sent to perfect good character,"**[14](#ref-14){: .footnote} and made a man's treatment of his wife a measure of that character. The sources discussed here give women concrete forms of standing: independent property, a marriage gift paid to them, fixed inheritance, required consent to marriage, a precedent against forced marriage, a route out of marriage through *khulʿ* [wife-initiated divorce], protected access to the mosque, and a recognized place in religious knowledge and public argument.
+The Prophet ﷺ said **"I was sent to perfect good character,"**[14](#ref-14){: .footnote} and made a man's treatment of his wife a measure of that character. Islamic sources give women concrete forms of standing: independent property, a marriage gift paid to them, fixed inheritance, required consent to marriage, a precedent against forced marriage, a route out of marriage through *khulʿ* [wife-initiated divorce], protected access to the mosque, and a recognized place in religious knowledge and public argument.
 
-The difficult texts remain difficult; they are addressed here and on the linked pages rather than omitted. But they do not establish that Islam regards women as lesser. The page begins where the Qur'anic answer itself began: Umm Umara complained that women were not being mentioned, and Qur'an 33:35 answered by naming men and women separately across ten qualities and promising both the same reward.
+The difficult texts remain difficult, but they do not establish that Islam regards women as lesser. Umm Umara complained that women were not being mentioned; Qur'an 33:35 answered by naming men and women separately across ten qualities and promising both the same reward.
 
 ---
 
@@ -349,4 +347,4 @@ The difficult texts remain difficult; they are addressed here and on the linked 
 - Asma Sayeed, *Women and the Transmission of Religious Knowledge in Islam* (Cambridge University Press)
 - Judith Tucker, *Women, Family, and Gender in Islamic Law* (Cambridge University Press)
 - Jonathan A. C. Brown, *Misquoting Muhammad*, on the reception of the difficult reports
-- Ayesha Chaudhry, *Domestic Violence and the Islamic Tradition* (Oxford University Press) — a critical treatment that does not accept the conclusions argued here, and is worth reading for that reason
+- Ayesha Chaudhry, *Domestic Violence and the Islamic Tradition* (Oxford University Press) — a critical treatment that reaches different conclusions
