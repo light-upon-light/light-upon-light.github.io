@@ -30,7 +30,8 @@ that marks the three evidence blockquotes. Markup is `formatting_guide.md`;
 its `--site-tldr-*` values and their contrast ratios are in `_dirt.scss`.
 
 `.toc` is restyled plain at both widths — no box, no filled title bar, a muted
-uppercase label over a hairline, no per-entry dividers. The box removal is
+uppercase label over a hairline, keeping the theme's per-entry dividers. The
+box removal is
 scoped to `.page__content .toc` on purpose: the drawer
 clone's `.toc` **is** `#toc-panel`'s opaque surface. See `theme_internals.md`.
 

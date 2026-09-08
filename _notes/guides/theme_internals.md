@@ -354,21 +354,26 @@ Four things here are load-bearing:
   `beforeprint` and restores it on `afterprint`; the print CSS only drops the
   summary.
 
-Two templates, switched per page: `toc_mobile: expanded` in front matter opts
-out of collapsing (`quran.md` only — its TOC is the page's own structure
-rather than an aside to a linear argument), everything else defaults to
-collapsed. The value is written onto `<html>` as `data-toc-mobile` by
-`_includes/head/custom.html`, pre-paint alongside the theme and font-size
-bootstraps, because CSS keys off it too.
+`toc_mobile: expanded` in front matter (`quran.md` only — its TOC is the
+page's own structure rather than an aside to a linear argument) opts a page
+out of starting **closed** below `64em`, and out of nothing else. Every page
+builds the same disclosure, in the same place, after the `.tldr`, with the
+same summary; only the initial open state differs. It used to `return` before
+the wrapper was built, which left that one page with the theme's `.nav__title`
+where every other page had the summary, still sitting above its `.tldr` — two
+widgets where there should be one. The value is written onto `<html>` as
+`data-toc-mobile` by `_includes/head/custom.html`, pre-paint alongside the
+theme and font-size bootstraps, because CSS keys off it too.
 
 The summary is styled as a hairline and a muted label — the `.quran-more` /
 `.yt-embed` idiom. The desktop TOC title is now the same thing: the theme's
-solid `--mm-primary-color` bar and the 1px divider under every entry are both
-gone, at both widths, and `.toc` has no box at all inside `.page__content`.
-The filled bar was the loudest thing above the article, the dividers made an
-eight-item list read as a spreadsheet, and inside the disclosure the box's own
-top border landed a pixel below the summary's underline, so the widget opened
-showing two parallel lines.
+solid `--mm-primary-color` bar is gone at both widths, and `.toc` has no box
+at all inside `.page__content`: the filled bar was the loudest thing above the
+article, and the box's own top border landed a pixel below the summary's
+underline, so the disclosure opened showing two parallel lines. The theme's
+`border-bottom` under each entry **stays** — it was removed for a while and
+the list read as an undifferentiated column, and it was never the line that
+collided with the title's hairline.
 
 `toc_label` is defaulted to `ON THIS PAGE` in `_config.yml`'s `pages` scope
 rather than repeated in front matter; a page can still override it there. The
