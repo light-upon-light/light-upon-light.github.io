@@ -24,9 +24,10 @@ toc_levels: 2..3
 share: true
 ---
 
-Within roughly a century of the Prophet's ﷺ death in 632, armies fighting under the banner of Islam had conquered Syria, Egypt, Iraq, Persia, North Africa and Spain.
+The claim that Islam was “spread by the sword” often blurs two separate questions: whether Muslim states expanded through warfare, and whether conquered peoples were forced to become Muslim. The first is historically true in many cases; the second is much harder to sustain as a general explanation.
 
-But conquest and conversion are different historical processes. Chronicles show when territory changed hands; tax records, biographical dictionaries and census data help show when populations changed religion. Muslim rule spread rapidly. Conversion usually did not.
+Across much of the Muslim world, conversion took centuries, non-Muslim communities remained in place, and Islam also spread widely in regions that were never conquered by Muslim armies. Forced conversions did occur, but they were episodes within a much broader and more varied history.
+
 
 ## Conquest established Muslim rule, not immediate conversion
 
