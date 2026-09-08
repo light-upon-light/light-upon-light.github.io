@@ -2,7 +2,7 @@
 title: "Apostasy in Islam"
 description: "An examination of the claim that Islam prescribes death for apostasy, based on the Qur'an, the hadith, and disagreements among classical and modern Muslim scholars."
 date: 2026-08-03
-last_modified_at: 2026-09-07
+last_modified_at: 2026-09-08
 
 permalink: /ridda
 
@@ -25,13 +25,13 @@ toc_levels: 2..3
 share: true
 ---
 
-Islam is often accused of prescribing death simply for leaving the faith. But this framing overlooks the historical and legal context in which *ridda* [apostasy] was tied to political defection, rebellion, and separation from the Muslim community.
+Islam is often accused of prescribing death simply for leaving the faith. But translating *ridda* simply as "apostasy" can be misleading if that is understood as a private change of belief. In the legal and historical material below, *ridda* is repeatedly connected with political defection from the Muslim community, rebellion, or other public conduct.
 
-The Qur'an prescribes no worldly punishment for a private change of belief, while the relevant hadith, historical cases, and juristic disagreements point to a more specific offence than apostasy alone. This article examines that distinction.
+The Qur'an prescribes no worldly punishment for a private change of belief, while the relevant hadith, historical cases, and juristic disagreements point to a more specific offence than unbelief alone. This article examines that distinction.
 
 The *hudud* — severe corporal and capital punishments associated with theft, adultery and other offences — are a related but separate issue, addressed at [The Hudud Punishments in Islam](/punishments).
 
-**Terms used below:** *ridda* means apostasy. *Hiraba* means armed robbery or brigandage. A *hadith* is a transmitted report about what the Prophet ﷺ said or did. *Sahih al-Bukhari* and *Sahih Muslim* are the most rigorously screened hadith collections; reports graded *da'if* are weak and cannot establish a legal ruling by themselves.
+**Terms used below:** *ridda* is conventionally translated as apostasy, but in the material below can also involve separation from or rebellion against the community. *Hiraba* means armed robbery or brigandage. A *hadith* is a transmitted report about what the Prophet ﷺ said or did. *Sahih al-Bukhari* and *Sahih Muslim* are the most rigorously screened hadith collections; reports graded *da'if* are weak and cannot establish a legal ruling by themselves.
 
 ## The objection
 
@@ -81,6 +81,8 @@ The Qur'an also states:
 > <div dir="rtl" lang="ar" class="quran-arabic">﴿لَآ إِكْرَاهَ فِى ٱلدِّينِ﴾ <span class="ayah-ref">[سُورَةُ البَقَرَةِ: ٢٥٦]</span></div>
 {: .quote }
 
+Taken together, these verses treat belief and unbelief as matters between the individual and God. Where the Qur'an prescribes worldly penalties, it addresses outward conduct rather than a change of conviction by itself.
+
 ## What the hadith say
 
 The classical ruling rests primarily on hadith rather than an explicit Qur'anic penalty.
@@ -97,9 +99,9 @@ A second report lists three cases in which a Muslim's blood may be shed: retalia
 > — *Sahih al-Bukhari* 6878[2](#ref-2){: .footnote}
 {: .src }
 
-The Arabic is *al-tarik li-dinihi al-mufariq li'l-jamaʿa* — "the one who abandons his religion, separating from the community." In *Sahih al-Bukhari*, the offence is described as both leaving the faith and separating from the community.
+The Arabic is *al-tarik li-dinihi al-mufariq li'l-jamaʿa* — "the one who abandons his religion, separating from the community." In *Sahih al-Bukhari*, the offence is described as both leaving the faith and separating from the community. That wording matters: the report does not describe an inward change of conviction alone.
 
-The shorter report likewise concerns *zanadiqa*, with Ibn Abbas discussing how they should be executed rather than private unbelief in isolation.
+The shorter report likewise concerns *zanadiqa*, with Ibn Abbas discussing how they should be executed rather than private unbelief in isolation. The legal question is therefore not simply whether Islam punished someone for "changing their mind," but what conduct *ridda* referred to in a society where religious membership and political allegiance substantially overlapped.
 
 ## Apostasy and political defection
 
@@ -115,7 +117,7 @@ Umar objected that the tribes still professed the testimony of faith. Abu Bakr r
 > — *Sahih Muslim* 124; also *Sunan Abi Dawud* 1556[3](#ref-3){: .footnote}
 {: .src }
 
-Abu Bakr did not claim that the tribes had ceased to believe inwardly. Umar invoked the principle that a profession of faith protects life; Abu Bakr argued that withholding *zakat* was a separate breach of obligation justifying war. The dispute concerned secession and state revenue rather than private belief alone.
+Abu Bakr did not claim that the tribes had ceased to believe inwardly. Umar invoked the principle that a profession of faith protects life; Abu Bakr argued that withholding *zakat* was a separate breach of obligation justifying war. The dispute concerned collective secession and refusal of an obligation owed to the polity rather than private belief alone.
 
 ### The Urayna case
 
@@ -129,7 +131,7 @@ The Qur'anic verse associated with the incident concerns *hiraba* — armed pred
 > <div dir="rtl" lang="ar" class="quran-arabic">﴿إِنَّمَا جَزَٰٓؤُا۟ ٱلَّذِينَ يُحَارِبُونَ ٱللَّهَ وَرَسُولَهُۥ وَيَسْعَوْنَ فِى ٱلْأَرْضِ فَسَادًا أَن يُقَتَّلُوٓا۟ أَوْ يُصَلَّبُوٓا۟ أَوْ تُقَطَّعَ أَيْدِيهِمْ وَأَرْجُلُهُم مِّنْ خِلَـٰفٍ أَوْ يُنفَوْا۟ مِنَ ٱلْأَرْضِ﴾ <span class="ayah-ref">سُورَةُ المَائـِدَةِ</span></div>
 {: .quote }
 
-*Sunan Abi Dawud* 4369 states that "the verse regarding fighting against Allah and His Prophet ﷺ was then revealed" concerning these men. The incident also appears in *Sahih Muslim* and *Sahih al-Bukhari*.[4](#ref-4){: .footnote} Their punished conduct included armed predation, not apostasy alone.
+*Sunan Abi Dawud* 4369 states that "the verse regarding fighting against Allah and His Prophet ﷺ was then revealed" concerning these men. The incident also appears in *Sahih Muslim* and *Sahih al-Bukhari*.[4](#ref-4){: .footnote} Their punished conduct included murder, robbery and armed predation, not apostasy alone. Here again, the worldly penalty is attached to conduct that directly harms others and public order.
 
 ### Hudaybiyya
 
@@ -153,7 +155,10 @@ The Hanafi explanation rests on women's status as non-combatants. If unbelief it
 
 **Al-Sarakhsi**, one of the most authoritative Hanafi jurists, wrote that apostasy and unbelief are grave offences "but they are between the human being and his Lord," with their punishment belonging in the hereafter.[7](#ref-7){: .footnote}
 
+The emphasis on repentance matters. It does not by itself disprove the majority ruling, but it fits a broader distinction between disbelief as a sin before God and additional conduct that brings a person within worldly criminal jurisdiction.
+
 ### Modern continuation of the disagreement
+
 Modern scholars have developed the same line of argument.
 
 **Taha Jabir al-Alwani** argued in a book-length study that neither the Qur'an nor the Sunnah supports a capital penalty for *ridda* itself, and that the relevant reports concern rebellion against the polity.[8](#ref-8){: .footnote}
@@ -164,9 +169,17 @@ Modern scholars have developed the same line of argument.
 
 The classical majority nevertheless prescribed death, and the position remains widely held. The alternative view, however, is recorded from as early as the eighth century.
 
+## Punishment and private wrongdoing
+
+The same distinction appears more broadly in Islamic criminal law. A grave sin was not automatically something rulers were instructed to search out: the Qur'an explicitly says, "do not spy," and classical criminal procedure placed substantial limits on investigation and punishment.[11](#ref-11){: .footnote}
+
+Severe penalties were also difficult to establish. Jurists developed the maxim *idra'u al-hudud bi'l-shubuhat* — "avoid fixed punishments in cases of doubt" — and surrounded *hudud* with restrictive definitions and demanding proof.[12](#ref-12){: .footnote} The Qur'an's four-witness requirement for accusations of illicit sex is one example.[13](#ref-13){: .footnote} It is not a rule for *ridda* itself; it illustrates the broader procedural caution surrounding severe punishments.[14](#ref-14){: .footnote}
+
+The pattern is therefore not one of policing every private sin. Belief, disbelief and repentance remain matters between a person and God; worldly punishment concerns legally provable conduct that falls within the law's protection of others and the social order.
+
 ## Contemporary apostasy laws
 
-States may enforce the death penalty while excluding the disagreement that has historically accompanied it. The distinction between private unbelief and political defection, juristic disagreement, and the opportunity to repent made the classical position more contested — and often more restrained in practice — than "kill the apostate" suggests. Retaining the harshest ruling while suppressing those qualifications selects one interpretation and presents it as the only one.
+States may enforce the death penalty while excluding the disagreement and qualifications that historically accompanied it. Modern "apostasy" laws can collapse private unbelief, public religious disagreement, political defection, incitement and violent rebellion into a single category, even though the sources above do not treat all of those things as equivalent.
 
 Blasphemy and apostasy laws are also used politically against religious minorities, dissenters and personal enemies. Such cases have little connection to the *mufariq li'l-jamaʿa* — the person separating from the community — described in the hadith, and much more to do with local power.
 
@@ -176,11 +189,9 @@ Islamic sources themselves therefore provide grounds for criticising contemporar
 
 ## Conclusion
 
-The Qur'an prescribes no worldly punishment for apostasy and even describes people apostatising, returning to belief, and apostatising again. The hadith underlying the classical ruling include language about separating from the community, while historical cases of punishment involved murder, robbery or political secession.
+The Qur'an prescribes no worldly punishment for a private change of belief and even describes people apostatising, returning to belief, and apostatising again. The hadith underlying the classical ruling include language about separating from the community, while the historical cases of punishment involved additional conduct such as murder, robbery or political secession.
 
-The legal tradition also contains genuine disagreement. Hanafi reasoning connects the death penalty to combat rather than unbelief alone, early jurists such as al-Nakhaʿi and al-Thawri rejected execution, and modern scholars have continued to argue that private apostasy carries no worldly penalty.
-
-**The death penalty was the classical majority position. It was not unanimous.**
+The legal tradition also contains genuine disagreement. Hanafi reasoning connects the death penalty to combat rather than unbelief alone, early jurists such as al-Nakhaʿi and al-Thawri rejected execution, and broader criminal-law principles discouraged searching out private wrongdoing or imposing severe penalties where proof or legal applicability remained doubtful.
 
 ---
 
@@ -212,6 +223,14 @@ The legal tradition also contains genuine disagreement. Hanafi reasoning connect
 
 10. <span id="ref-10"></span>Abdullah bin Bayyah has argued that applying an apostasy penalty in the present age drives more people out of religion than it keeps in, and that *sharia* penalties generally require reassessment by qualified scholars. Reported from remarks at a public forum. [unverified]
 
+11. <span id="ref-11"></span>Qur'an 49:12 explicitly prohibits spying: "do not spy." The verse also closes by describing God as accepting repentance and merciful. On procedural limits on investigating offences in classical Islamic criminal law, see Sadiq Reza, ["Due Process in Islamic Criminal Law"](https://scholarship.law.bu.edu/faculty_scholarship/2577/), *George Washington International Law Review* 46 (2013–14).
+
+12. <span id="ref-12"></span>On the maxim *idra'u al-hudud bi'l-shubuhat* — "avoid fixed punishments in cases of doubt or ambiguity" — see Intisar A. Rabb, ["Islamic Legal Maxims as Substantive Canons of Construction: Hudud-Avoidance in Cases of Doubt"](https://doi.org/10.1163/092893809X12472107043920), *Islamic Law and Society* 17 (2010), 63–125. Rabb documents the maxim's central place in later Islamic criminal law while also showing that its Prophetic attribution is historically complicated. A version attributed to Aisha is graded *da'if*.
+
+13. <span id="ref-13"></span>Qur'an 24:4 requires four witnesses for an accusation of illicit sex and punishes an accuser who fails to produce them. This is an evidentiary rule concerning *zina* and *qadhf*, not *ridda*; it is cited here only as an example of the unusually high proof required around severe corporal punishments.
+
+14. <span id="ref-14"></span>For the broader procedural caution surrounding *hudud*, see Robert Gleave, "Public violence, state legitimacy: the *Iqamat al-hudud* and the sacred state," in Christian Lange and Maribel Fierro, eds., *Public Violence in Islamic Societies* (Edinburgh University Press, 2009), which notes restrictive offence definitions, demanding testimonial requirements and suspension of punishment in cases of doubt; and Mohammad Hashim Kamali, *Crime and Punishment in Islamic Law: A Fresh Interpretation* (Oxford University Press, 2019), chapters on procedural constraints and doubt.
+
 </div>
 
 ## Qur'an verses cited
@@ -221,9 +240,12 @@ The legal tradition also contains genuine disagreement. Hanafi reasoning connect
 - 4:137 — belief, disbelief, renewed belief and disbelief again
 - 5:33 — the penalty for *hiraba*, involved in the one lifetime case of apostates being executed
 - 16:106 — exemption for a person who denies the faith under duress
+- 24:4 — four witnesses required for an accusation of illicit sex
+- 49:12 — prohibition on spying into others' affairs
 
 ## Further reading
 
 - Taha Jabir al-Alwani, *Apostasy in Islam: A Historical and Scriptural Analysis* (International Institute of Islamic Thought)
 - Jonathan A. C. Brown, *Misquoting Muhammad*, chapter on apostasy
+- Intisar A. Rabb, *Doubt in Islamic Law: A History of Legal Maxims, Interpretation, and Islamic Criminal Law*
 - Yaqeen Institute, [*The Issue of Apostasy in Islam*](https://yaqeeninstitute.org/read/paper/the-issue-of-apostasy-in-islam)
