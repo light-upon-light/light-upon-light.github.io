@@ -29,6 +29,8 @@ toc_mobile: expanded
 share: true
 ---
 
+> This page presents evidence for the **miraculous nature** of the **Qur'an** and the **prophethood** of **Prophet Muhammad** ﷺ. Not every point is a miracle or proof on its own. Taken together, however, the points form a cumulative case for the Qur'an's divine origin and the authenticity of the Prophet's mission. — *Note: this page is a work in progress.*
+
 <details class="tldr" markdown="1">
 <summary><span class="tldr__label">TL;DR</span></summary>
 
@@ -36,8 +38,6 @@ The Qur’an and the life of Prophet Muhammad ﷺ form a cumulative case for his
 
 The man who delivered it strengthens that case. Muhammad ﷺ was known for exceptional character, integrity, mercy, courage, humility, and moral conduct; he endured persecution rather than abandon his message, lived simply even after gaining authority, and was publicly corrected by the very revelation he proclaimed. His teachings and example transformed Arabia and went on to shape the lives of billions, making him one of the most influential human beings in history. His life and historical record are difficult to explain as fraud, delusion, evil inspiration, or later legend. Taken together, the Qur’an and the Messenger point most naturally to the conclusion they themselves present: Muhammad ﷺ was a true prophet of God, and the Qur’an is revelation from Him.
 </details>
-
-> This page presents evidence for the **miraculous nature** of the **Qur'an** and the **prophethood** of **Prophet Muhammad** ﷺ. Not every point is a miracle or proof on its own. Taken together, however, the points form a cumulative case for the Qur'an's divine origin and the authenticity of the Prophet's mission. — *Note: this page is a work in progress.*
 
 ## The Book
 

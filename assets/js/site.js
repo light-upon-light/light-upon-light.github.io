@@ -207,19 +207,27 @@
        does not follow the aside: once moved, the element after it is the
        third child, so nothing matches and nothing needs unwinding. */
     var aside = toc.closest && toc.closest(".sidebar__right");
-    var tldr = document.querySelector(".page__content .tldr");
+    /* Only the <div> form is something to move the nav below: quran.md
+       authors its card as a <details> that opens collapsed and sits below
+       the intro note, so there the disclosure goes to the very top of the
+       content instead -- a one-line card is nothing to read past, and the
+       reader meets nav, note, then summary. */
+    var tldr = document.querySelector(".page__content div.tldr");
+    var content = aside && aside.parentNode;
     var asideHome = null;
-    if (aside && tldr && aside.parentNode) {
+    if (aside && content) {
       asideHome = document.createComment("toc-home");
-      aside.parentNode.insertBefore(asideHome, aside);
+      content.insertBefore(asideHome, aside);
     }
 
     function place() {
       if (!asideHome) return;
       if (isSidebarLayout.matches) {
         asideHome.parentNode.insertBefore(aside, asideHome.nextSibling);
-      } else {
+      } else if (tldr) {
         tldr.parentNode.insertBefore(aside, tldr.nextSibling);
+      } else {
+        content.insertBefore(aside, content.firstChild);
       }
     }
 
