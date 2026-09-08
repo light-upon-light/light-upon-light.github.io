@@ -2188,12 +2188,24 @@
   }
 
   .glossary-key__label {
-    margin: 0 0 0.35em;
     font-size: 0.72em;
     font-weight: 700;
     letter-spacing: 0.07em;
     text-transform: uppercase;
     color: var(--mm-muted-text-color);
+    cursor: pointer;
+  }
+
+  /* Collapsed by default: the <dl> only shows once the reader opens the
+     <details>. The list-style rule keeps the default disclosure triangle;
+     the summary carries a small marker gap and, when open, spacing above
+     the list. */
+  .glossary-key__label::-webkit-details-marker {
+    color: var(--mm-muted-text-color);
+  }
+
+  .glossary-key__box[open] .glossary-key__label {
+    margin-bottom: 0.5em;
   }
 
   .glossary-key dl {

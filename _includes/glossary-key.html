@@ -29,7 +29,7 @@
 {%- assign has_terms = false -%}
 {%- for key in page.glossary -%}{%- if site.data.glossary[key] -%}{%- assign has_terms = true -%}{%- endif -%}{%- endfor -%}
 {%- if has_terms -%}
-<div class="glossary-key" markdown="0"><p class="glossary-key__label">Key terms</p><dl>
+<div class="glossary-key" markdown="0"><details class="glossary-key__box"><summary class="glossary-key__label">Key terms</summary><dl>
 {%- for key in page.glossary -%}
 {%- assign e = site.data.glossary[key] -%}
 {%- if e -%}
@@ -37,7 +37,7 @@
 <dt>{{ e.label }}</dt><dd>{{ def }}</dd>
 {%- endif -%}
 {%- endfor -%}
-</dl><script type="application/json" id="glossary-data">[
+</dl></details><script type="application/json" id="glossary-data">[
 {%- assign first = true -%}
 {%- for key in page.glossary -%}
 {%- assign e = site.data.glossary[key] -%}
