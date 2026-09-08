@@ -16,12 +16,18 @@ toc: true
 toc_label: "On this page"
 toc_icon: "bars"
 toc_sticky: true
+glossary:
+  - hadith
+  - companions
+
 share: true
 ---
 
 [← Read the main argument](/quran#the-messenger-of-god-ﷺ) · [Browse all evidence](/messenger)
 
 A teacher’s public message can be compared with conduct observed at close range. These reports preserve Muhammad ﷺ’s household life, patience under provocation, generosity, courage, grief, loyalty, humor, and attention to people easily overlooked.
+
+{% include glossary-key.html %}
 
 ## The man who lived the teachings
 {: #the-man-who-lived-the-teachings }

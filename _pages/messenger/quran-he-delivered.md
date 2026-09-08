@@ -16,12 +16,18 @@ toc: true
 toc_label: "On this page"
 toc_icon: "bars"
 toc_sticky: true
+glossary:
+  - hadith
+  - companions
+
 share: true
 ---
 
 [← Read the main argument](/quran#the-messenger-of-god-ﷺ) · [Browse all evidence](/messenger)
 
 The Qur’an’s relationship with its messenger is itself part of the evidence. These entries cover its correction and restriction of him, the reception of revelation, the literary challenge, theological continuity, and the history of the text’s preservation.
+
+{% include glossary-key.html %}
 
 ## Bound to deliver the revelation
 {: #bound-to-deliver-the-revelation }

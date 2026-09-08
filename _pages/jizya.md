@@ -22,12 +22,22 @@ toc_icon: "bars"
 toc_sticky: true
 toc_levels: 2..3
 
+glossary:
+  - jizya
+  - dhimma
+  - zakat
+  - ghiyar
+  - hadith
+  - sahih
+
 share: true
 ---
 
 Under Muslim rule, some non-Muslim subjects paid the jizya while Muslims did not. Qur'an 9:29 tells Muslims to fight certain opponents *until they pay the jizya* and ends with a phrase commonly translated as "while they are humbled."[1](#ref-1){: .footnote} Conversion also ended the liability. The tax can therefore look like a fine for refusing Islam, or a way to make conversion financially attractive.
 
 The religious distinction was real, and the tax could create financial pressure. But liability was limited to a defined group, military service could remove it, Muslims carried different fiscal and military obligations, and the state assumed enforceable duties toward those from whom it collected the tax.
+
+{% include glossary-key.html %}
 
 ## Who paid the jizya — and what Muslims owed instead
 

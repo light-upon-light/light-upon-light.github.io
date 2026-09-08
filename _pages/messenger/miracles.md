@@ -16,12 +16,18 @@ toc: true
 toc_label: "On this page"
 toc_icon: "bars"
 toc_sticky: true
+glossary:
+  - hadith
+  - companions
+
 share: true
 ---
 
 [← Read the main argument](/quran#the-messenger-of-god-ﷺ) · [Browse all evidence](/messenger)
 
 The sources describe extraordinary events in public and private settings. These entries preserve the reports, their cited witnesses and routes, and the distinctions needed to assess them as transmitted testimony.
+
+{% include glossary-key.html %}
 
 ## What kind of evidence a miracle report provides
 {: #what-kind-of-evidence-a-miracle-report-provides }

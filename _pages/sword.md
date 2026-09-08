@@ -22,6 +22,12 @@ toc_icon: "bars"
 toc_sticky: true
 toc_levels: 2..3
 
+glossary:
+  - jizya
+  - hadith
+  - sahih
+  - daif
+
 share: true
 ---
 
@@ -30,6 +36,8 @@ The claim that Islam was “spread by the sword” often compresses three differ
 Muslim states did expand through warfare. But wars did not all begin for the same reason, and military victory did not ordinarily make the population Muslim. Across much of the Muslim world, political rule changed quickly while conversion took centuries. Non-Muslim communities remained in place, and Islam also spread widely where no Muslim army had conquered the population.
 
 Forced conversions did occur. They are identifiable episodes within a much broader history, not a sufficient explanation for how Islam became a world religion.
+
+{% include glossary-key.html %}
 
 ## Why were Muslim armies fighting?
 

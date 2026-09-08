@@ -16,12 +16,18 @@ toc: true
 toc_label: "On this page"
 toc_icon: "bars"
 toc_sticky: true
+glossary:
+  - hadith
+  - companions
+
 share: true
 ---
 
 [← Read the main argument](/quran#the-messenger-of-god-ﷺ) · [Browse all evidence](/messenger)
 
 These teachings concern people whose needs can be overlooked: the poor, orphans, debtors, neighbors, strangers, and people under another’s authority. The entries preserve the particular duties and examples behind the wider call to mercy.
+
+{% include glossary-key.html %}
 
 ## Poverty, orphans, debt, and practical care
 {: #poverty-orphans-debt-and-practical-care }

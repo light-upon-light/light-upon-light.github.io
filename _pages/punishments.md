@@ -22,6 +22,18 @@ toc_icon: "bars"
 toc_sticky: true
 toc_levels: 2..3
 
+glossary:
+  - hudud
+  - hadd
+  - tazir
+  - hiraba
+  - zina
+  - qadhf
+  - tajassus
+  - hadith
+  - sahih
+  - daif
+
 share: true
 ---
 
@@ -35,7 +47,7 @@ This helps explain the surrounding legal structure. Classical jurists required d
 
 The death penalty for apostasy is a related but separate issue, discussed at [Apostasy in Islam](/ridda).
 
-*Terms:* the *hudud* (singular *hadd*, “limit”) are a small class of offences whose penalties are fixed in the sources. *Taʿzir* is discretionary punishment set by a judge, while *hiraba* means armed robbery or brigandage. A *hadith* is a report of something the Prophet ﷺ said or did, transmitted through a named chain and assessed for reliability. *Sahih al-Bukhari* and *Sahih Muslim* are the most rigorously screened collections; reports graded *da'if* are weak and cannot establish a legal ruling on their own.
+{% include glossary-key.html %}
 
 ## Sin before God and punishment by the state are different questions
 

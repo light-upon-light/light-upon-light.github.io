@@ -1,0 +1,52 @@
+{%- comment -%}
+  Key-terms block. Usage, in a page's front matter:
+
+    glossary:
+      - ridda
+      - hudud
+      - hiraba
+
+  then, on its own line below the intro paragraphs and before the first
+  heading:
+
+    {% include glossary-key.html %}
+
+  Keys are entries in _data/glossary.yml, rendered in the order listed. The
+  block is a definition list of those terms, plus a JSON copy of the same
+  data (id/label/short/match) that assets/js/site.js reads to wrap every
+  later occurrence of a term in the prose with a hover gloss.
+
+  The <dl> is the no-JS / print fallback: it carries the full definition
+  even when the wrapper never runs. Emitted as a single block-level <div>
+  at column 0 so kramdown passes it through untouched (markdown="0"); do
+  not indent the call site under a list.
+
+  `short` is authored as inline markdown in the data file; markdownify then
+  strip the <p> wrapper so the same string works inline in <dd> and as the
+  tooltip's innerHTML.
+{%- endcomment -%}
+{%- if page.glossary -%}
+{%- assign has_terms = false -%}
+{%- for key in page.glossary -%}{%- if site.data.glossary[key] -%}{%- assign has_terms = true -%}{%- endif -%}{%- endfor -%}
+{%- if has_terms -%}
+<div class="glossary-key" markdown="0"><p class="glossary-key__label">Key terms</p><dl>
+{%- for key in page.glossary -%}
+{%- assign e = site.data.glossary[key] -%}
+{%- if e -%}
+{%- assign def = e.short | markdownify | replace: '<p>', '' | replace: '</p>', '' | strip_newlines | strip -%}
+<dt>{{ e.label }}</dt><dd>{{ def }}</dd>
+{%- endif -%}
+{%- endfor -%}
+</dl><script type="application/json" id="glossary-data">[
+{%- assign first = true -%}
+{%- for key in page.glossary -%}
+{%- assign e = site.data.glossary[key] -%}
+{%- if e -%}
+{%- unless first %},{% endunless -%}{%- assign first = false -%}
+{%- assign def = e.short | markdownify | replace: '<p>', '' | replace: '</p>', '' | strip_newlines | strip -%}
+{"id":{{ key | jsonify }},"label":{{ e.label | jsonify }},"short":{{ def | jsonify }},"match":{{ e.match | jsonify }}}
+{%- endif -%}
+{%- endfor -%}
+]</script></div>
+{%- endif -%}
+{%- endif -%}

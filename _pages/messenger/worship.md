@@ -16,12 +16,18 @@ toc: true
 toc_label: "On this page"
 toc_icon: "bars"
 toc_sticky: true
+glossary:
+  - hadith
+  - companions
+
 share: true
 ---
 
 [← Read the main argument](/quran#the-messenger-of-god-ﷺ) · [Browse all evidence](/messenger)
 
 The call to worship one God reaches into hope, repentance, hardship, intention, and everyday responsibility. These teachings show how spiritual devotion and moral conduct belong together.
+
+{% include glossary-key.html %}
 
 ## Worship and conduct
 {: #worship-and-conduct }

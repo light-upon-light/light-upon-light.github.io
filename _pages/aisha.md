@@ -22,6 +22,13 @@ toc_icon: "bars"
 toc_sticky: true
 toc_levels: 2..3
 
+glossary:
+  - hadith
+  - sahih
+  - companions
+  - rushd
+  - hadd
+
 share: true
 ---
 
@@ -37,7 +44,7 @@ Those claims can be examined against an unusually detailed historical record. Ai
 
 Nothing in this article argues that people today should marry nine-year-olds. Modern conditions are addressed directly below, including the case for minimum-age laws.
 
-**A note on sources.** A *hadith* [a transmitted report about something the Prophet said, did, or permitted] is preserved through a named chain of narrators and assessed by specialists for reliability. Sunni Muslims regard *Sahih al-Bukhari* and *Sahih Muslim* as the two most rigorously screened collections, and a report found in both carries especially high authority. The *Companions* are the generation who knew the Prophet personally and form the first link in almost every chain.
+{% include glossary-key.html %}
 
 ## The objection
 

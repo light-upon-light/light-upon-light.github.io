@@ -16,12 +16,18 @@ toc: true
 toc_label: "On this page"
 toc_icon: "bars"
 toc_sticky: true
+glossary:
+  - hadith
+  - companions
+
 share: true
 ---
 
 [← Read the main argument](/quran#the-messenger-of-god-ﷺ) · [Browse all evidence](/messenger)
 
 The call to learn includes reflection on creation, respect for expertise, and responsibility for what one claims to know. These entries also distinguish the Qur’an’s invitation to reflection from stronger claims about modern science that require separate justification.
+
+{% include glossary-key.html %}
 
 ## Knowledge, reflection, expertise, and responsible teaching
 {: #knowledge-reflection-expertise-and-responsible-teaching }
