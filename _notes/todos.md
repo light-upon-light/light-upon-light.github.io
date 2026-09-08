@@ -2,8 +2,6 @@
 
 general:
 
-- render all Allah as God, and dont keep saying that it did
-
 ---
 
 ridda:

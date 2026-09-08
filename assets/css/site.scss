@@ -838,6 +838,85 @@
     color: var(--mm-muted-text-color);
   }
 
+  /* ---- Plain TOC ------------------------------------------------------
+
+     The theme ships .toc as a card: a bordered, shadowed, rounded box, a
+     solid --mm-primary-color bar for the "On This Page" title, and a
+     1px divider under *every* entry. Three problems on this site. The
+     filled bar was the loudest thing above the article. The dividers made
+     an eight-item list read as a spreadsheet. And inside the mobile
+     disclosure the box's own top border landed a pixel below the summary's
+     underline, so the widget opened with two parallel lines.
+
+     So: no box at all, at either width. The title becomes the same muted
+     uppercase Karla eyebrow the disclosure summary already uses, with one
+     hairline under it -- the only rule in the widget. Entries are plain
+     rows; the theme's .active highlight still marks position, and with the
+     dividers gone it is the only horizontal band in the list, which is
+     what makes it readable at a glance.
+
+     #toc-panel is footer/custom.html's drawer clone of the same widget and
+     is named alongside for the same reason as the font rules above: it is
+     mounted outside .page__content, so a .page__content-scoped selector
+     would leave the drawer on the theme's card styling. Both selectors
+     carry a class more than the theme's bare `.toc`/`.nav__title`/
+     `.toc__menu a`, so specificity wins without !important. */
+  /* Box removal is INLINE-TOC ONLY. #toc-panel's `.toc` is the drawer's own
+     surface -- the theme's `background-color: var(--mm-background-color)`
+     and border on `.toc` are what make the panel opaque against the
+     backdrop, since #toc-panel itself sets no background. Stripping them
+     there left the drawer transparent over the article; caught in the
+     preview, not reasoned about. */
+  .page__content .toc {
+    background-color: transparent;
+    border: 0;
+    border-radius: 0;
+    box-shadow: none;
+  }
+
+  .page__content .toc .nav__title,
+  #toc-panel .nav__title {
+    background: transparent;
+    color: var(--site-src-text);
+    font-size: 0.8rem;
+    font-weight: bold;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    border-radius: 0;
+    border-block-end: 1px solid var(--site-src-border);
+  }
+
+  /* The inline TOC's title aligns with the article's own left edge, so it
+     drops the theme's inline padding; the drawer's keeps it, because there
+     `.toc` has no padding of its own and 0 would put the label against the
+     panel edge. */
+  .page__content .toc .nav__title {
+    padding: 0 0 0.5rem;
+  }
+
+  #toc-panel .nav__title {
+    padding: 0.75rem 0.75rem 0.5rem;
+  }
+
+  /* The theme sets the entry font at 0.6875em of .toc's 1rem, which is
+     11px -- readable only as a dense card. With the box gone the list is
+     type on the page and has to hold its own, hence the step up and the
+     looser line-height. `font-weight: normal` undoes the theme's bold on
+     top-level entries; its own deeper `li ul > li a` rule already sets
+     normal on nested ones, so this only levels the two. */
+  .page__content .toc .toc__menu,
+  #toc-panel .toc__menu {
+    font-size: 0.8125em;
+  }
+
+  .page__content .toc .toc__menu a,
+  #toc-panel .toc__menu a {
+    border-bottom: 0;
+    font-weight: normal;
+    padding-block: 0.35rem;
+    line-height: 1.4;
+  }
+
   /* ---- Mobile TOC disclosure -------------------------------------------
 
      Below $large the theme gives .sidebar__right no positioning at all --
@@ -1110,12 +1189,11 @@
     /* full content width: every evidence blockquote is indented, and
        refusing the indent is half of what says this is not one of them */
     margin-inline: 0;
-    /* Wider inline padding than block: the text was running into the left
-       and right border. The block padding stays smaller because the card's
-       last child has its own margin zeroed just below, so what you see at
-       the bottom is the padding alone rather than padding plus a stacked
-       paragraph margin. */
-    padding: 1em 1.5em;
+    /* Even on all four sides. It only reads as even because the card's
+       first and last children have their margins zeroed just below --
+       otherwise a stacked paragraph margin doubles the top and bottom and
+       the sides look tight by comparison, which is what it did before. */
+    padding: 1.5em;
     background-color: var(--site-tldr-fill);
     border: 1px solid var(--site-tldr-line);
     border-radius: 4px;
@@ -1147,10 +1225,12 @@
 
   /* The label is the card's title and has to read as one -- at 0.72em it
      was a caption. Karla and the uppercase tracking stay (this is the UI
-     face, as on .toc and the masthead nav), but at full body size with a
-     rule under it. The card's *body* prose is the reading serif like the
-     rest of the article: Karla there made the summary look like chrome
-     rather than like the page's own argument in short. */
+     face, as on .toc and the masthead nav), but at full body size. No rule
+     under it: the card already has a border, and a second horizontal line
+     a few pixels inside it was one line too many. The card's *body* prose
+     is the reading serif like the rest of the article -- Karla there made
+     the summary look like chrome rather than like the page's own argument
+     in short. */
   .page__content .tldr__label {
     display: block;
     color: var(--site-tldr-label);
@@ -1161,8 +1241,6 @@
     letter-spacing: 0.12em;
     text-transform: uppercase;
     margin-bottom: 0.7em;
-    padding-bottom: 0.4em;
-    border-block-end: 1px solid var(--site-tldr-line);
   }
 
   /* Neither stylesheet sets list-style on .page__content ul, so the marker

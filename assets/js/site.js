@@ -175,7 +175,7 @@
        time once the disclosure opens -- site.scss hides it in that one
        case. */
     summary.innerHTML =
-      '<span class="toc-disclosure__label">On this page</span>' +
+      '<span class="toc-disclosure__label">On This Page</span>' +
       '<svg viewBox="0 0 24 24" width="14" height="14" aria-hidden="true" focusable="false">' +
       '<path d="M7 10 L12 15 L17 10" fill="none" stroke="currentColor" ' +
       'stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" /></svg>';
@@ -184,12 +184,43 @@
     details.appendChild(summary);
     details.appendChild(toc);
 
+    /* Below $large the disclosure is moved to sit AFTER the TL;DR card, so
+       the article opens with its summary and the reader meets navigation
+       only once they have the gist -- above the card it was a control with
+       nothing yet to navigate. The whole <aside> moves, not just the
+       <details>: at $large `.sidebar__right` is what carries the sticky
+       sidebar positioning, so it has to go back to being .page__content's
+       first child there, and a comment node marks that spot. Both branches
+       are idempotent, which is what lets sync() call this on every
+       breakpoint change without checking where the aside currently is.
+
+       The theme's `.page__content aside+:nth-child(2) { margin-top: 0 }`
+       does not follow the aside: once moved, the element after it is the
+       third child, so nothing matches and nothing needs unwinding. */
+    var aside = toc.closest && toc.closest(".sidebar__right");
+    var tldr = document.querySelector(".page__content .tldr");
+    var asideHome = null;
+    if (aside && tldr && aside.parentNode) {
+      asideHome = document.createComment("toc-home");
+      aside.parentNode.insertBefore(asideHome, aside);
+    }
+
+    function place() {
+      if (!asideHome) return;
+      if (isSidebarLayout.matches) {
+        asideHome.parentNode.insertBefore(aside, asideHome.nextSibling);
+      } else {
+        tldr.parentNode.insertBefore(aside, tldr.nextSibling);
+      }
+    }
+
     /* Open at $large, closed below it. Kept in sync on breakpoint change so
        a rotated phone or a resized desktop window doesn't strand the panel
        shut in a layout whose sidebar has room for it. A reader's own toggle
        below $large stands until the breakpoint is actually crossed. */
     function sync() {
       details.open = isSidebarLayout.matches;
+      place();
     }
     sync();
 

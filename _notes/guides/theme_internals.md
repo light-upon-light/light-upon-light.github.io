@@ -39,12 +39,14 @@ its header comment; re-check them by hand if any value changes. Two of the
 choices are not free:
 
 - `--mm-primary-color` (`#6f5f48` dark) does two opposing jobs: it is the
-  background *behind* white text (`.nav__title`, `.btn--primary`) and the
-  default `blockquote` rule drawn *on* the page background.
+  background *behind* white text (`.btn--primary`) and the default
+  `blockquote` rule drawn *on* the page background.
   `--site-blockquote-border-default` decouples the two — see its comment in
-  `_dirt.scss` and its consumer in `_includes/head/custom.html`. `#toc-panel
-  .nav__title` and `#toc-close` need no dark rule at all because of this —
-  primary is dark in both modes, so white text still works.
+  `_dirt.scss` and its consumer in `_includes/head/custom.html`. `#toc-close`
+  needs no dark rule at all because of this — primary is dark in both modes,
+  so white text still works. `.nav__title` used to be on that list; the plain
+  TOC below took its fill away, so it is now `--site-src-text` on whatever
+  ground it sits on and varies with the palette like everything else.
 - `--mm-active-color` (the TOC scrollspy highlight) has to stay dark enough
   that `yiq-contrasted()` still picks `--mm-active-color-contrast: #fff`. The
   stock 80%-white value would paint a near-white pill on a dark page.
@@ -220,7 +222,17 @@ Width is `min(86vw, 21rem)` — the `vw` term guarantees a strip of backdrop
 survives on the left, so there is always somewhere to tap to dismiss. Running
 flush to the top and right edges means the theme's `.toc` border radius and
 `.nav__title` corner rounding both have to be zeroed, or they show as notches
-against the viewport corners.
+against the viewport corners. The plain-TOC rules in `site.scss` now zero the
+title's radius anyway; the drawer-specific rule stays because it is the one
+that says *why*, and it would still be needed if the plain restyle were
+reverted.
+
+**The drawer's opacity comes from `.toc`, not from `#toc-panel`.** The theme
+puts `background-color: var(--mm-background-color)` and a border on `.toc`;
+`#toc-panel` sets no background of its own. The plain-TOC restyle strips that
+box — and is scoped to `.page__content .toc` for exactly this reason. A
+`#toc-panel .toc` in that selector list leaves the drawer transparent over the
+article, which is how it was caught.
 
 Pages without a TOC (home, about) have no `.sidebar__right` at all. The script
 detects that, builds no panel, and sets `.no-toc`, which hides `#toc-toggle` and
@@ -303,6 +315,17 @@ paragraph: 13 rows on `/sword`, a screenful of navigation before any prose.
 `site.js` wraps it in a `<details>` so a phone shows one line, expanded again
 at `64em` where the sidebar is its own column.
 
+Below `64em` it also **moves the whole `<aside>` to sit after the `.tldr`
+card**, so the article opens with its summary and offers navigation only once
+the reader has the gist. The aside moves, not just the `<details>`: at `64em`
+`.sidebar__right` is what carries the sticky sidebar positioning, so it has to
+go back to being `.page__content`'s first child there, and a comment node
+marks that spot. Both branches are idempotent, so `sync()` can call the
+placement on every breakpoint change without inspecting the current DOM. A
+page with no `.tldr` never gets the marker and never moves. The theme's
+`.page__content aside+:nth-child(2) { margin-top: 0 }` does not follow the
+aside — once moved, the element after it is the third child.
+
 Four things here are load-bearing:
 
 - **The wrapper goes OUTSIDE `.toc`.** The drawer clone copies
@@ -339,9 +362,13 @@ collapsed. The value is written onto `<html>` as `data-toc-mobile` by
 bootstraps, because CSS keys off it too.
 
 The summary is styled as a hairline and a muted label — the `.quran-more` /
-`.yt-embed` idiom — not as the desktop TOC title's solid fill: it sits
-directly above the article's `.tldr`, and a full-width filled bar made the
-navigation the loudest thing on the screen.
+`.yt-embed` idiom. The desktop TOC title is now the same thing: the theme's
+solid `--mm-primary-color` bar and the 1px divider under every entry are both
+gone, at both widths, and `.toc` has no box at all inside `.page__content`.
+The filled bar was the loudest thing above the article, the dividers made an
+eight-item list read as a spreadsheet, and inside the disclosure the box's own
+top border landed a pixel below the summary's underline, so the widget opened
+showing two parallel lines.
 
 ## Scrollspy and nav-link overflow (P1-5)
 

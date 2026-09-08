@@ -17,7 +17,7 @@ header:
 layout: single
 
 toc: true
-toc_label: "On this page"
+toc_label: "On This Page"
 toc_icon: "bars"
 toc_sticky: true
 
