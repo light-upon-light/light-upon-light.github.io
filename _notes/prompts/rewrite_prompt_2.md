@@ -6,9 +6,11 @@ The uploaded document is a page in an Islam apologetics website. I fear that it 
 
 Revise this page for **presentation only**. Preserve every meaning, but make the page significantly shorter, clearer, more natural, and easier to follow.
 
-Improve the writing style, word choice, sentence structure, paragraph structure, overall argument flow and structure, section order,, headings, transitions, tone, and formatting. Remove repetition, redundant explanation, overlong quotations, unnecessary setup, and anything that slows the argument without adding meaning. Consolidate related points where useful so the page feels deliberate rather than repetitive.
+Improve the writing style, word choice, sentence structure, paragraph structure, overall argument flow and structure, section order, headings, transitions, tone, and formatting. Remove repetition, redundant explanation, overlong quotations, unnecessary setup, and anything that slows the argument without adding meaning. Consolidate related points where useful so the page feels deliberate rather than repetitive.
 
 Do **not** fact-check, add new arguments, remove unique points, or introduce outside material. The goal is to present the existing argument as clearly, easy-to-read, concisely, and convincingly as possible.
+
+Also do **not** cut or shorten Quran quotations.
 
 Feel free to change **how and where** a meaning is being made, but preserve the **what** somewhere on the page.
 Overall, we want to shorten, restructure, and improve clarity, tone, paragraphing and flow while preserving meanings.
@@ -141,7 +143,7 @@ Please write a markdown file essay of around 1000 words demonstrating the authen
 The writing style should be: coherent, good flow of argument, clear, concise, direct, pleasant to read, easy to understand, and convincing.
 </task>
 
-### Follow ups
+### Follow ups 2
 
 #### Rewrite
 
@@ -153,7 +155,13 @@ Please create a plan first, show it to me, then implement it after I give you th
 
 ## Adding points from notes to page
 
-The uploaded document is a page in an Islam apologetics website about quran 4:34 and the misconception of allowing domestic abuse. Below are some very rough notes of ideas that I think are useful to have on the page. Please think about how to include them on the page in a coherent, clear, concise, flowing, easy to understand, effective and convincing manner. Given that these are rough notes, you don't need to take any words verbatim; please synthesize the meanings, and make a thorough plan on how to integrate them first for approval
+The uploaded document is a page in an Islam apologetics website. Below are some very rough notes of ideas that I think are useful to have on the page. Please think about how to include them on the page in a coherent, clear, **concise**, flowing, easy to understand, effective and convincing manner. Given that these are rough notes, you don't need to take any words verbatim, please synthesize the intended meanings. Please also follow the writing style of the page Make a thorough plan on how to integrate them first for approval.
 
 """
 """
+
+### Follow ups 3
+
+These additions do not feel concise. Its also not pleasant to read. Please rewrite it concisely, coherently, clearly and easy to read and understand, and give it back
+
+The following section is from a page in an Islam apologetics website. I fear that it is currently badly written and is not a pleasant, clear and convincing read. Please rewrite it concisely, coherently, clearly and easy to read and understand, and give it back.
