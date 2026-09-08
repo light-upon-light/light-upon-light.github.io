@@ -1,0 +1,31 @@
+{%- comment -%}
+  Shadows minimal-mistakes 4.28.0's _includes/page__date.html (a local
+  _includes/ file of the same name wins over the remote theme's), so the
+  footer meta line picked up by _layouts/single.html changes without a local
+  fork of that layout -- same mechanism as breadcrumbs.html.
+
+  The theme prints exactly one date under one label: `last_modified_at` if
+  set, otherwise `date`, both labelled "Updated:". This repo's front matter
+  has always meant `date` as the publish date (see any page in _pages/), so
+  every page was announcing its publish date as an update. This file labels
+  the two separately and shows both when they differ.
+
+  Labels are literals rather than site.data.ui-text: the theme's date_label
+  is a single string, and a local _data/ui-text.yml would replace the
+  theme's whole file rather than merge one key into it.
+
+  Microformat classes follow the label -- dt-published on the publish date,
+  dt-updated on the modified date. The itemprop metas in single.html and the
+  article:published_time/modified_time in the theme's seo.html already read
+  the right front-matter keys and are untouched.
+{%- endcomment -%}
+{% assign locale = include.locale | default: site.locale %}
+{% assign date_format = site.date_format | default: "%B %-d, %Y" %}
+{% assign published_on = page.date | date: "%Y-%m-%d" %}
+{% assign updated_on = page.last_modified_at | date: "%Y-%m-%d" %}
+{% if page.date or page.last_modified_at %}
+  <p class="page__date"><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i>
+    {%- if page.date %} <strong>Published:</strong> <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: date_format }}</time>{% endif %}
+    {%- if page.last_modified_at and updated_on != published_on %}{% if page.date %} &middot;{% endif %} <strong>Updated:</strong> <time class="dt-updated" datetime="{{ updated_on }}">{{ page.last_modified_at | date: date_format }}</time>{% endif %}
+  </p>
+{% endif %}
