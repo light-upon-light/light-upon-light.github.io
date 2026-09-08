@@ -41,20 +41,27 @@ Do another pass to remove unnecessary **meta-framing and argumentative scaffoldi
 
 Prefer stating the claim, evidence, concession, or inference directly.
 
-However, **do not flatten substantive emphasis or useful evaluative qualifications**. Preserve phrases such as “the standard of proof is exceptionally high,” “the penalties are severe,” “the report is sound,” or similar language when they communicate a genuine part of the argument rather than merely commenting on its presentation. Concision should not come at the expense of argumentative force, nuance, emphasis, or the author’s intended characterization of the evidence.
+However, **do not flatten substantive emphasis or useful evaluative qualifications**. Preserve wording that communicates a genuine part of the argument, including judgments about the strength, severity, significance, reliability, difficulty, scale, or practical effect of the evidence or underlying facts. Concision should not come at the expense of argumentative force, nuance, emphasis, or the author’s intended characterization of the evidence.
 
 A useful test is:
 
-- Remove language about **how the reader should process the argument**.
-- Preserve language that says **what the evidence means, how strong or significant it is, or how the author characterizes the underlying fact**.
+* Remove language about **how the reader should process the argument**.
+* Preserve language that says **what the evidence means, how strong or significant it is, or how the author characterizes the underlying fact**.
 
 For example:
 
-- Cut: “The point is difficult to miss: the procedure was not designed to secure a conviction.”
-- Prefer: “The procedure sought a credible alternative that would avoid the fixed penalty rather than simply securing a conviction.”
-- Preserve: “The standard of proof is exceptionally high: four eyewitnesses must have seen the act itself.”
-- Preserve: “The penalties are severe.”
-- Preserve: “The hadith commonly cited for the maxim is weak.”
+* Cut: “This is an important point because it changes how the evidence should be understood.”
+* Prefer: “The evidence changes the interpretation substantially.”
+* Cut: “It is worth emphasizing that the requirement is unusually demanding.”
+* Preserve: “The requirement is unusually demanding.”
+* Cut: “The weakness of this source should be acknowledged.”
+* Preserve: “The source is weak.”
+* Cut: “The point is difficult to miss: the policy had serious consequences.”
+* Prefer: “The policy had serious consequences.”
+* Preserve: “The standard of proof is exceptionally high.”
+* Preserve: “The penalties are severe.”
+* Preserve: “The evidence is limited.”
+* Preserve: “The distinction is significant.”
 
 Keep the prose confident, natural, analytical, and concise, but retain evaluative wording wherever it carries substantive argumentative meaning or useful emphasis.
 
