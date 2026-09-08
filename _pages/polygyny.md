@@ -35,6 +35,15 @@ glossary:
 share: true
 ---
 
+<div class="tldr" markdown="1">
+<span class="tldr__label">TL;DR</span>
+
+- Placeholder: replace these bullets with the page’s summary.
+- Placeholder: one point per bullet.
+- Placeholder: one point per bullet.
+- Placeholder: one point per bullet.
+</div>
+
 Islam permits a man to have up to four wives at one time, while a woman may have only one husband. The asymmetry is real. But it does not follow that Islam values men more, or that polygyny exists simply to satisfy male desire. One wife is the normal arrangement; polygyny is a limited permission that can meet particular family and social needs, and every additional wife brings additional legal obligations.
 
 Qur'an 4:3 places that permission in a passage about protecting orphans, limits an existing practice, makes justice a condition, and tells a man to marry one if he fears he cannot meet it.

@@ -24,6 +24,11 @@ truncation gotcha that a naive port misses) and a small nav-link-overflow
 stand-in for GreedyNav; ordering *within* `site.js` is what's load-bearing
 now, not `footer_scripts` order — see the header comment in `site.js`.
 
+`.tldr` is the summary card at the top of every article — a full-width
+bordered panel in the parchment family, deliberately refusing the left rule
+that marks the three evidence blockquotes. Markup is `formatting_guide.md`;
+its `--site-tldr-*` values and their contrast ratios are in `_dirt.scss`.
+
 Arabic uses `.quran-arabic`, citation labels `.ayah-ref`. Amiri is loaded from
 Google Fonts so the ayah marker encloses its digits regardless of what the
 reader has installed. The theme sets `blockquote { font-style: italic }`, and

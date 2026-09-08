@@ -838,6 +838,105 @@
     color: var(--mm-muted-text-color);
   }
 
+  /* ---- Mobile TOC disclosure -------------------------------------------
+
+     Below $large the theme gives .sidebar__right no positioning at all --
+     only `margin-bottom: 1em` -- so the TOC is an in-flow block between the
+     title and the first paragraph, a screenful of navigation before any
+     prose. site.js wraps it in a <details>; these rules make that one line
+     on a phone and invisible on the desktop sidebar. See the mobile TOC
+     disclosure block there for why the wrapper is built in JS and why the
+     class below is set before any DOM work.
+
+     Pre-paint: without this the full TOC paints and then collapses when
+     site.js runs, jumping every line below it. `html.js` (set in the
+     shadowed _includes/head.html, before first paint) keeps the rule away
+     from a reader with no JavaScript, who never gets the wrapper and must
+     keep the expanded TOC -- #floating-nav and its drawer only appear after
+     a full viewport of scroll, so a hidden inline TOC would leave the top
+     of the page with no TOC reachable at all. `:not(.toc-ready)` releases
+     it the moment site.js starts. */
+  @media (max-width: 63.9375em) {
+    html.js:not(.toc-ready)[data-toc-mobile="collapsed"] .sidebar__right .toc {
+      display: none;
+    }
+  }
+
+  /* A hairline and a muted label rather than the desktop TOC title's solid
+     fill: this sits directly above the article's TL;DR, and a full-width
+     filled bar made the navigation the loudest thing on a phone screen.
+     Same taupe/sepia pair and the same recessive intent as .quran-more and
+     .yt-embed, which are the site's other disclosure widgets. */
+  .toc-disclosure > summary {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 0.5em;
+    cursor: pointer;
+    padding-block: 0.5rem;
+    color: var(--site-src-text);
+    border-block-end: 1px solid var(--site-src-border);
+    font-family: "Karla", -apple-system, BlinkMacSystemFont, "Roboto",
+                 "Segoe UI", Arial, sans-serif;
+    font-size: 0.8rem;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    list-style: none;
+  }
+
+  .toc-disclosure > summary::-webkit-details-marker {
+    display: none;
+  }
+
+
+  .toc-disclosure > summary svg {
+    flex: none;
+    transition: transform 0.2s ease;
+  }
+
+  .toc-disclosure[open] > summary svg {
+    transform: rotate(180deg);
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    .toc-disclosure > summary svg {
+      transition: none;
+    }
+  }
+
+  /* The summary carries the label on mobile, and .toc's own `.nav__title`
+     ("On this page", the theme's <header> inside .toc) would repeat it the
+     moment the panel opened. Hidden only where the summary is actually
+     visible -- at $large the summary is gone and the title is the widget's
+     only label, so it has to come back. */
+  @media (max-width: 63.9375em) {
+    .toc-disclosure .toc > header {
+      display: none;
+    }
+  }
+
+  /* At $large the sidebar is its own column and costs the article nothing,
+     so the disclosure is always open and its summary has no job. `details`
+     is display:block by default, which is what .toc expects to sit in, so
+     nothing else needs unwinding. */
+  @media (min-width: 64em) {
+    .toc-disclosure > summary {
+      display: none;
+    }
+  }
+
+  /* Print gets the whole TOC, and a printed page has no way to open a shut
+     panel. The panel itself is opened by site.js on `beforeprint` -- a
+     closed <details> hides its content through the UA's own
+     ::details-content / content-visibility machinery, which a `display`
+     override here would not reliably reach. All this rule does is drop the
+     summary, which has no job once the content below it is showing. */
+  @media print {
+    .toc-disclosure > summary {
+      display: none;
+    }
+  }
+
   /* One class plus one type beats the theme's bare `h1,h2,...{ margin:
      2em 0 0.5em }` (each member (0,0,1)), but that isn't the rule this
      needs !important for: the theme also has `.page__content :first-child,
@@ -965,6 +1064,101 @@
   blockquote.gloss > p:last-child {
     margin-bottom: 0;
   }
+
+  /* ---- TL;DR block ---------------------------------------------------
+
+     A short, scannable summary at the top of an article, above the intro.
+     Authored in the page body as
+
+       <div class="tldr" markdown="1">
+       <span class="tldr__label">TL;DR</span>
+
+       - ...
+       </div>
+
+     -- the same "plain markdown plus a class" pattern as .quote/.src/.gloss,
+     so MD033's allowed elements (div, span) already cover it.
+
+     It must NOT read as a fourth evidence type. Those three are a semantic
+     LEFT-RULE system, so this refuses the left rule and the indent both and
+     takes the full content width instead: a different layer of the page, not
+     another kind of quotation. The card form does that separating work; the
+     parchment colour only has to avoid colliding with gold/taupe/verdigris,
+     which is why it reuses the skin's own cream family rather than
+     introducing a fourth hue. Palette and contrast ratios are in _dirt.scss.
+
+     Deliberately NOT a markdown heading: the misconception pages set
+     `toc_levels: 2..3` and quran.md sets none, so an `## TL;DR` would enter
+     some pages' TOCs and not others. A labelled <span> keeps every page's
+     TOC behaving identically. */
+
+  /* The !important is for the same rule .page__content blockquote above
+     needs one for: `.page__content :first-child, .page__content
+     aside+:nth-child(2) { margin-top: 0em }`. The .tldr block is exactly
+     that second child on every page -- the TOC aside is always the first --
+     and that selector is (0,2,1), since :nth-child() weighs as a class on
+     top of the .page__content class and the aside type. This selector's
+     (0,2,0) loses to it outright, so source order cannot save it and only
+     !important can. Measured, not reasoned: getComputedStyle read back
+     marginTop: 0px without it. */
+  .page__content .tldr {
+    margin-block: 1.6em !important;
+    /* full content width: every evidence blockquote is indented, and
+       refusing the indent is half of what says this is not one of them */
+    margin-inline: 0;
+    padding: 0.9em 1em;
+    background-color: var(--site-tldr-fill);
+    border: 1px solid var(--site-tldr-line);
+    border-radius: 4px;
+    /* the UI face, like .toc and the masthead nav -- the other places on
+       this site that say "not the article itself" */
+    font-family: "Karla", -apple-system, BlinkMacSystemFont, "Roboto",
+                 "Segoe UI", Arial, sans-serif;
+  }
+
+  .page__content .tldr__label {
+    display: block;
+    color: var(--site-tldr-label);
+    font-size: 0.72em;
+    font-weight: bold;
+    letter-spacing: 0.09em;
+    text-transform: uppercase;
+    margin-bottom: 0.5em;
+  }
+
+  /* Neither stylesheet sets list-style on .page__content ul, so the marker
+     is the UA disc at full text colour -- too heavy inside a quiet card.
+     A pseudo-element bullet at 45% recedes with whatever colour the text
+     around it is painted in, in either palette. */
+  .page__content .tldr ul {
+    margin: 0;
+    padding-inline-start: 1.1em;
+    list-style-type: none;
+  }
+
+  .page__content .tldr li {
+    position: relative;
+    margin-block: 0.4em;
+    line-height: 1.45;
+  }
+
+  .page__content .tldr li::before {
+    content: "";
+    position: absolute;
+    inset-inline-start: -1.1em;
+    top: 0.55em;
+    width: 0.3em;
+    height: 0.3em;
+    border-radius: 50%;
+    background-color: currentColor;
+    opacity: 0.45;
+  }
+
+  /* The card's own padding-block already sets the gap above and below the
+     list; without these the first and last items' margins stack on top of
+     it, the same doubling .gloss corrects just above. */
+  .page__content .tldr li:first-child { margin-top: 0; }
+  .page__content .tldr li:last-child { margin-bottom: 0; }
 
   /* Collapsible YouTube reference (_includes/yt-embed.html). Same taupe/
      sepia palette as .src above, since a linked video is the same kind of

@@ -112,6 +112,110 @@
   })();
 
 /* --------------------------------------------------------------------------
+   Mobile TOC disclosure
+   -------------------------------------------------------------------------- */
+
+  /* Below $large the theme's `.sidebar__right` gets no positioning at all --
+     only `margin-bottom: 1em` -- so the TOC is a plain in-flow block sitting
+     between the title and the first paragraph. On a long article that is a
+     screenful of navigation before any prose (13 rows on /sword), which is
+     what pushed the page's TL;DR below the fold. This wraps the whole TOC in
+     a <details> so mobile shows one line instead, expanded again at $large
+     where the sidebar is a separate column and costs the article nothing.
+
+     Three constraints shape this:
+
+     - **Wrap OUTSIDE `.toc`, never inside it.** The drawer clone further
+       down copies `sourceToc.className` and `sourceToc.innerHTML` verbatim;
+       a <details> added within `.toc` would be cloned into the drawer, where
+       a collapsed TOC is exactly wrong.
+     - **The open state is viewport-dependent, so it cannot be markup.** The
+       wrapper is built here rather than by shadowing the theme's
+       `_includes/toc.html`, which could emit a <details> but not decide its
+       open state per breakpoint. Without JS no wrapper is built at all and
+       the reader gets the fully expanded TOC -- today's behaviour, which is
+       the right thing to degrade to.
+     - **`html.toc-ready` gates a pre-paint rule.** site.scss hides the TOC
+       menu on mobile from first paint (see the `:not(.toc-ready)` rule
+       there), so the reader never sees the full list paint and then
+       collapse. That rule is what makes a failure here dangerous: it would
+       leave the TOC hidden with no way to reach one, since #floating-nav
+       (and the drawer) only appear after a full viewport of scroll. So the
+       class is set FIRST, before any DOM work that could throw, and this
+       block is deliberately independent of the floating-nav IIFE below --
+       which returns early when #floating-nav is absent. */
+  (function () {
+    var root = document.documentElement;
+
+    /* Unconditionally, and before anything else: a page that never reaches
+       the wrapper below must still show its TOC. */
+    root.classList.add("toc-ready");
+
+    var toc = document.querySelector(".sidebar__right .toc");
+    if (!toc || !toc.querySelector(".toc__menu")) return;
+
+    /* Two templates, switched per page. `toc_mobile: expanded` in front
+       matter opts a page out of collapsing (quran.md, whose TOC is the
+       page's own structure rather than an aside to it); everything else
+       defaults to collapsed. The attribute is written pre-paint by
+       _includes/head/custom.html, alongside the theme and font-size
+       bootstraps, so the CSS rule can key off it too. */
+    var collapses = root.getAttribute("data-toc-mobile") !== "expanded";
+    if (!collapses) return;
+
+    var isSidebarLayout = window.matchMedia("(min-width: 64em)");
+
+    var details = document.createElement("details");
+    details.className = "toc-disclosure";
+
+    var summary = document.createElement("summary");
+    summary.className = "toc-disclosure__summary";
+    /* Labelled here rather than reusing the theme's own `.nav__title`
+       ("On this page"), which sits INSIDE .toc and so would show a second
+       time once the disclosure opens -- site.scss hides it in that one
+       case. */
+    summary.innerHTML =
+      '<span class="toc-disclosure__label">On this page</span>' +
+      '<svg viewBox="0 0 24 24" width="14" height="14" aria-hidden="true" focusable="false">' +
+      '<path d="M7 10 L12 15 L17 10" fill="none" stroke="currentColor" ' +
+      'stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" /></svg>';
+
+    toc.parentNode.insertBefore(details, toc);
+    details.appendChild(summary);
+    details.appendChild(toc);
+
+    /* Open at $large, closed below it. Kept in sync on breakpoint change so
+       a rotated phone or a resized desktop window doesn't strand the panel
+       shut in a layout whose sidebar has room for it. A reader's own toggle
+       below $large stands until the breakpoint is actually crossed. */
+    function sync() {
+      details.open = isSidebarLayout.matches;
+    }
+    sync();
+
+    if (isSidebarLayout.addEventListener) {
+      isSidebarLayout.addEventListener("change", sync);
+    } else if (isSidebarLayout.addListener) {
+      isSidebarLayout.addListener(sync); // Safari < 14
+    }
+
+    /* A closed <details> hides its content through the UA's own
+       ::details-content / content-visibility machinery, which a print
+       stylesheet cannot reliably override -- so the panel is opened here
+       instead and restored afterwards. site.scss drops the summary in
+       print; this is the other half of that. */
+    window.addEventListener("beforeprint", function () {
+      details.dataset.wasOpen = details.open ? "1" : "0";
+      details.open = true;
+    });
+
+    window.addEventListener("afterprint", function () {
+      details.open = details.dataset.wasOpen === "1";
+      delete details.dataset.wasOpen;
+    });
+  })();
+
+/* --------------------------------------------------------------------------
    Floating navigation / TOC drawer (from _includes/footer/custom.html)
    -------------------------------------------------------------------------- */
 

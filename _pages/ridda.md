@@ -35,6 +35,15 @@ glossary:
 share: true
 ---
 
+<div class="tldr" markdown="1">
+<span class="tldr__label">TL;DR</span>
+
+- Placeholder: replace these bullets with the page’s summary.
+- Placeholder: one point per bullet.
+- Placeholder: one point per bullet.
+- Placeholder: one point per bullet.
+</div>
+
 Islam is often accused of prescribing death simply for leaving the faith. But translating *ridda* simply as "apostasy" can be misleading if that is understood as a private change of belief. In the legal and historical material below, *ridda* is repeatedly connected with political defection from the Muslim community, rebellion, or other public conduct.
 
 The Qur'an prescribes no worldly punishment for a private change of belief, while the relevant hadith, historical cases, and juristic disagreements point to a more specific offence than unbelief alone. This article examines that distinction.

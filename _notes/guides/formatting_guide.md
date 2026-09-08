@@ -21,6 +21,31 @@ its comment in `_dirt.scss`).
 The `--site-*` properties behind those colours are defined in
 `_sass/minimal-mistakes/skins/_dirt.scss` — see `styling.md`.
 
+## The TL;DR block
+
+Every article page opens with one, above the intro paragraphs:
+
+```markdown
+<div class="tldr" markdown="1">
+<span class="tldr__label">TL;DR</span>
+
+- ...
+</div>
+```
+
+Deliberately **not** a markdown heading: `toc_levels: 2..3` on the
+misconception pages and no `toc_levels` on `quran.md` mean an `## TL;DR`
+would enter some TOCs and not others. The `<span>` keeps every page's TOC
+identical.
+
+It is not a fourth evidence type. `.quote`/`.src`/`.gloss` are a semantic
+*left-rule* system; the TL;DR is a full-content-width card with a border, no
+left rule and no indent — a different layer of the page, not another kind of
+quotation. Its parchment colours reuse the skin's existing cream family
+rather than adding a hue; palette and contrast ratios are in `_dirt.scss`.
+
+Every page currently carries placeholder bullets.
+
 ## Source citations
 
 Inline citations are plain markdown links with a kramdown inline attribute
