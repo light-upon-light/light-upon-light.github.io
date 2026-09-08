@@ -37,7 +37,7 @@ Please create a thorough plan first for approval.
 
 ### Meta framing removal
 
-Do another pass to remove unnecessary **meta-framing and argumentative scaffolding**. Cut sentences that merely narrate how the argument should be read, announce what is about to be shown, comment on the author’s argumentative choices, or tell the reader that a point is important, obvious, fair, difficult to deny, or should be acknowledged.
+Do another pass to remove unnecessary **meta-framing** and excessive argumentative scaffolding. Cut sentences that merely narrate how the argument should be read, announce what is about to be shown, comment on the author’s argumentative choices, or tell the reader what they should think.
 
 Prefer stating the claim, evidence, concession, or inference directly.
 
@@ -136,6 +136,7 @@ Revise this page for presentation. Preserve the meanings, but make the page clea
 Please create a plan first, show it to me, then implement it after I give you the go.
 
 ## Adding points from notes to page
+
 The uploaded document is a page in an Islam apologetics website about quran 4:34 and the misconception of allowing domestic abuse. Below are some very rough notes of ideas that I think are useful to have on the page. Please think about how to include them on the page in a coherent, clear, concise, flowing, easy to understand, effective and convincing manner. Given that these are rough notes, you don't need to take any words verbatim; please synthesize the meanings, and make a thorough plan on how to integrate them first for approval
 
 """

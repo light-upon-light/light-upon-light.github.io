@@ -2,7 +2,7 @@
 
 general:
 
-- change all "where the criticism lands" titles to something better
+- change all "where the criticism lands" titles to something better, maybe "where the criticism is justified". Additionaly in those sections, clearly address that many / most of muslims nowadays are bad representations of the faith's teachings and that they are acting out of their own sick desires and not in accordance to the faith, while in many cases unfortunately abuse the religion to justify their own sick desires.
 - go over each misconception, write the points you would say to someone in a convo. build up argument from there. maybe in the tldr esp.
 - manual edits to pages and below todos
 - find good articles discussing misconceptions online and have llm compare them and take in strengths.
@@ -43,9 +43,6 @@ sword:
 - at least 4 cases: pre-emptive attack on impending threat, refusal/killing of message spreading peacefully, people called for help against their rules,
 
 wadri:
-
-- clarify what nushooz actually is: Also the verse describes a gradual recommendation for very serious marital issues where the wife is being extremely arrogant to wild degree and the devil basically. so the situation you have to imagine that this verse is referring to is one of the woman already abusing the husband and being extremely toxic. this is why it's important to understand the context in which this was revealed
-- So essentially if 99 out of 100 teachings are crystal clear and tell you you are not allowed to harm anyone, or abuse anyone, and you have to treat women kindly and gently and justly, and the same with everyone else. And then 1 out of 100 is ambiguous on a first reading, and then you come to interpret that as meaning that you SHOULD abuse someone, then that's just nonsensical, and that is not a valid interpretation. The process of interpretation has to take into considerations every other established and emphasized teaching
 
 quran:
 
