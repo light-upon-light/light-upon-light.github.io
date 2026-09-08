@@ -134,3 +134,9 @@ The uploaded document is a page in an Islam apologetics website. I fear that it 
 Revise this page for presentation. Preserve the meanings, but make the page clearer, more natural, and easier to follow. Improve the writing style, word choice, sentence structure, paragraph structure, section order, headings, transitions, tone, and formatting. Please keep it a similar length.
 
 Please create a plan first, show it to me, then implement it after I give you the go.
+
+## Adding points from notes to page
+The uploaded document is a page in an Islam apologetics website about quran 4:34 and the misconception of allowing domestic abuse. Below are some very rough notes of ideas that I think are useful to have on the page. Please think about how to include them on the page in a coherent, clear, concise, flowing, easy to understand, effective and convincing manner. Given that these are rough notes, you don't need to take any words verbatim; please synthesize the meanings, and make a thorough plan on how to integrate them first for approval
+
+"""
+"""

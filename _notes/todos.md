@@ -30,8 +30,11 @@ ridda:
 
 polygyny:
 
-- solution to maintain societal order, not male desire centric.
-- definitely based on the fundamental differences in nature between the divine concepts of the masculine and the feminine.
+- one wife is the default, recognized by scholars
+- remedy to a societal problem, not male desire centric
+- definitely based on the fundamental differences in nature between the masculine and the feminine, and their different roles which come as a consequence.
+
+- although male nature lends itself to it, and females in general would not even want multiple husbands.
 
 sword:
 
