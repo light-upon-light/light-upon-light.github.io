@@ -73,6 +73,8 @@ It describes marriage in terms of tranquility, love, and mercy:
 The Prophet's own example is equally important. The Qur'an presents him as a model for believers:
 
 > **“Indeed, in the Messenger of God you have an excellent example.”** (**Qur'an 33:21**)
+>
+> <div dir="rtl" lang="ar" class="quran-arabic">﴿لَّقَدْ كَانَ لَكُمْ فِى رَسُولِ ٱللَّهِ أُسْوَةٌ حَسَنَةٌ﴾ <span class="ayah-ref">[سُورَةُ الأَحۡزَابِ: ٢١]</span></div>
 {: .quote }
 
 An authentic report states:
@@ -109,20 +111,30 @@ Whatever *waḍribūhunna* ultimately means, it cannot legitimately mean that a 
 The Qur'an commands decency even when a marriage ends:
 
 > **“Keep in kindness or release with excellence.”** (**Qur'an 2:229**)
+>
+> <div dir="rtl" lang="ar" class="quran-arabic">﴿فَإِمْسَاكٌۢ بِمَعْرُوفٍ أَوْ تَسْرِيحٌۢ بِإِحْسَـٰنٍ﴾ <span class="ayah-ref">[سُورَةُ البَقَرَةِ: ٢٢٩]</span></div>
 {: .quote }
 
 It also says:
 
 > **“Do not forget graciousness between you.”** (**Qur'an 2:237**)
+>
+> <div dir="rtl" lang="ar" class="quran-arabic">﴿وَلَا تَنسَوُا۟ ٱلْفَضْلَ بَيْنَكُمْ﴾ <span class="ayah-ref">[سُورَةُ البَقَرَةِ: ٢٣٧]</span></div>
 {: .quote }
 
 > **“They are a garment for you and you are a garment for them.”** (**Qur'an 2:187**)
+>
+> <div dir="rtl" lang="ar" class="quran-arabic">﴿هُنَّ لِبَاسٌ لَّكُمْ وَأَنتُمْ لِبَاسٌ لَّهُنَّ﴾ <span class="ayah-ref">[سُورَةُ البَقَرَةِ: ١٨٧]</span></div>
 {: .quote }
 
 > **“Do not harm them so as to distress them.”** (**Qur'an 65:6**)
+>
+> <div dir="rtl" lang="ar" class="quran-arabic">﴿وَلَا تُضَآرُّوهُنَّ لِتُضَيِّقُوا۟ عَلَيْهِنَّ﴾ <span class="ayah-ref">[سُورَةُ الطَّلَاقِ: ٦]</span></div>
 {: .quote }
 
 > **“There is no sin upon them if they make terms of settlement between them—and settlement is best.”** (**Qur'an 4:128**)
+>
+> <div dir="rtl" lang="ar" class="quran-arabic">﴿فَلَا جُنَاحَ عَلَيْهِمَآ أَن يُصْلِحَا بَيْنَهُمَا صُلْحًا ۚ وَٱلصُّلْحُ خَيْرٌ﴾ <span class="ayah-ref">[سُورَةُ النِّسَاءِ: ١٢٨]</span></div>
 {: .quote }
 
 A general legal-ethical principle states:
