@@ -44,9 +44,9 @@ choices are not free:
   `--site-blockquote-border-default` decouples the two — see its comment in
   `_dirt.scss` and its consumer in `_includes/head/custom.html`. `#toc-close`
   needs no dark rule at all because of this — primary is dark in both modes,
-  so white text still works. `.nav__title` used to be on that list; the plain
-  TOC below took its fill away, so it is now `--site-src-text` on whatever
-  ground it sits on and varies with the palette like everything else.
+  so white text still works. `.nav__title` is on that list too: its fill is
+  the theme's `--mm-primary-color` bar with white text on it in both
+  palettes, and the mobile disclosure summary copies that pair.
 - `--mm-active-color` (the TOC scrollspy highlight) has to stay dark enough
   that `yiq-contrasted()` still picks `--mm-active-color-contrast: #fff`. The
   stock 80%-white value would paint a near-white pill on a dark page.
@@ -222,10 +222,7 @@ Width is `min(86vw, 21rem)` — the `vw` term guarantees a strip of backdrop
 survives on the left, so there is always somewhere to tap to dismiss. Running
 flush to the top and right edges means the theme's `.toc` border radius and
 `.nav__title` corner rounding both have to be zeroed, or they show as notches
-against the viewport corners. The plain-TOC rules in `site.scss` now zero the
-title's radius anyway; the drawer-specific rule stays because it is the one
-that says *why*, and it would still be needed if the plain restyle were
-reverted.
+against the viewport corners. The drawer's own rules do both.
 
 **The drawer's opacity comes from `.toc`, not from `#toc-panel`.** The theme
 puts `background-color: var(--mm-background-color)` and a border on `.toc`;
@@ -365,27 +362,32 @@ widgets where there should be one. The value is written onto `<html>` as
 `data-toc-mobile` by `_includes/head/custom.html`, pre-paint alongside the
 theme and font-size bootstraps, because CSS keys off it too.
 
-The summary is styled as a hairline and a muted label — the `.quran-more` /
-`.yt-embed` idiom. The desktop TOC title is now the same thing: the theme's
-solid `--mm-primary-color` bar is the only thing changed: it was the loudest
-thing above the article, and it becomes the same muted uppercase eyebrow the
-disclosure summary uses, with a hairline under it in place of the fill.
+The summary **is** the TOC's title bar in the collapsed form, so it copies
+the theme's `.toc .nav__title` exactly: white on the solid
+`--mm-primary-color` fill, `0.75em` bold, `0.5rem 0.75rem` of padding, 4px
+top corners — plus all four corners when closed, since nothing then sits
+below it to carry the bottom pair. It has no theme rule of its own to
+inherit, which is why this is the one title rule `site.scss` still carries.
+Two restyles were tried and both are reverted: a muted uppercase eyebrow over
+a hairline (the `.quran-more` / `.yt-embed` idiom, applied to the desktop
+title as well), then that eyebrow filled with `--mm-border-color` over a
+faint wash on the box — in the light palette the cream fill read as a yellow
+smear, and dropping the theme's padding and radii left the label and the
+chevron flush against the edges.
 
-**Every other line the theme draws is the theme's, and stays** — the box
-around `.toc`, and the `border-bottom` under each entry. Both were stripped
-for a while during this work and both had to come back: without the box the
-widget stopped reading as a bounded thing, and without the dividers the list
-read as an undifferentiated column.
+**Every line the theme draws is the theme's, and stays** — the box around
+`.toc`, the filled title bar, and the `border-bottom` under each entry. All
+of them were stripped at some point during this work and all had to come
+back.
 
-One exception, and it is scoped: inside the mobile disclosure the summary
-already draws a full-width underline, and the box's top border lands a pixel
-below it — two parallel lines the moment the panel opens. So
-`.toc-disclosure > .toc` drops its `border-block-start` and squares its top
-corners, **inside `@media (max-width: 63.9375em)` only**. The wrapper exists
+One exception, and it is scoped: inside the mobile disclosure the summary is
+the title bar itself, so `.toc-disclosure > .toc` drops its
+`border-block-start` and squares its top corners, **inside
+`@media (max-width: 63.9375em)` only**. The wrapper exists
 at every width and at `64em` the summary is `display: none`, so an unscoped
 version leaves the desktop sidebar's box open along its top edge.
 
-`toc_label` is defaulted to `ON THIS PAGE` in `_config.yml`'s `pages` scope
+`toc_label` is defaulted to `On this page` in `_config.yml`'s `pages` scope
 rather than repeated in front matter; a page can still override it there. The
 disclosure summary **reads** its label from the rendered `.nav__title` instead
 of carrying a second hardcoded copy, so an override reaches both.

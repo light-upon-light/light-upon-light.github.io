@@ -29,11 +29,13 @@ bordered panel in a verdigris tint, deliberately refusing the left rule
 that marks the three evidence blockquotes. Markup is `formatting_guide.md`;
 its `--site-tldr-*` values and their contrast ratios are in `_dirt.scss`.
 
-`.toc` is restyled plain at both widths — no box, no filled title bar, a muted
-uppercase label over a hairline, keeping the theme's per-entry dividers. The
-box removal is
-scoped to `.page__content .toc` on purpose: the drawer
-clone's `.toc` **is** `#toc-panel`'s opaque surface. See `theme_internals.md`.
+`.toc` keeps the theme's own styling at both widths — the box, the solid
+`--mm-primary-color` title bar, the per-entry dividers. Two restyles of the
+title (a muted uppercase eyebrow over a hairline, then that eyebrow filled
+with `--mm-border-color` over a washed box) were tried and reverted. What
+site.scss still adds is the disclosure summary's copy of that bar, the Karla
+face, and the entry sizing. Never strip the box: the drawer clone's `.toc`
+**is** `#toc-panel`'s opaque surface. See `theme_internals.md`.
 
 Arabic uses `.quran-arabic`, citation labels `.ayah-ref`. Amiri is loaded from
 Google Fonts so the ayah marker encloses its digits regardless of what the

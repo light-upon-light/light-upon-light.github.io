@@ -179,7 +179,7 @@
        second time once the disclosure opened, so site.scss hides it in that
        one case. */
     var titleEl = toc.querySelector(".nav__title");
-    var label = titleEl ? titleEl.textContent.trim() : "ON THIS PAGE";
+    var label = titleEl ? titleEl.textContent.trim() : "On this page";
 
     summary.innerHTML =
       '<span class="toc-disclosure__label"></span>' +

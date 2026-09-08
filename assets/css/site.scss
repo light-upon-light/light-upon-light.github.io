@@ -838,83 +838,39 @@
     color: var(--mm-muted-text-color);
   }
 
-  /* ---- Plain TOC ------------------------------------------------------
+  /* ---- TOC title and box ----------------------------------------------
 
      The theme ships .toc as a card: a bordered, shadowed, rounded box, a
-     solid --mm-primary-color bar for the "On This Page" title, and a 1px
-     divider under every entry. Only the filled bar is changed here -- it
-     was the loudest thing above the article. The box and the dividers are
-     the theme's, kept: without them the widget stopped reading as a
-     bounded thing and the list read as an undifferentiated column.
+     solid --mm-primary-color bar for the "On this page" title, and a 1px
+     divider under every entry. All of that is the theme's, and all of it is
+     kept. Two restyles of the title were tried and both are reverted: a
+     muted uppercase eyebrow over a hairline (the widget stopped reading as
+     a bounded thing), then that same eyebrow filled with --mm-border-color
+     over a faint wash on the box (in the light palette the cream fill read
+     as a yellow smear, and the collapsed inline form lost the padding and
+     the rounded corners the theme's bar gives it). --mm-primary-color is
+     dark in both palettes, so the theme's white-on-primary bar works in
+     both without a dark-mode rule of its own.
 
-     The title becomes the same muted uppercase Karla eyebrow the
-     disclosure summary uses, with a hairline under it in place of the
-     fill. It keeps the theme's own padding, since it now sits inside the
-     box rather than against the article's left edge.
+     The only title rule left in this file is the disclosure summary's, in
+     the Mobile TOC disclosure block below: the summary is the collapsed
+     inline form of that same bar and has no theme rule to inherit from.
 
-     #toc-panel is footer/custom.html's drawer clone of the same widget and
-     is named alongside for the same reason as the font rules above: it is
-     mounted outside .page__content, so a .page__content-scoped selector
-     would leave the drawer on the theme's title bar. Both selectors carry
-     a class more than the theme's bare `.toc`/`.nav__title`/`.toc__menu a`,
-     so specificity wins without !important.
+     #toc-panel is footer/custom.html's drawer clone of the same widget; it
+     keeps its own rules further down (it runs flush to the viewport's top
+     and right, so its title corners are squared there).
 
      NOTE for anyone tempted to strip the box: `.toc`'s background and
      border are also what make the DRAWER opaque -- #toc-panel sets no
      background of its own -- so a `#toc-panel .toc { border: 0 }` renders
      the drawer transparent over the article. */
-  /* The theme's card fills with the page background colour, so the box reads
-     only via its 1px border and otherwise dissolves into the page. A faint
-     warm wash (the same surface the breadcrumb return-link hovers to) lifts
-     it off the ground and sits with the manuscript palette rather than
-     fighting it the way a neutral grey did. Desktop/inline copy only --
-     #toc-panel's drawer clone sets its own opaque background further down. */
-  .page__content .toc {
-    background-color: var(--site-return-hover-bg);
-  }
 
-  /* The theme's default entry colour is --mm-muted-text-color, which on the
-     wash above is a washed-out grey. --site-src-text -- the same sepia the
-     disclosure summary and the source apparatus use -- keeps the entries
-     quiet (they are navigation, not prose links) while clearing 4.4:1 in
-     both palettes. Bare `.toc__menu a` so every `.active` rule, at higher
-     specificity, still wins. */
-  .toc__menu a {
-    color: var(--site-src-text);
-  }
-
-  /* The title reads as a filled eyebrow: --mm-border-color, the site's
-     cream/brown hairline colour, as a gentle solid bar a shade warmer than
-     the wash below it -- present but not the theme's loud --mm-primary-color
-     bar. --site-src-text on it is the same sepia the entries use, 4.4:1 in
-     both palettes. The disclosure summary (the inline/collapsed form of this
-     same bar) is named alongside so both forms match. */
-  .page__content .toc .nav__title,
-  #toc-panel .nav__title,
-  .toc-disclosure > summary {
-    background: var(--mm-border-color);
-    color: var(--site-src-text);
-  }
-
-  .page__content .toc .nav__title,
-  #toc-panel .nav__title {
-    font-size: 0.8rem;
-    font-weight: bold;
-    letter-spacing: 0.08em;
-    text-transform: uppercase;
-    border-radius: 0;
-    padding: 0.6rem 0.75rem 0.5rem;
-    border-block-end: 1px solid var(--site-src-border);
-  }
-
-  /* Inside the mobile disclosure the summary already draws a full-width
-     underline, and the box's own top border lands a pixel below it -- two
-     parallel lines the moment the panel opens. The box keeps its sides and
-     bottom; only the edge that duplicates the summary's rule is dropped,
-     with the top corners squared so the remaining border meets the summary
-     cleanly. The media query is load-bearing: the wrapper exists at every
-     width, and at $large the summary is display:none, so an unscoped rule
-     would leave the desktop sidebar's box open along its top edge. */
+  /* Inside the mobile disclosure the summary is the title bar, and the
+     box's own top border and top corners would double it. The box keeps
+     its sides and bottom; the summary carries the rounded top edge. The
+     media query is load-bearing: the wrapper exists at every width, and at
+     $large the summary is display:none, so an unscoped rule would leave
+     the desktop sidebar's box open along its top edge. */
   @media (max-width: 63.9375em) {
     .toc-disclosure > .toc {
       border-block-start: 0;
@@ -934,9 +890,7 @@
   }
 
   /* The theme's own `border-bottom` under each entry is kept. It was
-     removed for a while and the list read as an undifferentiated column;
-     it is also not the line that ever collided with the title's hairline
-     -- that was `.toc`'s box border-top, gone with the box above. */
+     removed for a while and the list read as an undifferentiated column. */
   .page__content .toc .toc__menu a,
   #toc-panel .toc__menu a {
     font-weight: normal;
@@ -979,26 +933,35 @@
     }
   }
 
-  /* A hairline and a muted label rather than the desktop TOC title's solid
-     fill: this sits directly above the article's TL;DR, and a full-width
-     filled bar made the navigation the loudest thing on a phone screen.
-     Same taupe/sepia pair and the same recessive intent as .quran-more and
-     .yt-embed, which are the site's other disclosure widgets. */
+  /* The summary IS the TOC's title bar in the collapsed inline form, so it
+     copies the theme's `.toc .nav__title` exactly -- white on the solid
+     --mm-primary-color fill, 0.75em bold, the theme's own 0.5rem 0.75rem
+     padding (without it the label and the chevron sit flush against the
+     box's edges) and its 4px top corners. Karla rather than the theme's
+     narrow stack, matching the .nav__title font rule above. */
   .toc-disclosure > summary {
     display: flex;
     align-items: center;
     justify-content: space-between;
     gap: 0.5em;
     cursor: pointer;
-    padding-block: 0.5rem;
-    color: var(--site-src-text);
-    border-block-end: 1px solid var(--site-src-border);
+    padding: 0.5rem 0.75rem;
+    color: #fff;
+    background: var(--mm-primary-color);
+    border-start-start-radius: 4px;
+    border-start-end-radius: 4px;
     font-family: "Karla", -apple-system, BlinkMacSystemFont, "Roboto",
                  "Segoe UI", Arial, sans-serif;
-    font-size: 0.8rem;
-    letter-spacing: 0.08em;
-    text-transform: uppercase;
+    font-size: 0.75em;
+    font-weight: bold;
     list-style: none;
+  }
+
+  /* Closed, the summary is the whole widget -- nothing sits below it to
+     carry the box's bottom corners, so it rounds all four itself. */
+  .toc-disclosure:not([open]) > summary {
+    border-end-start-radius: 4px;
+    border-end-end-radius: 4px;
   }
 
   .toc-disclosure > summary::-webkit-details-marker {
