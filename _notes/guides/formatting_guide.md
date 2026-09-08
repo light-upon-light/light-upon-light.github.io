@@ -52,7 +52,8 @@ default**, and sits *below* the intro note rather than above it. Being a
 one-line card there is nothing to read past, so `site.js` also leaves the
 mobile TOC disclosure at the top of the content on that page instead of
 moving it below the card (it anchors on `div.tldr`, which quran.md no longer
-has). Same
+has). The collapsed card drops the fading hairline too -- it sits between
+the intro note and a real `##` heading, so it needs no divider of its own. Same
 card, same colours; the base `.tldr` rules apply to a `<details>` unchanged,
 and `details.tldr` in `site.scss` adds only the chevron and the collapsed/open
 spacing. `markdown="1"` on the tag is required, as it is for `.quran-more`.

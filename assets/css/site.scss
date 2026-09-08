@@ -1256,6 +1256,8 @@
      The base .tldr rules above apply unchanged (a <details> takes them the
      same as a <div>); what follows is only the disclosure mechanics. */
   .page__content details.tldr > summary {
+    display: flex;
+    align-items: baseline;
     cursor: pointer;
     list-style: none;
   }
@@ -1264,34 +1266,34 @@
     display: none;
   }
 
-  /* The chevron rides the label, not the summary: .tldr__label is
-     `display: block`, so a marker on the summary itself would be stranded
-     alone on the line above it. As an ::after it lands just past the last
-     letter rather than out at the card's right edge -- inline content
-     inside the block, so it follows the text and not the box. Same glyph
-     and rotation as .yt-embed. */
-  .page__content details.tldr > summary .tldr__label::after {
+  /* The chevron is the summary's own last flex item, pushed to the card's
+     right edge -- not a marker beside the label. Same glyph and rotation as
+     .yt-embed; `margin-inline-start: auto` rather than
+     `justify-content: space-between` so the label keeps its natural width
+     and the arrow is what moves. */
+  .page__content details.tldr > summary::after {
     content: "\25b8";
-    display: inline-block;
-    /* Not .yt-embed's `width: 1em`: the glyph is narrow and sits at the left
-       of that box, so under the label's 0.12em tracking it crowded the
-       lettering. Its own width plus an explicit gap instead -- and the
-       label's own trailing letter-space is already part of that gap, hence
-       0.3em rather than the 0.5em a leading marker needed. */
-    margin-inline-start: 0.3em;
+    margin-inline-start: auto;
     transition: transform 0.2s ease;
   }
 
-  .page__content details.tldr[open] > summary .tldr__label::after {
+  .page__content details.tldr[open] > summary::after {
     transform: rotate(90deg);
   }
 
-  /* Closed, the label is the card's last visible line and its own bottom
-     margin reads as an empty band under it; open, the same margin is the
-     gap before the prose, so it can only be zeroed in the closed state.
-     And `.tldr > :first-child { margin-top: 0 }` above now lands on the
-     summary rather than the first paragraph, so that paragraph's own top
-     margin would stack on the label's -- hence the zero here too. */
+  /* No hairline under this card: it is not separating a summary from the
+     article's opening prose the way the <div> form is -- it sits below the
+     intro note already, with a proper heading right after it, and a second
+     divider between the two read as clutter. The bottom margin evens up
+     with the top for the same reason. */
+  .page__content details.tldr {
+    margin-block-end: 1.6em !important;
+  }
+
+  .page__content details.tldr::after {
+    content: none;
+  }
+
   .page__content details.tldr:not([open]) > summary .tldr__label {
     margin-bottom: 0;
   }
