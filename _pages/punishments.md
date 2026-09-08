@@ -39,7 +39,51 @@ The death penalty for apostasy is a related but separate issue, discussed at [Ap
 
 ## Sin before God and punishment by the state are different questions
 
-A *hadd* is not the worldly price a sinner must pay for committing the sin, nor is it a condition of God's forgiveness. The Qur'an tells sinners not to despair of God's mercy and calls them to return to Him (39:53–54); the Prophet ﷺ likewise described God as rejoicing intensely at a servant's repentance.[1](#ref-1){: .footnote} A person may therefore sin, repent sincerely, and receive God's forgiveness without ever receiving a worldly punishment.
+A *hadd* is not the worldly price a sinner must pay for committing the sin, nor is it a condition of God's forgiveness. The Qur'an addresses those who have sinned gravely and tells them not to despair of God's mercy:
+
+> “O My servants who have transgressed against themselves [by sinning], do not despair of the mercy of God. Indeed, God forgives all sins. Indeed, it is He who is the Forgiving, the Merciful.” (**Sūrat al-Zumar 39:53**), Saheeh International, with “Allah” rendered as “God”
+>
+> <div dir="rtl" lang="ar" class="quran-arabic">﴿قُلْ يَـٰعِبَادِىَ ٱلَّذِينَ أَسْرَفُوا۟ عَلَىٰٓ أَنفُسِهِمْ لَا تَقْنَطُوا۟ مِن رَّحْمَةِ ٱللَّهِ ۚ إِنَّ ٱللَّهَ يَغْفِرُ ٱلذُّنُوبَ جَمِيعًا ۚ إِنَّهُۥ هُوَ ٱلْغَفُورُ ٱلرَّحِيمُ ۝٥٣﴾ <span class="ayah-ref">سُورَةُ الزُّمَرِ</span></div>
+{: .quote }
+
+It ties that forgiveness to seeking it from God, not to any penalty a court may impose:
+
+> “And whoever does a wrong or wrongs himself but then seeks forgiveness of God will find God Forgiving and Merciful.” (**Sūrat al-Nisāʾ 4:110**), Saheeh International, with “Allah” rendered as “God”
+>
+> <div dir="rtl" lang="ar" class="quran-arabic">﴿وَمَن يَعْمَلْ سُوٓءًا أَوْ يَظْلِمْ نَفْسَهُۥ ثُمَّ يَسْتَغْفِرِ ٱللَّهَ يَجِدِ ٱللَّهَ غَفُورًا رَّحِيمًا ۝١١٠﴾ <span class="ayah-ref">سُورَةُ النِّسَاءِ</span></div>
+{: .quote }
+
+<details class="quran-more" markdown="1">
+<summary>More Qur'anic verses on God's mercy and forgiveness</summary>
+
+> “And return [in repentance] to your Lord and submit to Him before the punishment comes upon you; then you will not be helped.” (**Sūrat al-Zumar 39:54**), Saheeh International, with “Allah” rendered as “God”
+>
+> <div dir="rtl" lang="ar" class="quran-arabic">﴿وَأَنِيبُوٓا۟ إِلَىٰ رَبِّكُمْ وَأَسْلِمُوا۟ لَهُۥ مِن قَبْلِ أَن يَأْتِيَكُمُ ٱلْعَذَابُ ثُمَّ لَا تُنصَرُونَ ۝٥٤﴾ <span class="ayah-ref">سُورَةُ الزُّمَرِ</span></div>
+{: .quote }
+
+> “Except for those who repent, believe and do righteous work. For them God will replace their evil deeds with good. And ever is God Forgiving and Merciful.” (**Sūrat al-Furqān 25:70**), Saheeh International, with “Allah” rendered as “God”
+>
+> <div dir="rtl" lang="ar" class="quran-arabic">﴿إِلَّا مَن تَابَ وَءَامَنَ وَعَمِلَ عَمَلًا صَـٰلِحًا فَأُو۟لَـٰٓئِكَ يُبَدِّلُ ٱللَّهُ سَيِّـَٔاتِهِمْ حَسَنَـٰتٍ ۗ وَكَانَ ٱللَّهُ غَفُورًا رَّحِيمًا ۝٧٠﴾ <span class="ayah-ref">سُورَةُ الفُرۡقَانِ</span></div>
+{: .quote }
+
+> “And it is He who accepts repentance from His servants and pardons misdeeds, and He knows what you do.” (**Sūrat al-Shūrā 42:25**), Saheeh International, with “Allah” rendered as “God”
+>
+> <div dir="rtl" lang="ar" class="quran-arabic">﴿وَهُوَ ٱلَّذِى يَقْبَلُ ٱلتَّوْبَةَ عَنْ عِبَادِهِۦ وَيَعْفُوا۟ عَنِ ٱلسَّيِّـَٔاتِ وَيَعْلَمُ مَا تَفْعَلُونَ ۝٢٥﴾ <span class="ayah-ref">سُورَةُ الشُّورَىٰ</span></div>
+{: .quote }
+
+> “But indeed, I am the Perpetual Forgiver of whoever repents and believes and does righteousness and then continues in guidance.” (**Sūrat Ṭā Hā 20:82**), Saheeh International, with “Allah” rendered as “God”
+>
+> <div dir="rtl" lang="ar" class="quran-arabic">﴿وَإِنِّى لَغَفَّارٌ لِّمَن تَابَ وَءَامَنَ وَعَمِلَ صَـٰلِحًا ثُمَّ ٱهْتَدَىٰ ۝٨٢﴾ <span class="ayah-ref">سُورَةُ طه</span></div>
+{: .quote }
+
+> “The forgiver of sin, acceptor of repentance, severe in punishment, owner of abundance. There is no deity except Him; to Him is the destination.” (**Sūrat Ghāfir 40:3**), Saheeh International, with “Allah” rendered as “God”
+>
+> <div dir="rtl" lang="ar" class="quran-arabic">﴿غَافِرِ ٱلذَّنۢبِ وَقَابِلِ ٱلتَّوْبِ شَدِيدِ ٱلْعِقَابِ ذِى ٱلطَّوْلِ ۖ لَآ إِلَـٰهَ إِلَّا هُوَ ۖ إِلَيْهِ ٱلْمَصِيرُ ۝٣﴾ <span class="ayah-ref">سُورَةُ غَافِرٍ</span></div>
+{: .quote }
+
+</details>
+
+The Prophet ﷺ likewise described God as rejoicing intensely at a servant's repentance.[1](#ref-1){: .footnote} A person may therefore sin, repent sincerely, and receive God's forgiveness without ever receiving a worldly punishment.
 
 The *hudud* belong to a different sphere: the public legal order. A concealed wrong may remain between the individual and God. A fixed punishment becomes a matter for the courts only when conduct enters the legal sphere and is established through the forms of proof the law recognizes.
 
@@ -150,7 +194,7 @@ Listing only the maximum punishments while omitting that distinction gives a dis
 ## Notes
 
 <div class="footnotes" markdown="1">
-1. <span id="ref-1"></span>Qur'an 39:53–54 tells sinners not to despair of God's mercy and immediately calls them to return to their Lord. *Sahih Muslim* 2747a reports the Prophet ﷺ describing God as more pleased with a servant's repentance than a traveller who unexpectedly recovers his lost mount in the desert.
+1. <span id="ref-1"></span>*Sahih Muslim* 2747a reports the Prophet ﷺ describing God as more pleased with a servant's repentance than a traveller who unexpectedly recovers his lost mount in the desert.
 
 2. <span id="ref-2"></span>Qur'an 24:4, on the penalty for *qadhf* — false accusation of fornication — of eighty lashes and permanent rejection of the accuser's testimony.
 
@@ -171,6 +215,11 @@ Listing only the maximum punishments while omitting that distinction gives a dis
 ## Qur'an verses cited
 
 - 39:53–54 — do not despair of God's mercy; return to Him in repentance
+- 4:110 — whoever seeks God's forgiveness will find Him forgiving
+- 20:82 — God forgives whoever repents, believes, and does right
+- 25:70 — God replaces the evil deeds of the repentant with good
+- 40:3 — forgiver of sin and accepter of repentance, severe in punishment
+- 42:25 — God accepts repentance from His servants and pardons misdeeds
 - 5:33–34 — the penalty for *hiraba*, and its suspension on repentance before capture
 - 5:38–39 — the penalty for theft, and repentance immediately after it
 - 24:2 — one hundred lashes for fornication
