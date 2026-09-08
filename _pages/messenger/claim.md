@@ -16,12 +16,18 @@ toc: true
 toc_label: "On this page"
 toc_icon: "bars"
 toc_sticky: true
+glossary:
+  - hadith
+  - companions
+
 share: true
 ---
 
 [← Read the main argument](/quran#the-messenger-of-god-ﷺ) · [Browse all evidence](/messenger)
 
 What best explains Muhammad ﷺ’s claim to revelation? These evidence entries examine reputation, incentives, sacrifice, and self-restraint, then compare deliberate fabrication, sincere error, development of the tradition, and the theological allegation of a demonic source.
+
+{% include glossary-key.html %}
 
 ## The question and the evidence
 {: #the-question-and-the-evidence }

@@ -158,6 +158,14 @@ $base0f: #b49368 !default;
   --site-floatnav-shadow: rgba(0, 0, 0, 0.3); // #floating-nav button box-shadow
   --site-tocbackdrop-bg: rgba(52, 52, 52, 0.5); // #toc-backdrop background
 
+  /* Glossary term hovers (_includes/glossary-key.html + site.js). The tip is
+     an inverted dark card here, like a UA tooltip; the underline is a muted
+     taupe hairline. */
+  --site-glossterm-underline: #8a7d68; // .gloss-term dotted underline; 3.4:1 on the page ground (decorative, non-text)
+  --site-glosstip-bg: #343434;         // #gloss-tip card background
+  --site-glosstip-text: #f3f3f3;       // 11.6:1 on --site-glosstip-bg — AAA
+  --site-glosstip-border: #5c5445;
+
   /* $primary-color does two opposing jobs in the theme's own default
      blockquote rule (background behind white text elsewhere, but a rule
      drawn *on* the page background here) — decoupled from --mm-primary-color
@@ -248,6 +256,10 @@ $base0f: #b49368 !default;
   --site-floatnav-border: #6f5f48;
   --site-floatnav-shadow: rgba(0, 0, 0, 0.6);
   --site-tocbackdrop-bg: rgba(0, 0, 0, 0.65);
+  --site-glossterm-underline: #b7a58c;  // .gloss-term dotted underline; 5.0:1 on the dark ground
+  --site-glosstip-bg: #2f2a22;          // #gloss-tip card — raised above the page ground, not inverted
+  --site-glosstip-text: #e6ded2;        // 11.1:1 on --site-glosstip-bg — AAA
+  --site-glosstip-border: #6f5f48;
   --site-blockquote-border-default: #6b6152; // decoupled from --mm-primary-color; see above
 }
 

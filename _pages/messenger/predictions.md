@@ -16,12 +16,18 @@ toc: true
 toc_label: "On this page"
 toc_icon: "bars"
 toc_sticky: true
+glossary:
+  - hadith
+  - companions
+
 share: true
 ---
 
 [← Read the main argument](/quran#the-messenger-of-god-ﷺ) · [Browse all evidence](/messenger)
 
 Each prediction should be considered with its wording, reported outcome, and evidence for dating and transmission. These entries keep those elements together, from public events and named individuals to later signs whose written sources predate their proposed fulfillment.
+
+{% include glossary-key.html %}
 
 ## How to evaluate a prediction
 {: #how-to-evaluate-a-prediction }

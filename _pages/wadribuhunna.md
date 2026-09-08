@@ -21,6 +21,10 @@ toc_label: "On this page"
 toc_icon: "bars"
 toc_sticky: true
 
+glossary:
+  - nushuz
+  - sahih
+
 share: true
 ---
 
@@ -29,6 +33,8 @@ Critics often cite Qur'an 4:34—especially the disputed expression *waḍribūh
 Qur'an 4:34 does not give a husband permission to injure, cruelly mistreat, degrade, or abuse his wife. Before examining the disputed expression itself, it is important to begin with what Islamic teaching makes clear: the Qur'an requires kindness in marriage and prohibits wrongful harm, while the Prophet never struck a woman and condemned husbands who mistreated their wives.
 
 Those clear teachings form the framework within which the disputed wording of Qur'an 4:34 must be understood. The expression *waḍribūhunna* has been interpreted in more than one way, and this page examines those interpretations directly. But no legitimate reading can turn a disputed expression into permission for conduct that the Qur'an and the Prophet otherwise condemn as harm, cruelty, or abuse.
+
+{% include glossary-key.html %}
 
 ## 1. What Islam makes clear about marital harm
 

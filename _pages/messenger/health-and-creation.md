@@ -16,12 +16,18 @@ toc: true
 toc_label: "On this page"
 toc_icon: "bars"
 toc_sticky: true
+glossary:
+  - hadith
+  - companions
+
 share: true
 ---
 
 [← Read the main argument](/quran#the-messenger-of-god-ﷺ) · [Browse all evidence](/messenger)
 
 Care extends to the body, other living creatures, and resources on which people depend. These teachings and incidents concern moderation, cleanliness, illness, animal welfare, planting, and shared water and pasture.
+
+{% include glossary-key.html %}
 
 ## Moderation, cleanliness, and care in illness
 {: #moderation-cleanliness-and-care-in-illness }

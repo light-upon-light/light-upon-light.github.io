@@ -1,0 +1,170 @@
+# Glossary of recurring Arabic terms.
+#
+# One entry per term. The key is a lowercase ASCII slug used in each page's
+# `glossary:` front-matter list. Fields:
+#
+#   label  display form shown in the key-terms block and on the wrapped term
+#   short  one-sentence definition; inline markdown is allowed (rendered with
+#          `markdownify` in _includes/glossary-key.html), and it is also the
+#          hover text, so keep it to a sentence
+#   match  surface forms the client-side wrapper looks for in the prose,
+#          matched case-insensitively on whole words. List every transliteration
+#          spelling that appears in the pages. Never add a bare English word.
+#
+# Editing a definition here changes it everywhere: the key block and every
+# hover. See _notes/guides/formatting_guide.md ("Key-terms block").
+
+ridda:
+  label: "ridda"
+  short: "conventionally translated apostasy; in the classical legal material it
+    typically involves public secession from or armed rebellion against the
+    Muslim community, not a private change of belief."
+  match: ["ridda", "irtidad", "irtidād"]
+
+hudud:
+  label: "ḥudūd"
+  short: "the short, fixed list of scripturally defined offences — theft,
+    brigandage, unlawful sex, false accusation of unlawful sex, intoxication —
+    and their set penalties (singular *ḥadd*)."
+  match: ["hudud", "ḥudūd", "hudūd"]
+
+hadd:
+  label: "ḥadd"
+  short: "a single fixed *ḥudūd* penalty, imposed only when the offence is
+    legally established by the strict proof the law requires."
+  match: ["hadd", "ḥadd"]
+
+hiraba:
+  label: "ḥirāba"
+  short: "armed robbery, brigandage, or terrorising travellers; a distinct
+    Qur'anic offence with its own penalty in 5:33–34."
+  match: ["hiraba", "ḥirāba", "hirāba"]
+
+jizya:
+  label: "jizya"
+  short: "a per-head tax paid by non-Muslim subjects in place of military
+    service and the alms owed by Muslims, in exchange for protection."
+  match: ["jizya"]
+
+dhimma:
+  label: "dhimma"
+  short: "the covenant of protection under which non-Muslim subjects lived
+    under Muslim rule, binding the authorities to safeguard their persons,
+    property, and worship."
+  match: ["dhimma", "ahl al-dhimma"]
+
+nushuz:
+  label: "nushūz"
+  short: "a serious rupture in the marriage — grave marital misconduct — not an
+    ordinary disagreement or a husband's mere displeasure."
+  match: ["nushuz", "nushūz"]
+
+hadith:
+  label: "hadith"
+  short: "a transmitted report of what the Prophet Muhammad ﷺ said, did, or
+    tacitly approved."
+  match: ["hadith", "hadiths", "ahadith", "aḥādīth"]
+
+sahih:
+  label: "ṣaḥīḥ"
+  short: "\"sound\" — a hadith graded as meeting the highest bar for
+    authenticity of transmission (as distinct from the collection titles
+    *Sahih al-Bukhari* and *Sahih Muslim*)."
+  # deliberately narrow: the bare word also opens two collection titles, so
+  # only the diacritic form is auto-wrapped
+  match: ["ṣaḥīḥ"]
+
+daif:
+  label: "ḍaʿīf"
+  short: "\"weak\" — a hadith with a defective chain of transmission, which
+    cannot on its own establish a legal ruling."
+  match: ["da'if", "da’if", "daif", "ḍaʿīf", "daʿīf"]
+
+zanadiqa:
+  label: "zanādiqa"
+  short: "heretics or subversives (singular *zindīq*); in the early reports,
+    those covertly working to undermine the community rather than open
+    dissenters."
+  match: ["zanadiqa", "zanādiqa", "zindiq", "zindīq"]
+
+rushd:
+  label: "rushd"
+  short: "sound practical judgment; in Islamic law a condition separate from
+    physical maturity for taking control of one's property."
+  match: ["rushd"]
+
+tazir:
+  label: "taʿzīr"
+  short: "discretionary punishment set by a judge for offences that fall
+    outside the fixed *ḥudūd* list; most criminal cases were handled here."
+  match: ["ta'zir", "ta’zir", "tazir", "taʿzir", "taʿzīr"]
+
+qadhf:
+  label: "qadhf"
+  short: "falsely accusing someone of unlawful sex; a *ḥudūd* offence carrying
+    eighty lashes and permanent loss of the accuser's testimony."
+  match: ["qadhf"]
+
+tajassus:
+  label: "tajassus"
+  short: "spying on people or seeking out their concealed faults, forbidden by
+    the Qur'an in 49:12."
+  match: ["tajassus"]
+
+zina:
+  label: "zinā"
+  short: "consensual unlawful sex outside marriage; a *ḥudūd* offence requiring
+    four eyewitnesses or a repeated confession to establish."
+  match: ["zina", "zinā"]
+
+zakat:
+  label: "zakāt"
+  short: "the obligatory annual levy on wealth owed by Muslims; refusing it was
+    treated as a breach of obligation to the polity."
+  match: ["zakat", "zakāt"]
+
+sira:
+  label: "sīra"
+  short: "the early narrative biography of the Prophet Muhammad ﷺ; useful for
+    context, but its reports vary in the strength of their transmission and are
+    not treated as equal to a rigorously authenticated hadith."
+  match: ["sira", "sīra"]
+
+mahr:
+  label: "mahr"
+  short: "the marriage gift a husband pays directly to his wife, her own
+    property to keep."
+  match: ["mahr"]
+
+polygyny:
+  label: "polygyny"
+  short: "one man married to more than one woman at the same time — the
+    specific arrangement Islamic law permits, capped at four wives."
+  # key-block only: the word is the article's subject and appears too often
+  match: []
+
+polygamy:
+  label: "polygamy"
+  short: "plural marriage of any kind; the broader term that covers both
+    polygyny and polyandry."
+  match: []
+
+polyandry:
+  label: "polyandry"
+  short: "one woman married to more than one man at the same time; not
+    permitted in Islamic law."
+  match: []
+
+companions:
+  label: "the Companions"
+  short: "the generation who knew the Prophet Muhammad ﷺ personally; they form
+    the first link in almost every chain of transmission."
+  # key-block only: the bare word is ordinary English too often to auto-wrap
+  match: []
+
+ghiyar:
+  label: "ghiyār"
+  short: "discriminatory dress rules marking out non-Muslims, enforced by the
+    Abbasid caliph al-Mutawakkil from around 850 CE; with no basis in the
+    Qur'an or the Prophet's ﷺ practice."
+  match: ["ghiyar", "ghiyār"]

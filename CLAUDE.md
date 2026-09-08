@@ -33,6 +33,7 @@ check there is.
 | make an argument or handle a source | `_notes/guides/methodolody_guide.md` |
 | quote a verse or cite a hadith | `_notes/guides/citations_guide.md` |
 | add footnotes, references, or an evidence blockquote | `_notes/guides/formatting_guide.md` |
+| add a key-terms block or a glossary term/hover | `_notes/guides/formatting_guide.md`, `_notes/guides/styling.md` |
 | touch CSS or JS | `_notes/guides/styling.md` |
 | touch dark mode, the TOC drawer, or the scrollspy | `_notes/guides/theme_internals.md` |
 | change a permalink, or reason about what gets published | `_notes/guides/publishing.md` |

@@ -16,12 +16,19 @@ toc: true
 toc_label: "On this page"
 toc_icon: "bars"
 toc_sticky: true
+glossary:
+  - hadith
+  - jizya
+  - companions
+
 share: true
 ---
 
 [← Read the main argument](/quran#the-messenger-of-god-ﷺ) · [Browse all evidence](/messenger)
 
 Work, exchange, leadership, and public office carry duties toward other people. These examples connect personal integrity with institutions: wages, contracts, consultation, appointments, charity, and the handling of public resources.
+
+{% include glossary-key.html %}
 
 ## Work, trade, wealth, charity, and market integrity
 {: #work-trade-wealth-charity-and-market-integrity }

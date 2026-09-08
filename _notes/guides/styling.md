@@ -30,6 +30,22 @@ reader has installed. The theme sets `blockquote { font-style: italic }`, and
 Arabic has no true italic — browsers synthesise a slant that mangles the joins,
 so `.quran-arabic` cancels it with `font-style: normal`.
 
+## Glossary term hovers
+
+`_data/glossary.yml` holds one entry per recurring Arabic term (`label`,
+`short`, `match[]`). A page opts in with a `glossary:` front-matter list and
+`{% include glossary-key.html %}` below its intro; the include renders the
+`.glossary-key` `<dl>` (styled like `blockquote.gloss`) and a page-scoped
+`<script type="application/json" id="glossary-data">`. The last IIFE in
+`site.js` reads that JSON, wraps every later prose occurrence of a term in
+`<span class="gloss-term">` (skipping links, headings, code, and
+`.quran-arabic`), and drives one shared `#gloss-tip` on hover / focus / tap /
+Esc. No JS → no wrapper and no tip; the `<dl>` is the fallback, so it must
+always carry the full definition. New palette entries — `--site-glossterm-underline`,
+`--site-glosstip-bg`, `--site-glosstip-text`, `--site-glosstip-border` — in both
+`_dirt.scss` blocks (bare `:root` and `@mixin site-dark-palette`). Editing a
+definition in the YAML changes the key block and every hover at once.
+
 ## The `--site-*` palette
 
 This repo's own colours — the evidence blockquotes, the floating nav, the

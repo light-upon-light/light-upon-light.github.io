@@ -16,12 +16,20 @@ toc: true
 toc_label: "On this page"
 toc_icon: "bars"
 toc_sticky: true
+glossary:
+  - hadith
+  - sahih
+  - sira
+  - companions
+
 share: true
 ---
 
 [← Read the main argument](/quran#the-messenger-of-god-ﷺ) · [Browse all evidence](/messenger)
 
 The evidence draws on scripture, transmitted reports, early biography, commentary, and historical scholarship. This guide explains their different roles, outlines hadith criticism, and provides the complete bibliography used across the collection.
+
+{% include glossary-key.html %}
 
 ## How the sources are used
 {: #how-the-sources-are-used }

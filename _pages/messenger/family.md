@@ -16,12 +16,18 @@ toc: true
 toc_label: "On this page"
 toc_icon: "bars"
 toc_sticky: true
+glossary:
+  - hadith
+  - companions
+
 share: true
 ---
 
 [← Read the main argument](/quran#the-messenger-of-god-ﷺ) · [Browse all evidence](/messenger)
 
 The home is a place where duties, rights, and affection meet. These entries cover parents, marriage, women’s consent and property, learning and communal participation, and tenderness toward children.
+
+{% include glossary-key.html %}
 
 ## Kindness and duty toward parents
 {: #kindness-and-duty-toward-parents }

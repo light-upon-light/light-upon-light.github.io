@@ -22,6 +22,12 @@ toc_icon: "bars"
 toc_sticky: true
 toc_levels: 2..3
 
+glossary:
+  - jizya
+  - hadith
+  - sahih
+  - daif
+
 share: true
 ---
 
@@ -29,6 +35,7 @@ The claim that Islam was “spread by the sword” often blurs two separate ques
 
 Across much of the Muslim world, conversion took centuries, non-Muslim communities remained in place, and Islam also spread widely in regions that were never conquered by Muslim armies. Forced conversions did occur, but they were episodes within a much broader and more varied history.
 
+{% include glossary-key.html %}
 
 ## Conquest established Muslim rule, not immediate conversion
 

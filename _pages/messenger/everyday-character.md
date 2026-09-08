@@ -16,12 +16,18 @@ toc: true
 toc_label: "On this page"
 toc_icon: "bars"
 toc_sticky: true
+glossary:
+  - hadith
+  - companions
+
 share: true
 ---
 
 [← Read the main argument](/quran#the-messenger-of-god-ﷺ) · [Browse all evidence](/messenger)
 
 Truthfulness, restraint, forgiveness, privacy, and reconciliation give religious commitment an everyday form. The entries below collect both the principles Muhammad ﷺ taught and the practical situations in which he taught them.
+
+{% include glossary-key.html %}
 
 ## Teaching through moral reflection
 {: #teaching-through-moral-reflection }
