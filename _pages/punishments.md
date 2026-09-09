@@ -39,11 +39,9 @@ share: true
 <details class="tldr" markdown="1">
 <summary><span class="tldr__label">TL;DR</span></summary>
 
-Islamic *hudud* punishments are severe, but the page argues they were not meant to be automatically imposed whenever someone sinned. Islamic law distinguished between sin before God and an offence legally punishable by the state.
+The *hudud* punishments are severe and genuinely rooted in the Islamic sources, but they were never meant to be the automatic worldly consequence of every private sin. Islam distinguishes between a person’s accountability before God—where repentance, reform, and divine mercy are always open—and the state’s much narrower authority to punish legally established offences affecting the public order.
 
-Fixed punishments were surrounded by strict safeguards: demanding proof, bans on spying into private wrongdoing, penalties for false accusations, discouraged confession, and a preference for avoiding punishment when serious doubt existed. Social circumstances and repentance could also affect enforcement.
-
-The page’s main point is that listing punishments like flogging, amputation, or stoning without these restrictions gives an incomplete picture of the classical legal system.
+That is why classical Islamic law surrounded the *hudud* with unusually strict restraints: demanding standards of proof, penalties for unsupported accusations, discouragement of confession, prohibitions on spying into private wrongdoing, avoidance of fixed penalties where serious doubt existed, recognition of repentance in certain cases, and attention to necessity and social conditions. The penalties were therefore difficult to impose and historically rare. Enforcing their severity while discarding these safeguards does not preserve the classical Islamic legal structure; it distorts it.
 </details>
 
 ## Introduction
