@@ -26,7 +26,6 @@ women:
 
 quran:
 
-- add example recitations video
 - add what non-muslims have said about quran (some example in the THINK muslim video)
 - add page for each point that needs one: literary miracle, numerical, historical info, ring structure etc.
 - expand heavily on the literary miracle section and the summit of arabic eloquence part, and add all the video links, part is massive and is a whole area of research on its own
