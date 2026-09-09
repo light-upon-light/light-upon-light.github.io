@@ -30,8 +30,8 @@ glossary:
 share: true
 ---
 
-<div class="tldr" markdown="1">
-<span class="tldr__label">TL;DR</span>
+<details class="tldr" markdown="1">
+<summary><span class="tldr__label">TL;DR</span></summary>
 
 Islam did spread partly through military conquest, but conquest and conversion were not the same thing. Muslim rule often expanded quickly, while populations usually converted gradually over centuries. Non-Muslims commonly remained under Muslim rule, and large Jewish, Christian, Hindu, and other communities survived for long periods.
 
@@ -40,7 +40,7 @@ Islam also spread widely through trade, preaching, marriage, and local conversio
 Forced conversions and political pressure did occur in some periods, but they do not explain Islam's overall spread.
 
 In short: conquest spread Muslim rule; it did not by itself spread Muslim belief.
-</div>
+</details>
 
 ## Introduction
 

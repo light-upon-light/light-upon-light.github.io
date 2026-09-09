@@ -312,14 +312,17 @@ paragraph: 13 rows on `/sword`, a screenful of navigation before any prose.
 `site.js` wraps it in a `<details>` so a phone shows one line, expanded again
 at `64em` where the sidebar is its own column.
 
-Below `64em` it also **moves the whole `<aside>` to sit after the `.tldr`
-card**, so the article opens with its summary and offers navigation only once
-the reader has the gist. The aside moves, not just the `<details>`: at `64em`
+Below `64em` it also **moves the whole `<aside>` to sit after an open
+`div.tldr` card**, so the article opens with its summary and offers navigation
+only once the reader has the gist. Every page now authors the card as a
+collapsed `<details>`, which is one line with nothing to read past, so the
+branch is currently dormant and the disclosure stays at the top of the
+content. The aside moves, not just the `<details>`: at `64em`
 `.sidebar__right` is what carries the sticky sidebar positioning, so it has to
 go back to being `.page__content`'s first child there, and a comment node
 marks that spot. Both branches are idempotent, so `sync()` can call the
 placement on every breakpoint change without inspecting the current DOM. A
-page with no `.tldr` never gets the marker and never moves. The theme's
+page with no open `div.tldr` never moves the aside. The theme's
 `.page__content aside+:nth-child(2) { margin-top: 0 }` does not follow the
 aside — once moved, the element after it is the third child.
 
@@ -354,11 +357,10 @@ Four things here are load-bearing:
 `toc_mobile: expanded` in front matter (`quran.md` only — its TOC is the
 page's own structure rather than an aside to a linear argument) opts a page
 out of starting **closed** below `64em`, and out of nothing else. Every page
-builds the same disclosure, in the same place, after the `.tldr`, with the
-same summary; only the initial open state differs. It used to `return` before
-the wrapper was built, which left that one page with the theme's `.nav__title`
-where every other page had the summary, still sitting above its `.tldr` — two
-widgets where there should be one. The value is written onto `<html>` as
+builds the same disclosure, in the same place, with the same summary; only
+the initial open state differs. It used to `return` before the wrapper was
+built, which left that one page with the theme's `.nav__title` where every
+other page had the summary — two widgets where there should be one. The value is written onto `<html>` as
 `data-toc-mobile` by `_includes/head/custom.html`, pre-paint alongside the
 theme and font-size bootstraps, because CSS keys off it too.
 

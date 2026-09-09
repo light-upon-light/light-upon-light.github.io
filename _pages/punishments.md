@@ -36,15 +36,15 @@ glossary:
 share: true
 ---
 
-<div class="tldr" markdown="1">
-<span class="tldr__label">TL;DR</span>
+<details class="tldr" markdown="1">
+<summary><span class="tldr__label">TL;DR</span></summary>
 
 Islamic *hudud* punishments are severe, but the page argues they were not meant to be automatically imposed whenever someone sinned. Islamic law distinguished between sin before God and an offence legally punishable by the state.
 
 Fixed punishments were surrounded by strict safeguards: demanding proof, bans on spying into private wrongdoing, penalties for false accusations, discouraged confession, and a preference for avoiding punishment when serious doubt existed. Social circumstances and repentance could also affect enforcement.
 
 The page’s main point is that listing punishments like flogging, amputation, or stoning without these restrictions gives an incomplete picture of the classical legal system.
-</div>
+</details>
 
 ## Introduction
 

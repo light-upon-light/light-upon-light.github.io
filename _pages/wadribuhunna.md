@@ -27,15 +27,15 @@ glossary:
 share: true
 ---
 
-<div class="tldr" markdown="1">
-<span class="tldr__label">TL;DR</span>
+<details class="tldr" markdown="1">
+<summary><span class="tldr__label">TL;DR</span></summary>
 
 Qur'an 4:34 does not permit domestic abuse. The verse addresses serious marital misconduct, not ordinary disagreements, and gives a graduated response: counsel, marital withdrawal, then the disputed expression *waḍribūhunna*, followed by arbitration if the conflict continues.
 
 Some scholars understood *waḍribūhunna* as separation or distancing. Others understood it physically, but classical jurists strictly prohibited injury, cruelty, leaving marks, striking the face, or abusive conduct. The Prophet Muhammad ﷺ himself never struck a woman and condemned husbands who mistreated their wives.
 
 In short: whatever interpretation is taken, Qur'an 4:34 does not give husbands a right to beat or abuse their wives.
-</div>
+</details>
 
 ## Introduction
 
