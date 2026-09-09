@@ -1,8 +1,12 @@
-### TL;DR
+# Short TL;DRs
 
-The article accepts the traditional report that Aisha entered Prophet Muhammad’s household at nine, but argues that the age alone does not settle the moral question. It says modern assumptions about childhood cannot simply be projected onto seventh-century Arabia; the relevant questions are whether Aisha was incapable, coerced, harmed, or exploited.
+### aisha
 
-It argues that the surviving sources instead portray her as close to her family, able to disagree openly, and later a major scholar who spoke extensively about the marriage. It also argues that the Prophet’s wider marital history does not show a recurring preference for young girls. Finally, it stresses that defending the marriage historically does not mean endorsing marriage at nine today: Islamic principles of consent, sound judgment, kindness, welfare, and prevention of harm can support modern minimum-age laws.
+The traditional reports place Aisha’s entry into the Prophet Muhammad’s ﷺ household at nine, but age alone does not settle the moral question. The same chronological age did not necessarily represent the same developmental or social stage in seventh-century Arabia as it does today.
+
+The surviving record does not support claims of coercion, exploitation, or a predatory pattern. Aisha remained close to her family, openly disagreed with the Prophet, became a leading scholar, and spoke extensively about their marriage for decades. His wider life likewise shows trustworthiness, mercy, modest living despite political authority, gentleness toward women and children, and no pattern of cruelty or abuse.
+
+Defending the marriage in its historical setting does not mean advocating marriage at nine today. Changed educational, social, economic, and health conditions can justify minimum-age laws under Islamic principles of welfare and preventing harm. The enduring standards are consent, sound judgment, kindness, and protection from harm.
 
 ### TL;DR
 
