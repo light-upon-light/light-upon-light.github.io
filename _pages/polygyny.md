@@ -37,11 +37,9 @@ share: true
 <details class="tldr" markdown="1">
 <summary><span class="tldr__label">TL;DR</span></summary>
 
-Islam permits a man to have up to four wives, but presents polygyny as a restricted permission, not the normal or ideal form of marriage. Qur’an 4:3 limits an existing practice, places it in a context involving vulnerable women and orphans, requires justice between wives, and directs a man to marry only one if he fears he cannot be fair.
+Islam permits a man to have up to four wives, but it does not present polygyny as the ideal or as a privilege for satisfying male desire. Qur'an 4:3 introduces it in the context of protecting vulnerable women and orphans, limits an existing practice to four wives, requires justice between them, and tells a man to marry only one if he fears he cannot be fair. Every additional wife also brings additional legal obligations of maintenance, housing, time, and fair treatment.
 
-Each additional wife brings additional duties of maintenance, housing, time, and fair treatment. The Prophet Muhammad’s own marriages were legally exceptional, and the page also notes that a woman may stipulate monogamy in her marriage contract.
-
-The article argues that this asymmetry belongs to a broader Islamic family structure in which men and women have equal human worth but different responsibilities. Its conclusion is that polygyny is not a male entitlement, but a conditional allowance tied to justice, responsibility, and particular family or social needs.
+One wife is therefore the normal arrangement, while polygyny is a restricted permission that can serve particular family and social needs. Its asymmetric nature reflects the wider structure of Islamic family law, in which men and women have equal human worth but different roles, financial duties, and legal responsibilities. Islamic law also recognizes a wife's interests: the harm a second marriage may cause her is taken seriously, and she may stipulate monogamy in the marriage contract.
 </details>
 
 ## Introduction

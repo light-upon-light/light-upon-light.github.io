@@ -16,23 +16,11 @@ The jizya was not a punishment for refusing Islam or a device designed to force 
 
 Because jizya was generally a fixed payment while zakat was tied to wealth, it could create an incidental financial incentive to convert for some poorer non-Muslims who were still above the exemption threshold. But this was not the purpose of the institution, and the effect applied only within that limited group. Later humiliating or abusive methods of collection were likewise not part of the Islamic rules governing jizya; they were practices introduced by particular rulers or jurists and were rejected within the tradition itself. The jizya is therefore better understood as one side of a reciprocal fiscal and military arrangement than as extortion or a tax on disbelief.
 
-### TL;DR
+### polygyny
 
-The page argues that Islam permits **polygyny—one man having up to four wives—but treats it as a restricted permission, not the normal or ideal form of marriage**. Qur’an 4:3 places the permission in a context involving vulnerable women and orphans, limits the number of wives to four, requires fair treatment, and tells a man to marry only one if he fears he cannot be just.
+Islam permits a man to have up to four wives, but it does not present polygyny as the ideal or as a privilege for satisfying male desire. Qur'an 4:3 introduces it in the context of protecting vulnerable women and orphans, limits an existing practice to four wives, requires justice between them, and tells a man to marry only one if he fears he cannot be fair. Every additional wife also brings additional legal obligations of maintenance, housing, time, and fair treatment.
 
-Its main points are:
-
-* **One wife is presented as the norm.** Polygyny is lawful but not commanded or portrayed as spiritually superior.
-* **Justice is a condition.** A husband with multiple wives must divide material support, housing, time, and treatment fairly. Emotional equality cannot be guaranteed, but deliberate neglect or extreme favoritism is condemned.
-* **The permission also imposes obligations.** Each additional wife creates another set of financial and marital responsibilities; the page therefore rejects the idea that polygyny is simply a sexual privilege for men.
-* **The historical context matters.** The page says Qur’an 4:3 restricted an already-existing practice with no fixed limit and arose in a setting where widows and orphans needed family support.
-* **The Prophet Muhammad’s marriages were exceptional.** He was monogamously married to Khadija for about twenty-five years, later had multiple wives under rules specific to him, and was eventually prohibited from marrying further.
-* **A wife’s objections are not dismissed.** The page cites the Prophet preventing Ali from taking another wife while married to his daughter Fatima because of the harm it would cause her, while noting that this was not a general ban on polygyny.
-* **A woman may be able to require monogamy in her marriage contract.** The page particularly highlights the Hanbali legal position, under which violating such a condition can give her a right to end the marriage.
-* **The male/female asymmetry is defended as part of a broader Islamic family structure.** The argument is that men and women have equal human worth but different reproductive, financial, and familial roles, so different legal rules do not necessarily imply unequal value.
-* **Abuses are acknowledged.** Men who cannot support multiple households, treat wives unfairly, or neglect them violate the conditions attached to polygyny. The page also notes that some Muslim-majority countries regulate or prohibit the practice.
-
-**Bottom line:** the article’s defense is that Islam does not present “four wives” as a male entitlement. It presents polygyny as a **limited, conditional arrangement tied to justice, responsibility, and particular family or social needs**, with monogamy remaining the ordinary form of marriage.
+One wife is therefore the normal arrangement, while polygyny is a restricted permission that can serve particular family and social needs. Its asymmetric nature reflects the wider structure of Islamic family law, in which men and women have equal human worth but different roles, financial duties, and legal responsibilities. Islamic law also recognizes a wife's interests: the harm a second marriage may cause her is taken seriously, and she may stipulate monogamy in the marriage contract.
 
 ### TL;DR
 

@@ -1,6 +1,6 @@
 # Short TL;DRs
 
-### aisha
+## aisha
 
 The traditional reports place Aisha’s entry into the Prophet Muhammad’s ﷺ household at nine, but age alone does not settle the moral question. The same chronological age did not necessarily represent the same developmental or social stage in seventh-century Arabia as it does today.
 
@@ -8,19 +8,17 @@ The surviving record does not support claims of coercion, exploitation, or a pre
 
 Defending the marriage in its historical setting does not mean advocating marriage at nine today. Changed educational, social, economic, and health conditions can justify minimum-age laws under Islamic principles of welfare and preventing harm. The enduring standards are consent, sound judgment, kindness, and protection from harm.
 
-### jizya
+## jizya
 
 The jizya was not a punishment for refusing Islam, but part of a system dividing public obligations: certain able-bodied, adult non-Muslim men paid it and were normally exempt from military service, while Muslims paid zakat and remained liable for military service. Many others—including women, children, the poor, elderly, and disabled—were exempt, and the state owed protection in return.
 
 Because jizya was generally fixed while zakat was wealth-based, it could create an incidental incentive to convert for some poorer non-Muslims who were still above the exemption threshold. But this was not its purpose, and abusive or humiliating collection practices were later departures from the Islamic rules governing it.
 
-### TL;DR
+### polygyny
 
-Islam permits a man to have up to four wives, but presents polygyny as a **restricted permission, not the normal or ideal form of marriage**. Qur’an 4:3 limits an existing practice, places it in a context involving vulnerable women and orphans, requires justice between wives, and directs a man to marry only one if he fears he cannot be fair.
+Islam permits up to four wives, but polygyny is a restricted permission, not an ideal or a licence for male desire. Qur'an 4:3 limits it, requires justice, and directs a man to one wife if he fears he cannot be fair.
 
-Each additional wife brings additional duties of maintenance, housing, time, and fair treatment. The Prophet Muhammad’s own marriages were legally exceptional, and the page also notes that a woman may stipulate monogamy in her marriage contract.
-
-The article argues that this asymmetry belongs to a broader Islamic family structure in which men and women have equal human worth but different responsibilities. Its conclusion is that polygyny is **not a male entitlement**, but a conditional allowance tied to justice, responsibility, and particular family or social needs.
+One wife is the normal arrangement. Polygyny can serve particular family and social needs, while each additional wife brings additional legal obligations. Its asymmetry reflects the wider structure of Islamic family law, in which men and women have equal human worth but different roles and responsibilities.
 
 ### TL;DR
 
