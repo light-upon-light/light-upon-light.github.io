@@ -113,20 +113,26 @@ The distinction is important: something can be lawful and useful in some circums
 
 The Prophet ﷺ exceeded the ordinary four-wife limit, but his marital history and legal position were exceptional in more than one respect.
 
-He was married to Khadija alone for twenty-five years, from about age twenty-five until her death when he was around fifty. This covered his early adulthood and the entire first phase of his mission. His plural marriages came later, mostly after the migration to Medina. Most were to widows, several were to women past youth, and several established alliances between clans. His marriage to Aisha is discussed separately in [The Prophet Muhammad's ﷺ Marriage to Aisha](/aisha).
+He was married to Khadija alone for twenty-five years, from about age twenty-five until her death when he was around fifty. This covered his early adulthood and the entire first phase of his mission. His plural marriages came later, mostly after the migration to Medina. Most were to widows or divorcees, and they were contracted during the years in which he was also leading and teaching a growing community. His marriage to Aisha is discussed separately in [The Prophet Muhammad's ﷺ Marriage to Aisha](/aisha).
 
-The longest marriage of the Prophet's life was therefore monogamous. His later marriages had family, communal, political and social dimensions as well as personal ones. They also created a prophetic household whose members could directly observe and transmit aspects of his private and domestic practice that the wider community could not witness.
+The marriages did not all serve the same function, and it would be speculative to assign a single hidden motive to each. But several concrete purposes and effects are clear from the sources. Sawda, Hafsa, Zaynab bint Khuzayma, Umm Salama and Umm Habiba had all previously been married; most were widows, and marriage gave them a new household after loss. Hafsa's marriage also created kinship with Umar, as Aisha's did with Abu Bakr. Umm Habiba was the daughter of Abu Sufyan, then one of the leading Meccan opponents of Islam, so her marriage also created kinship across a major line of conflict.[3](#ref-3){: .footnote}
 
-His legal exceptionalism also worked in both directions. Qur'an 33:50 gave him a dispensation from the ordinary limit, while his wives were offered a choice between leaving with provision or remaining with him. Those who remained held the special status of "Mothers of the Believers" and could never marry another man after his death. At one stage Qur'an 33:52 also restricted him from taking additional wives or replacing his existing wives; classical exegetes differed over the verse's scope and whether that restriction was later lifted.[2](#ref-2){: .footnote}
+Other marriages had unusually direct social or legal effects. Juwayriya was the daughter of the chief of Banu al-Mustaliq; after the Companions learned that the Prophet ﷺ had married her, they freed the captives they held from her people because they had become the Prophet's relatives by marriage—Aisha reports that one hundred families were freed. Safiyya, from Khaybar's Jewish community, was freed by the Prophet ﷺ and her freedom was made her *mahr*. Most strikingly, Qur'an 33:37 itself states why the Prophet ﷺ married Zaynab bint Jahsh after her divorce from Zayd: to remove the taboo against marrying the former wife of an adopted son and make clear that an adopted son is not a biological son.[3](#ref-3){: .footnote}
 
-This made the arrangement restrictive in a way that is easy to overlook. An ordinary Muslim woman whose marriage ends by divorce or widowhood may marry again after the applicable waiting period, and Islamic law sets no lifetime numerical ceiling on successive marriages. The Prophet and his wives could not. Remaining in his household therefore brought exceptional status, but also permanently closed a marital option normally available to other men and women.
+The household also had a teaching function no ordinary household could have. The Prophet's private conduct was part of the religious example Muslims sought to preserve, yet much of married and domestic life could only be witnessed from inside the home. Multiple wives therefore meant multiple independent transmitters of matters involving worship, family life, character, and domestic law; Aisha and Umm Salama in particular became major teachers after him.
 
-His exemption from the four-wife limit was therefore not an open-ended licence. It belonged to a distinctive prophetic household with permissions, functions, and restrictions of its own.
+These functions help explain why the ordinary four-wife ceiling was not simply applied to him. An ordinary Muslim man was not responsible for building a prophetic household, forming kinship across a new community, preserving the Prophet's domestic example, or carrying out a marriage whose legal purpose God explicitly announced in revelation. Qur'an 33:50 accordingly describes the dispensation as specific to him—"exclusively for you, not for the believers"—and says it was given so that there would be no undue restriction upon him.
+
+A rigid ceiling of four could also have created a peculiar problem once several such marriages already existed. If a later marriage served another distinct prophetic or communal function, he could only make room for it by divorcing an existing wife. The Qur'an instead treated his wives as more than interchangeable places within a numerical allowance. They were offered a choice between leaving with provision or remaining with him; those who remained became "Mothers of the Believers" and could never marry another man after his death. At one stage Qur'an 33:52 went further and barred him not only from adding wives but from replacing his existing wives with others; classical exegetes differed over the verse's scope and whether that restriction was later lifted.[2](#ref-2){: .footnote}
+
+This makes the nature of the exception clearer. An ordinary Muslim man may, within the law, divorce and later remarry, while an ordinary Muslim woman whose marriage ends by divorce or widowhood may remarry after the applicable waiting period; Islamic law places no lifetime numerical ceiling on successive marriages. The Prophet's household was different: the number simultaneously present could exceed four because different marriages could serve functions attached to his prophetic mission, while the household itself became unusually fixed and his wives acquired a permanent public status. The exception therefore increased the number he could retain, not an unlimited freedom to acquire, discard, and replace wives.
+
+His exemption makes most sense, then, as a rule attached to the prophetic office rather than a model of greater sexual privilege. Ordinary Muslims did not share the functions for which his household was uniquely responsible, and the Qur'an explicitly says that they did not share his dispensation.
 
 Ali ibn Abi Talib, who was married to the Prophet's ﷺ daughter Fatima, sought to marry the daughter of Abu Jahl. Fatima went to her father, who said publicly:
 
 > "I do not give permission, and will not give permission ... For Fatima is a part of me ... and what hurts her, hurts me."
-> — *Sahih al-Bukhari* 5230; also 3729 and *Sahih Muslim* 6309–6310.[3](#ref-3){: .footnote}
+> — *Sahih al-Bukhari* 5230; also 3729 and *Sahih Muslim* 6309–6310.[4](#ref-4){: .footnote}
 {: .src }
 
 Ali did not proceed.
@@ -137,7 +143,7 @@ The report does **not** establish a general prohibition of polygyny. Its reasoni
 
 An Islamic marriage is a contract, and conditions in that contract can be enforceable. A woman may stipulate that her husband will not marry another wife.
 
-The legal schools differ over the remedy. The Hanbali position is the most explicit: it treats such a condition as binding and gives the wife the right to dissolve the marriage if her husband breaks it.[4](#ref-4){: .footnote}
+The legal schools differ over the remedy. The Hanbali position is the most explicit: it treats such a condition as binding and gives the wife the right to dissolve the marriage if her husband breaks it.[5](#ref-5){: .footnote}
 
 Therefore, this allows a woman to secure monogamy before marriage if that is what she wants.
 
@@ -161,7 +167,7 @@ Communities can also fail to enforce women's remedies, leaving women to bear the
 
 Qur'an 4:3 is also often quoted from the middle: "marry two, three, or four" is repeated without its opening concern for orphans or its closing instruction to marry one when justice is feared. That strips the permission from the very context and conditions by which the Qur'an defines it.
 
-Tunisia prohibits plural marriage outright, while several other Muslim-majority jurisdictions require judicial permission, proof of financial means, or notification of an existing wife.[5](#ref-5){: .footnote} Such regulations are debated within Islamic legal frameworks because 4:3 is conditional: a state may restrict a permission when it concludes that the attached condition is not being met.
+Tunisia prohibits plural marriage outright, while several other Muslim-majority jurisdictions require judicial permission, proof of financial means, or notification of an existing wife.[6](#ref-6){: .footnote} Such regulations are debated within Islamic legal frameworks because 4:3 is conditional: a state may restrict a permission when it concludes that the attached condition is not being met.
 
 ## Conclusion
 
@@ -185,11 +191,13 @@ Qur'an 4:3 therefore does not present polygyny as a prize for male desire. It pl
 
 2. <span id="ref-2"></span>Qur'an 33:50 contains the dispensation specific to the Prophet ﷺ; 33:28–29 contains the verse of choice, *ayat al-takhyir* [verse of choice], offering his wives release if they preferred the life of the world; 33:6 calls them "Mothers of the Believers"; and 33:53 prohibits marriage to them after his death. Qur'an 33:52 says that further women were not lawful to him and that he could not replace his existing wives. Classical exegetes differed over its scope and whether that restriction was later lifted; al-Tabari, al-Qurtubi and Ibn Kathir record the differing interpretations. The Prophet ﷺ did not in fact contract another marriage afterward.
 
-3. <span id="ref-3"></span>*Sahih al-Bukhari* 5230, with parallel wording in 3729 and *Sahih Muslim* 6309–6310. The Muslim version adds that the Prophet's daughter and the daughter of the enemy of God cannot be wives of the same man, particularising the report to those circumstances.
+3. <span id="ref-3"></span>*Sahih al-Bukhari* 5129 records Hafsa's widowhood before her marriage to the Prophet ﷺ; *Sahih Muslim* 918c records Umm Salama's widowhood and subsequent marriage to him; and *Sunan Abi Dawud* 2086 and 2107 record Umm Habiba's widowhood in Abyssinia and her marriage to him there. *Sunan Abi Dawud* 3931 records Aisha's statement that the marriage to Juwayriya led the Muslims to free one hundred families of Banu al-Mustaliq because they had become the Prophet's relatives by marriage. *Sahih al-Bukhari* 5086 records that he freed Safiyya and made her freedom her *mahr*. Qur'an 33:37 explicitly states the legal purpose of his marriage to Zaynab bint Jahsh. The wives' later role in transmitting religious knowledge is well attested in the hadith corpus; Aisha and Umm Salama are among its prominent female transmitters.
 
-4. <span id="ref-4"></span>The standard Hanbali position treats a condition against plural marriage as binding and gives the wife the right to dissolve the marriage if it is breached. This account comes from secondary literature on stipulations (*shurut* [conditions]) in the marriage contract and has not been checked against primary Hanbali manuals. [unverified]
+4. <span id="ref-4"></span>*Sahih al-Bukhari* 5230, with parallel wording in 3729 and *Sahih Muslim* 6309–6310. The Muslim version adds that the Prophet's daughter and the daughter of the enemy of God cannot be wives of the same man, particularising the report to those circumstances.
 
-5. <span id="ref-5"></span>Tunisia's Code of Personal Status (1956) prohibits plural marriage. Other Muslim-majority jurisdictions variously require judicial authorisation, proof of financial capacity, or notification of an existing wife. The details differ by country and have changed over time; the current statutes have not been checked. [unverified]
+5. <span id="ref-5"></span>The standard Hanbali position treats a condition against plural marriage as binding and gives the wife the right to dissolve the marriage if it is breached. This account comes from secondary literature on stipulations (*shurut* [conditions]) in the marriage contract and has not been checked against primary Hanbali manuals. [unverified]
+
+6. <span id="ref-6"></span>Tunisia's Code of Personal Status (1956) prohibits plural marriage. Other Muslim-majority jurisdictions variously require judicial authorisation, proof of financial capacity, or notification of an existing wife. The details differ by country and have changed over time; the current statutes have not been checked. [unverified]
 
 </div>
 
