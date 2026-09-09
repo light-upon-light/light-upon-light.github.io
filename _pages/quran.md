@@ -139,6 +139,12 @@ The man who delivered it strengthens that case. Muhammad ﷺ was known for excep
     > "The inimitability of the Qur'an has yet another dimension, one which people tend to overlook, and is unrecognized except by a sparse few—namely what it generates in the hearts and impresses onto the souls. Aside from the Qur'an, you do not hear of any discourse, neither poetry nor prose, that upon reaching one's ears provides such immediate pleasure and sweetness, and at other times such awe and intimidation, like the Qur'an does." Muḥammad Khalaf Allāh Aḥmad (ed.), Muḥammad Zaghlūl Sallām (ed.), and Issa J. Boullata (trans.), *Three Treatises on the I'jāz of the Qur'ān* (Reading, UK: Garnet Publishing, 2014),
     {: .src }
 
+    {% include yt-embed.html url="https://youtu.be/3bJ2FM_IB9Q" title="Qur'an Recitation of chapters: Maryam (Mary), Joseph, Luqman and Muhammad" %}
+
+    {% include yt-embed.html url="https://youtube.com/shorts/4pf9Cu5cwhs" title="Qur'an Recitation of Al-Rahman (Youtube Short)" %}
+
+    {% include yt-embed.html url="https://youtube.com/shorts/4pf9Cu5cwhs" title="Qur'an Recitation of Al-Talaq (Youtube Short)" %}
+
 ### <span class="num-roman">III.</span> Challenges and Bold Claims
 {: #challenges-and-bold-claims }
 
