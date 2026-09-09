@@ -184,4 +184,4 @@ The uploaded document is a page from an Islamic apologetics website. Please crea
 
 Write it from the same perspective as the page itself: it should present and support the page’s argument, not describe it from the perspective of a detached or neutral outside observer.
 
-Keep it coherent, clear, pleasant to read, easy to understand, and faithful to the page’s reasoning and conclusions.
+Keep it coherent, clear, pleasant to read and easy to understand.
