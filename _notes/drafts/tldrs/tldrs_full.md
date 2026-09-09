@@ -44,19 +44,9 @@ It then considers Prophet Muhammad ﷺ himself. The page argues that the main al
 
 **TL;DR:** The website argues that the Qur’an’s unusual mode of revelation, literary qualities, teachings, preservation, predictions, and historical impact—combined with Muhammad’s character, conduct, sacrifices, and early historical attestation—form a cumulative case that the Qur’an came from God and that Muhammad ﷺ was a genuine prophet rather than a fraud, deluded person, evil influence, or later legend.
 
-### TL;DR
+### ridda
 
-The article argues that **Islam does not prescribe death simply for privately ceasing to believe in Islam**. It distinguishes a private change of faith from *ridda*, which in many early legal and historical contexts was tied to **political defection, rebellion, or other public acts against the Muslim community**.
-
-The Qur'an mentions apostasy several times but **never assigns it a worldly punishment**. It even describes people believing, disbelieving, returning to belief, and disbelieving again, while stating that there should be “no compulsion in religion.” The article therefore presents unbelief itself as a matter between the individual and God.
-
-The death penalty found in classical Islamic law comes mainly from hadith. However, one key hadith describes the punishable person as someone who **“abandons his religion and separates from the community.”** The article argues that this wording, along with historical examples, suggests something more than a private change of belief.
-
-The major historical cases also involved additional offences. The *ridda* wars concerned tribes withdrawing political allegiance and refusing *zakat* [the obligatory levy], while the Urayna case involved **murder, robbery, and armed violence** as well as apostasy. The Treaty of Hudaybiyya is also presented as difficult to reconcile with a universal rule that every apostate must be killed.
-
-Although **most classical jurists did prescribe death for apostasy**, the tradition was not completely unanimous. Hanafi jurists did not execute female apostates, partly because they viewed the capital element as connected to combat rather than unbelief itself. Early scholars such as Ibrahim al-Nakhaʿi and Sufyan al-Thawri also rejected automatic execution, and some modern Muslim scholars likewise argue that private apostasy carries no worldly punishment.
-
-**Bottom line:** the article's case is that the strongest Islamic sources do not support executing someone merely for changing their personal beliefs. It argues that the classical capital punishment is better understood in connection with **treason, rebellion, violent hostility, or separation from the political community**, while acknowledging that execution nevertheless became the majority position in classical Islamic law.
+Islam does not prescribe death for merely changing one's beliefs. The Qur'an discusses apostasy repeatedly without assigning it any worldly punishment, and the hadith and historical cases behind the classical ruling concern separation from the Muslim community, rebellion, murder, robbery or political defection rather than private unbelief. Early jurists also rejected execution for apostasy itself, while Hanafi reasoning tied capital punishment to combat rather than disbelief. Treating a private change of faith as a capital crime therefore conflates unbelief with the additional political acts—which affected public order—that made *ridda* punishable in the first place.
 
 ### TL;DR
 

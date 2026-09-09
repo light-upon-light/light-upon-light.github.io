@@ -32,15 +32,11 @@ The Qur’an and the life of Prophet Muhammad ﷺ together form a cumulative cas
 
 Muhammad ﷺ was known for exceptional character and moral conduct, endured persecution for his message, lived simply even after gaining power, and became one of the most influential human beings in history. Taken together, the Qur’an and the Messenger point most naturally to the conclusion that Muhammad ﷺ was a true prophet of God and the Qur’an is revelation from Him.
 
-### TL;DR
+## ridda
 
-The article argues that **Islam does not prescribe death simply for privately leaving the faith**. The Qur'an mentions apostasy but gives it no worldly punishment, while key hadith and historical cases connect *ridda* to **separation from the Muslim community, rebellion, or violent wrongdoing**.
+Islam does not prescribe death for merely changing one's beliefs. The Qur'an assigns no worldly punishment to apostasy, while the relevant hadith and historical cases concern rebellion, violence or political defection. Treating private unbelief as a capital crime therefore confuses apostasy itself with the public acts that made *ridda* punishable.
 
-Although execution became the majority classical ruling, the legal tradition was not unanimous. Some early and Hanafi jurists, as well as modern scholars, distinguished **unbelief itself from punishable acts such as treason, combat, or public rebellion**.
-
-**Bottom line:** the article argues that private disbelief is a matter between a person and God, while the classical death penalty is better understood in connection with political or violent defection rather than belief alone.
-
-### TL;DR
+## sword
 
 Islam did spread partly through military conquest, but **conquest and conversion were not the same thing**. Muslim rule often expanded quickly, while populations usually converted gradually over centuries. Non-Muslims commonly remained under Muslim rule, and large Jewish, Christian, Hindu, and other communities survived for long periods.
 
