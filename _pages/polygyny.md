@@ -163,7 +163,7 @@ Tunisia prohibits plural marriage outright, while several other Muslim-majority 
 
 Islam does not permit men more than one wife because men matter more than women. One wife is the normal form of marriage; polygyny is a restricted allowance that can meet particular family and social needs, and every additional wife brings another set of responsibilities.
 
-The rule is asymmetric because Islamic family law itself is asymmetric. Men and women have equal human worth, but they are not treated as interchangeable: their fundamental natures differ, therefore their reproductive roles differ, financial duties differ, and some of their rights differ accordingly.
+The rule is asymmetric because Islamic family law itself is asymmetric. Men and women have equal human worth, but they are not treated as interchangeable: their fundamental natures differ, therefore their roles differ, financial duties differ, and some of their rights differ accordingly.
 
 Qur'an 4:3 therefore does not present polygyny as a prize for male desire. It places the permission in a passage about vulnerable dependents, limits it to four, conditions it on justice, and directs a man to one wife when he fears he cannot be fair. Reducing the institution to "men are allowed four women" leaves out the context, obligations, and family structure through which Islam understands it.
 

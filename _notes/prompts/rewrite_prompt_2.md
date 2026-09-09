@@ -161,7 +161,7 @@ Please create a plan first, show it to me, then implement it after I give you th
 
 ## Adding points from notes to page
 
-The uploaded document is a page in an Islam apologetics website. Below are some very rough notes of ideas that I think are useful to include/develop further on the page. Please think about how to include them/develop them further on the page in a coherent, clear, **concise**, non-redundant, flowing, easy to understand, effective and convincing manner. Given that these are rough notes, you don't need to take any words verbatim, please synthesize the intended meanings. Please also follow the writing style of the page. Make a thorough plan on how to integrate them first for approval.
+The uploaded document is a page in an Islam apologetics website. Below are some very rough notes of ideas that I think are useful to include/develop further on the page. Please think about how to include them/develop them further on the page in a coherent, clear, **concise**, non-redundant, flowing, easy to understand, effective and convincing manner. Given that these are rough notes, you don't need to take any words verbatim, please synthesize the intended meanings. Please also follow the writing style of the page. Make a well thought out plan on how to integrate them first for approval.
 
 """
 """
