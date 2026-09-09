@@ -16,21 +16,19 @@ The jizya was not a punishment for refusing Islam or a device designed to force 
 
 Because jizya was generally a fixed payment while zakat was tied to wealth, it could create an incidental financial incentive to convert for some poorer non-Muslims who were still above the exemption threshold. But this was not the purpose of the institution, and the effect applied only within that limited group. Later humiliating or abusive methods of collection were likewise not part of the Islamic rules governing jizya; they were practices introduced by particular rulers or jurists and were rejected within the tradition itself. The jizya is therefore better understood as one side of a reciprocal fiscal and military arrangement than as extortion or a tax on disbelief.
 
-### polygyny
+## polygyny
 
 Islam permits a man to have up to four wives, but it does not present polygyny as the ideal or as a privilege for satisfying male desire. Qur'an 4:3 introduces it in the context of protecting vulnerable women and orphans, limits an existing practice to four wives, requires justice between them, and tells a man to marry only one if he fears he cannot be fair. Every additional wife also brings additional legal obligations of maintenance, housing, time, and fair treatment.
 
 One wife is therefore the normal arrangement, while polygyny is a restricted permission that can serve particular family and social needs. Its asymmetric nature reflects the wider structure of Islamic family law, in which men and women have equal human worth but different roles, financial duties, and legal responsibilities. Islamic law also recognizes a wife's interests: the harm a second marriage may cause her is taken seriously, and she may stipulate monogamy in the marriage contract.
 
-### TL;DR
+## punishments
 
-The page argues that Islamic *hudud* punishments are severe, but they were not meant to be automatically imposed whenever someone committed the underlying sin. Islamic law distinguishes between **sin before God** and **an offence legally punishable by the state**. A person could commit a sin, sincerely repent, and be forgiven by God without ever receiving a *hadd* punishment.
+The *hudud* punishments are severe and genuinely rooted in the Islamic sources, but they were never meant to be the automatic worldly consequence of every private sin. Islam distinguishes between a person’s accountability before God—where repentance, reform, and divine mercy are always open—and the state’s much narrower authority to punish legally established offences affecting the public order.
 
-The *hudud* instead belonged to public law and were surrounded by strict limits. Conviction could require exceptionally demanding proof; authorities were forbidden from spying to uncover private wrongdoing; unsupported accusations were themselves punishable; confession could be discouraged; and jurists sought to avoid fixed penalties when serious legal doubt existed. Social circumstances and, in some cases, repentance could also affect whether a punishment was legally applicable.
+That is why classical Islamic law surrounded the *hudud* with unusually strict restraints: demanding standards of proof, penalties for unsupported accusations, discouragement of confession, prohibitions on spying into private wrongdoing, avoidance of fixed penalties where serious doubt existed, recognition of repentance in certain cases, and attention to necessity and social conditions. The penalties were therefore difficult to impose and historically rare. Enforcing their severity while discarding these safeguards does not preserve the classical Islamic legal structure; it distorts it.
 
-Because of these restrictions, the page says *hudud* punishments appear to have been **rarely carried out historically**. Failing to meet the requirements for a fixed *hadd* did not necessarily mean there could be no punishment at all, since judges could sometimes use discretionary punishment (*taʿzir*).
-
-The central claim is that simply listing punishments such as amputation, flogging, or stoning gives an incomplete picture. The classical legal system paired severe maximum penalties with strong procedural restraints intended to limit state intrusion and make those penalties difficult to impose. The page therefore argues that modern governments that enforce the punishments while abandoning those safeguards are not reproducing the classical legal structure it describes.
+## quran
 
 The page presents a cumulative apologetic case that the Qur’an is of divine origin and that Prophet Muhammad ﷺ was genuinely a prophet of God. It argues that no single point proves this by itself, but that the evidence becomes persuasive when considered together.
 

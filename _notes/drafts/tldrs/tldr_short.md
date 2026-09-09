@@ -14,19 +14,17 @@ The jizya was not a punishment for refusing Islam, but part of a system dividing
 
 Because jizya was generally fixed while zakat was wealth-based, it could create an incidental incentive to convert for some poorer non-Muslims who were still above the exemption threshold. But this was not its purpose, and abusive or humiliating collection practices were later departures from the Islamic rules governing it.
 
-### polygyny
+## polygyny
 
 Islam permits up to four wives, but polygyny is a restricted permission, not an ideal or a licence for male desire. Qur'an 4:3 limits it, requires justice, and directs a man to one wife if he fears he cannot be fair.
 
 One wife is the normal arrangement. Polygyny can serve particular family and social needs, while each additional wife brings additional legal obligations. Its asymmetry reflects the wider structure of Islamic family law, in which men and women have equal human worth but different roles and responsibilities.
 
-### TL;DR
+## punishments
 
-Islamic *hudud* punishments are severe, but the page argues they were not meant to be automatically imposed whenever someone sinned. Islamic law distinguished between **sin before God** and **an offence legally punishable by the state**.
+The *hudud* punishments are severe and rooted in Islamic sources, but they were not meant as the automatic worldly consequence of every private sin. Islam distinguishes between accountability before God—where repentance and mercy are always open—and the state’s narrower authority to punish legally established public offences.
 
-Fixed punishments were surrounded by strict safeguards: demanding proof, bans on spying into private wrongdoing, penalties for false accusations, discouraged confession, and a preference for avoiding punishment when serious doubt existed. Social circumstances and repentance could also affect enforcement.
-
-The page’s main point is that listing punishments like flogging, amputation, or stoning without these restrictions gives an incomplete picture of the classical legal system.
+Classical Islamic law therefore imposed strict safeguards: demanding proof, penalties for false accusation, prohibitions on spying, avoidance of fixed penalties where serious doubt existed, and consideration of repentance and social conditions. Applying the punishments while discarding these restraints distorts the legal structure they belong to.
 
 ### TL;DR
 
