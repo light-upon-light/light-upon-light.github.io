@@ -26,13 +26,11 @@ The *hudud* punishments are severe and rooted in Islamic sources, but they were 
 
 Classical Islamic law therefore imposed strict safeguards: demanding proof, penalties for false accusation, prohibitions on spying, avoidance of fixed penalties where serious doubt existed, and consideration of repentance and social conditions. Applying the punishments while discarding these restraints distorts the legal structure they belong to.
 
-### TL;DR
+## quran
 
-The page argues that the Qur’an and Prophet Muhammad ﷺ together form a cumulative case for Islam’s truth. It highlights the Qur’an’s oral revelation over 23 years, literary qualities, coherence, teachings, preservation, predictions, and historical impact.
+The Qur’an and the life of Prophet Muhammad ﷺ together form a cumulative case for his prophethood. Revealed orally over twenty-three years in seventh-century Arabia by a man who could neither read nor write, the Qur’an displays extraordinary literary quality, coherence, guidance, preservation, and fulfilled predictions while openly inviting scrutiny.
 
-It then argues that Muhammad ﷺ is difficult to explain as a fraud, deluded person, evil influence, or later legend, given his sacrifices, character, leadership, message, and early historical attestation.
-
-**TL;DR:** Taken together, the Qur’an’s qualities and Muhammad’s life are presented as best explained by the claim that the Qur’an came from God and that Muhammad ﷺ was a genuine prophet.
+Muhammad ﷺ was known for exceptional character and moral conduct, endured persecution for his message, lived simply even after gaining power, and became one of the most influential human beings in history. Taken together, the Qur’an and the Messenger point most naturally to the conclusion that Muhammad ﷺ was a true prophet of God and the Qur’an is revelation from Him.
 
 ### TL;DR
 
