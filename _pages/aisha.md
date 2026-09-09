@@ -269,27 +269,29 @@ The Prophet’s marital history does not display such a pattern. He spent about 
 
 Using the term as though that pattern had already been demonstrated therefore assumes what would first need to be established.
 
-### His wider conduct
+### His wider moral character and teachings
 
-The Prophet’s private and public conduct is recorded in unusual detail.
+The Prophet’s wider character cannot by itself prove the moral character of this marriage. A person may display many virtues and still commit a serious wrong. But when the objection claims that the marriage reveals predatory motives or disqualifies him as a moral example, the broader pattern of his conduct and teachings is relevant evidence.
 
-Before his prophethood he was known in Mecca as *al-Amin* [the trustworthy]. Even after he began preaching against the beliefs of the Quraysh, some enemies continued to leave valuables with him for safekeeping, and at the migration he left Ali behind to return those deposits.[7](#ref-7){: .footnote}
+His private and public life is recorded in unusual detail. Before his prophethood he was known in Mecca as *al-Amin* [the trustworthy]. Even after he began preaching against the beliefs of the Quraysh, some enemies continued to leave valuables with him for safekeeping, and at the migration he left Ali behind to return those deposits.[7](#ref-7){: .footnote}
 
 The Qur’an describes him as possessing great moral character, as a mercy to the worlds, as gentle toward those around him, and as deeply affected by the suffering of others.[8](#ref-8){: .footnote} When Aisha was asked about his character, she said that his character was the Qur’an, meaning that his conduct embodied its teachings.[9](#ref-9){: .footnote}
 
-Although he governed a state, he accumulated little property. Aisha reported that two or three months could pass without a cooking fire being lit in his houses, with the household living on dates, water, and food sent by neighbours.[10](#ref-10){: .footnote} Earlier, when the Quraysh offered wealth and political authority in exchange for ending his preaching, he refused.[7](#ref-7){: .footnote} When Mecca later came under his control, he granted a general amnesty to people who had persecuted him and his followers.[7](#ref-7){: .footnote}
+The moral standards he taught were correspondingly broad. They included justice even when it weighs against oneself or one’s family, care for orphans, protection of neighbours, disciplined speech, self-control in anger, generosity, forgiveness, and humility.[36](#ref-36){: .footnote} These are not specifically marital rules. They form part of the general ethical framework by which his own conduct was understood and by which Muslims were expected to treat other people.
 
-Those who lived with him also testified that he never struck a woman or servant.[11](#ref-11){: .footnote} He annulled a marriage imposed on a woman by her father.[12](#ref-12){: .footnote} He also established and enforced women’s rights to own property, inherit, and give testimony in a society where inheritance had largely been treated as a male concern. His wives argued with him openly, even though visitors from Mecca regarded a wife’s raised voice as scandalous.[13](#ref-13){: .footnote}
+His exercise of power also matters. Although he governed a state, he accumulated little property. Aisha reported that two or three months could pass without a cooking fire being lit in his houses, with the household living on dates, water, and food sent by neighbours.[10](#ref-10){: .footnote} Earlier, when the Quraysh offered wealth and political authority in exchange for ending his preaching, he refused.[7](#ref-7){: .footnote} When Mecca later came under his control, he granted a general amnesty to people who had persecuted him and his followers.[7](#ref-7){: .footnote}
+
+Those who lived with him testified that he never struck a woman or servant.[11](#ref-11){: .footnote} He annulled a marriage imposed on a woman by her father.[12](#ref-12){: .footnote} His wives also argued with him openly, even though visitors from Mecca regarded a wife’s raised voice as scandalous.[13](#ref-13){: .footnote} He also established and enforced women’s rights to own property, inherit, and give testimony in a society where inheritance had largely been treated as a male concern. His wives argued with him openly, even though visitors from Mecca regarded a wife’s raised voice as scandalous.[13](#ref-13){: .footnote}
+
+His conduct with children is preserved in similarly ordinary detail: he carried his granddaughter during congregational prayer, shortened prayer when he heard an infant crying because he was concerned for the mother, and publicly kissed children in a culture where a chief could boast that he had ten children and had never kissed any of them.[14](#ref-14){: .footnote}[15](#ref-15){: .footnote}
 
 The wider record of what Islam required of men toward women — including consent, property ownership, inheritance, testimony, and divorce at the wife’s initiative, as well as the verses and reports often quoted against Islam — is discussed in [Islam and Women](/women).
 
 The sources also preserve material that complicates an idealized portrait. They describe the Prophet tired, irritated, mistaken about ordinary worldly matters, and losing arguments with his wives. These reports were transmitted by people who revered him. Their preservation weighs against the idea that the tradition simply removed every difficult domestic detail.
 
-His conduct with children is likewise preserved in ordinary detail. He carried his granddaughter during congregational prayer, shortened prayer when he heard an infant crying because he was concerned for the mother, and publicly kissed children in a culture where a chief could boast that he had ten children and had never kissed any of them.[14](#ref-14){: .footnote}[15](#ref-15){: .footnote}
+None of this proves the character of Aisha’s marriage by itself; that case must stand on the evidence concerning Aisha and the marriage itself. But the accusation is not made in an evidential vacuum. The broader record shows no recurring pattern of cruelty, concealment, or sexual interest in children, while the moral teaching attributed to the Prophet consistently emphasizes justice, mercy, restraint, and protection of the vulnerable.
 
-None of this proves the character of Aisha’s marriage by itself. It establishes the wider context in which the specific evidence must be read. The Prophet’s private life was closely observed, yet the surviving record shows no recurring pattern of cruelty, concealment, or sexual interest in children.
-
-To sustain the accusation therefore requires supposing that he behaved differently in this one case, that a tradition willing to preserve awkward domestic material suppressed the central wrong, and that Aisha’s own extensive testimony nevertheless failed to disclose it.
+A contrary interpretation must therefore explain why this alleged predatory character is not reflected in his wider marital history, his observed conduct, the ethical standards he taught, or Aisha’s own extensive testimony.
 
 ## Specific questions
 
@@ -341,7 +343,7 @@ Islamic law has always distinguished normative conduct from circumstance. The Pr
 
 The tradition has therefore never assumed that every feature of his life must be copied.
 
-The general principles drawn from his marriages are different: kindness, recognition of women as persons with rights, protection from coercion and harm, support for learning, and responsibility toward widows and children.
+The general principles drawn from his marriages are different: kindness, recognition of women as persons with equal worth and rights, protection from coercion and harm, support for learning, and responsibility toward widows and children.
 
 The Prophet did not recommend this particular kind of marriage to others and did not repeat it himself. No school of Islamic law has treated his marriage to Aisha as an instruction that Muslims should seek young girls as wives.
 
@@ -364,7 +366,7 @@ The central historical mistake is to assume that the same chronological age must
 
 That does not make age irrelevant, nor does historical custom make a practice right. It means that claims of incapacity, coercion, exploitation, or predatory desire must be established from evidence rather than inferred automatically from a modern age category.
 
-The surviving record provides unusually extensive evidence with which to test those claims. Aisha remained connected to her family, spoke openly and sometimes critically within the marriage, had opportunities to deliberate and disagree, and spent nearly fifty years afterward teaching publicly and describing the Prophet in detail. Islamic law expressly required consent and records the annulment of a forced marriage. The Prophet’s wider marital history shows no recurring preference for children, while the tradition preserves enough difficult domestic material to make simple concealment an inadequate explanation by itself.
+The surviving record provides unusually extensive evidence with which to test those claims. Aisha remained connected to her family, spoke openly and sometimes critically within the marriage, had opportunities to deliberate and disagree, and spent nearly fifty years afterward teaching publicly and describing the Prophet in detail. Islamic law expressly required consent and records the annulment of a forced marriage. The Prophet’s wider marital history shows no recurring preference for children, while his broader conduct and teachings emphasize justice, mercy, restraint, and care for the vulnerable. The tradition also preserves enough difficult domestic material to make simple concealment an inadequate explanation by itself.
 
 None of this requires Muslims to reproduce the historical circumstances of the marriage today. Modern social, educational, economic, and developmental conditions can justify minimum-age laws under the Islamic principles of welfare and prevention of harm.
 
@@ -449,6 +451,8 @@ The enduring standards are therefore clearer than the historical circumstances: 
 
 35. <span id="ref-35"></span>Qur'an 4:19.
 
+36. <span id="ref-36"></span>Qur'an 4:135; *Sahih al-Bukhari* 6005, 6018, 6114; *Sahih Muslim* 2588.
+
 </div>
 
 ## Qur'an verses cited
@@ -456,6 +460,7 @@ The enduring standards are therefore clearer than the historical circumstances: 
 - 3:159 — gentleness as the reason people gathered around him
 - 4:6 — property released on marriageable age *and* sound judgment (*rushd* [sound practical judgment])
 - 4:19 — living with wives in kindness (*maʿrūf* [what is right and recognized as right])
+- 4:135 — justice even when it weighs against oneself or close relatives
 - 9:128 — his grief at what others suffer
 - 21:107 — sent as a mercy to the worlds
 - 24:11–20 — the slander, and the evidentiary law it established
