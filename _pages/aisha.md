@@ -325,9 +325,7 @@ That matters because it warns against reading a modern age category backward as 
 
 Defending Aisha’s marriage as legitimate in its seventh-century setting does not require supporting marriage at nine today. The surrounding social and material conditions have changed.
 
-Modern societies generally keep young people in education until around eighteen and organize adult economic life around that expectation. Early marriage can therefore remove a girl from education and restrict her future independence. Marriage today also often creates a separate household rather than placing a couple within an extended family network.
-
-In present conditions, early marriage is also strongly associated with coercion where a girl’s refusal is not respected. Pregnancy in early adolescence can carry serious medical risks, including obstructed labour, obstetric fistula, and maternal death.
+Modern societies generally keep young people in education until around eighteen and organize adult economic life around that expectation. Early marriage can therefore remove a girl from education and restrict her future independence. Marriage today also often creates a separate household rather than placing a couple within an extended family network. Also in present conditions, early marriage is also strongly associated with coercion where a girl’s refusal is not respected.
 
 Islamic law contains a general principle directly relevant to such conditions: *lā ḍarar wa-lā ḍirār* [no harm should be inflicted or reciprocated].[30](#ref-30){: .footnote} When a normally permitted practice reliably causes harm under changed circumstances, restricting it can apply the law’s purpose rather than depart from it.
 
@@ -368,7 +366,7 @@ That does not make age irrelevant, nor does historical custom make a practice ri
 
 The surviving record provides unusually extensive evidence with which to test those claims. Aisha remained connected to her family, spoke openly and sometimes critically within the marriage, had opportunities to deliberate and disagree, and spent nearly fifty years afterward teaching publicly and describing the Prophet in detail. Islamic law expressly required consent and records the annulment of a forced marriage. The Prophet’s wider marital history shows no recurring preference for children, while the tradition preserves enough difficult domestic material to make simple concealment an inadequate explanation by itself.
 
-None of this requires Muslims to reproduce the historical circumstances of the marriage today. Modern social, educational, economic, and medical conditions can justify minimum-age laws under the Islamic principles of welfare and prevention of harm.
+None of this requires Muslims to reproduce the historical circumstances of the marriage today. Modern social, educational, economic, and developmental conditions can justify minimum-age laws under the Islamic principles of welfare and prevention of harm.
 
 The enduring standards are therefore clearer than the historical circumstances: marriage should involve consent, kindness, sound judgment, and protection from harm. Those are the principles by which the Prophet’s example is carried forward.
 
