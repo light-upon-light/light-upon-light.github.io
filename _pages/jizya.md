@@ -139,7 +139,7 @@ In practice, the institution was sometimes used coercively or humiliatingly. Cla
 
 ## Did the jizya pressure people to convert?
 
-Even when collected lawfully, the jizya gave non-Muslims a financial reason to convert because conversion ended the liability. Historical evidence indicates that this incentive affected at least some conversions.
+Even when collected lawfully, the jizya could make conversion financially attractive to some non-Muslims, but not to all. Conversion ended the jizya liability, yet Muslims were instead liable for zakat. Because jizya was generally a fixed payment while zakat rose with qualifying wealth, the incentive was strongest among lower-income men who were still above the jizya exemption threshold and for whom the jizya exceeded the zakat they would otherwise owe. The destitute paid no jizya at all, while for wealthier people conversion was not necessarily cheaper.
 
 Mohamed Saleh and Jean Tirole use Egyptian papyrological tax records and later census data to study the effect. Because a poll tax is a fixed charge per person, it takes a larger share of a poor person's resources than a rich person's. Their evidence indicates that poorer Copts converted at higher rates, leaving a smaller and comparatively wealthier Coptic minority by around 1200.[15](#ref-15){: .footnote}
 
@@ -165,7 +165,7 @@ Once the underlying division of duties disappears, so does the basis for the tax
 
 ## Conclusion
 
-The jizya belonged to a pre-modern arrangement in which certain non-Muslim men paid a tax, were normally exempt from military service, and received a binding right to protection, while Muslims carried different fiscal and military obligations. Liability was limited and abuse prohibited, but the tax could still weigh heavily on poorer people, create an incentive to convert, and be used by later rulers in degrading ways. It was therefore more than a fine for refusing Islam, without being free of pressure or abuse.
+The jizya belonged to a pre-modern arrangement in which certain non-Muslim men paid a tax, were normally exempt from military service, and received a binding right to protection, while Muslims carried different fiscal and military obligations. Liability was limited and abuse prohibited. Its fixed structure could still place disproportionate pressure on lower-income men who remained above the exemption threshold, and later rulers unfortunately sometimes used the institution in degrading ways, departing from Islamic teachings.
 
 ---
 
