@@ -12,20 +12,9 @@ Defending Aisha’s marriage in its historical setting does not mean advocating 
 
 ## jizya
 
-The article argues that the **jizya was not simply a punishment for refusing to convert to Islam**, but part of a pre-modern political system in which certain non-Muslim subjects paid a tax in exchange for protection and exemption from military service. Muslims did not pay jizya, but had different obligations, including zakat and military service.
+The jizya was not a punishment for refusing Islam or a device designed to force conversion. It was part of a pre-modern system that divided public obligations by religious community: certain able-bodied, adult non-Muslim men paid jizya and were normally exempt from military service, while Muslims paid zakat and remained liable for military service. Women, children, the elderly, the poor, the disabled, monks, and others were exempt, and non-Muslims who served militarily could also be exempt. In return, the Muslim state was bound to protect those who paid, and early Muslim authorities even returned the tax when they could no longer provide that protection.
 
-Key points:
-
-* **Not every non-Muslim paid it.** Liability was generally limited to free, adult, sane, able-bodied men who could afford it. Women, children, the elderly, poor, disabled, chronically ill, and some clergy were exempt.
-* **Military service could replace the tax.** Non-Muslims who fought alongside Muslim forces could be exempt from jizya.
-* **The state owed protection in return.** The article cites treaties and reports indicating that Muslim authorities were required to protect non-Muslim subjects, including from abuse by Muslims, and sometimes returned jizya when they could no longer provide protection.
-* **Qur'an 9:29 is presented as a wartime settlement, not a universal command to fight all non-Muslims.** The article connects it with other verses prohibiting religious compulsion and requiring fairness toward peaceful non-Muslims.
-* **“While they are humbled” was interpreted differently.** Some scholars understood it simply as submission to state authority; others prescribed visible or even degrading forms of submission. The article acknowledges that later rulers and jurists sometimes imposed humiliating practices.
-* **Jizya could still pressure people to convert.** Since conversion removed the tax, it gave non-Muslims—especially poorer people—a financial incentive to become Muslim. The article cites historical research on Egypt suggesting this contributed to gradual conversion over centuries.
-* **Actual practice did not always match the legal ideal.** Some governments abused the tax, continued collecting it from converts, or used discriminatory rules against non-Muslims.
-* **The article argues jizya is not applicable to modern equal-citizenship states**, because the older system divided taxes and military obligations according to religious community.
-
-**Bottom line:** The article presents jizya as a **tax tied to political status, military exemption, and state protection rather than merely a “pay or convert” penalty**, while conceding that it was religiously discriminatory, could create economic pressure to convert, and was sometimes enforced abusively or humiliatingly.
+Because jizya was generally a fixed payment while zakat was tied to wealth, it could create an incidental financial incentive to convert for some poorer non-Muslims who were still above the exemption threshold. But this was not the purpose of the institution, and the effect applied only within that limited group. Later humiliating or abusive methods of collection were likewise not part of the Islamic rules governing jizya; they were practices introduced by particular rulers or jurists and were rejected within the tradition itself. The jizya is therefore better understood as one side of a reciprocal fiscal and military arrangement than as extortion or a tax on disbelief.
 
 ### TL;DR
 

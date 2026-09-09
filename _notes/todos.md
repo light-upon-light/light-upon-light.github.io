@@ -4,6 +4,10 @@ general:
 
 ---
 
+jizya:
+
+- Why is a quarter of this tldr and the beginning of the second paragraph concessions? and why are you saying that the "system" was not free from inequality or abuse. What does that sentence even serve to do?? The points being made on the page is that even if there was some indirect pressure to convert it was not the aim of the system, and only applied to a really small portion of people: the poor people who are poor enough so that the flat fee is higher than the percentage fee of zakat while rich enough to have to pay it. And any abuse that happens were specific people disobeying the teachings of the faith and are not part of the "system".
+
 ridda:
 
 punsihments:
