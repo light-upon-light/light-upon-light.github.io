@@ -44,10 +44,8 @@ Conquest changed political rule, not the population’s religion: non-Muslim com
 
 The Qur'an rejects compulsion in religion and commands that people be invited through wisdom and good counsel. Islamic rules of war also protected non-combatants and imposed ethical limits on warfare. Conquest explains the spread of Muslim rule; it does not, by itself, explain the spread of Muslim belief.
 
-### TL;DR
+## wadribuhunna
 
-Qur'an 4:34 does **not permit domestic abuse**. The verse addresses **serious marital misconduct**, not ordinary disagreements, and gives a graduated response: counsel, marital withdrawal, then the disputed expression *waḍribūhunna*, followed by arbitration if the conflict continues.
+Qur'an 4:34 does not permit domestic abuse. It addresses serious marital misconduct, not ordinary disagreement, and gives a graduated response before the disputed expression *waḍribūhunna*. Some scholars understood it as separation or distancing; others understood it physically, but classical jurists restricted that reading so that it could not involve injury, cruelty, or abuse.
 
-Some scholars understood *waḍribūhunna* as **separation or distancing**. Others understood it physically, but classical jurists strictly prohibited injury, cruelty, leaving marks, striking the face, or abusive conduct. The Prophet Muhammad ﷺ himself **never struck a woman** and condemned husbands who mistreated their wives.
-
-**In short:** whatever interpretation is taken, Qur'an 4:34 does not give husbands a right to beat or abuse their wives.
+This is consistent with the Qur'an’s commands to live with one’s wife in kindness and avoid harm, and with the Prophet’s example: he never struck a woman and condemned husbands who mistreated their wives. Whatever interpretation is adopted, the verse cannot legitimately be turned into a license for wife-beating or domestic abuse.
