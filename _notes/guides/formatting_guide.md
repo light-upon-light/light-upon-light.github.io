@@ -38,6 +38,13 @@ misconception pages and no `toc_levels` on `quran.md` mean an `## TL;DR`
 would enter some TOCs and not others. The `<span>` keeps every page's TOC
 identical.
 
+On the seven misconception pages a real `## Introduction` follows the card,
+above the intro paragraphs, so the prose does not hang unheaded under the
+mobile TOC disclosure and the sticky TOC opens on the introduction rather
+than mid-argument. It is left unnumbered on `wadribuhunna.md`, whose other
+headings are numbered. `quran.md` has no such heading; its collapsed card
+already sits above a real `##`.
+
 It is not a fourth evidence type. `.quote`/`.src`/`.gloss` are a semantic
 *left-rule* system; the TL;DR is a full-content-width card with a border, no
 left rule and no indent — a different layer of the page, not another kind of

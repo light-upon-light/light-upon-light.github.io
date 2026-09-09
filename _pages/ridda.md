@@ -44,6 +44,8 @@ Although execution became the majority classical ruling, the legal tradition was
 Bottom line: the article argues that private disbelief is a matter between a person and God, while the classical death penalty is better understood in connection with political or violent defection rather than belief alone.
 </div>
 
+## Introduction
+
 Islam is often accused of prescribing death simply for leaving the faith. But translating *ridda* simply as "apostasy" can be misleading if that is understood as a private change of belief. In the legal and historical material below, *ridda* is repeatedly connected with political defection from the Muslim community, rebellion, or other public conduct.
 
 The Qur'an prescribes no worldly punishment for a private change of belief, while the relevant hadith, historical cases, and juristic disagreements point to a more specific offence than unbelief alone. This article examines that distinction.

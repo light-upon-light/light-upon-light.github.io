@@ -42,6 +42,8 @@ Forced conversions and political pressure did occur in some periods, but they do
 In short: conquest spread Muslim rule; it did not by itself spread Muslim belief.
 </div>
 
+## Introduction
+
 The claim that Islam was “spread by the sword” often compresses three different questions into one: **why Muslim armies fought, what changed when they conquered territory, and whether conquered people were forced to become Muslim**.
 
 Muslim states did expand through warfare. But wars did not all begin for the same reason, and military victory did not ordinarily make the population Muslim. Across much of the Muslim world, political rule changed quickly while conversion took centuries. Non-Muslim communities remained in place, and Islam also spread widely where no Muslim army had conquered the population.
