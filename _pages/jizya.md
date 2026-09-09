@@ -35,11 +35,9 @@ share: true
 <details class="tldr" markdown="1">
 <summary><span class="tldr__label">TL;DR</span></summary>
 
-The article argues that jizya was not simply a penalty for refusing Islam, but part of a pre-modern system in which certain non-Muslim men paid a tax, were generally exempt from military service, and were owed state protection. Women, children, the poor, elderly, disabled, and others were usually exempt.
+The jizya was not a punishment for refusing Islam or a device designed to force conversion. It was part of a pre-modern system that divided public obligations by religious community: certain able-bodied, adult non-Muslim men paid jizya and were normally exempt from military service, while Muslims paid zakat and remained liable for military service. Women, children, the elderly, the poor, the disabled, monks, and others were exempt, and non-Muslims who served militarily could also be exempt. In return, the Muslim state was bound to protect those who paid, and early Muslim authorities even returned the tax when they could no longer provide that protection.
 
-It presents Qur'an 9:29 as dealing with a wartime settlement rather than forced conversion, while acknowledging that jizya was religiously discriminatory and could create financial pressure to convert because conversion ended the tax.
-
-The article also concedes that some rulers and jurists enforced jizya in humiliating or abusive ways, even though other Islamic legal sources condemned such treatment. Its conclusion is that jizya was more than a “pay or convert” penalty, but not free from coercive pressure or historical abuse.
+Because jizya was generally a fixed payment while zakat was tied to wealth, it could create an incidental financial incentive to convert for some poorer non-Muslims who were still above the exemption threshold. But this was not the purpose of the institution, and the effect applied only within that limited group. Later humiliating or abusive methods of collection were likewise not part of the Islamic rules governing jizya; they were practices introduced by particular rulers or jurists and were rejected within the tradition itself. The jizya is therefore better understood as one side of a reciprocal fiscal and military arrangement than as extortion or a tax on disbelief.
 </details>
 
 ## Introduction

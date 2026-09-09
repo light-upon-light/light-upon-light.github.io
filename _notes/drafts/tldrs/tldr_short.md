@@ -8,13 +8,11 @@ The surviving record does not support claims of coercion, exploitation, or a pre
 
 Defending the marriage in its historical setting does not mean advocating marriage at nine today. Changed educational, social, economic, and health conditions can justify minimum-age laws under Islamic principles of welfare and preventing harm. The enduring standards are consent, sound judgment, kindness, and protection from harm.
 
-### TL;DR
+### jizya
 
-The article argues that **jizya was not simply a penalty for refusing Islam**, but part of a pre-modern system in which certain non-Muslim men paid a tax, were generally exempt from military service, and were owed state protection. Women, children, the poor, elderly, disabled, and others were usually exempt.
+The jizya was not a punishment for refusing Islam, but part of a system dividing public obligations: certain able-bodied, adult non-Muslim men paid it and were normally exempt from military service, while Muslims paid zakat and remained liable for military service. Many others—including women, children, the poor, elderly, and disabled—were exempt, and the state owed protection in return.
 
-It presents Qur'an 9:29 as dealing with a wartime settlement rather than forced conversion, while acknowledging that jizya was religiously discriminatory and could create financial pressure to convert because conversion ended the tax.
-
-The article also concedes that some rulers and jurists enforced jizya in humiliating or abusive ways, even though other Islamic legal sources condemned such treatment. Its conclusion is that jizya was **more than a “pay or convert” penalty, but not free from coercive pressure or historical abuse**.
+Because jizya was generally fixed while zakat was wealth-based, it could create an incidental incentive to convert for some poorer non-Muslims who were still above the exemption threshold. But this was not its purpose, and abusive or humiliating collection practices were later departures from the Islamic rules governing it.
 
 ### TL;DR
 
