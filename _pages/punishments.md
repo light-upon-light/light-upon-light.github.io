@@ -46,6 +46,8 @@ Fixed punishments were surrounded by strict safeguards: demanding proof, bans on
 The page’s main point is that listing punishments like flogging, amputation, or stoning without these restrictions gives an incomplete picture of the classical legal system.
 </div>
 
+## Introduction
+
 Classical Islamic law prescribes severe punishments for certain offences: amputation for theft, stoning for adultery by a married person, and flogging for fornication, false accusation, and intoxication. Critics regard these penalties as cruel and disproportionate. They are not marginal interpretations: they appear in the canonical hadith collections, were accepted across all four schools of law, and some Muslim-majority states still enforce them.
 
 But these penalties are not simply the inevitable worldly consequence God has attached to every commission of the underlying sin. Islamic teaching distinguishes between a person's sin before God and the state's response to a legally established offence.

@@ -39,6 +39,8 @@ The article accepts the traditional report that Aisha entered Prophet Muhammad�
 It argues that the surviving sources instead portray her as close to her family, able to disagree openly, and later a major scholar who spoke extensively about the marriage. It also argues that the Prophet’s wider marital history does not show a recurring preference for young girls. Finally, it stresses that defending the marriage historically does not mean endorsing marriage at nine today: Islamic principles of consent, sound judgment, kindness, welfare, and prevention of harm can support modern minimum-age laws.
 </div>
 
+## Introduction
+
 The traditional reports state that the Prophet Muhammad ﷺ contracted marriage with Aisha when she was six or seven and that she entered his household at nine.[1](#ref-1){: .footnote} This article accepts those figures for the purpose of the argument. Its case does not depend on revising them, although the principal scholarly challenges to the traditional chronology are noted below.
 
 Nine is plainly young by modern standards. But the number does not carry the same social and developmental meaning in every age. A nine-year-old in a modern industrial society lives within a world of prolonged schooling, economic dependence, delayed household formation, and a long period before adult responsibilities are normally expected. Seventh-century Arabia was organized very differently.
