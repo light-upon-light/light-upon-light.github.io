@@ -192,10 +192,9 @@
     details.appendChild(summary);
     details.appendChild(toc);
 
-    /* Below $large the disclosure is moved to sit AFTER the TL;DR card, so
-       the article opens with its summary and the reader meets navigation
-       only once they have the gist (on quran.md the card is collapsed by
-       default, so what they meet first is the summary's label) -- above the card it was a control with
+    /* Below $large the disclosure is moved to sit AFTER an OPEN TL;DR card,
+       so the article opens with its summary and the reader meets navigation
+       only once they have the gist -- above the card it was a control with
        nothing yet to navigate. The whole <aside> moves, not just the
        <details>: at $large `.sidebar__right` is what carries the sticky
        sidebar positioning, so it has to go back to being .page__content's
@@ -207,11 +206,11 @@
        does not follow the aside: once moved, the element after it is the
        third child, so nothing matches and nothing needs unwinding. */
     var aside = toc.closest && toc.closest(".sidebar__right");
-    /* Only the <div> form is something to move the nav below: quran.md
-       authors its card as a <details> that opens collapsed and sits below
-       the intro note, so there the disclosure goes to the very top of the
-       content instead -- a one-line card is nothing to read past, and the
-       reader meets nav, note, then summary. */
+    /* Only the <div> form is something to move the nav below. Every page
+       currently authors its card as a collapsed <details>, so this branch is
+       dormant -- a one-line card is nothing to read past, and the disclosure
+       goes to the very top of the content instead. The branch is kept for
+       the open <div> variant, which the CSS still supports. */
     var tldr = document.querySelector(".page__content div.tldr");
     var content = aside && aside.parentNode;
     var asideHome = null;

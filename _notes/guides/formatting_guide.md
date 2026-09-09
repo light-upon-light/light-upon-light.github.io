@@ -26,12 +26,32 @@ The `--site-*` properties behind those colours are defined in
 Every article page opens with one, above the intro paragraphs:
 
 ```markdown
+<details class="tldr" markdown="1">
+<summary><span class="tldr__label">TL;DR</span></summary>
+
+- ...
+</details>
+```
+
+It is **collapsed by default** on every page: the summaries run to several
+paragraphs and pushed the article's own opening below the fold. `markdown="1"`
+on the tag is required, as it is for `.quran-more` — without it kramdown
+treats the block as opaque raw HTML and never parses the prose inside.
+
+An always-open variant is still supported end to end, in case a page ever
+wants one — same class on a plain `<div>`, label as a bare `<span>`:
+
+```markdown
 <div class="tldr" markdown="1">
 <span class="tldr__label">TL;DR</span>
 
 - ...
 </div>
 ```
+
+That form keeps the fading hairline below the card, and `site.js` moves the
+mobile TOC disclosure to sit below it (see `theme_internals.md`). No page
+uses it at present.
 
 Deliberately **not** a markdown heading: `toc_levels: 2..3` on the
 misconception pages and no `toc_levels` on `quran.md` mean an `## TL;DR`
@@ -54,18 +74,14 @@ in `_dirt.scss`. The
 label is a full-size titled bar; the card's prose is the reading serif, and
 a fading hairline below the card separates it from the article's intro.
 
-`quran.md` alone authors it as a `<details class="tldr" markdown="1">` with
-the label inside a `<summary>`, so its two-paragraph summary is **collapsed by
-default**, and sits *below* the intro note rather than above it. Being a
-one-line card there is nothing to read past, so `site.js` also leaves the
-mobile TOC disclosure at the top of the content on that page instead of
-moving it below the card (it anchors on `div.tldr`, which quran.md no longer
-has). The collapsed card drops the fading hairline too -- it sits between
-the intro note and a real `##` heading, so it needs no divider of its own. Same
-card, same colours; the base `.tldr` rules apply to a `<details>` unchanged,
-and `details.tldr` in `site.scss` adds only the chevron and the collapsed/open
-spacing. `markdown="1"` on the tag is required, as it is for `.quran-more`.
-The other seven pages keep the plain `<div>`.
+On `quran.md` the card sits *below* the intro note rather than above it.
+Because a collapsed card is one line with nothing to read past, `site.js`
+leaves the mobile TOC disclosure at the top of the content — its move-below
+branch anchors on `div.tldr`, which no page now has. The collapsed card
+carries no fading hairline either: a real `##` heading follows it everywhere,
+so it needs no divider of its own. `details.tldr` in `site.scss` adds only the
+chevron and the collapsed/open spacing on top of the base `.tldr` rules,
+which apply to a `<details>` and a `<div>` alike.
 
 Every page currently carries placeholder bullets.
 

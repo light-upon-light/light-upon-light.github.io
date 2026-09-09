@@ -31,8 +31,9 @@ glossary:
 share: true
 ---
 
-<div class="tldr" markdown="1">
-<span class="tldr__label">TL;DR</span>
+<details class="tldr" markdown="1">
+<summary><span class="tldr__label">TL;DR</span></summary>
+
 The traditional reports place Aisha’s entry into the Prophet Muhammad’s ﷺ household at nine, but the age alone does not settle the moral question. A chronological age does not carry the same developmental and social meaning in every society, so it is anachronistic to assume that a nine-year-old in seventh-century Arabia necessarily occupied the same stage of life as a nine-year-old today.
 
 The relevant questions are whether Aisha was capable, coerced, harmed, or exploited, and whether the Prophet’s wider conduct supports the accusation of predatory behaviour. The surviving record points in the opposite direction: Aisha remained close to her family, openly disagreed with the Prophet, later became one of Islam’s leading scholars, and spoke extensively and positively about their marriage for decades. Islamic law required consent and prohibited harm, while the Prophet’s marital history shows no recurring preference for young girls.
@@ -40,7 +41,7 @@ The relevant questions are whether Aisha was capable, coerced, harmed, or exploi
 His broader life also matters. He was known as trustworthy, returned property entrusted to him even by opponents, refused offers of wealth and political power to abandon his mission, lived with little material luxury despite later authority, showed mercy to former enemies at the conquest of Mecca, was not known to strike women or servants, and was notably gentle with children. The record therefore does not present a wider pattern of cruelty, exploitation, or concealed sexual misconduct.
 
 Defending Aisha’s marriage in its historical setting does not mean advocating marriage at nine today. Modern educational, social, economic, and developmental conditions are different, and Islamic principles of welfare and prevention of harm can justify minimum-age laws. The enduring standards are consent, sound judgment, kindness, and protection from harm.
-</div>
+</details>
 
 ## Introduction
 
