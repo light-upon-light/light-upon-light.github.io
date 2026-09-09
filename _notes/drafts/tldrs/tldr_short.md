@@ -6,7 +6,7 @@ The traditional reports place Aisha’s entry into the Prophet Muhammad’s ﷺ 
 
 The surviving record does not support claims of coercion, exploitation, or a predatory pattern. Aisha remained close to her family, openly disagreed with the Prophet, became a leading scholar, and spoke extensively about their marriage for decades. His wider life likewise shows trustworthiness, mercy, modest living despite political authority, gentleness toward women and children, and no pattern of cruelty or abuse.
 
-Defending the marriage in its historical setting does not mean advocating marriage at nine today. Changed educational, social, economic, and health conditions can justify minimum-age laws under Islamic principles of welfare and preventing harm. The enduring standards are consent, sound judgment, kindness, and protection from harm.
+Defending the marriage in its historical setting does not mean advocating marriage at nine today. Changed educational, social, economic, and developmental conditions can justify minimum-age laws under Islamic principles of welfare and preventing harm. The enduring standards are consent, sound judgment, kindness, and protection from harm.
 
 ## jizya
 
