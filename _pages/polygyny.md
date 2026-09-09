@@ -109,15 +109,19 @@ Muslim scholars have therefore commonly treated one wife as the ordinary arrange
 
 The distinction is important: something can be lawful and useful in some circumstances without being the normal choice for everyone.
 
-## The Prophet's marriages—and a marriage he refused
+## The Prophet's marriages
 
 The Prophet ﷺ exceeded the ordinary four-wife limit, but his marital history and legal position were exceptional in more than one respect.
 
 He was married to Khadija alone for twenty-five years, from about age twenty-five until her death when he was around fifty. This covered his early adulthood and the entire first phase of his mission. His plural marriages came later, mostly after the migration to Medina. Most were to widows, several were to women past youth, and several established alliances between clans. His marriage to Aisha is discussed separately in [The Prophet Muhammad's ﷺ Marriage to Aisha](/aisha).
 
-The longest marriage of the Prophet's life was monogamous, while his later marriages had family, communal, political and social dimensions as well as personal ones.
+The longest marriage of the Prophet's life was therefore monogamous. His later marriages had family, communal, political and social dimensions as well as personal ones. They also created a prophetic household whose members could directly observe and transmit aspects of his private and domestic practice that the wider community could not witness.
 
-The Qur'an gave him a dispensation from the ordinary limit, then prohibited him from marrying further. His wives could not remarry after his death and were offered a choice between the life of the world and remaining with him under the conditions he could provide.[2](#ref-2){: .footnote} His exception was therefore accompanied by restrictions of its own rather than functioning as an open-ended licence.
+His legal exceptionalism also worked in both directions. Qur'an 33:50 gave him a dispensation from the ordinary limit, while his wives were offered a choice between leaving with provision or remaining with him. Those who remained held the special status of "Mothers of the Believers" and could never marry another man after his death. At one stage Qur'an 33:52 also restricted him from taking additional wives or replacing his existing wives; classical exegetes differed over the verse's scope and whether that restriction was later lifted.[2](#ref-2){: .footnote}
+
+This made the arrangement restrictive in a way that is easy to overlook. An ordinary Muslim woman whose marriage ends by divorce or widowhood may marry again after the applicable waiting period, and Islamic law sets no lifetime numerical ceiling on successive marriages. The Prophet and his wives could not. Remaining in his household therefore brought exceptional status, but also permanently closed a marital option normally available to other men and women.
+
+His exemption from the four-wife limit was therefore not an open-ended licence. It belonged to a distinctive prophetic household with permissions, functions, and restrictions of its own.
 
 Ali ibn Abi Talib, who was married to the Prophet's ﷺ daughter Fatima, sought to marry the daughter of Abu Jahl. Fatima went to her father, who said publicly:
 
@@ -179,7 +183,7 @@ Qur'an 4:3 therefore does not present polygyny as a prize for male desire. It pl
 
 1. <span id="ref-1"></span>*Sunan Abi Dawud* 2133, *Jami' at-Tirmidhi* 1141, *Sunan an-Nasa'i* 3942, and *Sunan Ibn Majah* 1969 all transmit this report from Abu Hurayra. The collections' apparatus records three assessments as *sahih* [sound/authentic] and one as *da'if* [weak].
 
-2. <span id="ref-2"></span>Qur'an 33:50 contains the dispensation specific to the Prophet ﷺ; 33:52 prohibits him from marrying further; 33:53 prohibits marriage to his wives after his death; and 33:28–29 contains the verse of choice, *ayat al-takhyir* [verse of choice], offering his wives release if they preferred the life of the world.
+2. <span id="ref-2"></span>Qur'an 33:50 contains the dispensation specific to the Prophet ﷺ; 33:28–29 contains the verse of choice, *ayat al-takhyir* [verse of choice], offering his wives release if they preferred the life of the world; 33:6 calls them "Mothers of the Believers"; and 33:53 prohibits marriage to them after his death. Qur'an 33:52 says that further women were not lawful to him and that he could not replace his existing wives. Classical exegetes differed over its scope and whether that restriction was later lifted; al-Tabari, al-Qurtubi and Ibn Kathir record the differing interpretations. The Prophet ﷺ did not in fact contract another marriage afterward.
 
 3. <span id="ref-3"></span>*Sahih al-Bukhari* 5230, with parallel wording in 3729 and *Sahih Muslim* 6309–6310. The Muslim version adds that the Prophet's daughter and the daughter of the enemy of God cannot be wives of the same man, particularising the report to those circumstances.
 
@@ -195,7 +199,7 @@ Qur'an 4:3 therefore does not present polygyny as a prize for male desire. It pl
 - 4:19 — living with wives in kindness (*maʿruf* [recognized kindness])
 - 4:129 — perfect justice between wives is unattainable, and the warning that follows from it
 - 30:21 — comfort, compassion, and mercy as the purpose of marriage
-- 33:28–29, 33:50, 33:52–53 — the provisions specific to the Prophet's ﷺ household
+- 33:6, 33:28–29, 33:50, 33:52–53 — the provisions specific to the Prophet's ﷺ household
 
 ## Further reading
 

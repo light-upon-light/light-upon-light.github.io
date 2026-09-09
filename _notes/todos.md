@@ -6,13 +6,9 @@ general:
 
 aisha:
 
-- also please include prophets general conduct other than the marital aspect
-
 jizya:
 
 polygyny:
-
-- develop more the part about why the prophet saaw's marriage rules were exceptional and the wisdoms behind that in greater detail. Also mention that they were essentially a limit, even compared to women who can marry and divorce and marry again as many times as she wants or needs.
 
 ridda:
 
