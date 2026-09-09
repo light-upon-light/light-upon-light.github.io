@@ -186,3 +186,7 @@ Write it from the same perspective as the page itself: it should present and sup
 
 Keep it coherent, clear, pleasant to read and easy to understand.
 (Keep it coherent, clear, pleasant to read, easy to understand, and faithful to the page’s reasoning and conclusions.)
+
+### Shorten
+
+Make this about 50% shorter for a compact website TL;DR box.

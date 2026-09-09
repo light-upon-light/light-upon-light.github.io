@@ -38,13 +38,11 @@ Islam does not prescribe death for merely changing one's beliefs. The Qur'an ass
 
 ## sword
 
-Islam did spread partly through military conquest, but **conquest and conversion were not the same thing**. Muslim rule often expanded quickly, while populations usually converted gradually over centuries. Non-Muslims commonly remained under Muslim rule, and large Jewish, Christian, Hindu, and other communities survived for long periods.
+Islam was not spread simply by forcing conquered peoples to become Muslim. Muslim armies fought for different reasons, including attacks, military threats, the killing of envoys, local political appeals, and territorial expansion.
 
-Islam also spread widely through **trade, preaching, marriage, and local conversion**, especially in places such as Southeast Asia and parts of Africa. The Qur'an rejects forced belief and places limits on warfare.
+Conquest changed political rule, not the population’s religion: non-Muslim communities remained for centuries, conversion was gradual, and Islam also spread widely without military conquest.
 
-Forced conversions and political pressure did occur in some periods, but they do not explain Islam's overall spread.
-
-**In short: conquest spread Muslim rule; it did not by itself spread Muslim belief.**
+The Qur'an rejects compulsion in religion and commands that people be invited through wisdom and good counsel. Islamic rules of war also protected non-combatants and imposed ethical limits on warfare. Conquest explains the spread of Muslim rule; it does not, by itself, explain the spread of Muslim belief.
 
 ### TL;DR
 

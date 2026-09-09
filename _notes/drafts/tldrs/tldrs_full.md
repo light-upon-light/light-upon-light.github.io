@@ -44,23 +44,19 @@ It then considers Prophet Muhammad ﷺ himself. The page argues that the main al
 
 **TL;DR:** The website argues that the Qur’an’s unusual mode of revelation, literary qualities, teachings, preservation, predictions, and historical impact—combined with Muhammad’s character, conduct, sacrifices, and early historical attestation—form a cumulative case that the Qur’an came from God and that Muhammad ﷺ was a genuine prophet rather than a fraud, deluded person, evil influence, or later legend.
 
-### ridda
+## ridda
 
 Islam does not prescribe death for merely changing one's beliefs. The Qur'an discusses apostasy repeatedly without assigning it any worldly punishment, and the hadith and historical cases behind the classical ruling concern separation from the Muslim community, rebellion, murder, robbery or political defection rather than private unbelief. Early jurists also rejected execution for apostasy itself, while Hanafi reasoning tied capital punishment to combat rather than disbelief. Treating a private change of faith as a capital crime therefore conflates unbelief with the additional political acts—which affected public order—that made *ridda* punishable in the first place.
 
-### TL;DR
+## sword
 
-The article argues that saying Islam was “spread by the sword” confuses **military conquest with religious conversion**. Muslim states did expand through warfare, and some rulers sought territory and political power, but conquest usually changed who governed a region rather than forcing its population to become Muslim.
+Islam was not spread simply by forcing conquered populations to become Muslim. Muslim armies fought for different reasons: some campaigns responded to attacks, military threats, or the killing of Muslim envoys carrying the message of Islam, while others arose from local political appeals or involved states seeking territory and political power.
 
-* Muslim wars had **different causes**: some responded to attacks or perceived threats, while others were political or territorial expansion.
-* Conquered Jews, Christians, and other non-Muslims were generally allowed to **keep their religion** under Muslim rule, often while paying the *jizya* tax.
-* Historical conversion was usually **very gradual**. In places such as Egypt, political conquest took only a few years, while the population took centuries to become majority Muslim.
-* Large non-Muslim communities survived for centuries under Muslim governments, and some Jewish and Christian institutions even **flourished**.
-* Islam also became widespread in places such as **Indonesia, parts of Africa, and Southeast Asia through trade, preaching, marriage, and local conversion**, without Muslim military conquest.
-* The Qur'an distinguishes warfare from conversion: it rejects religious compulsion, calls for persuasion in preaching, restricts fighting, and commands peace when the enemy seeks it. Islamic reports also prohibit killing non-combatants.
-* **Forced conversions did happen**, notably under rulers such as the Almohads and during parts of Safavid rule. Political and financial pressures could also encourage conversion. The article argues these were real but **not the normal or sufficient explanation** for Islam's global spread.
+Conquest changed political rule, not the population’s religion: Christians, Jews, Zoroastrians and Hindus remained non-Muslim for centuries, while conversion unfolded gradually over generations. Islam also spread across regions such as Southeast Asia without Muslim military conquest.
 
-**Bottom line:** Muslim **rule** often spread through military conquest, but Muslim **belief** usually spread through a much slower and more varied process. The two should not be treated as the same thing.
+The Qur'an clearly rejects compulsion in religion: people are to be invited to Islam through wisdom and good counsel, while warfare is governed by separate rules concerning conflict and peace. Islamic rules of war protected non-combatants and ensured honor and ehthicality even in warfare. Conquest explains the spread of Muslim rule; it does not, by itself, explain the spread of Muslim belief.
+
+## wadribuhunna
 
 Here is a concise TL;DR based on the page.
 
