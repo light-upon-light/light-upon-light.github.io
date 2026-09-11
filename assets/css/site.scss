@@ -1273,21 +1273,33 @@
     display: none;
   }
 
-  /* The chevron is the summary's own last flex item, pushed to the card's
-     right edge -- not a marker beside the label. Same glyph as .yt-embed,
-     rotated the other way -- down when collapsed, up when open, so it
-     points at what the click does. `margin-inline-start: auto` rather than
-     `justify-content: space-between` so the label keeps its natural width
-     and the arrow is what moves. */
+  /* The affordance is a quiet "Show" / "Hide" word pushed to the card's
+     right edge, not a glyph -- a chevron read as clutter on a card this
+     plain. Karla, sentence case, muted and smaller than the label so it
+     reads as a control, not a second title. `margin-inline-start: auto`
+     rather than `justify-content: space-between` so the label keeps its
+     natural width. */
   .page__content details.tldr > summary::after {
-    content: "\25b8";
+    content: "Show";
     margin-inline-start: auto;
-    transform: rotate(90deg);
-    transition: transform 0.2s ease;
+    padding-inline-start: 1em;
+    color: var(--site-tldr-label);
+    opacity: 0.75;
+    font-family: "Karla", -apple-system, BlinkMacSystemFont, "Roboto",
+                 "Segoe UI", Arial, sans-serif;
+    font-size: 0.78em;
+    letter-spacing: 0.04em;
   }
 
   .page__content details.tldr[open] > summary::after {
-    transform: rotate(-90deg);
+    content: "Hide";
+  }
+
+  .page__content details.tldr > summary:hover::after,
+  .page__content details.tldr > summary:focus-visible::after {
+    opacity: 1;
+    text-decoration: underline;
+    text-underline-offset: 0.25em;
   }
 
   /* No hairline under this card: collapsed, it is not separating a summary
