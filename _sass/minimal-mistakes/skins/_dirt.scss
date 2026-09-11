@@ -150,19 +150,17 @@ $base0f: #b49368 !default;
   --site-src-border: #a1937c; // blockquote.src / .yt-embed / .quran-return border
   --site-gloss-border: #2e6b63; // blockquote.gloss border
   --site-gloss-bg: rgba(46, 107, 99, 0.05); // blockquote.gloss background wash
-  /* TL;DR card (.tldr) -- a sage-emerald tint rather than the parchment it
-     started as: a card the same cream as the page ground reads as a fold in
-     the paper, not as a distinct layer, and this panel has to be findable at
-     a glance. It sits a hue away from the teal .gloss family on purpose, so
-     the two never read as the same device; it is still not a fourth evidence
-     type -- the form does that work (full content width, a border, no left
-     rule, no indent), and .gloss remains the only *left-ruled* teal thing on
-     the page. Contrast on --site-tldr-fill: label 6.8:1, body text 9.5:1
-     (WCAG AA for small text is 4.5:1). The fill stays greyed rather than
-     minty, which read washed out against the cream ground. */
-  --site-tldr-fill: #d9e4d8;
-  --site-tldr-line: #3f6b4a;
-  --site-tldr-label: #2c5238;
+  /* TL;DR card (.tldr) -- slate ink (#44505c), built the way .gloss is: one
+     hue at three strengths -- full for the label, 55% for the border, a 10%
+     wash for the fill -- each flattened over the page ground to an opaque
+     hex. Cool slate so it reads as the page's chrome, clear of every warm
+     accent and of .gloss's teal; the full border (no left rule, no indent)
+     is what keeps it from reading as a fourth evidence type. Contrast on
+     --site-tldr-fill: label 6.4:1, body text 9.7:1, links 4.9:1 (WCAG AA
+     for small text is 4.5:1). */
+  --site-tldr-fill: #e2e3e4;
+  --site-tldr-line: #9399a0;
+  --site-tldr-label: #44505c;
   --site-breadcrumb-sep: #c3b4a0; // quran-breadcrumb "›" separator
   --site-return-hover-bg: rgba(161, 147, 124, 0.14); // quran-return hover background
   --site-floatnav-icon: #f3f3f3; // #floating-nav button icon color
@@ -262,12 +260,13 @@ $base0f: #b49368 !default;
   --site-src-border: #8a7d68;
   --site-gloss-border: #4fa89c;
   --site-gloss-bg: rgba(79, 168, 156, 0.08);
-  /* .tldr card, dark: the same sage-emerald logic inverted -- a card lifted
-     off the page ground rather than a light panel. Contrast on
-     --site-tldr-fill: label 9.4:1, body text 9.9:1. */
-  --site-tldr-fill: #182119;
-  --site-tldr-line: #4e8759;
-  --site-tldr-label: #8ed3a0;
+  /* .tldr card, dark: the same slate recipe with a lifted hue (#a9b3bd) --
+     a 14% wash and a 60% border over the page ground, so the card is raised
+     off it rather than a light panel. Contrast on --site-tldr-fill: label
+     6.3:1, body text 8.3:1, links 6.9:1. */
+  --site-tldr-fill: #302f2e;
+  --site-tldr-line: #71767b;
+  --site-tldr-label: #a9b3bd;
   --site-breadcrumb-sep: #6b6152;
   --site-return-hover-bg: rgba(138, 125, 104, 0.18);
   --site-floatnav-icon: #e6ded2;

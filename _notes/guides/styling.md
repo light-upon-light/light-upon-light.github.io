@@ -25,7 +25,7 @@ stand-in for GreedyNav; ordering *within* `site.js` is what's load-bearing
 now, not `footer_scripts` order — see the header comment in `site.js`.
 
 `.tldr` is the summary card at the top of every article — a full-width
-bordered panel in a sage-emerald tint, deliberately refusing the left rule
+bordered panel in a slate-ink wash, deliberately refusing the left rule
 that marks the three evidence blockquotes. Every page authors it as a
 `<details>` and so opens collapsed (`details.tldr` in site.scss, CSS only —
 no JS); the plain-`<div>`, always-open form is still styled and supported. Markup is `formatting_guide.md`;

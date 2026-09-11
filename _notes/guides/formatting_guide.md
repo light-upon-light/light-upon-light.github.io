@@ -68,9 +68,9 @@ already sits above a real `##`.
 It is not a fourth evidence type. `.quote`/`.src`/`.gloss` are a semantic
 *left-rule* system; the TL;DR is a full-content-width card with a border, no
 left rule and no indent — a different layer of the page, not another kind of
-quotation. Its colours are a sage-emerald tint, a hue clear of `.gloss`'s
-teal so the two never read as one device; palette and contrast ratios are
-in `_dirt.scss`. The
+quotation. Its colours are a cool slate-ink wash, a hue clear of `.gloss`'s
+teal and the page's warm accents so it never reads as one of them; palette
+and contrast ratios are in `_dirt.scss`. The
 label is a full-size titled bar; the card's prose is the reading serif, and
 a fading hairline below the card separates it from the article's intro.
 
