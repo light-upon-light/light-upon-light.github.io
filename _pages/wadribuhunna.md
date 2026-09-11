@@ -28,7 +28,7 @@ share: true
 ---
 
 <details class="tldr" markdown="1">
-<summary><span class="tldr__label">TL;DR</span></summary>
+<summary><span class="tldr__label">Summary</span></summary>
 
 Qur'an 4:34 does not permit domestic abuse. The verse addresses serious marital misconduct, not ordinary disagreement, and gives a graduated response beginning with counsel and marital withdrawal before the disputed expression *waḍribūhunna*. Some scholars understood that expression non-physically as separation or distancing; others understood it physically, but classical jurists sharply restricted that interpretation so that it could not involve injury, cruelty, or abuse.
 
