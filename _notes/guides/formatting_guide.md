@@ -80,7 +80,7 @@ leaves the mobile TOC disclosure at the top of the content — its move-below
 branch anchors on `div.tldr`, which no page now has. The collapsed card
 carries no fading hairline either: a real `##` heading follows it everywhere,
 so it needs no divider of its own. `details.tldr` in `site.scss` adds only the
-chevron and the collapsed/open spacing on top of the base `.tldr` rules,
+"Show"/"Hide" toggle word and the collapsed/open spacing on top of the base `.tldr` rules,
 which apply to a `<details>` and a `<div>` alike.
 
 Every page currently carries placeholder bullets.
