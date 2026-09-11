@@ -20,6 +20,13 @@ markdown file the build can see becomes a page**, front matter or not, and lands
 in `sitemap.xml`. `include: [_pages]` publishes everything under `_pages/`
 regardless of any `published:` flag.
 
+**Caching.** Pages serves assets with a 4-hour `max-age` but HTML with 10
+minutes, so an unversioned asset URL leaves new markup styled by the old
+stylesheet for hours after a deploy. `site.css` is linked with
+`?v={{ site.time | date: '%s' }}` (`_includes/head/custom.html`) so each build
+busts it. `site.js`, loaded through the theme's `footer_scripts`, is not
+versioned — a JS-only change can still lag up to 4 hours.
+
 ## URLs
 
 The article pages set `permalink: /quran` with no trailing slash, so they build
