@@ -36,8 +36,10 @@
   {%- endif %}
 </script>
 
-{%- comment -%} For all browsers {%- endcomment -%}
-<link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
+{%- comment -%} For all browsers. ?v= is the same build-time cache-buster
+     site.css and site.js carry -- the --site-* palette compiles into main.css,
+     so an unversioned link kept old colours for hours after a deploy. {%- endcomment -%}
+<link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}?v={{ site.time | date: '%s' }}">
 
 {% if site.head_scripts %}
   {% for script in site.head_scripts %}

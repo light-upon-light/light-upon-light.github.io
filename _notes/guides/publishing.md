@@ -24,7 +24,8 @@ regardless of any `published:` flag.
 minutes, so an unversioned asset URL leaves new markup styled by the old
 stylesheet for hours after a deploy. `site.css` is linked with
 `?v={{ site.time | date: '%s' }}` (`_includes/head/custom.html`) so each build
-busts it. `site.js` gets the same `?v=` from `_includes/scripts.html`, which
+busts it; so is `main.css` (`_includes/head.html`), which carries the `--site-*`
+palette from `_dirt.scss`. `site.js` gets the same `?v=` from `_includes/scripts.html`, which
 shadows the theme's copy (4.28.0) for that one change — re-diff it against the
 theme when `remote_theme` is bumped.
 
