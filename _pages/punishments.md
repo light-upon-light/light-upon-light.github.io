@@ -37,7 +37,7 @@ share: true
 ---
 
 <details class="tldr" markdown="1">
-<summary><span class="tldr__label">TL;DR</span></summary>
+<summary><span class="tldr__label">Summary</span></summary>
 
 The *hudud* punishments are severe and genuinely rooted in the Islamic sources, but they were never meant to be the automatic worldly consequence of every private sin. Islam distinguishes between a person’s accountability before God—where repentance, reform, and divine mercy are always open—and the state’s much narrower authority to punish legally established offences affecting the public order.
 

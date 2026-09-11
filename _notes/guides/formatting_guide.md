@@ -27,7 +27,7 @@ Every article page opens with one, above the intro paragraphs:
 
 ```markdown
 <details class="tldr" markdown="1">
-<summary><span class="tldr__label">TL;DR</span></summary>
+<summary><span class="tldr__label">Summary</span></summary>
 
 - ...
 </details>
@@ -43,7 +43,7 @@ wants one — same class on a plain `<div>`, label as a bare `<span>`:
 
 ```markdown
 <div class="tldr" markdown="1">
-<span class="tldr__label">TL;DR</span>
+<span class="tldr__label">Summary</span>
 
 - ...
 </div>
@@ -82,7 +82,7 @@ carries no fading hairline either: a real `##` heading follows it everywhere,
 so it needs no divider of its own. `details.tldr` in `site.scss` adds the
 "Show"/"Hide" toggle word, the collapsed/open spacing, and the closed-state pill
 on top of the base `.tldr` rules, which apply to a `<details>` and a `<div>` alike.
-Closed, the card is a small pill (`TL;DR | Show`) centred in the column; opened,
+Closed, the card is a small pill (`Summary | Show`) centred in the column; opened,
 it becomes the full-width card — a full-width box holding two words read as an
 empty input.
 

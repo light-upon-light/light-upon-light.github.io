@@ -35,7 +35,7 @@ share: true
 ---
 
 <details class="tldr" markdown="1">
-<summary><span class="tldr__label">TL;DR</span></summary>
+<summary><span class="tldr__label">Summary</span></summary>
 
 Islam does not prescribe death for merely changing one's beliefs. The Qur'an discusses apostasy repeatedly without assigning it any worldly punishment, and the hadith and historical cases behind the classical ruling concern separation from the Muslim community, rebellion, murder, robbery or political defection rather than private unbelief. Early jurists also rejected execution for apostasy itself, while Hanafi reasoning tied capital punishment to combat rather than disbelief. Treating a private change of faith as a capital crime therefore conflates unbelief with the additional political acts—which affected public order—that made *ridda* punishable in the first place.
 </details>

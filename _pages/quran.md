@@ -32,7 +32,7 @@ share: true
 > This page presents evidence for the **miraculous nature** of the **Qur'an** and the **prophethood** of **Prophet Muhammad** ﷺ. Not every point is a miracle or proof on its own. Taken together, however, they form a cumulative case for the Qur'an's divine origin and the authenticity of the Prophet's mission. — *Note: this page is a work in progress.*
 
 <details class="tldr" markdown="1">
-<summary><span class="tldr__label">TL;DR</span></summary>
+<summary><span class="tldr__label">Summary</span></summary>
 
 The Qur’an and the life of Prophet Muhammad ﷺ form a cumulative case for his prophethood. The Qur’an was recited orally over twenty-three years in seventh-century Arabia by a man who could neither read nor write, yet it maintains extraordinary literary quality, coherence, depth, guidance, preservation, and fulfilled predictions while openly inviting scrutiny and challenging its opponents to rival it. Its moral and theological message consistently calls humanity to worship God alone, seek mercy and repentance, uphold justice, care for the vulnerable, and live in preparation for judgment.
 

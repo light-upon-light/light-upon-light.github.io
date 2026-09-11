@@ -35,7 +35,7 @@ share: true
 ---
 
 <details class="tldr" markdown="1">
-<summary><span class="tldr__label">TL;DR</span></summary>
+<summary><span class="tldr__label">Summary</span></summary>
 
 Islam permits a man to have up to four wives, but it does not present polygyny as the ideal or as a privilege for satisfying male desire. Qur'an 4:3 introduces it in the context of protecting vulnerable women and orphans, limits an existing practice to four wives, requires justice between them, and tells a man to marry only one if he fears he cannot be fair. Every additional wife also brings additional legal obligations of maintenance, housing, time, and fair treatment.
 

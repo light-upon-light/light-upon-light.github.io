@@ -33,7 +33,7 @@ share: true
 ---
 
 <details class="tldr" markdown="1">
-<summary><span class="tldr__label">TL;DR</span></summary>
+<summary><span class="tldr__label">Summary</span></summary>
 
 The jizya was not a punishment for refusing Islam or a device designed to force conversion. It was part of a pre-modern system that divided public obligations by religious community: certain able-bodied, adult non-Muslim men paid jizya and were normally exempt from military service, while Muslims paid zakat and remained liable for military service. Women, children, the elderly, the poor, the disabled, monks, and others were exempt, and non-Muslims who served militarily could also be exempt. In return, the Muslim state was bound to protect those who paid, and early Muslim authorities even returned the tax when they could no longer provide that protection.
 

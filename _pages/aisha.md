@@ -32,7 +32,7 @@ share: true
 ---
 
 <details class="tldr" markdown="1">
-<summary><span class="tldr__label">TL;DR</span></summary>
+<summary><span class="tldr__label">Summary</span></summary>
 
 The traditional reports place Aisha’s entry into the Prophet Muhammad’s ﷺ household at nine, but the age alone does not settle the moral question. A chronological age does not carry the same developmental and social meaning in every society, so it is anachronistic to assume that a nine-year-old in seventh-century Arabia necessarily occupied the same stage of life as a nine-year-old today.
 

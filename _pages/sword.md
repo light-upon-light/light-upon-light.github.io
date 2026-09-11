@@ -31,7 +31,7 @@ share: true
 ---
 
 <details class="tldr" markdown="1">
-<summary><span class="tldr__label">TL;DR</span></summary>
+<summary><span class="tldr__label">Summary</span></summary>
 
 Islam was not spread simply by forcing conquered populations to become Muslim. Muslim armies fought for different reasons: some campaigns responded to attacks, military threats, or the killing of Muslim envoys carrying the message of Islam, while others arose from local political appeals or involved states seeking territory and political power.
 
