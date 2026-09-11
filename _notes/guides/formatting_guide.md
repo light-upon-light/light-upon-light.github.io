@@ -66,7 +66,7 @@ headings are numbered. `quran.md` has no such heading; its collapsed card
 already sits above a real `##`.
 
 It is not a fourth evidence type. `.quote`/`.src`/`.gloss` are a semantic
-*left-rule* system; the TL;DR is a full-content-width card with a border, no
+*left-rule* system; the TL;DR, open, is a full-content-width card with a border, no
 left rule and no indent — a different layer of the page, not another kind of
 quotation. Its colours are a cool slate-ink wash, a hue clear of `.gloss`'s
 teal and the page's warm accents so it never reads as one of them; palette
@@ -79,9 +79,12 @@ Because a collapsed card is one line with nothing to read past, `site.js`
 leaves the mobile TOC disclosure at the top of the content — its move-below
 branch anchors on `div.tldr`, which no page now has. The collapsed card
 carries no fading hairline either: a real `##` heading follows it everywhere,
-so it needs no divider of its own. `details.tldr` in `site.scss` adds only the
-"Show"/"Hide" toggle word and the collapsed/open spacing on top of the base `.tldr` rules,
-which apply to a `<details>` and a `<div>` alike.
+so it needs no divider of its own. `details.tldr` in `site.scss` adds the
+"Show"/"Hide" toggle word, the collapsed/open spacing, and the closed-state pill
+on top of the base `.tldr` rules, which apply to a `<details>` and a `<div>` alike.
+Closed, the card is a small pill (`TL;DR | Show`) centred in the column; opened,
+it becomes the full-width card — a full-width box holding two words read as an
+empty input.
 
 Every page currently carries placeholder bullets.
 

@@ -1167,9 +1167,10 @@
      kept working in case a page wants one.
 
      It must NOT read as a fourth evidence type. Those three are a semantic
-     LEFT-RULE system, so this refuses the left rule and the indent both and
-     takes the full content width instead: a different layer of the page, not
-     another kind of quotation. The card form does that separating work, so
+     LEFT-RULE system, so this refuses the left rule and the indent both and,
+     open, takes the full content width instead (closed, it is a centred
+     pill -- see below): a different layer of the page, not another kind of
+     quotation. The card form does that separating work, so
      the colour only has to be findable: a slate-ink wash and border, mixed
      the way .gloss's are but in a cool hue of its own. Palette and contrast
      ratios are in _dirt.scss.
@@ -1273,9 +1274,10 @@
     display: none;
   }
 
-  /* The affordance is a quiet "Show" / "Hide" word pushed to the card's
-     right edge, not a glyph -- a chevron read as clutter on a card this
-     plain. Karla, sentence case, muted and smaller than the label so it
+  /* The affordance is a quiet "Show" / "Hide" word, not a glyph -- a
+     chevron read as clutter on a card this plain. Open, it is pushed to the
+     card's right edge; closed, the pill rules below pull it in beside the
+     label. Karla, sentence case, muted and smaller than the label so it
      reads as a control, not a second title. `margin-inline-start: auto`
      rather than `justify-content: space-between` so the label keeps its
      natural width. */
@@ -1315,8 +1317,31 @@
     content: none;
   }
 
+  /* Closed, the card shrinks to a pill centred in the column --
+     `TL;DR | Show` -- rather than a full-width bordered box holding two
+     words and nothing between them, which read as an empty input. Opened,
+     none of this applies and it is the full-width card above. The label
+     drops to 0.8em so the pill reads as a control, and a hairline divides
+     it from the toggle word, which sits right against it instead of being
+     pushed to the far edge. Beats the base rule's `margin-inline: 0` on
+     specificity (0,3,1 vs 0,2,0), so no !important is needed here. */
+  .page__content details.tldr:not([open]) {
+    width: fit-content;
+    margin-inline: auto;
+    padding: 0.5em 1.05em;
+    border-radius: 999px;
+  }
+
   .page__content details.tldr:not([open]) > summary .tldr__label {
     margin-bottom: 0;
+    font-size: 0.8em;
+  }
+
+  .page__content details.tldr:not([open]) > summary::after {
+    margin-inline-start: 0.85em;
+    padding-inline-start: 0.85em;
+    border-inline-start: 1px solid var(--site-tldr-line);
+    font-size: 0.74em;
   }
 
   .page__content details.tldr[open] > summary + * {

@@ -28,7 +28,8 @@ now, not `footer_scripts` order — see the header comment in `site.js`.
 bordered panel in a slate-ink wash, deliberately refusing the left rule
 that marks the three evidence blockquotes. Every page authors it as a
 `<details>` and so opens collapsed (`details.tldr` in site.scss, CSS only —
-no JS); the plain-`<div>`, always-open form is still styled and supported. Markup is `formatting_guide.md`;
+no JS), as a centred pill that widens to the full card when opened; the
+plain-`<div>`, always-open form is still styled and supported. Markup is `formatting_guide.md`;
 its `--site-tldr-*` values and their contrast ratios are in `_dirt.scss`.
 
 `.toc` keeps the theme's own styling at both widths — the box, the solid
