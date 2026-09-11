@@ -34,9 +34,17 @@ share: true
 <details class="tldr" markdown="1">
 <summary><span class="tldr__label">Summary</span></summary>
 
-The Qur’an and the life of Prophet Muhammad ﷺ form a cumulative case for his prophethood. The Qur’an was recited orally over twenty-three years in seventh-century Arabia by a man who could neither read nor write, yet it maintains extraordinary literary quality, coherence, depth, guidance, preservation, and fulfilled predictions while openly inviting scrutiny and challenging its opponents to rival it. Its moral and theological message consistently calls humanity to worship God alone, seek mercy and repentance, uphold justice, care for the vulnerable, and live in preparation for judgment.
+The Qur'an and the life of Prophet Muhammad ﷺ together form a cumulative case for his prophethood.
 
-The man who delivered it strengthens that case. Muhammad ﷺ was known for exceptional character, integrity, mercy, courage, humility, and moral conduct; he endured persecution rather than abandon his message, lived simply even after gaining authority, and was publicly corrected by the very revelation he proclaimed. His teachings and example transformed Arabia and went on to shape the lives of billions, making him one of the most influential human beings in history. His life and historical record are difficult to explain as fraud, delusion, evil inspiration, or later legend. Taken together, the Qur’an and the Messenger point most naturally to the conclusion they themselves present: Muhammad ﷺ was a true prophet of God, and the Qur’an is revelation from Him.
+The Qur'an was revealed orally over twenty-three years in seventh-century Arabia by a man who could neither read nor write. Its passages were revealed separately, often in response to unforeseen events and outside their final order, yet the Qur'an maintains unmatched eloquence, intricate structure, coherence, and depth throughout.
+
+It openly invites scrutiny and challenges its opponents to rival it. Its fulfilled prophecies, striking historical and linguistic details, and preservation through memorization and early manuscripts further support its claim to divine origin. Its message consistently calls people to worship God alone, seek His mercy, repent, uphold justice, forgive, care for the vulnerable, and prepare for judgment. Taken together, the Qur'an's remarkable features are presented as evidence that it could not be the product of human authorship.
+
+The life of Prophet Muhammad ﷺ further strengthens that case. He was known for exceptional integrity, mercy, courage, and humility. He embodied the justice and generosity he taught, endured years of persecution rather than abandon his message, and lived simply even after gaining authority. His public leadership and private conduct reflected the same devotion to God and responsibility toward others. His teachings and example transformed Arabia and shaped billions of lives across fourteen centuries, making him one of history's most influential figures.
+
+The main alternative explanations fail to account for the evidence of his life and message. Deliberate fraud does not explain his personal sacrifices or his faithful transmission of revelations that openly corrected him. Sincere error does not explain decades of coherent teaching, sound judgment, and effective leadership. Evil inspiration is incompatible with a message that calls people to worship God, reject Satan and evil, live morally, and resist wrongdoing. The claim that his story was fabricated later is contradicted by early manuscript evidence and by the extensive record of his life carefully preserved by the first generations of Muslims.
+
+The case is therefore cumulative: the Qur'an's extraordinary qualities, the Prophet Muhammad's ﷺ moral character and lasting influence, and the weakness of alternative explanations all reinforce one another. The Qur'an is presented as a lasting and preserved miracle from God, given to Prophet Muhammad ﷺ as evidence for his message to all humanity. Together with the carefully preserved record of his life, they provide every generation with tangible evidence by which to examine the Qur'an's claim to divine origin and assess Muhammad's ﷺ claim to prophethood.
 </details>
 
 ## The Book
@@ -84,9 +92,9 @@ The man who delivered it strengthens that case. Muhammad ﷺ was known for excep
 
     {% include yt-embed.html url="https://youtu.be/SA-hkxqolIA" title="Linguistic Miracles - Reorder of Words" %}
 
-    {% include yt-embed.html url="https://youtu.be/DdWFSP-5vwM" title="Linguistic Miracles - Ibraheem’s Dua" %}
+    {% include yt-embed.html url="https://youtu.be/DdWFSP-5vwM" title="Linguistic Miracles - Ibraheem's Dua" %}
 
-    {% include yt-embed.html url="https://youtu.be/2iiGZlyDOXk" title="Quran's Miracle You’ll Hear for the First Time! - This Will Change the Way You See the Quran" %}
+    {% include yt-embed.html url="https://youtu.be/2iiGZlyDOXk" title="Quran's Miracle You'll Hear for the First Time! - This Will Change the Way You See the Quran" %}
 
     > [The Inimitable Qur'an - paper](https://yaqeeninstitute.ca/read/paper/the-inimitable-quran-the-revelation-to-prophet-muhammad)
 
@@ -332,7 +340,7 @@ The man who delivered it strengthens that case. Muhammad ﷺ was known for excep
 1. It gives strikingly accurate historical detail, some of which was confirmed only by modern scholarship.
     {% include yt-embed.html url="https://youtu.be/c2ovILc_sKY" title="The Qur'an and the Secrets of Egypt" %}
 
-    {% include yt-embed.html url="https://youtu.be/BDitIpKLhjc" title="Another Sign of the Quran’s Divine Origin?" %}
+    {% include yt-embed.html url="https://youtu.be/BDitIpKLhjc" title="Another Sign of the Quran's Divine Origin?" %}
 1. It retells narratives shared with the Bible while correcting their historical and theological errors rather than repeating them.
     > Examples include the different titles used for the ruler in the accounts of Moses and Joseph, as well as the Qur'an's description of the Israelites as a small group at the exodus.
     {: .gloss }
@@ -442,11 +450,11 @@ The man who delivered it strengthens that case. Muhammad ﷺ was known for excep
 
 ## The Messenger of God ﷺ
 
-Everything described above was recited by one man who could neither read nor write, over the course of twenty-three years in seventh-century Arabia. But the Qur’an cannot be separated from the man who delivered it.
+Everything described above was recited by one man who could neither read nor write, over the course of twenty-three years in seventh-century Arabia. But the Qur'an cannot be separated from the man who delivered it.
 
-The two lines of evidence therefore reinforce one another. The extraordinary qualities of the Qur’an came through a man whose character, life, and message were themselves extraordinary. Taken together, they point overwhelmingly toward the same conclusion: that Prophet Muhammad ﷺ was what he claimed to be—a true prophet of God.
+The two lines of evidence therefore reinforce one another. The extraordinary qualities of the Qur'an came through a man whose character, life, and message were themselves extraordinary. Taken together, they point overwhelmingly toward the same conclusion: that Prophet Muhammad ﷺ was what he claimed to be—a true prophet of God.
 
-His life presents a remarkable case of its own. The man through whom the Qur’an came was known for his integrity, endured years of persecution and sacrifice for his message, lived according to what he preached, and left behind teachings and an example that transformed Arabia and shaped the lives of generations after him. His life was also preserved in extraordinary detail and rigor through reports from his family, companions, servants, followers, and even opponents.
+His life presents a remarkable case of its own. The man through whom the Qur'an came was known for his integrity, endured years of persecution and sacrifice for his message, lived according to what he preached, and left behind teachings and an example that transformed Arabia and shaped the lives of generations after him. His life was also preserved in extraordinary detail and rigor through reports from his family, companions, servants, followers, and even opponents.
 
 ### Was Muhammad ﷺ Truly a Prophet?
 {: #was-muhammad-truly-a-prophet }
@@ -548,7 +556,7 @@ The [full evidence library](/messenger) runs to seventeen pages. Each entry ther
 
     {% include yt-embed.html url="https://youtu.be/aINML5H7M_Q" title="The STRANGEST proof that the Quran is from Allah | Arabic 101" %}
 
-    {% include yt-embed.html url="https://youtu.be/BDitIpKLhjc" title="Another Sign of the Quran’s Divine Origin?" %}
+    {% include yt-embed.html url="https://youtu.be/BDitIpKLhjc" title="Another Sign of the Quran's Divine Origin?" %}
 
 - Why believe?
     {% include yt-embed.html url="https://youtu.be/wNrbUwGP5_U" title="Ep 6 Why Islam" %}
@@ -560,7 +568,7 @@ The [full evidence library](/messenger) runs to seventeen pages. Each entry ther
     {% include yt-embed.html url="https://youtu.be/_HlpfgaDATU" title="Conquering Doubts & Confidently Defending Islam | Ali Ataie" %}
 
 - Does God exist?
-    {% include yt-embed.html url="https://youtu.be/x_ZomUjol-s" title="Does God Exist?: A Muslim’s Response to Atheism | Ustadh Dr. Ali Ataie" %}
+    {% include yt-embed.html url="https://youtu.be/x_ZomUjol-s" title="Does God Exist?: A Muslim's Response to Atheism | Ustadh Dr. Ali Ataie" %}
 
     {% include yt-embed.html url="https://youtu.be/If3cNUixEBM" title="Does God Exist? Dr Ali Ataie responds to the New Atheism" %}
 
@@ -599,9 +607,9 @@ The [full evidence library](/messenger) runs to seventeen pages. Each entry ther
 - [The Prophet Muhammad's example](/messenger/character)
     {% include yt-embed.html url="https://youtu.be/LeRhJQYZbWw" title="Prophetic Responses in an Age of Ignorance" %}
 
-    {% include yt-embed.html url="https://youtu.be/1Ww6b_AUYjw" title="Addressing Muhammad (PBUH)’s Motive: Wealth, Power, or a Greater Purpose? | Ustadh Dr. Ali Ataie" %}
+    {% include yt-embed.html url="https://youtu.be/1Ww6b_AUYjw" title="Addressing Muhammad (PBUH)'s Motive: Wealth, Power, or a Greater Purpose? | Ustadh Dr. Ali Ataie" %}
 
-    {% include yt-embed.html url="https://youtu.be/6OGOmqvBKEU" title="The Foundation of Good Muslim Moral Character: The Prophet’s Excellent Example | Dr. Ali Ataie" %}
+    {% include yt-embed.html url="https://youtu.be/6OGOmqvBKEU" title="The Foundation of Good Muslim Moral Character: The Prophet's Excellent Example | Dr. Ali Ataie" %}
 
     {% include yt-embed.html url="https://youtube.com/shorts/HcViZkHoxK0" title="Truthfulness of the Prophet (Youtube Short)" %}
 

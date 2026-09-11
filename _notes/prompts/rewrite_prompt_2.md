@@ -13,7 +13,7 @@ Do **not** fact-check, add new arguments, remove unique points, or introduce out
 Also do **not** cut or shorten Quran quotations.
 
 Feel free to change **how and where** a meaning is being made, but preserve the **what** somewhere on the page.
-Overall, we want to shorten, restructure, and improve clarity, tone, paragraphing and flow while preserving meanings.
+Overall, we want to (shorten,) restructure, and improve clarity, tone, paragraphing and flow while preserving meanings.
 
 Please create a thorough plan first for approval.
 

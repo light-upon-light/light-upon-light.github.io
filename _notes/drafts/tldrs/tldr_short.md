@@ -2,7 +2,7 @@
 
 ## aisha
 
-The traditional reports place Aisha’s entry into the Prophet Muhammad’s ﷺ household at nine, but age alone does not settle the moral question. The same chronological age did not necessarily represent the same developmental or social stage in seventh-century Arabia as it does today.
+The traditional reports place Aisha's entry into the Prophet Muhammad's ﷺ household at nine, but age alone does not settle the moral question. The same chronological age did not necessarily represent the same developmental or social stage in seventh-century Arabia as it does today.
 
 The surviving record does not support claims of coercion, exploitation, or a predatory pattern. Aisha remained close to her family, openly disagreed with the Prophet, became a leading scholar, and spoke extensively about their marriage for decades. His wider life likewise shows trustworthiness, mercy, modest living despite political authority, gentleness toward women and children, and no pattern of cruelty or abuse.
 
@@ -22,15 +22,15 @@ One wife is the normal arrangement. Polygyny can serve particular family and soc
 
 ## punishments
 
-The *hudud* punishments are severe and rooted in Islamic sources, but they were not meant as the automatic worldly consequence of every private sin. Islam distinguishes between accountability before God—where repentance and mercy are always open—and the state’s narrower authority to punish legally established public offences.
+The *hudud* punishments are severe and rooted in Islamic sources, but they were not meant as the automatic worldly consequence of every private sin. Islam distinguishes between accountability before God—where repentance and mercy are always open—and the state's narrower authority to punish legally established public offences.
 
 Classical Islamic law therefore imposed strict safeguards: demanding proof, penalties for false accusation, prohibitions on spying, avoidance of fixed penalties where serious doubt existed, and consideration of repentance and social conditions. Applying the punishments while discarding these restraints distorts the legal structure they belong to.
 
 ## quran
 
-The Qur’an and the life of Prophet Muhammad ﷺ together form a cumulative case for his prophethood. Revealed orally over twenty-three years in seventh-century Arabia by a man who could neither read nor write, the Qur’an displays extraordinary literary quality, coherence, guidance, preservation, and fulfilled predictions while openly inviting scrutiny.
+The Qur'an and the life of Prophet Muhammad ﷺ form a cumulative case for his prophethood. The Qur'an was recited orally over twenty-three years in seventh-century Arabia by a man who could neither read nor write, yet it maintains extraordinary literary quality, coherence, depth, guidance, preservation, and fulfilled predictions while openly inviting scrutiny and challenging its opponents to rival it. Its moral and theological message consistently calls humanity to worship God alone, seek mercy and repentance, uphold justice, care for the vulnerable, and live in preparation for judgment.
 
-Muhammad ﷺ was known for exceptional character and moral conduct, endured persecution for his message, lived simply even after gaining power, and became one of the most influential human beings in history. Taken together, the Qur’an and the Messenger point most naturally to the conclusion that Muhammad ﷺ was a true prophet of God and the Qur’an is revelation from Him.
+The man who delivered it strengthens that case. Muhammad ﷺ was known for exceptional character, integrity, mercy, courage, humility, and moral conduct; he endured persecution rather than abandon his message, lived simply even after gaining authority, and was publicly corrected by the very revelation he proclaimed. His teachings and example transformed Arabia and went on to shape the lives of billions, making him one of the most influential human beings in history. His life and historical record are difficult to explain as fraud, delusion, evil inspiration, or later legend. Taken together, the Qur'an and the Messenger point most naturally to the conclusion they themselves present: Muhammad ﷺ was a true prophet of God, and the Qur'an is revelation from Him.
 
 ## ridda
 
@@ -40,7 +40,7 @@ Islam does not prescribe death for merely changing one's beliefs. The Qur'an ass
 
 Islam was not spread simply by forcing conquered peoples to become Muslim. Muslim armies fought for different reasons, including attacks, military threats, the killing of envoys, local political appeals, and territorial expansion.
 
-Conquest changed political rule, not the population’s religion: non-Muslim communities remained for centuries, conversion was gradual, and Islam also spread widely without military conquest.
+Conquest changed political rule, not the population's religion: non-Muslim communities remained for centuries, conversion was gradual, and Islam also spread widely without military conquest.
 
 The Qur'an rejects compulsion in religion and commands that people be invited through wisdom and good counsel. Islamic rules of war also protected non-combatants and imposed ethical limits on warfare. Conquest explains the spread of Muslim rule; it does not, by itself, explain the spread of Muslim belief.
 
@@ -48,4 +48,4 @@ The Qur'an rejects compulsion in religion and commands that people be invited th
 
 Qur'an 4:34 does not permit domestic abuse. It addresses serious marital misconduct, not ordinary disagreement, and gives a graduated response before the disputed expression *waḍribūhunna*. Some scholars understood it as separation or distancing; others understood it physically, but classical jurists restricted that reading so that it could not involve injury, cruelty, or abuse.
 
-This is consistent with the Qur'an’s commands to live with one’s wife in kindness and avoid harm, and with the Prophet’s example: he never struck a woman and condemned husbands who mistreated their wives. Whatever interpretation is adopted, the verse cannot legitimately be turned into a license for wife-beating or domestic abuse.
+This is consistent with the Qur'an's commands to live with one's wife in kindness and avoid harm, and with the Prophet's example: he never struck a woman and condemned husbands who mistreated their wives. Whatever interpretation is adopted, the verse cannot legitimately be turned into a license for wife-beating or domestic abuse.
