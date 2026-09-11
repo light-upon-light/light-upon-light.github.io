@@ -162,7 +162,10 @@
 <link rel="preload" as="font" type="font/woff2" href="{{ '/assets/fonts/abril-fatface/AbrilFatface-latin.woff2' | relative_url }}" crossorigin>
 <link rel="preload" as="font" type="font/woff2" href="{{ '/assets/fonts/source-serif-4/SourceSerif4-latin.woff2' | relative_url }}" crossorigin>
 
-<link rel="stylesheet" href="{{ '/assets/css/site.css' | relative_url }}">
+{%- comment -%} ?v= is the build time: Pages serves site.css with a 4-hour
+     max-age but the HTML with 10 minutes, so an unversioned URL kept the old
+     stylesheet under new markup for hours after a deploy. {%- endcomment -%}
+<link rel="stylesheet" href="{{ '/assets/css/site.css' | relative_url }}?v={{ site.time | date: '%s' }}">
 
 {%- comment -%} Structured data (JSON-LD). The theme's own _includes/seo.html (the
      jekyll-seo-tag include the github-pages gem bundles) emits OpenGraph and
