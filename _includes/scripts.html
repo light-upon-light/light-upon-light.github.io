@@ -1,0 +1,39 @@
+{%- comment -%} Shadows minimal-mistakes 4.28.0 _includes/scripts.html, verbatim
+     except for one change: local footer_scripts get ?v=<build time>, the same
+     cache-buster site.css carries in head/custom.html. Pages serves JS with a
+     4-hour max-age but HTML with 10 minutes, so an unversioned site.js lagged
+     a deploy by hours. Re-diff against the theme on a remote_theme bump. {%- endcomment -%}
+{% assign locale = include.locale | default: site.locale %}
+{%- assign asset_version = site.time | date: '%s' -%}
+{% if site.footer_scripts %}
+  {% for script in site.footer_scripts %}
+    {%- if script contains "://" -%}
+    <script src="{{ script }}"></script>
+    {%- else %}
+    <script src="{{ script | relative_url }}?v={{ asset_version }}"></script>
+    {%- endif %}
+  {% endfor %}
+{% else %}
+  <script src="{{ '/assets/js/main.min.js' | relative_url }}"></script>
+{% endif %}
+
+{% if site.search == true or page.layout == "search" %}
+  {%- assign search_provider = site.search_provider | default: "lunr" -%}
+  {%- case search_provider -%}
+    {%- when "lunr" -%}
+      {% include_cached search/lunr-search-scripts.html locale=locale %}
+    {%- when "google" -%}
+      {% include_cached search/google-search-scripts.html %}
+    {%- when "algolia" -%}
+      {% include_cached search/algolia-search-scripts.html locale=locale %}
+  {%- endcase -%}
+{% endif %}
+
+{% include analytics.html %}
+{% include /comments-providers/scripts.html locale=locale %}
+
+{% if site.after_footer_scripts %}
+  {% for script in site.after_footer_scripts %}
+    <script src="{{ script | relative_url }}"></script>
+  {% endfor %}
+{% endif %}

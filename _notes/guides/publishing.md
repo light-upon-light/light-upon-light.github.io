@@ -24,8 +24,9 @@ regardless of any `published:` flag.
 minutes, so an unversioned asset URL leaves new markup styled by the old
 stylesheet for hours after a deploy. `site.css` is linked with
 `?v={{ site.time | date: '%s' }}` (`_includes/head/custom.html`) so each build
-busts it. `site.js`, loaded through the theme's `footer_scripts`, is not
-versioned — a JS-only change can still lag up to 4 hours.
+busts it. `site.js` gets the same `?v=` from `_includes/scripts.html`, which
+shadows the theme's copy (4.28.0) for that one change — re-diff it against the
+theme when `remote_theme` is bumped.
 
 ## URLs
 
