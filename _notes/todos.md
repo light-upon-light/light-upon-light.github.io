@@ -30,6 +30,7 @@ women:
 
 quran:
 
+- add en prophet muhammad saaw was known not to be a poet or writer, and then on the first try and through oral recitation alone produced the best and most eloquent work of arabic literature by a far margin, to the attestation of both his enemies and followers.
 - add what non-muslims have said about quran (some example in the THINK muslim video)
 - add page for each point that needs one: literary miracle, numerical, historical info, ring structure etc.
 - expand heavily on the literary miracle section and the summit of arabic eloquence part, and add all the video links, part is massive and is a whole area of research on its own
