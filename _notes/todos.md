@@ -2,6 +2,10 @@
 
 general:
 
+- strenghen tldr
+- strengthen overall points
+- strengthen literary miracle section
+
 ---
 
 aisha:
