@@ -260,7 +260,16 @@ The Qur'an's literary miracle extends far beyond beauty of expression. Its inimi
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿أَمْ خُلِقُوا۟ مِنْ غَيْرِ شَىْءٍ أَمْ هُمُ ٱلْخَـٰلِقُونَ ۝٣٥﴾ <span class="ayah-ref">سُورَةُ الطُّورِ</span></div>
     {: .quote }
-    > TODO: more examples
+
+    > “Had there been other gods besides Allah in the heavens or the earth, both ˹realms˺ would have surely been corrupted. So Glorified is Allah, Lord of the Throne, far above what they claim.” (**Sūrat al-Anbiyāʾ 21:22**), Dr. Mustafa Khattab, *The Clear Quran*
+    >
+    > <div dir="rtl" lang="ar" class="quran-arabic">﴿لَوْ كَانَ فِيهِمَآ ءَالِهَةٌ إِلَّا ٱللَّهُ لَفَسَدَتَا ۚ فَسُبْحَـٰنَ ٱللَّهِ رَبِّ ٱلْعَرْشِ عَمَّا يَصِفُونَ ۝٢٢﴾ <span class="ayah-ref">سُورَةُ الأَنبِيَاءِ</span></div>
+    {: .quote }
+
+    > “And they argue with Us—forgetting they were created—saying, ‘Who will give life to decayed bones?’ Say, ˹O Prophet,˺ ‘They will be revived by the One Who produced them the first time, for He has ˹perfect˺ knowledge of every created being.’” (**Sūrat Yā Sīn 36:78–79**), Dr. Mustafa Khattab, *The Clear Quran*
+    >
+    > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَضَرَبَ لَنَا مَثَلًا وَنَسِىَ خَلْقَهُۥ ۖ قَالَ مَن يُحْىِ ٱلْعِظَـٰمَ وَهِىَ رَمِيمٌ ۝٧٨ قُلْ يُحْيِيهَا ٱلَّذِىٓ أَنشَأَهَآ أَوَّلَ مَرَّةٍ ۖ وَهُوَ بِكُلِّ خَلْقٍ عَلِيمٌ ۝٧٩﴾ <span class="ayah-ref">سُورَةُ يسٓ</span></div>
+    {: .quote }
 
 1. It repeatedly demands evidence and warns against following claims without knowledge, rather than treating sincere conviction alone as sufficient.
     > “Do not follow what you have no ˹sure˺ knowledge of. Indeed, all will be called to account for ˹their˺ hearing, sight, and intellect.” (**Sūrat al-Isrāʾ 17:36**), Dr. Mustafa Khattab, *The Clear Quran*
@@ -281,7 +290,21 @@ The Qur'an's literary miracle extends far beyond beauty of expression. Its inimi
 1. It preserves hostile objections inside the permanent text: accusations of fabrication, madness, poetry, magic, ancient tales, and human instruction. The Qur'an then answers those objections rather than editing them out of the record.
     > This gives the book a strikingly “live” argumentative quality. Its first audience remains present in the scripture through the questions and accusations the text addresses.
     {: .gloss }
-    > TODO: examples
+
+    > “The disbelievers say, ‘This ˹Quran˺ is nothing but a fabrication which he made up with the help of others.’ Their claim is totally unjustified and untrue. And they say, ‘˹These revelations are only˺ ancient fables which he has had written down, and they are rehearsed to him morning and evening.’” (**Sūrat al-Furqān 25:4–5**), Dr. Mustafa Khattab, *The Clear Quran*
+    >
+    > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَقَالَ ٱلَّذِينَ كَفَرُوٓا۟ إِنْ هَـٰذَآ إِلَّآ إِفْكٌ ٱفْتَرَىٰهُ وَأَعَانَهُۥ عَلَيْهِ قَوْمٌ ءَاخَرُونَ ۖ فَقَدْ جَآءُو ظُلْمًا وَزُورًا ۝٤ وَقَالُوٓا۟ أَسَـٰطِيرُ ٱلْأَوَّلِينَ ٱكْتَتَبَهَا فَهِىَ تُمْلَىٰ عَلَيْهِ بُكْرَةً وَأَصِيلًا ۝٥﴾ <span class="ayah-ref">سُورَةُ الفُرۡقَانِ</span></div>
+    {: .quote }
+
+    > “Yet they say, ‘This ˹Quran˺ is a set of confused dreams! No, he has fabricated it! No, he must be a poet! So let him bring us a ˹tangible˺ sign like those ˹prophets˺ sent before.’” (**Sūrat al-Anbiyāʾ 21:5**), Dr. Mustafa Khattab, *The Clear Quran*
+    >
+    > <div dir="rtl" lang="ar" class="quran-arabic">﴿بَلْ قَالُوٓا۟ أَضْغَـٰثُ أَحْلَـٰمٍۭ بَلِ ٱفْتَرَىٰهُ بَلْ هُوَ شَاعِرٌ فَلْيَأْتِنَا بِـَٔايَةٍ كَمَآ أُرْسِلَ ٱلْأَوَّلُونَ ۝٥﴾ <span class="ayah-ref">سُورَةُ الأَنبِيَاءِ</span></div>
+    {: .quote }
+
+    > “And We surely know that they say, ‘No one is teaching him except a human.’ But the man they refer to speaks a foreign tongue, whereas this ˹Quran˺ is ˹in˺ eloquent Arabic.” (**Sūrat al-Naḥl 16:103**), Dr. Mustafa Khattab, *The Clear Quran*
+    >
+    > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَلَقَدْ نَعْلَمُ أَنَّهُمْ يَقُولُونَ إِنَّمَا يُعَلِّمُهُۥ بَشَرٌ ۗ لِّسَانُ ٱلَّذِى يُلْحِدُونَ إِلَيْهِ أَعْجَمِىٌّ وَهَـٰذَا لِسَانٌ عَرَبِىٌّ مُّبِينٌ ۝١٠٣﴾ <span class="ayah-ref">سُورَةُ النَّحۡلِ</span></div>
+    {: .quote }
 
 A fabricator seeking safety could have preferred vague and unfalsifiable claims, and would not have repeatedly appealed to reason and invited scrutiny. The Qur'an instead repeatedly creates points at which its claims can be challenged: its literary challenge, its claims of coherence, predictions about future events, and its expectation of preservation.
 
@@ -325,24 +348,83 @@ It also describes features of the natural world with remarkable precision, inclu
 
 {% include yt-embed.html url="https://youtu.be/DoP6Ft-VE70" title="Are there scientific miracles in the Qur'an?" %}
 
-1. **Embryonic development:** the Qur'an gives a striking stage-by-stage description of the development of a human embryo. #TODO-EDIT: The sequence has drawn sustained attention for the precision of its imagery.
-    > TODO: Verse
+1. **Embryonic development:** the Qur'an gives a striking stage-by-stage description of the development of a human embryo. It moves from a drop, to something that clings, to a lump, to bones, and then to flesh clothing those bones.
+    > “And certainly did We create man from an extract of clay. Then We placed him as a sperm-drop in a firm lodging. Then We made the sperm-drop into a clinging clot, and We made the clot into a lump [of flesh], and We made [from] the lump, bones, and We covered the bones with flesh; then We developed him into another creation. So blessed is Allah, the best of creators.” (**Sūrat al-Muʾminūn 23:12–14**), Saheeh International
+    >
+    > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَلَقَدْ خَلَقْنَا ٱلْإِنسَـٰنَ مِن سُلَـٰلَةٍ مِّن طِينٍ ۝١٢ ثُمَّ جَعَلْنَـٰهُ نُطْفَةً فِى قَرَارٍ مَّكِينٍ ۝١٣ ثُمَّ خَلَقْنَا ٱلنُّطْفَةَ عَلَقَةً فَخَلَقْنَا ٱلْعَلَقَةَ مُضْغَةً فَخَلَقْنَا ٱلْمُضْغَةَ عِظَـٰمًا فَكَسَوْنَا ٱلْعِظَـٰمَ لَحْمًا ثُمَّ أَنشَأْنَـٰهُ خَلْقًا ءَاخَرَ ۚ فَتَبَارَكَ ٱللَّهُ أَحْسَنُ ٱلْخَـٰلِقِينَ ۝١٤﴾ <span class="ayah-ref">سُورَةُ المُؤۡمِنُونَ</span></div>
+    {: .quote }
+    > The Arabic words carry more than their usual English renderings. *ʿAlaqa* (“clinging clot”) is something that clings or hangs, and the same root names a leech; *muḍgha* (“lump”) is a morsel that looks chewed. Each describes the embryo by its appearance, which is how a reader with no instruments could have recognised the stages.
+    {: .gloss }
     {% include yt-embed.html url="https://youtu.be/J_Dllu42eEA" title="Qur'an on Embryology - Professor Keith L. Moore" %}
 
-1. It describes water as the origin of all life.
-    > “And We made from water every living thing.” (**Sūrat al-Anbiyāʾ 21:30**), Saheeh International
+1. **A joined origin of the heavens and earth:** the Qur'an describes the heavens and the earth as once joined together and then split apart, and in the same verse describes water as the origin of all life.
+    > “Have those who disbelieved not considered that the heavens and the earth were a joined entity, and We separated them and made from water every living thing? Then will they not believe?” (**Sūrat al-Anbiyāʾ 21:30**), Saheeh International
     >
-    > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَجَعَلْنَا مِنَ ٱلْمَآءِ كُلَّ شَىْءٍ حَىٍّ﴾ <span class="ayah-ref">[سُورَةُ الأَنبِيَاءِ: ٣٠]</span></div>
+    > <div dir="rtl" lang="ar" class="quran-arabic">﴿أَوَلَمْ يَرَ ٱلَّذِينَ كَفَرُوٓا۟ أَنَّ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضَ كَانَتَا رَتْقًا فَفَتَقْنَـٰهُمَا ۖ وَجَعَلْنَا مِنَ ٱلْمَآءِ كُلَّ شَىْءٍ حَىٍّ ۖ أَفَلَا يُؤْمِنُونَ ۝٣٠﴾ <span class="ayah-ref">سُورَةُ الأَنبِيَاءِ</span></div>
+    {: .quote }
+    > *Ratq* means things fused or stitched together, and *fatq* is the unstitching of what was joined. The verse makes the separation an act of God, and puts it to the disbelievers as something they should reflect on.
+    {: .gloss }
+
+1. **Expansion of the universe:** the Qur'an describes God as having built the heaven and as continually widening it.
+    > “We built the universe with ˹great˺ might, and We are certainly expanding ˹it˺.” (**Sūrat al-Dhāriyāt 51:47**), Dr. Mustafa Khattab, *The Clear Quran*
+    >
+    > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَٱلسَّمَآءَ بَنَيْنَـٰهَا بِأَيْي۟دٍ وَإِنَّا لَمُوسِعُونَ ۝٤٧﴾ <span class="ayah-ref">سُورَةُ الذَّارِيَاتِ</span></div>
+    {: .quote }
+    > *Mūsiʿūn* is an active participle from the root for width and vastness, so it describes ongoing action: “We are making it wide.” Many classical exegetes read it as God's vast power or provision. Its plain wording also fits the modern finding that the universe is expanding, which no one in seventh-century Arabia had reason to propose.
+    {: .gloss }
+
+1. **Orbits of the sun and moon:** the Qur'an describes the sun and the moon each moving in its own rounded course.
+    > “And He is the One Who created the day and the night, the sun and the moon—each travelling in an orbit.” (**Sūrat al-Anbiyāʾ 21:33**), Dr. Mustafa Khattab, *The Clear Quran*
+    >
+    > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَهُوَ ٱلَّذِى خَلَقَ ٱلَّيْلَ وَٱلنَّهَارَ وَٱلشَّمْسَ وَٱلْقَمَرَ ۖ كُلٌّ فِى فَلَكٍ يَسْبَحُونَ ۝٣٣﴾ <span class="ayah-ref">سُورَةُ الأَنبِيَاءِ</span></div>
     {: .quote }
 
-1. **Origin of the universe from a single point:**  TODO: ratqan
-1. **Expansion of the universe:** TODO: expansion of universe
-1. **Orbit of planets:** TODO: kolon fee falak
-1. **Weight of clouds:** TODO: heavy clouds
-1. TODO: Mountains as stabilizers
+    > “It is not for the sun to catch up with the moon, nor does the night outrun the day. Each is travelling in an orbit of their own.” (**Sūrat Yā Sīn 36:40**), Dr. Mustafa Khattab, *The Clear Quran*
+    >
+    > <div dir="rtl" lang="ar" class="quran-arabic">﴿لَا ٱلشَّمْسُ يَنۢبَغِى لَهَآ أَن تُدْرِكَ ٱلْقَمَرَ وَلَا ٱلَّيْلُ سَابِقُ ٱلنَّهَارِ ۚ وَكُلٌّ فِى فَلَكٍ يَسْبَحُونَ ۝٤٠﴾ <span class="ayah-ref">سُورَةُ يسٓ</span></div>
+    {: .quote }
+    > *Falak* is a rounded course, the word for the whorl of a spindle, and *yasbaḥūn* means gliding or swimming. Common ancient models fixed the heavenly bodies to turning spheres; the Qur'an instead describes each body moving along its own path.
+    {: .gloss }
+
+1. **Weight of clouds:** the Qur'an calls rain-bearing clouds heavy.
+    > “He is the One Who shows you lightning, inspiring ˹you with˺ hope and fear, and produces heavy clouds.” (**Sūrat al-Raʿd 13:12**), Dr. Mustafa Khattab, *The Clear Quran*
+    >
+    > <div dir="rtl" lang="ar" class="quran-arabic">﴿هُوَ ٱلَّذِى يُرِيكُمُ ٱلْبَرْقَ خَوْفًا وَطَمَعًا وَيُنشِئُ ٱلسَّحَابَ ٱلثِّقَالَ ۝١٢﴾ <span class="ayah-ref">سُورَةُ الرَّعۡدِ</span></div>
+    {: .quote }
+    > Clouds look weightless from the ground. A large rain cloud in fact holds an enormous mass of water, suspended by rising air until it falls as rain.
+    {: .gloss }
+
+1. **Mountains as stabilizers:** the Qur'an describes mountains as pegs and as firmly anchored masses set into the earth so that it does not shift.
+    > “Have We not smoothed out the earth ˹like a bed˺ and ˹made˺ the mountains as ˹its˺ pegs?” (**Sūrat al-Nabaʾ 78:6–7**), Dr. Mustafa Khattab, *The Clear Quran*
+    >
+    > <div dir="rtl" lang="ar" class="quran-arabic">﴿أَلَمْ نَجْعَلِ ٱلْأَرْضَ مِهَـٰدًا ۝٦ وَٱلْجِبَالَ أَوْتَادًا ۝٧﴾ <span class="ayah-ref">سُورَةُ النَّبَإِ</span></div>
+    {: .quote }
+
+    > “He has placed into the earth firm mountains, so it does not shake with you, as well as rivers, and pathways so you may find your way.” (**Sūrat al-Naḥl 16:15**), Dr. Mustafa Khattab, *The Clear Quran*
+    >
+    > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَأَلْقَىٰ فِى ٱلْأَرْضِ رَوَٰسِىَ أَن تَمِيدَ بِكُمْ وَأَنْهَـٰرًا وَسُبُلًا لَّعَلَّكُمْ تَهْتَدُونَ ۝١٥﴾ <span class="ayah-ref">سُورَةُ النَّحۡلِ</span></div>
+    {: .quote }
+    > *Rawāsī* means firmly set or anchored things, and *awtād* are tent pegs, most of whose length is hidden below ground. Modern geology found that mountains have deep roots of crust extending far beneath them, often several times their visible height.
+    {: .gloss }
+
 1. It describes the ordered processes of rain, clouds, winds, and the revival of dead land with remarkable observational precision.
-    > TODO: verse
-1. **Gender of the worker honey bee:** TODO: worker honey bee gender
+    > “Do you not see that Allah drives clouds? Then He brings them together, then He makes them into a mass, and you see the rain emerge from within it. And He sends down from the sky, mountains [of clouds] within which is hail, and He strikes with it whom He wills and averts it from whom He wills. The flash of its lightening almost takes away the eyesight.” (**Sūrat al-Nūr 24:43**), Saheeh International
+    >
+    > <div dir="rtl" lang="ar" class="quran-arabic">﴿أَلَمْ تَرَ أَنَّ ٱللَّهَ يُزْجِى سَحَابًا ثُمَّ يُؤَلِّفُ بَيْنَهُۥ ثُمَّ يَجْعَلُهُۥ رُكَامًا فَتَرَى ٱلْوَدْقَ يَخْرُجُ مِنْ خِلَـٰلِهِۦ وَيُنَزِّلُ مِنَ ٱلسَّمَآءِ مِن جِبَالٍ فِيهَا مِنۢ بَرَدٍ فَيُصِيبُ بِهِۦ مَن يَشَآءُ وَيَصْرِفُهُۥ عَن مَّن يَشَآءُ ۖ يَكَادُ سَنَا بَرْقِهِۦ يَذْهَبُ بِٱلْأَبْصَـٰرِ ۝٤٣﴾ <span class="ayah-ref">سُورَةُ النُّورِ</span></div>
+    {: .quote }
+
+    > “It is Allah who sends the winds, and they stir the clouds and spread them in the sky however He wills, and He makes them fragments so you see the rain emerge from within them. And when He causes it to fall upon whom He wills of His servants, immediately they rejoice.” (**Sūrat al-Rūm 30:48**), Saheeh International
+    >
+    > <div dir="rtl" lang="ar" class="quran-arabic">﴿ٱللَّهُ ٱلَّذِى يُرْسِلُ ٱلرِّيَـٰحَ فَتُثِيرُ سَحَابًا فَيَبْسُطُهُۥ فِى ٱلسَّمَآءِ كَيْفَ يَشَآءُ وَيَجْعَلُهُۥ كِسَفًا فَتَرَى ٱلْوَدْقَ يَخْرُجُ مِنْ خِلَـٰلِهِۦ ۖ فَإِذَآ أَصَابَ بِهِۦ مَن يَشَآءُ مِنْ عِبَادِهِۦٓ إِذَا هُمْ يَسْتَبْشِرُونَ ۝٤٨﴾ <span class="ayah-ref">سُورَةُ الرُّومِ</span></div>
+    {: .quote }
+
+1. **Gender of the worker honey bee:** the Qur'an addresses the bees that build homes, gather from fruits, and produce honey in the feminine.
+    > “And your Lord inspired to the bee, ‘Take for yourself among the mountains, houses, and among the trees and [in] that which they construct. Then eat from all the fruits and follow the ways of your Lord laid down [for you].’ There emerges from their bellies a drink, varying in colors, in which there is healing for people. Indeed in that is a sign for a people who give thought.” (**Sūrat al-Naḥl 16:68–69**), Saheeh International
+    >
+    > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَأَوْحَىٰ رَبُّكَ إِلَى ٱلنَّحْلِ أَنِ ٱتَّخِذِى مِنَ ٱلْجِبَالِ بُيُوتًا وَمِنَ ٱلشَّجَرِ وَمِمَّا يَعْرِشُونَ ۝٦٨ ثُمَّ كُلِى مِن كُلِّ ٱلثَّمَرَٰتِ فَٱسْلُكِى سُبُلَ رَبِّكِ ذُلُلًا ۚ يَخْرُجُ مِنۢ بُطُونِهَا شَرَابٌ مُّخْتَلِفٌ أَلْوَٰنُهُۥ فِيهِ شِفَآءٌ لِّلنَّاسِ ۗ إِنَّ فِى ذَٰلِكَ لَـَٔايَةً لِّقَوْمٍ يَتَفَكَّرُونَ ۝٦٩﴾ <span class="ayah-ref">سُورَةُ النَّحۡلِ</span></div>
+    {: .quote }
+    > English translations cannot show it, but every command in the Arabic (*ittakhidhī*, “take”; *kulī*, “eat”; *fa-slukī*, “follow”) is feminine, as is “their bellies” (*buṭūnihā*). The bees that build, forage, and make honey are the workers, and every worker bee is female. Arabic often gives collective nouns feminine agreement, so the grammar alone does not settle the point; still, the wording matches the biology.
+    {: .gloss }
 
 ### <span class="num-roman">VII.</span> Numerical Patterns
 {: #numerical-patterns }
