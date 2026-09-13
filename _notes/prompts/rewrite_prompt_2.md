@@ -2,7 +2,7 @@
 
 ## Prompt 1 (best)
 
-The uploaded document is a page in an Islam apologetics website. I fear that it is currently badly written and is not a pleasant, clear and convincing read.
+The uploaded document is a page in an Islam apologetics website. I fear that it is currently badly written and is not a pleasant, clear and convincing read. And it is quite redundant as I combined ideas from two docs together.
 
 Revise this page for **presentation only**. Preserve the meanings, but make the page (significantly shorter,) clearer, more natural, and easier to follow.
 
@@ -13,9 +13,12 @@ Do **not** fact-check, add new arguments, remove unique points, or introduce out
 Also do **not** cut or shorten Quran quotations.
 
 Feel free to change **how and where** a meaning is being made, but preserve the **what** somewhere on the page.
+
+Feel free to aggressively reword a point (or move meanings between the actual bullet point and the gloss quotation underneath it, etc.) when the point isn't clear and well written and easy to read and understand right away, or if it's too short and you want to add some more context or emphasis. Prefer stating the claim, evidence, or inference directly and clearly.
+
 Overall, we want to (shorten,) restructure, and improve clarity, tone, paragraphing and flow while preserving meanings.
 
-Please create a thorough plan first for approval.
+Please create a well thought out and thorough plan first for approval.
 
 ## Prompt 2 (more concise)
 

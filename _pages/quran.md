@@ -2,7 +2,7 @@
 title: "The Qur'an and the Messenger ﷺ: Evidence for Prophethood"
 description: "The Qur'an and the life of Prophet Muhammad, considered together as evidence for his prophethood."
 date: 2025-08-16
-last_modified_at: 2026-09-07
+last_modified_at: 2026-09-12
 
 # Standard short-form label for this page, used wherever the full title (with
 # its "Evidence for Prophethood" subtitle) would be too long -- currently the
@@ -146,7 +146,6 @@ The Qur'an's literary miracle extends far beyond beauty of expression. Its inimi
     > M. A. S. Abdel Haleem, [“Grammatical Shift for Rhetorical Purposes: Iltifāt and Related Features in the Qur'ān”](https://doi.org/10.1017/S0041977X00003621), *Bulletin of the School of Oriental and African Studies* 55.3 (1992), 407–432.
     {: .src }
 
-
 1. **Repetition with variation:** the Qur'an retells events—especially episodes involving Moses—many times without simply copying a fixed block of narrative.
     > One retelling may expand a confrontation, another suppress it; one emphasizes fear, another prophetic reassurance; one places a speech before a sign, another highlights the sign itself. The same narrative material is repeatedly reshaped to serve the argument of the chapter in which it appears.
     {: .gloss }
@@ -172,7 +171,6 @@ The Qur'an's literary miracle extends far beyond beauty of expression. Its inimi
 
     {% include yt-embed.html url="https://youtu.be/eLaWEciecTc" title="Miracle of Surah Yusuf | Linguistic Miracle - Nouman Ali Khan" %}
 
-
 1. **Sound, syntax, and meaning:** Qur'anic cadence is not merely decoration. Verse endings, sentence length, pauses, repeated sounds, and shifts in pace frequently reinforce the semantic movement.
     > The text can accelerate through warning, slow into solemn reflection, move from vast cosmic imagery into intimate address, or let a repeated sound bind a sequence of short verses together. The relevant phenomenon is not just that recitation sounds beautiful, but that acoustic and semantic constraints are repeatedly satisfied together.
     {: .gloss }
@@ -181,14 +179,6 @@ The Qur'an's literary miracle extends far beyond beauty of expression. Its inimi
 1. **Rapid movement between discourse modes:** within a short stretch the Qur'an may move among narration, quoted speech, direct divine address, prayer, law, warning, rhetorical question, and eschatological imagery while remaining intelligible as one discourse.
     > That flexibility helps explain why the Qur'an is difficult to classify as ordinary narrative prose or conventional metrical poetry.
     {: .gloss }
-
-
-1. **Rhetorical questions and public argument:** much of the Qur'an argues rather than merely asserts. It quotes objections, asks the listener to consider implications, demands proof, and appeals to history, nature, conscience, and consistency.
-    > “Or were they created by nothing, or are they ˹their own˺ creators?” (**Sūrat al-Ṭūr 52:35**), Dr. Mustafa Khattab, *The Clear Quran*
-    >
-    > “Produce your proof, if you are truthful.” (**Sūrat al-Baqarah 2:111**), Saheeh International
-    {: .quote }
-
 
 1. **Semantic density:** short expressions often do several kinds of work at once—legal, theological, moral, rhetorical, and intertextual.
     > A few words can carry implications that unfold across grammar, context, law, theology, spirituality, and the Qur'an's wider network of passages. This density is one reason generations of scholars have continued to discover new connections and insights in the same verses.
@@ -285,6 +275,13 @@ The Qur'an's literary miracle extends far beyond beauty of expression. Its inimi
     {: .quote }
     > The Qur'an itself makes coherence a test of its divine origin and invites the reader to examine it closely.
     {: .gloss }
+
+1. Much of the Qur'an argues rather than merely asserts. It quotes objections, asks the listener to consider implications, demands proof, and appeals to history, nature, conscience, and consistency.
+    > “Or were they created by nothing, or are they ˹their own˺ creators?” (**Sūrat al-Ṭūr 52:35**), Dr. Mustafa Khattab, *The Clear Quran*
+    >
+    > “Produce your proof, if you are truthful.” (**Sūrat al-Baqarah 2:111**), Saheeh International
+    {: .quote }
+
 
 1. It preserves hostile objections inside the permanent text: accusations of fabrication, madness, poetry, magic, ancient tales, and human instruction. The Qur'an then answers those objections rather than editing them out of the record.
     > This gives the book a strikingly “live” argumentative quality. Its first audience remains present in the scripture through the questions and accusations the text addresses.
@@ -723,7 +720,6 @@ The Qur'an contains bold predictions made in circumstances where their fulfillme
 1. Its historical influence is extraordinary.
     > A seventh-century Arabic revelation became simultaneously a memorized liturgy, a foundational legal and theological source, a central literary reference point, and a continuously transmitted scripture across peoples, languages, continents, and fourteen centuries.
     {: .gloss }
-
 
 ### <span class="num-roman">IV.</span> The Qur'an and the Messenger Who Proclaimed It
 {: #quran-and-messenger }
