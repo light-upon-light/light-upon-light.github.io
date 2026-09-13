@@ -8,7 +8,7 @@ general:
 - add sources and further readings under each point, within a details block
 - repeat "The Qur'an" in each new section
 - add how can quran be miracle for non arabic under non arabic point
-- expand on quotations of the appeal to reason part
+- expand on quotations of the appeal to reason part (am kholeqo men shay2, law kanna feehema alehaton ella, and more...)
 - add ratqan, everything from water, and expansion of universe
 
 ---
