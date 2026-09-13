@@ -271,6 +271,33 @@ The Qur'an's literary miracle extends far beyond beauty of expression. Its inimi
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَضَرَبَ لَنَا مَثَلًا وَنَسِىَ خَلْقَهُۥ ۖ قَالَ مَن يُحْىِ ٱلْعِظَـٰمَ وَهِىَ رَمِيمٌ ۝٧٨ قُلْ يُحْيِيهَا ٱلَّذِىٓ أَنشَأَهَآ أَوَّلَ مَرَّةٍ ۖ وَهُوَ بِكُلِّ خَلْقٍ عَلِيمٌ ۝٧٩﴾ <span class="ayah-ref">سُورَةُ يسٓ</span></div>
     {: .quote }
 
+    > “O humanity! A lesson is set forth, so listen to it ˹carefully˺: those ˹idols˺ you invoke besides Allah can never create ˹so much as˺ a fly, even if they ˹all˺ were to come together for that. And if a fly were to snatch anything away from them, they cannot ˹even˺ retrieve it from the fly. How powerless are those who invoke and those invoked.” (**Sūrat al-Ḥajj 22:73**), Dr. Mustafa Khattab, *The Clear Quran*
+    >
+    > <div dir="rtl" lang="ar" class="quran-arabic">﴿يَـٰٓأَيُّهَا ٱلنَّاسُ ضُرِبَ مَثَلٌ فَٱسْتَمِعُوا۟ لَهُۥٓ ۚ إِنَّ ٱلَّذِينَ تَدْعُونَ مِن دُونِ ٱللَّهِ لَن يَخْلُقُوا۟ ذُبَابًا وَلَوِ ٱجْتَمَعُوا۟ لَهُۥ ۖ وَإِن يَسْلُبْهُمُ ٱلذُّبَابُ شَيْـًٔا لَّا يَسْتَنقِذُوهُ مِنْهُ ۚ ضَعُفَ ٱلطَّالِبُ وَٱلْمَطْلُوبُ ۝٧٣﴾ <span class="ayah-ref">سُورَةُ الحَجِّ</span></div>
+    {: .quote }
+
+    > “Have you considered what you ejaculate? Is it you who create ˹a child out of˺ it, or is it We Who do so?” (**Sūrat al-Wāqiʿah 56:58–59**), Dr. Mustafa Khattab, *The Clear Quran*
+    >
+    > <div dir="rtl" lang="ar" class="quran-arabic">﴿أَفَرَءَيْتُم مَّا تُمْنُونَ ۝٥٨ ءَأَنتُمْ تَخْلُقُونَهُۥٓ أَمْ نَحْنُ ٱلْخَـٰلِقُونَ ۝٥٩﴾ <span class="ayah-ref">سُورَةُ الوَاقِعَةِ</span></div>
+    {: .quote }
+
+    > “The Messiah, son of Mary, was no more than a messenger. ˹Many˺ messengers had ˹come and˺ gone before him. His mother was a woman of truth. They both ate food. See how We make the signs clear to them, yet see how they are deluded ˹from the truth˺.” (**Sūrat al-Māʾidah 5:75**), Dr. Mustafa Khattab, *The Clear Quran*
+    >
+    > <div dir="rtl" lang="ar" class="quran-arabic">﴿مَّا ٱلْمَسِيحُ ٱبْنُ مَرْيَمَ إِلَّا رَسُولٌ قَدْ خَلَتْ مِن قَبْلِهِ ٱلرُّسُلُ وَأُمُّهُۥ صِدِّيقَةٌ ۖ كَانَا يَأْكُلَانِ ٱلطَّعَامَ ۗ ٱنظُرْ كَيْفَ نُبَيِّنُ لَهُمُ ٱلْـَٔايَـٰتِ ثُمَّ ٱنظُرْ أَنَّىٰ يُؤْفَكُونَ ۝٧٥﴾ <span class="ayah-ref">سُورَةُ المَائـِدَةِ</span></div>
+    {: .quote }
+
+    > “Indeed, the example of Jesus in the sight of Allah is like that of Adam. He created him from dust, then said to him, ‘Be!’ And he was.” (**Sūrat Āl ʿImrān 3:59**), Dr. Mustafa Khattab, *The Clear Quran*
+    >
+    > <div dir="rtl" lang="ar" class="quran-arabic">﴿إِنَّ مَثَلَ عِيسَىٰ عِندَ ٱللَّهِ كَمَثَلِ ءَادَمَ ۖ خَلَقَهُۥ مِن تُرَابٍ ثُمَّ قَالَ لَهُۥ كُن فَيَكُونُ ۝٥٩﴾ <span class="ayah-ref">سُورَةُ آلِ عِمۡرَانَ</span></div>
+    {: .quote }
+
+    > “Are you ˹O Prophet˺ not aware of the one who argued with Abraham about his Lord because Allah had granted him kingship? ˹Remember˺ when Abraham said, ‘My Lord is the One Who has power to give life and cause death.’ He argued, ‘I too have the power to give life and cause death.’ Abraham challenged ˹him˺, ‘Allah causes the sun to rise from the east. So make it rise from the west.’ And so the disbeliever was dumbstruck. And Allah does not guide the wrongdoing people.” (**Sūrat al-Baqarah 2:258**), Dr. Mustafa Khattab, *The Clear Quran*
+    >
+    > <div dir="rtl" lang="ar" class="quran-arabic">﴿أَلَمْ تَرَ إِلَى ٱلَّذِى حَآجَّ إِبْرَٰهِـۧمَ فِى رَبِّهِۦٓ أَنْ ءَاتَىٰهُ ٱللَّهُ ٱلْمُلْكَ إِذْ قَالَ إِبْرَٰهِـۧمُ رَبِّىَ ٱلَّذِى يُحْىِۦ وَيُمِيتُ قَالَ أَنَا۠ أُحْىِۦ وَأُمِيتُ ۖ قَالَ إِبْرَٰهِـۧمُ فَإِنَّ ٱللَّهَ يَأْتِى بِٱلشَّمْسِ مِنَ ٱلْمَشْرِقِ فَأْتِ بِهَا مِنَ ٱلْمَغْرِبِ فَبُهِتَ ٱلَّذِى كَفَرَ ۗ وَٱللَّهُ لَا يَهْدِى ٱلْقَوْمَ ٱلظَّـٰلِمِينَ ۝٢٥٨﴾ <span class="ayah-ref">سُورَةُ البَقَرَةِ</span></div>
+    {: .quote }
+    > Each of these passages rests on a step the reader can check for themselves. Rival gods would pull creation apart (21:22). The One who created life once can create it again (36:78–79). Idols that cannot make a fly have no claim to worship (22:73). A person does not make a child by their own power (56:58–59). Jesus and his mother needed food, and a being who depends on food is not God (5:75). A birth without a father does not make Jesus divine, since Adam had neither father nor mother (3:59). And a king who claims power over life and death is silenced when asked to move the sun (2:258).
+    {: .gloss }
+
 1. It repeatedly demands evidence and warns against following claims without knowledge, rather than treating sincere conviction alone as sufficient.
     > “Do not follow what you have no ˹sure˺ knowledge of. Indeed, all will be called to account for ˹their˺ hearing, sight, and intellect.” (**Sūrat al-Isrāʾ 17:36**), Dr. Mustafa Khattab, *The Clear Quran*
     >
@@ -353,7 +380,9 @@ It also describes features of the natural world with remarkable precision, inclu
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَلَقَدْ خَلَقْنَا ٱلْإِنسَـٰنَ مِن سُلَـٰلَةٍ مِّن طِينٍ ۝١٢ ثُمَّ جَعَلْنَـٰهُ نُطْفَةً فِى قَرَارٍ مَّكِينٍ ۝١٣ ثُمَّ خَلَقْنَا ٱلنُّطْفَةَ عَلَقَةً فَخَلَقْنَا ٱلْعَلَقَةَ مُضْغَةً فَخَلَقْنَا ٱلْمُضْغَةَ عِظَـٰمًا فَكَسَوْنَا ٱلْعِظَـٰمَ لَحْمًا ثُمَّ أَنشَأْنَـٰهُ خَلْقًا ءَاخَرَ ۚ فَتَبَارَكَ ٱللَّهُ أَحْسَنُ ٱلْخَـٰلِقِينَ ۝١٤﴾ <span class="ayah-ref">سُورَةُ المُؤۡمِنُونَ</span></div>
     {: .quote }
-    > The Arabic words carry more than their usual English renderings. *ʿAlaqa* (“clinging clot”) is something that clings or hangs, and the same root names a leech; *muḍgha* (“lump”) is a morsel that looks chewed. Each describes the embryo by its appearance, which is how a reader with no instruments could have recognised the stages.
+    > The Arabic words carry more than their usual English renderings. *ʿAlaqa*, rendered “clinging clot,” is something that clings or hangs, and the same root names a leech; *muḍgha*, rendered “lump [of flesh],” is a morsel that looks chewed. Each describes the embryo by its appearance, which is how a reader with no instruments could have recognised the stages.
+    {: .gloss }
+    > Modern embryologists have been struck by how closely this sequence matches what the microscope later revealed. Keith L. Moore, professor of anatomy at the University of Toronto and author of *The Developing Human*, a standard embryology textbook, studied these verses with Muslim scholars who explained the Arabic to him. He concluded that the statements “must have come to Muhammad from God,” because most of this knowledge was discovered only centuries later. He gives his reasons in the video below.
     {: .gloss }
     {% include yt-embed.html url="https://youtu.be/J_Dllu42eEA" title="Qur'an on Embryology - Professor Keith L. Moore" %}
 
@@ -362,7 +391,7 @@ It also describes features of the natural world with remarkable precision, inclu
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿أَوَلَمْ يَرَ ٱلَّذِينَ كَفَرُوٓا۟ أَنَّ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضَ كَانَتَا رَتْقًا فَفَتَقْنَـٰهُمَا ۖ وَجَعَلْنَا مِنَ ٱلْمَآءِ كُلَّ شَىْءٍ حَىٍّ ۖ أَفَلَا يُؤْمِنُونَ ۝٣٠﴾ <span class="ayah-ref">سُورَةُ الأَنبِيَاءِ</span></div>
     {: .quote }
-    > *Ratq* means things fused or stitched together, and *fatq* is the unstitching of what was joined. The verse makes the separation an act of God, and puts it to the disbelievers as something they should reflect on.
+    > The phrase rendered “a joined entity” is *ratq*, things fused or stitched together, and “We separated them” translates *fataqnāhumā*, from *fatq*, the unstitching of what was joined. The verse makes the separation an act of God, and puts it to the disbelievers as something they should reflect on.
     {: .gloss }
 
 1. **Expansion of the universe:** the Qur'an describes God as having built the heaven and as continually widening it.
@@ -370,7 +399,7 @@ It also describes features of the natural world with remarkable precision, inclu
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَٱلسَّمَآءَ بَنَيْنَـٰهَا بِأَيْي۟دٍ وَإِنَّا لَمُوسِعُونَ ۝٤٧﴾ <span class="ayah-ref">سُورَةُ الذَّارِيَاتِ</span></div>
     {: .quote }
-    > *Mūsiʿūn* is an active participle from the root for width and vastness, so it describes ongoing action: “We are making it wide.” Many classical exegetes read it as God's vast power or provision. Its plain wording also fits the modern finding that the universe is expanding, which no one in seventh-century Arabia had reason to propose.
+    > The word rendered “expanding” is *mūsiʿūn*, an active participle from the root for width and vastness, so it describes ongoing action: “We are making it wide.” Many classical exegetes read it as God's vast power or provision. Its plain wording also fits the modern finding that the universe is expanding, which no one in seventh-century Arabia had reason to propose.
     {: .gloss }
 
 1. **Orbits of the sun and moon:** the Qur'an describes the sun and the moon each moving in its own rounded course.
@@ -383,7 +412,7 @@ It also describes features of the natural world with remarkable precision, inclu
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿لَا ٱلشَّمْسُ يَنۢبَغِى لَهَآ أَن تُدْرِكَ ٱلْقَمَرَ وَلَا ٱلَّيْلُ سَابِقُ ٱلنَّهَارِ ۚ وَكُلٌّ فِى فَلَكٍ يَسْبَحُونَ ۝٤٠﴾ <span class="ayah-ref">سُورَةُ يسٓ</span></div>
     {: .quote }
-    > *Falak* is a rounded course, the word for the whorl of a spindle, and *yasbaḥūn* means gliding or swimming. Common ancient models fixed the heavenly bodies to turning spheres; the Qur'an instead describes each body moving along its own path.
+    > The word rendered “orbit” is *falak*, a rounded course, the same word used for the whorl of a spindle. “Travelling” translates *yasbaḥūn*, which literally means gliding or swimming. Common ancient models fixed the heavenly bodies to turning spheres; the Qur'an instead describes each body moving along its own path.
     {: .gloss }
 
 1. **Weight of clouds:** the Qur'an calls rain-bearing clouds heavy.
@@ -404,7 +433,7 @@ It also describes features of the natural world with remarkable precision, inclu
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَأَلْقَىٰ فِى ٱلْأَرْضِ رَوَٰسِىَ أَن تَمِيدَ بِكُمْ وَأَنْهَـٰرًا وَسُبُلًا لَّعَلَّكُمْ تَهْتَدُونَ ۝١٥﴾ <span class="ayah-ref">سُورَةُ النَّحۡلِ</span></div>
     {: .quote }
-    > *Rawāsī* means firmly set or anchored things, and *awtād* are tent pegs, most of whose length is hidden below ground. Modern geology found that mountains have deep roots of crust extending far beneath them, often several times their visible height.
+    > “Pegs” in 78:7 translates *awtād*, tent pegs, most of whose length is hidden below ground. “Firm mountains” in 16:15 translates *rawāsī*, firmly set or anchored things. Modern geology found that mountains have deep roots of crust extending far beneath them, often several times their visible height.
     {: .gloss }
 
 1. It describes the ordered processes of rain, clouds, winds, and the revival of dead land with remarkable observational precision.
@@ -423,7 +452,7 @@ It also describes features of the natural world with remarkable precision, inclu
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَأَوْحَىٰ رَبُّكَ إِلَى ٱلنَّحْلِ أَنِ ٱتَّخِذِى مِنَ ٱلْجِبَالِ بُيُوتًا وَمِنَ ٱلشَّجَرِ وَمِمَّا يَعْرِشُونَ ۝٦٨ ثُمَّ كُلِى مِن كُلِّ ٱلثَّمَرَٰتِ فَٱسْلُكِى سُبُلَ رَبِّكِ ذُلُلًا ۚ يَخْرُجُ مِنۢ بُطُونِهَا شَرَابٌ مُّخْتَلِفٌ أَلْوَٰنُهُۥ فِيهِ شِفَآءٌ لِّلنَّاسِ ۗ إِنَّ فِى ذَٰلِكَ لَـَٔايَةً لِّقَوْمٍ يَتَفَكَّرُونَ ۝٦٩﴾ <span class="ayah-ref">سُورَةُ النَّحۡلِ</span></div>
     {: .quote }
-    > English translations cannot show it, but every command in the Arabic (*ittakhidhī*, “take”; *kulī*, “eat”; *fa-slukī*, “follow”) is feminine, as is “their bellies” (*buṭūnihā*). The bees that build, forage, and make honey are the workers, and every worker bee is female. Arabic often gives collective nouns feminine agreement, so the grammar alone does not settle the point; still, the wording matches the biology.
+    > English translations cannot show it, but every command in the Arabic is feminine: *ittakhidhī* (“take”), *kulī* (“eat”), and *fa-slukī* (“follow”). So is the pronoun in *buṭūnihā* (“their bellies”). The bees that build, forage, and make honey are the workers, and every worker bee is female. Arabic often gives collective nouns feminine agreement, so the grammar alone does not settle the point; still, the wording matches the biology.
     {: .gloss }
 
 ### <span class="num-roman">VII.</span> Numerical Patterns
