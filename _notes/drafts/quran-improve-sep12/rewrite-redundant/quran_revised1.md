@@ -131,7 +131,7 @@ The literary argument is not simply that the Qur'an "sounds beautiful." It conce
 1. The Qur'an repeatedly uses compressed rhetorical devices in which form contributes directly to meaning: deliberate omission, unexpected word order, parallelism, contrast, recurring formulas, abrupt changes in sentence length or cadence, and shifts in person, number, tense, speaker, or addressee.
     > One famous category is *iltifāt* [a rhetorical shift in grammatical person or mode of address]. These shifts function systematically for rhetorical purposes, changing perspective, emphasis, immediacy, and emotional force rather than operating as grammatical accidents. A simple example appears in the opening chapter: it begins by speaking **about** God—“Lord of all worlds ... Master of the Day of Judgment”—and then turns to speaking **to** God: “You alone we worship and You alone we ask for help.” The shift enacts a movement from knowledge and praise into direct worship and prayer.
     {: .gloss }
-    > M. A. S. Abdel Haleem, ["Grammatical Shift for Rhetorical Purposes: Iltifāt and Related Features in the Qur'an"](https://www.cambridge.org/core/journals/bulletin-of-the-school-of-oriental-and-african-studies/article/abs/grammatical-shift-for-rhetorical-purposes-iltifat-and-related-features-in-the-quran/A172B761CE4EC9A41337A7549B074FD1).
+    > M. A. S. Abdel Haleem, ["Grammatical Shift for Rhetorical Purposes: Iltifāt and Related Features in the Qur'an"](https://www.cambridge.org/core/journals/bulletin-of-the-school-of-oriental-and-african-studies/article/abs/grammatical-shift-for-rhetorical-purposes-iltifat-and-related-features-in-the-quran/A172B761CE4EC9A41337A7549B074FD1), *Bulletin of the School of Oriental and African Studies* 55.3 (1992), 407–432..
     >
     > M. A. S. Abdel Haleem, [“Grammatical Shift for Rhetorical Purposes: Iltifāt and Related Features in the Qur'ān”](https://doi.org/10.1017/S0041977X00003621), *Bulletin of the School of Oriental and African Studies* 55.3 (1992), 407–432.
     {: .src }
@@ -152,7 +152,7 @@ The literary argument is not simply that the Qur'an "sounds beautiful." It conce
     {: .src }
 
 
-1. **Composition at several scales:** individual passages, complete chapters, and groups of chapters display framing, parallelism, reversal, recurring key terms, thematic centers, verbal echoes, paired sections, and purposeful returns to earlier motifs. Ring composition is one striking example within this broader architecture; many passages also display balanced structures in which beginnings and endings correspond and central passages receive particular emphasis.
+1. **Composition at several scales:** individual passages, complete chapters, and groups of chapters display patterns of framing, parallelism, reversal, recurring key terms, thematic centers, verbal echoes, paired sections, and purposeful returns to earlier motifs. Ring composition is one striking example within this broader architecture; many passages also display balanced structures in which beginnings and endings correspond and central passages receive particular emphasis.
     > These relationships can operate simultaneously at the level of individual verses, extended passages, and whole chapters. They are especially notable in a text revealed in separate portions over many years and often outside its final order. The Qur'an's non-linear arrangement does not prevent local coherence: themes, phrases, and narratives echo across distant passages, while repeated stories reshape details, dialogue, vocabulary, and emphasis to serve the argument of each chapter.
     {: .gloss }
 
@@ -292,7 +292,7 @@ The Qur'an presents itself as the final revelation in the same prophetic line as
     {% include yt-embed.html url="https://youtu.be/lEc_ilaHim8" title="Stories of the Prophets: Bible vs. Qur'an" %}
 
 
-1. The Qur'an does not merely inherit earlier material; it selects, compresses, relocates, disputes, and reframes it according to its own theology. The same story can therefore serve different arguments in different chapters without becoming a copy of one fixed source.
+1. The Qur'an does not merely inherit earlier material; it selects, compresses, relocates, disputes, and reframes it. The same story can therefore serve different arguments in different chapters without becoming a copy of one fixed source.
     > Genealogical and biographical detail is often reduced while monotheism, judgment, repentance, prophetic perseverance, and moral accountability move to the foreground. This transformation also fits the repetition-with-variation described in the literary section above.
     {: .gloss }
 
@@ -317,7 +317,7 @@ The Qur'an repeatedly directs attention to the natural world—the heavens and e
     {% include yt-embed.html url="https://youtu.be/DoP6Ft-VE70" title="Are there scientific miracles in the Qur'an?" %}
 
 
-1. **Human development:** the Qur'an gives a compact stage-by-stage description of the human being beginning from a drop, becoming a clinging form, then a chewed-like lump, followed by further formation and development (23:12–14; 22:5). The sequence has drawn sustained attention for the precision of its imagery.
+1. **Embryonic development:** the Qur'an gives a compact stage-by-stage description of the human being beginning from a drop, becoming a clinging form, then a chewed-like lump, followed by further formation and development (23:12–14; 22:5). The sequence has drawn sustained attention for the precision of its imagery.
 
 1. **Life and water:**
 
@@ -464,7 +464,7 @@ The Qur'an contains predictions made in circumstances where their fulfillment wa
     {: .src }
 
 
-1. **Safe entry into the Sacred Mosque:** after the Muslims travelled toward Mecca for pilgrimage and were prevented from entering, the Qur'an stated that the Prophet's ﷺ vision would be fulfilled and that the believers would enter securely, with heads shaved or hair shortened as part of the pilgrimage rites.
+1. **Safe entry into the Sacred Mosque.** after the Muslims travelled toward Mecca for pilgrimage and were prevented from entering, the Qur'an stated that the Prophet's ﷺ vision would be fulfilled and that the believers would enter securely, with heads shaved or hair shortened as part of the pilgrimage rites.
 
     > “Indeed, God will fulfil His Messenger's vision in all truth: God willing, you will surely enter the Sacred Mosque, in security...” (**Sūrat al-Fatḥ 48:27**), Dr. Mustafa Khattab, *The Clear Quran*
     {: .quote }
@@ -472,7 +472,7 @@ The Qur'an contains predictions made in circumstances where their fulfillment wa
     {: .gloss }
 
 
-1. **Ḥudaybiyyah was called a “clear victory” before its consequences were obvious.** The treaty initially disappointed many Muslims because they had intended to perform pilgrimage and accepted terms they found difficult. The Qur'an nonetheless opened Sūrat al-Fatḥ by calling the outcome a clear victory; its subsequent consequences strongly favored the Muslim community.
+1. **The treaty of Ḥudaybiyyah was called a "clear victory" before its consequences were obvious.** The treaty initially disappointed many Muslims because they had intended to perform pilgrimage and accepted terms they found difficult. The Qur'an nonetheless opened Sūrat al-Fatḥ by calling the outcome a clear victory; its subsequent consequences strongly favored the Muslim community.
 
 1. **The fate of Abū Lahab:** Sūrat al-Masad condemned one of the Prophet's fiercest enemies while he was still alive and publicly opposing him. He had years in which an outward profession of faith could have been used to mock the revelation's claim, yet he died as an enemy of Islam exactly as the chapter declared.
 
@@ -626,7 +626,7 @@ The Qur'an's argument is not limited to literary or historical features. It also
     </details>
 
 
-1. It anchors morality in accountability before God, both seen and unseen. Wrongdoing may appear to escape immediate outward punishment, but the Qur'an presents actions as having consequences in the spiritual order of this life and in the next: unless a person turns back to God and sets things right, what they do ultimately returns to them in one form or another. Repentance, however, can transform that moral account, even turning evil deeds into good ones.
+1. It anchors morality in accountability before God, both seen and unseen. Wrongdoing may appear to escape immediate outward punishment, but the Qur'an presents actions as having consequences in the spiritual order of this life and in the next: unless a person turns back to God and sets things right, what they do ultimately returns to them in one form or another. Repentance, however, completely wipes sins, and even turns evil deeds into good ones.
 
     > "So whoever does an atom's weight of good will see it. And whoever does an atom's weight of evil will see it." (**Sūrat al-Zalzalah 99:7-8**), Dr. Mustafa Khattab, *The Clear Quran*
     >
@@ -654,7 +654,7 @@ The Qur'an's argument is not limited to literary or historical features. It also
     </details>
 
 
-1. Taken together, these teachings form a broad moral and legal framework that holds justice and mercy in balance and historically guided a flourishing civilization. Its scope includes theology, worship, ethics, law, family life, economics, social justice, war and peace, history, human character, nature, and the afterlife. It addresses the individual, family, society, and humanity as a whole rather than one tribe, class, place, or era, and its stories and guidance continue to be presented as directly applicable to later readers.
+1. Taken together, the Qur'an's teachings form a broad moral and legal framework that holds justice and mercy in balance and historically guided a flourishing civilization. Its scope includes theology, worship, ethics, law, family life, economics, social justice, war and peace, history, human character, nature, and the afterlife. It addresses the individual, family, society, and humanity as a whole rather than one tribe, class, place, or era, and its stories and guidance continue to be presented as directly applicable to later readers.
 
 1. These points give only a glimpse of that moral vision. The [evidence on his teachings](/messenger#teachings) gives more comprehensive examples from the Qur'an and the teachings of Prophet Muhammad ﷺ.
 
