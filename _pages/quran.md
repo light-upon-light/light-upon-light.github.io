@@ -38,7 +38,7 @@ The Qur'an and the life of Prophet Muhammad ﷺ together form a cumulative case 
 
 The Qur'an was revealed orally over twenty-three years in seventh-century Arabia by a man who could neither read nor write. Its passages were revealed separately, often in response to unforeseen events and outside their final order, yet the Qur'an maintains unmatched eloquence, intricate structure, coherence, and depth throughout.
 
-It openly invites scrutiny and challenges its opponents to rival it. Its fulfilled prophecies, striking historical and linguistic details, and preservation through memorization and early manuscripts further support its claim to divine origin. Its message consistently calls people to worship God alone, seek His mercy, repent, uphold justice, forgive, care for the vulnerable, and prepare for judgment. Taken together, the Qur'an's remarkable features are presented as evidence that it could not be the product of human authorship.
+It openly invites scrutiny and challenges its opponents to rival it. Its fulfilled prophecies, striking historical and linguistic details, and preservation through memorization and early manuscripts further support its claim to divine origin. Its message consistently calls people to worship God alone, seek His mercy, repent, uphold justice, forgive, care for the vulnerable, and prepare for judgment. Taken together, the Qur'an's remarkable features provide a powerful cumulative case that it is not the product of human authorship.
 
 The life of Prophet Muhammad ﷺ further strengthens that case. He was known for exceptional integrity, mercy, courage, and humility. He embodied the justice and generosity he taught, endured years of persecution rather than abandon his message, and lived simply even after gaining authority. His public leadership and private conduct reflected the same devotion to God and responsibility toward others. His teachings and example transformed Arabia and shaped billions of lives across fourteen centuries, making him one of history's most influential figures.
 
@@ -60,8 +60,9 @@ The case is therefore cumulative: the Qur'an's extraordinary qualities, the Prop
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَمَا كُنتَ تَتْلُوا۟ مِن قَبْلِهِۦ مِن كِتَـٰبٍ وَلَا تَخُطُّهُۥ بِيَمِينِكَ ۖ إِذًا لَّٱرْتَابَ ٱلْمُبْطِلُونَ ۝٤٨﴾ <span class="ayah-ref">سُورَةُ العَنكَبُوتِ</span></div>
     {: .quote }
 1. It was revealed over 23 years, in separate portions and not in the order in which it is read today—often as events unfolded and in response to unforeseen questions and circumstances. Yet in its final arrangement, the Qur'an stands as a coherent literary composition.
-1. Once the Prophet ﷺ recited a verse, it was fixed, with no retraction or revision.
-    > This is crucial context for everything that follows. Qualities of the Qur'an that may already seem impressive on their own become dramatically more striking when considered alongside the way it emerged: piecemeal and out of order, across 23 years of unpredictable events, without revision or retraction, through oral recitation from a man who could not read or write.
+1. The Qur'an did not emerge as a private manuscript draft that its author could repeatedly edit in secret. Revelations were recited publicly, memorized by followers, used in prayer, and written down; the final text therefore emerged under communal observation rather than through an ordinary process of solitary drafting and revision.
+Once the Prophet ﷺ recited a verse, it was fixed, with no retraction or revision.
+    > This is crucial context for everything that follows. Qualities of the Qur'an that may seem impressive on their own become dramatically more so when considered alongside the way it emerged: piecemeal and out of its final order, across 23 years of unpredictable events, without revision or retraction, through public oral recitation from a man who could not read or write.
     {: .gloss }
 
 ### <span class="num-roman">II.</span> Literary Miracle
@@ -104,15 +105,26 @@ The case is therefore cumulative: the Qur'an's extraordinary qualities, the Prop
 
     </details>
 
-1. It belongs to neither poetry nor prose, but introduced a distinct literary form of its own—a mode of expression previously unknown in Arabic—that combines rhythmic beauty with precision of meaning.
-1. It maintains the same literary quality across all 23 years of revelation, unlike human authors, whose style normally changes over the course of a career.
-1. It became the reference text for Arabic grammar itself. When grammarians recorded the rules of the language, they treated the Qur'an as a standard of correct Arabic because it contains no linguistic errors. Fourteen centuries of scrutiny have turned up no error in it.
-1. The same words carry multiple layers of meaning. There is the apparent meaning, and beneath it are several layers of hidden meanings that scholars have unearthed through meticulous contemplation and cross-examination.
-    > Its verses are remarkably dense with meaning: a short passage can yield further linguistic, legal, theological, spiritual, and rhetorical insights the more closely it is studied. Generations of scholarship have drawn from the same verses without exhausting them.
+1. It belongs to neither ordinary prose nor metrical poetry, but sustains a distinctive Qur'anic mode of expression—previously unknown to Arabic—in which rhythm, rhyme, cadence, syntax, and shifts of register are fused with precision of meaning.
+
+1. It maintains a remarkably recognizable literary voice and quality across 23 years of revelation, despite enormous changes in circumstance, subject matter, audience, and political situation; unlike human authors, whose style normally changes over the course of their careers.
+1. Classical Muslim theorists located much of the Qur'an's inimitability not in unusual vocabulary by itself but in **naẓm** [syntactic-semantic arrangement]: the precise relationships created by word order, omission, definiteness and indefiniteness, conjunctions, grammatical person, expectation, and context. A change that preserves the dictionary meaning can still weaken the emphasis, implication, rhythm, or rhetorical force.
+    > This gives the literary argument a more precise standard than simply saying that the Qur'an "sounds beautiful." In the mature Arabic rhetorical tradition associated especially with ʿAbd al-Qāhir al-Jurjānī, eloquence is produced by the way meanings are arranged through syntax and context. Modern historian of Arabic poetics Lara Harb likewise notes that medieval authors primarily located Qur'anic inimitability in sentence construction and the additional meanings conveyed through such features as omission, unusual word order, grammatical shifts, and definiteness.
     {: .gloss }
-1. **Ring structure:** intricate symmetrical patterns (chiastic structures) appear within individual verses, complete chapters, and groups of chapters.
-    > Producing such symmetrical patterns across an entire book would be difficult even with a complete manuscript and the freedom to revise. The Qur'an, however, was delivered in separate portions, out of order, with each passage fixed when first recited.
+    > Lara Harb, [*Arabic Poetics: Aesthetic Experience in Classical Arabic Literature*, ch. 5, "Naẓm, Wonder, and the Inimitability of the Quran"](https://www.cambridge.org/core/books/abs/arabic-poetics/nazm-wonder-and-the-inimitability-of-the-quran/B980231F9936B751EF11029D69CF4554).
+    {: .src }
+1. It repeatedly uses highly compressed rhetorical devices in which form contributes to meaning: deliberate omission, changes in expected word order, movement between first-, second-, and third-person address, parallelism, contrast, recurring formulas, and abrupt changes in sentence length or cadence. These grammatical shifts perform recognized rhetorical functions in Arabic, changing perspective, emphasis, immediacy, and emotional force.
+    > One famous category is *iltifāt* [a rhetorical shift in grammatical person or mode of address]. M. A. S. Abdel Haleem has shown how these shifts function systematically for rhetorical purposes rather than simply being grammatical accidents.
     {: .gloss }
+    > M. A. S. Abdel Haleem, ["Grammatical Shift for Rhetorical Purposes: Iltifāt and Related Features in the Qur'an"](https://www.cambridge.org/core/journals/bulletin-of-the-school-of-oriental-and-african-studies/article/abs/grammatical-shift-for-rhetorical-purposes-iltifat-and-related-features-in-the-quran/A172B761CE4EC9A41337A7549B074FD1).
+    {: .src }
+1. The Qur'an became one of the foundational authorities used by early grammarians and philologists when describing Arabic. Its language helped establish the very grammatical and rhetorical tradition by which classical Arabic came to be analyzed and taught.
+1. Its verses are unusually dense with meaning. A short passage can support linguistic, legal, theological, spiritual, and rhetorical analysis simultaneously, and generations of scholarship have continued to draw new arguments from the same wording.
+1. **Compositional architecture:** symmetrical and thematic patterns appear within individual passages, complete chapters, and groups of chapters. **Ring composition** is one especially remarkable example, but the broader point is that chapters often display deliberate framing, recurring key words, paired sections, thematic development, and returns to an opening motif.
+    > Producing such patterns is especially striking in a text that emerged in separate portions, often outside its final order, through public recitation rather than as a privately composed manuscript whose author could freely reorganize and polish the whole work at once.
+    {: .gloss }
+    > Michel Cuypers, [*The Composition of the Qur'an: Rhetorical Analysis*](https://www.bloomsbury.com/uk/composition-of-the-quran-9781474227483/), presents a systematic case for symmetry and other compositional structures across Qur'anic passages.
+    {: .src }
 
     {% include yt-embed.html url="https://youtu.be/9gJWIGLJhHM" title="Marvels of the Qur'an | Dr. Ali Ataie" %}
 
@@ -121,7 +133,7 @@ The case is therefore cumulative: the Qur'an's extraordinary qualities, the Prop
     {% include yt-embed.html url="https://youtu.be/yYY1BGKrr1E" title="The Remarkable Structure of the Qur'an" %}
 
     {% include yt-embed.html url="https://youtu.be/eLaWEciecTc" title="Miracle of Surah Yusuf | Linguistic Miracle - Nouman Ali Khan" %}
-1. Its chapters can be read in any order without losing the book's coherence or guidance, unlike an ordinary narrative.
+1. Its arrangement is non-linear rather than chronological, yet individual chapters often have strong local coherence while themes, phrases, and narratives echo across distant parts of the book. Repeated stories are not simply copied verbatim: details, dialogue, vocabulary, and emphasis are reshaped to serve the argument of the chapter in which each retelling appears.
 1. It challenged the Arabs to match it at a time when their command of Arabic was at its height. They had both the skill to answer the challenge and every motive to do so.
     > The Qur'an was revealed in an era when the Arabs had reached the very summit of Arabic eloquence and rhetoric. Poetry was not merely entertainment: it was the lifeblood of their culture, the measure of honor, and even a weapon in war; tribes could settle disputes or ignite battles through verse. In that setting—where pride in language was unrivaled and mastery of Arabic expression was their greatest art—the Qur'an openly challenged them to produce anything like it. Despite their unmatched command of Arabic and every worldly motive to discredit the Prophet ﷺ, they were unable to answer the challenge. Their failure itself became a perpetual testimony to the Qur'an's inimitability.
     {: .gloss }
@@ -134,7 +146,7 @@ The case is therefore cumulative: the Qur'an's extraordinary qualities, the Prop
     >
     > *Sahih al-Bukhari* 3213 and *Sahih Muslim* 2490: the Prophet ﷺ appointed Hassan ibn Thabit to answer the Quraysh in verse — "Lampoon them, and Gabriel is with you" — because satire "is more grievous to them than the hurt of an arrow".
     {: .src }
-1. In the fourteen centuries since, no rival text has been accepted as its equal, including by those with the strongest reasons to produce one.
+1. Attempts to imitate or answer the Qur'anic challenge have appeared from the earliest period onward, yet no rival has achieved anything approaching the Qur'an's standing within Arabic literary history. The challenge concerns the totality of its language, structure, semantic density, rhetorical force, guidance, and sustained effect together.
 1. Its opponents instead called the Prophet ﷺ a magician, a man possessed, or a man taught by someone else. Each charge concedes the text's effect while disputing its source.
 1. The Prophet's ﷺ personal life, grief, and grievances leave no mark on the message. The Qur'an maintains an objective, divine voice, even when addressing his own household.
 1. Modern linguistic analysis of the hadith, which record Prophet Muhammad's ﷺ own speech, finds consistent differences in style and structure between his speech and the Qur'an, indicating two distinct sources.
@@ -328,10 +340,8 @@ The case is therefore cumulative: the Qur'an's extraordinary qualities, the Prop
 ### <span class="num-roman">V.</span> Knowledge: Historical, Scientific and Linguistic
 {: #knowledge-historical-scientific-and-linguistic }
 
-1. It describes features of the natural world that were not established until centuries later, in some cases only after instruments made them observable.
-    > To name a few examples often discussed: the Qur'an uses feminine grammatical forms for the worker honeybees, describes rain-bearing clouds as heavy, and gives a striking stage-by-stage description of embryonic development.
-    {: .gloss }
-    > These claims should be assessed individually. Strong examples depend on a verse making a specific statement that later evidence confirms; vague wording stretched to fit a modern discovery does not contribute to the argument.
+1. The Qur'an describes features of the natural world with remarkable precision, including observations whose significance became clearer with later scientific knowledge.
+    > A few examples often discussed: the Qur'an gives a striking stage-by-stage description of embryonic development, uses feminine grammatical forms for the worker honeybees, and describes rain-bearing clouds as heavy. The Qur'an's description of the natural world is especially striking when considered in the setting of seventh-century Arabia.
     {: .gloss }
 
     {% include yt-embed.html url="https://youtu.be/J_Dllu42eEA" title="Qur'an on Embryology - Professor Keith L. Moore" %}
@@ -348,15 +358,15 @@ The case is therefore cumulative: the Qur'an's extraordinary qualities, the Prop
     {% include yt-embed.html url="https://youtu.be/c2ovILc_sKY" title="The Qur'an and the Secrets of Egypt" %}
 
     {% include yt-embed.html url="https://youtu.be/lEc_ilaHim8" title="Stories of the Prophets: Bible vs. Qur'an" %}
-1. It contains astonishing mathematical structures across the text: word counts, symmetries, and correspondences that extend through the whole book.
-    > This subject is especially vulnerable to careless claims. Many popular examples depend on selective or inconsistent counting and fail when checked; the first link below offers a more measured treatment.
+1. It contains remarkable numerical patterns, word-count correspondences, symmetries, and recurring structural relationships distributed across the text.
+    > These patterns add another layer to the Qur'an's literary architecture: relationships can appear not only in meaning and composition, but also in the recurrence and distribution of words and forms across distant passages.
     {: .gloss }
 
     {% include yt-embed.html url="https://youtu.be/QC3sDbVcAbw" title="Mathematical Miracles in the Qur'an: A Measured Approach" %}
 
     {% include yt-embed.html url="https://youtu.be/11dDOBdQobQ" title="The Numerical Miracles in the Quran | Arabic101" %}
 
-1. It uses words from other languages, including Hebrew, precisely where the meaning in *that* language is being expressed. Prophet Muhammad ﷺ spoke none of them, and recognizing such wordplay requires command of both languages.
+1. The Qur'an contains striking cross-Semitic linguistic correspondences, drawing on words and cognates connected with Hebrew, Aramaic, Syriac, Ethiopic, Persian, and other languages. In a number of passages, these relationships create wordplay, allusion, and layers of meaning that become visible only when the related languages are examined together.
     {% include yt-embed.html url="https://youtu.be/wA4v8MrBHHc" title="The Hebrew word that PROVED that the Qur'an is from Allah" %}
 
     {% include yt-embed.html url="https://youtu.be/OED98p4bpx0" title="ONE WORD Proving the Quran is Allah's Words | Arabic101" %}
@@ -366,9 +376,32 @@ The case is therefore cumulative: the Qur'an's extraordinary qualities, the Prop
 ### <span class="num-roman">VI.</span> Preservation and Memorization
 {: #preservation-and-memorization }
 
-1. It has been perfectly preserved for over 1,400 years through a rigorous tradition of memorization and oral transmission, accompanied throughout by a written record. Early manuscripts have been carbon dated to very close to the time of the Prophet ﷺ.
-    > No other book of comparable age and significance has been preserved through the same combination of mass oral transmission and memorization together with an early written record. Other ancient works generally survive through textual loss, variant versions, or translations—which are inherently interpretations—that stand between the reader and the original language.
+1. The Qur'an has been perfectly preserved for over fourteen centuries through several mutually reinforcing channels: very early written witnesses, an extraordinarily early standardized consonantal text, inherited recitation traditions, mass memorization, public liturgical use, and continuous copying in the original language.
+    > These overlapping channels form an unusually powerful preservation system. The same text was simultaneously recited, memorized, taught, written, copied, and heard publicly across expanding Muslim communities, making alteration extraordinarily difficult and preserving the Qur'an in the language in which it was revealed.
     {: .gloss }
+    > No other book or scripture of comparable age and significance has been similarly preserved. Other ancient works generally survive through textual loss, variant versions, or translations—which are inherently interpretations—that stand between the reader and the original text.
+    {: .gloss }
+1. **Shared spelling peculiarities point to a common written archetype.** Marijn van Putten compared early Qur'an manuscripts and found idiosyncratic spellings recurring in the same locations across manuscripts. Because these spellings often make no difference in meaning, independent scribes would not be expected repeatedly to make the same arbitrary choice in the same place. The pattern strongly points to descent from a single written exemplar.
+    > Van Putten concludes that the early manuscripts he studied descend from a single written archetype and that their date is consistent with the traditional attribution of the standardization to the caliph ʿUthmān ibn ʿAffān. This is materially stronger than the mere existence of an old manuscript: genealogy is being inferred from shared scribal fingerprints.
+    {: .gloss }
+    > Marijn van Putten, ["The Grace of God as evidence for a written Uthmanic archetype: the importance of shared orthographic idiosyncrasies"](https://www.cambridge.org/core/journals/bulletin-of-the-school-of-oriental-and-african-studies/article/grace-of-god-as-evidence-for-a-written-uthmanic-archetype-the-importance-of-shared-orthographic-idiosyncrasies/23C45AC7BC649A5228E0DA6F6BA15C06).
+    {: .src }
+1. **Manuscript stemmatics independently recovers the early regional codices described in Muslim sources.** Hythem Sidky combined philological, manuscript, and phylogenetic analysis and reconstructed four ancestral regional exemplars behind the manuscripts he examined, providing material evidence for the historicity of an early standardization and distribution of regional codices.
+    > This provides independent material confirmation of the early Muslim reports: surviving manuscripts themselves reproduce a family pattern that substantially overlaps the reported distribution of regional exemplars.
+    {: .gloss }
+    > Hythem Sidky, ["On the Regionality of Qurʾānic Codices"](https://www.lockwoodonlinejournals.com/index.php/jiqsa/article/view/554).
+    {: .src }
+1. **The canonical reading traditions preserve evidence of inherited oral transmission.** Study of consonantal dotting patterns reveals independent Medinan, Meccan-Basran, and Kufan regional reading traditions, pointing to living oral lineages reaching back to the earliest generations.
+    > The written manuscripts and the inherited recitations preserve two converging lines of transmission: manuscripts retain a recoverable written genealogy, while features of the recitations retain distinct regional oral lineages. Together they show that the Qur'an was transmitted through both writing and living recitation from the earliest period.
+    {: .gloss }
+    > Hythem Sidky, ["Consonantal Dotting and the Oral Quran"](https://www.lockwoodonlinejournals.com/index.php/jaos/article/view/2405).
+    {: .src }
+1. **The surviving physical record begins extraordinarily early.** The Birmingham folios contain parts of chapters 18–20 in an early Hijazi script; their parchment was radiocarbon dated to 568–645 CE with 95.4% probability, placing this witness within the earliest material horizon of the Qur'an.
+    > [University of Birmingham: Birmingham Qur'an manuscript — frequently asked questions](https://www.birmingham.ac.uk/facilities/cadbury/birmingham-quran-mingana-collection/birmingham-quran/faqs).
+    {: .src }
+1. **Public inscriptions provide an independent early witness outside bound manuscripts.** The Dome of the Rock in Jerusalem, completed in 72 AH / 691–692 CE, carries a long program of Qur'anic and closely Qur'anic inscriptions. By the end of the seventh century, Qur'anic language was therefore already sufficiently fixed and publicly recognizable to be monumentalized on one of the earliest major Islamic buildings.
+    > Sheila Blair and Jonathan Bloom, ["Inscriptions in art and architecture," *The Cambridge Companion to the Qur'an*](https://www.cambridge.org/core/books/abs/cambridge-companion-to-the-quran/inscriptions-in-art-and-architecture/8B94B2FEC63E14A8447547668BCE0FED).
+    {: .src }
 
     {% include yt-embed.html url="https://youtu.be/4l7pbX5J8Lg" title="The Most DIRECT Proof That The Qur'an is From Allah | Arabic101" %}
 
@@ -377,8 +410,8 @@ The case is therefore cumulative: the Qur'an's extraordinary qualities, the Prop
     {% include yt-embed.html url="https://youtu.be/n281Zyywyn4" title="How To Prove The Qur'an Has Been Preserved Accurately" %}
 
     {% include yt-embed.html url="https://youtu.be/WL2hDhkYoao" title="The Book Without Doubt - Preservation of the Quran" %}
-1. It is easily memorized. Memorizing the full 600+ pages is common among Muslims, and millions of people alive today know the entire text word for word.
-    > The majority of memorizers are not native Arabic speakers. Arabic is not the first language of roughly 80% of Muslims today.
+1. The Qur'an is extraordinarily easy to memorize on a mass scale. Memorizing the entire 600+ page text remains a widespread and continuously reproduced religious practice among millions, including among people whose first language is not Arabic. Recitation is checked teacher-to-student, heard publicly in worship, compared against written copies, and reproduced across geographically separated communities.
+    > The majority of people who fully memorize the Qur'an are not native Arabic speakers; in fact, Arabic is not the first language of around 80% of Muslims today.
     {: .gloss }
 
     {% include yt-embed.html url="https://youtu.be/s3WIOc2fHc0" title="MIRACLE OF QURAN MEMORIZATION" %}
@@ -388,20 +421,22 @@ The case is therefore cumulative: the Qur'an's extraordinary qualities, the Prop
 ### <span class="num-roman">VII.</span> Prophecies
 {: #prophecies }
 
-1. It declares itself the final revelation and the Prophet ﷺ the last of the prophets. This remains a standing prediction: a later prophet would falsify it.
+1. The Qur'an declares itself the final revelation from God to humanity and Prophet Muhammad ﷺ the seal and last of the prophets—a standing claim of finality that has remained intact across fourteen centuries.
     > "Muḥammad is not the father of [any] one of your men, but [he is] the Messenger of Allāh and seal [i.e., last] of the prophets. And ever is Allāh, of all things, Knowing." (**Sūrat al-Aḥzāb 33:40**), Saheeh International
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿مَّا كَانَ مُحَمَّدٌ أَبَآ أَحَدٍ مِّن رِّجَالِكُمْ وَلَـٰكِن رَّسُولَ ٱللَّهِ وَخَاتَمَ ٱلنَّبِيِّـۧنَ ۗ وَكَانَ ٱللَّهُ بِكُلِّ شَىْءٍ عَلِيمًا ۝٤٠﴾ <span class="ayah-ref">سُورَةُ الأَحۡزَابِ</span></div>
     {: .quote }
 
-    > Later centuries have produced several large religious movements, but none rests on a similar combination of claims and evidence: including the claim of a miracle that rivals the Qura'n or the unmatched character and teachings of prophet Muhammad ﷺ, nor has any later prophetic claimant achieved a comparable reach or historical effect.
+    > Later centuries have produced several religious movements, but none rests on a similar combination of claims and evidence: including a miracle that rivals the Qura'n and the unmatched character and teachings of prophet Muhammad ﷺ, nor has any later prophetic claimant achieved a comparable reach, historical effect, or transformative influence.
     {: .gloss }
-1. It prophesies its own future spread while its followers were still a persecuted minority in a single city in the desert of Arabia.
+1. The Qur'an prophecies its own future widespread while its followers were still a persecuted minority in a single city in the desert of Arabia.
     > "He is the One Who has sent His Messenger with ˹right˺ guidance and the religion of truth, making it prevail over all others. And sufficient is Allah as a Witness." (**Sūrat al-Fatḥ 48:28**), Dr. Mustafa Khattab, *The Clear Quran*
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿هُوَ ٱلَّذِىٓ أَرْسَلَ رَسُولَهُۥ بِٱلْهُدَىٰ وَدِينِ ٱلْحَقِّ لِيُظْهِرَهُۥ عَلَى ٱلدِّينِ كُلِّهِۦ ۚ وَكَفَىٰ بِٱللَّهِ شَهِيدًا ۝٢٨﴾ <span class="ayah-ref">سُورَةُ الفَتۡحِ</span></div>
     {: .quote }
-1. It prophesies its own preservation and states that God Himself will guard it.
+    > Beginning with a small group of believers in seventh-century Arabia, Islam spread with extraordinary speed, reaching vast regions of the Middle East, Africa, Asia, and beyond within its first few centuries. Today it is the world’s second-largest religion, with around 2 billion followers.
+    {: .gloss }
+1. It prophesies its own preservation and states that God Himself will guard it. As shown above, the Qur'an has indeed been perfectly preserved in an extraordinary manner across fourteen centuries.
     > "Indeed, it is We who sent down the message [i.e., the Qur’ān], and indeed, We will be its guardian." (**Sūrat al-Ḥijr 15:9**), Saheeh International
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿إِنَّا نَحْنُ نَزَّلْنَا ٱلذِّكْرَ وَإِنَّا لَهُۥ لَحَـٰفِظُونَ ۝٩﴾ <span class="ayah-ref">سُورَةُ الحِجۡرِ</span></div>
@@ -411,7 +446,7 @@ The case is therefore cumulative: the Qur'an's extraordinary qualities, the Prop
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَتَمَّتْ كَلِمَتُ رَبِّكَ صِدْقًا وَعَدْلًا ۚ لَّا مُبَدِّلَ لِكَلِمَـٰتِهِۦ ۚ وَهُوَ ٱلسَّمِيعُ ٱلْعَلِيمُ ۝١١٥﴾ <span class="ayah-ref">سُورَةُ الأَنۡعَامِ</span></div>
     {: .quote }
-1. It prophesies its own ease of memorization, now visible in the millions who have memorized it—especially given that most of them are not native Arabic speakers.
+1. It prophesies its own ease of memorization, a claim visibly fulfilled in the extraordinary worldwide culture of memorizing the entire Qur'an, often by people for whom Arabic is a second or third language.
     > "And We have certainly made the Quran easy to remember. So is there anyone who will be mindful?" (**Sūrat al-Qamar 54:17**), Dr. Mustafa Khattab, *The Clear Quran*
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَلَقَدْ يَسَّرْنَا ٱلْقُرْءَانَ لِلذِّكْرِ فَهَلْ مِن مُّدَّكِرٍ ۝١٧﴾ <span class="ayah-ref">سُورَةُ القَمَرِ</span></div>
@@ -419,8 +454,16 @@ The case is therefore cumulative: the Qur'an's extraordinary qualities, the Prop
     > Consider the difficulty of memorizing a 600+ page book in a second or third language. Normally, few people would be capable of such a feat, let alone millions.
     {: .gloss }
 1. It contains further fulfilled predictions concerning identifiable people and events.
-    > Examples include Byzantium's defeat and later recovery, the defeat of the Meccan opposition, the failure of attempts to rival the Qur'an, Abu Lahab's death outside the faith, and the preservation of the drowned Pharaoh's body as a sign.
+    > One of the clearest examples is the Byzantine reversal. After the Romans had suffered a devastating defeat, the Qur'an declared that they would in turn be victorious within *biḍʿ sinīn* [three to nine years]. The Byzantine-Sasanian war is independently documented, and the Roman recovery fulfilled the Qur'an's prediction within the stated period.
     {: .gloss }
+    > "The Romans have been defeated in a nearby land. Yet after their defeat they will prevail, within a few years. The command belongs to God before and after, and on that day the believers will rejoice." (**Sūrat al-Rūm 30:2–4**), translation adapted for this page
+    >
+    > <div dir="rtl" lang="ar" class="quran-arabic">﴿غُلِبَتِ ٱلرُّومُ ۝٢ فِىٓ أَدْنَى ٱلْأَرْضِ وَهُم مِّنۢ بَعْدِ غَلَبِهِمْ سَيَغْلِبُونَ ۝٣ فِى بِضْعِ سِنِينَ ۗ لِلَّهِ ٱلْأَمْرُ مِن قَبْلُ وَمِنۢ بَعْدُ ۚ وَيَوْمَئِذٍۢ يَفْرَحُ ٱلْمُؤْمِنُونَ ۝٤﴾ <span class="ayah-ref">سُورَةُ الرُّومِ</span></div>
+    {: .quote }
+    > Further examples include Abu Lahab remaining an opponent until his death despite a chapter publicly condemning him while he was still alive, the promised defeat of the Meccan opposition, the preservation of the Qur'an, its ease of remembrance, and the Muslims' secure return to the Sacred Mosque.
+    {: .gloss }
+    > For the independently documented Byzantine recovery, see Walter E. Kaegi, [*Byzantium and the Early Islamic Conquests*, ch. 2](https://www.cambridge.org/core/books/abs/byzantium-and-the-early-islamic-conquests/byzantine-empire-in-an-era-of-accelerating-change/326C4AD3819C9BA745C546C04DD47970), and N. Oikonomidès, ["A Chronological Note on the First Persian Campaign of Heraclius (622)"](https://www.cambridge.org/core/journals/byzantine-and-modern-greek-studies/article/abs/chronological-note-on-the-first-persian-campaign-of-heraclius-622/F7221BA792928B16279D235B3EE4638D).
+    {: .src }
 
     {% include yt-embed.html url="https://youtu.be/xZIqd_-1Zus" title="Mind Blowing Prophecies of Muhammad | Part 1" %}
 
@@ -429,6 +472,11 @@ The case is therefore cumulative: the Qur'an's extraordinary qualities, the Prop
     {% include yt-embed.html url="https://youtu.be/0PX2t0Baq8U" title="Undeniable Predictions in the Quran || Mohammed Hijab" %}
 
     {% include yt-embed.html url="https://youtu.be/ezvPEwizqRc" title="Shocking Predictions in the Sunnah || Mohammed Hijab" %}
+1. **Another particularly concrete near-term prediction followed the Muslims' exclusion from the Sacred Mosque.** After travelling toward Mecca for pilgrimage and being prevented from entering, the Qur'an stated that the Prophet's ﷺ vision would be fulfilled and that the believers would enter the Sacred Mosque securely, with heads shaved or hair shortened in the rites of pilgrimage. They returned and performed the pilgrimage the following year.
+    > "God has truly fulfilled His Messenger’s vision: God willing, you will surely enter the Sacred Mosque in safety, some with heads shaved and others with hair shortened, without fear. God knew what you did not know, and before that He granted a near victory." (**Sūrat al-Fatḥ 48:27**), translation adapted for this page
+    >
+    > <div dir="rtl" lang="ar" class="quran-arabic">﴿لَّقَدْ صَدَقَ ٱللَّهُ رَسُولَهُ ٱلرُّءْيَا بِٱلْحَقِّ ۖ لَتَدْخُلُنَّ ٱلْمَسْجِدَ ٱلْحَرَامَ إِن شَآءَ ٱللَّهُ ءَامِنِينَ مُحَلِّقِينَ رُءُوسَكُمْ وَمُقَصِّرِينَ لَا تَخَافُونَ ۖ فَعَلِمَ مَا لَمْ تَعْلَمُوا۟ فَجَعَلَ مِن دُونِ ذَٰلِكَ فَتْحًۭا قَرِيبًا ۝٢٧﴾ <span class="ayah-ref">سُورَةُ الفَتۡحِ</span></div>
+    {: .quote }
 
 ### <span class="num-roman">VIII.</span> Historical Impact and Transformation
 {: #historical-impact-and-transformation }
