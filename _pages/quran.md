@@ -177,6 +177,11 @@ The Qur'an's literary miracle extends far beyond beauty of expression. Its inimi
 
 1. Its arrangement is non-linear rather than chronological, yet individual chapters often have strong local coherence while themes, phrases, and narratives echo across distant parts of the book.
 
+1. **An exceptionally high bar for interpretation:** the Qur'an's meaning can turn on grammar, morphology, vocabulary, syntax, word order, omission, rhetoric, context, canonical readings, the circumstances of revelation, prophetic explanation, and the relationship of one passage to others. Serious Qur’anic interpretation therefore developed into a highly specialized discipline requiring mastery of numerous fields rather than simply reading a translation and offering an impression.
+
+   > Classical scholars formalized this demanding standard. Al-Suyūṭī, for example, listed fifteen branches of knowledge required for a properly qualified Qur’anic exegete, including multiple sciences of Arabic, principles of interpretation, canonical readings, circumstances of revelation, and prophetic tradition. The point is not that the Qur’an’s basic message is inaccessible, but that its language is so concentrated and multilayered that extracting its full implications can require expertise across several disciplines at once. A few words can carry grammatical, rhetorical, contextual, legal, and theological consequences simultaneously.
+   > {: .gloss }
+
 1. It challenged the Arabs to match it at a time when their command of Arabic was at its height. They had both the skill to answer the challenge and every motive to do so.
     > The Qur'an was revealed in an era when poetry was not merely entertainment: it was the lifeblood of the Arab culture, the measure of honor, and even a weapon in war; tribes could settle disputes or ignite battles through verse. In that setting—where pride in language was unrivaled and mastery of Arabic expression was their greatest art—the Qur'an openly challenged them to produce anything like it. Despite their unmatched command of Arabic and every worldly motive to discredit the Prophet ﷺ, they were unable to answer the challenge. Their failure itself became a perpetual testimony to the Qur'an's inimitability.
     {: .gloss }
