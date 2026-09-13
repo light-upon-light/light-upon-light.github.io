@@ -14,6 +14,12 @@
 # Editing a definition here changes it everywhere: the key block and every
 # hover. See _notes/guides/formatting_guide.md ("Key-terms block").
 
+surah:
+  label: "sūrah"
+  short: "a chapter of the Qur'an — the standard division of the text, of
+    which there are 114, each identified by a name rather than a number."
+  match: ["surah", "surahs", "sūrah", "sūrahs", "sūrat", "sûrah", "sûrahs"]
+
 ridda:
   label: "ridda"
   short: "conventionally translated apostasy; in the classical legal material it

@@ -27,6 +27,10 @@ toc_sticky: true
 toc_mobile: expanded
 
 share: true
+
+glossary:
+  - surah
+  - hadith
 ---
 
 > This page presents evidence for the **miraculous nature** of the **Qur'an** and the **prophethood** of **Prophet Muhammad** ﷺ. Not every point is a miracle or proof on its own. Taken together, however, they form a cumulative case for the Qur'an's divine origin and the authenticity of the Prophet's mission. — *Note: this page is a work in progress.*
@@ -46,6 +50,8 @@ The main alternative explanations fail to account for the evidence of his life a
 
 The case is therefore cumulative: the Qur'an's extraordinary qualities, the Prophet Muhammad's ﷺ moral character and lasting influence, and the weakness of alternative explanations all reinforce one another. The Qur'an is presented as a lasting and preserved miracle from God, given to Prophet Muhammad ﷺ as evidence for his message to all humanity. Together with the carefully preserved record of his life, they provide every generation with tangible evidence by which to examine the Qur'an's claim to divine origin and assess Muhammad's ﷺ claim to prophethood.
 </details>
+
+{% include glossary-key.html %}
 
 ## The Book
 
@@ -608,7 +614,7 @@ It contains further fulfilled predictions concerning identifiable people and eve
 ### <span class="num-roman">X.</span> Guidance, Law, and Morality
 {: #guidance-law-and-morality }
 
-1. The Qur'an presents itself as coming from the same Divine Author as the earlier scriptures: confirming their original teaching, expanding their guidance, and restoring what was altered over time.
+1. It presents itself as coming from the same Divine Author as the earlier scriptures: confirming their original teaching, expanding their guidance, and restoring what was altered over time.
     > Note: "Allah" is the Arabic word for God, not the name of a different deity. Arabic-speaking Christians and Jews use the same word for God in their own scriptures and worship. It also shares a root with the Hebrew *Elohim* and Aramaic *Alaha*, which Jesus himself would have used.
     {: .gloss }
 
