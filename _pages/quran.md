@@ -61,7 +61,6 @@ The case is therefore cumulative: the Qur'an's extraordinary qualities, the Prop
     {: .quote }
 1. It was revealed over 23 years, in separate portions and not in the order in which it is read today—often as events unfolded and in response to unforeseen questions and circumstances. Yet in its final arrangement, the Qur'an stands as a coherent literary composition.
 1. The Qur'an did not emerge as a private manuscript draft that its author could repeatedly edit in secret. Revelations were recited publicly, memorized by followers, used in prayer, and written down; the final text therefore emerged under communal observation rather than through an ordinary process of solitary drafting and revision.
-Once the Prophet ﷺ recited a verse, it was fixed, with no retraction or revision.
     > This is crucial context for everything that follows. Qualities of the Qur'an that may seem impressive on their own become dramatically more so when considered alongside the way it emerged: piecemeal and out of its final order, across 23 years of unpredictable events, without revision or retraction, through public oral recitation from a man who could not read or write.
     {: .gloss }
 
