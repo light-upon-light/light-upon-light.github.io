@@ -83,6 +83,8 @@ The Qur'an's literary miracle extends far beyond beauty of expression. Its inimi
 
     {% include yt-embed.html url="https://youtu.be/abzZL_3Av2E" title="Linguistic Miracle of the Qur'an" %}
 
+    {% include yt-embed.html url="https://youtu.be/5fyF-35naDE" title="How can the Qur'an be a Miracle for NON-ARABIC Speakers? | Arabic101" %}
+
     <details class="quran-more" markdown="1">
     <summary>Show more videos on this theme</summary>
 
@@ -216,6 +218,8 @@ The Qur'an's literary miracle extends far beyond beauty of expression. Its inimi
     {: .src }
 
     {% include yt-embed.html url="https://youtu.be/3bJ2FM_IB9Q" title="Qur'an Recitation of chapters: Maryam (Mary), Joseph, Luqman and Muhammad" %}
+
+    {% include yt-embed.html url="https://youtu.be/5fyF-35naDE" title="How can the Qur'an be a Miracle for NON-ARABIC Speakers? | Arabic101" %}
 
     {% include yt-embed.html url="https://youtube.com/shorts/4pf9Cu5cwhs" title="Qur'an Recitation of Al-Rahman (Youtube Short)" %}
 
