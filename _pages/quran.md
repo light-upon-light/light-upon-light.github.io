@@ -316,11 +316,11 @@ The Qur'an presents itself as the final revelation in the same prophetic line as
 
     {% include yt-embed.html url="https://youtu.be/lEc_ilaHim8" title="Stories of the Prophets: Bible vs. Qur'an" %}
 
-1. **It does not merely repeat earlier material; it governs and transforms it.**
+1. It does not merely repeat earlier material; it governs and transforms it.
     > It selects, compresses, relocates, disputes, and reframes earlier narratives according to its own theology. It omits many genealogical and biographical details while foregrounding monotheism, judgment, repentance, prophetic perseverance, and moral accountability.
     {: .gloss }
 
-1. **The same inherited story can serve different arguments in different chapters without becoming a simple copy of one fixed source.**
+1. The same inherited story can serve different arguments in different chapters without becoming a simple copy of one fixed source.
     > This intertextual transformation fits the broader literary pattern of repetition-with-variation described above.
     {: .gloss }
 
@@ -335,7 +335,6 @@ The Qur'an presents itself as the final revelation in the same prophetic line as
 {: #nature-knowledge }
 
 The Qur'an repeatedly directs human beings to the natural world as evidence of God's wisdom and power: the heavens, earth, rain, animals, human development, day and night, winds, seas, mountains, and the origins and fragility of life.
-
 
 1. The Qur'an describes features of the natural world with remarkable precision, including observations whose significance became clearer with later scientific knowledge.
     > A few examples often discussed: the Qur'an gives a striking stage-by-stage description of embryonic development, uses feminine grammatical forms for the worker honeybees, and describes rain-bearing clouds as heavy. The Qur'an's description of the natural world is especially striking when considered in the setting of seventh-century Arabia.
@@ -425,39 +424,39 @@ The Qur'an's preservation is one of the most remarkable features of its history:
     > Sheila Blair and Jonathan Bloom, ["Inscriptions in art and architecture," *The Cambridge Companion to the Qur'an*](https://www.cambridge.org/core/books/abs/cambridge-companion-to-the-quran/inscriptions-in-art-and-architecture/8B94B2FEC63E14A8447547668BCE0FED).
     {: .src }
 
-1. **The earliest Qur'an manuscripts overwhelmingly belong to a common standard textual tradition.**
+1. The earliest Qur'an manuscripts overwhelmingly belong to a common standard textual tradition.
     > Modern manuscript comparison has identified shared orthographic irregularities—small unusual spelling choices appearing in the same places across independent early manuscripts. Because such arbitrary details are unlikely to be recreated independently from fresh oral dictation, they point to descent from a common written archetype.
     {: .gloss }
     > Marijn van Putten, [“‘The Grace of God’ as evidence for a written Uthmanic archetype: the importance of shared orthographic idiosyncrasies”](https://doi.org/10.1017/S0041977X19000338), *Bulletin of the School of Oriental and African Studies* 82.2 (2019), 271–288.
     {: .src }
 
-1. **The manuscript tradition preserves identifiable regional families descending from early standard codices.**
+1. The manuscript tradition preserves identifiable regional families descending from early standard codices.
     > Hythem Sidky's philological and phylogenetic analysis reconstructs ancestral regional codices and finds a pattern broadly consistent with early Muslim reports that standard exemplars were distributed to major regional centers.
     {: .gloss }
     > Hythem Sidky, [“On the Regionality of Qurʾānic Codices”](https://doi.org/10.5913/jiqsa.5.2020.a005), *Journal of the International Qur'anic Studies Association* 5.1 (2020), 133–210.
     {: .src }
 
-1. **Material evidence also supports inherited oral reading traditions.**
+1. Material evidence also supports inherited oral reading traditions.
     > Early Arabic writing did not record every short vowel or consonantal distinction as fully as later script. Sidky's study of consonantal dotting nevertheless found coherent regional patterns—Medinan, Meccan-Basran, and Kufan—showing that the written text traveled together with inherited oral recitation rather than being reconstructed generations later from an ambiguous script.
     {: .gloss }
     > Hythem Sidky, [“Consonantal Dotting and the Oral Quran”](https://doi.org/10.7817/jaos.143.4.2023.ar029), *Journal of the American Oriental Society* 143.4 (2023), 785–814.
     {: .src }
 
-1. **The canonical readings preserve the Qur'an's inherited oral transmission.**
+1. The canonical readings preserve the Qur'an's inherited oral transmission.
     > The early standardized *rasm* [consonantal skeleton] did not encode every phonetic detail. The canonical readings preserve the authorized oral forms transmitted through recognized teachers, while remaining anchored to the same Qur'anic consonantal text. Their regional transmission patterns are themselves evidence of an early living recitation tradition.
     {: .gloss }
 
-1. **The Birmingham folios place Qur'anic manuscript evidence extraordinarily close to the Prophet's ﷺ lifetime.**
+1. The Birmingham folios place Qur'anic manuscript evidence extraordinarily close to the Prophet's ﷺ lifetime.
     > The parchment was radiocarbon dated to 568–645 CE with 95.4% probability, and palaeographic study likewise places the manuscript among the earliest Qur'anic witnesses. The folios preserve portions of chapters 18–20 in a form corresponding to the Qur'an recited today.
     {: .gloss }
     > University of Birmingham, [“Birmingham Qur'an Manuscript — Frequently Asked Questions”](https://www.birmingham.ac.uk/facilities/cadbury/birmingham-quran-mingana-collection/birmingham-quran/faqs).
     {: .src }
 
-1. **Early inscriptions provide an independent channel of evidence.**
+1. Early inscriptions provide an independent channel of evidence.
     > Qur'anic and closely Qur'anic wording appears in securely dated first-century Islamic inscriptions, most famously the Dome of the Rock inscriptions of 691–692 CE. Manuscripts, monumental inscriptions, documentary materials, and recitation traditions therefore overlap rather than leaving the text dependent on one late medieval copying chain.
     {: .gloss }
 
-1. **Mass memorization provides another layer of redundancy.**
+1. Mass memorization provides another layer of redundancy.
     > Complete memorization of the Qur'an has remained a major religious institution across Muslim societies, including among large numbers of people whose first language is not Arabic. Daily liturgical recitation, complete memorization, teacher-to-student correction, public recitation, and written codices provide overlapping channels through which one mode of transmission can check another.
     {: .gloss }
 
@@ -534,11 +533,11 @@ The Qur'an contains bold predictions made in circumstances where their fulfillme
     > It was fulfilled the following year when the Muslims entered Mecca and completed the pilgrimage rites in security.
     {: .gloss }
 
-1. **Ḥudaybiyyah itself is called a “clear victory” before its consequences were obvious.**
+1. Ḥudaybiyyah itself is called a “clear victory” before its consequences were obvious.
     > The treaty initially appeared disappointing to many Muslims because they had come intending pilgrimage and accepted terms they found difficult. The Qur'an nonetheless opened Sūrat al-Fatḥ by calling the outcome a clear victory. The treaty's subsequent consequences strongly favored the Muslim community.
     {: .gloss }
 
-1. **It foretells the fate of Abū Lahab, one of the Prophet's fiercest enemies.**
+1. It foretells the fate of Abū Lahab, one of the Prophet's fiercest enemies.
     > Sūrat al-Masad condemned Abū Lahab while he was still alive and publicly opposing the Prophet ﷺ. He had years in which an outward profession of faith could have been used to mock the revelation's claim, yet he died as an enemy of Islam exactly as the chapter declared.
     {: .gloss }
 
@@ -731,33 +730,33 @@ The Qur'an contains bold predictions made in circumstances where their fulfillme
 
 The relationship between the Qur'an and the Messenger ﷺ is itself one of the clearest signs that he was transmitting a revelation rather than composing a book of his own.
 
-1. **The Qur'an repeatedly presents Muhammad ﷺ as subject to the revelation rather than in control of it.**
+1. The Qur'an repeatedly presents Muhammad ﷺ as subject to the revelation rather than in control of it.
     > “When Our clear revelations are recited to them, those who do not expect to meet Us say ˹to the Prophet˺, ‘Bring us a different Qur'an or make some changes in it.’ Say, ‘It is not for me to change it on my own. I only follow what is revealed to me.’” (**Sūrat Yūnus 10:15**), Dr. Mustafa Khattab, *The Clear Quran*
     {: .quote }
 
-1. **It contains an extraordinary threat against the messenger himself were he to fabricate revelation.**
+1. It contains an extraordinary threat against the messenger himself were he to fabricate revelation.
     > “Had the Messenger made up something in Our Name, We would have certainly seized him by his right hand, then severed his aorta, and none of you could have shielded him ˹from Us˺!” (**Sūrat al-Ḥāqqah 69:44–47**), Dr. Mustafa Khattab, *The Clear Quran*
     {: .quote }
 
-1. **It permanently records public corrections of him.**
+1. It permanently records public corrections of him.
     > In Sūrat ʿAbasa 80:1–10 he is corrected for turning away from a blind believer while addressing influential Meccan leaders. In 9:43 he is questioned for granting permission too readily. In 66:1 he is asked why he prohibited for himself what God had made lawful. In 18:23–24 he is corrected regarding speaking confidently about what he would do the next day.
     {: .gloss }
     > These corrections were not hidden in private records. They became part of the Qur'an itself, recited publicly in worship for all time. The man accused of inventing the revelation faithfully transmitted verses that corrected and disciplined him before his own followers.
     {: .gloss }
 
-1. **The Qur'an is strikingly non-autobiographical.** Muhammad ﷺ is the human messenger through whom the entire text comes, yet the Qur'an does not read like his memoir.
+1. The Qur'an is strikingly non-autobiographical. Muhammad ﷺ is the human messenger through whom the entire text comes, yet the Qur'an does not read like his memoir.
     > It gives no continuous account of his childhood, business career, marriage to Khadijah, genealogy, or most of the events later biographies consider central. Muhammad ﷺ is named only a few times. The center of gravity remains God, revelation, judgment, earlier prophets, moral responsibility, and the response of the community.
     {: .gloss }
 
-1. **The first Muslim community is not portrayed as an unblemished heroic group.**
+1. The first Muslim community is not portrayed as an unblemished heroic group.
     > The Qur'an preserves disobedience and collapse at Uḥud (3:152–155), panic and misplaced confidence at Ḥunayn (9:25), hypocrisy, desertion, quarrels, and failures of discipline. A purely triumphalist founding document could have erased or softened much of this material; the Qur'an instead makes communal failure part of permanent moral instruction.
     {: .gloss }
 
-1. **Personal events enter the text but are repeatedly universalized.**
+1. Personal events enter the text but are repeatedly universalized.
     > The Qur'an consoles the Prophet ﷺ, addresses his household, responds to accusations, and comments on political and military crises. The remarkable feature is therefore not that his circumstances leave no trace. It is that personal and contingent events are repeatedly reframed into principles meant to outlive the event that triggered them.
     {: .gloss }
 
-1. **His ordinary reported speech and the Qur'an are stylistically distinguishable.**
+1. His ordinary reported speech and the Qur'an are stylistically distinguishable.
     > Computational stylometry has found strong statistical differences between Qur'anic language and the Prophet's ﷺ reported speech, reinforcing what Arabic readers have long recognized: the voice and linguistic profile of the Qur'an are distinct from his ordinary manner of speaking.
     {: .gloss }
     > Halim Sayoud, [“Author discrimination between the Holy Quran and Prophet's statements”](https://doi.org/10.1093/llc/fqs014), *Literary and Linguistic Computing* 27.4 (2012), 427–444.
