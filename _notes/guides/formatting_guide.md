@@ -147,10 +147,19 @@ JS, and the `<dl>` still shows for readers whose browser ignores `<details>`.
 `.markdownlint.json` is configured around the Arabic-quotation pattern, not
 by default:
 
-- **MD033** (inline HTML) permits only `div` and `span`. A new inline element
-  means updating the config, not quietly failing the lint.
+- **MD033** (inline HTML) permits only `div`, `span`, `details`, and
+  `summary`. A new inline element means updating the config, not quietly
+  failing the lint.
 - **MD013** (line length) is off.
+- **MD022** (blanks around headings) still requires a blank line *above* a
+  heading, but `lines_below: -1` lets the `{: #anchor }` IAL touch the heading
+  it names.
 - **MD027** (multiple spaces after blockquote symbol) and **MD028** (blank
   line inside blockquote) are off. The bare `>` line and the kramdown IAL tag
   sitting directly under a blockquote look like violations but are the
   intended markup.
+- **MD029** (ordered list prefix) is off. Footnote lists open directly under
+  `<div class="footnotes" markdown="1">`, which markdownlint reads as HTML
+  swallowing item 1, and `{: start="N"}` groups start past 1.
+- **MD034** (bare URL) is off. Every hit is a `url="..."` inside a
+  `{% include %}` tag, which markdownlint cannot see is Liquid.

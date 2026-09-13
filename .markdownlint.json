@@ -4,6 +4,11 @@
     "allowed_elements": ["div", "span", "details", "summary"]
   },
   "MD013": false,
+  "MD022": {
+    "lines_below": -1
+  },
   "MD027": false,
-  "MD028": false
+  "MD028": false,
+  "MD029": false,
+  "MD034": false
 }
