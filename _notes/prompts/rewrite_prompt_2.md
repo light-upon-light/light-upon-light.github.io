@@ -6,7 +6,7 @@ The uploaded document is a page in an Islam apologetics website. I fear that it 
 
 Revise this page for **presentation only**. Preserve the meanings, but make the page (significantly shorter,) clearer, more natural, and easier to follow.
 
-Improve the writing style, word choice, sentence structure, paragraph structure, overall argument flow and structure, section order, headings, transitions, tone, and formatting. Remove repetition, redundant explanation, overlong quotations, unnecessary setup, and anything that slows the argument without adding meaning. Consolidate related points where useful so the page feels deliberate rather than repetitive.
+Improve the writing style, word choice, sentence structure, paragraph structure, overall argument flow and structure, section order, headings, transitions, tone, and formatting. Remove repetition, redundant explanation, unnecessary setup, and anything that slows the argument without adding meaning. Consolidate related points where useful so the page feels deliberate rather than repetitive.
 
 Do **not** fact-check, add new arguments, remove unique points, or introduce outside material. The goal is to present the existing argument as clearly, easy-to-read, concisely, and convincingly as possible.
 
@@ -14,7 +14,7 @@ Also do **not** cut or shorten Quran quotations.
 
 Feel free to change **how and where** a meaning is being made, but preserve the **what** somewhere on the page.
 
-Feel free to aggressively reword a point (or move meanings between the actual bullet point and the gloss quotation underneath it, etc.) when the point isn't clear and well written and easy to read and understand right away, or if it's too short and you want to add some more context or emphasis. Prefer stating the claim, evidence, or inference directly and clearly.
+<!-- Feel free to aggressively reword a point (or move meanings between the actual bullet point and the gloss quotation underneath it, etc.) when the point isn't clear and well written and easy to read and understand right away, or if it's too short and you want to add some more context or emphasis. Prefer stating the claim, evidence, or inference directly and clearly. -->
 
 Overall, we want to (shorten,) restructure, and improve clarity, tone, paragraphing and flow while preserving meanings.
 
@@ -119,7 +119,25 @@ Do **not** fact-check, add new arguments, remove unique points, or introduce out
 
 Overall, we want to improve clarity, tone, paragraphing and flow while preserving meanings.
 
-Please create a detailed plan first, and show it to me for approval.
+Prefer stating the claim, evidence, or inference directly and clearly. And do not be concessionary; this page should be confident and apologetic.
+
+Please create a well thought out and thorough plan first for approval.
+
+## Reword sections
+
+The following text is a section from a markdown page in an Islam apologetics website. I fear that 1- some points in it are currently badly written and are not a pleasant, clear and convincing read, and 2- there is some redundancy since this is the combination of ideas from two documents.
+
+Revise this page for **presentation only**. Preserve meanings, but make the page significantly clearer, more concise, and easier to follow.
+
+Improve the writing style, word choice, sentence structure, tone, and formatting. Remove repetition, redundant explanation, unnecessary setup, and anything that slows the argument without adding meaning. Consolidate related points where useful so the page feels deliberate rather than repetitive.
+
+Do **not** fact-check, add new arguments, remove unique points, or introduce outside material. The goal is to present the existing general meanings as clearly, easy-to-read, concisely, and convincingly as possible.
+
+Overall, we want to improve clarity, conciseness, tone while preserving meanings.
+
+Prefer stating the claim, evidence, or inference directly and clearly. And DO NOT be concessionary, or defensive as if you're writing an academic memo. This page should be a **confident, cumulative, affirmative apologetic**.
+
+Please create a plan first for approval.
 
 ## Reword each point in messenger
 
