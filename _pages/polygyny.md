@@ -22,6 +22,7 @@ toc_sticky: true
 toc_levels: 2..3
 
 glossary:
+  - surah
   - polygyny
   - polygamy
   - polyandry

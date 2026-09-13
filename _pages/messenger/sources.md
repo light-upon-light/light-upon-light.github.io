@@ -16,6 +16,7 @@ toc: true
 toc_icon: "bars"
 toc_sticky: true
 glossary:
+  - surah
   - hadith
   - sahih
   - sira
