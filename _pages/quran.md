@@ -266,6 +266,11 @@ The Qur'an's literary miracle extends far beyond beauty of expression. Its inimi
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿لَوْ كَانَ فِيهِمَآ ءَالِهَةٌ إِلَّا ٱللَّهُ لَفَسَدَتَا ۚ فَسُبْحَـٰنَ ٱللَّهِ رَبِّ ٱلْعَرْشِ عَمَّا يَصِفُونَ ۝٢٢﴾ <span class="ayah-ref">سُورَةُ الأَنبِيَاءِ</span></div>
     {: .quote }
 
+    > “Allah has never had ˹any˺ offspring, nor is there any god besides Him. Otherwise, each god would have taken away what he created, and they would have tried to dominate one another. Glorified is Allah above what they claim.” (**Sūrat al-Muʾminūn 23:91**), Dr. Mustafa Khattab, *The Clear Quran*
+    >
+    > <div dir="rtl" lang="ar" class="quran-arabic">﴿مَا ٱتَّخَذَ ٱللَّهُ مِن وَلَدٍ وَمَا كَانَ مَعَهُۥ مِنْ إِلَـٰهٍ ۚ إِذًا لَّذَهَبَ كُلُّ إِلَـٰهٍۭ بِمَا خَلَقَ وَلَعَلَا بَعْضُهُمْ عَلَىٰ بَعْضٍ ۚ سُبْحَـٰنَ ٱللَّهِ عَمَّا يَصِفُونَ ۝٩١﴾ <span class="ayah-ref">سُورَةُ المُؤۡمِنُونَ</span></div>
+    {: .quote }
+
     > “And they argue with Us—forgetting they were created—saying, ‘Who will give life to decayed bones?’ Say, ˹O Prophet,˺ ‘They will be revived by the One Who produced them the first time, for He has ˹perfect˺ knowledge of every created being.’” (**Sūrat Yā Sīn 36:78–79**), Dr. Mustafa Khattab, *The Clear Quran*
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَضَرَبَ لَنَا مَثَلًا وَنَسِىَ خَلْقَهُۥ ۖ قَالَ مَن يُحْىِ ٱلْعِظَـٰمَ وَهِىَ رَمِيمٌ ۝٧٨ قُلْ يُحْيِيهَا ٱلَّذِىٓ أَنشَأَهَآ أَوَّلَ مَرَّةٍ ۖ وَهُوَ بِكُلِّ خَلْقٍ عَلِيمٌ ۝٧٩﴾ <span class="ayah-ref">سُورَةُ يسٓ</span></div>
@@ -281,21 +286,11 @@ The Qur'an's literary miracle extends far beyond beauty of expression. Its inimi
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿أَفَرَءَيْتُم مَّا تُمْنُونَ ۝٥٨ ءَأَنتُمْ تَخْلُقُونَهُۥٓ أَمْ نَحْنُ ٱلْخَـٰلِقُونَ ۝٥٩﴾ <span class="ayah-ref">سُورَةُ الوَاقِعَةِ</span></div>
     {: .quote }
 
-    > “The Messiah, son of Mary, was no more than a messenger. ˹Many˺ messengers had ˹come and˺ gone before him. His mother was a woman of truth. They both ate food. See how We make the signs clear to them, yet see how they are deluded ˹from the truth˺.” (**Sūrat al-Māʾidah 5:75**), Dr. Mustafa Khattab, *The Clear Quran*
-    >
-    > <div dir="rtl" lang="ar" class="quran-arabic">﴿مَّا ٱلْمَسِيحُ ٱبْنُ مَرْيَمَ إِلَّا رَسُولٌ قَدْ خَلَتْ مِن قَبْلِهِ ٱلرُّسُلُ وَأُمُّهُۥ صِدِّيقَةٌ ۖ كَانَا يَأْكُلَانِ ٱلطَّعَامَ ۗ ٱنظُرْ كَيْفَ نُبَيِّنُ لَهُمُ ٱلْـَٔايَـٰتِ ثُمَّ ٱنظُرْ أَنَّىٰ يُؤْفَكُونَ ۝٧٥﴾ <span class="ayah-ref">سُورَةُ المَائـِدَةِ</span></div>
-    {: .quote }
-
-    > “Indeed, the example of Jesus in the sight of Allah is like that of Adam. He created him from dust, then said to him, ‘Be!’ And he was.” (**Sūrat Āl ʿImrān 3:59**), Dr. Mustafa Khattab, *The Clear Quran*
-    >
-    > <div dir="rtl" lang="ar" class="quran-arabic">﴿إِنَّ مَثَلَ عِيسَىٰ عِندَ ٱللَّهِ كَمَثَلِ ءَادَمَ ۖ خَلَقَهُۥ مِن تُرَابٍ ثُمَّ قَالَ لَهُۥ كُن فَيَكُونُ ۝٥٩﴾ <span class="ayah-ref">سُورَةُ آلِ عِمۡرَانَ</span></div>
-    {: .quote }
-
     > “Are you ˹O Prophet˺ not aware of the one who argued with Abraham about his Lord because Allah had granted him kingship? ˹Remember˺ when Abraham said, ‘My Lord is the One Who has power to give life and cause death.’ He argued, ‘I too have the power to give life and cause death.’ Abraham challenged ˹him˺, ‘Allah causes the sun to rise from the east. So make it rise from the west.’ And so the disbeliever was dumbstruck. And Allah does not guide the wrongdoing people.” (**Sūrat al-Baqarah 2:258**), Dr. Mustafa Khattab, *The Clear Quran*
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿أَلَمْ تَرَ إِلَى ٱلَّذِى حَآجَّ إِبْرَٰهِـۧمَ فِى رَبِّهِۦٓ أَنْ ءَاتَىٰهُ ٱللَّهُ ٱلْمُلْكَ إِذْ قَالَ إِبْرَٰهِـۧمُ رَبِّىَ ٱلَّذِى يُحْىِۦ وَيُمِيتُ قَالَ أَنَا۠ أُحْىِۦ وَأُمِيتُ ۖ قَالَ إِبْرَٰهِـۧمُ فَإِنَّ ٱللَّهَ يَأْتِى بِٱلشَّمْسِ مِنَ ٱلْمَشْرِقِ فَأْتِ بِهَا مِنَ ٱلْمَغْرِبِ فَبُهِتَ ٱلَّذِى كَفَرَ ۗ وَٱللَّهُ لَا يَهْدِى ٱلْقَوْمَ ٱلظَّـٰلِمِينَ ۝٢٥٨﴾ <span class="ayah-ref">سُورَةُ البَقَرَةِ</span></div>
     {: .quote }
-    > Each of these passages rests on a step the reader can check for themselves. Rival gods would pull creation apart (21:22). The One who created life once can create it again (36:78–79). Idols that cannot make a fly have no claim to worship (22:73). A person does not make a child by their own power (56:58–59). Jesus and his mother needed food, and a being who depends on food is not God (5:75). A birth without a father does not make Jesus divine, since Adam had neither father nor mother (3:59). And a king who claims power over life and death is silenced when asked to move the sun (2:258).
+    > Each of these passages rests on a step the reader can check for themselves. Rival gods would ruin creation, each taking what it had created and trying to overpower the others (21:22, 23:91). The One who created life once can create it again (36:78–79). Idols that cannot make a fly have no claim to worship (22:73). A person does not make a child by their own power (56:58–59). Jesus and his mother needed food, and a being who depends on food is not God (5:75). A birth without a father does not make Jesus divine, since Adam had neither father nor mother (3:59). And a king who claims power over life and death is silenced when asked to move the sun (2:258).
     {: .gloss }
 
 1. It repeatedly demands evidence and warns against following claims without knowledge, rather than treating sincere conviction alone as sufficient.
@@ -413,6 +408,7 @@ It also describes features of the natural world with remarkable precision, inclu
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿لَا ٱلشَّمْسُ يَنۢبَغِى لَهَآ أَن تُدْرِكَ ٱلْقَمَرَ وَلَا ٱلَّيْلُ سَابِقُ ٱلنَّهَارِ ۚ وَكُلٌّ فِى فَلَكٍ يَسْبَحُونَ ۝٤٠﴾ <span class="ayah-ref">سُورَةُ يسٓ</span></div>
     {: .quote }
     > The word rendered “orbit” is *falak*, a rounded course, the same word used for the whorl of a spindle. “Travelling” translates *yasbaḥūn*, which literally means gliding or swimming. Common ancient models fixed the heavenly bodies to turning spheres; the Qur'an instead describes each body moving along its own path.
+    > The phrase itself is also striking: “each in an orbit,” <span dir="rtl" lang="ar">كل في فلك</span> (*kullun fī falak*), is a palindrome spanning 3 Arabic words, with the letters k-l-f-y-f-l-k reading the same from either end. The words describing bodies travelling around a circuit turn back on themselves, and they do so within ordinary, natural Arabic in both verses where they appear.
     {: .gloss }
 
 1. **Weight of clouds:** the Qur'an calls rain-bearing clouds heavy.
