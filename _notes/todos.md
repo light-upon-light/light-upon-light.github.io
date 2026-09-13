@@ -6,10 +6,6 @@ general:
 - strengthen overall points
 - strengthen literary miracle section
 - add sources and further readings under each point, within a details block
-- repeat "The Qur'an" in each new section
-- add how can quran be miracle for non arabic under non arabic point
-- expand on quotations of the appeal to reason part (am kholeqo men shay2, law kanna feehema alehaton ella, and more...)
-- add ratqan, everything from water, and expansion of universe
 
 ---
 
@@ -39,6 +35,7 @@ quran:
 - add what non-muslims have said about quran (some example in the THINK muslim video)
 - add page for each point that needs one: literary miracle, numerical, historical info, ring structure etc.
 - expand heavily on the literary miracle section and the summit of arabic eloquence part, and add all the video links, part is massive and is a whole area of research on its own
+- consider strategically adding details elements to sections, link lists or consecutive quran quotations to reduce default length of page
 
 - miconceptions to add: inheritance
 
