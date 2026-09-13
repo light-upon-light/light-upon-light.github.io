@@ -147,7 +147,7 @@ The Qur'an's literary miracle extends far beyond beauty of expression. Its inimi
     > Leyla Ozgur Alhassen's *How the Qur'ān Works: Reading Sacred Narrative* studies Qur'anic repetition through motifs, themes, action sequences, parallels, reversals, and deliberate suppression of repeated material.
     {: .src }
 
-1. **Compositional architecture:** The Qur’an repeatedly displays intricate large-scale organization across individual passages, entire chapters, and even groups of chapters. Themes, key words, images, and arguments are introduced, developed, mirrored, and then deliberately returned to. Many passages and chapters display patterns of framing, parallelism, reversal, recurring key terms, thematic centers, and verbal echoes. Paired sections, thematic symmetry, recurring verbal links, carefully placed transitions, and purposeful returns to earlier motifs give many chapters a unity that only becomes fully visible when the whole composition is examined. TODO-EDIT
+1. **Compositional architecture:** The Qur’an repeatedly displays intricate large-scale organization across individual passages, entire chapters, and even groups of chapters. Themes, key words, images, and arguments are introduced, developed, echoed, contrasted, and later returned to in deliberate ways. Many chapters use patterns of framing, parallel sections, thematic symmetry, recurring key terms, verbal echoes, and carefully placed transitions to connect distant parts of the text. These patterns give the composition a strong internal unity that often becomes fully apparent only when the whole composition is examined.
 
 1. **Ring composition** is one striking example: many verses and chapters display tightly balanced chiastic structures in which the beginning and end correspond and the central passage carries special emphasis.
     > This is especially remarkable given that the Qur’an was revealed orally in separate portions over many years, often outside its final order and in response to changing circumstances, rather than composed from beginning to end as a manuscript that could be repeatedly reorganized and revised.
@@ -315,7 +315,7 @@ It also describes features of the natural world with remarkable precision, inclu
 
 {% include yt-embed.html url="https://youtu.be/DoP6Ft-VE70" title="Are there scientific miracles in the Qur'an?" %}
 
-1. **Embryonic development:** the Qur'an gives a striking stage-by-stage description of the development of a human embryo. #TOOD-EDIT The sequence has drawn sustained attention for the precision of its imagery.
+1. **Embryonic development:** the Qur'an gives a striking stage-by-stage description of the development of a human embryo. #TODO-EDIT: The sequence has drawn sustained attention for the precision of its imagery.
     > TODO: Verse
     {% include yt-embed.html url="https://youtu.be/J_Dllu42eEA" title="Qur'an on Embryology - Professor Keith L. Moore" %}
 
