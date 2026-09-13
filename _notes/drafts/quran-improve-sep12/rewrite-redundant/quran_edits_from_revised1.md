@@ -444,71 +444,68 @@ The Qur'an contains bold predictions made in circumstances where their fulfillme
     {: .gloss }
 
 It contains further fulfilled predictions concerning identifiable people and events.
-    > One of the clearest examples is the Byzantine reversal. After the Romans had suffered a devastating defeat, the Qur'an declared that they would in turn be victorious within *biḍʿ sinīn* [three to nine years]. The Byzantine-Sasanian war is independently documented, and the Roman recovery fulfilled the Qur'an's prediction within the stated period.
-    {: .gloss }
+
+1. **The Roman recovery:** after the Romans suffered a devastating defeat, the Qur'an declared that they would in turn be victorious within *biḍʿ sinīn* [three to nine years]. The Byzantine-Sasanian war is independently documented; after catastrophic Byzantine losses, including Jerusalem in 614, Emperor Heraclius reversed the war and forced Persia into settlement by 628. The Roman recovery fulfilled the Qur'an's prediction within the stated period.
     > "The Romans have been defeated in a nearby land. Yet after their defeat they will prevail, within a few years. The command belongs to God before and after, and on that day the believers will rejoice." (**Sūrat al-Rūm 30:2–4**), translation adapted for this page
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿غُلِبَتِ ٱلرُّومُ ۝٢ فِىٓ أَدْنَى ٱلْأَرْضِ وَهُم مِّنۢ بَعْدِ غَلَبِهِمْ سَيَغْلِبُونَ ۝٣ فِى بِضْعِ سِنِينَ ۗ لِلَّهِ ٱلْأَمْرُ مِن قَبْلُ وَمِنۢ بَعْدُ ۚ وَيَوْمَئِذٍۢ يَفْرَحُ ٱلْمُؤْمِنُونَ ۝٤﴾ <span class="ayah-ref">سُورَةُ الرُّومِ</span></div>
     {: .quote }
-    > Further examples include Abu Lahab remaining an opponent until his death despite a chapter publicly condemning him while he was still alive, the promised defeat of the Meccan opposition, the preservation of the Qur'an, its ease of remembrance, and the Muslims' secure return to the Sacred Mosque.
-    {: .gloss }
     > For the independently documented Byzantine recovery, see Walter E. Kaegi, [*Byzantium and the Early Islamic Conquests*, ch. 2](https://www.cambridge.org/core/books/abs/byzantium-and-the-early-islamic-conquests/byzantine-empire-in-an-era-of-accelerating-change/326C4AD3819C9BA745C546C04DD47970), and N. Oikonomidès, ["A Chronological Note on the First Persian Campaign of Heraclius (622)"](https://www.cambridge.org/core/journals/byzantine-and-modern-greek-studies/article/abs/chronological-note-on-the-first-persian-campaign-of-heraclius-622/F7221BA792928B16279D235B3EE4638D).
     {: .src }
 
-1. **The Roman recovery.** The Qur'an says that the Romans, after a severe defeat, would return to victory “within a few years.”
-    > “The Romans have been defeated in a nearby land. Yet following their defeat, they will triumph within three to nine years.” (**Sūrat al-Rūm 30:2–4**), Dr. Mustafa Khattab, *The Clear Quran*
-    {: .quote }
-    > The geopolitical background is independently historical: the Byzantine Empire suffered catastrophic defeats against the Sasanians, including the loss of Jerusalem in 614, before Emperor Heraclius reversed the war and forced Persia into settlement by 628. On the traditional Islamic chronology, the verses were proclaimed before that reversal, making this a striking near-term prediction.
+    > Further examples include Abu Lahab remaining an opponent until his death despite a chapter publicly condemning him while he was still alive, the promised defeat of the Meccan opposition, the preservation of the Qur'an, its ease of remembrance, and the Muslims' secure return to the Sacred Mosque.
     {: .gloss }
+    {: .src }
 
-1. **Safe entry into the Sacred Mosque.** After travelling toward Mecca for pilgrimage and being prevented from entering, the Qur'an stated that the Prophet's ﷺ vision would be fulfilled and that the believers would enter the Sacred Mosque securely, with heads shaved or hair shortened in the rites of pilgrimage. They returned and performed the pilgrimage the following year.
+1. **Safe entry into the Sacred Mosque:** after the Muslims travelled toward Mecca for pilgrimage and were prevented from entering, the Qur'an stated that the Prophet's ﷺ vision would be fulfilled and that the believers would enter the Sacred Mosque securely, with heads shaved or hair shortened as part of the pilgrimage rites. *They returned and performed the pilgrimage the following year.*
     > “Indeed, God will fulfil His Messenger's vision in all truth: God willing, you will surely enter the Sacred Mosque, in security...” (**Sūrat al-Fatḥ 48:27**), Dr. Mustafa Khattab, *The Clear Quran*
     {: .quote }
     > It was fulfilled the following year when the Muslims entered Mecca and completed the pilgrimage rites in security.
     {: .gloss }
 
-1. Ḥudaybiyyah itself is called a “clear victory” before its consequences were obvious.
-    > The treaty initially appeared disappointing to many Muslims because they had come intending pilgrimage and accepted terms they found difficult. The Qur'an nonetheless opened Sūrat al-Fatḥ by calling the outcome a clear victory. The treaty's subsequent consequences strongly favored the Muslim community.
-    {: .gloss }
+1. **The treaty of Ḥudaybiyyah was called a "clear victory" before its consequences were obvious.** The treaty initially appeared disappointing to many Muslims because they had come intending pilgrimage and accepted terms they found difficult. The Qur'an nonetheless opened Sūrat al-Fatḥ by calling the outcome a clear victory. *The treaty's subsequent consequences strongly favored the Muslim community.*
 
-1. It foretells the fate of Abū Lahab, one of the Prophet's fiercest enemies.
-    > Sūrat al-Masad condemned Abū Lahab while he was still alive and publicly opposing the Prophet ﷺ. He had years in which an outward profession of faith could have been used to mock the revelation's claim, yet he died as an enemy of Islam exactly as the chapter declared.
-    {: .gloss }
+1. **The fate of Abū Lahab:** Sūrat al-Masad condemned one of the Prophet's fiercest enemies while he was still alive and publicly opposing him. He had years in which an outward profession of faith could have been used to mock the revelation's claim, yet *he died as an enemy of Islam exactly as the chapter declared.*
 
-    {% include yt-embed.html url="https://youtu.be/xZIqd_-1Zus" title="Mind Blowing Prophecies of Muhammad | Part 1" %}
+{% include yt-embed.html url="https://youtu.be/xZIqd_-1Zus" title="Mind Blowing Prophecies of Muhammad | Part 1" %}
 
-    {% include yt-embed.html url="https://youtu.be/Q1epfvZ04DQ" title="Mind Blowing Prophecies of Muhammad | Part 2" %}
+{% include yt-embed.html url="https://youtu.be/Q1epfvZ04DQ" title="Mind Blowing Prophecies of Muhammad | Part 2" %}
 
-    {% include yt-embed.html url="https://youtu.be/0PX2t0Baq8U" title="Undeniable Predictions in the Quran || Mohammed Hijab" %}
+{% include yt-embed.html url="https://youtu.be/0PX2t0Baq8U" title="Undeniable Predictions in the Quran || Mohammed Hijab" %}
 
-    {% include yt-embed.html url="https://youtu.be/ezvPEwizqRc" title="Shocking Predictions in the Sunnah || Mohammed Hijab" %}
+{% include yt-embed.html url="https://youtu.be/ezvPEwizqRc" title="Shocking Predictions in the Sunnah || Mohammed Hijab" %}
 
 ### <span class="num-roman">X.</span> Guidance, Law, and Morality
 {: #guidance-law-and-morality }
 
-1. It presents itself as coming from the same Divine Author as the earlier scriptures. It confirms their original teaching, expands their guidance, and restores what was altered over time.
-    > Note: "Allah" means God in Arabic; it is not the name of a distinct or separate deity. Arab Christians and Jews use the same word for God in their own scriptures and worship. It also shares a root with the Hebrew *Elohim* and Aramaic *Alaha*, which Jesus himself would have used.
+1. It presents itself as coming from the same Divine Author as the earlier scriptures: confirming their original teaching, expanding their guidance, and restoring what was altered over time.
+    > Note: "Allah" is the Arabic word for God, not the name of a different deity. Arabic-speaking Christians and Jews use the same word for God in their own scriptures and worship. It also shares a root with the Hebrew *Elohim* and Aramaic *Alaha*, which Jesus himself would have used.
     {: .gloss }
 
-1. It names mercy as God's defining attribute. Every chapter but one opens with the invocation, **"In the name of God, the Most Compassionate, the Most Merciful."** Muslims are taught to say these words before beginning their actions, so mercy frames not only the Qur'an but the rhythm of everyday life.
+1. The Qur'an repeatedly presents mercy as a defining attribute of God. Every chapter but one opens with the invocation, **"In the name of God, the Most Compassionate, the Most Merciful."** Muslims are taught to say these words before beginning their actions, so mercy frames not only the Qur'an but the rhythm of everyday life.
+
     > "My mercy encompasses all things." (**Sūrat al-Aʿrāf 7:156**), Saheeh International
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَرَحْمَتِى وَسِعَتْ كُلَّ شَىْءٍ﴾ <span class="ayah-ref">[سُورَةُ الأَعۡرَافِ: ١٥٦]</span></div>
     {: .quote }
 
-1. It holds forgiveness open for every sin, no matter how far a person has gone, and instructs people never to despair of God's mercy.
+
+1. The Qur'an keeps forgiveness open for every sin, no matter how far a person has gone, and tells people never to despair of God's mercy.
+
     > "Say, 'O My servants who have transgressed against themselves [by sinning], do not despair of the mercy of Allāh. Indeed, Allāh forgives all sins. Indeed, it is He who is the Forgiving, the Merciful.'" (**Sūrat al-Zumar 39:53**), Saheeh International
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿۞ قُلْ يَـٰعِبَادِىَ ٱلَّذِينَ أَسْرَفُوا۟ عَلَىٰٓ أَنفُسِهِمْ لَا تَقْنَطُوا۟ مِن رَّحْمَةِ ٱللَّهِ ۚ إِنَّ ٱللَّهَ يَغْفِرُ ٱلذُّنُوبَ جَمِيعًا ۚ إِنَّهُۥ هُوَ ٱلْغَفُورُ ٱلرَّحِيمُ ۝٥٣﴾ <span class="ayah-ref">سُورَةُ الزُّمَرِ</span></div>
     {: .quote }
 
-1. It attaches no inherited guilt to anyone. Nobody is born owing a debt, and no soul carries another's burden.
+
+1. The Qur'an rejects inherited guilt: nobody is born owing another person's moral debt, and no soul bears another's burden.
+
     > "That no bearer of burdens will bear the burden of another. And that there is not for man except that [good] for which he strives." (**Sūrat al-Najm 53:38-39**), Saheeh International
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿أَلَّا تَزِرُ وَازِرَةٌ وِزْرَ أُخْرَىٰ ۝٣٨ وَأَن لَّيْسَ لِلْإِنسَـٰنِ إِلَّا مَا سَعَىٰ ۝٣٩﴾ <span class="ayah-ref">سُورَةُ النَّجۡمِ</span></div>
     {: .quote }
 
-1. It emphasizes genuine character over hollow ritual: worship that leaves a person cruel is rejected outright, while a person who turns away the orphan and does not feed the poor is described as denying the religion itself.
+1. It emphasizes genuine character over hollow ritual: worship that leaves a person cruel is rejected.
     > "Righteousness is not in turning your faces towards the east or the west. Rather, the righteous are those who believe in Allah, the Last Day, the angels, the Books, and the prophets; who give charity out of their cherished wealth to relatives, orphans, the poor, ˹needy˺ travellers, beggars, and for freeing captives; who establish prayer, pay alms-tax, and keep the pledges they make; and who are patient in times of suffering, adversity, and in ˹the heat of˺ battle. It is they who are true ˹in faith˺, and it is they who are mindful ˹of Allah˺." (**Sūrat al-Baqarah 2:177**), Dr. Mustafa Khattab, *The Clear Quran*
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿۞ لَّيْسَ ٱلْبِرَّ أَن تُوَلُّوا۟ وُجُوهَكُمْ قِبَلَ ٱلْمَشْرِقِ وَٱلْمَغْرِبِ وَلَـٰكِنَّ ٱلْبِرَّ مَنْ ءَامَنَ بِٱللَّهِ وَٱلْيَوْمِ ٱلْـَٔاخِرِ وَٱلْمَلَـٰٓئِكَةِ وَٱلْكِتَـٰبِ وَٱلنَّبِيِّـۧنَ وَءَاتَى ٱلْمَالَ عَلَىٰ حُبِّهِۦ ذَوِى ٱلْقُرْبَىٰ وَٱلْيَتَـٰمَىٰ وَٱلْمَسَـٰكِينَ وَٱبْنَ ٱلسَّبِيلِ وَٱلسَّآئِلِينَ وَفِى ٱلرِّقَابِ وَأَقَامَ ٱلصَّلَوٰةَ وَءَاتَى ٱلزَّكَوٰةَ وَٱلْمُوفُونَ بِعَهْدِهِمْ إِذَا عَـٰهَدُوا۟ ۖ وَٱلصَّـٰبِرِينَ فِى ٱلْبَأْسَآءِ وَٱلضَّرَّآءِ وَحِينَ ٱلْبَأْسِ ۗ أُو۟لَـٰٓئِكَ ٱلَّذِينَ صَدَقُوا۟ ۖ وَأُو۟لَـٰٓئِكَ هُمُ ٱلْمُتَّقُونَ ۝١٧٧﴾ <span class="ayah-ref">سُورَةُ البَقَرَةِ</span></div>
@@ -516,21 +513,22 @@ It contains further fulfilled predictions concerning identifiable people and eve
     <details class="quran-more" markdown="1">
     <summary>Show another verse on this theme</summary>
 
+1. It commands honesty, keeping one's word, humility, patience, and restraint in anger, while forbidding backbiting, mockery, contempt, and suspicion of others.
+
+1. Care for others—especially the weak and dependent—is treated as a duty across relationships: spouses, children, parents in old age, relatives, orphans, the poor, travellers, debtors, captives, servants, and those in one's charge.
+
+1. It makes the poor's share of wealth an obligation rather than a favour. Alms are a due; debts are to be forgiven when the debtor cannot pay; interest is banned; and charity followed by humiliation is worthless.
+    > "And in their wealth there was a rightful share ˹fulfilled˺ for the beggar and the poor." (**Sūrat al-Dhāriyāt 51:19**), Dr. Mustafa Khattab, *The Clear Quran*
+    >
+    > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَفِىٓ أَمْوَٰلِهِمْ حَقٌّ لِّلسَّآئِلِ وَٱلْمَحْرُومِ ۝١٩﴾ <span class="ayah-ref">سُورَةُ الذَّارِيَاتِ</span></div>
+    {: .quote }
+
+1. It equates neglect of the orphan and poor as rejection of the religion itself.
     > "Have you seen the one who denies the ˹final˺ Judgment? That is the one who repulses the orphan and does not encourage the feeding of the poor." (**Sūrat al-Māʿūn 107:1-3**), Dr. Mustafa Khattab, *The Clear Quran*
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿أَرَءَيْتَ ٱلَّذِى يُكَذِّبُ بِٱلدِّينِ ۝١ فَذَٰلِكَ ٱلَّذِى يَدُعُّ ٱلْيَتِيمَ ۝٢ وَلَا يَحُضُّ عَلَىٰ طَعَامِ ٱلْمِسْكِينِ ۝٣﴾ <span class="ayah-ref">سُورَةُ المَاعُونِ</span></div>
     {: .quote }
     </details>
-
-1. It commands honesty, keeping your word, humility, patience, and restraint in anger, while explicitly forbidding backbiting, mockery, contempt, and suspicion of others.
-
-1. It treats care for others, especially the weak and dependent, as a duty across relationships: husband and wife, children, parents in old age, relatives, orphans, the poor, the traveller, the debtor, captives, servants, and those in your charge.
-
-1. It makes the poor's share of your wealth an obligation, not a favour. Alms are a due; debts are to be forgiven when the debtor cannot pay; interest is banned; and charity followed by humiliation is worthless.
-    > "And in their wealth there was a rightful share ˹fulfilled˺ for the beggar and the poor." (**Sūrat al-Dhāriyāt 51:19**), Dr. Mustafa Khattab, *The Clear Quran*
-    >
-    > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَفِىٓ أَمْوَٰلِهِمْ حَقٌّ لِّلسَّآئِلِ وَٱلْمَحْرُومِ ۝١٩﴾ <span class="ayah-ref">سُورَةُ الذَّارِيَاتِ</span></div>
-    {: .quote }
 
 1. It treats one life as standing for all of humanity: to kill a person unjustly is as though one had killed everyone, and to save one is as though one had saved everyone.
     > "That is why We ordained for the Children of Israel that whoever takes a life—unless as a punishment for murder or mischief in the land—it will be as if they killed all of humanity; and whoever saves a life, it will be as if they saved all of humanity." (**Sūrat al-Māʼidah 5:32**), Dr. Mustafa Khattab, *The Clear Quran*
@@ -538,7 +536,7 @@ It contains further fulfilled predictions concerning identifiable people and eve
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿مِنْ أَجْلِ ذَٰلِكَ كَتَبْنَا عَلَىٰ بَنِىٓ إِسْرَٰٓءِيلَ أَنَّهُۥ مَن قَتَلَ نَفْسًۢا بِغَيْرِ نَفْسٍ أَوْ فَسَادٍ فِى ٱلْأَرْضِ فَكَأَنَّمَا قَتَلَ ٱلنَّاسَ جَمِيعًا وَمَنْ أَحْيَاهَا فَكَأَنَّمَآ أَحْيَا ٱلنَّاسَ جَمِيعًا﴾ <span class="ayah-ref">[سُورَةُ المَائـِدَةِ: ٣٢]</span></div>
     {: .quote }
 
-1. It requires justice in all circumstances, even toward people you hate. Testimony must be given even against yourself, your parents, and your own tribe.
+1. It requires justice even when justice runs against one's own interests or feelings: hatred of another people cannot justify wrongdoing, and testimony must be given even against oneself, one's parents, close relatives, or one's own people.
     > "O believers! Stand firm for Allah and bear true testimony. Do not let the hatred of a people lead you to injustice. Be just! That is closer to righteousness." (**Sūrat al-Māʼidah 5:8**), Dr. Mustafa Khattab, *The Clear Quran*
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ كُونُوا۟ قَوَّٰمِينَ لِلَّهِ شُهَدَآءَ بِٱلْقِسْطِ ۖ وَلَا يَجْرِمَنَّكُمْ شَنَـَٔانُ قَوْمٍ عَلَىٰٓ أَلَّا تَعْدِلُوا۟ ۚ ٱعْدِلُوا۟ هُوَ أَقْرَبُ لِلتَّقْوَىٰ ۖ وَٱتَّقُوا۟ ٱللَّهَ ۚ إِنَّ ٱللَّهَ خَبِيرٌۢ بِمَا تَعْمَلُونَ ۝٨﴾ <span class="ayah-ref">سُورَةُ المَائـِدَةِ</span></div>
@@ -552,7 +550,7 @@ It contains further fulfilled predictions concerning identifiable people and eve
     {: .quote }
     </details>
 
-1. It places forgiveness above retaliation. A person may respond to a wrong in equal measure, but no further; forgiveness is presented as the better path, with the higher aim of turning hostility into friendship.
+1. It places forgiveness and reconciliation above retaliation. A person is permitted to respond to a wrong in equal measure, but no further, while forgiveness is presented as the better path, with the higher aim of turning hostility into friendship.
     > "The reward of an evil deed is its equivalent. But whoever pardons and seeks reconciliation, then their reward is with Allah. He certainly does not like the wrongdoers." (**Sūrat al-Shūrā 42:40**), Dr. Mustafa Khattab, *The Clear Quran*
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَجَزَٰٓؤُا۟ سَيِّئَةٍ سَيِّئَةٌ مِّثْلُهَا ۖ فَمَنْ عَفَا وَأَصْلَحَ فَأَجْرُهُۥ عَلَى ٱللَّهِ ۚ إِنَّهُۥ لَا يُحِبُّ ٱلظَّـٰلِمِينَ ۝٤٠﴾ <span class="ayah-ref">سُورَةُ الشُّورَىٰ</span></div>
@@ -566,13 +564,15 @@ It contains further fulfilled predictions concerning identifiable people and eve
     {: .quote }
     </details>
 
-1. It measures a person by conduct alone. Ancestry, tribe, wealth, gender, and colour are set aside; the most honourable is the one most conscious of God.
+1. It rejects status based on ancestry, tribe, wealth, gender, or colour as a measure of worth before God. The measure of a person is character and conduct alone; the most honourable people are those most conscious of God.
     > "O humanity! Indeed, We created you from a male and a female, and made you into peoples and tribes so that you may ˹get to˺ know one another. Surely the most noble of you in the sight of Allah is the most righteous among you. Allah is truly All-Knowing, All-Aware." (**Sūrat al-Ḥujurāt 49:13**), Dr. Mustafa Khattab, *The Clear Quran*
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿يَـٰٓأَيُّهَا ٱلنَّاسُ إِنَّا خَلَقْنَـٰكُم مِّن ذَكَرٍ وَأُنثَىٰ وَجَعَلْنَـٰكُمْ شُعُوبًا وَقَبَآئِلَ لِتَعَارَفُوٓا۟ ۚ إِنَّ أَكْرَمَكُمْ عِندَ ٱللَّهِ أَتْقَىٰكُمْ ۚ إِنَّ ٱللَّهَ عَلِيمٌ خَبِيرٌ ۝١٣﴾ <span class="ayah-ref">سُورَةُ الحُجُرَاتِ</span></div>
     {: .quote }
 
-1. It does not demand more than a person can bear. Religious obligations are not meant to impose undue hardship: there is no monasticism or celibacy, and duties are eased or lifted in cases of hardship, illness, travel, and coercion.
+
+1. It does not demand more than a person can bear. Religious obligations are not intended to impose undue hardship: there is no monasticism or celibacy, and duties are eased or lifted in cases of hardship, illness, travel, and coercion.
+
     > "Allah does not require of any soul more than what it can afford." (**Sūrat al-Baqarah 2:286**), Dr. Mustafa Khattab, *The Clear Quran*
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿لَا يُكَلِّفُ ٱللَّهُ نَفْسًا إِلَّا وُسْعَهَا﴾ <span class="ayah-ref">[سُورَةُ البَقَرَةِ: ٢٨٦]</span></div>
@@ -582,7 +582,7 @@ It contains further fulfilled predictions concerning identifiable people and eve
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَمَا جَعَلَ عَلَيْكُمْ فِى ٱلدِّينِ مِنْ حَرَجٍ﴾ <span class="ayah-ref">[سُورَةُ الحَجِّ: ٧٨]</span></div>
     {: .quote }
 
-1. It rejects compulsion in religion. Rather than demanding belief by force, the Qur'an repeatedly calls people to look, question, reason, reflect, and contemplate God's signs with both the mind and the heart.
+1. It rejects compulsion in religion. Rather than demanding belief by force, the Qur'an repeatedly calls people to look, question, reason, reflect, and contemplate God's signs with both mind and heart.
     > "Let there be no compulsion in religion, for the truth stands out clearly from falsehood. So whoever renounces false gods and believes in Allah has certainly grasped the firmest, unfailing hand-hold. And Allah is All-Hearing, All-Knowing." (**Sūrat al-Baqarah 2:256**), Dr. Mustafa Khattab, *The Clear Quran*
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿لَآ إِكْرَاهَ فِى ٱلدِّينِ ۖ قَد تَّبَيَّنَ ٱلرُّشْدُ مِنَ ٱلْغَىِّ ۚ فَمَن يَكْفُرْ بِٱلطَّـٰغُوتِ وَيُؤْمِنۢ بِٱللَّهِ فَقَدِ ٱسْتَمْسَكَ بِٱلْعُرْوَةِ ٱلْوُثْقَىٰ لَا ٱنفِصَامَ لَهَا ۗ وَٱللَّهُ سَمِيعٌ عَلِيمٌ ۝٢٥٦﴾ <span class="ayah-ref">سُورَةُ البَقَرَةِ</span></div>
@@ -600,18 +600,18 @@ It contains further fulfilled predictions concerning identifiable people and eve
     {: .quote }
     </details>
 
-1. It anchors morality in accountability before God, both seen and unseen. A person may think they have escaped the consequences of wrongdoing because no immediate outward punishment follows, but the Qur'an presents actions as having real consequences in the hidden spiritual order of this life as well as in the next. Unless a person turns back to God and sets things right, what they do ultimately returns to them in one form or another. If they do repent, however, their evil deeds will be transformed into good ones.
+1. It anchors morality in accountability before God, both seen and unseen. A person may think they have escaped the consequences of wrongdoing because no immediate outward punishment follows, but the Qur'an presents actions as having real consequences in the hidden spiritual order of this life as well as in the next. Unless a person turns back to God and sets things right, what they do ultimately returns to them in one form or another. Repentance, however, completely wipes sins away, and even turns evil deeds into good ones.
     > "So whoever does an atom's weight of good will see it. And whoever does an atom's weight of evil will see it." (**Sūrat al-Zalzalah 99:7-8**), Dr. Mustafa Khattab, *The Clear Quran*
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿فَمَن يَعْمَلْ مِثْقَالَ ذَرَّةٍ خَيْرًا يَرَهُۥ ۝٧ وَمَن يَعْمَلْ مِثْقَالَ ذَرَّةٍ شَرًّا يَرَهُۥ ۝٨﴾ <span class="ayah-ref">سُورَةُ الزَّلۡزَلَةِ</span></div>
     {: .quote }
-    <details class="quran-more" markdown="1">
-    <summary>Show more verses on this theme</summary>
 
     > "Corruption has spread on land and sea as a result of what people’s hands have done, so that Allah may cause them to taste ˹the consequences of˺ some of their deeds and perhaps they might return ˹to the Right Path˺." (**Sūrat al-Rūm 30:41**), Dr. Mustafa Khattab, *The Clear Quran*
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿ظَهَرَ ٱلْفَسَادُ فِى ٱلْبَرِّ وَٱلْبَحْرِ بِمَا كَسَبَتْ أَيْدِى ٱلنَّاسِ لِيُذِيقَهُم بَعْضَ ٱلَّذِى عَمِلُوا۟ لَعَلَّهُمْ يَرْجِعُونَ ۝٤١﴾ <span class="ayah-ref">سُورَةُ الرُّومِ</span></div>
     {: .quote }
+    <details class="quran-more" markdown="1">
+    <summary>Show more verses on this theme</summary>
     > "But no! In fact, their hearts have been stained by all ˹the evil˺ they used to commit." (**Sūrat al-Muṭaffifīn 83:14**), Dr. Mustafa Khattab, *The Clear Quran*
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿كَلَّا ۖ بَلْ ۜ رَانَ عَلَىٰ قُلُوبِهِم مَّا كَانُوا۟ يَكْسِبُونَ ۝١٤﴾ <span class="ayah-ref">سُورَةُ المُطَفِّفِينَ</span></div>
@@ -626,23 +626,20 @@ It contains further fulfilled predictions concerning identifiable people and eve
     {: .quote }
     </details>
 
-1. It provides a complete moral and legal framework that holds justice and mercy in balance and guided a flourishing civilization for centuries.
-
 1. Its breadth of subject and universal scope are remarkable: theology, worship, ethics, law, family life, economics, social justice, war and peace, history, human character, nature, and the afterlife are woven into a single worldview. It addresses the individual, family, society, and humanity as a whole, rather than one tribe, class, place, or era.
 
-1. Its guidance and the lessons in its stories remain directly applicable: what it addressed to seventh-century Arabs still addresses readers today.
-
-1. These points offer only a glimpse of the Qur'an's guidance. The [evidence on his teachings](/messenger#teachings) gives more comprehensive examples of the moral teachings of the Qur'an and Prophet Muhammad ﷺ.
+1. These points give only a glimpse of the Qur'an's guidance. The [evidence on his teachings](/messenger#teachings) gives more comprehensive examples from the Qur'an and the teachnings of Prophet Muhammad ﷺ.
 
 ### <span class="num-roman">XI.</span> Historical Impact and Transformation
 {: #historical-impact-and-transformation }
 
-1. The vast majority of Arabs accepted it within a single generation, including tribes that had fought hardest to suppress it.
-
-1. It has shaped the lives of billions across fourteen centuries, and two billion Muslims today accept it as scripture.
+1. Within a single generation, the vast majority of Arabs accepted it, including tribes that had fought hardest to suppress it.
+1. It has shaped the lives of billions across fourteen centuries. Around two billion Muslims today accept it as scripture.
     > *Pew Research Center*, June 2025: the global Muslim population grew from
 1.7 billion in 2010 to 2.0 billion in 2020, reaching 26% of the world's population.
     {: .src }
+
+1. Taken together, the Qur'an's teachings form a complete moral and legal framework that holds justice and mercy in balance and historically guided a flourishing civilization. Its guidance remains directly applicable: what it addressed to seventh-century Arabs still addresses readers today.
 
 1. It gave rise to the second-largest religion on earth, after Christianity—its own predecessor—and the fastest-growing of the major religions.
     > *Pew Research Center* projects that Muslims and Christians will approach numerical parity by 2050, at roughly 2.8 billion and 2.9 billion respectively.
@@ -663,7 +660,7 @@ It contains further fulfilled predictions concerning identifiable people and eve
 
 The relationship between the Qur'an and the Messenger ﷺ is itself one of the clearest signs that he was transmitting a revelation rather than composing a book of his own.
 
-1. The Qur'an repeatedly presents Muhammad ﷺ as subject to the revelation rather than in control of it.
+1. The Qur'an repeatedly presents Prophet Muhammad ﷺ as subject to the revelation rather than in control of it.
     > “When Our clear revelations are recited to them, those who do not expect to meet Us say ˹to the Prophet˺, ‘Bring us a different Qur'an or make some changes in it.’ Say, ‘It is not for me to change it on my own. I only follow what is revealed to me.’” (**Sūrat Yūnus 10:15**), Dr. Mustafa Khattab, *The Clear Quran*
     {: .quote }
 
@@ -688,12 +685,6 @@ The relationship between the Qur'an and the Messenger ﷺ is itself one of the c
 1. Personal events enter the text but are repeatedly universalized.
     > The Qur'an consoles the Prophet ﷺ, addresses his household, responds to accusations, and comments on political and military crises. The remarkable feature is therefore not that his circumstances leave no trace. It is that personal and contingent events are repeatedly reframed into principles meant to outlive the event that triggered them.
     {: .gloss }
-
-1. His ordinary reported speech and the Qur'an are stylistically distinguishable.
-    > Computational stylometry has found strong statistical differences between Qur'anic language and the Prophet's ﷺ reported speech, reinforcing what Arabic readers have long recognized: the voice and linguistic profile of the Qur'an are distinct from his ordinary manner of speaking.
-    {: .gloss }
-    > Halim Sayoud, [“Author discrimination between the Holy Quran and Prophet's statements”](https://doi.org/10.1093/llc/fqs014), *Literary and Linguistic Computing* 27.4 (2012), 427–444.
-    {: .src }
 
 ### <span class="num-roman">XIII.</span> The Cumulative Case
 {: #quran-cumulative-case }
