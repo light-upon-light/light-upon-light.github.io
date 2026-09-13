@@ -826,7 +826,114 @@ The relationship between the Qur'an and the Messenger ﷺ is itself one of the c
     > The Qur'an consoles the Prophet ﷺ, addresses his household, responds to accusations, and comments on political and military crises. The remarkable feature is therefore not that his circumstances leave no trace. It is that personal and contingent events are repeatedly reframed into principles meant to outlive the event that triggered them.
     {: .gloss }
 
-### <span class="num-roman">XIII.</span> The Cumulative Case
+### <span class="num-roman">XIII.</span> What Non-Muslim Scholars and Writers Have Said
+
+The Qur'an's extraordinary character has not been recognized only by Muslims. Arabists, translators, historians, Christian scholars, and major European literary figures who approached the Qur'an from outside the Muslim tradition have repeatedly remarked on its unique literary form, rhetorical power, beauty, influence, and resistance to translation. Their judgments are especially striking because many of these writers did not accept the Qur'an's claim to divine revelation, and some were openly critical of Islam in other respects.
+
+1. **E. H. Palmer**, Cambridge Arabist and translator of the Qur'an for Oxford's *Sacred Books of the East*, wrote that:
+
+   > “the best of Arab writers has never succeeded in producing anything equal in merit to the Qur'an itself”
+
+   Palmer argued that later attempts at the Qur'anic style appeared laboured beside its spontaneous force. Elsewhere in the same introduction he described early Qur'anic passages as “curt, grand, and often almost sublime” and its language as universally acknowledged as a highly perfected form of Arabic speech.
+
+   > E. H. Palmer, trans., *The Qur'ân*, *Sacred Books of the East*, vols. 6 and 9, Oxford: Clarendon Press, 1880, Introduction.
+   > {: .src }
+
+2. **George Sale**, whose 1734 English translation remained enormously influential in Europe for generations, wrote despite his explicitly Christian criticism of Islam:
+
+   > “The style of the Korân is generally beautiful and fluent”
+
+   and described passages concerning God's majesty and attributes as **“sublime and magnificent.”** He further observed that the Qur'an's harmony of expression and rhetorical power helped account for the extraordinary effect it produced upon its first hearers.
+
+   > George Sale, *The Koran, Commonly Called the Alcoran of Mohammed*, 1734, Preliminary Discourse, §III.
+   > {: .src }
+
+3. **H. A. R. Gibb**, one of the twentieth century's leading Western scholars of Arabic and Islam, wrote:
+
+   > “As a literary monument the Koran thus stands by itself”
+
+   calling it a production **unique in Arabic literature**, without a predecessor or successor in its particular idiom. He also emphasized the extraordinary freedom and originality with which Qur'anic rhetoric exploits the resources of Arabic syntax.
+
+   > H. A. R. Gibb, *Arabic Literature: An Introduction*, Oxford: Clarendon Press, 1963, p. 36.
+   > {: .src }
+
+4. **Arthur J. Arberry**, Cambridge professor of Arabic and one of the most respected English translators of the Qur'an, said that its rhythms establish its:
+
+   > “undeniable claim to rank amongst the greatest literary masterpieces of mankind.”
+
+   Arberry deliberately structured his translation around the Qur'an's changing rhythms because he believed previous translations had failed to convey the rhetorical character of the Arabic original. Oxford University Press describes the Qur'an in connection with his translation as the **“supreme classic of Arabic literature”** and “a unique fusion” of prose and poetry.
+
+   > Arthur J. Arberry, *The Koran Interpreted*, Introduction, 1955.
+   > {: .src }
+
+5. **Alfred Guillaume**, Christian Arabist and professor of Arabic and Islamic studies, wrote that the Qur'an:
+
+   > “has a rhythm of peculiar beauty and a cadence that charms the ear.”
+
+   He noted the admiration of Christian Arabs for its style and the widespread recognition of its excellence among Arabists, concluding that within the vast literature of Arabic there is **“nothing to compare with it.”**
+
+   > Alfred Guillaume, *Islam*, Penguin Books, 1954, pp. 73–74.
+   > {: .src }
+
+6. **John Alden Williams**, professor of religion and a specialist in Islamic civilization, was equally emphatic about what is lost outside the Arabic original. He wrote:
+
+   > “no translation, however faithful to the meaning, has ever been fully successful.”
+
+   He described Qur'anic Arabic as, by turns, **“striking, soaring, vivid, terrible, tender and breathtaking.”** This is precisely why literary judgments based only on an English rendering can miss much of what Arabic readers are evaluating.
+
+   > John Alden Williams, *Islam*, George Braziller.
+   > {: .src }
+
+7. **Neal Robinson**, Qur'anic scholar and Anglican priest, has devoted extensive study to features once dismissed by some Western critics as irregularities. Examining the Qur'an's abrupt shifts of grammatical person and perspective, he concluded that they:
+
+   > “are a very effective rhetorical device.”
+
+   His broader structural analysis likewise argues that apparently non-linear passages can form a **forceful cumulative argument**, reinforced by recurring rhythm and rhyme.
+
+   > Neal Robinson, *Discovering the Qur'an: A Contemporary Approach to a Veiled Text*, 2nd ed., Georgetown University Press, 2003.
+   > {: .src }
+
+8. **Émile Dermenghem**, the French historian and biographer of Prophet Muhammad ﷺ, drew particular attention to the effect of Qur'anic recitation. In the English translation of *The Life of Mahomet*, he is cited describing:
+
+   > “Its literary beauty, its irradiation, an enigma even today”
+
+   and remarking on its power to produce religious fervour even in people who are otherwise not especially devout.
+
+   > Émile Dermenghem, *The Life of Mahomet*, trans. Arabella Yorke, London: George Routledge, 1930, p. 249.
+   > {: .src }
+
+9. **Edward Gibbon**, the great Enlightenment historian and a famously skeptical critic of organized religion, nevertheless wrote in *The History of the Decline and Fall of the Roman Empire*:
+
+   > “the Koran is a glorious testimony to the unity of God.”
+
+   He particularly admired the uncompromising conception of one eternal and transcendent Creator that runs throughout it.
+
+   > Edward Gibbon, *The History of the Decline and Fall of the Roman Empire*, ch. 50.
+   > {: .src }
+
+10. **Thomas Carlyle** is an especially revealing case because he did **not** enjoy reading Sale's English translation of the Qur'an and criticized it harshly. Yet after working through it, he still concluded:
+
+    > “Sincerity, in all senses, seems to me the merit of the Koran”
+
+    and acknowledged within it **“a vein of true direct insight”** approaching poetry. Carlyle's reluctant concession is arguably more significant than uncomplicated praise: despite his aversion to the translated literary form, he found something powerful and genuine running through the text.
+
+    > Thomas Carlyle, *On Heroes, Hero-Worship, and the Heroic in History*, Lecture II, “The Hero as Prophet,” 1841.
+    > {: .src }
+
+11. **Johann Wolfgang von Goethe**, one of the greatest figures in German literature, studied the Qur'an repeatedly and had a complex attitude toward it. Although he criticized its repetitions, he also described its style as:
+
+    > “stern, grand, terrible ... truly sublime”
+
+    and wrote that repeated engagement with the book moves the reader from resistance to astonishment and ultimately reverence. He predicted that the Qur'an would continue exercising a powerful influence through the ages.
+
+    > Johann Wolfgang von Goethe, *Notes and Essays for a Better Understanding of the West-Eastern Divan*, 1819.
+    > {: .src }
+
+The significance of these testimonies is that qualities central to the Muslim claim about the Qur'an have repeatedly forced themselves upon readers who did **not** begin from that belief. Across very different periods and intellectual backgrounds, outside observers have independently remarked upon its unique place in Arabic literature, its rhythm and rhetorical force, its unusual effect when recited, the difficulty of reproducing it in translation, its powerful proclamation of God's unity, and its extraordinary historical influence.
+
+That agreement is particularly striking because these writers were not simply repeating Muslim devotional language. Sale, Palmer, Gibb, Guillaume, Robinson, Carlyle, Goethe, and others disagreed sharply with Islam on various questions. Yet even criticism repeatedly gave way to acknowledgment that the Qur'an was not an ordinary literary phenomenon.
+
+### <span class="num-roman">XIV.</span> The Cumulative Case
 {: #quran-cumulative-case }
 
 The case for the Qur'an's divine origin rests on the extraordinary convergence of its features. A text publicly proclaimed over a long and turbulent prophetic career:
