@@ -614,7 +614,7 @@ It contains further fulfilled predictions concerning identifiable people and eve
 ### <span class="num-roman">X.</span> Guidance, Law, and Morality
 {: #guidance-law-and-morality }
 
-1. It presents itself as coming from the same Divine Author as the earlier scriptures: confirming their original teaching, expanding their guidance, and restoring what was altered over time.
+1. The Qur'an presents itself as coming from the same Divine Author as the earlier scriptures: confirming their original teaching, expanding their guidance, and restoring what was altered over time.
     > Note: "Allah" is the Arabic word for God, not the name of a different deity. Arabic-speaking Christians and Jews use the same word for God in their own scriptures and worship. It also shares a root with the Hebrew *Elohim* and Aramaic *Alaha*, which Jesus himself would have used.
     {: .gloss }
 
