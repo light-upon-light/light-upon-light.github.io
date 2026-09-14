@@ -806,6 +806,14 @@ The relationship between the Qur'an and the Messenger ﷺ is itself one of the c
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَإِذَا تُتْلَىٰ عَلَيْهِمْ ءَايَاتُنَا بَيِّنَـٰتٍ ۙ قَالَ ٱلَّذِينَ لَا يَرْجُونَ لِقَآءَنَا ٱئْتِ بِقُرْءَانٍ غَيْرِ هَـٰذَآ أَوْ بَدِّلْهُ ۚ قُلْ مَا يَكُونُ لِىٓ أَنْ أُبَدِّلَهُۥ مِن تِلْقَآئِ نَفْسِىٓ ۖ إِنْ أَتَّبِعُ إِلَّا مَا يُوحَىٰٓ إِلَىَّ ۖ إِنِّىٓ أَخَافُ إِنْ عَصَيْتُ رَبِّى عَذَابَ يَوْمٍ عَظِيمٍ ۝١٥﴾ <span class="ayah-ref">سُورَةُ يُونُسَ</span></div>
     {: .quote }
 
+1. Revelation did not come on demand, even when an immediate answer would have greatly helped the Prophet ﷺ.
+   > On one occasion, ʿĀʾishah, the Prophet's ﷺ wife, was falsely accused of adultery after being accidentally left behind by a travelling caravan and later escorted back to Medina by a companion. The accusation spread through the city and caused a severe personal and public crisis. Yet no revelation came clearing her for about a month. The Prophet ﷺ did not produce an answer of his own; he investigated the matter, consulted others, and waited. Only afterward did Qur'an 24:11–20 come publicly declaring the accusation false and defending her innocence.
+   {: .gloss }
+   > On another occasion, Meccan opponents tested the Prophet ﷺ by asking him questions they had obtained from Jewish scholars, including about the Companions of the Cave. He told them he would answer the next day, expecting revelation to come. Instead, revelation was delayed, leaving him unable to answer while his opponents mocked him. When the answer finally came, the Qur'an also corrected him for saying that he would do something the next day without adding “if God wills” (18:23–24).
+   {: .gloss }
+   > In both cases, a man inventing revelation could have produced an immediate answer when delay was damaging him personally and publicly. Instead, he waited until revelation came, even when the delay exposed him to distress, embarrassment, and criticism. The pattern fits his own claim: revelation was something he received, not something he controlled.
+   {: .gloss }
+
 1. It contains an extraordinary threat against the messenger himself were he to fabricate revelation.
     > “Had the Messenger made up something in Our Name, We would have certainly seized him by his right hand, then severed his aorta, and none of you could have shielded him ˹from Us˺!” (**Sūrat al-Ḥāqqah 69:44–47**), Dr. Mustafa Khattab, *The Clear Quran*
     >

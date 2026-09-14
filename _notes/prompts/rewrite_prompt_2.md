@@ -1,5 +1,9 @@
 # Presentation Rewrite Prompts
 
+## Voice / Writing style of the page
+
+Please write it to match the voice and writing style of the rest of the page that is direct, concise, natural, confident and affirmative. Don't write it like it's trying to be dramatic or written for effect.
+
 ## Prompt 1 (best)
 
 The uploaded document is a page in an Islam apologetics website. I fear that it is currently badly written and is not a pleasant, clear and convincing read. And it is quite redundant as I combined ideas from two docs together.
