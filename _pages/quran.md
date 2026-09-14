@@ -86,7 +86,7 @@ The Qur'an presents a remarkable convergence of signs pointing to its divine ori
 
 1. Its revelation unfolded over twenty-three years in separate portions, often in response to unforeseen questions and circumstances: persecution, migration, war, treaties, family disputes, legal questions, theological challenges, internal failures, victories, and defeats. The material was therefore not delivered from beginning to end as a prewritten book.
 
-1. Its final arrangement is not simply chronological. The Prophet ﷺ directed where newly revealed verses and passages belonged within chapters, so material revealed years apart came to form coherent literary and thematic units in the Qur'an as recited today.
+1. The final order of Qur'anic verses is not simply the chronological order of revelation. The Prophet ﷺ directed where newly revealed verses and passages belonged within chapters, so material revealed years apart came to form coherent literary and thematic units in the Qur'an as recited today.
 
 1. The Qur'an did not emerge as a private manuscript that could be repeatedly revised in secret. Revelations were recited publicly, memorized by followers, used in prayer, and written down; the final text therefore emerged under communal observation rather than through an ordinary process of solitary drafting and revision.
     > This is crucial context for everything that follows. Qualities of the Qur'an that may seem impressive on their own become dramatically more so when considered alongside the way it emerged: piecemeal and out of its final order, across 23 years of unpredictable circumstances, without revision or retraction, through public oral recitation from a man who could not read or write.
