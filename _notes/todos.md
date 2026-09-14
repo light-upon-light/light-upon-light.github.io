@@ -3,8 +3,6 @@
 general:
 
 - review the details sections bec rn it looks a bit weird
-- fix quran quotations in natural world section
-- fix between points and the quotations below them. keep a consistent standard (probably putting a space is better for readability)
 - make 19 numerical pattern stronger from linked video and link the video again under that point
 - Add striking and extremely accurate historical details examples
 
@@ -41,6 +39,7 @@ quran:
 messenger:
 
 - add something in the second paragraph about the prophet's unmatched character and moral conduct. also about him being one of the most influential humans in history
+- add and expand on similar sections of quran: historical knowledge, natural knowledge, predictions.
 - ideas in file
 
 ---
