@@ -1013,22 +1013,27 @@ That agreement is particularly striking because these writers were not simply re
 ### <span class="num-roman">XIV.</span> The Cumulative Case
 {: #quran-cumulative-case }
 
-The case for the Qur'an's divine origin rests on the extraordinary convergence of its features. A text publicly proclaimed over a long and turbulent prophetic career:
+The case for the Qur'an's divine origin rests on the extraordinary convergence of its features under the conditions in which the Qur'an emerged. It was recited publicly, piecemeal, and often outside its final order over twenty-three years, through a man who could neither read nor write and had no prior literary career, while responding to events he could not control. Yet the completed text:
 
-- develops a highly distinctive and analyzable literary discourse;
-- repeatedly integrates sound, syntax, structure, narrative, and meaning;
-- reshapes repeated stories according to local rhetorical goals;
-- openly argues with its opponents and invites scrutiny;
-- repeatedly places its messenger beneath rather than above the revelation;
-- permanently records corrections of that messenger and failures of the first Muslim community;
-- makes historically risky claims about future events;
-- enters the documentary record extremely early;
-- is traceable through overlapping written and oral transmission channels;
-- engages earlier religious traditions while maintaining a distinct theological program;
-- develops a broad moral and epistemic worldview across changing circumstances;
-- and remains a continuously recited and memorized scripture in its original language.
+- sustains a distinctive and recognizable literary voice across more than 600 pages of recited text;
+- combines syntax, sound, rhetoric, semantic density, narrative, and guidance with remarkable precision;
+- displays intricate local and large-scale composition, including framing, symmetry, verbal echoes, thematic correspondences, and ring structures across material revealed years apart;
+- retells the same events with deliberate variation, reshaping details and emphasis to serve the argument of each chapter;
+- openly challenges its opponents to rival it and has retained an unmatched place in Arabic literary history;
+- repeatedly argues from reason, demands evidence, invites scrutiny, and preserves the objections of its first opponents inside the text itself;
+- engages earlier scriptures and sacred history with an independent voice while preserving striking historical and cross-linguistic details;
+- describes features of the natural world with a precision that remains remarkable in its seventh-century setting;
+- makes specific predictions about future events, including the Roman recovery and the Muslims' secure return to the Sacred Mosque, and sees them fulfilled;
+- predicts its own preservation and ease of remembrance, then becomes a scripture transmitted through an extraordinary combination of early manuscripts, a recoverable written archetype, inherited oral readings, public recitation, and mass memorization;
+- maintains a literary voice distinct from the Prophet's ﷺ ordinary speech and repeatedly presents him as subject to the revelation rather than its author;
+- withholds revelation when delay harms him, permanently records corrections of him, and even threatens him were he to fabricate anything in God's name;
+- develops a coherent moral, theological, legal, and spiritual worldview across radically changing circumstances;
+- transforms the society that first received it and continues to shape the lives of around two billion people in its original language;
+- and has compelled even non-Muslim Arabists, translators, historians, and literary figures to acknowledge its unusual form, rhetorical power, and unique place in Arabic literature.
 
-Taken together, these features point overwhelmingly toward the Qur'an's own explanation of itself: that it is revelation from God. Its literary character, knowledge, predictions, moral vision, relationship with the Messenger ﷺ, and extraordinary preservation reinforce one another as parts of one coherent sign.
+These are not separate curiosities. They are features of the same text, delivered by the same man, under the same public conditions. A human-authorship explanation therefore has to account for the whole pattern at once: the Qur'an's mode of emergence, literary and structural achievement, distinct voice, knowledge, predictions, preservation, moral consistency, and its relationship with the Messenger ﷺ.
+
+The Qur'an's own explanation accounts for that convergence directly: it is revelation from God, delivered through Prophet Muhammad ﷺ. Its literary character, structure, knowledge, prophecies, guidance, preservation, and relationship with the Messenger ﷺ reinforce one another as parts of one coherent case.
 
 > “This ˹Qur'an˺ could not have been produced by anyone other than God. In fact, it is a confirmation of what came before and an explanation of the Scripture. It is, without a doubt, from the Lord of all worlds.” (**Sūrat Yūnus 10:37**), Dr. Mustafa Khattab, *The Clear Quran*
 >
