@@ -2,9 +2,6 @@
 
 general:
 
-- add persian back to language list
-- add clear correction of bible historical inaccuracies as refutation for copying from it
-- reorder by strongest
 - add details section in natural, numerical and historical
 
 ---
