@@ -19,6 +19,7 @@ layout: single
 toc: true
 toc_icon: "bars"
 toc_sticky: true
+toc_levels: 1..3
 
 # Keep the whole TOC expanded on mobile rather than collapsing it to a
 # one-line disclosure (the default for every other page). This page's TOC is
