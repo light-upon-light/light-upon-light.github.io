@@ -121,7 +121,10 @@ The Qur'an's literary miracle extends far beyond beauty of expression. Its inimi
     {% include yt-embed.html url="https://youtu.be/OED98p4bpx0" title="ONE WORD Proving the Quran is Allah's Words | Arabic101" %}
 
     </details>
-1. **There was no literary apprenticeship leading up to the Qur'an.** Prophet Muhammad ﷺ was not known as a poet, author, or literary master before revelation. Yet from his first public recitations came a form of Arabic that astonished even his opponents and would come to be regarded as the language's supreme literary achievement. There was no earlier body of work, no gradual development, and no drafting process leading up to it: the Qur'anic voice appears with the revelation itself.
+
+1. Prophet Muhammad ﷺ was not known before revelation as a poet, writer, or literary figure, and had produced no body of literary work. Yet the Qur'an he began reciting publicly came to be regarded as the highest standard of Arabic eloquence, a distinction recognized by followers and opponents alike. Its literary mastery therefore appeared without any known background of poetry, authorship, literary training, or gradual development.
+   > Al-Walīd ibn al-Mughīrah, a leading opponent of the Prophet ﷺ and a man highly regarded for his knowledge of Arabic poetry, reportedly said after hearing the Qur'an: **“By God, the speech which he utters is sweet and graceful ... it has the upper hand and nothing has the upper hand over it.”** He nevertheless refused to accept the Prophet's message and later called the Qur'an magic.
+   {: .gloss }
 
 1. The Qur'an belongs to neither ordinary prose nor metrical poetry, but sustains a distinctive Qur'anic mode of expression—previously unknown to Arabic—in which rhythm, rhyme, cadence, syntax, and shifts of register are fused with precision of meaning.
 
