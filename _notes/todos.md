@@ -2,10 +2,10 @@
 
 general:
 
-- reorder points within each section so that they're more coherent and better flow
+- reorder points within each section so that they're more coherent and better flow. For sections that just list things like natural world or numerical patterns order them by the strongest first
 - review the details sections bec rn it looks a bit weird
 - fix quran quotations in natural world section
-- fix spacing between points and the quotations below them. keep a consistent standard (probably putting a space is better for readability)
+- fix between points and the quotations below them. keep a consistent standard (probably putting a space is better for readability)
 
 ---
 
