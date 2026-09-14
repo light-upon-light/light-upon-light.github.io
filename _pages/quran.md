@@ -500,7 +500,7 @@ Some of its historical details are especially striking because the civilizations
     > The Biblical text instead gives roughly **600,000 adult Israelite males** at the Exodus (Exodus 12:37; Numbers 1:46), which would imply a total population of roughly two to three million people. Modern historical and archaeological scholarship widely recognizes that a migration of that scale cannot be reconciled with the population and carrying capacity of the region, and scholars who accept a historical core to the Exodus generally place the group at a dramatically smaller size. The Qur'an does not repeat the enormous Biblical figure; it describes the escaping Israelites as a small group. ([mdpi.com](https://www.mdpi.com/2077-1444/17/6/737))
     {: .gloss }
 
-<details class="quran-more" markdown="1">
+<details class="quran-more quran-more--section" markdown="1">
 <summary>Show more historical details</summary>
 1. **Sun worship in Saba:** in the account of Solomon and the Queen of Saba, the Qur'an reports:
     > **“I found her and her people prostrating to the sun instead of God.”** (27:24)
