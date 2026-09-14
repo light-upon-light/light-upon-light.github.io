@@ -211,3 +211,6 @@ Keep it coherent, clear, pleasant to read and easy to understand.
 ### Shorten
 
 Make this about 50% shorter for a compact website TL;DR box.
+
+## Better writing style / voice
+Please rewrite it to match the voice and writing style of the rest of the page that is direct, concise, natural, confident and affirmative. Right now it sounds like it's trying to be dramatic and written for effect.
