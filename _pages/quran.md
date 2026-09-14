@@ -208,7 +208,7 @@ The Qur'an's literary miracle extends far beyond beauty of expression. Its inimi
    > Classical scholars formalized this demanding standard. Al-Suyūṭī, for example, listed fifteen branches of knowledge required for a properly qualified Qur’anic exegete, including multiple sciences of Arabic, principles of interpretation, canonical readings, circumstances of revelation, and prophetic tradition. The point is not that the Qur’an’s basic message is inaccessible, but that its language is so concentrated and multilayered that extracting its full implications can require expertise across several disciplines at once. A few words can carry grammatical, rhetorical, contextual, legal, and theological consequences simultaneously.
    {: .gloss }
 
-1. **Simplicity and depth:** the call to worship one God alone, repent, act rightly, and prepare for judgment is easy to understand. The same words support detailed grammatical, legal, theological, and rhetorical study. The short chapters below demonstrate this combination.
+1. **Simplicity and depth:** the call to worship one God alone, repent, act rightly, and prepare for judgment is easy to understand. The same words support detailed grammatical, legal, theological, and rhetorical study.
 
 1. It challenged the Arabs to match it at a time when their command of Arabic was at its height. They had both the skill to answer the challenge and every motive to do so.
     > The Qur'an was revealed in an era when poetry was not merely entertainment: it was the lifeblood of the Arab culture, the measure of honor, and even a weapon in war; tribes could settle disputes or ignite battles through verse. In that setting—where pride in language was unrivaled and mastery of Arabic expression was their greatest art—the Qur'an openly challenged them to produce anything like it. Despite their unmatched command of Arabic and every worldly motive to discredit the Prophet ﷺ, they were unable to answer the challenge. Their failure itself became a perpetual testimony to the Qur'an's inimitability.
@@ -249,7 +249,7 @@ The Qur'an's literary miracle extends far beyond beauty of expression. Its inimi
 
     {% include yt-embed.html url="https://youtube.com/shorts/4pf9Cu5cwhs" title="Qur'an Recitation of Al-Rahman (Youtube Short)" %}
 
-    {% include yt-embed.html url="https://youtube.com/shorts/4pf9Cu5cwhs" title="Qur'an Recitation of Al-Talaq (Youtube Short)" %}
+    {% include yt-embed.html url="https://youtube.com/shorts/0cbZ6FqFiV8" title="Qur'an Recitation of Al-Talaq (Youtube Short)" %}
 
     > "˹It is˺ Allah ˹Who˺ has sent down the best message—a Book of perfect consistency and repeated lessons—which causes the skin ˹and hearts˺ of those who fear their Lord to tremble, then their skin and hearts soften at the mention of ˹the mercy of˺ Allah. That is the guidance of Allah, through which He guides whoever He wills. But whoever Allah leaves to stray will be left with no guide." (**Sūrat az-Zumar 39:23**), Dr. Mustafa Khattab, *The Clear Quran*
     >
