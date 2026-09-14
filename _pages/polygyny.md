@@ -54,9 +54,9 @@ Qur'an 4:3 places that permission in a passage about protecting orphans, limits 
 ## The objection
 
 1. Islam allows a man four wives but a woman only one husband.
-2. The asymmetry appears designed for male sexual interests.
-3. Having to share a husband can itself be seen as placing a wife below him, whatever rules govern time or financial support.
-4. The Prophet ﷺ had more than the four wives permitted to ordinary men.
+1. The asymmetry appears designed for male sexual interests.
+1. Having to share a husband can itself be seen as placing a wife below him, whatever rules govern time or financial support.
+1. The Prophet ﷺ had more than the four wives permitted to ordinary men.
 
 The asymmetry is factual, as is the Prophet's exemption from the ordinary four-wife limit. The real question is whether this structure exists because Islam privileges men over women, or whether it belongs to a broader system of different rights and responsibilities for men and women.
 

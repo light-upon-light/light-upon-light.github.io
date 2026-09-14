@@ -56,8 +56,8 @@ The *hudud* — severe corporal and capital punishments associated with theft, a
 The criticism has three parts:
 
 1. Islam puts people to death for changing their beliefs about God, contrary to freedom of conscience.
-2. The ruling appears in canonical hadith collections and all four schools of law.
-3. Muslim-majority states still enforce apostasy laws, so the issue is not merely historical.
+1. The ruling appears in canonical hadith collections and all four schools of law.
+1. Muslim-majority states still enforce apostasy laws, so the issue is not merely historical.
 
 The second claim overstates the uniformity of the legal tradition. The third is largely correct.
 

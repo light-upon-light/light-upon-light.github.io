@@ -1372,7 +1372,7 @@ The Qur'an's extraordinary character has not been recognized only by Muslims. Ar
    > E. H. Palmer, trans., *The Qur'ân*, *Sacred Books of the East*, vols. 6 and 9, Oxford: Clarendon Press, 1880, Introduction.
    > {: .src }
 
-2. **George Sale**, whose 1734 English translation remained enormously influential in Europe for generations, wrote despite his explicitly Christian criticism of Islam:
+1. **George Sale**, whose 1734 English translation remained enormously influential in Europe for generations, wrote despite his explicitly Christian criticism of Islam:
 
    > “The style of the Korân is generally beautiful and fluent”
 
@@ -1381,7 +1381,7 @@ The Qur'an's extraordinary character has not been recognized only by Muslims. Ar
    > George Sale, *The Koran, Commonly Called the Alcoran of Mohammed*, 1734, Preliminary Discourse, §III.
    > {: .src }
 
-3. **H. A. R. Gibb**, one of the twentieth century's leading Western scholars of Arabic and Islam, wrote:
+1. **H. A. R. Gibb**, one of the twentieth century's leading Western scholars of Arabic and Islam, wrote:
 
    > “As a literary monument the Koran thus stands by itself”
 
@@ -1390,7 +1390,7 @@ The Qur'an's extraordinary character has not been recognized only by Muslims. Ar
    > H. A. R. Gibb, *Arabic Literature: An Introduction*, Oxford: Clarendon Press, 1963, p. 36.
    > {: .src }
 
-4. **Arthur J. Arberry**, Cambridge professor of Arabic and one of the most respected English translators of the Qur'an, said that its rhythms establish its:
+1. **Arthur J. Arberry**, Cambridge professor of Arabic and one of the most respected English translators of the Qur'an, said that its rhythms establish its:
 
    > “undeniable claim to rank amongst the greatest literary masterpieces of mankind.”
 
@@ -1402,7 +1402,7 @@ The Qur'an's extraordinary character has not been recognized only by Muslims. Ar
 <details class="quran-more quran-more--section" markdown="1">
 <summary>Read more on this theme</summary>
 
-5. **Alfred Guillaume**, Christian Arabist and professor of Arabic and Islamic studies, wrote that the Qur'an:
+1. **Alfred Guillaume**, Christian Arabist and professor of Arabic and Islamic studies, wrote that the Qur'an:
 
    > “has a rhythm of peculiar beauty and a cadence that charms the ear.”
 
@@ -1411,7 +1411,7 @@ The Qur'an's extraordinary character has not been recognized only by Muslims. Ar
    > Alfred Guillaume, *Islam*, Penguin Books, 1954, pp. 73–74.
    > {: .src }
 
-6. **John Alden Williams**, professor of religion and a specialist in Islamic civilization, was equally emphatic about what is lost outside the Arabic original. He wrote:
+1. **John Alden Williams**, professor of religion and a specialist in Islamic civilization, was equally emphatic about what is lost outside the Arabic original. He wrote:
 
    > “no translation, however faithful to the meaning, has ever been fully successful.”
 
@@ -1420,7 +1420,7 @@ The Qur'an's extraordinary character has not been recognized only by Muslims. Ar
    > John Alden Williams, ed., *Islam*, New York: George Braziller, 1961.
    > {: .src }
 
-7. **Neal Robinson**, Qur'anic scholar and Anglican priest, has devoted extensive study to features once dismissed by some Western critics as irregularities. Examining the Qur'an's abrupt shifts of grammatical person and perspective, he concluded that they:
+1. **Neal Robinson**, Qur'anic scholar and Anglican priest, has devoted extensive study to features once dismissed by some Western critics as irregularities. Examining the Qur'an's abrupt shifts of grammatical person and perspective, he concluded that they:
 
    > “are a very effective rhetorical device.”
 
@@ -1429,14 +1429,14 @@ The Qur'an's extraordinary character has not been recognized only by Muslims. Ar
    > Neal Robinson, *Discovering the Qur'an: A Contemporary Approach to a Veiled Text*, 2nd ed., Georgetown University Press, 2003.
    > {: .src }
 
-8. **Émile Dermenghem**, the French historian and biographer of Prophet Muhammad ﷺ, drew particular attention to the effect of Qur'anic recitation. In *The Life of Mahomet* he wrote that:
+1. **Émile Dermenghem**, the French historian and biographer of Prophet Muhammad ﷺ, drew particular attention to the effect of Qur'anic recitation. In *The Life of Mahomet* he wrote that:
 
    > “Its literary beauty, its irradiation, an enigma even today, have the power of putting those who recite it into a state of fervor.”
 
    > Émile Dermenghem, *The Life of Mahomet*, trans. Arabella Yorke, London: George Routledge, 1930, pp. 249–250.
    > {: .src }
 
-9. **Thomas Carlyle** is an especially revealing case because he did not enjoy reading Sale's English translation of the Qur'an and criticized it harshly. Yet after working through it, he still concluded:
+1. **Thomas Carlyle** is an especially revealing case because he did not enjoy reading Sale's English translation of the Qur'an and criticized it harshly. Yet after working through it, he still concluded:
 
     > “Sincerity, in all senses, seems to me the merit of the Koran”
 
@@ -1445,7 +1445,7 @@ The Qur'an's extraordinary character has not been recognized only by Muslims. Ar
     > Thomas Carlyle, *On Heroes, Hero-Worship, and the Heroic in History*, Lecture II, “The Hero as Prophet,” 1841.
     > {: .src }
 
-10. **Johann Wolfgang von Goethe**, one of the greatest figures in German literature, studied the Qur'an repeatedly and had a complex attitude toward it. Although he criticized its repetitions, he also described its style as:
+1. **Johann Wolfgang von Goethe**, one of the greatest figures in German literature, studied the Qur'an repeatedly and had a complex attitude toward it. Although he criticized its repetitions, he also described its style as:
 
     > “stern, grand, terrible ... truly sublime”
 

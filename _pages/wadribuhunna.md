@@ -210,8 +210,8 @@ That context matters. Whatever interpretation is given to *waḍribūhunna*, the
 Even within the serious marital crisis just described, the verse does not begin by authorizing physical action. Qur'an 4:34 places the disputed expression within a three-stage response:
 
 1. ***Faʿiẓūhunna*** [counsel them] — advise, admonish, and engage in dialogue.
-2. ***Wahjurūhunna fī'l-maḍājiʿ*** [withdraw from them in bed] — withdraw from the marital bed, expressing disapproval without physical hostility.
-3. ***Waḍribūhunna*** — the disputed final measure, understood in more than one way and examined below.
+1. ***Wahjurūhunna fī'l-maḍājiʿ*** [withdraw from them in bed] — withdraw from the marital bed, expressing disapproval without physical hostility.
+1. ***Waḍribūhunna*** — the disputed final measure, understood in more than one way and examined below.
 
 The sequence begins with speech and then moves to marital withdrawal. Only after those steps comes the disputed expression. The structure is therefore one of controlled escalation and containment within an already serious conflict, not an immediate resort to force.
 
