@@ -326,7 +326,7 @@ The Qur'an's literary miracle extends far beyond beauty of expression. Its inimi
     {: .src }
     </details>
 
-### <span class="num-roman">III.</span> Challenges and Bold Claims
+### <span class="num-roman">III.</span> Challenges & Bold Claims
 {: #challenges-and-bold-claims }
 
 1. The Qur'an claims to be the verbatim word of God—not a report about Him, and not a human account inspired by Him. No other book with comparable reach makes the same claim about itself.
@@ -388,7 +388,7 @@ Anne-Sylvie Boisliveau studies how the Qur'an describes itself and argues for it
 
 </details>
 
-### <span class="num-roman">IV.</span> Appeal to Reason and Invitation of Scrutiny
+### <span class="num-roman">IV.</span> Appeal to Reason & Invitation of Scrutiny
 {: #reason-and-scrutiny }
 
 1. The Qur'an grounds its own authenticity in being coherent and invites the reader to examine it closely.
@@ -497,7 +497,7 @@ Questions, parables, warnings, and answers to objections make reflection part of
 
 </details>
 
-### <span class="num-roman">V.</span> Earlier Scriptures and Historical Knowledge
+### <span class="num-roman">V.</span> Earlier Scriptures & Historical Knowledge
 {: #knowledge-historical-scientific-and-linguistic }
 
 The Qur'an presents itself as the final revelation in the same prophetic line as Abraham, Moses, and Jesus. It recounts earlier sacred history with an authoritative and independent voice, correcting theological distortions, restoring pure monotheism, and reshaping familiar narratives with remarkable precision.
@@ -777,7 +777,7 @@ These patterns vary in kind. Some are exact correspondences between concepts tha
 
 Their significance is therefore not that any matching count by itself proves divine authorship. Rather, they reveal another level of order within a text already remarkable for its language, composition, and structure—especially when considered alongside the unusual conditions under which the Qur'an was revealed piecemeal over twenty-three years.
 
-### <span class="num-roman">VIII.</span> Preservation and Memorization
+### <span class="num-roman">VIII.</span> Preservation & Memorization
 {: #preservation-and-memorization }
 
 The Qur'an's preservation is one of the most remarkable features of its history: it was transmitted simultaneously through writing, memorization, public recitation, and teacher-to-student instruction from the earliest Muslim community onward.
@@ -911,7 +911,7 @@ Recitation, memorization, grammar, commentary, and dictionaries have also sustai
 
 </details>
 
-### <span class="num-roman">IX.</span> Prophecies and Fulfilled Predictions
+### <span class="num-roman">IX.</span> Prophecies & Fulfilled Predictions
 {: #prophecies }
 
 The Qur'an contains bold predictions made in circumstances where their fulfillment was far from guaranteed.
