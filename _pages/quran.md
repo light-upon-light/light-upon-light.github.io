@@ -550,114 +550,92 @@ It also describes features of the natural world with remarkable precision, inclu
 {% include yt-embed.html url="https://youtu.be/DoP6Ft-VE70" title="Are there scientific miracles in the Qur'an?" %}
 
 1. **Embryonic development:** the Qur'an gives a striking stage-by-stage description of the development of a human embryo. It moves from a drop, to something that clings, to a lump, to bones, and then to flesh clothing those bones.
-
     > “And certainly did We create man from an extract of clay. Then We placed him as a sperm-drop in a firm lodging. Then We made the sperm-drop into a clinging clot, and We made the clot into a lump [of flesh], and We made [from] the lump, bones, and We covered the bones with flesh; then We developed him into another creation. So blessed is Allah, the best of creators.” (**Sūrat al-Muʾminūn 23:12–14**), Saheeh International
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَلَقَدْ خَلَقْنَا ٱلْإِنسَـٰنَ مِن سُلَـٰلَةٍ مِّن طِينٍ ۝١٢ ثُمَّ جَعَلْنَـٰهُ نُطْفَةً فِى قَرَارٍ مَّكِينٍ ۝١٣ ثُمَّ خَلَقْنَا ٱلنُّطْفَةَ عَلَقَةً فَخَلَقْنَا ٱلْعَلَقَةَ مُضْغَةً فَخَلَقْنَا ٱلْمُضْغَةَ عِظَـٰمًا فَكَسَوْنَا ٱلْعِظَـٰمَ لَحْمًا ثُمَّ أَنشَأْنَـٰهُ خَلْقًا ءَاخَرَ ۚ فَتَبَارَكَ ٱللَّهُ أَحْسَنُ ٱلْخَـٰلِقِينَ ۝١٤﴾ <span class="ayah-ref">سُورَةُ المُؤۡمِنُونَ</span></div>
     {: .quote }
-
-    > The Arabic words carry more than their usual English renderings. *ʿAlaqa*, rendered “clinging clot,” is something that clings or hangs, and the same root names a leech; *muḍgha*, rendered “lump [of flesh],” is a morsel that looks chewed. Each describes the embryo by its appearance, which is how a reader with no instruments could have recognized the stages.
+    > The Arabic words carry more than their usual English renderings. *ʿAlaqa*, rendered “clinging clot,” is something that clings or hangs, and the same root names a leech; *muḍgha*, rendered “lump [of flesh],” is a morsel that looks chewed. Each describes the embryo by its appearance.
     {: .gloss }
-
     > Modern embryologists have been struck by how closely this sequence matches what the microscope later revealed. Keith L. Moore, professor of anatomy at the University of Toronto and author of *The Developing Human*, a standard embryology textbook, studied these verses with Muslim scholars who explained the Arabic to him. He concluded that the statements “must have come to Muhammad from God,” because most of this knowledge was discovered only centuries later. He gives his reasons in the video below.
     {: .gloss }
 
     {% include yt-embed.html url="https://youtu.be/J_Dllu42eEA" title="Qur'an on Embryology - Professor Keith L. Moore" %}
 
 1. **Darkness and waves in the deep ocean:** the Qur'an describes a deep sea with layers of darkness, with waves above waves and clouds above them.
-
     > “Or ˹their deeds are˺ like the darkness in a deep sea, covered by waves upon waves, topped by ˹dark˺ clouds. Darkness upon darkness! If one stretches out their hand, they can hardly see it.” (**Sūrat al-Nūr 24:40**), Dr. Mustafa Khattab, *The Clear Quran*
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿أَوْ كَظُلُمَـٰتٍۢ فِى بَحْرٍۢ لُّجِّىٍّۢ يَغْشَىٰهُ مَوْجٌۭ مِّن فَوْقِهِۦ مَوْجٌۭ مِّن فَوْقِهِۦ سَحَابٌۭ ۚ ظُلُمَـٰتٌۢ بَعْضُهَا فَوْقَ بَعْضٍ إِذَآ أَخْرَجَ يَدَهُۥ لَمْ يَكَدْ يَرَىٰهَا ۗ وَمَن لَّمْ يَجْعَلِ ٱللَّهُ لَهُۥ نُورًۭا فَمَا لَهُۥ مِن نُّورٍ ۝٤٠﴾ <span class="ayah-ref">سُورَةُ النُّورِ</span></div>
     {: .quote }
-
     > Sunlight disappears rapidly with ocean depth. Very little visible light remains in the deep ocean, and below roughly 1,000 metres sunlight no longer penetrates. Oceans also contain **internal waves** beneath their visible surface, travelling along boundaries between layers of water of different densities, while ordinary surface waves occur above them. The verse brings together a deep sea, extreme layered darkness, and waves beneath other waves.
     {: .gloss }
 
 1. **Male and female from the emitted reproductive drop:** the Qur'an connects the creation of male and female specifically with the reproductive drop that is emitted.
-
     > “And He created the pairs—males and females—from a sperm-drop when it is emitted.” (**Sūrat al-Najm 53:45–46**), Dr. Mustafa Khattab, *The Clear Quran*
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَأَنَّهُۥ خَلَقَ ٱلزَّوْجَيْنِ ٱلذَّكَرَ وَٱلْأُنثَىٰ ۝٤٥ مِن نُّطْفَةٍ إِذَا تُمْنَىٰ ۝٤٦﴾ <span class="ayah-ref">سُورَةُ النَّجۡمِ</span></div>
     {: .quote }
-
     > In human reproduction, the egg contributes an X chromosome, while the fertilizing sperm carries either an X or a Y chromosome. The sperm in the emitted male reproductive fluid therefore determines whether the resulting embryo is chromosomally XX or XY.
     {: .gloss }
 
 1. **Milk formation:** the Qur'an draws attention to the production of milk inside livestock in relation to both digestive material and blood.
-
     > “And there is certainly a lesson for you in cattle, from whose bellies We give you ˹milk˺ to drink, ˹coming˺ from between digested food and blood: pure milk, pleasant to drink.” (**Sūrat al-Naḥl 16:66**), Dr. Mustafa Khattab, *The Clear Quran*
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَإِنَّ لَكُمْ فِى ٱلْأَنْعَـٰمِ لَعِبْرَةً ۖ نُّسْقِيكُم مِّمَّا فِى بُطُونِهِۦ مِنۢ بَيْنِ فَرْثٍۢ وَدَمٍۢ لَّبَنًا خَالِصًۭا سَآئِغًۭا لِّلشَّـٰرِبِينَ ۝٦٦﴾ <span class="ayah-ref">سُورَةُ النَّحۡلِ</span></div>
     {: .quote }
-
     > Nutrients from digested food are absorbed through the digestive system and transported through the bloodstream. The mammary glands then draw the substances needed for milk production from the blood and synthesize milk from them. The verse therefore places milk in relation to the two physiological systems involved in providing its raw materials: digestion and blood circulation.
     {: .gloss }
 
 1. **Difficulty breathing at high altitude:** the Qur'an compares intense constriction of the chest to ascending into the sky.
-
     > “Whoever Allah wills to guide, He opens their heart to Islam. But whoever He wills to leave astray, He makes their chest tight and constricted as if they were climbing up into the sky.” (**Sūrat al-Anʿām 6:125**), Dr. Mustafa Khattab, *The Clear Quran*
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿فَمَن يُرِدِ ٱللَّهُ أَن يَهْدِيَهُۥ يَشْرَحْ صَدْرَهُۥ لِلْإِسْلَـٰمِ ۖ وَمَن يُرِدْ أَن يُضِلَّهُۥ يَجْعَلْ صَدْرَهُۥ ضَيِّقًا حَرَجًۭا كَأَنَّمَا يَصَّعَّدُ فِى ٱلسَّمَآءِ ۚ كَذَٰلِكَ يَجْعَلُ ٱللَّهُ ٱلرِّجْسَ عَلَى ٱلَّذِينَ لَا يُؤْمِنُونَ ۝١٢٥﴾ <span class="ayah-ref">سُورَةُ الأَنۡعَامِ</span></div>
     {: .quote }
-
     > As altitude increases, atmospheric pressure falls and less oxygen is available with each breath. Increasing altitude therefore causes breathlessness and hypoxic stress, making breathing progressively more difficult as a person ascends.
     {: .gloss }
 
 1. **A boundary between fresh and salt water:** the Qur'an describes fresh and salt water meeting while a separating boundary remains between them.
-
     > “And He is the One Who merges the two bodies of water: one fresh and palatable and the other salty and bitter, placing between them a barrier they cannot cross.” (**Sūrat al-Furqān 25:53**), Dr. Mustafa Khattab, *The Clear Quran*
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿۞ وَهُوَ ٱلَّذِى مَرَجَ ٱلْبَحْرَيْنِ هَـٰذَا عَذْبٌۭ فُرَاتٌۭ وَهَـٰذَا مِلْحٌ أُجَاجٌۭ وَجَعَلَ بَيْنَهُمَا بَرْزَخًۭا وَحِجْرًۭا مَّحْجُورًۭا ۝٥٣﴾ <span class="ayah-ref">سُورَةُ الفُرۡقَانِ</span></div>
     {: .quote }
-
     > This is seen where rivers meet the sea. Because fresh water and salt water differ in density, they do not immediately become one uniform body of water. In strongly stratified estuaries, fresh water can flow above denser salt water, producing distinct water masses separated by a pronounced interface while mixing occurs gradually between them.
     {: .gloss }
 
 1. **Formation of rain clouds:** It describes the ordered processes of rain, clouds, winds, and the revival of dead land.
-
     > “Do you not see that Allah drives clouds? Then He brings them together, then He makes them into a mass, and you see the rain emerge from within it. And He sends down from the sky, mountains [of clouds] within which is hail, and He strikes with it whom He wills and averts it from whom He wills. The flash of its lightening almost takes away the eyesight.” (**Sūrat al-Nūr 24:43**), Saheeh International
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿أَلَمْ تَرَ أَنَّ ٱللَّهَ يُزْجِى سَحَابًا ثُمَّ يُؤَلِّفُ بَيْنَهُۥ ثُمَّ يَجْعَلُهُۥ رُكَامًا فَتَرَى ٱلْوَدْقَ يَخْرُجُ مِنْ خِلَـٰلِهِۦ وَيُنَزِّلُ مِنَ ٱلسَّمَآءِ مِن جِبَالٍ فِيهَا مِنۢ بَرَدٍ فَيُصِيبُ بِهِۦ مَن يَشَآءُ وَيَصْرِفُهُ عَن مَّن يَشَآءُ ۖ يَكَادُ سَنَا بَرْقِهِۦ يَذْهَبُ بِٱلْأَبْصَـٰرِ ۝٤٣﴾ <span class="ayah-ref">سُورَةُ النُّورِ</span></div>
     {: .quote }
-
     > “It is Allah who sends the winds, and they stir the clouds and spread them in the sky however He wills, and He makes them fragments so you see the rain emerge from within them. And when He causes it to fall upon whom He wills of His servants, immediately they rejoice.” (**Sūrat al-Rūm 30:48**), Saheeh International
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿ٱللَّهُ ٱلَّذِى يُرْسِلُ ٱلرِّيَـٰحَ فَتُثِيرُ سَحَابًا فَيَبْسُطُهُۥ فِى ٱلسَّمَآءِ كَيْفَ يَشَآءُ وَيَجْعَلُهُۥ كِسَفًا فَتَرَى ٱلْوَدْقَ يَخْرُجُ مِنْ خِلَـٰلِهِۦ ۖ فَإِذَآ أَصَابَ بِهِۦ مَن يَشَآءُ مِنْ عِبَادِهِۦٓ إِذَا هُمْ يَسْتَبْشِرُونَ ۝٤٨﴾ <span class="ayah-ref">سُورَةُ الرُّومِ</span></div>
     {: .quote }
 
 1. **Expansion of the universe:** the Qur'an describes God as having built the heaven and as continually widening it.
-
     > “We built the universe with ˹great˺ might, and We are certainly expanding ˹it˺.” (**Sūrat al-Dhāriyāt 51:47**), Dr. Mustafa Khattab, *The Clear Quran*
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَٱلسَّمَآءَ بَنَيْنَـٰهَا بِأَيْي۟دٍ وَإِنَّا لَمُوسِعُونَ ۝٤٧﴾ <span class="ayah-ref">سُورَةُ الذَّارِيَاتِ</span></div>
     {: .quote }
-
     > The word rendered “expanding” is *mūsiʿūn*, an active participle from the root for width and vastness, so it describes ongoing action: “We are making it wide.” Many classical exegetes read it as God's vast power or provision. Its plain wording also fits the modern finding that the universe is expanding, which no one in seventh-century Arabia had reason to propose.
     {: .gloss }
 
 1. **A joined origin of the heavens and earth:** the Qur'an describes the heavens and the earth as once joined together and then split apart, and in the same verse describes water as the origin of all life.
-
     > “Have those who disbelieved not considered that the heavens and the earth were a joined entity, and We separated them and made from water every living thing? Then will they not believe?” (**Sūrat al-Anbiyāʾ 21:30**), Saheeh International
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿أَوَلَمْ يَرَ ٱلَّذِينَ كَفَرُوٓا۟ أَنَّ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضَ كَانَتَا رَتْقًا فَفَتَقْنَـٰهُمَا ۖ وَجَعَلْنَا مِنَ ٱلْمَآءِ كُلَّ شَىْءٍ حَىٍّ ۖ أَفَلَا يُؤْمِنُونَ ۝٣٠﴾ <span class="ayah-ref">سُورَةُ الأَنبِيَاءِ</span></div>
     {: .quote }
-
     > The phrase rendered “a joined entity” is *ratq*, things fused or stitched together, and “We separated them” translates *fataqnāhumā*, from *fatq*, the unstitching of what was joined. The verse makes the separation an act of God, and puts it to the disbelievers as something they should reflect on.
     {: .gloss }
 
 1. **The Sun and Moon are described differently:** the Qur'an consistently distinguishes the light of the Sun from that of the Moon. It describes the Sun as a radiant or lamp-like source, while describing the Moon as light.
-
     > “He is the One Who made the sun a radiant source and the moon a reflected light...” (**Sūrat Yūnus 10:5**), Dr. Mustafa Khattab, *The Clear Quran*
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿هُوَ ٱلَّذِى جَعَلَ ٱلشَّمْسَ ضِيَآءًۭ وَٱلْقَمَرَ نُورًۭا وَقَدَّرَهُۥ مَنَازِلَ لِتَعْلَمُوا۟ عَدَدَ ٱلسِّنِينَ وَٱلْحِسَابَ ۚ مَا خَلَقَ ٱللَّهُ ذَٰلِكَ إِلَّا بِٱلْحَقِّ ۚ يُفَصِّلُ ٱلْـَٔايَـٰتِ لِقَوْمٍۢ يَعْلَمُونَ ۝٥﴾ <span class="ayah-ref">سُورَةُ يُونُسَ</span></div>
     {: .quote }
-
     > Elsewhere, the same distinction appears again: the Sun is described as a **“shining lamp”**, while the Moon is described as a **light** (25:61; 71:16). The Arabic word *nūr* [light] does not itself mean reflected light, so the Qur'an does not explicitly state the mechanism. The distinction nevertheless fits the physical reality precisely: the Sun generates its own visible light, while the Moon shines by reflecting light from the Sun.
     {: .gloss }
 
 1. **Orbits of the sun and moon:** the Qur'an describes the sun and the moon each moving in its own rounded course.
-
     > “And He is the One Who created the day and the night, the sun and the moon—each travelling in an orbit.” (**Sūrat al-Anbiyāʾ 21:33**), Dr. Mustafa Khattab, *The Clear Quran*
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَهُوَ ٱلَّذِى خَلَقَ ٱلَّيْلَ وَٱلنَّهَارَ وَٱلشَّمْسَ وَٱلْقَمَرَ ۖ كُلٌّ فِى فَلَكٍ يَسْبَحُونَ ۝٣٣﴾ <span class="ayah-ref">سُورَةُ الأَنبِيَاءِ</span></div>
@@ -665,66 +643,53 @@ It also describes features of the natural world with remarkable precision, inclu
 
     <details class="quran-more" markdown="1">
     <summary>Show another verse on this theme</summary>
-
     > “It is not for the sun to catch up with the moon, nor does the night outrun the day. Each is travelling in an orbit of their own.” (**Sūrat Yā Sīn 36:40**), Dr. Mustafa Khattab, *The Clear Quran*
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿لَا ٱلشَّمْسُ يَنۢبَغِى لَهَآ أَن تُدْرِكَ ٱلْقَمَرَ وَلَا ٱلَّيْلُ سَابِقُ ٱلنَّهَارِ ۚ وَكُلٌّ فِى فَلَكٍ يَسْبَحُونَ ۝٤٠﴾ <span class="ayah-ref">سُورَةُ يسٓ</span></div>
     {: .quote }
-
     </details>
-
     > The word rendered “orbit” is *falak*, a rounded course, the same word used for the whorl of a spindle. “Travelling” translates *yasbaḥūn*, which literally means gliding or swimming. Common ancient models fixed the heavenly bodies to turning spheres; the Qur'an instead describes each body moving along its own path.
     >
     > The phrase itself is also striking: “each in an orbit,” <span dir="rtl" lang="ar">كل في فلك</span> (*kullun fī falak*), is a palindrome spanning three Arabic words, with the letters k-l-f-y-f-l-k reading the same from either end. The words describing bodies traveling around a circuit turn back on themselves, and they do so within ordinary, natural Arabic in both verses where they appear.
     {: .gloss }
 
 1. **Fertilizing winds:** the Qur'an explicitly describes the winds as fertilizing.
-
     > “And We have sent the fertilizing winds and sent down water from the sky and given you drink from it. And you are not its retainers.” (**Sūrat al-Ḥijr 15:22**), Saheeh International
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَأَرْسَلْنَا ٱلرِّيَـٰحَ لَوَٰقِحَ فَأَنزَلْنَا مِنَ ٱلسَّمَآءِ مَآءًۭ فَأَسْقَيْنَـٰكُمُوهُ وَمَآ أَنتُمْ لَهُۥ بِخَـٰزِنِينَ ۝٢٢﴾ <span class="ayah-ref">سُورَةُ الحِجۡرِ</span></div>
     {: .quote }
-
     > Wind is an important agent of fertilization in the plant world. Wind-pollinated plants release pollen into the air so that it can be carried to receptive flowers. Winds also contribute to cloud and rainfall processes by transporting moisture and airborne particles involved in condensation.
     {: .gloss }
 
 1. **The sky as a protected covering:** the Qur'an describes the sky above the earth as a protected canopy.
-
     > “And We have made the sky a well-protected canopy, still they turn away from its signs.” (**Sūrat al-Anbiyāʾ 21:32**), Dr. Mustafa Khattab, *The Clear Quran*
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَجَعَلْنَا ٱلسَّمَآءَ سَقْفًۭا مَّحْفُوظًۭا ۖ وَهُمْ عَنْ ءَايَـٰتِهَا مُعْرِضُونَ ۝٣٢﴾ <span class="ayah-ref">سُورَةُ الأَنبِيَاءِ</span></div>
     {: .quote }
-
     > Earth's atmosphere performs several essential protective functions. It absorbs harmful solar radiation, including most dangerous ultraviolet radiation, moderates otherwise extreme temperatures, and causes most incoming meteoroids to burn up before reaching the ground.
     {: .gloss }
 
 1. **Gender of the worker honey bee:** the Qur'an addresses the bees that build homes, gather from fruits, and produce honey in the feminine.
-
     > “And your Lord inspired to the bee, ‘Take for yourself among the mountains, houses, and among the trees and [in] that which they construct. Then eat from all the fruits and follow the ways of your Lord laid down [for you].’ There emerges from their bellies a drink, varying in colors, in which there is healing for people. Indeed in that is a sign for a people who give thought.” (**Sūrat al-Naḥl 16:68–69**), Saheeh International
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَأَوْحَىٰ رَبُّكَ إِلَى ٱلنَّحْلِ أَنِ ٱتَّخِذِى مِنَ ٱلْجِبَالِ بُيُوتًا وَمِنَ ٱلشَّجَرِ وَمِمَّا يَعْرِشُونَ ۝٦٨ ثُمَّ كُلِى مِن كُلِّ ٱلثَّمَرَٰتِ فَٱسْلُكِى سُبُلَ رَبِّكِ ذُلُلًا ۚ يَخْرُجُ مِنۢ بُطُونِهَا شَرَابٌ مُّخْتَلِفٌ أَلْوَٰنُهُۥ فِيهِ شِفَآءٌ لِّلنَّاسِ ۗ إِنَّ فِى ذَٰلِكَ لَـَٔايَةً لِّقَوْمٍ يَتَفَكَّرُونَ ۝٦٩﴾ <span class="ayah-ref">سُورَةُ النَّحۡلِ</span></div>
     {: .quote }
-
     > English translations cannot show it, but every command in the Arabic is feminine: *ittakhidhī* (“take”), *kulī* (“eat”), and *fa-slukī* (“follow”). So is the pronoun in *buṭūnihā* (“their bellies”). The bees that build, forage, and make honey are the workers, and every worker bee is female. Arabic often gives collective nouns feminine agreement, so the grammar alone does not settle the point; still, the wording matches the biology.
     {: .gloss }
 
 1. **Weight of clouds:** the Qur'an calls rain-bearing clouds heavy.
-
     > “He is the One Who shows you lightning, inspiring ˹you with˺ hope and fear, and produces heavy clouds.” (**Sūrat al-Raʿd 13:12**), Dr. Mustafa Khattab, *The Clear Quran*
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿هُوَ ٱلَّذِى يُرِيكُمُ ٱلْبَرْقَ خَوْفًا وَطَمَعًا وَيُنشِئُ ٱلسَّحَابَ ٱلثِّقَالَ ۝١٢﴾ <span class="ayah-ref">سُورَةُ الرَّعۡدِ</span></div>
     {: .quote }
-
     > Clouds look weightless from the ground. A large rain cloud in fact holds an enormous mass of water, suspended by rising air until it falls as rain.
     {: .gloss }
 
 1. **Night wrapped around day:** the Qur'an describes the continual alternation of light and darkness using the language of wrapping one around the other.
-
     > “He created the heavens and the earth for a purpose. He wraps the night around the day, and wraps the day around the night.” (**Sūrat al-Zumar 39:5**), Dr. Mustafa Khattab, *The Clear Quran*
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿خَلَقَ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضَ بِٱلْحَقِّ ۖ يُكَوِّرُ ٱلَّيْلَ عَلَى ٱلنَّهَارِ وَيُكَوِّرُ ٱلنَّهَارَ عَلَى ٱلَّيْلِ ۖ وَسَخَّرَ ٱلشَّمْسَ وَٱلْقَمَرَ ۖ كُلٌّۭ يَجْرِى لِأَجَلٍۢ مُّسَمًّى ۗ أَلَا هُوَ ٱلْعَزِيزُ ٱلْغَفَّـٰرُ ۝٥﴾ <span class="ayah-ref">سُورَةُ الزُّمَرِ</span></div>
     {: .quote }
-
     > The verb *yukawwiru* means to wrap or wind something around something else. The description naturally fits a spherical rotating earth: one part of the globe faces the Sun while another is dark, and the curved boundary between the two continually moves around the earth as it rotates.
     {: .gloss }
 
