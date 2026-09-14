@@ -27,7 +27,6 @@ women:
 quran:
 
 - add sources and further readings under each point, within a details block
-- expand heavily on the literary miracle section and the summit of arabic eloquence part, with optionally depending on the early classical arabic scholarship on the subject
 
 - miconceptions to add: inheritance
 
@@ -44,8 +43,7 @@ At some point:
 
 - find good articles discussing misconceptions online and have llm compare them and take in strengths.
 - add links to good articles at the bottom in further reading
-
-- create a comprehensive quran page from gpt max too and merge it in
+- expand heavily on the literary miracle section and the summit of arabic eloquence part, with optionally depending on the early classical arabic scholarship on the subject
 - review classical islamic literature on the inimitability of the quran and adapt that into the page. Maybe into the page itself or maybe in sections below that tackle specific books or literature, or just an expanded details section. (e.g. إعجاز القرآن والبلاغة النبوية)
 
 - fix [2026-08-06 23:14:20] ERROR '/favicon.ico' not found. error
