@@ -1031,7 +1031,7 @@ The case for the Qur'an's divine origin rests on the extraordinary convergence o
 - transforms the society that first received it and continues to shape the lives of around two billion people in its original language;
 - and has compelled even non-Muslim Arabists, translators, historians, and literary figures to acknowledge its unusual form, rhetorical power, and unique place in Arabic literature.
 
-These are not separate curiosities. They are features of the same text, delivered by the same man, under the same public conditions. A human-authorship explanation therefore has to account for the whole pattern at once: the Qur'an's mode of emergence, literary and structural achievement, distinct voice, knowledge, predictions, preservation, moral consistency, and its relationship with the Messenger ﷺ.
+These are not separate curiosities. They are features of the same text, delivered by the same man, under the same public conditions. A human-authorship explanation therefore has to account for the whole pattern at once: the Qur'an's mode of emergence, literary and structural achievement, distinct voice, knowledge, predictions, preservation, moral consistency, its relationship with the Messenger ﷺ and its transformative effect on the lives of millions of people.
 
 The Qur'an's own explanation accounts for that convergence directly: it is revelation from God, delivered through Prophet Muhammad ﷺ. Its literary character, structure, knowledge, prophecies, guidance, preservation, and relationship with the Messenger ﷺ reinforce one another as parts of one coherent case.
 
