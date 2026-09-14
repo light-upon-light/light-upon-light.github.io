@@ -580,7 +580,7 @@ It also describes features of the natural world with remarkable precision, inclu
     {: .gloss }
 
 1. **Darkness and waves in the deep ocean:** the Qur'an describes a deep sea with layers of darkness, with waves above waves and clouds above them.
-    > “Or ˹their deeds are˺ like the darkness in a deep sea, covered by waves upon waves, topped by ˹dark˺ clouds. Darkness upon darkness! If one stretches out their hand, they can hardly see it.” (**Sūrat al-Nūr 24:40**), Dr. Mustafa Khattab, *The Clear Quran*
+    > “Or ˹their deeds are˺ like the darkness in a deep sea, covered by waves upon waves, topped by ˹dark˺ clouds. Darkness upon darkness! If one stretches out their hand, they can hardly see it. And whoever Allah does not bless with light will have no light.” (**Sūrat al-Nūr 24:40**), Dr. Mustafa Khattab, *The Clear Quran*
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿أَوْ كَظُلُمَـٰتٍۢ فِى بَحْرٍۢ لُّجِّىٍّۢ يَغْشَىٰهُ مَوْجٌۭ مِّن فَوْقِهِۦ مَوْجٌۭ مِّن فَوْقِهِۦ سَحَابٌۭ ۚ ظُلُمَـٰتٌۢ بَعْضُهَا فَوْقَ بَعْضٍ إِذَآ أَخْرَجَ يَدَهُۥ لَمْ يَكَدْ يَرَىٰهَا ۗ وَمَن لَّمْ يَجْعَلِ ٱللَّهُ لَهُۥ نُورًۭا فَمَا لَهُۥ مِن نُّورٍ ۝٤٠﴾ <span class="ayah-ref">سُورَةُ النُّورِ</span></div>
     {: .quote }
@@ -638,7 +638,7 @@ It also describes features of the natural world with remarkable precision, inclu
     {: .gloss }
 
 1. **Milk formation:** the Qur'an draws attention to the production of milk inside livestock in relation to both digestive material and blood.
-    > “And there is certainly a lesson for you in cattle, from whose bellies We give you ˹milk˺ to drink, ˹coming˺ from between digested food and blood: pure milk, pleasant to drink.” (**Sūrat al-Naḥl 16:66**), Dr. Mustafa Khattab, *The Clear Quran*
+    > “And there is certainly a lesson for you in cattle: We give you to drink of what is in their bellies, from between digested food and blood: pure milk, pleasant to drink.” (**Sūrat al-Naḥl 16:66**), Dr. Mustafa Khattab, *The Clear Quran*
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَإِنَّ لَكُمْ فِى ٱلْأَنْعَـٰمِ لَعِبْرَةً ۖ نُّسْقِيكُم مِّمَّا فِى بُطُونِهِۦ مِنۢ بَيْنِ فَرْثٍۢ وَدَمٍۢ لَّبَنًا خَالِصًۭا سَآئِغًۭا لِّلشَّـٰرِبِينَ ۝٦٦﴾ <span class="ayah-ref">سُورَةُ النَّحۡلِ</span></div>
     {: .quote }
