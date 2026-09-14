@@ -647,6 +647,8 @@ The Qur'an contains **114 chapters**, each composed of verses in Arabic. Across 
 
 The strongest examples are those whose counting rules are clear and reproducible. The examples below therefore avoid arbitrary numerical values assigned to letters or comparisons assembled from loosely related words.
 
+These patterns are especially remarkable in light of how the Qur'an was revealed. It emerged through public oral recitation in separate portions over twenty-three years, often in response to unforeseen events and frequently outside its final order, without the ordinary process of private drafting, rearrangement, and revision. Yet the completed text contains numerical relationships extending across individual words, entire chapters, and passages separated throughout the Qur'an. Maintaining such patterns under those conditions adds another striking dimension to its already intricate literary and structural organization.
+
 {% include yt-embed.html url="https://youtu.be/QC3sDbVcAbw" title="Mathematical Miracles in the Qur'an: A Measured Approach" %}
 
 {% include yt-embed.html url="https://youtu.be/11dDOBdQobQ" title="The Numerical Miracles in the Quran | Arabic101" %}
