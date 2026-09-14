@@ -33,9 +33,8 @@ women:
 
 quran:
 
-- add a point that the literary aspect of the quran is an ocean and a full area of research on its own, with further readings and links for the person interested.
-- expand heavily on the literary miracle section and the summit of arabic eloquence part
-- consider strategically adding <details> elements to hide points in sections, link lists, sources list, further reading list or consecutive quran quotations to reduce default length of page
+- expand heavily on the literary miracle section and the summit of arabic eloquence part, with optionally depending on the early classical arabic scholarship on the subject
+- consider strategically adding <details> elements to hide points in sections, link lists, sources list, further reading list or consecutive quran quotations to reduce default length of page. Use the same format of the details element already used on the page
 
 - miconceptions to add: inheritance
 
