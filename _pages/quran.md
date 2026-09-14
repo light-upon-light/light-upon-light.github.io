@@ -672,6 +672,8 @@ It also describes features of the natural world with remarkable precision, inclu
     > In human reproduction, the egg contributes an X chromosome, while the fertilizing sperm carries either an X or a Y chromosome. The sperm in the emitted male reproductive fluid therefore determines whether the resulting embryo is chromosomally XX or XY.
     {: .gloss }
 
+<details class="quran-more quran-more--section" markdown="1">
+<summary>Show more knowledge of nature</summary>
 1. **Orbits of the sun and moon:** the Qur'an describes the sun and the moon each moving in its own rounded course.
     > “And He is the One Who created the day and the night, the sun and the moon—each travelling in an orbit.” (**Sūrat al-Anbiyāʾ 21:33**), Dr. Mustafa Khattab, *The Clear Quran*
     >
@@ -774,6 +776,9 @@ It also describes features of the natural world with remarkable precision, inclu
     {: .quote }
     > Clouds look weightless from the ground. A large rain cloud in fact holds an enormous mass of water, suspended by rising air until it falls as rain.
     {: .gloss }
+{: start="6"}
+
+</details>
 
 ### <span class="num-roman">VII.</span> Numerical Patterns
 {: #numerical-patterns }
