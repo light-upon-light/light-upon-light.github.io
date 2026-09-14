@@ -591,6 +591,8 @@ Some of its historical details are especially striking because the civilizations
 
 {% include yt-embed.html url="https://youtu.be/lEc_ilaHim8" title="Stories of the Prophets: Bible vs. Qur'an" %}
 
+1. A common objection is that the Qur'an simply copied Biblical stories. But in several places it departs from the Bible precisely where the Biblical account contains historically problematic details as shown above—for example, calling Joseph's Egyptian ruler “king” rather than “Pharaoh,” and describing the Israelites at the Exodus as a small group rather than numbering them in the millions. That is difficult to explain as mere copying, since copying would be expected to reproduce the same historical inaccuracies rather than correct them.
+
 1. The Qur'an does not merely inherit earlier material; it selects, compresses, relocates, disputes, corrects and reframes it. The same story can therefore serve different arguments in different chapters without becoming a copy of one fixed source.
     > Genealogical and biographical detail is often reduced while monotheism, judgment, repentance, prophetic perseverance, and moral accountability move to the foreground. This transformation also fits the repetition-with-variation described in the literary section above.
     {: .gloss }
