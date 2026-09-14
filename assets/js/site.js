@@ -435,7 +435,7 @@
 
     function updateSectionButtons() {
       if (!prevBtn || !nextBtn) return;
-      prevBtn.disabled = activeIndex <= 0;
+      prevBtn.disabled = activeIndex < 0; // index 0 can still return to its own top
       nextBtn.disabled = activeIndex !== -1 && activeIndex >= tocLinks.length - 1;
     }
 
@@ -506,9 +506,19 @@
       tocLinks[index].click();
     }
 
+    /* Up returns to the top of the current section first when its heading
+       has scrolled off the top of the viewport (a section too long to fit
+       on screen); only from the heading itself does it step back a section. */
+    function headingAboveViewport(index) {
+      var link = tocLinks[index];
+      var target = link && document.getElementById(decodeURIComponent(link.hash.slice(1)));
+      return !!target && target.getBoundingClientRect().top < -1; // -1: sub-pixel landing after a jump
+    }
+
     if (prevBtn) {
       prevBtn.addEventListener("click", function () {
-        if (activeIndex > 0) goToSection(activeIndex - 1);
+        if (activeIndex >= 0 && headingAboveViewport(activeIndex)) goToSection(activeIndex);
+        else if (activeIndex > 0) goToSection(activeIndex - 1);
       });
     }
     if (nextBtn) {
