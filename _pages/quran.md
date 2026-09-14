@@ -360,7 +360,7 @@ The Qur'an's literary miracle extends far beyond beauty of expression. Its inimi
     > "Like it" here is not an arbitrary standard. The challenge concerns the totality of its language, structure, semantic density, rhetorical force, guidance, and sustained effect on the hearts of people together. Attempts were made, most famously those attributed to Musaylima, but classical Arabic sources treated them as parody, and later critics have not presented them as serious equals. The first audience was both the most qualified to judge the challenge and strongly motivated to reject the Qur'an.
     {: .gloss }
 
-### <span class="num-roman">IV.</span> The Qur'an's Account of Itself
+#### The Qur'an's Account of Itself
 {: #self-referential-character }
 
 The Qur'an repeatedly explains its own source, purpose, delivery, interpretation, and preservation. It states why it should be accepted as revelation, records objections, and answers them within the text.
@@ -388,7 +388,7 @@ Anne-Sylvie Boisliveau studies how the Qur'an describes itself and argues for it
 
 </details>
 
-### <span class="num-roman">V.</span> Appeal to Reason and Invitation of Scrutiny
+### <span class="num-roman">IV.</span> Appeal to Reason and Invitation of Scrutiny
 {: #reason-and-scrutiny }
 
 1. The Qur'an grounds its own authenticity in being coherent and invites the reader to examine it closely.
@@ -497,7 +497,7 @@ Questions, parables, warnings, and answers to objections make reflection part of
 
 </details>
 
-### <span class="num-roman">VI.</span> Earlier Scriptures and Historical Knowledge
+### <span class="num-roman">V.</span> Earlier Scriptures and Historical Knowledge
 {: #knowledge-historical-scientific-and-linguistic }
 
 The Qur'an presents itself as the final revelation in the same prophetic line as Abraham, Moses, and Jesus. It recounts earlier sacred history with an authoritative and independent voice, correcting theological distortions, restoring pure monotheism, and reshaping familiar narratives with remarkable precision.
@@ -538,7 +538,7 @@ Divine guidance therefore extends across human history and beyond the figures na
 
 </details>
 
-### <span class="num-roman">VII.</span> Knowledge of Nature
+### <span class="num-roman">VI.</span> Knowledge of Nature
 {: #nature-knowledge }
 
 The Qur'an repeatedly directs human beings to the natural world as evidence of God's wisdom and power: the heavens and earth, rain, animals, human development, day and night, winds, seas, mountains, and the origins and fragility of life.
@@ -638,7 +638,7 @@ It also describes features of the natural world with remarkable precision, inclu
     > English translations cannot show it, but every command in the Arabic is feminine: *ittakhidhī* (“take”), *kulī* (“eat”), and *fa-slukī* (“follow”). So is the pronoun in *buṭūnihā* (“their bellies”). The bees that build, forage, and make honey are the workers, and every worker bee is female. Arabic often gives collective nouns feminine agreement, so the grammar alone does not settle the point; still, the wording matches the biology.
     {: .gloss }
 
-### <span class="num-roman">VIII.</span> Numerical Patterns
+### <span class="num-roman">VII.</span> Numerical Patterns
 
 {: #numerical-patterns }
 
@@ -777,7 +777,7 @@ These patterns vary in kind. Some are exact correspondences between concepts tha
 
 Their significance is therefore not that any matching count by itself proves divine authorship. Rather, they reveal another level of order within a text already remarkable for its language, composition, and structure—especially when considered alongside the unusual conditions under which the Qur'an was revealed piecemeal over twenty-three years.
 
-### <span class="num-roman">IX.</span> Preservation and Memorization
+### <span class="num-roman">VIII.</span> Preservation and Memorization
 {: #preservation-and-memorization }
 
 The Qur'an's preservation is one of the most remarkable features of its history: it was transmitted simultaneously through writing, memorization, public recitation, and teacher-to-student instruction from the earliest Muslim community onward.
@@ -911,7 +911,7 @@ Recitation, memorization, grammar, commentary, and dictionaries have also sustai
 
 </details>
 
-### <span class="num-roman">X.</span> Prophecies and Fulfilled Predictions
+### <span class="num-roman">IX.</span> Prophecies and Fulfilled Predictions
 {: #prophecies }
 
 The Qur'an contains bold predictions made in circumstances where their fulfillment was far from guaranteed.
@@ -986,7 +986,7 @@ It contains further fulfilled predictions concerning identifiable people and eve
 
 {% include yt-embed.html url="https://youtu.be/ezvPEwizqRc" title="Shocking Predictions in the Sunnah || Mohammed Hijab" %}
 
-### <span class="num-roman">XI.</span> God, Human Purpose, and the Meaning of Life
+### <span class="num-roman">X.</span> God, Human Purpose, and the Meaning of Life
 {: #theology-of-god }
 
 The Qur'an gives a coherent account of God and humanity's relationship with Him. Divine oneness connects its teaching about worship, ethics, human dignity, and judgment. Colin Turner examines this unifying role in his study of Said Nursi's interpretation. [“On Divine Unity,” *The Qur'an Revealed*](https://doi.org/10.1017/9783940924292.003).
@@ -1065,7 +1065,7 @@ These teachings connect patience and hope with the duty to relieve suffering and
 
 </details>
 
-### <span class="num-roman">XII.</span> Guidance, Law, and Morality
+### <span class="num-roman">XI.</span> Guidance, Law, and Morality
 {: #guidance-law-and-morality }
 
 1. The Qur'an presents itself as coming from the same Divine Author as the earlier scriptures: confirming their original teaching, expanding their guidance, and restoring what was altered over time.
@@ -1232,12 +1232,12 @@ The Qur'an explains that gradual delivery strengthens the messenger's heart (25:
 
 These points give only a glimpse of the Qur'an's guidance. The [evidence on his teachings](/messenger#teachings) gives more comprehensive examples from the Qur'an and the teachings of Prophet Muhammad ﷺ.
 
-### <span class="num-roman">XIII.</span> Moral Psychology and Character
+#### Moral Psychology and Character
 {: #moral-psychology }
 
 The Qur'an closely examines human motives, habits, and self-deception. It explains how pride, desire, fear, and social pressure lead people to resist what they know or excuse what they do. These descriptions call readers to examine themselves.
 
-#### Self-deception
+##### Self-deception
 {: #self-deception }
 
 <details class="quran-more quran-more--section" markdown="1">
@@ -1259,7 +1259,7 @@ These descriptions explain recognizable ways in which people justify wrongdoing 
 
 </details>
 
-#### How actions shape the heart
+##### How actions shape the heart
 {: #actions-and-the-heart }
 
 <details class="quran-more quran-more--section" markdown="1">
@@ -1271,7 +1271,7 @@ Remembrance, repentance, and good conduct restore moral awareness. Those conscio
 
 </details>
 
-#### Worship and character
+##### Worship and character
 {: #worship-and-character }
 
 <details class="quran-more quran-more--section" markdown="1">
@@ -1285,7 +1285,7 @@ The Qur'an also judges worship by its effect on conduct. Chapter 107 condemns pr
 
 </details>
 
-### <span class="num-roman">XIV.</span> Historical Impact and Transformation
+### <span class="num-roman">XII.</span> Historical Impact and Transformation
 {: #historical-impact-and-transformation }
 
 <details class="quran-more quran-more--section" markdown="1">
@@ -1314,7 +1314,7 @@ The Qur'an also judges worship by its effect on conduct. Chapter 107 condemns pr
 
 </details>
 
-### <span class="num-roman">XV.</span> The Qur'an and the Messenger Who Proclaimed It
+### <span class="num-roman">XIII.</span> The Qur'an and the Messenger Who Proclaimed It
 {: #quran-and-messenger }
 
 The relationship between the Qur'an and the Messenger ﷺ is itself one of the clearest signs that he was transmitting a revelation rather than composing a book of his own.
@@ -1357,7 +1357,7 @@ The relationship between the Qur'an and the Messenger ﷺ is itself one of the c
     > The Qur'an consoles the Prophet ﷺ, addresses his household, responds to accusations, and comments on political and military crises. The remarkable feature is therefore not that his circumstances leave no trace. It is that personal and contingent events are repeatedly reframed into principles meant to outlive the event that triggered them.
     {: .gloss }
 
-### <span class="num-roman">XVI.</span> What Non-Muslim Scholars and Writers Have Said
+### <span class="num-roman">XIV.</span> What Non-Muslim Scholars and Writers Have Said
 {: #outside-appraisals }
 
 The Qur'an's extraordinary character has not been recognized only by Muslims. Arabists, translators, historians, Christian scholars, and major European literary figures who approached the Qur'an from outside the Muslim tradition have repeatedly remarked on its unique literary form, rhetorical power, beauty, influence, and resistance to translation. Their judgments are especially striking because many of these writers did not accept the Qur'an's claim to divine revelation, and some were openly critical of Islam in other respects.
@@ -1460,7 +1460,7 @@ The significance of these testimonies is that qualities central to the Muslim cl
 
 That agreement is particularly striking because these writers were not simply repeating Muslim devotional language. Sale, Palmer, Gibb, Guillaume, Robinson, Carlyle, Goethe, and others disagreed sharply with Islam on various questions. Yet even criticism repeatedly gave way to acknowledgment that the Qur'an was not an ordinary literary phenomenon.
 
-### <span class="num-roman">XVII.</span> The Cumulative Case
+### <span class="num-roman">XV.</span> The Cumulative Case
 {: #quran-cumulative-case }
 
 The case for the Qur'an's divine origin rests on the extraordinary convergence of its features under the conditions in which the Qur'an emerged. It was recited publicly, piecemeal, and often outside its final order over twenty-three years, through a man who could neither read nor write and had no prior literary career, while responding to events he could not control. Yet the completed text:
