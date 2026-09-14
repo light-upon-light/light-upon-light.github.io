@@ -6,6 +6,7 @@ general:
 - fix quran quotations in natural world section
 - fix between points and the quotations below them. keep a consistent standard (probably putting a space is better for readability)
 - make 19 numerical pattern stronger from linked video and link the video again under that point
+- Add striking and extremely accurate historical details examples
 
 ---
 
