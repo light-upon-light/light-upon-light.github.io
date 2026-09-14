@@ -100,6 +100,7 @@ The Qur'an's literary miracle extends far beyond beauty of expression. Its inimi
 1. The Qur'an contains 114 chapters and extends to more than 600 pages of recited text. The claims on this page concern a work of that scale.
 
 1. Across generations, the Qur'an has been regarded as the summit of Arabic eloquence, by admirers and opponents alike.
+
     {% include yt-embed.html url="https://youtu.be/9gJWIGLJhHM" title="Marvels of the Qur'an | Dr. Ali Ataie" %}
 
     {% include yt-embed.html url="https://youtu.be/abzZL_3Av2E" title="Linguistic Miracle of the Qur'an" %}
