@@ -92,7 +92,8 @@ Secondary material folds into a closed `<details class="quran-more"
 markdown="1">` whose `<summary>` uses theme wording: "Show more verses on this
 theme", "Show another verse on this theme", "Read more on this theme".
 `markdown="1"` is required, or kramdown passes the block through as raw HTML
-and never parses the quotes inside.
+and never parses the quotes inside. Leave a blank line after `</summary>`, so
+the body never starts on the line right under the summary.
 
 - **Verse box**, inside a list item: the point's first verse stays visible and
   the rest go in the box, its tags indented four spaces like the item's other
