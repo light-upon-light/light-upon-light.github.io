@@ -2,8 +2,6 @@
 
 general:
 
-- add sources and further readings under each point, within a details block
-
 ---
 
 aisha:
@@ -28,8 +26,8 @@ women:
 
 quran:
 
+- add sources and further readings under each point, within a details block
 - expand heavily on the literary miracle section and the summit of arabic eloquence part, with optionally depending on the early classical arabic scholarship on the subject
-- consider strategically adding <details> elements to hide points in sections, link lists, sources list, further reading list or consecutive quran quotations to reduce default length of page. Use the same format of the details element already used on the page
 
 - miconceptions to add: inheritance
 
