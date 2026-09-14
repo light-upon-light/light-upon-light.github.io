@@ -986,7 +986,7 @@ It contains further fulfilled predictions concerning identifiable people and eve
 
 {% include yt-embed.html url="https://youtu.be/ezvPEwizqRc" title="Shocking Predictions in the Sunnah || Mohammed Hijab" %}
 
-### <span class="num-roman">X.</span> God, Human Purpose, and the Meaning of Life
+### <span class="num-roman">X.</span> God, Purpose, and the Meaning of Life
 {: #theology-of-god }
 
 The Qur'an gives a coherent account of God and humanity's relationship with Him. Divine oneness connects its teaching about worship, ethics, human dignity, and judgment. Colin Turner examines this unifying role in his study of Said Nursi's interpretation. [“On Divine Unity,” *The Qur'an Revealed*](https://doi.org/10.1017/9783940924292.003).
@@ -1314,7 +1314,7 @@ The Qur'an also judges worship by its effect on conduct. Chapter 107 condemns pr
 
 </details>
 
-### <span class="num-roman">XIII.</span> The Qur'an and the Messenger Who Proclaimed It
+### <span class="num-roman">XIII.</span> The Qur'an and the Man Who Proclaimed It
 {: #quran-and-messenger }
 
 The relationship between the Qur'an and the Messenger ﷺ is itself one of the clearest signs that he was transmitting a revelation rather than composing a book of his own.
@@ -1357,7 +1357,7 @@ The relationship between the Qur'an and the Messenger ﷺ is itself one of the c
     > The Qur'an consoles the Prophet ﷺ, addresses his household, responds to accusations, and comments on political and military crises. The remarkable feature is therefore not that his circumstances leave no trace. It is that personal and contingent events are repeatedly reframed into principles meant to outlive the event that triggered them.
     {: .gloss }
 
-### <span class="num-roman">XIV.</span> What Non-Muslim Scholars and Writers Have Said
+### <span class="num-roman">XIV.</span> What Non-Muslim Scholars Have Said
 {: #outside-appraisals }
 
 The Qur'an's extraordinary character has not been recognized only by Muslims. Arabists, translators, historians, Christian scholars, and major European literary figures who approached the Qur'an from outside the Muslim tradition have repeatedly remarked on its unique literary form, rhetorical power, beauty, influence, and resistance to translation. Their judgments are especially striking because many of these writers did not accept the Qur'an's claim to divine revelation, and some were openly critical of Islam in other respects.
