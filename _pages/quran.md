@@ -564,7 +564,7 @@ It also describes features of the natural world with remarkable precision, inclu
 
     {% include yt-embed.html url="https://youtu.be/J_Dllu42eEA" title="Qur'an on Embryology - Professor Keith L. Moore" %}
 
-2. **Darkness and waves in the deep ocean:** the Qur'an describes a deep sea with layers of darkness, with waves above waves and clouds above them.
+1. **Darkness and waves in the deep ocean:** the Qur'an describes a deep sea with layers of darkness, with waves above waves and clouds above them.
 
     > “Or ˹their deeds are˺ like the darkness in a deep sea, covered by waves upon waves, topped by ˹dark˺ clouds. Darkness upon darkness! If one stretches out their hand, they can hardly see it.” (**Sūrat al-Nūr 24:40**), Dr. Mustafa Khattab, *The Clear Quran*
     >
@@ -574,7 +574,7 @@ It also describes features of the natural world with remarkable precision, inclu
     > Sunlight disappears rapidly with ocean depth. Very little visible light remains in the deep ocean, and below roughly 1,000 metres sunlight no longer penetrates. Oceans also contain **internal waves** beneath their visible surface, travelling along boundaries between layers of water of different densities, while ordinary surface waves occur above them. The verse brings together a deep sea, extreme layered darkness, and waves beneath other waves.
     {: .gloss }
 
-3. **Male and female from the emitted reproductive drop:** the Qur'an connects the creation of male and female specifically with the reproductive drop that is emitted.
+1. **Male and female from the emitted reproductive drop:** the Qur'an connects the creation of male and female specifically with the reproductive drop that is emitted.
 
     > “And He created the pairs—males and females—from a sperm-drop when it is emitted.” (**Sūrat al-Najm 53:45–46**), Dr. Mustafa Khattab, *The Clear Quran*
     >
@@ -584,7 +584,7 @@ It also describes features of the natural world with remarkable precision, inclu
     > In human reproduction, the egg contributes an X chromosome, while the fertilizing sperm carries either an X or a Y chromosome. The sperm in the emitted male reproductive fluid therefore determines whether the resulting embryo is chromosomally XX or XY.
     {: .gloss }
 
-4. **Milk formation:** the Qur'an draws attention to the production of milk inside livestock in relation to both digestive material and blood.
+1. **Milk formation:** the Qur'an draws attention to the production of milk inside livestock in relation to both digestive material and blood.
 
     > “And there is certainly a lesson for you in cattle, from whose bellies We give you ˹milk˺ to drink, ˹coming˺ from between digested food and blood: pure milk, pleasant to drink.” (**Sūrat al-Naḥl 16:66**), Dr. Mustafa Khattab, *The Clear Quran*
     >
@@ -594,7 +594,7 @@ It also describes features of the natural world with remarkable precision, inclu
     > Nutrients from digested food are absorbed through the digestive system and transported through the bloodstream. The mammary glands then draw the substances needed for milk production from the blood and synthesize milk from them. The verse therefore places milk in relation to the two physiological systems involved in providing its raw materials: digestion and blood circulation.
     {: .gloss }
 
-5. **Difficulty breathing at high altitude:** the Qur'an compares intense constriction of the chest to ascending into the sky.
+1. **Difficulty breathing at high altitude:** the Qur'an compares intense constriction of the chest to ascending into the sky.
 
     > “Whoever Allah wills to guide, He opens their heart to Islam. But whoever He wills to leave astray, He makes their chest tight and constricted as if they were climbing up into the sky.” (**Sūrat al-Anʿām 6:125**), Dr. Mustafa Khattab, *The Clear Quran*
     >
@@ -604,7 +604,7 @@ It also describes features of the natural world with remarkable precision, inclu
     > As altitude increases, atmospheric pressure falls and less oxygen is available with each breath. Increasing altitude therefore causes breathlessness and hypoxic stress, making breathing progressively more difficult as a person ascends.
     {: .gloss }
 
-6. **A boundary between fresh and salt water:** the Qur'an describes fresh and salt water meeting while a separating boundary remains between them.
+1. **A boundary between fresh and salt water:** the Qur'an describes fresh and salt water meeting while a separating boundary remains between them.
 
     > “And He is the One Who merges the two bodies of water: one fresh and palatable and the other salty and bitter, placing between them a barrier they cannot cross.” (**Sūrat al-Furqān 25:53**), Dr. Mustafa Khattab, *The Clear Quran*
     >
@@ -614,7 +614,7 @@ It also describes features of the natural world with remarkable precision, inclu
     > This is seen where rivers meet the sea. Because fresh water and salt water differ in density, they do not immediately become one uniform body of water. In strongly stratified estuaries, fresh water can flow above denser salt water, producing distinct water masses separated by a pronounced interface while mixing occurs gradually between them.
     {: .gloss }
 
-7. **Formation of rain clouds:** It describes the ordered processes of rain, clouds, winds, and the revival of dead land.
+1. **Formation of rain clouds:** It describes the ordered processes of rain, clouds, winds, and the revival of dead land.
 
     > “Do you not see that Allah drives clouds? Then He brings them together, then He makes them into a mass, and you see the rain emerge from within it. And He sends down from the sky, mountains [of clouds] within which is hail, and He strikes with it whom He wills and averts it from whom He wills. The flash of its lightening almost takes away the eyesight.” (**Sūrat al-Nūr 24:43**), Saheeh International
     >
@@ -626,7 +626,7 @@ It also describes features of the natural world with remarkable precision, inclu
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿ٱللَّهُ ٱلَّذِى يُرْسِلُ ٱلرِّيَـٰحَ فَتُثِيرُ سَحَابًا فَيَبْسُطُهُۥ فِى ٱلسَّمَآءِ كَيْفَ يَشَآءُ وَيَجْعَلُهُۥ كِسَفًا فَتَرَى ٱلْوَدْقَ يَخْرُجُ مِنْ خِلَـٰلِهِۦ ۖ فَإِذَآ أَصَابَ بِهِۦ مَن يَشَآءُ مِنْ عِبَادِهِۦٓ إِذَا هُمْ يَسْتَبْشِرُونَ ۝٤٨﴾ <span class="ayah-ref">سُورَةُ الرُّومِ</span></div>
     {: .quote }
 
-8. **Expansion of the universe:** the Qur'an describes God as having built the heaven and as continually widening it.
+1. **Expansion of the universe:** the Qur'an describes God as having built the heaven and as continually widening it.
 
     > “We built the universe with ˹great˺ might, and We are certainly expanding ˹it˺.” (**Sūrat al-Dhāriyāt 51:47**), Dr. Mustafa Khattab, *The Clear Quran*
     >
@@ -636,7 +636,7 @@ It also describes features of the natural world with remarkable precision, inclu
     > The word rendered “expanding” is *mūsiʿūn*, an active participle from the root for width and vastness, so it describes ongoing action: “We are making it wide.” Many classical exegetes read it as God's vast power or provision. Its plain wording also fits the modern finding that the universe is expanding, which no one in seventh-century Arabia had reason to propose.
     {: .gloss }
 
-9. **A joined origin of the heavens and earth:** the Qur'an describes the heavens and the earth as once joined together and then split apart, and in the same verse describes water as the origin of all life.
+1. **A joined origin of the heavens and earth:** the Qur'an describes the heavens and the earth as once joined together and then split apart, and in the same verse describes water as the origin of all life.
 
     > “Have those who disbelieved not considered that the heavens and the earth were a joined entity, and We separated them and made from water every living thing? Then will they not believe?” (**Sūrat al-Anbiyāʾ 21:30**), Saheeh International
     >
@@ -646,7 +646,7 @@ It also describes features of the natural world with remarkable precision, inclu
     > The phrase rendered “a joined entity” is *ratq*, things fused or stitched together, and “We separated them” translates *fataqnāhumā*, from *fatq*, the unstitching of what was joined. The verse makes the separation an act of God, and puts it to the disbelievers as something they should reflect on.
     {: .gloss }
 
-10. **The Sun and Moon are described differently:** the Qur'an consistently distinguishes the light of the Sun from that of the Moon. It describes the Sun as a radiant or lamp-like source, while describing the Moon as light.
+1. **The Sun and Moon are described differently:** the Qur'an consistently distinguishes the light of the Sun from that of the Moon. It describes the Sun as a radiant or lamp-like source, while describing the Moon as light.
 
     > “He is the One Who made the sun a radiant source and the moon a reflected light...” (**Sūrat Yūnus 10:5**), Dr. Mustafa Khattab, *The Clear Quran*
     >
@@ -656,7 +656,7 @@ It also describes features of the natural world with remarkable precision, inclu
     > Elsewhere, the same distinction appears again: the Sun is described as a **“shining lamp”**, while the Moon is described as a **light** (25:61; 71:16). The Arabic word *nūr* [light] does not itself mean reflected light, so the Qur'an does not explicitly state the mechanism. The distinction nevertheless fits the physical reality precisely: the Sun generates its own visible light, while the Moon shines by reflecting light from the Sun.
     {: .gloss }
 
-11. **Orbits of the sun and moon:** the Qur'an describes the sun and the moon each moving in its own rounded course.
+1. **Orbits of the sun and moon:** the Qur'an describes the sun and the moon each moving in its own rounded course.
 
     > “And He is the One Who created the day and the night, the sun and the moon—each travelling in an orbit.” (**Sūrat al-Anbiyāʾ 21:33**), Dr. Mustafa Khattab, *The Clear Quran*
     >
@@ -678,7 +678,7 @@ It also describes features of the natural world with remarkable precision, inclu
     > The phrase itself is also striking: “each in an orbit,” <span dir="rtl" lang="ar">كل في فلك</span> (*kullun fī falak*), is a palindrome spanning three Arabic words, with the letters k-l-f-y-f-l-k reading the same from either end. The words describing bodies traveling around a circuit turn back on themselves, and they do so within ordinary, natural Arabic in both verses where they appear.
     {: .gloss }
 
-12. **Fertilizing winds:** the Qur'an explicitly describes the winds as fertilizing.
+1. **Fertilizing winds:** the Qur'an explicitly describes the winds as fertilizing.
 
     > “And We have sent the fertilizing winds and sent down water from the sky and given you drink from it. And you are not its retainers.” (**Sūrat al-Ḥijr 15:22**), Saheeh International
     >
@@ -688,7 +688,7 @@ It also describes features of the natural world with remarkable precision, inclu
     > Wind is an important agent of fertilization in the plant world. Wind-pollinated plants release pollen into the air so that it can be carried to receptive flowers. Winds also contribute to cloud and rainfall processes by transporting moisture and airborne particles involved in condensation.
     {: .gloss }
 
-13. **The sky as a protected covering:** the Qur'an describes the sky above the earth as a protected canopy.
+1. **The sky as a protected covering:** the Qur'an describes the sky above the earth as a protected canopy.
 
     > “And We have made the sky a well-protected canopy, still they turn away from its signs.” (**Sūrat al-Anbiyāʾ 21:32**), Dr. Mustafa Khattab, *The Clear Quran*
     >
@@ -698,7 +698,7 @@ It also describes features of the natural world with remarkable precision, inclu
     > Earth's atmosphere performs several essential protective functions. It absorbs harmful solar radiation, including most dangerous ultraviolet radiation, moderates otherwise extreme temperatures, and causes most incoming meteoroids to burn up before reaching the ground.
     {: .gloss }
 
-14. **Gender of the worker honey bee:** the Qur'an addresses the bees that build homes, gather from fruits, and produce honey in the feminine.
+1. **Gender of the worker honey bee:** the Qur'an addresses the bees that build homes, gather from fruits, and produce honey in the feminine.
 
     > “And your Lord inspired to the bee, ‘Take for yourself among the mountains, houses, and among the trees and [in] that which they construct. Then eat from all the fruits and follow the ways of your Lord laid down [for you].’ There emerges from their bellies a drink, varying in colors, in which there is healing for people. Indeed in that is a sign for a people who give thought.” (**Sūrat al-Naḥl 16:68–69**), Saheeh International
     >
@@ -708,7 +708,7 @@ It also describes features of the natural world with remarkable precision, inclu
     > English translations cannot show it, but every command in the Arabic is feminine: *ittakhidhī* (“take”), *kulī* (“eat”), and *fa-slukī* (“follow”). So is the pronoun in *buṭūnihā* (“their bellies”). The bees that build, forage, and make honey are the workers, and every worker bee is female. Arabic often gives collective nouns feminine agreement, so the grammar alone does not settle the point; still, the wording matches the biology.
     {: .gloss }
 
-15. **Weight of clouds:** the Qur'an calls rain-bearing clouds heavy.
+1. **Weight of clouds:** the Qur'an calls rain-bearing clouds heavy.
 
     > “He is the One Who shows you lightning, inspiring ˹you with˺ hope and fear, and produces heavy clouds.” (**Sūrat al-Raʿd 13:12**), Dr. Mustafa Khattab, *The Clear Quran*
     >
@@ -718,7 +718,7 @@ It also describes features of the natural world with remarkable precision, inclu
     > Clouds look weightless from the ground. A large rain cloud in fact holds an enormous mass of water, suspended by rising air until it falls as rain.
     {: .gloss }
 
-16. **Night wrapped around day:** the Qur'an describes the continual alternation of light and darkness using the language of wrapping one around the other.
+1. **Night wrapped around day:** the Qur'an describes the continual alternation of light and darkness using the language of wrapping one around the other.
 
     > “He created the heavens and the earth for a purpose. He wraps the night around the day, and wraps the day around the night.” (**Sūrat al-Zumar 39:5**), Dr. Mustafa Khattab, *The Clear Quran*
     >
@@ -1668,27 +1668,27 @@ That cumulative case is laid out under [the competing explanations](/messenger/c
 
 The [full evidence library](/messenger) runs to seventeen pages. Each entry there carries its quotation, its reference, and its qualifications.
 
-- **Teachings** — [worship and the inner life](/messenger/worship), [human dignity](/messenger/human-dignity), [justice and conflict](/messenger/justice), [work and public responsibility](/messenger/work-and-authority), [knowledge and nature](/messenger/knowledge), [health, animals, and shared resources](/messenger/health-and-creation), [parents, marriage, and children](/messenger/family), and [everyday character](/messenger/everyday-character).
-- **Life and character** — [what those closest to him saw](/messenger/character), [his life through hardship and power](/messenger/life), and [encounters and later appraisals](/messenger/encounters).
-- **The claim, signs, and sources** — [the competing explanations](/messenger/claim), [the Qur'an he delivered](/messenger/quran), [predictions](/messenger/predictions), [reported miracles](/messenger/miracles), [earlier scripture](/messenger/earlier-scripture), and [the sources themselves](/messenger/sources).
+* **Teachings** — [worship and the inner life](/messenger/worship), [human dignity](/messenger/human-dignity), [justice and conflict](/messenger/justice), [work and public responsibility](/messenger/work-and-authority), [knowledge and nature](/messenger/knowledge), [health, animals, and shared resources](/messenger/health-and-creation), [parents, marriage, and children](/messenger/family), and [everyday character](/messenger/everyday-character).
+* **Life and character** — [what those closest to him saw](/messenger/character), [his life through hardship and power](/messenger/life), and [encounters and later appraisals](/messenger/encounters).
+* **The claim, signs, and sources** — [the competing explanations](/messenger/claim), [the Qur'an he delivered](/messenger/quran), [predictions](/messenger/predictions), [reported miracles](/messenger/miracles), [earlier scripture](/messenger/earlier-scripture), and [the sources themselves](/messenger/sources).
 
 ## Playlist
 
-- This playlist accompanies the page with material on the miraculous nature of the Qur'an and other evidence concerning God and Islam:
+* This playlist accompanies the page with material on the miraculous nature of the Qur'an and other evidence concerning God and Islam:
     > [Evidence for God and Islam (Youtube Playlist)](https://youtube.com/playlist?list=PLwIWQeA8Aq55xC3RctNBswajRBuWgl7Tr)
 
 ## Links
 
-- A comprehensive free book on the miraculous nature of the Qur'an:
+* A comprehensive free book on the miraculous nature of the Qur'an:
     > [A Journey Through The Miraculous Qur'an](https://onereason.org/eternalchallenge/)
-- [Evidences for the truth of Islam \| Mohammed Hijab (Website)](https://mohammedhijab.com/articles/evidences-for-the-truth-of-islam/)
+* [Evidences for the truth of Islam \| Mohammed Hijab (Website)](https://mohammedhijab.com/articles/evidences-for-the-truth-of-islam/)
 
 ## Common Questions
 
-- How can the Qur'an be a miracle for non-Arabic speakers?
+* How can the Qur'an be a miracle for non-Arabic speakers?
     {% include yt-embed.html url="https://youtu.be/5fyF-35naDE" title="How can the Qur'an be a Miracle for NON-ARABIC Speakers? | Arabic101" %}
 
-- Further videos on the miraculous nature of the Qur'an
+* Further videos on the miraculous nature of the Qur'an
     {% include yt-embed.html url="https://youtu.be/9gJWIGLJhHM" title="Marvels of the Qur'an | Dr. Ali Ataie" %}
 
     {% include yt-embed.html url="https://youtu.be/_HlpfgaDATU" title="Conquering Doubts & Confidently Defending Islam | Ali Ataie" %}
@@ -1699,37 +1699,37 @@ The [full evidence library](/messenger) runs to seventeen pages. Each entry ther
 
     {% include yt-embed.html url="https://youtu.be/BDitIpKLhjc" title="Another Sign of the Quran's Divine Origin?" %}
 
-- Why believe?
+* Why believe?
     {% include yt-embed.html url="https://youtu.be/wNrbUwGP5_U" title="Ep 6 Why Islam" %}
 
-    {% include yt-embed.html url="https://youtu.be/VjIL0Gio4yA" title="Millenials are returning to God - Here's why | Blogging Theology" %}
+    {% include yt-embed.html url="https://youtu.be/VjIL0Gio4yA" title="Millenials are returning to God * Here's why | Blogging Theology" %}
 
     {% include yt-embed.html url="https://youtu.be/EQsKDZzd7U8" title="The World's Leading Atheist Admitted: God Exists" %}
 
     {% include yt-embed.html url="https://youtu.be/_HlpfgaDATU" title="Conquering Doubts & Confidently Defending Islam | Ali Ataie" %}
 
-- Does God exist?
+* Does God exist?
     {% include yt-embed.html url="https://youtu.be/x_ZomUjol-s" title="Does God Exist?: A Muslim's Response to Atheism | Ustadh Dr. Ali Ataie" %}
 
     {% include yt-embed.html url="https://youtu.be/If3cNUixEBM" title="Does God Exist? Dr Ali Ataie responds to the New Atheism" %}
 
     {% include yt-embed.html url="https://youtu.be/5pmencwHCKk" title="Rational evidence for God's existence" %}
 
-- Evidence for the truth of Islam
-    {% include yt-embed.html url="https://youtu.be/I7O2WLt2CcM" title="Islam is default Truth - in 33 minutes from start to finish" note="this video summarizes a large portion of the argument being presented on this page" %}
+* Evidence for the truth of Islam
+    {% include yt-embed.html url="https://youtu.be/I7O2WLt2CcM" title="Islam is default Truth * in 33 minutes from start to finish" note="this video summarizes a large portion of the argument being presented on this page" %}
 
-- Are love and mercy really Islam's central message?
+* Are love and mercy really Islam's central message?
     {% include yt-embed.html url="https://youtu.be/KQFrovc_1G0" title="The Power of Love | Al-Habib Ali Al-Jifri" note="turn on English captions" %}
 
     {% include yt-embed.html url="https://youtu.be/TD3jqd-YWec" title="Love & Faith | Al-Habib Ali Al-Jifri" note="turn on English captions" %}
 
-- Is Shari'ah law as cruel as Western media portrays it?
+* Is Shari'ah law as cruel as Western media portrays it?
     {% include yt-embed.html url="https://youtu.be/AHOH_t03sIc" title="What the West Needs to Know About the Shari'ah | Blogging Theology" %}
 
-- Did Prophet Muhammad ﷺ really exist? (Also discussed under [sources and transmission](/messenger/sources).)
+* Did Prophet Muhammad ﷺ really exist? (Also discussed under [sources and transmission](/messenger/sources).)
     {% include yt-embed.html url="https://youtu.be/_mZgSIlX20U" title="Did Muhammad ﷺ really exist? | Blogging Theology" %}
 
-- Is the Qur'an really preserved as it was revealed?
+* Is the Qur'an really preserved as it was revealed?
     {% include yt-embed.html url="https://youtu.be/4l7pbX5J8Lg" title="The Most DIRECT Proof That The Qur'an is From Allah | Arabic101" %}
 
     {% include yt-embed.html url="https://youtu.be/WKlSJa-ZnJQ" title="Has the Qur'an been reliably preserved? | Blogging Theology" %}
@@ -1740,12 +1740,12 @@ The [full evidence library](/messenger) runs to seventeen pages. Each entry ther
 
     {% include yt-embed.html url="https://youtu.be/n281Zyywyn4" title="How To Prove The Qur'an Has Been Preserved Accurately" %}
 
-- How were the Prophet's ﷺ own life and sayings preserved? (Also discussed under [sources and transmission](/messenger/sources).)
+* How were the Prophet's ﷺ own life and sayings preserved? (Also discussed under [sources and transmission](/messenger/sources).)
     > [Hadith preservation and criticism](/messenger/sources#hadith-preservation-and-criticism) — the chains of transmission, narrator biographies, report grading, and published catalogues of forgeries
 
     > [Blind Spots: The Origins of the Western Method of Critiquing Hadith \| Dr. Jonathan Brown](https://yaqeeninstitute.org/read/paper/blind-spots-the-origins-of-the-western-method-of-critiquing-hadith)
 
-- [The Prophet Muhammad's example](/messenger/character)
+* [The Prophet Muhammad's example](/messenger/character)
     {% include yt-embed.html url="https://youtu.be/LeRhJQYZbWw" title="Prophetic Responses in an Age of Ignorance" %}
 
     {% include yt-embed.html url="https://youtu.be/1Ww6b_AUYjw" title="Addressing Muhammad (PBUH)'s Motive: Wealth, Power, or a Greater Purpose? | Ustadh Dr. Ali Ataie" %}
@@ -1755,12 +1755,12 @@ The [full evidence library](/messenger) runs to seventeen pages. Each entry ther
     {% include yt-embed.html url="https://youtube.com/shorts/HcViZkHoxK0" title="Truthfulness of the Prophet (Youtube Short)" %}
 
     {% include yt-embed.html url="https://youtu.be/12r-MsNQi80" title="11 Hadith Every Muslim Should Know" %}
-- Moses, Jesus & Muhammad: three brothers in faith
+* Moses, Jesus & Muhammad: three brothers in faith
     {% include yt-embed.html url="https://youtu.be/vVGiHoPZa0A" title="Similarities in the Abrahamic Tradition | Ustadh Dr. Ali Ataie (Interfaith Dialogue)" %}
 
     {% include yt-embed.html url="https://youtu.be/_DnP0wxvnH4" title="Moses, Jesus & Muhammad: Three Brothers in Faith | Ustadh Dr. Ali Ataie" %}
 
-- Was Prophet Muhammad ﷺ mentioned in previous religions? (Also discussed under [earlier scripture and the prophetic claim](/messenger/earlier-scripture).)
+* Was Prophet Muhammad ﷺ mentioned in previous religions? (Also discussed under [earlier scripture and the prophetic claim](/messenger/earlier-scripture).)
     {% include yt-embed.html url="https://youtu.be/OzSyIla5Z-Q" title="The Praised One ﷺ in World Scriptures | Hamza Yusuf" %}
 
     {% include yt-embed.html url="https://youtu.be/RRlhH3_iedU" title="Muhammad ﷺ the Prophet like Moses" %}
@@ -1781,31 +1781,31 @@ The [full evidence library](/messenger) runs to seventeen pages. Each entry ther
 
 > Some Islamic teachings, verses, and historical events are often quoted without context or presented inaccurately. The pages below examine common claims using the relevant historical, linguistic, and scholarly evidence, while also considering the Qur'an, the teachings of Prophet Muhammad ﷺ, and Islam's broader moral framework.
 
-- Prophet Muhammad's ﷺ marriage to our Lady Aisha
+* Prophet Muhammad's ﷺ marriage to our Lady Aisha
     > [Prophet Muhammad's Marriage to Lady Aisha](/aisha)
 
-- Islam and domestic violence
+* Islam and domestic violence
     > [Islam and the Misreading of Qur'an 4:34](/wadribuhunna)
 
-- Why Islam permits a man more than one wife
+* Why Islam permits a man more than one wife
     > [Four Wives: What the Qur'an Permits and What It Requires](/polygyny)
 
-- The jizya, the tax non-Muslims paid under Muslim rule
+* The jizya, the tax non-Muslims paid under Muslim rule
     > [The Jizya: What Non-Muslims Paid, and What For](/jizya)
 
-- The claim that Islam was spread by the sword
+* The claim that Islam was spread by the sword
     > [Did Islam Spread by the Sword?](/sword)
 
-- The death penalty for apostasy
+* The death penalty for apostasy
     > [Apostasy in Islam](/ridda)
 
-- The severe hudud punishments — amputation, stoning, flogging
+* The severe hudud punishments — amputation, stoning, flogging
     > [The Hudud Punishments in Islam](/punishments)
 
-- Pages coming soon: Islam's treatment of women
+* Pages coming soon: Islam's treatment of women
 
 <!--
-- Islam's treatment of women
+* Islam's treatment of women
     > [Islam and Women](/women) — the status the Qur'an gives women and the
     > verses and reports most often cited against Islam. The page links to the
     > more focused discussions below.
@@ -1813,7 +1813,7 @@ The [full evidence library](/messenger) runs to seventeen pages. Each entry ther
 
 ## Other useful links
 
-- [Is It Hypocritical for Muslims to Criticize Non-Muslim Occupation If Classical Islamic Law Permits Muslims to Rule over Non-Muslims?](https://seekersguidance.org/answers/general-answers-feeds/is-it-hypocritical-for-muslims-to-criticize-non-muslim-occupation-if-classical-islamic-law-permits-muslims-to-rule-over-non-muslims/)
+* [Is It Hypocritical for Muslims to Criticize Non-Muslim Occupation If Classical Islamic Law Permits Muslims to Rule over Non-Muslims?](https://seekersguidance.org/answers/general-answers-feeds/is-it-hypocritical-for-muslims-to-criticize-non-muslim-occupation-if-classical-islamic-law-permits-muslims-to-rule-over-non-muslims/)
 
-- Testimonies
+* Testimonies
     {% include yt-embed.html url="https://youtu.be/G5nSm73o4bw" title="I read the Qur'an as a non-Muslim" %}
