@@ -41,7 +41,7 @@ glossary:
 
 The Qur'an and the life of Prophet Muhammad ﷺ together form a powerful cumulative case for his prophethood.
 
-### The Qur'an
+**The Qur'an**
 
 The Qur'an was delivered through public oral recitation over twenty-three years by a man who could neither read nor write and had no prior literary career. Its passages came separately, often in response to unpredictable events and outside their final order, without the ordinary process of private drafting and revision. Yet across more than 600 pages it sustains a distinctive literary voice and extraordinary precision in syntax, rhetoric, sound, meaning, narrative, and composition. Material revealed years apart forms coherent chapters and intricate large-scale structures, while repeated stories are deliberately reshaped to serve the argument of each context. The Qur'an openly challenged the most accomplished Arabic speakers of its first audience to produce anything comparable and has retained an unmatched place in Arabic literary history.
 
@@ -53,13 +53,13 @@ Any human-authorship explanation must account for all of these features together
 
 The force of the argument lies in this convergence. These are not merely admirable qualities of a religious text; they are features that require an explanation. Taken together, they form a comprehensive case that the Qur'an is not adequately explained as the product of ordinary human authorship, and that its own explanation—that it is revelation from God given to Prophet Muhammad ﷺ as a lasting sign of his prophethood—best accounts for the evidence.
 
-### Prophet Muhammad ﷺ
+**Prophet Muhammad ﷺ**
 
 The life of Prophet Muhammad ﷺ further strengthens that case. He was known for exceptional integrity, mercy, courage, and humility. He embodied the justice and generosity he taught, endured years of persecution rather than abandon his message, and lived simply even after gaining authority. His public leadership and private conduct reflected the same devotion to God and responsibility toward others. His teachings and example transformed Arabia and shaped billions of lives across fourteen centuries, making him one of history's most influential figures.
 
 The main alternative explanations fail to account for the evidence of his life and message. Deliberate fraud does not explain his personal sacrifices or his faithful transmission of revelations that openly corrected him. Sincere error does not explain decades of coherent teaching, sound judgment, and effective leadership. Evil inspiration is incompatible with a message that calls people to worship God, reject Satan and evil, live morally, and resist wrongdoing. The claim that his story was fabricated later is contradicted by early manuscript evidence and by the extensive record of his life carefully preserved by the first generations of Muslims.
 
-### The Cumulative Case
+**The Cumulative Case**
 
 The case is therefore cumulative: the Qur'an's extraordinary qualities, the Prophet Muhammad's ﷺ moral character and lasting influence, and the weakness of alternative explanations all reinforce one another. The Qur'an is presented as a lasting and preserved miracle from God, given to Prophet Muhammad ﷺ as evidence for his message to all humanity. Together with the carefully preserved record of his life, they provide every generation with tangible evidence by which to examine the Qur'an's claim to divine origin and assess Muhammad's ﷺ claim to prophethood.
 
