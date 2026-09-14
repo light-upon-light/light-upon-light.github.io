@@ -83,16 +83,20 @@ than pasting glyphs.
 
 **Never write a hadith number from memory.** `sunnah.com` returns 403 to
 WebFetch and its API needs a key requested by hand, so a reference cannot be
-checked online from here. The corpus is on disk instead, numbered exactly as
-sunnah.com numbers it — 36,512 hadith across the six canonical collections,
-Malik, and three "forties", English and Arabic:
+checked online from here. The corpus is on disk instead — 36,512 hadith across
+the six canonical collections, Malik, and three "forties", English and Arabic:
 
 - `_notes/data/hadith/en/<collection>.jsonl` — `{"n", "b", "h", "g", "en"}`
 - `_notes/data/hadith/ar/<collection>.jsonl` — `{"n", "ar"}`
 
-One hadith per line. `Grep` for `^\{"n": <number>,` to check a reference, or
-grep the `en` files for a distinctive phrase to find one whose number is
-unknown. Roughly one record in eight is too long for the Grep tool, which
+`n` is the sunnah.com number **except for Sahih Muslim**, whose `n` is a
+sequential 1–7563 numbering; Muslim records add `s`, the sunnah.com reference
+(`"2490"`, `"1422b"`). Citing Muslim `n` as a sunnah.com number lands on an
+unrelated report. Cite Malik by book and hadith (`b`/`h`).
+
+One hadith per line. `Grep` for `^\{"n": <number>,` (Muslim: `"s": "<number>[a-z]?",`)
+to check a reference, or grep the `en` files for a distinctive phrase to find
+one whose number is unknown. Roughly one record in eight is too long for the Grep tool, which
 reports `[Omitted long matching line]`; read those with the `uv run python`
 one-liner in `_notes/data/hadith/README.md`.
 
