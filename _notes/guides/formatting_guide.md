@@ -86,8 +86,6 @@ Closed, the card is a small pill (`Summary | Show`) centred in the column; opene
 it becomes the full-width card — a full-width box holding two words read as an
 empty input.
 
-Every page currently carries placeholder bullets.
-
 ## Collapsible boxes
 
 Secondary material folds into a closed `<details class="quran-more"

@@ -68,5 +68,5 @@ mechanism as `breadcrumbs.html`) and labels them separately, showing
 literals in that file; a local `_data/ui-text.yml` would replace the theme's
 whole copy rather than merge one key.
 
-Only `messenger.md` and `_pages/messenger/*.md` currently carry
+Only `messenger.md`, `_pages/messenger/*.md`, and `quran.md` currently carry
 `last_modified_at`; the rest show a publish date alone, which is correct.
