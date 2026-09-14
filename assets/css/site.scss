@@ -709,13 +709,37 @@
     font-size: 0.85em;
   }
 
-  /* Same call for .quran-more (further-verses disclosures in quran.md) --
+  /* Same call for .quran-more (collapsible boxes, see formatting_guide.md) --
      its own "Show ..." summary is apparatus like .yt-embed's "Watch: ...",
-     so it gets the same undo-and-hold-at-0.85em treatment. The quotes
-     inside still pick up their real size from .page__content blockquote
-     above regardless of the <details> nesting. */
+     so it gets the same undo-and-hold-at-0.85em treatment. The quotes inside
+     do NOT come out right on their own: the 0.765em pin above is relative to
+     .page__content, and inside this 0.85em hold it compounds to 0.65em of
+     root (measured 10.4px against 12.24px outside a box). 0.9em of the hold
+     restores the 0.765em every other quotation lands on. */
   [data-font-size="large"] .page__content .quran-more {
     font-size: 0.85em;
+  }
+
+  [data-font-size="large"] .page__content .quran-more blockquote {
+    font-size: 0.9em;
+  }
+
+  /* ...except the section-body form (.quran-more--section, below), whose
+     content is the article's own prose and must grow with the toggle like
+     everything around it. (0,4,0) beats the hold above; the summary alone
+     is pinned back to the 0.765em of root the other "Show ..." labels land
+     on (their 0.9em of the held 0.85em). */
+  [data-font-size="large"] .page__content .quran-more.quran-more--section {
+    font-size: 1em;
+  }
+
+  [data-font-size="large"] .page__content .quran-more--section > summary {
+    font-size: 0.765em;
+  }
+
+  /* Not held, so its quotes go back to the plain 0.765em pin. */
+  [data-font-size="large"] .page__content .quran-more--section blockquote {
+    font-size: 0.765em;
   }
 
   /* The TOC widget (nav.toc, both the desktop sticky sidebar and the
@@ -1414,9 +1438,9 @@
     opacity: 0.75;
   }
 
-  /* Collapsible "further verses" wrapper for the multi-quote points in
-     quran.md's Section IV -- closed by default so a point's second, third,
-     etc. supporting verse doesn't force the whole list open. Same
+  /* Collapsible "further verses" wrapper for multi-quote points in the
+     article pages -- closed by default so a point's second, third, etc.
+     supporting verse doesn't force the whole list open. Same
      taupe/sepia treatment as .yt-embed above (both are apparatus, not
      primary content), but with no video mechanics: content is markdown
      quotes rendered normally, so `markdown="1"` on the <details> tag is
@@ -1452,6 +1476,17 @@
 
   .quran-more[open] > summary::before {
     transform: rotate(90deg);
+  }
+
+  /* Section-body form: a subsection's prose, table or list tucked under its
+     still-visible heading (quran.md), so the TOC and scrollspy only ever
+     point at visible headings. The toggle keeps the apparatus look above,
+     but the opened content is the article itself, so it drops the taupe
+     rule and indent and reads full width. Large-text handling is with the
+     font-size toggle rules near the top of this file. */
+  .quran-more--section {
+    border-inline-start: 0;
+    padding-inline-start: 0;
   }
 
   /* Holds the no-JS fallback link until the script in footer/custom.html

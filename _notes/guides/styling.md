@@ -32,6 +32,13 @@ no JS), as a centred pill that widens to the full card when opened; the
 plain-`<div>`, always-open form is still styled and supported. Markup is `formatting_guide.md`;
 its `--site-tldr-*` values and their contrast ratios are in `_dirt.scss`.
 
+`.quran-more` is the closed `<details>` holding extra verses and section
+bodies (markup in `formatting_guide.md`), styled like `.yt-embed` as
+apparatus: taupe left rule, small "Show …" label, and held at 0.85em under
+large text like the quotes it carries. `.quran-more--section` drops the rule
+and indent and opts back into the large-text bump, since its content is the
+article's own prose; only its summary stays pinned at the apparatus size.
+
 `.toc` keeps the theme's own styling at both widths — the box, the solid
 `--mm-primary-color` title bar, the per-entry dividers. Two restyles of the
 title (a muted uppercase eyebrow over a hairline, then that eyebrow filled
