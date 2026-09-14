@@ -664,16 +664,6 @@ It also describes features of the natural world with remarkable precision, inclu
     > Sunlight disappears rapidly with ocean depth. Very little visible light remains in the deep ocean, and below roughly 1,000 metres sunlight no longer penetrates. Oceans also contain **internal waves** beneath their visible surface, travelling along boundaries between layers of water of different densities, while ordinary surface waves occur above them. The verse brings together a deep sea, extreme layered darkness, and waves beneath other waves.
     {: .gloss }
 
-1. **Male and female from the emitted reproductive drop:** the Qur'an connects the creation of male and female specifically with the reproductive drop that is emitted.
-    > “And He created the pairs—males and females—from a sperm-drop when it is emitted.” (**Sūrat al-Najm 53:45–46**), Dr. Mustafa Khattab, *The Clear Quran*
-    >
-    > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَأَنَّهُۥ خَلَقَ ٱلزَّوْجَيْنِ ٱلذَّكَرَ وَٱلْأُنثَىٰ ۝٤٥ مِن نُّطْفَةٍ إِذَا تُمْنَىٰ ۝٤٦﴾ <span class="ayah-ref">سُورَةُ النَّجۡمِ</span></div>
-    {: .quote }
-    > In human reproduction, the egg contributes an X chromosome, while the fertilizing sperm carries either an X or a Y chromosome. The sperm in the emitted male reproductive fluid therefore determines whether the resulting embryo is chromosomally XX or XY.
-    {: .gloss }
-
-<details class="quran-more quran-more--section" markdown="1">
-<summary>Show more knowledge of nature</summary>
 1. **Orbits of the sun and moon:** the Qur'an describes the sun and the moon each moving in its own rounded course.
     > “And He is the One Who created the day and the night, the sun and the moon—each travelling in an orbit.” (**Sūrat al-Anbiyāʾ 21:33**), Dr. Mustafa Khattab, *The Clear Quran*
     >
@@ -705,6 +695,17 @@ It also describes features of the natural world with remarkable precision, inclu
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿فَمَن يُرِدِ ٱللَّهُ أَن يَهْدِيَهُۥ يَشْرَحْ صَدْرَهُۥ لِلْإِسْلَـٰمِ ۖ وَمَن يُرِدْ أَن يُضِلَّهُۥ يَجْعَلْ صَدْرَهُۥ ضَيِّقًا حَرَجًۭا كَأَنَّمَا يَصَّعَّدُ فِى ٱلسَّمَآءِ ۚ كَذَٰلِكَ يَجْعَلُ ٱللَّهُ ٱلرِّجْسَ عَلَى ٱلَّذِينَ لَا يُؤْمِنُونَ ۝١٢٥﴾ <span class="ayah-ref">سُورَةُ الأَنۡعَامِ</span></div>
     {: .quote }
     > As altitude increases, atmospheric pressure falls and less oxygen is available with each breath. Increasing altitude therefore causes breathlessness and hypoxic stress, making breathing progressively more difficult as a person ascends.
+    {: .gloss }
+
+<details class="quran-more quran-more--section" markdown="1">
+<summary>Show more knowledge of nature</summary>
+
+1. **Male and female from the emitted reproductive drop:** the Qur'an connects the creation of male and female specifically with the reproductive drop that is emitted.
+    > “And He created the pairs—males and females—from a sperm-drop when it is emitted.” (**Sūrat al-Najm 53:45–46**), Dr. Mustafa Khattab, *The Clear Quran*
+    >
+    > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَأَنَّهُۥ خَلَقَ ٱلزَّوْجَيْنِ ٱلذَّكَرَ وَٱلْأُنثَىٰ ۝٤٥ مِن نُّطْفَةٍ إِذَا تُمْنَىٰ ۝٤٦﴾ <span class="ayah-ref">سُورَةُ النَّجۡمِ</span></div>
+    {: .quote }
+    > In human reproduction, the egg contributes an X chromosome, while the fertilizing sperm carries either an X or a Y chromosome. The sperm in the emitted male reproductive fluid therefore determines whether the resulting embryo is chromosomally XX or XY.
     {: .gloss }
 
 1. **A boundary between fresh and salt water:** the Qur'an describes fresh and salt water meeting while a separating boundary remains between them.
