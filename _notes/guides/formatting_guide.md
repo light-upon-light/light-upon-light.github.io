@@ -88,6 +88,26 @@ empty input.
 
 Every page currently carries placeholder bullets.
 
+## Collapsible boxes
+
+Secondary material folds into a closed `<details class="quran-more"
+markdown="1">` whose `<summary>` uses theme wording: "Show more verses on this
+theme", "Show another verse on this theme", "Read more on this theme".
+`markdown="1"` is required, or kramdown passes the block through as raw HTML
+and never parses the quotes inside.
+
+- **Verse box**, inside a list item: the point's first verse stays visible and
+  the rest go in the box, its tags indented four spaces like the item's other
+  blocks.
+- **Section body**, at top level: add `quran-more--section` and open the box
+  on the line after a heading's `{: #id }` (or its one-line intro). Opened, it
+  reads as plain prose and grows with large text (`styling.md`).
+
+Never put a heading inside a box, or the TOC and scrollspy point at hidden
+content; `quran.md`'s preservation box is the one standing exception. A box
+that splits a numbered list restarts its count at 1 — continue it with
+`{: start="N"}` touching the boxed list's last item (traps below).
+
 ## Source citations
 
 Inline citations are plain markdown links with a kramdown inline attribute
