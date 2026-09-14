@@ -335,7 +335,7 @@ The Qur'an's literary miracle extends far beyond beauty of expression. Its inimi
     > "Like it" here is not an arbitrary standard. The challenge concerns the totality of its language, structure, semantic density, rhetorical force, guidance, and sustained effect on the hearts of people together. Attempts were made, most famously those attributed to Musaylima, but classical Arabic sources treated them as parody, and later critics have not presented them as serious equals. The first audience was both the most qualified to judge the challenge and strongly motivated to reject the Qur'an.
     {: .gloss }
 
-#### <span class="num-roman">IV.</span> The Qur'an's Account of Itself
+### <span class="num-roman">IV.</span> The Qur'an's Account of Itself
 {: #self-referential-character }
 
 The Qur'an repeatedly explains its own source, purpose, delivery, interpretation, and preservation. It states why it should be accepted as revelation, records objections, and answers them within the text.
@@ -443,7 +443,6 @@ A fabricator seeking safety could have preferred vague and unfalsifiable claims,
 The Qur'an repeatedly asks listeners to examine their own lives and answer its questions. Human origin, food, water, and fire become subjects for reflection on dependence upon God (56:58–73). Chapter 55 repeatedly asks people to acknowledge His favors. The question *fa-ayna tadhhabūn* [where, then, are you going?] in 81:26 calls them to reconsider their direction. [Qur'an 56:58–73](https://quran.com/56:58-73), [55:13](https://quran.com/55:13), and [81:26](https://quran.com/81:26).
 
 Questions, parables, warnings, and answers to objections make reflection part of the discourse. The listener is called to understand the message and respond to it.
-
 
 ### <span class="num-roman">VI.</span> Earlier Scriptures and Historical Knowledge
 {: #knowledge-historical-scientific-and-linguistic }
@@ -647,7 +646,7 @@ The Qur'an's preservation is one of the most remarkable features of its history:
 #### The text, its script, and its readings
 {: #text-and-writing-system }
 
-Qur'anic preservation involves three connected elements: **the wording of the text**, **the script that records it**, and **the traditions through which it is recited**. Distinguishing them makes the manuscript evidence clear.
+Qur'anic preservation involves three connected elements: the wording of the text, the script that records it, and the traditions through which it is recited. Distinguishing them makes the manuscript evidence clear.
 
 | Feature | Function | Significance for preservation |
 | --- | --- | --- |
@@ -663,7 +662,7 @@ Zuhayr's inscription, dated 24 AH / 644–645 CE, includes consonantal dots. It 
 #### The canonical readings
 {: #canonical-readings }
 
-The **qirāʾāt [recognized Qur'anic reading traditions]** preserve transmitted ways of reciting the Qur'an. The familiar Ḥafṣ transmission from ʿĀṣim and Warsh transmission from Nāfiʿ belong to this tradition. Classical Sunni scholarship recognized ten canonical readings, each with named transmitters and specified transmission routes. This classification organized an existing recitation tradition.
+The *qirāʾāt* [recognized Qur'anic reading traditions] preserve transmitted ways of reciting the Qur'an. The familiar Ḥafṣ transmission from ʿĀṣim and Warsh transmission from Nāfiʿ belong to this tradition. Classical Sunni scholarship recognized ten canonical readings, each with named transmitters and specified transmission routes. This classification organized an existing recitation tradition.
 
 Acceptance required sound transmission, conformity with Arabic, and compatibility with at least one standard regional codex. Those codices shared an overwhelmingly stable text with limited regional differences. The seven *aḥruf* [authorized modes of revelation, whose precise meaning is disputed] are distinct from both the seven readings selected by Ibn Mujāhid and the later canon of ten. [Marijn van Putten, *Quranic Arabic: From Its Hijazi Origins to Its Classical Reading Traditions*](https://doi.org/10.1163/9789004506251).
 
@@ -686,12 +685,12 @@ The readings preserve a defined body of transmitted variation whose wording and 
 
 1. **Manuscript dates draw on several kinds of evidence.** Radiocarbon testing of the Birmingham fragments dates the animal skin. Dating the writing also requires attention to script, layout, and textual relationships. Each fragment directly attests the passages it contains. [University of Birmingham, manuscript FAQ](https://www.birmingham.ac.uk/facilities/cadbury/birmingham-quran-mingana-collection/birmingham-quran/faqs).
 
-The evidence supports **an exceptionally early standard text, transmitted with remarkable stability alongside defined reading traditions**. Early variants and the history of standardization belong within that account of preservation.
+The evidence supports an exceptionally early standard text, transmitted with remarkable stability alongside defined reading traditions. Early variants and the history of standardization belong within that account of preservation.
 
 #### Early establishment of the standard text
 {: #early-textual-closure }
 
-Shared spelling details and relationships among manuscripts point to a common written ancestor. Nicolai Sinai argues that a standard consonantal text by about **650 CE or earlier** is the best starting point for historical analysis. This places its establishment within a generation of the Prophet's ﷺ death, close to the traditional date of ʿUthmān's standardization. [“When did the consonantal skeleton of the Quran reach closure? Part II”](https://doi.org/10.1017/S0041977X14000111).
+Shared spelling details and relationships among manuscripts point to a common written ancestor. Nicolai Sinai argues that a standard consonantal text by about 650 CE or earlier is the best starting point for historical analysis. This places its establishment within a generation of the Prophet's ﷺ death, close to the traditional date of ʿUthmān's standardization. [“When did the consonantal skeleton of the Quran reach closure? Part II”](https://doi.org/10.1017/S0041977X14000111).
 
 This early evidence directly challenges theories that place the Qur'an's basic composition two or three centuries later. Research into the earliest collection, regional copies, spelling, and readings refines the history of a text already established near Islam's beginnings.
 
@@ -808,14 +807,14 @@ The Qur'an gives a coherent account of God and humanity's relationship with Him.
 #### God's transcendence and nearness
 {: #transcendence-and-nearness }
 
-> Nothing is like Him; He is the Hearing, the Seeing. [Qur'an 42:11](https://quran.com/42:11), translation prepared for this discussion.
+> "[He is] Creator of the heavens and the earth. He has made for you from yourselves, mates, and among the cattle, mates; He multiplies you thereby. There is nothing like unto Him, and He is the Hearing, the Seeing." (**Sūrat al-Shūrā 42:11**), Saheeh International
 >
-> <div dir="rtl" lang="ar" class="quran-arabic">لَيْسَ كَمِثْلِهِ شَيْءٌ وَهُوَ السَّمِيعُ الْبَصِيرُ</div>
+> <div dir="rtl" lang="ar" class="quran-arabic">﴿فَاطِرُ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ ۚ جَعَلَ لَكُم مِّنْ أَنفُسِكُمْ أَزْوَٰجًا وَمِنَ ٱلْأَنْعَـٰمِ أَزْوَٰجًا ۖ يَذْرَؤُكُمْ فِيهِ ۚ لَيْسَ كَمِثْلِهِۦ شَىْءٌ ۖ وَهُوَ ٱلسَّمِيعُ ٱلْبَصِيرُ ۝١١﴾ <span class="ayah-ref">سُورَةُ الشُّورَىٰ</span></div>
 {: .quote }
 
-> When My servants ask you about Me, I am near. I answer the caller's prayer when they call upon Me. [Qur'an 2:186](https://quran.com/2:186), translation of an excerpt prepared for this discussion.
+> "When My servants ask you ˹O Prophet˺ about Me: I am truly near. I respond to one’s prayer when they call upon Me. So let them respond ˹with obedience˺ to Me and believe in Me, perhaps they will be guided ˹to the Right Way˺." (**Sūrat al-Baqarah 2:186**), Dr. Mustafa Khattab, *The Clear Quran*
 >
-> <div dir="rtl" lang="ar" class="quran-arabic">وَإِذَا سَأَلَكَ عِبَادِي عَنِّي فَإِنِّي قَرِيبٌ أُجِيبُ دَعْوَةَ الدَّاعِ إِذَا دَعَانِ</div>
+> <div dir="rtl" lang="ar" class="quran-arabic">﴿وَإِذَا سَأَلَكَ عِبَادِى عَنِّى فَإِنِّى قَرِيبٌ ۖ أُجِيبُ دَعْوَةَ ٱلدَّاعِ إِذَا دَعَانِ ۖ فَلْيَسْتَجِيبُوا۟ لِى وَلْيُؤْمِنُوا۟ بِى لَعَلَّهُمْ يَرْشُدُونَ ۝١٨٦﴾ <span class="ayah-ref">سُورَةُ البَقَرَةِ</span></div>
 {: .quote }
 
 God is beyond comparison with creation and directly accessible in prayer. He knows every thought, need, and concern. [50:16](https://quran.com/50:16) joins His knowledge of inward whispering with nearness greater than the jugular vein. Explanations of this nearness include divine knowledge and the proximity of His angels, consistent with His transcendence of creation. [Ibn Kathir on 50:16](https://quran.com/50:16/tafsirs/en-tafisr-ibn-kathir).
