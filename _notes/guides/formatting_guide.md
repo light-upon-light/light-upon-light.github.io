@@ -54,8 +54,8 @@ mobile TOC disclosure to sit below it (see `theme_internals.md`). No page
 uses it at present.
 
 Deliberately **not** a markdown heading: `toc_levels: 2..3` on the
-misconception pages and no `toc_levels` on `quran.md` mean an `## TL;DR`
-would enter some TOCs and not others. The `<span>` keeps every page's TOC
+misconception pages and `1..3` on `quran.md` mean an `## TL;DR`
+would enter the TOC and read as a section of the article. The `<span>` keeps every page's TOC
 identical.
 
 On the seven misconception pages a real `## Introduction` follows the card,
