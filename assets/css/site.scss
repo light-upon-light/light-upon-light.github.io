@@ -1464,6 +1464,13 @@
     padding-inline-start: 0.75em;
   }
 
+  /* Closing a list point, the 0.6em bottom margin is what separates it from
+     the next point -- match a <p>'s ~1.3em so the rhythm stays even. */
+  li > .yt-embed:last-child,
+  li > .quran-more:last-child {
+    margin-bottom: 1.3em;
+  }
+
   .quran-more > summary {
     cursor: pointer;
     color: var(--site-src-text);
