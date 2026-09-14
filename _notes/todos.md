@@ -2,12 +2,10 @@
 
 general:
 
-- strengthen overall points
-
 - strenghen tldr
-- redo the cumulative case section after all edits
 
 - add sources and further readings under each point, within a details block
+- add "taqsha3er" verse
 
 ---
 
