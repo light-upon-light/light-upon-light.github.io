@@ -52,7 +52,7 @@ The Qur'an's literary voice is recognizably distinct from Prophet Muhammad ﷺ's
 
 Any human-authorship explanation must account for all of these features together under the conditions in which the Qur'an emerged: its mode of revelation, sustained literary quality, intricate structure, numerical patterns, fulfilled predictions, striking knowledge of the natural world, historical and linguistic details, preservation, distinct voice, and the Prophet's relationship to the text.
 
-The force of the argument lies in this convergence. These are not merely admirable qualities of a religious text; they are features that require an explanation. Taken together, they form a comprehensive case that the Qur'an is not adequately explained as the product of ordinary human authorship, and that its own explanation—that it is revelation from God given to Prophet Muhammad ﷺ as a lasting sign of his prophethood—best accounts for the evidence.
+The strength of the argument lies in this convergence. These are not merely admirable qualities of a religious text; they are features that require an explanation. Taken together, they form a comprehensive case that the Qur'an is not adequately explained as the product of ordinary human authorship, and that its own explanation—that it is revelation from God given to Prophet Muhammad ﷺ as a lasting sign of his prophethood—best accounts for the evidence.
 
 **Prophet Muhammad ﷺ**
 
@@ -1485,7 +1485,7 @@ The case for the Qur'an's divine origin rests on the extraordinary convergence o
 * transforms the society that first received it and continues to shape the lives of around two billion people in its original language;
 * and has compelled even non-Muslim Arabists, translators, historians, and literary figures to acknowledge its unusual form, rhetorical power, and unique place in Arabic literature.
 
-The force of the argument lies in how these features converge in one text and one prophetic career. Any human-authorship explanation has to account for that convergence as a whole: the Qur'an's mode of emergence, literary and structural achievement, numerical patterns, distinct voice, knowledge, predictions, preservation, theology, moral insight and consistency, its relationship with the Messenger ﷺ, and its transformative effect on the lives of billions of people.
+The strength of the argument lies in how these features converge in one text and one prophetic career. Any human-authorship explanation has to account for that convergence as a whole: the Qur'an's mode of emergence, literary and structural achievement, numerical patterns, distinct voice, knowledge, predictions, preservation, theology, moral insight and consistency, its relationship with the Messenger ﷺ, and its transformative effect on the lives of billions of people.
 
 The Qur'an's own explanation accounts for that convergence directly: it is revelation from God and a lasting miracle given to Prophet Muhammad ﷺ as evidence for his universal message to humanity.
 > “It is not ˹possible˺ for this Qur'an to have been produced by anyone other than Allah. In fact, it is a confirmation of what came before, and an explanation of the Scripture. It is, without a doubt, from the Lord of all worlds.” (**Sūrat Yūnus 10:37**), Dr. Mustafa Khattab, *The Clear Quran*
