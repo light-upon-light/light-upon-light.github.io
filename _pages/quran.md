@@ -1033,8 +1033,7 @@ The case for the Qur'an's divine origin rests on the extraordinary convergence o
 
 The force of the argument lies in how these features converge in one text and one prophetic career. Any human-authorship explanation has to account for that convergence as a whole: the Qur'an's mode of emergence, literary and structural achievement, distinct voice, knowledge, predictions, preservation, moral consistency, its relationship with the Messenger ﷺ, and its transformative effect on the lives of millions of people.
 
-The Qur'an's own explanation accounts for that convergence directly: it is revelation from God, delivered through Prophet Muhammad ﷺ. Its literary character, structure, knowledge, prophecies, guidance, preservation, and relationship with the Messenger ﷺ reinforce one another as parts of one coherent case.
-
+The Qur'an's own explanation accounts for that convergence directly: it is revelation from God and a lasting miracle given to Prophet Muhammad ﷺ as evidence for his universal message to humanity.
 > “This ˹Qur'an˺ could not have been produced by anyone other than God. In fact, it is a confirmation of what came before and an explanation of the Scripture. It is, without a doubt, from the Lord of all worlds.” (**Sūrat Yūnus 10:37**), Dr. Mustafa Khattab, *The Clear Quran*
 >
 > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَمَا كَانَ هَـٰذَا ٱلْقُرْءَانُ أَن يُفْتَرَىٰ مِن دُونِ ٱللَّهِ وَلَـٰكِن تَصْدِيقَ ٱلَّذِى بَيْنَ يَدَيْهِ وَتَفْصِيلَ ٱلْكِتَـٰبِ لَا رَيْبَ فِيهِ مِن رَّبِّ ٱلْعَـٰلَمِينَ ۝٣٧﴾ <span class="ayah-ref">سُورَةُ يُونُسَ</span></div>
