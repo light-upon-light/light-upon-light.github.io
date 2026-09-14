@@ -1236,7 +1236,6 @@ The case for the Qur'an's divine origin rests on the extraordinary convergence o
 - describes features of the natural world with a precision that remains remarkable in its seventh-century setting;
 - makes specific predictions about future events, including the Roman recovery and the Muslims' secure return to the Sacred Mosque, and sees them fulfilled;
 - predicts its own preservation and ease of remembrance, then becomes a scripture transmitted through an extraordinary combination of early manuscripts, a recoverable written archetype, inherited oral readings, public recitation, and mass memorization;
-- enters the dated public record within decades, in inscriptions, coins, and papyri;
 - maintains a literary voice distinct from the Prophet's ﷺ ordinary speech and repeatedly presents him as subject to the revelation rather than its author;
 - withholds revelation when delay harms him, permanently records corrections of him, and even threatens him were he to fabricate anything in God's name;
 - presents a coherent account of God's oneness, transcendence, and nearness, and of human purpose, suffering, and judgment;
