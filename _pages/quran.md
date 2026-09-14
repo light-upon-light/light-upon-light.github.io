@@ -637,102 +637,141 @@ It also describes features of the natural world with remarkable precision, inclu
     {: .gloss }
 
 ### <span class="num-roman">VIII.</span> Numerical Patterns
+
 {: #numerical-patterns }
 
-The Qur'an contains remarkable numerical patterns: word-count correspondences, symmetries, and recurring structural relationships distributed across the text. The strongest examples are those whose counting rules are clear and directly reproducible. A few are presented below.
+The Qur'an contains **114 chapters**, each composed of verses in Arabic. Across that text are a number of striking numerical relationships involving the recurrence of particular words, grammatical forms, letters, verses, and chapter structures. Some involve concepts that the Qur'an itself explicitly connects or contrasts; others appear within the structure of individual chapters.
 
-> These patterns add another layer to the Qur'an's literary architecture: relationships can appear not only in meaning and composition, but also in the recurrence and distribution of words and forms across distant passages.
-{: .gloss }
+The strongest examples are those whose counting rules are clear and reproducible. The examples below therefore avoid arbitrary numerical values assigned to letters or comparisons assembled from loosely related words.
 
 {% include yt-embed.html url="https://youtu.be/QC3sDbVcAbw" title="Mathematical Miracles in the Qur'an: A Measured Approach" %}
 
 {% include yt-embed.html url="https://youtu.be/11dDOBdQobQ" title="The Numerical Miracles in the Quran | Arabic101" %}
 
-1. **Adam and Jesus:** the Qur'an explicitly compares Jesus with Adam in 3:59: **“Indeed, the example of Jesus before God is like that of Adam.”** Across the entire Qur'an, the proper name **Adam occurs 25 times and Jesus occurs 25 times**. Even more strikingly, 3:59 is the **seventh occurrence of each name** from the beginning of the Qur'an—the very verse in which the text places them in direct comparison.
+1. **Adam and Jesus:** the Qur'an explicitly compares Jesus with Adam because both had miraculous births:
 
-   > This is an unusually clear correspondence because it requires no grouping of synonyms or related words: it simply counts the two proper names whose relationship the Qur'an itself states.
-
+   > **“Indeed, the example of Jesus before God is like that of Adam.”** (3:59)
+   >
+   > Across the entire Qur'an, the proper name **Adam occurs 25 times and Jesus occurs 25 times**. Even more strikingly, 3:59 is the **seventh occurrence of each name** from the beginning of the Qur'an—the very verse in which the text directly compares them.
+   >
+   > This requires no grouping of synonyms or related words: it simply counts the two proper names whose relationship the Qur'an itself states.
    {: .gloss }
 
-1. **Angels and devils:** the Qur'anic noun *malak* [angel], counting its singular, dual, and plural forms, occurs **88 times**. The noun *shayṭān* [Satan or devil], likewise counting its grammatical forms, also occurs **88 times**.
+1. **This world and the Hereafter:** one of the Qur'an's central contrasts is between *dunyā* [this worldly life] and *ākhirah* [the Hereafter]. It repeatedly asks people not to sacrifice the lasting life to come for the temporary attractions of the present one.
 
-   > The correspondence uses the same counting rule on both sides: each noun is counted across its grammatical forms. No synonyms, related words, or special exclusions are needed.
+   > *Dunyā* occurs **115 times**, and *ākhirah* also occurs **115 times**.
+   >
+   > The equality is especially notable because these are not two concepts selected merely because their totals happen to match; the Qur'an itself repeatedly sets them against one another.
    {: .gloss }
 
-1. **This world and the Hereafter:** *dunyā* [this worldly life] occurs **115 times** in the Qur'an, and *ākhirah* [the Hereafter] also occurs **115 times**.
+1. **Angels and devils:** angels and devils represent opposing spiritual influences throughout the Qur'an. Counting the grammatical forms of the Arabic noun *malak* [angel] gives **88 occurrences**. Applying the same rule to *shayṭān* [Satan or devil] also gives **88 occurrences**.
 
-   > The correspondence is especially striking because the Qur'an repeatedly places the two in direct opposition: people choose between the present life and the Hereafter, receive consequences in both, and are repeatedly told that the Hereafter is greater and more lasting. Two of the Qur'an's most fundamental contrasting realities are therefore named an equal number of times.
+   > The same counting method is used on both sides: singular, dual, and plural forms of each noun are included, without adding synonyms or loosely related words.
    {: .gloss }
 
-1. **Seven heavens:** the Qur'an describes the heavens as **seven in exactly seven passages**: 2:29, 17:44, 23:86, 41:12, 65:12, 67:3, and 71:15.
+1. **Twelve months:** the Qur'an explicitly states:
 
-   > The grammatical wording varies, but in each of these seven passages the number seven is explicitly attached to the heavens.
-
+   > **“Indeed, the number of months with God is twelve months.”** (9:36)
+   >
+   > The singular Arabic form *shahr* [month] occurs **exactly twelve times** in the Qur'an.
+   >
+   > The count is specifically of the singular grammatical form. Separate dual and plural forms are not included, so the rule is defined independently of the desired total.
    {: .gloss }
 
-1. **Man and woman:** the singular form *rajul* [man] occurs **24 times**, and the singular form *imraʾah* [woman] likewise occurs **24 times**.
+1. **Seven heavens:** the Qur'an repeatedly speaks of **seven heavens**. The number seven is explicitly attached to the heavens in exactly **seven passages**: 2:29, 17:44, 23:86, 41:12, 65:12, 67:3, and 71:15.
 
-   > This counts the same grammatical category on both sides: singular occurrences only. Dual and plural forms are separate grammatical forms and are not included.
+   > The wording varies grammatically between the passages, but in each case the text explicitly describes the heavens as seven.
    {: .gloss }
 
-1. **“Say” and “they said”:** the exact imperative *qul* [say] occurs **332 times** in the Qur'an. The corresponding past-tense plural *qālū* [they said] also occurs **332 times**.
+1. **The number 19:** one number receives unusually explicit attention in the Qur'an. Sūrat al-Muddaththir describes the guardians appointed over Hell and then states:
 
-   > Both are fixed grammatical forms of the same verb, *qāla* [to say]. The Qur'an repeatedly moves between the command given to the Prophet ﷺ—“Say”—and the speech it records from people—“they said”—and these two exact forms occur in equal number.
-   {: .gloss }
-
-1. **Twelve months:** the singular grammatical form of *shahr* [month] occurs **exactly twelve times** in the Qur'an. The Qur'an itself states the number in 9:36: **“Indeed, the number of months with God is twelve months.”**
-
-   > The twelve count is specifically of the singular form; the separate dual and plural forms are not included. The distinction is grammatical and can therefore be applied consistently throughout the text.
-   {: .gloss }
-
-1. **The middle of Sūrat al-Baqarah:** Sūrat al-Baqarah contains **286 verses**, dividing exactly into two halves of **143 verses each**. At that division, verse **143** describes the believers as **“a middle community”** (*ummatan wasaṭan*).
-
-   > Verses 1–143 form the first 143 verses and 144–286 the remaining 143. The word *wasaṭan* means middle, balanced, or justly balanced. The description of the Muslim community as “middle” therefore appears precisely at the numerical middle division of the Qur'an's longest chapter.
-   {: .gloss }
-
-1. **The number 19:** the Qur'an uniquely singles out the number **19** in Sūrat al-Muddaththir: **“Over it are nineteen”** (74:30). The very next verse gives unusual significance to the number itself, stating that it was appointed as a **test**, so that the People of the Scripture may attain certainty, **believers may increase in faith**, and neither group may have doubts (74:31). A striking series of numerical relationships involving 19 appears around this statement and elsewhere in the Qur'an:
+   > **“Over it are nineteen.”** (74:30)
+   >
+   > The following verse explains that God appointed angels as the guardians and specifically made their number a **test**, so that the People of the Scripture may attain certainty, believers may increase in faith, and neither group may doubt (74:31). This makes 19 unusual among Qur'anic numbers: the text itself explicitly draws attention to the significance of the number.
+   >
+   > A series of numerical relationships involving 19 then appears in the surrounding passage and elsewhere in the Qur'an:
+   >
    > * From the beginning of Sūrat al-Muddaththir to the word **“nineteen”** in 74:30 are **95 words = 19 × 5**.
    > * Counting the Arabic letters from the beginning of the chapter through the word **“nineteen”** gives **361 letters = 19 × 19**.
    > * The first **19 verses** of Sūrat al-Muddaththir contain **57 words = 19 × 3**.
-   > * Verse 74:31—the verse explaining why the number was appointed—also contains **57 words = 19 × 3**.
-   > * The first revelation, Qur'an 96:1–5, consists of **19 words containing 76 letters = 19 × 4**.
-   > * Sūrat al-ʿAlaq itself contains **19 verses** and **285 letters = 19 × 15**.
-   > * Sūrat al-ʿAlaq is chapter 96 of 114, placing it **19th from the end of the Qur'an**.
+   > * Verse 74:31—the very verse explaining why the number was appointed—also contains **57 words = 19 × 3**.
+   > * The first passage revealed to Prophet Muhammad ﷺ is generally identified as the opening five verses of Sūrat al-ʿAlaq, 96:1–5. Those verses contain **19 words and 76 letters = 19 × 4**.
+   > * The remaining verses of Sūrat al-ʿAlaq contain **209 letters = 19 × 11**.
+   > * The complete Sūrat al-ʿAlaq contains **19 verses** and **285 letters = 19 × 15**.
+   > * Sūrat al-ʿAlaq is chapter 96 of 114, making it the **19th chapter when counted from the end** of the Qur'an.
    > * The complete Qur'an contains **114 chapters = 19 × 6**.
-   > * The opening formula, **“In the name of God, the Most Compassionate, the Most Merciful,”** contains **19 written Arabic letters** and occurs **114 times = 19 × 6** across the Qur'an.
-   > * Sūrat Maryam is itself **chapter 19**. It opens with the disconnected letters *kāf-hā-yā-ʿayn-ṣād*; those five letters occur **798 times = 19 × 42** throughout the chapter.
-   > * Seven consecutive chapters, 40–46, open with the letters *Ḥā Mīm*. Across this naturally defined group, **ḥā and mīm occur 2,147 times = 19 × 113**.
-   > * The only two chapters whose disconnected opening letters contain *qāf* are Sūrat al-Shūrā (42) and Sūrat Qāf (50). Each contains **57 qāfs = 19 × 3**, giving **114 qāfs = 19 × 6** between them.
+   > * The opening formula **“In the name of God, the Most Compassionate, the Most Merciful”** contains **19 written Arabic letters** and occurs **114 times = 19 × 6**.
+   > * Some Qur'anic chapters begin with isolated Arabic letters whose precise meaning is not explained in the text. These are recited as individual letter names rather than as ordinary words. Sūrat Maryam is itself **chapter 19** and begins with five such letters: *kāf-hā-yā-ʿayn-ṣād*. Those five letters occur **798 times = 19 × 42** throughout the chapter.
+   > * Seven consecutive chapters, 40–46, begin with the same isolated letters *Ḥā Mīm*. Across those seven chapters, the letters **ḥā and mīm occur 2,147 times = 19 × 113**.
+   > * Only two chapters have the letter *qāf* among their isolated opening letters: Sūrat al-Shūrā (42) and Sūrat Qāf (50). Each contains **57 occurrences of qāf = 19 × 3**, giving **114 = 19 × 6** between them.
    >
-   > What makes these relationships especially notable is that 19 is not a number chosen after searching the text for convenient divisibility. The Qur'an itself draws attention to it and explicitly connects its appointment with testing, certainty, the removal of doubt, and an increase in faith. The same number then recurs in the structure surrounding that declaration, in the first revealed passage, in chapters marked by disconnected opening letters, and in the Qur'an's overall number of chapters.
+   > What makes these relationships especially notable is that 19 is not merely a number selected afterward because some quantities happen to be divisible by it. The Qur'an itself singles the number out and immediately states that its appointment serves as a test connected with certainty, doubt, and increased faith. The same number then recurs in the structure surrounding that statement, the first revealed passage, the Qur'an's chapter count, its recurring opening formula, and chapters marked by particular isolated opening letters.
    {: .gloss }
 
-1. **The letter qāf in its two initialed chapters:** only two chapters have *qāf* among their disconnected opening letters: Sūrat al-Shūrā (42), which opens with *Ḥā Mīm ʿAyn Sīn Qāf*, and Sūrat Qāf (50), which opens with *Qāf*. Remarkably, **each chapter contains exactly 57 occurrences of the letter qāf**. Together they contain **114 qāfs—exactly the number of chapters in the Qur'an**.
+1. **The middle of Sūrat al-Baqarah:** Sūrat al-Baqarah is the Qur'an's longest chapter and contains **286 verses**. This divides exactly into two groups of **143 verses**.
 
-   > The correspondence is especially striking because the two chapters differ considerably in length, yet the letter singled out in both of their openings occurs exactly 57 times in each. Moreover, 57 is **3 × 19**, while their combined 114 is **6 × 19**.
+   > At the dividing point, verse **143** describes the believers as an **“ummatan wasaṭan”**—a *middle*, balanced, or justly balanced community.
+   >
+   > Verses 1–143 comprise the first 143 verses, while verses 144–286 comprise the remaining 143. The description of the Muslim community as “middle” therefore appears precisely at the numerical middle division of the Qur'an's longest chapter.
    {: .gloss }
 
-1. **The opening formula and the Qur'an's 114 chapters:** the formula **“In the name of God, the Most Compassionate, the Most Merciful”** appears at the beginning of every chapter except chapter 9, giving 113 chapter openings. Chapter 27 then contains the same complete formula once more within the text, in Solomon's letter at 27:30. The formula therefore occurs **114 times in total—exactly matching the Qur'an's 114 chapters**.
+<details class="quran-more quran-more--section" markdown="1">
+<summary>Read more on this theme</summary>
 
-   > There is a further numerical relationship. Chapter 9 contains the missing opening formula, while chapter 27 contains the additional occurrence; counting from chapter 9 through chapter 27 inclusively gives **19 chapters**, and 114 itself is **6 × 19**. The Qur'an explicitly singles out the number nineteen in 74:30–31 and states that this number was made a test.
+1. **The opening formula and the Qur'an's 114 chapters:** almost every Qur'anic chapter begins with the formula **“In the name of God, the Most Compassionate, the Most Merciful.”** This formula is commonly called the *basmalah*.
+
+   > It appears at the beginning of **113 of the Qur'an's 114 chapters**; chapter 9 is the sole exception. Chapter 27 then contains the complete formula once more within the text itself, in the letter sent by Solomon in verse 27:30. The formula therefore occurs **114 times in total—exactly matching the Qur'an's 114 chapters**.
+   >
+   > There is also a connection with the number 19. In its standard written consonantal form, the formula contains **19 Arabic letters**, while **114 = 19 × 6**. The missing opening formula is in chapter 9 and the additional internal occurrence is in chapter 27; counting inclusively from chapter 9 through chapter 27 also gives **19 chapters**.
    {: .gloss }
 
-1. **Mercy and the Qur'an's 114 chapters:** the noun *raḥmah* [mercy] occurs **114 times**—exactly the number of chapters in the Qur'an.
+1. **“Say” and “they said”:** a distinctive feature of the Qur'an is the repeated command *qul* [say], by which God instructs the Prophet Muhammad ﷺ how to answer questions, objections, or claims. The text also repeatedly introduces the speech of others with *qālū* [they said].
 
-   > This forms a further correspondence with the opening formula described above. The Qur'an contains **114 chapters**, the complete formula “In the name of God, the Most Compassionate, the Most Merciful” occurs **114 times**, and the noun “mercy” itself occurs **114 times**.
+   > The exact form *qul* occurs **332 times**, while the exact form *qālū* also occurs **332 times**.
+   >
+   > These are two fixed grammatical forms of the same Arabic verb, *qāla* [to say]: one commands the Messenger to speak, while the other records what people said.
    {: .gloss }
 
-1. **Night and chapter 92:** words derived from the root of *layl* [night] occur **92 times** in the Qur'an. Sūrat al-Layl [The Night] is itself **chapter 92**, and opens: **“By the night when it covers.”**
+1. **Mercy and the Qur'an's 114 chapters:** the Qur'an contains **114 chapters**. The Arabic noun *raḥmah* [mercy] also occurs **114 times**.
 
-   > The count consists of 84 occurrences of *layl* [night] and eight of *laylah* [a night], two forms of the same root carrying the same basic meaning.
-   {: .gloss }
+    > Mercy is one of the Qur'an's central descriptions of God's relationship with creation, making the correspondence especially fitting. It also connects with the Qur'an's recurring opening formula, which invokes God as **“the Most Compassionate, the Most Merciful.”**
+    {: .gloss }
 
-1. **Sickness and harm:** the Arabic root *m-r-ḍ* [illness or sickness] occurs **24 times** in the Qur'an. The root *ʾ-dh-y* [harm, trouble, or ailment] also occurs **24 times**. The Qur'an itself brings the two concepts together in 2:196, referring to someone who is **“ill or has an ailment.”**
+1. **The numerical center of Sūrat al-Ikhlāṣ:** Sūrat al-Ikhlāṣ is the short 112th chapter of the Qur'an, devoted entirely to God's absolute oneness and uniqueness:
 
-   > Both figures are complete root counts rather than selected grammatical forms: every occurrence belonging to each root is included.
-   {: .gloss }
+    > **“Say: He is God, One; God, the Eternal Refuge. He neither begets nor is born, and there is none comparable to Him.”**
+    >
+    > In its standard written form, the chapter contains **15 words and 47 letters**. Its eighth and exact middle word is *yalid* [begets], in the statement that God **“neither begets nor is born.”**
+    >
+    > The seven words before *yalid* contain **22 letters**, while the seven words after it also contain **22 letters**, producing a **22 + 3 + 22** structure around the three-letter middle word.
+    >
+    > With 47 letters in total, the chapter also has a single exact middle letter—the 24th—which is itself the middle letter of *yalid*. The numerical center of this chapter on God's absolute uniqueness therefore falls within its central denial that God begets.
+    {: .gloss }
 
-These examples are particularly striking because the relevant rules are visible in the text itself: exact proper names, a defined grammatical form, an explicit number attached to a noun, and an exact repeated formula. They can be checked directly without assigning numerical values to letters, altering the written text, or choosing among loosely related synonyms.
+1. **Man and woman:** counting only the singular grammatical forms, *rajul* [man] occurs **24 times** and *imraʾah* [woman] also occurs **24 times**.
+
+    > The same grammatical rule is applied to both words. Dual and plural forms are separate forms and are not included.
+    {: .gloss }
+
+1. **Night and chapter 92:** Sūrat al-Layl, meaning **“The Night,”** is chapter **92** of the Qur'an and begins, **“By the night when it covers.”**
+
+    > Words from the Arabic root of *layl* [night] occur **92 times** throughout the Qur'an: 84 occurrences of *layl* [night] and eight of *laylah* [a night].
+    >
+    > The root associated with “night” therefore occurs the same number of times as the chapter number of the Qur'an's chapter entitled **The Night**.
+    {: .gloss }
+
+1. **Sickness and harm:** the Qur'an sometimes closely associates physical illness with harm or ailment. In 2:196, for example, it speaks of someone who is **“ill or has an ailment.”**
+
+    > The Arabic root *m-r-ḍ*, associated with illness or sickness, occurs **24 times**. The root *ʾ-dh-y*, associated with harm, trouble, or ailment, also occurs **24 times**.
+    >
+    > In both cases the complete root is counted rather than selecting particular grammatical forms.
+    {: .gloss }
+
+</details>
+
+These patterns vary in kind. Some are exact correspondences between concepts that the Qur'an itself connects, such as Adam and Jesus or this world and the Hereafter. Others involve numbers explicitly stated by the Qur'an, such as twelve months, seven heavens, and nineteen. Others are structural relationships within chapters or across the text.
+
+Their significance is therefore not that any matching count by itself proves divine authorship. Rather, they reveal another level of order within a text already remarkable for its language, composition, and structure—especially when considered alongside the unusual conditions under which the Qur'an was revealed piecemeal over twenty-three years.
 
 ### <span class="num-roman">IX.</span> Preservation and Memorization
 {: #preservation-and-memorization }
