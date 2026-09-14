@@ -2,7 +2,7 @@
 
 ## Voice / Writing style of the page
 
-Please write it to match the voice and writing style of the rest of the page that is: direct, concise, natural, confident and affirmative. Don't write it like it's trying to be dramatic or written for effect or concessionary.
+Please write it to match the voice and writing style of the rest of the page: clear, easy-to-read, direct, concise, natural, confident and affirmative. Don't write it like it's trying to be dramatic or written for effect or concessionary.
 
 ## Prompt 1 (best)
 
