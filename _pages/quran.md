@@ -122,7 +122,7 @@ The Qur'an's literary miracle extends far beyond beauty of expression. Its inimi
 
     </details>
 
-1. Prophet Muhammad ﷺ was not known before revelation as a poet, writer, or literary figure, and had produced no body of literary work. Yet the Qur'an he began reciting publicly came to be regarded as the highest standard of Arabic eloquence, a distinction recognized by followers and opponents alike. Its literary mastery therefore appeared without any known background of poetry, authorship, literary training, or gradual development.
+1. Prophet Muhammad ﷺ was not known before revelation as a poet, writer, or literary figure. He had produced no poetry, books, or other literary works and had no known training or apprenticeship in composition. Yet when revelation began, he immediately began reciting the Qur'an publicly—a work that would be recognized as the summit of Arabic eloquence by followers and opponents alike.
    > Al-Walīd ibn al-Mughīrah, a leading opponent of the Prophet ﷺ and a man highly regarded for his knowledge of Arabic poetry, reportedly said after hearing the Qur'an: **“By God, the speech which he utters is sweet and graceful ... it has the upper hand and nothing has the upper hand over it.”** He nevertheless refused to accept the Prophet's message and later called the Qur'an magic.
    {: .gloss }
 
