@@ -470,17 +470,49 @@ Questions, parables, warnings, and answers to objections make reflection part of
 
 The Qur'an presents itself as the final revelation in the same prophetic line as Abraham, Moses, and Jesus. It recounts earlier sacred history with an authoritative and independent voice, correcting theological distortions, restoring pure monotheism, and reshaping familiar narratives with remarkable precision.
 
-1. It gives strikingly accurate historical detail, some of which was confirmed only recently by modern scholarship.
-    {% include yt-embed.html url="https://youtu.be/c2ovILc_sKY" title="The Qur'an and the Secrets of Egypt" %}
+It gives strikingly accurate historical detail, some of which was confirmed only recently by modern scholarship. Several of the strongest examples concern ancient Egyptian and Near Eastern records that had long ceased to be readable: knowledge of Egyptian hieroglyphs disappeared after the fourth century and was recovered only with their modern decipherment in 1822.
 
-    {% include yt-embed.html url="https://youtu.be/BDitIpKLhjc" title="Another Sign of the Quran's Divine Origin?" %}
-
-1. It retells narratives shared with the Bible while correcting their historical errors rather than repeating them.
-    > Examples include the different titles used for the ruler in the accounts of Moses and Joseph, as well as the Qur'an's description of the Israelites as a small group at the exodus.
+1. **“King” in the time of Joseph and “Pharaoh” in the time of Moses:** the Qur'an makes a precise distinction between the titles of the Egyptian rulers in these two periods.
+    > In the story of Joseph, the ruler is repeatedly called *al-malik* [the king] (12:43, 12:50, 12:54), and never Pharaoh. In the story of Moses, the ruler is repeatedly called *Firʿawn* [Pharaoh].
     {: .gloss }
-    {% include yt-embed.html url="https://youtu.be/c2ovILc_sKY" title="The Qur'an and the Secrets of Egypt" %}
+    > Ancient Egyptian records show that *pr-ꜥꜣ* [Great House], from which “Pharaoh” derives, originally referred to the royal palace rather than the king. It only became a designation for the ruler during the New Kingdom, especially from the later Eighteenth Dynasty onward. Egyptologist John A. Wilson states: **“We have been guilty of an anachronism in using the term ‘pharaoh’ for the king of Egypt before the Empire.”** The Joseph tradition is associated with the much earlier Middle Bronze/Hyksos period, while Moses is placed later. The Bible nevertheless repeatedly calls Joseph's ruler “Pharaoh”; the Qur'an does not make that anachronism.
+    {: .gloss }
 
-    {% include yt-embed.html url="https://youtu.be/lEc_ilaHim8" title="Stories of the Prophets: Bible vs. Qur'an" %}
+1. **Saba's two gardens and the flood of the dam:** the Qur'an describes the ancient kingdom of Saba as possessing **“two gardens, one to the right and one to the left”** and then being struck by the **“flood of the dam”** (34:15–16).
+    > Archaeology has revealed the enormous ancient irrigation system at Ma'rib in Yemen. The Great Dam fed canals that transformed the arid region into the largest known artificial oasis of ancient Arabia, with cultivated territory extending on both sides of the valley. UNESCO's World Heritage documentation explicitly describes the ancient oasis as having a configuration of **two “gardens”—the North and South Oasis—created by the Dhana Wadi and its irrigation system**, exactly the landscape described by the Qur'an. The ancient dam ultimately collapsed in the sixth century CE, contributing to the decline of Ma'rib and migration from the region.
+    {: .gloss }
+
+1. **Sun worship in Saba:** in the account of Solomon and the Queen of Saba, the Qur'an reports:
+    > **“I found her and her people prostrating to the sun instead of God.”** (27:24)
+    >
+    > Ancient South Arabian inscriptions recovered from Yemen independently confirm that solar worship formed part of the religion of Saba. A Sabaean inscription from Ma'rib records a dedication by a **king of Saba to his Sun-goddess Tanuf**, whom the British Museum notes was particularly revered by the Sabaean royal family. Other inscriptions from Ma'rib record dedications to **Shams [the Sun]**. This very specific religious detail in the Qur'anic account is therefore directly reflected in the surviving inscriptions of ancient Saba.
+    {: .gloss }
+
+1. **The Israelites are described as a small group at the Exodus:** when Pharaoh mobilizes his forces against Moses and the Israelites, the Qur'an has him say:
+    > **“These are only a small band.”** (26:54)
+    >
+    > The Biblical text instead gives roughly **600,000 adult Israelite males** at the Exodus (Exodus 12:37; Numbers 1:46), which would imply a total population of roughly two to three million people. Modern historical and archaeological scholarship widely recognizes that a migration of that scale cannot be reconciled with the population and carrying capacity of the region, and scholars who accept a historical core to the Exodus generally place the group at a dramatically smaller size. The Qur'an does not reproduce the enormous Biblical figure; its description fits the historically plausible scale.
+    {: .gloss }
+
+1. **Pharaoh's threatened punishments fit New Kingdom Egyptian practice:** after the magicians accept Moses' message, Pharaoh threatens to cut off their hands and feet on opposite sides and then crucify them on palm trunks (7:124; 20:71; 26:49).
+    > Egyptian evidence from the New Kingdom independently attests the same punitive world. Royal and military sources document the severing of hands; legal texts prescribe severe bodily mutilation and **impalement**; and evidence from the Ramesside period refers to the cutting off of feet as a punishment. A major study of New Kingdom violence catalogues repeated evidence for cutting off hands and other body parts together with impalement and other forms of execution. The Qur'an's description therefore fits known Egyptian practices from the period in which the Moses narrative is set.
+    {: .gloss }
+
+1. **Thamud was a real ancient Arabian people:** the Qur'an repeatedly refers to Thamud as an ancient people of Arabia who had disappeared long before its revelation.
+    > Modern study of ancient Near Eastern inscriptions has independently recovered the same people. The annals of the Assyrian king Sargon II, who ruled from 722–705 BCE, explicitly name **Thamud** among the distant Arabian tribes living in the desert. Centuries later, Greek and Roman-period sources also attest a people called the Thamudeni. The Qur'anic Thamud are therefore not an otherwise unattested legendary people: their name appears independently in records extending back more than thirteen centuries before the Qur'an.
+    {: .gloss }
+
+1. **Pharaoh's claim to supreme lordship fits Egyptian divine kingship:** the Qur'an portrays Pharaoh declaring to his people:
+    > **“I am your lord, the most high.”** (79:24)
+    >
+    > This language fits the distinctive ideology of ancient Egyptian kingship. The Egyptian king stood at the summit of the religious and political order, was identified with the god Horus while living, and embodied a kingship understood as divine. Egyptological studies describe divine kingship as a foundational feature of Egyptian civilization extending back to its earliest periods. The Qur'an's portrayal of Pharaoh is therefore rooted in the actual religious conception of Egyptian monarchy rather than the ordinary language of a generic king.
+    {: .gloss }
+
+{% include yt-embed.html url="https://youtu.be/c2ovILc_sKY" title="The Qur'an and the Secrets of Egypt" %}
+
+{% include yt-embed.html url="https://youtu.be/BDitIpKLhjc" title="Another Sign of the Quran's Divine Origin?" %}
+
+{% include yt-embed.html url="https://youtu.be/lEc_ilaHim8" title="Stories of the Prophets: Bible vs. Qur'an" %}
 
 1. The Qur'an does not merely inherit earlier material; it selects, compresses, relocates, disputes, corrects and reframes it. The same story can therefore serve different arguments in different chapters without becoming a copy of one fixed source.
     > Genealogical and biographical detail is often reduced while monotheism, judgment, repentance, prophetic perseverance, and moral accountability move to the foreground. This transformation also fits the repetition-with-variation described in the literary section above.
