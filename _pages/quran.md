@@ -261,69 +261,67 @@ The Qur'an's literary miracle extends far beyond beauty of expression. Its inimi
 
 1. The literary dimension of the Qur'an is a field of study large enough to stand on its own. The points above are only a brief introduction. Qur'anic syntax, word order, omission, rhetorical shifts, sound, cadence, narrative technique, repetition, imagery, chapter structure, semantic density, and large-scale composition have each generated substantial bodies of scholarship, while the classical literature on Qur'anic inimitability and Arabic rhetoric spans centuries. Below are some further readings on the topic
     <details class="quran-more" markdown="1">
-    <summary>Show further reading</summary>
+    <summary>Show further reading links</summary>
 
-    > **Further reading**
-    >
-    > **Recommended starting points**
-    >
-    > * **Al-Khaṭṭābī, al-Rummānī, and ʿAbd al-Qāhir al-Jurjānī, *Three Treatises on the I'jāz [Inimitability] of the Qur'an*, trans. Issa J. Boullata** — an excellent English entry point into the classical literature on Qur'anic inimitability, covering concision, metaphor, harmony, sound, rhetorical construction, and *naẓm* [syntactic-semantic arrangement].
-    >
-    > * **Lara Harb, [*Arabic Poetics*, ch. 5, “Naẓm, Wonder, and the Inimitability of the Quran”](https://www.cambridge.org/core/books/abs/arabic-poetics/nazm-wonder-and-the-inimitability-of-the-quran/B980231F9936B751EF11029D69CF4554)** — one of the clearest modern academic explanations of how classical Arabic theorists located Qur'anic eloquence in syntax, arrangement, context, omission, word order, grammatical shifts, and the additional meanings these choices create.
-    >
-    > * **M. A. S. Abdel Haleem, *Understanding the Qur'an: Themes and Style*** — a highly accessible study of Qur'anic style, context, grammatical shifts, repetition, structure, and rhetorical technique.
-    >
-    > * **Mustafa Shah and M. A. S. Abdel Haleem, eds., [*The Oxford Handbook of Qur'anic Studies*](https://academic.oup.com/edited-volume/34388), especially Part IV, “Structural and Literary Dimensions of the Qur'an”** — a major academic reference containing dedicated studies of Qur'anic language, vocabulary, syntax, stylistic grammar, rhetoric, structure, coherence, inimitability, and its relationship with Arabic literature.
-    >
-    > * **Issa J. Boullata, ed., [*Literary Structures of Religious Meaning in the Qur'an*](https://www.routledge.com/Literary-Structures-of-Religious-Meaning-in-the-Quran/Boullata/p/book/9780415554138)** — a collection devoted specifically to Qur'anic literary structure, rhetoric, imagery, aesthetics, coherence, and the relationship between literary form and religious meaning.
-    >
-    > * **Marianna Klar, ed., [*Structural Dividers in the Qur'an*](https://www.routledge.com/Structural-Dividers-in-the-Quran/Klar/p/book/9780367537371)** — a major collection on chapter structure, ring composition, rhyme, rhythm, morphological parallelism, discourse markers, oaths, and other devices that organize Qur'anic discourse.
-    >
-    > * **Neal Robinson, *Discovering the Qur'an: A Contemporary Approach to a Veiled Text*** — a major English-language study of Qur'anic sound, rhyme, structure, coherence, grammatical shifts, and relationships between chapters.
-    >
-    > * **Michel Cuypers, [*The Composition of the Qur'an: Rhetorical Analysis*](https://www.bloomsbury.com/uk/composition-of-the-quran-9781474227483/)** — a detailed study of parallelism, symmetry, concentric structure, and the relationship between literary architecture and meaning.
-    >
-    > * **Raymond Farrin, *Structure and Qur'anic Interpretation: A Study of Symmetry and Coherence in Islam's Holy Text*** — an accessible study of structural coherence and symmetry across passages, chapters, chapter pairs, groups of chapters, and the Qur'an as a whole.
-    >
-    > * **Michael Sells, [*Approaching the Qur'an: The Early Revelations*](https://www.whitecloudpress.com/product/approaching-the-quran/)** — especially valuable for the Qur'an's sound, rhythm, semantic density, oral character, and the literary effect of recitation.
-    >
-    > **Further academic studies**
-    >
-    > * **M. A. S. Abdel Haleem, [“Grammatical Shift for Rhetorical Purposes: Iltifāt [Rhetorical Shift] and Related Features in the Qur'an”](https://doi.org/10.1017/S0041977X00003621)** — a focused study of shifts in grammatical person, tense, number, and mode of address, showing how they function as deliberate rhetorical devices.
-    >
-    > * **Leyla Ozgur Alhassen, *How the Qur'ān Works: Reading Sacred Narrative*** — a detailed study of narrative repetition, variation, motifs, parallels, reversals, omission, and the reshaping of repeated stories for different rhetorical purposes.
-    >
-    > * **Salwa M. El-Awa, [*Textual Relations in the Qur'an: Relevance, Coherence and Structure*](https://www.routledge.com/Textual-Relations-in-the-Quran-Relevance-Coherence-and-Structure/El-Awa/p/book/9780415363433)** — a technical linguistic study of how apparently diverse material within Qur'anic chapters forms coherent discourse.
-    >
-    > * **Mustansir Mir, *Coherence in the Qur'an: A Study of Iṣlāḥī's Concept of Naẓm*** — a major study of thematic unity, chapter pairing, structural relationships, and the concept of *naẓm* [coherent arrangement].
-    >
-    > * **Ḥamīd al-Dīn Farāhī, [*Exordium to Coherence in the Qur'an*](https://hamid-uddin-farahi.com/read/exordium/)** — a foundational work on the internal unity of Qur'anic chapters and the role of arrangement in determining meaning.
-    >
-    > * **Angelika Neuwirth, [“Structural, Linguistic and Literary Features,” in *The Cambridge Companion to the Qur'an*](https://www.cambridge.org/core/books/cambridge-companion-to-the-quran/structural-linguistic-and-literary-features/482920D523B3432AF5EAF524E57515F0)** — an authoritative overview of the Qur'an's chapter form, language, literary structure, and modes of discourse.
-    >
-    > * **Angelika Neuwirth, *The Qur'an: Text and Commentary, vol. 1: Early Meccan Suras: Poetic Prophecy*** — detailed chapter-by-chapter literary analysis of form, structure, language, semantic development, and aesthetic features.
-    >
-    > * **Angelika Neuwirth, *The Qur'an and Late Antiquity*** — especially the sections on chapter structures and the rhetorical Qur'an, examining rhetorical construction, hymn-like discourse, persuasion, polemic, and literary development.
-    >
-    > * **Hussein Abdul-Raof, [*New Horizons in Qur'anic Linguistics: A Syntactic, Semantic and Stylistic Analysis*](https://www.routledge.com/New-Horizons-in-Quranic-Linguistics-A-Syntactic-Semantic-and-Stylistic-Analysis/Abdul-Raof/p/book/9780367874674)** — a technical study of syntax, ellipsis, morphology, semantics, word order, foregrounding, grammatical shifts, pragmatics, sound, and rhetorical structure.
-    >
-    > * **Hussein Abdul-Raof, [*Text Linguistics of Qur'anic Discourse*](https://www.routledge.com/Text-Linguistics-of-Quranic-Discourse-An-Analysis/Abdul-Raof/p/book/9780367733230)** — focuses on cohesion, coherence, thematic sequencing, repetition, ellipsis, intertextuality, argument structure, and contextual meaning.
-    >
-    > * **Thomas Hoffmann, *The Poetic Qur'an: Studies on Qur'anic Poeticity*** — examines recurrence, semantic ambiguity, self-reference, vocality, sound, recitation, and the poetic qualities of Qur'anic discourse while distinguishing it from conventional Arabic poetry.
-    >
-    > * **Kristina Nelson, [*The Art of Reciting the Qur'an*](https://utpress.utexas.edu/9781477306208/)** — a landmark study of the Qur'an as an oral and aural text, covering recitation, cadence, sound, performance, tajwīd [rules governing correct recitation], and the relationship between reciter and listener.
-    >
-    > * **Navid Kermani, [*God Is Beautiful: The Aesthetic Experience of the Quran*](https://www.wiley-vch.de/en/areas-interest/humanities-social-sciences/god-is-beautiful-978-0-7456-5167-5)** — a major study of the aesthetic and auditory experience of the Qur'an and its effect upon listeners throughout Islamic history.
-    >
-    > * **Margaret Larkin, [“The Inimitability of the Qur'an: Two Perspectives”](https://www.jstor.org/stable/40059365)** — examines classical theories of Qur'anic inimitability and especially ʿAbd al-Qāhir al-Jurjānī's attempt to ground literary excellence in concrete linguistic relationships.
-    >
-    > * **Mustansir Mir, [“The Qur'an as Literature”](https://www.islamic-awareness.org/quran/q_studies/mirliter)** — a concise introduction to the serious literary study of the Qur'an and its literary techniques.
-    >
-    > * **Claude Gilliot and Pierre Larcher, “Language and Style of the Qur'an,” *Encyclopaedia of the Qur'an*** — an extensive academic reference treatment of Qur'anic language and style, with a substantial bibliography of earlier research.
-    >
-    > * **Michel Cuypers and A. H. Mathias Zahniser, [*The Composition of Sūrat Maryam: Rhetorical Analysis*](https://www.routledge.com/The-Composition-of-Surat-Maryam-Rhetorical-Analysis/Cuypers-Zahniser/p/book/9781032853611)** — a full-length worked example of close Qur'anic literary analysis, examining rhyme, semantic divisions, correspondences, and the larger architecture of a single chapter.
-    >
-    > * **[The Inimitable Qur'an — Yaqeen Institute](https://yaqeeninstitute.org/read/paper/the-inimitable-quran-the-revelation-to-prophet-muhammad)** — an accessible overview of the argument for Qur'anic inimitability and a useful starting point before moving into the more specialized literature above.
+**Recommended starting points**
+
+* **Al-Khaṭṭābī, al-Rummānī, and ʿAbd al-Qāhir al-Jurjānī, *Three Treatises on the I'jāz [Inimitability] of the Qur'an*, trans. Issa J. Boullata** — an excellent English entry point into the classical literature on Qur'anic inimitability, covering concision, metaphor, harmony, sound, rhetorical construction, and *naẓm* [syntactic-semantic arrangement].
+
+* **Lara Harb, [*Arabic Poetics*, ch. 5, “Naẓm, Wonder, and the Inimitability of the Quran”](https://www.cambridge.org/core/books/abs/arabic-poetics/nazm-wonder-and-the-inimitability-of-the-quran/B980231F9936B751EF11029D69CF4554)** — one of the clearest modern academic explanations of how classical Arabic theorists located Qur'anic eloquence in syntax, arrangement, context, omission, word order, grammatical shifts, and the additional meanings these choices create.
+
+* **M. A. S. Abdel Haleem, *Understanding the Qur'an: Themes and Style*** — a highly accessible study of Qur'anic style, context, grammatical shifts, repetition, structure, and rhetorical technique.
+
+* **Mustafa Shah and M. A. S. Abdel Haleem, eds., [*The Oxford Handbook of Qur'anic Studies*](https://academic.oup.com/edited-volume/34388), especially Part IV, “Structural and Literary Dimensions of the Qur'an”** — a major academic reference containing dedicated studies of Qur'anic language, vocabulary, syntax, stylistic grammar, rhetoric, structure, coherence, inimitability, and its relationship with Arabic literature.
+
+* **Issa J. Boullata, ed., [*Literary Structures of Religious Meaning in the Qur'an*](https://www.routledge.com/Literary-Structures-of-Religious-Meaning-in-the-Quran/Boullata/p/book/9780415554138)** — a collection devoted specifically to Qur'anic literary structure, rhetoric, imagery, aesthetics, coherence, and the relationship between literary form and religious meaning.
+
+* **Marianna Klar, ed., [*Structural Dividers in the Qur'an*](https://www.routledge.com/Structural-Dividers-in-the-Quran/Klar/p/book/9780367537371)** — a major collection on chapter structure, ring composition, rhyme, rhythm, morphological parallelism, discourse markers, oaths, and other devices that organize Qur'anic discourse.
+
+* **Neal Robinson, *Discovering the Qur'an: A Contemporary Approach to a Veiled Text*** — a major English-language study of Qur'anic sound, rhyme, structure, coherence, grammatical shifts, and relationships between chapters.
+
+* **Michel Cuypers, [*The Composition of the Qur'an: Rhetorical Analysis*](https://www.bloomsbury.com/uk/composition-of-the-quran-9781474227483/)** — a detailed study of parallelism, symmetry, concentric structure, and the relationship between literary architecture and meaning.
+
+* **Raymond Farrin, *Structure and Qur'anic Interpretation: A Study of Symmetry and Coherence in Islam's Holy Text*** — an accessible study of structural coherence and symmetry across passages, chapters, chapter pairs, groups of chapters, and the Qur'an as a whole.
+
+* **Michael Sells, [*Approaching the Qur'an: The Early Revelations*](https://www.whitecloudpress.com/product/approaching-the-quran/)** — especially valuable for the Qur'an's sound, rhythm, semantic density, oral character, and the literary effect of recitation.
+
+**Further academic studies**
+
+* **M. A. S. Abdel Haleem, [“Grammatical Shift for Rhetorical Purposes: Iltifāt [Rhetorical Shift] and Related Features in the Qur'an”](https://doi.org/10.1017/S0041977X00003621)** — a focused study of shifts in grammatical person, tense, number, and mode of address, showing how they function as deliberate rhetorical devices.
+
+* **Leyla Ozgur Alhassen, *How the Qur'ān Works: Reading Sacred Narrative*** — a detailed study of narrative repetition, variation, motifs, parallels, reversals, omission, and the reshaping of repeated stories for different rhetorical purposes.
+
+* **Salwa M. El-Awa, [*Textual Relations in the Qur'an: Relevance, Coherence and Structure*](https://www.routledge.com/Textual-Relations-in-the-Quran-Relevance-Coherence-and-Structure/El-Awa/p/book/9780415363433)** — a technical linguistic study of how apparently diverse material within Qur'anic chapters forms coherent discourse.
+
+* **Mustansir Mir, *Coherence in the Qur'an: A Study of Iṣlāḥī's Concept of Naẓm*** — a major study of thematic unity, chapter pairing, structural relationships, and the concept of *naẓm* [coherent arrangement].
+
+* **Ḥamīd al-Dīn Farāhī, [*Exordium to Coherence in the Qur'an*](https://hamid-uddin-farahi.com/read/exordium/)** — a foundational work on the internal unity of Qur'anic chapters and the role of arrangement in determining meaning.
+
+* **Angelika Neuwirth, [“Structural, Linguistic and Literary Features,” in *The Cambridge Companion to the Qur'an*](https://www.cambridge.org/core/books/cambridge-companion-to-the-quran/structural-linguistic-and-literary-features/482920D523B3432AF5EAF524E57515F0)** — an authoritative overview of the Qur'an's chapter form, language, literary structure, and modes of discourse.
+
+* **Angelika Neuwirth, *The Qur'an: Text and Commentary, vol. 1: Early Meccan Suras: Poetic Prophecy*** — detailed chapter-by-chapter literary analysis of form, structure, language, semantic development, and aesthetic features.
+
+* **Angelika Neuwirth, *The Qur'an and Late Antiquity*** — especially the sections on chapter structures and the rhetorical Qur'an, examining rhetorical construction, hymn-like discourse, persuasion, polemic, and literary development.
+
+* **Hussein Abdul-Raof, [*New Horizons in Qur'anic Linguistics: A Syntactic, Semantic and Stylistic Analysis*](https://www.routledge.com/New-Horizons-in-Quranic-Linguistics-A-Syntactic-Semantic-and-Stylistic-Analysis/Abdul-Raof/p/book/9780367874674)** — a technical study of syntax, ellipsis, morphology, semantics, word order, foregrounding, grammatical shifts, pragmatics, sound, and rhetorical structure.
+
+* **Hussein Abdul-Raof, [*Text Linguistics of Qur'anic Discourse*](https://www.routledge.com/Text-Linguistics-of-Quranic-Discourse-An-Analysis/Abdul-Raof/p/book/9780367733230)** — focuses on cohesion, coherence, thematic sequencing, repetition, ellipsis, intertextuality, argument structure, and contextual meaning.
+
+* **Thomas Hoffmann, *The Poetic Qur'an: Studies on Qur'anic Poeticity*** — examines recurrence, semantic ambiguity, self-reference, vocality, sound, recitation, and the poetic qualities of Qur'anic discourse while distinguishing it from conventional Arabic poetry.
+
+* **Kristina Nelson, [*The Art of Reciting the Qur'an*](https://utpress.utexas.edu/9781477306208/)** — a landmark study of the Qur'an as an oral and aural text, covering recitation, cadence, sound, performance, tajwīd [rules governing correct recitation], and the relationship between reciter and listener.
+
+* **Navid Kermani, [*God Is Beautiful: The Aesthetic Experience of the Quran*](https://www.wiley-vch.de/en/areas-interest/humanities-social-sciences/god-is-beautiful-978-0-7456-5167-5)** — a major study of the aesthetic and auditory experience of the Qur'an and its effect upon listeners throughout Islamic history.
+
+* **Margaret Larkin, [“The Inimitability of the Qur'an: Two Perspectives”](https://www.jstor.org/stable/40059365)** — examines classical theories of Qur'anic inimitability and especially ʿAbd al-Qāhir al-Jurjānī's attempt to ground literary excellence in concrete linguistic relationships.
+
+* **Mustansir Mir, [“The Qur'an as Literature”](https://www.islamic-awareness.org/quran/q_studies/mirliter)** — a concise introduction to the serious literary study of the Qur'an and its literary techniques.
+
+* **Claude Gilliot and Pierre Larcher, “Language and Style of the Qur'an,” *Encyclopaedia of the Qur'an*** — an extensive academic reference treatment of Qur'anic language and style, with a substantial bibliography of earlier research.
+
+* **Michel Cuypers and A. H. Mathias Zahniser, [*The Composition of Sūrat Maryam: Rhetorical Analysis*](https://www.routledge.com/The-Composition-of-Surat-Maryam-Rhetorical-Analysis/Cuypers-Zahniser/p/book/9781032853611)** — a full-length worked example of close Qur'anic literary analysis, examining rhyme, semantic divisions, correspondences, and the larger architecture of a single chapter.
+
+* **[The Inimitable Qur'an — Yaqeen Institute](https://yaqeeninstitute.org/read/paper/the-inimitable-quran-the-revelation-to-prophet-muhammad)** — an accessible overview of the argument for Qur'anic inimitability and a useful starting point before moving into the more specialized literature above.
     {: .src }
     </details>
 
