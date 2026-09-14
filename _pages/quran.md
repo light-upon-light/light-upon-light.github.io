@@ -1086,13 +1086,6 @@ These teachings connect patience and hope with the duty to relieve suffering and
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿۞ قُلْ يَـٰعِبَادِىَ ٱلَّذِينَ أَسْرَفُوا۟ عَلَىٰٓ أَنفُسِهِمْ لَا تَقْنَطُوا۟ مِن رَّحْمَةِ ٱللَّهِ ۚ إِنَّ ٱللَّهَ يَغْفِرُ ٱلذُّنُوبَ جَمِيعًا ۚ إِنَّهُۥ هُوَ ٱلْغَفُورُ ٱلرَّحِيمُ ۝٥٣﴾ <span class="ayah-ref">سُورَةُ الزُّمَرِ</span></div>
     {: .quote }
 
-1. The Qur'an rejects inherited guilt: nobody is born owing another person's moral debt, and no soul bears another's burden.
-
-    > "That no bearer of burdens will bear the burden of another. And that there is not for man except that [good] for which he strives." (**Sūrat al-Najm 53:38–39**), Saheeh International
-    >
-    > <div dir="rtl" lang="ar" class="quran-arabic">﴿أَلَّا تَزِرُ وَازِرَةٌ وِزْرَ أُخْرَىٰ ۝٣٨ وَأَن لَّيْسَ لِلْإِنسَـٰنِ إِلَّا مَا سَعَىٰ ۝٣٩﴾ <span class="ayah-ref">سُورَةُ النَّجۡمِ</span></div>
-    {: .quote }
-
 1. It emphasizes genuine character over hollow ritual: worship that leaves a person cruel is rejected.
     > "Righteousness is not in turning your faces towards the east or the west. Rather, the righteous are those who believe in Allah, the Last Day, the angels, the Books, and the prophets; who give charity out of their cherished wealth to relatives, orphans, the poor, ˹needy˺ travellers, beggars, and for freeing captives; who establish prayer, pay alms-tax, and keep the pledges they make; and who are patient in times of suffering, adversity, and in ˹the heat of˺ battle. It is they who are true ˹in faith˺, and it is they who are mindful ˹of Allah˺." (**Sūrat al-Baqarah 2:177**), Dr. Mustafa Khattab, *The Clear Quran*
     >
@@ -1102,6 +1095,10 @@ These teachings connect patience and hope with the duty to relieve suffering and
 1. It commands honesty, keeping one's word, humility, patience, and restraint in anger, while forbidding backbiting, mockery, contempt, and suspicion of others.
 
 1. Care for others—especially the weak and dependent—is treated as a duty across relationships: spouses, children, parents in old age, relatives, orphans, the poor, travelers, debtors, captives, servants, and those in one's charge.
+
+<details class="quran-more quran-more--section" markdown="1">
+<summary>Read more on this theme</summary>
+
 
 1. It makes the poor's share of wealth an obligation rather than a favor. Alms are a due; debts are to be forgiven when the debtor cannot pay; interest is banned; and charity followed by humiliation is worthless.
     > "And in their wealth there was a rightful share ˹fulfilled˺ for the beggar and the poor." (**Sūrat al-Dhāriyāt 51:19**), Dr. Mustafa Khattab, *The Clear Quran*
@@ -1214,7 +1211,16 @@ These teachings connect patience and hope with the duty to relieve suffering and
     {: .quote }
     </details>
 
-1. Its breadth of subject and universal scope are remarkable: theology, worship, ethics, law, family life, economics, social justice, war and peace, history, human character, nature, and the afterlife are woven into a single worldview. It addresses the individual, family, society, and humanity as a whole, rather than one tribe, class, place, or era.
+1. The Qur'an rejects inherited guilt: nobody is born owing another person's moral debt, and no soul bears another's burden.
+
+    > "That no bearer of burdens will bear the burden of another. And that there is not for man except that [good] for which he strives." (**Sūrat al-Najm 53:38–39**), Saheeh International
+    >
+    > <div dir="rtl" lang="ar" class="quran-arabic">﴿أَلَّا تَزِرُ وَازِرَةٌ وِزْرَ أُخْرَىٰ ۝٣٨ وَأَن لَّيْسَ لِلْإِنسَـٰنِ إِلَّا مَا سَعَىٰ ۝٣٩﴾ <span class="ayah-ref">سُورَةُ النَّجۡمِ</span></div>
+    {: .quote }
+
+</details>
+
+Its breadth of subject and universal scope are remarkable: theology, worship, ethics, law, family life, economics, social justice, war and peace, history, human character, nature, and the afterlife are woven into a single worldview. It addresses the individual, family, society, and humanity as a whole, rather than one tribe, class, place, or era.
 
 #### Gradual revelation and moral education
 {: #progressive-pedagogy }
@@ -1288,9 +1294,6 @@ The Qur'an also judges worship by its effect on conduct. Chapter 107 condemns pr
 ### <span class="num-roman">XII.</span> Historical Impact and Transformation
 {: #historical-impact-and-transformation }
 
-<details class="quran-more quran-more--section" markdown="1">
-<summary>Read more on this theme</summary>
-
 1. Within a single generation, the vast majority of Arabs accepted it, including tribes that had fought hardest to suppress it.
 1. It has shaped the lives of billions across fourteen centuries. Around two billion Muslims today accept it as scripture.
     > [*Pew Research Center*, June 2025](https://www.pewresearch.org/religion/2025/06/09/how-the-global-religious-landscape-changed-from-2010-to-2020/): the global Muslim population grew from 1.7 billion in 2010 to 2.0 billion in 2020, reaching 26% of the world's population.
@@ -1311,8 +1314,6 @@ The Qur'an also judges worship by its effect on conduct. Chapter 107 condemns pr
 1. Its historical influence is extraordinary.
     > A seventh-century Arabic revelation became simultaneously a memorized liturgy, a foundational legal and theological source, a central literary reference point, and a continuously transmitted scripture across peoples, languages, continents, and fourteen centuries.
     {: .gloss }
-
-</details>
 
 ### <span class="num-roman">XIII.</span> The Qur'an and the Man Who Proclaimed It
 {: #quran-and-messenger }
