@@ -2,8 +2,6 @@
 
 general:
 
-- add details section in natural, numerical and historical
-
 ---
 
 aisha:
