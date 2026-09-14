@@ -262,8 +262,9 @@ The Qur'an's literary miracle extends far beyond beauty of expression. Its inimi
     {: .quote }
 
 1. The literary dimension of the Qur'an is a field of study large enough to stand on its own. The points above are only a brief introduction. Qur'anic syntax, word order, omission, rhetorical shifts, sound, cadence, narrative technique, repetition, imagery, chapter structure, semantic density, and large-scale composition have each generated substantial bodies of scholarship, while the classical literature on Qur'anic inimitability and Arabic rhetoric spans centuries. Below are some further readings on the topic
-    <details class="quran-more" markdown="1">
-    <summary>Show further reading links</summary>
+
+<details class="quran-more" markdown="1">
+<summary>Show further reading links</summary>
 
 **Recommended starting points**
 
@@ -324,8 +325,8 @@ The Qur'an's literary miracle extends far beyond beauty of expression. Its inimi
 * **Michel Cuypers and A. H. Mathias Zahniser, [*The Composition of Sūrat Maryam: Rhetorical Analysis*](https://www.routledge.com/The-Composition-of-Surat-Maryam-Rhetorical-Analysis/Cuypers-Zahniser/p/book/9781032853611)** — a full-length worked example of close Qur'anic literary analysis, examining rhyme, semantic divisions, correspondences, and the larger architecture of a single chapter.
 
 * **[The Inimitable Qur'an — Yaqeen Institute](https://yaqeeninstitute.org/read/paper/the-inimitable-quran-the-revelation-to-prophet-muhammad)** — an accessible overview of the argument for Qur'anic inimitability and a useful starting point before moving into the more specialized literature above.
-    {: .src }
-    </details>
+
+</details>
 
 ### <span class="num-roman">III.</span> Challenges & Bold Claims
 {: #challenges-and-bold-claims }
