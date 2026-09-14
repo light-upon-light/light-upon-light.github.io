@@ -509,10 +509,6 @@ The Qur'an presents itself as the final revelation in the same prophetic line as
 
     {% include yt-embed.html url="https://youtu.be/BDitIpKLhjc" title="Another Sign of the Quran's Divine Origin?" %}
 
-1. The Qur'an does not merely inherit earlier material; it selects, compresses, relocates, disputes, corrects and reframes it. The same story can therefore serve different arguments in different chapters without becoming a copy of one fixed source.
-    > Genealogical and biographical detail is often reduced while monotheism, judgment, repentance, prophetic perseverance, and moral accountability move to the foreground. This transformation also fits the repetition-with-variation described in the literary section above.
-    {: .gloss }
-
 1. It retells narratives shared with the Bible while correcting their historical errors rather than repeating them.
     > Examples include the different titles used for the ruler in the accounts of Moses and Joseph, as well as the Qur'an's description of the Israelites as a small group at the exodus.
     {: .gloss }
@@ -520,6 +516,10 @@ The Qur'an presents itself as the final revelation in the same prophetic line as
     {% include yt-embed.html url="https://youtu.be/c2ovILc_sKY" title="The Qur'an and the Secrets of Egypt" %}
 
     {% include yt-embed.html url="https://youtu.be/lEc_ilaHim8" title="Stories of the Prophets: Bible vs. Qur'an" %}
+
+1. The Qur'an does not merely inherit earlier material; it selects, compresses, relocates, disputes, corrects and reframes it. The same story can therefore serve different arguments in different chapters without becoming a copy of one fixed source.
+    > Genealogical and biographical detail is often reduced while monotheism, judgment, repentance, prophetic perseverance, and moral accountability move to the foreground. This transformation also fits the repetition-with-variation described in the literary section above.
+    {: .gloss }
 
 1. The Qur'an contains striking cross-Semitic linguistic correspondences, drawing on words and cognates connected with mainly Hebrew, but also Aramaic, Syriac, and Ethiopic. In a number of passages, these relationships create wordplay, allusion, and layers of meaning that become visible only when the related languages are examined together.
     {% include yt-embed.html url="https://youtu.be/wA4v8MrBHHc" title="The Hebrew word that PROVED that the Qur'an is from Allah" %}
@@ -561,56 +561,6 @@ It also describes features of the natural world with remarkable precision, inclu
 
     {% include yt-embed.html url="https://youtu.be/J_Dllu42eEA" title="Qur'an on Embryology - Professor Keith L. Moore" %}
 
-1. **Darkness and waves in the deep ocean:** the Qur'an describes a deep sea with layers of darkness, with waves above waves and clouds above them.
-    > “Or ˹their deeds are˺ like the darkness in a deep sea, covered by waves upon waves, topped by ˹dark˺ clouds. Darkness upon darkness! If one stretches out their hand, they can hardly see it.” (**Sūrat al-Nūr 24:40**), Dr. Mustafa Khattab, *The Clear Quran*
-    >
-    > <div dir="rtl" lang="ar" class="quran-arabic">﴿أَوْ كَظُلُمَـٰتٍۢ فِى بَحْرٍۢ لُّجِّىٍّۢ يَغْشَىٰهُ مَوْجٌۭ مِّن فَوْقِهِۦ مَوْجٌۭ مِّن فَوْقِهِۦ سَحَابٌۭ ۚ ظُلُمَـٰتٌۢ بَعْضُهَا فَوْقَ بَعْضٍ إِذَآ أَخْرَجَ يَدَهُۥ لَمْ يَكَدْ يَرَىٰهَا ۗ وَمَن لَّمْ يَجْعَلِ ٱللَّهُ لَهُۥ نُورًۭا فَمَا لَهُۥ مِن نُّورٍ ۝٤٠﴾ <span class="ayah-ref">سُورَةُ النُّورِ</span></div>
-    {: .quote }
-    > Sunlight disappears rapidly with ocean depth. Very little visible light remains in the deep ocean, and below roughly 1,000 metres sunlight no longer penetrates. Oceans also contain **internal waves** beneath their visible surface, travelling along boundaries between layers of water of different densities, while ordinary surface waves occur above them. The verse brings together a deep sea, extreme layered darkness, and waves beneath other waves.
-    {: .gloss }
-
-1. **Male and female from the emitted reproductive drop:** the Qur'an connects the creation of male and female specifically with the reproductive drop that is emitted.
-    > “And He created the pairs—males and females—from a sperm-drop when it is emitted.” (**Sūrat al-Najm 53:45–46**), Dr. Mustafa Khattab, *The Clear Quran*
-    >
-    > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَأَنَّهُۥ خَلَقَ ٱلزَّوْجَيْنِ ٱلذَّكَرَ وَٱلْأُنثَىٰ ۝٤٥ مِن نُّطْفَةٍ إِذَا تُمْنَىٰ ۝٤٦﴾ <span class="ayah-ref">سُورَةُ النَّجۡمِ</span></div>
-    {: .quote }
-    > In human reproduction, the egg contributes an X chromosome, while the fertilizing sperm carries either an X or a Y chromosome. The sperm in the emitted male reproductive fluid therefore determines whether the resulting embryo is chromosomally XX or XY.
-    {: .gloss }
-
-1. **Milk formation:** the Qur'an draws attention to the production of milk inside livestock in relation to both digestive material and blood.
-    > “And there is certainly a lesson for you in cattle, from whose bellies We give you ˹milk˺ to drink, ˹coming˺ from between digested food and blood: pure milk, pleasant to drink.” (**Sūrat al-Naḥl 16:66**), Dr. Mustafa Khattab, *The Clear Quran*
-    >
-    > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَإِنَّ لَكُمْ فِى ٱلْأَنْعَـٰمِ لَعِبْرَةً ۖ نُّسْقِيكُم مِّمَّا فِى بُطُونِهِۦ مِنۢ بَيْنِ فَرْثٍۢ وَدَمٍۢ لَّبَنًا خَالِصًۭا سَآئِغًۭا لِّلشَّـٰرِبِينَ ۝٦٦﴾ <span class="ayah-ref">سُورَةُ النَّحۡلِ</span></div>
-    {: .quote }
-    > Nutrients from digested food are absorbed through the digestive system and transported through the bloodstream. The mammary glands then draw the substances needed for milk production from the blood and synthesize milk from them. The verse therefore places milk in relation to the two physiological systems involved in providing its raw materials: digestion and blood circulation.
-    {: .gloss }
-
-1. **Difficulty breathing at high altitude:** the Qur'an compares intense constriction of the chest to ascending into the sky.
-    > “Whoever Allah wills to guide, He opens their heart to Islam. But whoever He wills to leave astray, He makes their chest tight and constricted as if they were climbing up into the sky.” (**Sūrat al-Anʿām 6:125**), Dr. Mustafa Khattab, *The Clear Quran*
-    >
-    > <div dir="rtl" lang="ar" class="quran-arabic">﴿فَمَن يُرِدِ ٱللَّهُ أَن يَهْدِيَهُۥ يَشْرَحْ صَدْرَهُۥ لِلْإِسْلَـٰمِ ۖ وَمَن يُرِدْ أَن يُضِلَّهُۥ يَجْعَلْ صَدْرَهُۥ ضَيِّقًا حَرَجًۭا كَأَنَّمَا يَصَّعَّدُ فِى ٱلسَّمَآءِ ۚ كَذَٰلِكَ يَجْعَلُ ٱللَّهُ ٱلرِّجْسَ عَلَى ٱلَّذِينَ لَا يُؤْمِنُونَ ۝١٢٥﴾ <span class="ayah-ref">سُورَةُ الأَنۡعَامِ</span></div>
-    {: .quote }
-    > As altitude increases, atmospheric pressure falls and less oxygen is available with each breath. Increasing altitude therefore causes breathlessness and hypoxic stress, making breathing progressively more difficult as a person ascends.
-    {: .gloss }
-
-1. **A boundary between fresh and salt water:** the Qur'an describes fresh and salt water meeting while a separating boundary remains between them.
-    > “And He is the One Who merges the two bodies of water: one fresh and palatable and the other salty and bitter, placing between them a barrier they cannot cross.” (**Sūrat al-Furqān 25:53**), Dr. Mustafa Khattab, *The Clear Quran*
-    >
-    > <div dir="rtl" lang="ar" class="quran-arabic">﴿۞ وَهُوَ ٱلَّذِى مَرَجَ ٱلْبَحْرَيْنِ هَـٰذَا عَذْبٌۭ فُرَاتٌۭ وَهَـٰذَا مِلْحٌ أُجَاجٌۭ وَجَعَلَ بَيْنَهُمَا بَرْزَخًۭا وَحِجْرًۭا مَّحْجُورًۭا ۝٥٣﴾ <span class="ayah-ref">سُورَةُ الفُرۡقَانِ</span></div>
-    {: .quote }
-    > This is seen where rivers meet the sea. Because fresh water and salt water differ in density, they do not immediately become one uniform body of water. In strongly stratified estuaries, fresh water can flow above denser salt water, producing distinct water masses separated by a pronounced interface while mixing occurs gradually between them.
-    {: .gloss }
-
-1. **Formation of rain clouds:** It describes the ordered processes of rain, clouds, winds, and the revival of dead land.
-    > “Do you not see that Allah drives clouds? Then He brings them together, then He makes them into a mass, and you see the rain emerge from within it. And He sends down from the sky, mountains [of clouds] within which is hail, and He strikes with it whom He wills and averts it from whom He wills. The flash of its lightening almost takes away the eyesight.” (**Sūrat al-Nūr 24:43**), Saheeh International
-    >
-    > <div dir="rtl" lang="ar" class="quran-arabic">﴿أَلَمْ تَرَ أَنَّ ٱللَّهَ يُزْجِى سَحَابًا ثُمَّ يُؤَلِّفُ بَيْنَهُۥ ثُمَّ يَجْعَلُهُۥ رُكَامًا فَتَرَى ٱلْوَدْقَ يَخْرُجُ مِنْ خِلَـٰلِهِۦ وَيُنَزِّلُ مِنَ ٱلسَّمَآءِ مِن جِبَالٍ فِيهَا مِنۢ بَرَدٍ فَيُصِيبُ بِهِۦ مَن يَشَآءُ وَيَصْرِفُهُ عَن مَّن يَشَآءُ ۖ يَكَادُ سَنَا بَرْقِهِۦ يَذْهَبُ بِٱلْأَبْصَـٰرِ ۝٤٣﴾ <span class="ayah-ref">سُورَةُ النُّورِ</span></div>
-    {: .quote }
-    > “It is Allah who sends the winds, and they stir the clouds and spread them in the sky however He wills, and He makes them fragments so you see the rain emerge from within them. And when He causes it to fall upon whom He wills of His servants, immediately they rejoice.” (**Sūrat al-Rūm 30:48**), Saheeh International
-    >
-    > <div dir="rtl" lang="ar" class="quran-arabic">﴿ٱللَّهُ ٱلَّذِى يُرْسِلُ ٱلرِّيَـٰحَ فَتُثِيرُ سَحَابًا فَيَبْسُطُهُۥ فِى ٱلسَّمَآءِ كَيْفَ يَشَآءُ وَيَجْعَلُهُۥ كِسَفًا فَتَرَى ٱلْوَدْقَ يَخْرُجُ مِنْ خِلَـٰلِهِۦ ۖ فَإِذَآ أَصَابَ بِهِۦ مَن يَشَآءُ مِنْ عِبَادِهِۦٓ إِذَا هُمْ يَسْتَبْشِرُونَ ۝٤٨﴾ <span class="ayah-ref">سُورَةُ الرُّومِ</span></div>
-    {: .quote }
-
 1. **Expansion of the universe:** the Qur'an describes God as having built the heaven and as continually widening it.
     > “We built the universe with ˹great˺ might, and We are certainly expanding ˹it˺.” (**Sūrat al-Dhāriyāt 51:47**), Dr. Mustafa Khattab, *The Clear Quran*
     >
@@ -626,13 +576,23 @@ It also describes features of the natural world with remarkable precision, inclu
     {: .quote }
     > The phrase rendered “a joined entity” is *ratq*, things fused or stitched together, and “We separated them” translates *fataqnāhumā*, from *fatq*, the unstitching of what was joined. The verse makes the separation an act of God, and puts it to the disbelievers as something they should reflect on.
     {: .gloss }
+    > The second statement in the same verse is equally striking: “We made from water every living thing.” Every known form of life on Earth depends on water and originated from it, and liquid water is so fundamental to life that its presence is one of the principal things scientists look for when assessing whether another world could support life.
+    {: .gloss }
 
-1. **The Sun and Moon are described differently:** the Qur'an consistently distinguishes the light of the Sun from that of the Moon. It describes the Sun as a radiant or lamp-like source, while describing the Moon as light.
-    > “He is the One Who made the sun a radiant source and the moon a reflected light...” (**Sūrat Yūnus 10:5**), Dr. Mustafa Khattab, *The Clear Quran*
+1. **Darkness and waves in the deep ocean:** the Qur'an describes a deep sea with layers of darkness, with waves above waves and clouds above them.
+    > “Or ˹their deeds are˺ like the darkness in a deep sea, covered by waves upon waves, topped by ˹dark˺ clouds. Darkness upon darkness! If one stretches out their hand, they can hardly see it.” (**Sūrat al-Nūr 24:40**), Dr. Mustafa Khattab, *The Clear Quran*
     >
-    > <div dir="rtl" lang="ar" class="quran-arabic">﴿هُوَ ٱلَّذِى جَعَلَ ٱلشَّمْسَ ضِيَآءًۭ وَٱلْقَمَرَ نُورًۭا وَقَدَّرَهُۥ مَنَازِلَ لِتَعْلَمُوا۟ عَدَدَ ٱلسِّنِينَ وَٱلْحِسَابَ ۚ مَا خَلَقَ ٱللَّهُ ذَٰلِكَ إِلَّا بِٱلْحَقِّ ۚ يُفَصِّلُ ٱلْـَٔايَـٰتِ لِقَوْمٍۢ يَعْلَمُونَ ۝٥﴾ <span class="ayah-ref">سُورَةُ يُونُسَ</span></div>
+    > <div dir="rtl" lang="ar" class="quran-arabic">﴿أَوْ كَظُلُمَـٰتٍۢ فِى بَحْرٍۢ لُّجِّىٍّۢ يَغْشَىٰهُ مَوْجٌۭ مِّن فَوْقِهِۦ مَوْجٌۭ مِّن فَوْقِهِۦ سَحَابٌۭ ۚ ظُلُمَـٰتٌۢ بَعْضُهَا فَوْقَ بَعْضٍ إِذَآ أَخْرَجَ يَدَهُۥ لَمْ يَكَدْ يَرَىٰهَا ۗ وَمَن لَّمْ يَجْعَلِ ٱللَّهُ لَهُۥ نُورًۭا فَمَا لَهُۥ مِن نُّورٍ ۝٤٠﴾ <span class="ayah-ref">سُورَةُ النُّورِ</span></div>
     {: .quote }
-    > Elsewhere, the same distinction appears again: the Sun is described as a **“shining lamp”**, while the Moon is described as a **light** (25:61; 71:16). The Arabic word *nūr* [light] does not itself mean reflected light, so the Qur'an does not explicitly state the mechanism. The distinction nevertheless fits the physical reality precisely: the Sun generates its own visible light, while the Moon shines by reflecting light from the Sun.
+    > Sunlight disappears rapidly with ocean depth. Very little visible light remains in the deep ocean, and below roughly 1,000 metres sunlight no longer penetrates. Oceans also contain **internal waves** beneath their visible surface, travelling along boundaries between layers of water of different densities, while ordinary surface waves occur above them. The verse brings together a deep sea, extreme layered darkness, and waves beneath other waves.
+    {: .gloss }
+
+1. **Male and female from the emitted reproductive drop:** the Qur'an connects the creation of male and female specifically with the reproductive drop that is emitted.
+    > “And He created the pairs—males and females—from a sperm-drop when it is emitted.” (**Sūrat al-Najm 53:45–46**), Dr. Mustafa Khattab, *The Clear Quran*
+    >
+    > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَأَنَّهُۥ خَلَقَ ٱلزَّوْجَيْنِ ٱلذَّكَرَ وَٱلْأُنثَىٰ ۝٤٥ مِن نُّطْفَةٍ إِذَا تُمْنَىٰ ۝٤٦﴾ <span class="ayah-ref">سُورَةُ النَّجۡمِ</span></div>
+    {: .quote }
+    > In human reproduction, the egg contributes an X chromosome, while the fertilizing sperm carries either an X or a Y chromosome. The sperm in the emitted male reproductive fluid therefore determines whether the resulting embryo is chromosomally XX or XY.
     {: .gloss }
 
 1. **Orbits of the sun and moon:** the Qur'an describes the sun and the moon each moving in its own rounded course.
@@ -653,20 +613,36 @@ It also describes features of the natural world with remarkable precision, inclu
     > The phrase itself is also striking: “each in an orbit,” <span dir="rtl" lang="ar">كل في فلك</span> (*kullun fī falak*), is a palindrome spanning three Arabic words, with the letters k-l-f-y-f-l-k reading the same from either end. The words describing bodies traveling around a circuit turn back on themselves, and they do so within ordinary, natural Arabic in both verses where they appear.
     {: .gloss }
 
-1. **Fertilizing winds:** the Qur'an explicitly describes the winds as fertilizing.
-    > “And We have sent the fertilizing winds and sent down water from the sky and given you drink from it. And you are not its retainers.” (**Sūrat al-Ḥijr 15:22**), Saheeh International
+1. **The Sun and Moon are described differently:** the Qur'an consistently distinguishes the light of the Sun from that of the Moon. It describes the Sun as a radiant or lamp-like source, while describing the Moon as light.
+    > “He is the One Who made the sun a radiant source and the moon a reflected light...” (**Sūrat Yūnus 10:5**), Dr. Mustafa Khattab, *The Clear Quran*
     >
-    > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَأَرْسَلْنَا ٱلرِّيَـٰحَ لَوَٰقِحَ فَأَنزَلْنَا مِنَ ٱلسَّمَآءِ مَآءًۭ فَأَسْقَيْنَـٰكُمُوهُ وَمَآ أَنتُمْ لَهُۥ بِخَـٰزِنِينَ ۝٢٢﴾ <span class="ayah-ref">سُورَةُ الحِجۡرِ</span></div>
+    > <div dir="rtl" lang="ar" class="quran-arabic">﴿هُوَ ٱلَّذِى جَعَلَ ٱلشَّمْسَ ضِيَآءًۭ وَٱلْقَمَرَ نُورًۭا وَقَدَّرَهُۥ مَنَازِلَ لِتَعْلَمُوا۟ عَدَدَ ٱلسِّنِينَ وَٱلْحِسَابَ ۚ مَا خَلَقَ ٱللَّهُ ذَٰلِكَ إِلَّا بِٱلْحَقِّ ۚ يُفَصِّلُ ٱلْـَٔايَـٰتِ لِقَوْمٍۢ يَعْلَمُونَ ۝٥﴾ <span class="ayah-ref">سُورَةُ يُونُسَ</span></div>
     {: .quote }
-    > Wind is an important agent of fertilization in the plant world. Wind-pollinated plants release pollen into the air so that it can be carried to receptive flowers. Winds also contribute to cloud and rainfall processes by transporting moisture and airborne particles involved in condensation.
+    > Elsewhere, the same distinction appears again: the Sun is described as a **“shining lamp”**, while the Moon is described as a **light** (25:61; 71:16). The Arabic word *nūr* [light] does not itself mean reflected light, so the Qur'an does not explicitly state the mechanism. The distinction nevertheless fits the physical reality precisely: the Sun generates its own visible light, while the Moon shines by reflecting light from the Sun.
     {: .gloss }
 
-1. **The sky as a protected covering:** the Qur'an describes the sky above the earth as a protected canopy.
-    > “And We have made the sky a well-protected canopy, still they turn away from its signs.” (**Sūrat al-Anbiyāʾ 21:32**), Dr. Mustafa Khattab, *The Clear Quran*
+1. **Difficulty breathing at high altitude:** the Qur'an compares intense constriction of the chest to ascending into the sky.
+    > “Whoever Allah wills to guide, He opens their heart to Islam. But whoever He wills to leave astray, He makes their chest tight and constricted as if they were climbing up into the sky.” (**Sūrat al-Anʿām 6:125**), Dr. Mustafa Khattab, *The Clear Quran*
     >
-    > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَجَعَلْنَا ٱلسَّمَآءَ سَقْفًۭا مَّحْفُوظًۭا ۖ وَهُمْ عَنْ ءَايَـٰتِهَا مُعْرِضُونَ ۝٣٢﴾ <span class="ayah-ref">سُورَةُ الأَنبِيَاءِ</span></div>
+    > <div dir="rtl" lang="ar" class="quran-arabic">﴿فَمَن يُرِدِ ٱللَّهُ أَن يَهْدِيَهُۥ يَشْرَحْ صَدْرَهُۥ لِلْإِسْلَـٰمِ ۖ وَمَن يُرِدْ أَن يُضِلَّهُۥ يَجْعَلْ صَدْرَهُۥ ضَيِّقًا حَرَجًۭا كَأَنَّمَا يَصَّعَّدُ فِى ٱلسَّمَآءِ ۚ كَذَٰلِكَ يَجْعَلُ ٱللَّهُ ٱلرِّجْسَ عَلَى ٱلَّذِينَ لَا يُؤْمِنُونَ ۝١٢٥﴾ <span class="ayah-ref">سُورَةُ الأَنۡعَامِ</span></div>
     {: .quote }
-    > Earth's atmosphere performs several essential protective functions. It absorbs harmful solar radiation, including most dangerous ultraviolet radiation, moderates otherwise extreme temperatures, and causes most incoming meteoroids to burn up before reaching the ground.
+    > As altitude increases, atmospheric pressure falls and less oxygen is available with each breath. Increasing altitude therefore causes breathlessness and hypoxic stress, making breathing progressively more difficult as a person ascends.
+    {: .gloss }
+
+1. **A boundary between fresh and salt water:** the Qur'an describes fresh and salt water meeting while a separating boundary remains between them.
+    > “And He is the One Who merges the two bodies of water: one fresh and palatable and the other salty and bitter, placing between them a barrier they cannot cross.” (**Sūrat al-Furqān 25:53**), Dr. Mustafa Khattab, *The Clear Quran*
+    >
+    > <div dir="rtl" lang="ar" class="quran-arabic">﴿۞ وَهُوَ ٱلَّذِى مَرَجَ ٱلْبَحْرَيْنِ هَـٰذَا عَذْبٌۭ فُرَاتٌۭ وَهَـٰذَا مِلْحٌ أُجَاجٌۭ وَجَعَلَ بَيْنَهُمَا بَرْزَخًۭا وَحِجْرًۭا مَّحْجُورًۭا ۝٥٣﴾ <span class="ayah-ref">سُورَةُ الفُرۡقَانِ</span></div>
+    {: .quote }
+    > This is seen where rivers meet the sea. Because fresh water and salt water differ in density, they do not immediately become one uniform body of water. In strongly stratified estuaries, fresh water can flow above denser salt water, producing distinct water masses separated by a pronounced interface while mixing occurs gradually between them.
+    {: .gloss }
+
+1. **Milk formation:** the Qur'an draws attention to the production of milk inside livestock in relation to both digestive material and blood.
+    > “And there is certainly a lesson for you in cattle, from whose bellies We give you ˹milk˺ to drink, ˹coming˺ from between digested food and blood: pure milk, pleasant to drink.” (**Sūrat al-Naḥl 16:66**), Dr. Mustafa Khattab, *The Clear Quran*
+    >
+    > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَإِنَّ لَكُمْ فِى ٱلْأَنْعَـٰمِ لَعِبْرَةً ۖ نُّسْقِيكُم مِّمَّا فِى بُطُونِهِۦ مِنۢ بَيْنِ فَرْثٍۢ وَدَمٍۢ لَّبَنًا خَالِصًۭا سَآئِغًۭا لِّلشَّـٰرِبِينَ ۝٦٦﴾ <span class="ayah-ref">سُورَةُ النَّحۡلِ</span></div>
+    {: .quote }
+    > Nutrients from digested food are absorbed through the digestive system and transported through the bloodstream. The mammary glands then draw the substances needed for milk production from the blood and synthesize milk from them. The verse therefore places milk in relation to the two physiological systems involved in providing its raw materials: digestion and blood circulation.
     {: .gloss }
 
 1. **Gender of the worker honey bee:** the Qur'an addresses the bees that build homes, gather from fruits, and produce honey in the feminine.
@@ -676,13 +652,25 @@ It also describes features of the natural world with remarkable precision, inclu
     {: .quote }
     > English translations cannot show it, but every command in the Arabic is feminine: *ittakhidhī* (“take”), *kulī* (“eat”), and *fa-slukī* (“follow”). So is the pronoun in *buṭūnihā* (“their bellies”). The bees that build, forage, and make honey are the workers, and every worker bee is female. Arabic often gives collective nouns feminine agreement, so the grammar alone does not settle the point; still, the wording matches the biology.
     {: .gloss }
+    > The same passage also says of honey that “in it is healing for people” (16:69). Honey is now used in modern wound care, and clinical research has documented its antibacterial and wound-healing properties. A 2026 systematic review of 22 randomized clinical trials found that honey dressings shortened healing across burns, ulcers, and surgical wounds, with particularly clear effects in burns and evidence of antibacterial activity.
+    {: .gloss }
 
-1. **Weight of clouds:** the Qur'an calls rain-bearing clouds heavy.
-    > “He is the One Who shows you lightning, inspiring ˹you with˺ hope and fear, and produces heavy clouds.” (**Sūrat al-Raʿd 13:12**), Dr. Mustafa Khattab, *The Clear Quran*
+1. **Formation of rain clouds:** It describes the ordered processes of rain, clouds, winds, and the revival of dead land.
+    > “Do you not see that Allah drives clouds? Then He brings them together, then He makes them into a mass, and you see the rain emerge from within it. And He sends down from the sky, mountains [of clouds] within which is hail, and He strikes with it whom He wills and averts it from whom He wills. The flash of its lightening almost takes away the eyesight.” (**Sūrat al-Nūr 24:43**), Saheeh International
     >
-    > <div dir="rtl" lang="ar" class="quran-arabic">﴿هُوَ ٱلَّذِى يُرِيكُمُ ٱلْبَرْقَ خَوْفًا وَطَمَعًا وَيُنشِئُ ٱلسَّحَابَ ٱلثِّقَالَ ۝١٢﴾ <span class="ayah-ref">سُورَةُ الرَّعۡدِ</span></div>
+    > <div dir="rtl" lang="ar" class="quran-arabic">﴿أَلَمْ تَرَ أَنَّ ٱللَّهَ يُزْجِى سَحَابًا ثُمَّ يُؤَلِّفُ بَيْنَهُۥ ثُمَّ يَجْعَلُهُۥ رُكَامًا فَتَرَى ٱلْوَدْقَ يَخْرُجُ مِنْ خِلَـٰلِهِۦ وَيُنَزِّلُ مِنَ ٱلسَّمَآءِ مِن جِبَالٍ فِيهَا مِنۢ بَرَدٍ فَيُصِيبُ بِهِۦ مَن يَشَآءُ وَيَصْرِفُهُ عَن مَّن يَشَآءُ ۖ يَكَادُ سَنَا بَرْقِهِۦ يَذْهَبُ بِٱلْأَبْصَـٰرِ ۝٤٣﴾ <span class="ayah-ref">سُورَةُ النُّورِ</span></div>
     {: .quote }
-    > Clouds look weightless from the ground. A large rain cloud in fact holds an enormous mass of water, suspended by rising air until it falls as rain.
+    > “It is Allah who sends the winds, and they stir the clouds and spread them in the sky however He wills, and He makes them fragments so you see the rain emerge from within them. And when He causes it to fall upon whom He wills of His servants, immediately they rejoice.” (**Sūrat al-Rūm 30:48**), Saheeh International
+    >
+    > <div dir="rtl" lang="ar" class="quran-arabic">﴿ٱللَّهُ ٱلَّذِى يُرْسِلُ ٱلرِّيَـٰحَ فَتُثِيرُ سَحَابًا فَيَبْسُطُهُۥ فِى ٱلسَّمَآءِ كَيْفَ يَشَآءُ وَيَجْعَلُهُۥ كِسَفًا فَتَرَى ٱلْوَدْقَ يَخْرُجُ مِنْ خِلَـٰلِهِۦ ۖ فَإِذَآ أَصَابَ بِهِۦ مَن يَشَآءُ مِنْ عِبَادِهِۦٓ إِذَا هُمْ يَسْتَبْشِرُونَ ۝٤٨﴾ <span class="ayah-ref">سُورَةُ الرُّومِ</span></div>
+    {: .quote }
+
+1. **Fertilizing winds:** the Qur'an explicitly describes the winds as fertilizing.
+    > “And We have sent the fertilizing winds and sent down water from the sky and given you drink from it. And you are not its retainers.” (**Sūrat al-Ḥijr 15:22**), Saheeh International
+    >
+    > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَأَرْسَلْنَا ٱلرِّيَـٰحَ لَوَٰقِحَ فَأَنزَلْنَا مِنَ ٱلسَّمَآءِ مَآءًۭ فَأَسْقَيْنَـٰكُمُوهُ وَمَآ أَنتُمْ لَهُۥ بِخَـٰزِنِينَ ۝٢٢﴾ <span class="ayah-ref">سُورَةُ الحِجۡرِ</span></div>
+    {: .quote }
+    > Wind is an important agent of fertilization in the plant world. Wind-pollinated plants release pollen into the air so that it can be carried to receptive flowers. Winds also contribute to cloud and rainfall processes by transporting moisture and airborne particles involved in condensation.
     {: .gloss }
 
 1. **Night wrapped around day:** the Qur'an describes the continual alternation of light and darkness using the language of wrapping one around the other.
@@ -693,8 +681,23 @@ It also describes features of the natural world with remarkable precision, inclu
     > The verb *yukawwiru* means to wrap or wind something around something else. The description naturally fits a spherical rotating earth: one part of the globe faces the Sun while another is dark, and the curved boundary between the two continually moves around the earth as it rotates.
     {: .gloss }
 
-### <span class="num-roman">VII.</span> Numerical Patterns
+1. **The sky as a protected covering:** the Qur'an describes the sky above the earth as a protected canopy.
+    > “And We have made the sky a well-protected canopy, still they turn away from its signs.” (**Sūrat al-Anbiyāʾ 21:32**), Dr. Mustafa Khattab, *The Clear Quran*
+    >
+    > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَجَعَلْنَا ٱلسَّمَآءَ سَقْفًۭا مَّحْفُوظًۭا ۖ وَهُمْ عَنْ ءَايَـٰتِهَا مُعْرِضُونَ ۝٣٢﴾ <span class="ayah-ref">سُورَةُ الأَنبِيَاءِ</span></div>
+    {: .quote }
+    > Earth's atmosphere performs several essential protective functions. It absorbs harmful solar radiation, including most dangerous ultraviolet radiation, moderates otherwise extreme temperatures, and causes most incoming meteoroids to burn up before reaching the ground.
+    {: .gloss }
 
+1. **Weight of clouds:** the Qur'an calls rain-bearing clouds heavy.
+    > “He is the One Who shows you lightning, inspiring ˹you with˺ hope and fear, and produces heavy clouds.” (**Sūrat al-Raʿd 13:12**), Dr. Mustafa Khattab, *The Clear Quran*
+    >
+    > <div dir="rtl" lang="ar" class="quran-arabic">﴿هُوَ ٱلَّذِى يُرِيكُمُ ٱلْبَرْقَ خَوْفًا وَطَمَعًا وَيُنشِئُ ٱلسَّحَابَ ٱلثِّقَالَ ۝١٢﴾ <span class="ayah-ref">سُورَةُ الرَّعۡدِ</span></div>
+    {: .quote }
+    > Clouds look weightless from the ground. A large rain cloud in fact holds an enormous mass of water, suspended by rising air until it falls as rain.
+    {: .gloss }
+
+### <span class="num-roman">VII.</span> Numerical Patterns
 {: #numerical-patterns }
 
 The Qur'an contains **114 chapters**, each composed of verses in Arabic. Across that text are a number of striking numerical relationships involving the recurrence of particular words, grammatical forms, letters, verses, and chapter structures. Some involve concepts that the Qur'an itself explicitly connects or contrasts; others appear within the structure of individual chapters.
@@ -851,6 +854,10 @@ The Qur'an's preservation is one of the most remarkable features of its history:
 
     {% include yt-embed.html url="https://youtu.be/WL2hDhkYoao" title="The Book Without Doubt - Preservation of the Quran" %}
 
+1. **The surviving physical record begins extraordinarily early.** The Birmingham folios contain parts of chapters 18–20 in an early Hijazi script; their parchment was radiocarbon dated to 568–645 CE with 95.4% probability, placing this witness within the earliest material horizon of the Qur'an.
+    > University of Birmingham, [“Birmingham Qur'an Manuscript — Frequently Asked Questions”](https://www.birmingham.ac.uk/facilities/cadbury/birmingham-quran-mingana-collection/birmingham-quran/faqs).
+    {: .src }
+
 1. **Shared spelling peculiarities point to a common written archetype.** Marijn van Putten compared early Qur'an manuscripts and found idiosyncratic spellings recurring in the same locations across manuscripts. Because these spellings often make no difference in meaning, independent scribes would not be expected repeatedly to make the same arbitrary choice in the same place or recreate it independently from fresh oral dictation. The pattern strongly points to descent from a single written exemplar.
     > Van Putten concludes that the early manuscripts he studied descend from a single written archetype and that their date is consistent with the traditional attribution of the standardization to the caliph ʿUthmān ibn ʿAffān. This is materially stronger than the mere existence of an old manuscript: genealogy is being inferred from shared scribal fingerprints.
     {: .gloss }
@@ -863,18 +870,14 @@ The Qur'an's preservation is one of the most remarkable features of its history:
     > Hythem Sidky, [“On the Regionality of Qurʾānic Codices”](https://doi.org/10.5913/jiqsa.5.2020.a005), *Journal of the International Qur'anic Studies Association* 5.1 (2020), 133–210.
     {: .src }
 
+1. **Early public inscriptions provide an independent early witness outside bound manuscripts.** The Dome of the Rock in Jerusalem, completed in 72 AH / 691–692 CE, carries a long program of Qur'anic and closely Qur'anic inscriptions. By the end of the seventh century, Qur'anic language was therefore already sufficiently fixed and publicly recognizable to be monumentalized on one of the earliest major Islamic buildings.
+    > Sheila Blair and Jonathan Bloom, ["Inscriptions in art and architecture," *The Cambridge Companion to the Qur'an*](https://www.cambridge.org/core/books/abs/cambridge-companion-to-the-quran/inscriptions-in-art-and-architecture/8B94B2FEC63E14A8447547668BCE0FED).
+    {: .src }
+
 1. **The canonical reading traditions preserve evidence of inherited oral transmission.** Study of consonantal dotting patterns reveals independent Medinan, Meccan-Basran, and Kufan regional reading traditions, pointing to living oral lineages reaching back to the earliest generations.
     > The written manuscripts and the inherited recitations preserve two converging lines of transmission: manuscripts retain a recoverable written genealogy, while features of the recitations retain distinct regional oral lineages. Together they show that the Qur'an was transmitted through both writing and living recitation from the earliest period.
     {: .gloss }
     > Hythem Sidky, [“Consonantal Dotting and the Oral Quran”](https://doi.org/10.7817/jaos.143.4.2023.ar029), *Journal of the American Oriental Society* 143.4 (2023), 785–814.
-    {: .src }
-
-1. **The surviving physical record begins extraordinarily early.** The Birmingham folios contain parts of chapters 18–20 in an early Hijazi script; their parchment was radiocarbon dated to 568–645 CE with 95.4% probability, placing this witness within the earliest material horizon of the Qur'an.
-    > University of Birmingham, [“Birmingham Qur'an Manuscript — Frequently Asked Questions”](https://www.birmingham.ac.uk/facilities/cadbury/birmingham-quran-mingana-collection/birmingham-quran/faqs).
-    {: .src }
-
-1. **Early public inscriptions provide an independent early witness outside bound manuscripts.** The Dome of the Rock in Jerusalem, completed in 72 AH / 691–692 CE, carries a long program of Qur'anic and closely Qur'anic inscriptions. By the end of the seventh century, Qur'anic language was therefore already sufficiently fixed and publicly recognizable to be monumentalized on one of the earliest major Islamic buildings.
-    > Sheila Blair and Jonathan Bloom, ["Inscriptions in art and architecture," *The Cambridge Companion to the Qur'an*](https://www.cambridge.org/core/books/abs/cambridge-companion-to-the-quran/inscriptions-in-art-and-architecture/8B94B2FEC63E14A8447547668BCE0FED).
     {: .src }
 
 1. **Mass memorization adds another layer of redundancy.** Complete memorization of the Qur'an has remained a major religious institution across Muslim societies ever since its revelation. Recitation is checked teacher-to-student, heard publicly in worship, compared against written copies, and reproduced across geographically separated communities.
@@ -1021,6 +1024,8 @@ It contains further fulfilled predictions concerning identifiable people and eve
     > For the independently documented Byzantine recovery, see Walter E. Kaegi, [*Byzantium and the Early Islamic Conquests*, ch. 2](https://www.cambridge.org/core/books/abs/byzantium-and-the-early-islamic-conquests/byzantine-empire-in-an-era-of-accelerating-change/326C4AD3819C9BA745C546C04DD47970), and N. Oikonomidès, ["A Chronological Note on the First Persian Campaign of Heraclius (622)"](https://www.cambridge.org/core/journals/byzantine-and-modern-greek-studies/article/abs/chronological-note-on-the-first-persian-campaign-of-heraclius-622/F7221BA792928B16279D235B3EE4638D).
     {: .src }
 
+1. **The fate of Abū Lahab:** Sūrat al-Masad condemned one of the Prophet's fiercest enemies while he was still alive and publicly opposing him. He had years in which an outward profession of faith could have been used to mock the revelation's claim, yet he died as an enemy of Islam exactly as the chapter declared.
+
 1. **Safe entry into the Sacred Mosque:** after the Muslims traveled toward Mecca for pilgrimage and were prevented from entering, the Qur'an stated that the Prophet's ﷺ vision would be fulfilled and that the believers would enter the Sacred Mosque securely, with heads shaved or hair shortened as part of the pilgrimage rites. They returned and performed the pilgrimage the following year.
     > “Indeed, Allah will fulfil His Messenger's vision in all truth: Allah willing, you will surely enter the Sacred Mosque, in security...” (**Sūrat al-Fatḥ 48:27**), Dr. Mustafa Khattab, *The Clear Quran*
     >
@@ -1030,8 +1035,6 @@ It contains further fulfilled predictions concerning identifiable people and eve
     {: .gloss }
 
 1. **The treaty of Ḥudaybiyyah was called a "clear victory" before its consequences were obvious.** The treaty initially appeared disappointing to many Muslims because they had come intending pilgrimage and accepted terms they found difficult. The Qur'an nonetheless opened Sūrat al-Fatḥ by calling the outcome a clear victory. The treaty's subsequent consequences strongly favored the Muslim community.
-
-1. **The fate of Abū Lahab:** Sūrat al-Masad condemned one of the Prophet's fiercest enemies while he was still alive and publicly opposing him. He had years in which an outward profession of faith could have been used to mock the revelation's claim, yet he died as an enemy of Islam exactly as the chapter declared.
 
 {% include yt-embed.html url="https://youtu.be/xZIqd_-1Zus" title="Mind Blowing Prophecies of Muhammad | Part 1" %}
 
@@ -1154,7 +1157,6 @@ These teachings connect patience and hope with the duty to relieve suffering and
 <details class="quran-more quran-more--section" markdown="1">
 <summary>Read more on this theme</summary>
 
-
 1. It makes the poor's share of wealth an obligation rather than a favor. Alms are a due; debts are to be forgiven when the debtor cannot pay; interest is banned; and charity followed by humiliation is worthless.
     > "And in their wealth there was a rightful share ˹fulfilled˺ for the beggar and the poor." (**Sūrat al-Dhāriyāt 51:19**), Dr. Mustafa Khattab, *The Clear Quran*
     >
@@ -1187,6 +1189,12 @@ These teachings connect patience and hope with the duty to relieve suffering and
     {: .quote }
     </details>
 
+1. It rejects status based on ancestry, tribe, wealth, gender, or color as a measure of worth before God. The measure of a person is character and conduct alone; the most honorable people are those most conscious of God.
+    > "O humanity! Indeed, We created you from a male and a female, and made you into peoples and tribes so that you may ˹get to˺ know one another. Surely the most noble of you in the sight of Allah is the most righteous among you. Allah is truly All-Knowing, All-Aware." (**Sūrat al-Ḥujurāt 49:13**), Dr. Mustafa Khattab, *The Clear Quran*
+    >
+    > <div dir="rtl" lang="ar" class="quran-arabic">﴿يَـٰٓأَيُّهَا ٱلنَّاسُ إِنَّا خَلَقْنَـٰكُم مِّن ذَكَرٍ وَأُنثَىٰ وَجَعَلْنَـٰكُمْ شُعُوبًا وَقَبَآئِلَ لِتَعَارَفُوٓا۟ ۚ إِنَّ أَكْرَمَكُمْ عِندَ ٱللَّهِ أَتْقَىٰكُمْ ۚ إِنَّ ٱللَّهَ عَلِيمٌ خَبِيرٌ ۝١٣﴾ <span class="ayah-ref">سُورَةُ الحُجُرَاتِ</span></div>
+    {: .quote }
+
 1. It places forgiveness and reconciliation above retaliation. A person is permitted to respond to a wrong in equal measure, but no further, while forgiveness is presented as the better path, with the higher aim of turning hostility into friendship.
     > "The reward of an evil deed is its equivalent. But whoever pardons and seeks reconciliation, then their reward is with Allah. He certainly does not like the wrongdoers." (**Sūrat al-Shūrā 42:40**), Dr. Mustafa Khattab, *The Clear Quran*
     >
@@ -1198,27 +1206,6 @@ These teachings connect patience and hope with the duty to relieve suffering and
     > "Good and evil cannot be equal. Respond ˹to evil˺ with what is best, then the one you are in a feud with will be like a close friend." (**Sūrat Fuṣṣilat 41:34**), Dr. Mustafa Khattab, *The Clear Quran*
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَلَا تَسْتَوِى ٱلْحَسَنَةُ وَلَا ٱلسَّيِّئَةُ ۚ ٱدْفَعْ بِٱلَّتِى هِىَ أَحْسَنُ فَإِذَا ٱلَّذِى بَيْنَكَ وَبَيْنَهُۥ عَدَٰوَةٌ كَأَنَّهُۥ وَلِىٌّ حَمِيمٌ ۝٣٤﴾ <span class="ayah-ref">سُورَةُ فُصِّلَتۡ</span></div>
-    {: .quote }
-    </details>
-
-1. It rejects status based on ancestry, tribe, wealth, gender, or color as a measure of worth before God. The measure of a person is character and conduct alone; the most honorable people are those most conscious of God.
-    > "O humanity! Indeed, We created you from a male and a female, and made you into peoples and tribes so that you may ˹get to˺ know one another. Surely the most noble of you in the sight of Allah is the most righteous among you. Allah is truly All-Knowing, All-Aware." (**Sūrat al-Ḥujurāt 49:13**), Dr. Mustafa Khattab, *The Clear Quran*
-    >
-    > <div dir="rtl" lang="ar" class="quran-arabic">﴿يَـٰٓأَيُّهَا ٱلنَّاسُ إِنَّا خَلَقْنَـٰكُم مِّن ذَكَرٍ وَأُنثَىٰ وَجَعَلْنَـٰكُمْ شُعُوبًا وَقَبَآئِلَ لِتَعَارَفُوٓا۟ ۚ إِنَّ أَكْرَمَكُمْ عِندَ ٱللَّهِ أَتْقَىٰكُمْ ۚ إِنَّ ٱللَّهَ عَلِيمٌ خَبِيرٌ ۝١٣﴾ <span class="ayah-ref">سُورَةُ الحُجُرَاتِ</span></div>
-    {: .quote }
-
-1. It does not demand more than a person can bear. Religious obligations are not intended to impose undue hardship: there is no monasticism or celibacy, and duties are eased or lifted in cases of hardship, illness, travel, and coercion.
-
-    > "Allah does not require of any soul more than what it can afford." (**Sūrat al-Baqarah 2:286**), Dr. Mustafa Khattab, *The Clear Quran*
-    >
-    > <div dir="rtl" lang="ar" class="quran-arabic">﴿لَا يُكَلِّفُ ٱللَّهُ نَفْسًا إِلَّا وُسْعَهَا﴾ <span class="ayah-ref">[سُورَةُ البَقَرَةِ: ٢٨٦]</span></div>
-    {: .quote }
-    <details class="quran-more" markdown="1">
-    <summary>Show another verse on this theme</summary>
-
-    > "And He has not placed upon you in the religion any difficulty." (**Sūrat al-Ḥajj 22:78**), Saheeh International
-    >
-    > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَمَا جَعَلَ عَلَيْكُمْ فِى ٱلدِّينِ مِنْ حَرَجٍ﴾ <span class="ayah-ref">[سُورَةُ الحَجِّ: ٧٨]</span></div>
     {: .quote }
     </details>
 
@@ -1237,6 +1224,21 @@ These teachings connect patience and hope with the duty to relieve suffering and
     > "˹This is˺ a blessed Book which We have revealed to you ˹O Prophet˺ so that they may contemplate its verses, and people of reason may be mindful." (**Sūrat Ṣād 38:29**), Dr. Mustafa Khattab, *The Clear Quran*
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿كِتَـٰبٌ أَنزَلْنَـٰهُ إِلَيْكَ مُبَـٰرَكٌ لِّيَدَّبَّرُوٓا۟ ءَايَـٰتِهِۦ وَلِيَتَذَكَّرَ أُو۟لُوا۟ ٱلْأَلْبَـٰبِ ۝٢٩﴾ <span class="ayah-ref">سُورَةُ صٓ</span></div>
+    {: .quote }
+    </details>
+
+1. It does not demand more than a person can bear. Religious obligations are not intended to impose undue hardship: there is no monasticism or celibacy, and duties are eased or lifted in cases of hardship, illness, travel, and coercion.
+
+    > "Allah does not require of any soul more than what it can afford." (**Sūrat al-Baqarah 2:286**), Dr. Mustafa Khattab, *The Clear Quran*
+    >
+    > <div dir="rtl" lang="ar" class="quran-arabic">﴿لَا يُكَلِّفُ ٱللَّهُ نَفْسًا إِلَّا وُسْعَهَا﴾ <span class="ayah-ref">[سُورَةُ البَقَرَةِ: ٢٨٦]</span></div>
+    {: .quote }
+    <details class="quran-more" markdown="1">
+    <summary>Show another verse on this theme</summary>
+
+    > "And He has not placed upon you in the religion any difficulty." (**Sūrat al-Ḥajj 22:78**), Saheeh International
+    >
+    > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَمَا جَعَلَ عَلَيْكُمْ فِى ٱلدِّينِ مِنْ حَرَجٍ﴾ <span class="ayah-ref">[سُورَةُ الحَجِّ: ٧٨]</span></div>
     {: .quote }
     </details>
 
@@ -1349,18 +1351,17 @@ The Qur'an also judges worship by its effect on conduct. Chapter 107 condemns pr
 ### <span class="num-roman">XII.</span> Historical Impact and Transformation
 {: #historical-impact-and-transformation }
 
-1. Within a single generation, the vast majority of Arabs accepted it, including tribes that had fought hardest to suppress it.
-1. It has shaped the lives of billions across fourteen centuries. Around two billion Muslims today accept it as scripture.
-    > [*Pew Research Center*, June 2025](https://www.pewresearch.org/religion/2025/06/09/how-the-global-religious-landscape-changed-from-2010-to-2020/): the global Muslim population grew from 1.7 billion in 2010 to 2.0 billion in 2020, reaching 26% of the world's population.
-    {: .src }
+1. The Prophet and the first hearers of the Qur'an remained committed through thirteen years of persecution in Mecca—mockery, beatings, starvation, boycott, and exile. Renouncing it would have ended their suffering, but they did not.
 
-1. Taken together, the Qur'an's teachings form a complete moral and legal framework that holds justice and mercy in balance and historically guided a flourishing civilization. Its guidance remains directly applicable: what it addressed to seventh-century Arabs still addresses readers today.
+1. Within a single generation, the vast majority of Arabs accepted it, including tribes that had fought hardest to suppress it.
 
 1. It gave rise to the second-largest religion on earth, after Christianity—its own predecessor—and the fastest-growing of the major religions.
     > [*Pew Research Center*, April 2015](https://www.pewresearch.org/religion/2015/04/02/religious-projections-2010-2050/), projected that Muslims and Christians would approach numerical parity by 2050, at roughly 2.8 billion and 2.9 billion respectively.
     {: .src }
 
-1. The Prophet and the first hearers of the Qur'an remained committed through thirteen years of persecution in Mecca—mockery, beatings, starvation, boycott, and exile. Renouncing it would have ended their suffering, but they did not.
+1. It has shaped the lives of billions across fourteen centuries. Around two billion Muslims today accept it as scripture.
+    > [*Pew Research Center*, June 2025](https://www.pewresearch.org/religion/2025/06/09/how-the-global-religious-landscape-changed-from-2010-to-2020/): the global Muslim population grew from 1.7 billion in 2010 to 2.0 billion in 2020, reaching 26% of the world's population.
+    {: .src }
 
 1. The Qur'an became foundational to Arabic grammar, lexicography, rhetoric, calligraphy, law, theology, philosophy, devotional life, and education.
     > The Qur'an became a foundational reference for the sciences of Arabic grammar, lexicography, rhetoric, and recitation, shaping the formal study of the language for centuries.
@@ -1369,6 +1370,8 @@ The Qur'an also judges worship by its effect on conduct. Chapter 107 condemns pr
 1. Its historical influence is extraordinary.
     > A seventh-century Arabic revelation became simultaneously a memorized liturgy, a foundational legal and theological source, a central literary reference point, and a continuously transmitted scripture across peoples, languages, continents, and fourteen centuries.
     {: .gloss }
+
+1. Taken together, the Qur'an's teachings form a complete moral and legal framework that holds justice and mercy in balance and historically guided a flourishing civilization. Its guidance remains directly applicable: what it addressed to seventh-century Arabs still addresses readers today.
 
 ### <span class="num-roman">XIII.</span> The Qur'an and the Man Who Proclaimed It
 {: #quran-and-messenger }
