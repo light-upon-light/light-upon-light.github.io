@@ -4,6 +4,14 @@
 
 Please write it to match the voice and writing style of the rest of the page: clear, easy-to-read, direct, concise, natural, confident and affirmative. Don't write it like it's trying to be dramatic or written for effect or concessionary.
 
+## Formatting
+
+Please make sure to follow the following formatting rules:
+1- indentations 4 spaces not 3.
+2- replace every "> {: gloss }" with "{: gloss }"
+3- keep the numbering of the bullets all "1." since that's the markdown convention
+4- Leave no new line between a bullet point and the quote underneath
+
 ## Prompt 1 (best)
 
 The uploaded document is a page in an Islam apologetics website. I fear that it is currently badly written and is not a pleasant, clear and convincing read. And it is quite redundant as I combined ideas from two docs together.

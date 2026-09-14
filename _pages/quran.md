@@ -470,42 +470,114 @@ Questions, parables, warnings, and answers to objections make reflection part of
 
 The Qur'an presents itself as the final revelation in the same prophetic line as Abraham, Moses, and Jesus. It recounts earlier sacred history with an authoritative and independent voice, correcting theological distortions, restoring pure monotheism, and reshaping familiar narratives with remarkable precision.
 
-It gives strikingly accurate historical detail, some of which was confirmed only recently by modern scholarship. Several of the strongest examples concern ancient Egyptian and Near Eastern records that had long ceased to be readable: knowledge of Egyptian hieroglyphs disappeared after the fourth century and was recovered only with their modern decipherment in 1822.
+Some of its historical details are especially striking because the civilizations involved had long since disappeared and their own records could no longer be read. Knowledge of Egyptian hieroglyphs vanished after the fourth century CE and was recovered only after their modern decipherment in 1822. Ancient South Arabian monumental writing began to be deciphered only in the nineteenth century, while an entire script used for everyday Sabaean correspondence was not discovered until the 1970s. Modern archaeology and epigraphy have therefore made it possible to compare the Qur'an with evidence unavailable for most of the intervening centuries. ([britishmuseum.org](https://www.britishmuseum.org/blog/everything-you-ever-wanted-know-about-rosetta-stone?utm_source=chatgpt.com))
 
 1. **“King” in the time of Joseph and “Pharaoh” in the time of Moses:** the Qur'an makes a precise distinction between the titles of the Egyptian rulers in these two periods.
     > In the story of Joseph, the ruler is repeatedly called *al-malik* [the king] (12:43, 12:50, 12:54), and never Pharaoh. In the story of Moses, the ruler is repeatedly called *Firʿawn* [Pharaoh].
     {: .gloss }
-    > Ancient Egyptian records show that *pr-ꜥꜣ* [Great House], from which “Pharaoh” derives, originally referred to the royal palace rather than the king. It only became a designation for the ruler during the New Kingdom, especially from the later Eighteenth Dynasty onward. Egyptologist John A. Wilson states: **“We have been guilty of an anachronism in using the term ‘pharaoh’ for the king of Egypt before the Empire.”** The Joseph tradition is associated with the much earlier Middle Bronze/Hyksos period, while Moses is placed later. The Bible nevertheless repeatedly calls Joseph's ruler “Pharaoh”; the Qur'an does not make that anachronism.
+    > Ancient Egyptian evidence shows that *pr-ꜥꜣ* [Great House], from which “Pharaoh” derives, originally meant the royal palace. It only came to designate the king himself in the New Kingdom. The Qur'an therefore preserves the historically appropriate distinction between an earlier Egyptian “king” and a later ruler called “Pharaoh.” The Biblical account, by contrast, repeatedly calls Joseph's ruler “Pharaoh” as well. Egyptologist John A. Wilson states: *“We have been guilty of an anachronism in using the term ‘pharaoh’ for the king of Egypt before the Empire.”* ([globalegyptianmuseum.org](https://www.globalegyptianmuseum.org/glossary.aspx?id=294&utm_source=chatgpt.com))
     {: .gloss }
 
-1. **Saba's two gardens and the flood of the dam:** the Qur'an describes the ancient kingdom of Saba as possessing **“two gardens, one to the right and one to the left”** and then being struck by the **“flood of the dam”** (34:15–16).
-    > Archaeology has revealed the enormous ancient irrigation system at Ma'rib in Yemen. The Great Dam fed canals that transformed the arid region into the largest known artificial oasis of ancient Arabia, with cultivated territory extending on both sides of the valley. UNESCO's World Heritage documentation explicitly describes the ancient oasis as having a configuration of **two “gardens”—the North and South Oasis—created by the Dhana Wadi and its irrigation system**, exactly the landscape described by the Qur'an. The ancient dam ultimately collapsed in the sixth century CE, contributing to the decline of Ma'rib and migration from the region.
+1. **The Sabaean word for the Ma'rib Dam:** when describing the destruction of Saba, the Qur'an says that its people were struck by *sayl al-ʿarim* [the flood of the dam] (34:16).
+    > The word *ʿarim* [dam] occurs only once in the entire Qur'an. Modern decipherment of Sabaic inscriptions produced a remarkable match: the Ma'rib Dam itself is called *ʿrmn* [the dam], and in one inscription *ʿrm Mrb* [the Dam of Ma'rib]. Abraha's great inscription concerning repairs to the dam likewise uses the same word. The Qur'an therefore uses local ancient South Arabian vocabulary precisely in its account of ancient Saba. ([knowledge.uchicago.edu](https://knowledge.uchicago.edu/record/1343/files/Dost_uchicago_0330D_13784.pdf?utm_source=chatgpt.com))
+    {: .gloss }
+
+1. **Saba's two gardens and the Ma'rib irrigation system:** the Qur'an describes Saba as possessing **“two gardens, one to the right and one to the left”** (34:15).
+    > Archaeology has revealed the enormous irrigation system centered on the Great Dam of Ma'rib. UNESCO describes it as creating the largest ancient man-made oasis in Arabia, with canals irrigating a vast cultivated territory extending on both sides of Ma'rib. What now appears as a barren landscape was once an extraordinary agricultural zone divided by the valley and supplied from the dam—exactly the kind of landscape described by the Qur'an. ([whc.unesco.org](https://whc.unesco.org/en/list/1700))
+    {: .gloss }
+
+1. **The “flood of the dam” that destroyed Saba's prosperity:** the next verse says that the people turned away, so God sent upon them **“the flood of the dam”** and their rich gardens were replaced by inferior vegetation (34:16).
+    > The Great Dam of Ma'rib was the foundation of the region's agricultural prosperity and required repeated repairs after major breaches. Surviving inscriptions document these repairs, including an enormous restoration undertaken by Abraha in the sixth century CE. Its eventual failure brought the ancient irrigation system and the prosperity it supported to an end. The Qur'an accurately connects Saba's flourishing gardens, its great dam, a destructive flood, and the loss of its agricultural prosperity. ([whc.unesco.org](https://whc.unesco.org/en/list/1700))
     {: .gloss }
 
 1. **Sun worship in Saba:** in the account of Solomon and the Queen of Saba, the Qur'an reports:
     > **“I found her and her people prostrating to the sun instead of God.”** (27:24)
     >
-    > Ancient South Arabian inscriptions recovered from Yemen independently confirm that solar worship formed part of the religion of Saba. A Sabaean inscription from Ma'rib records a dedication by a **king of Saba to his Sun-goddess Tanuf**, whom the British Museum notes was particularly revered by the Sabaean royal family. Other inscriptions from Ma'rib record dedications to **Shams [the Sun]**. This very specific religious detail in the Qur'anic account is therefore directly reflected in the surviving inscriptions of ancient Saba.
+    > Ancient South Arabian inscriptions independently confirm solar worship in Saba. A surviving Sabaean inscription from Ma'rib records a dedication by a **king of Saba to his Sun-goddess Tanuf**, whom the British Museum identifies as a form of the sun goddess particularly revered by the Sabaean royal family. The Qur'an's specific description of Sabaean royal religion therefore corresponds directly to the civilization's own inscriptions. ([britishmuseum.org](https://www.britishmuseum.org/collection/object/W_1863-0216-2))
+    {: .gloss }
+
+1. **The Queen of Saba consults a governing council:** after receiving Solomon's letter, the Queen says:
+    > **“O chiefs! Advise me in this matter of mine, for I would never make any decision without you.”** (27:32)
+    >
+    > Sabaean inscriptions independently reveal that Saba had formal political councils. Scholarship on its public institutions identifies a supreme Sabaean legislative **council** in which the king sat together with representatives of the principal tribal groups. Surviving Sabaean legal inscriptions likewise record decisions ratified by councils. The Qur'an's brief scene therefore reflects a real institution of Sabaean government. ([archaeopresspublishing.com](https://archaeopresspublishing.com/ojs/index.php/PSAS/article/view/359))
+    {: .gloss }
+
+1. **Formal written correspondence in Saba:** the Qur'an portrays the kingdom as a literate state. Solomon sends the Queen a written letter, she receives it, reads its contents, and presents it to her council (27:28–31).
+    > The recovery of ancient South Arabian writing has revealed a remarkably developed documentary culture. Hundreds of wooden documents have now been deciphered, including private and official correspondence, legal documents, contracts, writing exercises, and other everyday records. Almost 900 such Sabaic and Minaic texts have been published. An entire form of South Arabian writing used for this everyday correspondence was unknown to modern scholars until its discovery in the 1970s. ([archaeopresspublishing.com](https://www.archaeopresspublishing.com/ojs/index.php/PSAS/article/view/1258?articlesBySimilarityPage=21))
+    {: .gloss }
+
+1. **Saba was wealthy, monumental, and centrally organized:** the Qur'an portrays the Queen of Saba as ruling a prosperous kingdom and possessing **“a magnificent throne”** (27:23), while chapter 34 portrays Saba as extraordinarily fertile and prosperous.
+    > Archaeology has confirmed that Saba was one of ancient Arabia's great powers. UNESCO describes an affluent kingdom with a strong centralized administration, monumental walled cities and temples, extensive irrigation works, and wealth derived partly from control of the incense trade. Ma'rib itself was its administrative, cultural, and economic capital. ([whc.unesco.org](https://whc.unesco.org/en/list/1700))
+    {: .gloss }
+
+1. **Fired brick in Pharaoh's Egypt:** when Pharaoh orders the construction of a high tower, the Qur'an gives the unusually specific instruction:
+    > **“O Haman! Bake clay into bricks for me, then build me a high tower...”** (28:38)
+    >
+    > Mud brick was overwhelmingly dominant in ancient Egypt, making the explicit reference to firing the clay noteworthy. Flinders Petrie's excavations at Nebesheh uncovered **red baked bricks in Ramesside tombs of the Nineteenth Dynasty**. Petrie stressed the importance of the discovery because fired brick had previously been thought to belong only to much later Egypt. Archaeology therefore confirms the presence of precisely this technology in Ramesside Egypt. ([digi.ub.uni-heidelberg.de](https://digi.ub.uni-heidelberg.de/diglit/petrie1888bd2/0084?utm_source=chatgpt.com))
+    {: .gloss }
+
+1. **Egypt's professional magicians:** the Qur'an describes Pharaoh summoning skilled magicians from across Egypt to confront Moses (7:109–113; 20:57–66; 26:34–38).
+    > Egyptian sources independently reveal a recognized class of ritual specialists closely associated with what modern scholars call magic. The Egyptian lector was a learned ritual practitioner who recited spells, performed magical rites, served in temples, and could also hold positions connected with the royal palace. Evidence for this office extends through thousands of years of Egyptian history. The Qur'an's portrayal of Pharaoh assembling professional magical specialists therefore fits an established institution of Egyptian society. ([jstor.org](https://www.jstor.org/stable/j.ctvqc6jxb))
+    {: .gloss }
+
+1. **Staffs, serpents, and Egyptian magic:** the confrontation centers specifically on staffs and ropes that appear to move like serpents, followed by Moses' staff becoming a real serpent and swallowing them (7:116–117; 20:66–69; 26:44–45).
+    > The serpent-staff was itself deeply rooted in indigenous Egyptian ritual culture. Egyptologist Robert Ritner catalogued surviving **wooden and bronze serpent-shaped wands** from ancient Egypt and Egyptian magical texts concerning them. Egyptian literature also portrays ritual specialists transforming artificial objects into living animals. The imagery at the center of the Qur'anic confrontation is therefore strikingly at home in ancient Egyptian magical culture. ([jstor.org](https://www.jstor.org/stable/j.ctvvnbf1))
+    {: .gloss }
+
+1. **Pharaoh's reference to gold bracelets as a mark of status:** Pharaoh mocks Moses by asking:
+    > **“Why have no bracelets of gold been given to him?”** (43:53)
+    >
+    > Gold jewelry was a visible marker of royal favor and high status in New Kingdom Egypt. The Egyptian **“Gold of Honor”** was bestowed by the king upon distinguished officials, and surviving evidence shows that its sets could include gold collars, armlets, and bracelets. Egyptian art preserves officials and royal figures visibly wearing these awards. Pharaoh's challenge—that a true person of authority should display gold bracelets—fits the symbolic language of status at the Egyptian court. ([scholar.lib.vt.edu](https://scholar.lib.vt.edu/ejournals/ElAnt/V5N3/haeckl.html))
+    {: .gloss }
+
+1. **Pharaoh's threatened punishments fit New Kingdom Egyptian practice:** after the magicians accept Moses' message, Pharaoh threatens to cut off their hands and feet on opposite sides and then execute them on stakes or crosses (7:124; 20:71; 26:49).
+    > New Kingdom Egyptian evidence independently documents the same punitive world. Archaeological, textual, and pictorial sources attest the cutting off of hands and other body parts, burning, impalement, and other severe punishments. Physical remains of severed hands have even been excavated in the forecourt of a royal palace at Avaris, while New Kingdom inscriptions and reliefs repeatedly depict the removal of hands. ([jstor.org](https://www.jstor.org/stable/j.ctvsf1qpk?utm_source=chatgpt.com))
+    {: .gloss }
+
+1. **Pharaoh's claim to supreme lordship fits Egyptian divine kingship:** the Qur'an portrays Pharaoh declaring:
+    > **“I am your lord, the most high.”** (79:24)
+    >
+    > This is not the language of an ordinary Near Eastern king. Egyptian kingship had a distinctively sacred character: the Pharaoh stood at the summit of Egypt's religious and political order and was responsible for maintaining the divinely established order of the cosmos. Egyptian royal ideology closely associated the king with the gods, giving the Qur'anic Pharaoh's extraordinary claim a specifically Egyptian setting. ([pbs.org](https://www.pbs.org/empires/egypt/newkingdom/pharaohs.html?utm_source=chatgpt.com))
+    {: .gloss }
+
+1. **Pharaoh boasts of Egypt's rivers flowing beneath him:** the Qur'an has Pharaoh proclaim:
+    > **“O my people! Does the kingdom of Egypt not belong to me, as well as these rivers flowing at my feet?”** (43:51)
+    >
+    > The royal centers of the Nile Delta were literally structured around branches of the Nile, canals, harbors, basins, and artificial waterways. Archaeological reconstruction of Pi-Ramesse, the great Ramesside royal residence, shows that watercourses both divided and connected the city; its royal and monumental landscape included canals and harbor facilities. Pharaoh's boast naturally reflects the physical geography and royal landscape of ancient Egypt. ([rmo.nl](https://www.rmo.nl/wp-content/uploads/2025/10/PALMA-27_9789464261196.pdf?utm_source=chatgpt.com))
+    {: .gloss }
+
+1. **Pharaoh's body is singled out for preservation:** after describing Pharaoh drowning while pursuing the Israelites, the Qur'an says:
+    > **“Today We will preserve your body so you may become a sign for those after you.”** (10:92)
+    >
+    > Ancient Egypt was exceptional for deliberately preserving the bodies of its rulers. The mummies of numerous New Kingdom kings survive to the present day: Egypt's National Museum of Egyptian Civilization alone displays twenty royal mummies from the Seventeenth through Twentieth Dynasties. The Qur'an's emphasis specifically on the preservation of Pharaoh's body fits one of the most distinctive practices of Egyptian kingship. ([nmec.gov.eg](https://nmec.gov.eg/mummies-hall/))
     {: .gloss }
 
 1. **The Israelites are described as a small group at the Exodus:** when Pharaoh mobilizes his forces against Moses and the Israelites, the Qur'an has him say:
     > **“These are only a small band.”** (26:54)
     >
-    > The Biblical text instead gives roughly **600,000 adult Israelite males** at the Exodus (Exodus 12:37; Numbers 1:46), which would imply a total population of roughly two to three million people. Modern historical and archaeological scholarship widely recognizes that a migration of that scale cannot be reconciled with the population and carrying capacity of the region, and scholars who accept a historical core to the Exodus generally place the group at a dramatically smaller size. The Qur'an does not reproduce the enormous Biblical figure; its description fits the historically plausible scale.
+    > The Biblical text instead gives roughly **600,000 adult Israelite males** at the Exodus (Exodus 12:37; Numbers 1:46), which would imply a total population of roughly two to three million people. Modern historical and archaeological scholarship widely recognizes that a migration of that scale cannot be reconciled with the population and carrying capacity of the region, and scholars who accept a historical core to the Exodus generally place the group at a dramatically smaller size. The Qur'an does not repeat the enormous Biblical figure; it describes the escaping Israelites as a small group. ([mdpi.com](https://www.mdpi.com/2077-1444/17/6/737))
     {: .gloss }
 
-1. **Pharaoh's threatened punishments fit New Kingdom Egyptian practice:** after the magicians accept Moses' message, Pharaoh threatens to cut off their hands and feet on opposite sides and then crucify them on palm trunks (7:124; 20:71; 26:49).
-    > Egyptian evidence from the New Kingdom independently attests the same punitive world. Royal and military sources document the severing of hands; legal texts prescribe severe bodily mutilation and **impalement**; and evidence from the Ramesside period refers to the cutting off of feet as a punishment. A major study of New Kingdom violence catalogues repeated evidence for cutting off hands and other body parts together with impalement and other forms of execution. The Qur'an's description therefore fits known Egyptian practices from the period in which the Moses narrative is set.
+1. **West Semitic people really did live and serve in ancient Egypt:** the Qur'anic narratives of Joseph and Moses place a Semitic population from the Levant inside Egypt.
+    > Egyptian documents independently confirm this historical setting. The Brooklyn Papyrus 35.1446, from the late Middle Kingdom, records a large household containing dozens of servants identified as **Asiatics**, many bearing Northwest Semitic names. Archaeology at Avaris in the eastern Nile Delta has likewise revealed a major center with extensive Levantine connections and imports. The presence of West Semitic populations living and working within ancient Egypt is therefore directly documented by Egyptian evidence. ([archaeopress.com](https://www.archaeopress.com/Archaeopress/download/9781803278278?utm_source=chatgpt.com))
     {: .gloss }
 
-1. **Thamud was a real ancient Arabian people:** the Qur'an repeatedly refers to Thamud as an ancient people of Arabia who had disappeared long before its revelation.
-    > Modern study of ancient Near Eastern inscriptions has independently recovered the same people. The annals of the Assyrian king Sargon II, who ruled from 722–705 BCE, explicitly name **Thamud** among the distant Arabian tribes living in the desert. Centuries later, Greek and Roman-period sources also attest a people called the Thamudeni. The Qur'anic Thamud are therefore not an otherwise unattested legendary people: their name appears independently in records extending back more than thirteen centuries before the Qur'an.
+1. **Thamud was a real ancient Arabian people:** the Qur'an repeatedly refers to Thamud as an earlier Arabian people destroyed long before its own revelation.
+    > Thamud is independently recorded centuries before Islam. The eighth-century BCE annals of the Assyrian king Sargon II explicitly name **“the tribes of Thamud”** among distant Arabian peoples inhabiting the desert. The Qur'an therefore preserves the name of a genuine ancient Arabian people attested more than thirteen centuries before its revelation. ([cambridge.org](https://www.cambridge.org/core/books/preislamic-arabia/an-introduction-to-the-study-of-preislamic-arabia/1ECAF2010D2CA3D38EE1E281EF6ED009?utm_source=chatgpt.com))
     {: .gloss }
 
-1. **Pharaoh's claim to supreme lordship fits Egyptian divine kingship:** the Qur'an portrays Pharaoh declaring to his people:
-    > **“I am your lord, the most high.”** (79:24)
+1. **Madyan was a real ancient north-west Arabian people or place:** the Qur'an repeatedly treats Madyan as a specific community and region, including in the story of Moses (7:85; 9:70; 11:84; 20:40; 28:22–28).
+    > Modern epigraphy has now produced a direct ancient Arabian inscription containing the name **Madyan**. The Taymanitic inscription was discovered in north-western Saudi Arabia near Tayma and published by Christian Robin and Ali al-Ghabban as the first epigraphic mention of Madyan found in Arabia. Its archaic script belongs to the ancient north-west Arabian epigraphic world. ([persee.fr](https://www.persee.fr/doc/crai_0065-0536_2017_num_161_1_96407))
+    {: .gloss }
+
+1. **The People of the Ditch and the massacre at Najran:** Sūrat al-Burūj describes believers persecuted for their faith by people gathered around a fire-filled trench:
+    > **“Condemned are the makers of the ditch—the fire ˹pit˺, filled with fuel—when they sat around it, watching what they had ordered to be done to the believers. And they resented them only because they believed in God...”** (85:4–8)
     >
-    > This language fits the distinctive ideology of ancient Egyptian kingship. The Egyptian king stood at the summit of the religious and political order, was identified with the god Horus while living, and embodied a kingship understood as divine. Egyptological studies describe divine kingship as a foundational feature of Egyptian civilization extending back to its earliest periods. The Qur'an's portrayal of Pharaoh is therefore rooted in the actual religious conception of Egyptian monarchy rather than the ordinary language of a generic king.
+    > The strongest historical identification is the persecution of the Christians of Najran in southern Arabia in 523 CE. This event is independently documented not only in Christian literature but in contemporary South Arabian inscriptions. Inscriptions produced by officers of the Himyarite king Yusuf As'ar record his campaign against Najran, the burning of churches, the siege of the city, and large numbers killed or captured. Modern Qur'anic scholarship has identified the Najran martyrs as the most plausible historical referent of the passage. ([posenlibrary.com](https://www.posenlibrary.com/entry/inscriptions-himyarite-high-officials?utm_source=chatgpt.com))
+    {: .gloss }
+
+1. **The historical setting behind the People of the Elephant:** Sūrat al-Fīl refers to the destruction of the **“companions of the elephant”**, traditionally identified with an expedition of the South Arabian Christian ruler Abraha toward Mecca shortly before the Prophet's ﷺ birth.
+    > Abraha himself is no legendary figure. His own monumental inscriptions have been recovered, and inscriptions from 552 CE document his repeated military expeditions deep into central Arabia. One describes the campaign as his **fourth** expedition against tribes there. Modern epigraphy has therefore independently confirmed the existence of the ruler remembered in connection with Sūrat al-Fīl and his large-scale military campaigns northward from Yemen into central Arabia. ([persee.fr](https://www.persee.fr/doc/crai_0065-0536_2012_num_156_1_93448?pageId=T45_526&utm_source=chatgpt.com))
     {: .gloss }
 
 {% include yt-embed.html url="https://youtu.be/c2ovILc_sKY" title="The Qur'an and the Secrets of Egypt" %}
@@ -518,7 +590,10 @@ It gives strikingly accurate historical detail, some of which was confirmed only
     > Genealogical and biographical detail is often reduced while monotheism, judgment, repentance, prophetic perseverance, and moral accountability move to the foreground. This transformation also fits the repetition-with-variation described in the literary section above.
     {: .gloss }
 
-1. The Qur'an contains striking cross-Semitic linguistic correspondences, drawing on words and cognates connected with mainly Hebrew, but also Aramaic, Syriac, and Ethiopic. In a number of passages, these relationships create wordplay, allusion, and layers of meaning that become visible only when the related languages are examined together.
+1. The Qur'an contains striking cross-Semitic linguistic correspondences, drawing on words and cognates connected with mainly Hebrew, but also Aramaic, Syriac, Ethiopic, Persian and the ancient languages of Arabia. In a number of passages, these relationships create wordplay, allusion, historically appropriate vocabulary, and layers of meaning that become visible only when the related languages are examined together.
+    > The Sabaean *ʿarim* [dam] example above is especially striking: a rare word that appears only once in the Qur'an is found in the ancient language of the very civilization being described, where it denotes the Ma'rib Dam itself. ([knowledge.uchicago.edu](https://knowledge.uchicago.edu/record/1343/files/Dost_uchicago_0330D_13784.pdf?utm_source=chatgpt.com))
+    {: .gloss }
+
     {% include yt-embed.html url="https://youtu.be/wA4v8MrBHHc" title="The Hebrew word that PROVED that the Qur'an is from Allah" %}
 
     {% include yt-embed.html url="https://youtu.be/OED98p4bpx0" title="ONE WORD Proving the Quran is Allah's Words | Arabic101" %}
