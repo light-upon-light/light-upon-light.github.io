@@ -126,6 +126,7 @@ The Qur'an's literary miracle extends far beyond beauty of expression. Its inimi
     {% include yt-embed.html url="https://youtu.be/DdWFSP-5vwM" title="Linguistic Miracles - Ibraheem's Dua" %}
 
     {% include yt-embed.html url="https://youtu.be/2iiGZlyDOXk" title="Quran's Miracle You'll Hear for the First Time! - This Will Change the Way You See the Quran" %}
+
     > [The Inimitable Qur'an - paper](https://yaqeeninstitute.org/read/paper/the-inimitable-quran-the-revelation-to-prophet-muhammad)
 
     {% include yt-embed.html url="https://youtu.be/wA4v8MrBHHc" title="The Hebrew word that PROVED that the Qur'an is from Allah" %}
