@@ -136,7 +136,7 @@ The Qur'an's literary miracle extends far beyond beauty of expression. Its inimi
 
     </details>
 
-1. Prophet Muhammad ﷺ was not known before revelation as a poet, writer, or literary figure. He had produced no poetry, books, or other literary works and had no known training or apprenticeship in composition. Yet when revelation began, he immediately began reciting the Qur'an publicly—a work that would be recognized as the summit of Arabic eloquence by followers and opponents alike.
+1. Prophet Muhammad ﷺ was not known before revelation as a poet, writer, or literary figure. He had produced no poetry, books, or other literary works and had no known training or apprenticeship in composition. Yet when revelation began, he began reciting the Qur'an publicly—a work that would be recognized as the summit of Arabic eloquence by followers and opponents alike.
    > Al-Walīd ibn al-Mughīrah, a leading opponent of the Prophet ﷺ and a man highly regarded for his knowledge of Arabic poetry, reportedly said after hearing the Qur'an: **“By God, the speech which he utters is sweet and graceful ... it has the upper hand and nothing has the upper hand over it.”** He nevertheless refused to accept the Prophet's message and later called the Qur'an magic.
    {: .gloss }
    >
@@ -924,7 +924,7 @@ The Qur'an contains bold predictions made in circumstances where their fulfillme
     > Later centuries have produced several religious movements, but none rests on a similar combination of claims and evidence: including a miracle that rivals the Qur'an and the unmatched character and teachings of Prophet Muhammad ﷺ; nor has any later prophetic claimant achieved a comparable reach, historical effect, or transformative influence.
     {: .gloss }
 
-1. It foretells the future spread of the message while its followers were still a persecuted minority in a single city in the desert of Arabia.
+1. It foretells the future spread of the message while its followers were still in a single city in the desert of Arabia fighting against their persecution.
     > "He is the One Who has sent His Messenger with ˹right˺ guidance and the religion of truth, making it prevail over all others. And sufficient is Allah as a Witness." (**Sūrat al-Fatḥ 48:28**), Dr. Mustafa Khattab, *The Clear Quran*
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿هُوَ ٱلَّذِىٓ أَرْسَلَ رَسُولَهُۥ بِٱلْهُدَىٰ وَدِينِ ٱلْحَقِّ لِيُظْهِرَهُۥ عَلَى ٱلدِّينِ كُلِّهِۦ ۚ وَكَفَىٰ بِٱللَّهِ شَهِيدًا ۝٢٨﴾ <span class="ayah-ref">سُورَةُ الفَتۡحِ</span></div>
