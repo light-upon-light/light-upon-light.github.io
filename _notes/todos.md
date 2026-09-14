@@ -2,8 +2,10 @@
 
 general:
 
-- space between yt embed and text above (e.g. second literary miracle point) is too small
-- also when moving to section 2 literary miracle, you can see some of the quote above by default, which looks off (on the phone)
+- reorder points within each section so that they're more coherent and better flow
+- review the details sections bec rn it looks a bit weird
+- fix quran quotations in natural world section
+- fix spacing between points and the quotations below them. keep a consistent standard (probably putting a space is better for readability)
 
 ---
 
