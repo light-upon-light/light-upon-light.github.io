@@ -482,14 +482,26 @@ Some of its historical details are especially striking because the civilizations
     > The word *ʿarim* [dam] occurs only once in the entire Qur'an. Modern decipherment of Sabaic inscriptions produced a remarkable match: the Ma'rib Dam itself is called *ʿrmn* [the dam], and in one inscription *ʿrm Mrb* [the Dam of Ma'rib]. Abraha's great inscription concerning repairs to the dam likewise uses the same word. The Qur'an therefore uses local ancient South Arabian vocabulary precisely in its account of ancient Saba. ([knowledge.uchicago.edu](https://knowledge.uchicago.edu/record/1343/files/Dost_uchicago_0330D_13784.pdf?utm_source=chatgpt.com))
     {: .gloss }
 
-1. **Saba's two gardens and the Ma'rib irrigation system:** the Qur'an describes Saba as possessing **“two gardens, one to the right and one to the left”** (34:15).
-    > Archaeology has revealed the enormous irrigation system centered on the Great Dam of Ma'rib. UNESCO describes it as creating the largest ancient man-made oasis in Arabia, with canals irrigating a vast cultivated territory extending on both sides of Ma'rib. What now appears as a barren landscape was once an extraordinary agricultural zone divided by the valley and supplied from the dam—exactly the kind of landscape described by the Qur'an. ([whc.unesco.org](https://whc.unesco.org/en/list/1700))
+1. **Fired brick in Pharaoh's Egypt:** when Pharaoh orders the construction of a high tower, the Qur'an gives the unusually specific instruction:
+    > **“O Haman! Bake clay into bricks for me, then build me a high tower...”** (28:38)
+    >
+    > Mud brick was overwhelmingly dominant in ancient Egypt, making the explicit reference to firing the clay noteworthy. Flinders Petrie's excavations at Nebesheh uncovered **red baked bricks in Ramesside tombs of the Nineteenth Dynasty**. Petrie stressed the importance of the discovery because fired brick had previously been thought to belong only to much later Egypt. Archaeology therefore confirms the presence of precisely this technology in Ramesside Egypt. ([digi.ub.uni-heidelberg.de](https://digi.ub.uni-heidelberg.de/diglit/petrie1888bd2/0084?utm_source=chatgpt.com))
     {: .gloss }
 
-1. **The “flood of the dam” that destroyed Saba's prosperity:** the next verse says that the people turned away, so God sent upon them **“the flood of the dam”** and their rich gardens were replaced by inferior vegetation (34:16).
-    > The Great Dam of Ma'rib was the foundation of the region's agricultural prosperity and required repeated repairs after major breaches. Surviving inscriptions document these repairs, including an enormous restoration undertaken by Abraha in the sixth century CE. Its eventual failure brought the ancient irrigation system and the prosperity it supported to an end. The Qur'an accurately connects Saba's flourishing gardens, its great dam, a destructive flood, and the loss of its agricultural prosperity. ([whc.unesco.org](https://whc.unesco.org/en/list/1700))
+1. **Pharaoh's body is singled out for preservation:** after describing Pharaoh drowning while pursuing the Israelites, the Qur'an says:
+    > **“Today We will preserve your body so you may become a sign for those after you.”** (10:92)
+    >
+    > Ancient Egypt was exceptional for deliberately preserving the bodies of its rulers. The mummies of numerous New Kingdom kings survive to the present day: Egypt's National Museum of Egyptian Civilization alone displays twenty royal mummies from the Seventeenth through Twentieth Dynasties. The Qur'an's emphasis specifically on the preservation of Pharaoh's body fits one of the most distinctive practices of Egyptian kingship. ([nmec.gov.eg](https://nmec.gov.eg/mummies-hall/))
     {: .gloss }
 
+1. **The Israelites are described as a small group at the Exodus:** when Pharaoh mobilizes his forces against Moses and the Israelites, the Qur'an has him say:
+    > **“These are only a small band.”** (26:54)
+    >
+    > The Biblical text instead gives roughly **600,000 adult Israelite males** at the Exodus (Exodus 12:37; Numbers 1:46), which would imply a total population of roughly two to three million people. Modern historical and archaeological scholarship widely recognizes that a migration of that scale cannot be reconciled with the population and carrying capacity of the region, and scholars who accept a historical core to the Exodus generally place the group at a dramatically smaller size. The Qur'an does not repeat the enormous Biblical figure; it describes the escaping Israelites as a small group. ([mdpi.com](https://www.mdpi.com/2077-1444/17/6/737))
+    {: .gloss }
+
+<details class="quran-more" markdown="1">
+<summary>Show more historical details</summary>
 1. **Sun worship in Saba:** in the account of Solomon and the Queen of Saba, the Qur'an reports:
     > **“I found her and her people prostrating to the sun instead of God.”** (27:24)
     >
@@ -506,28 +518,22 @@ Some of its historical details are especially striking because the civilizations
     > The recovery of ancient South Arabian writing has revealed a remarkably developed documentary culture. Hundreds of wooden documents have now been deciphered, including private and official correspondence, legal documents, contracts, writing exercises, and other everyday records. Almost 900 such Sabaic and Minaic texts have been published. An entire form of South Arabian writing used for this everyday correspondence was unknown to modern scholars until its discovery in the 1970s. ([archaeopresspublishing.com](https://www.archaeopresspublishing.com/ojs/index.php/PSAS/article/view/1258?articlesBySimilarityPage=21))
     {: .gloss }
 
-1. **Saba was wealthy, monumental, and centrally organized:** the Qur'an portrays the Queen of Saba as ruling a prosperous kingdom and possessing **“a magnificent throne”** (27:23), while chapter 34 portrays Saba as extraordinarily fertile and prosperous.
-    > Archaeology has confirmed that Saba was one of ancient Arabia's great powers. UNESCO describes an affluent kingdom with a strong centralized administration, monumental walled cities and temples, extensive irrigation works, and wealth derived partly from control of the incense trade. Ma'rib itself was its administrative, cultural, and economic capital. ([whc.unesco.org](https://whc.unesco.org/en/list/1700))
+1. **Saba's two gardens and the Ma'rib irrigation system:** the Qur'an describes Saba as possessing **“two gardens, one to the right and one to the left”** (34:15).
+    > Archaeology has revealed the enormous irrigation system centered on the Great Dam of Ma'rib. UNESCO describes it as creating the largest ancient man-made oasis in Arabia, with canals irrigating a vast cultivated territory extending on both sides of Ma'rib. What now appears as a barren landscape was once an extraordinary agricultural zone divided by the valley and supplied from the dam—exactly the kind of landscape described by the Qur'an. ([whc.unesco.org](https://whc.unesco.org/en/list/1700))
     {: .gloss }
 
-1. **Fired brick in Pharaoh's Egypt:** when Pharaoh orders the construction of a high tower, the Qur'an gives the unusually specific instruction:
-    > **“O Haman! Bake clay into bricks for me, then build me a high tower...”** (28:38)
-    >
-    > Mud brick was overwhelmingly dominant in ancient Egypt, making the explicit reference to firing the clay noteworthy. Flinders Petrie's excavations at Nebesheh uncovered **red baked bricks in Ramesside tombs of the Nineteenth Dynasty**. Petrie stressed the importance of the discovery because fired brick had previously been thought to belong only to much later Egypt. Archaeology therefore confirms the presence of precisely this technology in Ramesside Egypt. ([digi.ub.uni-heidelberg.de](https://digi.ub.uni-heidelberg.de/diglit/petrie1888bd2/0084?utm_source=chatgpt.com))
-    {: .gloss }
-
-1. **Egypt's professional magicians:** the Qur'an describes Pharaoh summoning skilled magicians from across Egypt to confront Moses (7:109–113; 20:57–66; 26:34–38).
-    > Egyptian sources independently reveal a recognized class of ritual specialists closely associated with what modern scholars call magic. The Egyptian lector was a learned ritual practitioner who recited spells, performed magical rites, served in temples, and could also hold positions connected with the royal palace. Evidence for this office extends through thousands of years of Egyptian history. The Qur'an's portrayal of Pharaoh assembling professional magical specialists therefore fits an established institution of Egyptian society. ([jstor.org](https://www.jstor.org/stable/j.ctvqc6jxb))
-    {: .gloss }
-
-1. **Staffs, serpents, and Egyptian magic:** the confrontation centers specifically on staffs and ropes that appear to move like serpents, followed by Moses' staff becoming a real serpent and swallowing them (7:116–117; 20:66–69; 26:44–45).
-    > The serpent-staff was itself deeply rooted in indigenous Egyptian ritual culture. Egyptologist Robert Ritner catalogued surviving **wooden and bronze serpent-shaped wands** from ancient Egypt and Egyptian magical texts concerning them. Egyptian literature also portrays ritual specialists transforming artificial objects into living animals. The imagery at the center of the Qur'anic confrontation is therefore strikingly at home in ancient Egyptian magical culture. ([jstor.org](https://www.jstor.org/stable/j.ctvvnbf1))
+1. **The “flood of the dam” that destroyed Saba's prosperity:** the next verse says that the people turned away, so God sent upon them **“the flood of the dam”** and their rich gardens were replaced by inferior vegetation (34:16).
+    > The Great Dam of Ma'rib was the foundation of the region's agricultural prosperity and required repeated repairs after major breaches. Surviving inscriptions document these repairs, including an enormous restoration undertaken by Abraha in the sixth century CE. Its eventual failure brought the ancient irrigation system and the prosperity it supported to an end. The Qur'an accurately connects Saba's flourishing gardens, its great dam, a destructive flood, and the loss of its agricultural prosperity. ([whc.unesco.org](https://whc.unesco.org/en/list/1700))
     {: .gloss }
 
 1. **Pharaoh's reference to gold bracelets as a mark of status:** Pharaoh mocks Moses by asking:
     > **“Why have no bracelets of gold been given to him?”** (43:53)
     >
     > Gold jewelry was a visible marker of royal favor and high status in New Kingdom Egypt. The Egyptian **“Gold of Honor”** was bestowed by the king upon distinguished officials, and surviving evidence shows that its sets could include gold collars, armlets, and bracelets. Egyptian art preserves officials and royal figures visibly wearing these awards. Pharaoh's challenge—that a true person of authority should display gold bracelets—fits the symbolic language of status at the Egyptian court. ([scholar.lib.vt.edu](https://scholar.lib.vt.edu/ejournals/ElAnt/V5N3/haeckl.html))
+    {: .gloss }
+
+1. **Staffs, serpents, and Egyptian magic:** the confrontation centers specifically on staffs and ropes that appear to move like serpents, followed by Moses' staff becoming a real serpent and swallowing them (7:116–117; 20:66–69; 26:44–45).
+    > The serpent-staff was itself deeply rooted in indigenous Egyptian ritual culture. Egyptologist Robert Ritner catalogued surviving **wooden and bronze serpent-shaped wands** from ancient Egypt and Egyptian magical texts concerning them. Egyptian literature also portrays ritual specialists transforming artificial objects into living animals. The imagery at the center of the Qur'anic confrontation is therefore strikingly at home in ancient Egyptian magical culture. ([jstor.org](https://www.jstor.org/stable/j.ctvvnbf1))
     {: .gloss }
 
 1. **Pharaoh's threatened punishments fit New Kingdom Egyptian practice:** after the magicians accept Moses' message, Pharaoh threatens to cut off their hands and feet on opposite sides and then execute them on stakes or crosses (7:124; 20:71; 26:49).
@@ -540,22 +546,18 @@ Some of its historical details are especially striking because the civilizations
     > This is not the language of an ordinary Near Eastern king. Egyptian kingship had a distinctively sacred character: the Pharaoh stood at the summit of Egypt's religious and political order and was responsible for maintaining the divinely established order of the cosmos. Egyptian royal ideology closely associated the king with the gods, giving the Qur'anic Pharaoh's extraordinary claim a specifically Egyptian setting. ([pbs.org](https://www.pbs.org/empires/egypt/newkingdom/pharaohs.html?utm_source=chatgpt.com))
     {: .gloss }
 
+1. **Egypt's professional magicians:** the Qur'an describes Pharaoh summoning skilled magicians from across Egypt to confront Moses (7:109–113; 20:57–66; 26:34–38).
+    > Egyptian sources independently reveal a recognized class of ritual specialists closely associated with what modern scholars call magic. The Egyptian lector was a learned ritual practitioner who recited spells, performed magical rites, served in temples, and could also hold positions connected with the royal palace. Evidence for this office extends through thousands of years of Egyptian history. The Qur'an's portrayal of Pharaoh assembling professional magical specialists therefore fits an established institution of Egyptian society. ([jstor.org](https://www.jstor.org/stable/j.ctvqc6jxb))
+    {: .gloss }
+
 1. **Pharaoh boasts of Egypt's rivers flowing beneath him:** the Qur'an has Pharaoh proclaim:
     > **“O my people! Does the kingdom of Egypt not belong to me, as well as these rivers flowing at my feet?”** (43:51)
     >
     > The royal centers of the Nile Delta were literally structured around branches of the Nile, canals, harbors, basins, and artificial waterways. Archaeological reconstruction of Pi-Ramesse, the great Ramesside royal residence, shows that watercourses both divided and connected the city; its royal and monumental landscape included canals and harbor facilities. Pharaoh's boast naturally reflects the physical geography and royal landscape of ancient Egypt. ([rmo.nl](https://www.rmo.nl/wp-content/uploads/2025/10/PALMA-27_9789464261196.pdf?utm_source=chatgpt.com))
     {: .gloss }
 
-1. **Pharaoh's body is singled out for preservation:** after describing Pharaoh drowning while pursuing the Israelites, the Qur'an says:
-    > **“Today We will preserve your body so you may become a sign for those after you.”** (10:92)
-    >
-    > Ancient Egypt was exceptional for deliberately preserving the bodies of its rulers. The mummies of numerous New Kingdom kings survive to the present day: Egypt's National Museum of Egyptian Civilization alone displays twenty royal mummies from the Seventeenth through Twentieth Dynasties. The Qur'an's emphasis specifically on the preservation of Pharaoh's body fits one of the most distinctive practices of Egyptian kingship. ([nmec.gov.eg](https://nmec.gov.eg/mummies-hall/))
-    {: .gloss }
-
-1. **The Israelites are described as a small group at the Exodus:** when Pharaoh mobilizes his forces against Moses and the Israelites, the Qur'an has him say:
-    > **“These are only a small band.”** (26:54)
-    >
-    > The Biblical text instead gives roughly **600,000 adult Israelite males** at the Exodus (Exodus 12:37; Numbers 1:46), which would imply a total population of roughly two to three million people. Modern historical and archaeological scholarship widely recognizes that a migration of that scale cannot be reconciled with the population and carrying capacity of the region, and scholars who accept a historical core to the Exodus generally place the group at a dramatically smaller size. The Qur'an does not repeat the enormous Biblical figure; it describes the escaping Israelites as a small group. ([mdpi.com](https://www.mdpi.com/2077-1444/17/6/737))
+1. **Saba was wealthy, monumental, and centrally organized:** the Qur'an portrays the Queen of Saba as ruling a prosperous kingdom and possessing **“a magnificent throne”** (27:23), while chapter 34 portrays Saba as extraordinarily fertile and prosperous.
+    > Archaeology has confirmed that Saba was one of ancient Arabia's great powers. UNESCO describes an affluent kingdom with a strong centralized administration, monumental walled cities and temples, extensive irrigation works, and wealth derived partly from control of the incense trade. Ma'rib itself was its administrative, cultural, and economic capital. ([whc.unesco.org](https://whc.unesco.org/en/list/1700))
     {: .gloss }
 
 1. **West Semitic people really did live and serve in ancient Egypt:** the Qur'anic narratives of Joseph and Moses place a Semitic population from the Levant inside Egypt.
@@ -579,6 +581,9 @@ Some of its historical details are especially striking because the civilizations
 1. **The historical setting behind the People of the Elephant:** Sūrat al-Fīl refers to the destruction of the **“companions of the elephant”**, traditionally identified with an expedition of the South Arabian Christian ruler Abraha toward Mecca shortly before the Prophet's ﷺ birth.
     > Abraha himself is no legendary figure. His own monumental inscriptions have been recovered, and inscriptions from 552 CE document his repeated military expeditions deep into central Arabia. One describes the campaign as his **fourth** expedition against tribes there. Modern epigraphy has therefore independently confirmed the existence of the ruler remembered in connection with Sūrat al-Fīl and his large-scale military campaigns northward from Yemen into central Arabia. ([persee.fr](https://www.persee.fr/doc/crai_0065-0536_2012_num_156_1_93448?pageId=T45_526&utm_source=chatgpt.com))
     {: .gloss }
+{: start="6"}
+
+</details>
 
 {% include yt-embed.html url="https://youtu.be/c2ovILc_sKY" title="The Qur'an and the Secrets of Egypt" %}
 
