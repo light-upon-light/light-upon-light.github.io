@@ -251,6 +251,11 @@ The Qur'an's literary miracle extends far beyond beauty of expression. Its inimi
 
     {% include yt-embed.html url="https://youtube.com/shorts/4pf9Cu5cwhs" title="Qur'an Recitation of Al-Talaq (Youtube Short)" %}
 
+    > "˹It is˺ Allah ˹Who˺ has sent down the best message—a Book of perfect consistency and repeated lessons—which causes the skin ˹and hearts˺ of those who fear their Lord to tremble, then their skin and hearts soften at the mention of ˹the mercy of˺ Allah. That is the guidance of Allah, through which He guides whoever He wills. But whoever Allah leaves to stray will be left with no guide." (**Sūrat az-Zumar 39:23**), Dr. Mustafa Khattab, *The Clear Quran*
+    >
+    > <div dir="rtl" lang="ar" class="quran-arabic">﴿ٱللَّهُ نَزَّلَ أَحْسَنَ ٱلْحَدِيثِ كِتَـٰبًا مُّتَشَـٰبِهًا مَّثَانِىَ تَقْشَعِرُّ مِنْهُ جُلُودُ ٱلَّذِينَ يَخْشَوْنَ رَبَّهُمْ ثُمَّ تَلِينُ جُلُودُهُمْ وَقُلُوبُهُمْ إِلَىٰ ذِكْرِ ٱللَّهِ ۚ ذَٰلِكَ هُدَى ٱللَّهِ يَهْدِى بِهِۦ مَن يَشَآءُ ۚ وَمَن يُضْلِلِ ٱللَّهُ فَمَا لَهُۥ مِنْ هَادٍ ۝٢٣﴾ <span class="ayah-ref">سُورَةُ الزُّمَرِ</span></div>
+    {: .quote }
+
 1. The literary dimension of the Qur'an is a field of study large enough to stand on its own. The points above are only a brief introduction. Qur'anic syntax, word order, omission, rhetorical shifts, sound, cadence, narrative technique, repetition, imagery, chapter structure, semantic density, and large-scale composition have each generated substantial bodies of scholarship, while the classical literature on Qur'anic inimitability and Arabic rhetoric spans centuries. Below are some further readings on the topic
     <details class="quran-more" markdown="1">
     <summary>Show further reading:</summary>
@@ -362,6 +367,11 @@ The Qur'an repeatedly explains its own source, purpose, delivery, interpretation
 | **How to approach it** | Recite carefully (73:4), listen attentively (7:204), and reflect (47:24). Recognize the distinction between foundational passages and those whose meaning is less immediately clear (3:7). |
 | **Objections** | It records accusations of human assistance and ancient tales (25:4–5), poetry, and confused dreams (21:5). |
 | **Response and preservation** | It describes awe and softened hearts (39:23), calls for conduct guided by its teaching, and promises divine protection of the message (15:9). |
+
+> "˹It is˺ Allah ˹Who˺ has sent down the best message—a Book of perfect consistency and repeated lessons—which causes the skin ˹and hearts˺ of those who fear their Lord to tremble, then their skin and hearts soften at the mention of ˹the mercy of˺ Allah. That is the guidance of Allah, through which He guides whoever He wills. But whoever Allah leaves to stray will be left with no guide." (**Sūrat az-Zumar 39:23**), Dr. Mustafa Khattab, *The Clear Quran*
+>
+> <div dir="rtl" lang="ar" class="quran-arabic">﴿ٱللَّهُ نَزَّلَ أَحْسَنَ ٱلْحَدِيثِ كِتَـٰبًا مُّتَشَـٰبِهًا مَّثَانِىَ تَقْشَعِرُّ مِنْهُ جُلُودُ ٱلَّذِينَ يَخْشَوْنَ رَبَّهُمْ ثُمَّ تَلِينُ جُلُودُهُمْ وَقُلُوبُهُمْ إِلَىٰ ذِكْرِ ٱللَّهِ ۚ ذَٰلِكَ هُدَى ٱللَّهِ يَهْدِى بِهِۦ مَن يَشَآءُ ۚ وَمَن يُضْلِلِ ٱللَّهُ فَمَا لَهُۥ مِنْ هَادٍ ۝٢٣﴾ <span class="ayah-ref">سُورَةُ الزُّمَرِ</span></div>
+{: .quote }
 
 The repeated command *qul* [say] makes the relationship between source and messenger explicit: the Prophet ﷺ recites the instruction directing him to speak. Its self-description also gives readers a clear claim to assess against the text and its history. [Qur'an 26:192–195](https://quran.com/26:192-195), [25:32–33](https://quran.com/25:32-33), [3:7](https://quran.com/3:7), and [39:23](https://quran.com/39:23).
 
