@@ -2,10 +2,6 @@
 
 general:
 
-- review the details sections bec rn it looks a bit weird
-- make 19 numerical pattern stronger from linked video and link the video again under that point
-- Add striking and extremely accurate historical details examples
-
 ---
 
 aisha:
@@ -30,7 +26,9 @@ women:
 
 quran:
 
+- make 19 numerical pattern stronger from linked video and link the video again under that point
 - add sources and further readings under each point, within a details block
+- review the details sections bec rn it looks a bit weird
 
 - miconceptions to add: inheritance
 
