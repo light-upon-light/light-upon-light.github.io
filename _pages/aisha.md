@@ -65,10 +65,10 @@ Nothing in this article argues that people today should marry nine-year-olds. Mo
 The strongest form of the objection can be stated as follows:
 
 1. The age reports are reliable. They come from Bukhari and Muslim, the sources Muslims themselves treat as strongest, so a Muslim cannot simply dismiss them without consequences for the wider tradition.
-2. A nine-year-old cannot give meaningful consent to marriage because she lacks the understanding that consent requires.
-3. That incapacity is inherent in the child, so local custom cannot make the act harmless.
-4. The Qur’an presents Prophet Muhammad ﷺ as a moral example for all times and places.[2](#ref-2){: .footnote}
-5. Therefore either his example is morally defective, or the standard Muslims claim for it is.
+1. A nine-year-old cannot give meaningful consent to marriage because she lacks the understanding that consent requires.
+1. That incapacity is inherent in the child, so local custom cannot make the act harmless.
+1. The Qur’an presents Prophet Muhammad ﷺ as a moral example for all times and places.[2](#ref-2){: .footnote}
+1. Therefore either his example is morally defective, or the standard Muslims claim for it is.
 
 This objection does not require hostility toward Islam, nor does it require the broader allegation that the Prophet was generally attracted to children. If premise 2 is established, one such marriage would be enough for the objection.
 
