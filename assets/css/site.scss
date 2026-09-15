@@ -1067,10 +1067,7 @@
   .page__content h4,
   .page__content h5,
   .page__content h6 {
-    /* Must stay comfortably above html's 20px scroll-padding-top: at 1.3em
-       (23.4px on an 18px h3) a TOC/prev-next jump left only ~3px between
-       the viewport top and the content above, so its tail peeked in. */
-    margin-top: 2em !important;
+    margin-top: 1.3em !important;
   }
 
   /* Section numbering (quran.md, messenger.md): the roman numeral / letter
