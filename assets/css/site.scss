@@ -1380,10 +1380,12 @@
     margin-inline: auto;
     padding: 0.5em 1.05em;
     border-radius: 999px;
-    /* same gold inset as the open card, pulled in to 3px so it clears the
-       label on a pill this short; the label dash stays off (rule below) */
-    box-shadow: inset 0 0 0 3px var(--site-tldr-fill),
-                inset 0 0 0 4px var(--site-tldr-inset);
+    /* The card's gold, moved to the outside: the pill's border is the gold
+       of the label dash, with no inset line. The card's inset-inside-a-
+       lapis-border read as too busy on a pill this short, worst in dark.
+       The label dash stays off (rule below). */
+    border-color: var(--site-tldr-dash);
+    box-shadow: none;
   }
 
   .page__content details.tldr:not([open]) > summary .tldr__label::before {
