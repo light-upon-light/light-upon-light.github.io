@@ -1380,12 +1380,13 @@
     margin-inline: auto;
     padding: 0.5em 1.05em;
     border-radius: 999px;
-    /* The card's gold, moved to the outside: the pill's border is the gold
-       of the label dash, with no inset line. The card's inset-inside-a-
-       lapis-border read as too busy on a pill this short, worst in dark.
-       The label dash stays off (rule below). */
+    /* The card's double border with the colours swapped: gold (the label
+       dash's) outside, a lapis hairline 3px inside. Gold-inside-lapis read
+       as muddy on a pill this short, worst in dark. The label dash stays
+       off (rule below). */
     border-color: var(--site-tldr-dash);
-    box-shadow: none;
+    box-shadow: inset 0 0 0 3px var(--site-tldr-fill),
+                inset 0 0 0 4px var(--site-tldr-line);
   }
 
   .page__content details.tldr:not([open]) > summary .tldr__label::before {
