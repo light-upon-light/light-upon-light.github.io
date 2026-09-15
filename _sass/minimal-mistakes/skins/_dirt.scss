@@ -150,17 +150,20 @@ $base0f: #b49368 !default;
   --site-src-border: #a1937c; // blockquote.src / .yt-embed / .quran-return border
   --site-gloss-border: #2e6b63; // blockquote.gloss border
   --site-gloss-bg: rgba(46, 107, 99, 0.05); // blockquote.gloss background wash
-  /* TL;DR card (.tldr) -- slate ink (#44505c), built the way .gloss is: one
-     hue at three strengths -- full for the label, 55% for the border, a 10%
-     wash for the fill -- each flattened over the page ground to an opaque
-     hex. Cool slate so it reads as the page's chrome, clear of every warm
-     accent and of .gloss's teal; the full border (no left rule, no indent)
-     is what keeps it from reading as a fourth evidence type. Contrast on
-     --site-tldr-fill: label 6.4:1, body text 9.7:1, links 4.9:1 (WCAG AA
-     for small text is 4.5:1). */
-  --site-tldr-fill: #e2e3e4;
-  --site-tldr-line: #9399a0;
-  --site-tldr-label: #44505c;
+  --site-glosskey-bg: #ebe3d1; // .glossary-key parchment fill -- no rule, so it can't be mistaken for a .gloss panel; label is --site-src-text (4.7:1), body text 9.8:1
+  --site-toctitle-bg: #ddd3c1; // .toc .nav__title / .toc-disclosure summary fill -- a soft umber bar, not a solid ink block
+  --site-toctitle-text: #4a3f33; // 6.9:1 on --site-toctitle-bg
+  /* TL;DR card (.tldr) -- lapis and gold, the two prestige pigments of
+     Qur'an illumination: a near-white card, a lapis border and label, a gold
+     hairline inset 4px inside the border, and a gold dash before the label
+     (open card only). The full border (no left rule, no indent) is what
+     keeps it from reading as a fourth evidence type. Contrast on
+     --site-tldr-fill: label 8.5:1, body text 12.1:1, links 6.1:1. */
+  --site-tldr-fill: #fcfcfd;
+  --site-tldr-line: #2d4b7a;
+  --site-tldr-label: #2d4b7a;
+  --site-tldr-inset: #c9a45a;
+  --site-tldr-dash: #a8792a;
   --site-breadcrumb-sep: #c3b4a0; // quran-breadcrumb "›" separator
   --site-return-hover-bg: rgba(161, 147, 124, 0.14); // quran-return hover background
   --site-floatnav-icon: #f3f3f3; // #floating-nav button icon color
@@ -260,13 +263,17 @@ $base0f: #b49368 !default;
   --site-src-border: #8a7d68;
   --site-gloss-border: #4fa89c;
   --site-gloss-bg: rgba(79, 168, 156, 0.08);
-  /* .tldr card, dark: the same slate recipe with a lifted hue (#a9b3bd) --
-     a 14% wash and a 60% border over the page ground, so the card is raised
-     off it rather than a light panel. Contrast on --site-tldr-fill: label
-     6.3:1, body text 8.3:1, links 6.9:1. */
-  --site-tldr-fill: #302f2e;
-  --site-tldr-line: #71767b;
-  --site-tldr-label: #a9b3bd;
+  --site-glosskey-bg: #27231e; // label --site-src-text 6.9:1, body text 9.7:1
+  --site-toctitle-bg: #2e2923; // a sand-toned bar a step above the ground
+  --site-toctitle-text: #d3cbba; // 8.9:1
+  /* .tldr card, dark: lapis lifted for the dark ground, gold inset dimmed so
+     it doesn't glare. Contrast on --site-tldr-fill: label 7.7:1, body text
+     9.8:1, links 8.1:1. */
+  --site-tldr-fill: #1f232b;
+  --site-tldr-line: #3b465a;
+  --site-tldr-label: #9fb6dc;
+  --site-tldr-inset: #8f7340;
+  --site-tldr-dash: #d4a04a;
   --site-breadcrumb-sep: #6b6152;
   --site-return-hover-bg: rgba(138, 125, 104, 0.18);
   --site-floatnav-icon: #e6ded2;

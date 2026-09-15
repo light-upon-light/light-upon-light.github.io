@@ -1,0 +1,71 @@
+<title>Colour options</title>
+<link href="https://fonts.googleapis.com/css2?family=Karla:wght@400;700&display=swap" rel="stylesheet">
+<style>
+  body{margin:0;font-family:Karla,system-ui,sans-serif;background:#ccc}
+  h1{margin:0;padding:16px 20px;font-size:18px;background:#222;color:#eee}
+  h2{margin:0;padding:12px 20px 6px;font-size:15px;background:#222;color:#d4a04a;letter-spacing:.05em;text-transform:uppercase}
+  .row{display:grid;grid-template-columns:180px 1fr 1fr;border-bottom:1px solid #999}
+  .tag{padding:14px;font-weight:700;font-size:14px;background:#eee;color:#222}
+  .tag small{display:block;font-weight:400;color:#666;margin-top:4px}
+  .pane{padding:18px 22px;font-family:Georgia,serif;font-size:15px;line-height:1.5}
+  .L{--bg:#f3f3f3;--tx:#343434;--mut:#8e8b82;--bd:#e9dcbe;--gold:#a8792a;--link:#8a5320;--gb:#2e6b63;--gw:rgba(46,107,99,.05);background:var(--bg);color:var(--tx)}
+  .D{--bg:#1c1a17;--tx:#d3cbba;--mut:#a2988a;--bd:#4a4238;--gold:#d4a04a;--link:#d9b483;--gb:#4fa89c;--gw:rgba(79,168,156,.08);background:var(--bg);color:var(--tx)}
+  .ui{font-family:Karla,system-ui,sans-serif}
+  .gloss{margin:0 0 12px;padding:.6em 1em;border-left:.375em solid var(--gb);background:var(--gw)}
+  /* key terms */
+  .kt{margin:0;padding:.6em .9em;font-size:.92em}
+  .kt .lab{font-family:Karla,sans-serif;font-size:.72em;font-weight:700;letter-spacing:.07em;text-transform:uppercase;margin-bottom:.4em}
+  .kt dt{font-weight:700}.kt dd{margin:0 0 .2em .9em}
+  /* summary */
+  .sm{padding:1.2em 1.4em;border-radius:4px}
+  .sm .lab{font-family:Karla,sans-serif;font-weight:700;letter-spacing:.12em;text-transform:uppercase;margin-bottom:.4em}
+  .sm p{margin:0}.sm a{color:var(--link)}
+  /* toc */
+  .toc{width:230px;border:1px solid var(--bd);border-radius:4px;font-family:Karla,sans-serif;font-size:13px;overflow:hidden;box-shadow:0 0 0 1px rgba(0,0,0,.04),0 1px 3px rgba(0,0,0,.12)}
+  .toc .t{padding:.5rem .75rem;font-weight:700;font-size:.9em}
+  .toc ul{list-style:none;margin:0;padding:0}.toc li{padding:.35rem .75rem;border-bottom:1px solid var(--bd);color:var(--mut)}
+  .toc li.on{color:var(--tx);font-weight:700}
+</style>
+
+<h1>Pick one per section — left: light, right: dark</h1>
+
+<h2>1 · Key terms block (shown under a gloss quote for comparison)</h2>
+<div id="kt"></div>
+
+<h2>2 · Summary card</h2>
+<div id="sm"></div>
+
+<h2>3 · TOC title bar</h2>
+<div id="toc"></div>
+
+<script>
+const KT = [
+ ["A · Current","verdigris, same as gloss",{L:"border-left:.375em solid #2e6b63;background:rgba(46,107,99,.05)",D:"border-left:.375em solid #4fa89c;background:rgba(79,168,156,.08)"},{L:"#8e8b82",D:"#a2988a"}],
+ ["B · Parchment","warm fill, no rule",{L:"background:#ebe3d1;border-radius:4px",D:"background:#27231e;border-radius:4px"},{L:"#6f6152",D:"#b8ab97"}],
+ ["C · Gold hairline","top+bottom rule, no fill",{L:"border-top:2px solid #a8792a;border-bottom:1px solid #e9dcbe",D:"border-top:2px solid #d4a04a;border-bottom:1px solid #4a4238"},{L:"#a8792a",D:"#d4a04a"}],
+ ["D · Dashed outline","umber dashed box",{L:"border:1px dashed #a1937c;border-radius:4px",D:"border:1px dashed #8a7d68;border-radius:4px"},{L:"#6f6152",D:"#b8ab97"}],
+];
+const SM = [
+ ["A · Current","slate card",{L:"background:#e2e3e4;border:1px solid #9399a0",D:"background:#302f2e;border:1px solid #71767b"},{L:"#44505c",D:"#a9b3bd"}],
+ ["B · Warm paper","lighter-than-page, sand border",{L:"background:#faf8f3;border:1px solid #e0d2b0",D:"background:#25221e;border:1px solid #4a4238"},{L:"#8a5320",D:"#d9b483"}],
+ ["C · Gold top rule","no fill, gold accent",{L:"background:transparent;border-top:3px solid #a8792a;border-bottom:1px solid #e9dcbe;border-radius:0",D:"background:transparent;border-top:3px solid #d4a04a;border-bottom:1px solid #4a4238;border-radius:0"},{L:"#a8792a",D:"#d4a04a"}],
+ ["D · White lifted","soft shadow card",{L:"background:#fff;border:1px solid #ebe6dc;box-shadow:0 2px 8px rgba(80,60,30,.08)",D:"background:#23211d;border:1px solid #3a352e;box-shadow:0 2px 10px rgba(0,0,0,.35)"},{L:"#6f6152",D:"#b8ab97"}],
+];
+const TOC = [
+ ["A · Current","solid charcoal / umber",{L:"background:#343434;color:#fff",D:"background:#6f5f48;color:#fff"}],
+ ["B · Sand bar","border-tone fill",{L:"background:#e9dcbe;color:#343434",D:"background:#2e2923;color:#d3cbba"}],
+ ["C · Underlined","no fill, gold rule",{L:"background:transparent;color:#6f6152;border-bottom:2px solid #a8792a;text-transform:uppercase;letter-spacing:.08em",D:"background:transparent;color:#b8ab97;border-bottom:2px solid #d4a04a;text-transform:uppercase;letter-spacing:.08em"}],
+ ["D · Soft umber","muted fill, gold text in dark",{L:"background:#ddd3c1;color:#4a3f33",D:"background:#3a342b;color:#d9b483"}],
+];
+const row=(n,s,inner)=>`<div class="row"><div class="tag">${n}<small>${s}</small></div>${["L","D"].map(m=>`<div class="pane ${m}">${inner(m)}</div>`).join("")}</div>`;
+document.getElementById("kt").innerHTML=KT.map(([n,s,st,lab])=>row(n,s,m=>`
+ <blockquote class="gloss">The author’s gloss: commentary panel sits here in verdigris.</blockquote>
+ <div class="kt" style="${st[m]}"><div class="lab" style="color:${lab[m]}">▾ Key terms</div>
+ <dl><dt>Jizya</dt><dd>A tax paid by non-Muslim subjects in lieu of military service.</dd><dt>Dhimmi</dt><dd>A protected non-Muslim resident.</dd></dl></div>`)).join("");
+document.getElementById("sm").innerHTML=SM.map(([n,s,st,lab])=>row(n,s,m=>`
+ <div class="sm" style="${st[m]}"><div class="lab" style="color:${lab[m]}">Summary</div>
+ <p>A short, scannable summary of the article’s argument, with <a href="#">a link</a> in it, sitting above the intro.</p></div>`)).join("");
+document.getElementById("toc").innerHTML=TOC.map(([n,s,st])=>row(n,s,m=>`
+ <div class="toc"><div class="t" style="${st[m]}">On this page</div>
+ <ul><li class="on">Introduction</li><li>The historical record</li><li>Common objections</li></ul></div>`)).join("");
+</script>

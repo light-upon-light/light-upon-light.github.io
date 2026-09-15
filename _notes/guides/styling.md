@@ -25,7 +25,8 @@ stand-in for GreedyNav; ordering *within* `site.js` is what's load-bearing
 now, not `footer_scripts` order — see the header comment in `site.js`.
 
 `.tldr` is the summary card at the top of every article — a full-width
-bordered panel in a slate-ink wash, deliberately refusing the left rule
+bordered lapis-and-gold panel (gold inset hairline and label dash open; a plain
+pill closed), deliberately refusing the left rule
 that marks the three evidence blockquotes. Every page authors it as a
 `<details>` and so opens collapsed (`details.tldr` in site.scss, CSS only —
 no JS), as a centred pill that widens to the full card when opened; the
@@ -39,12 +40,13 @@ large text like the quotes it carries. `.quran-more--section` drops the rule
 and indent and opts back into the large-text bump, since its content is the
 article's own prose; only its summary stays pinned at the apparatus size.
 
-`.toc` keeps the theme's own styling at both widths — the box, the solid
-`--mm-primary-color` title bar, the per-entry dividers. Two restyles of the
+`.toc` keeps the theme's box and per-entry dividers at both widths; the title
+bar is recoloured to `--site-toctitle-bg`/`-text` (soft umber in light, sand
+in dark) because the solid primary fill read as too heavy. Two restyles of the
 title (a muted uppercase eyebrow over a hairline, then that eyebrow filled
-with `--mm-border-color` over a washed box) were tried and reverted. What
-site.scss still adds is the disclosure summary's copy of that bar, the Karla
-face, and the entry sizing. Never strip the box: the drawer clone's `.toc`
+with `--mm-border-color` over a washed box) were tried and reverted. site.scss
+also adds the disclosure summary's copy of that bar, the Karla face, and the
+entry sizing. Never strip the box: the drawer clone's `.toc`
 **is** `#toc-panel`'s opaque surface. See `theme_internals.md`.
 
 Arabic uses `.quran-arabic`, citation labels `.ayah-ref`. Amiri is loaded from
@@ -58,7 +60,8 @@ so `.quran-arabic` cancels it with `font-style: normal`.
 `_data/glossary.yml` holds one entry per recurring Arabic term (`label`,
 `short`, `match[]`). A page opts in with a `glossary:` front-matter list and
 `{% include glossary-key.html %}` below its intro; the include renders the
-`.glossary-key` `<dl>` (styled like `blockquote.gloss`) and a page-scoped
+`.glossary-key` `<dl>` (a `--site-glosskey-bg` parchment card with no left rule,
+so it can't be mistaken for a `.gloss` panel) and a page-scoped
 `<script type="application/json" id="glossary-data">`. The last IIFE in
 `site.js` reads that JSON, wraps every later prose occurrence of a term in
 `<span class="gloss-term">` (skipping links, headings, code, and
