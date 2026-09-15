@@ -1303,6 +1303,15 @@
     margin-top: 0;
   }
 
+  /* Controls, not prose: like .toc, the pill and the card's title bar hold
+     their normal-state size (.page__content's 0.85em) in rem, so the text-size
+     toggle can't widen the closed pill past its grid cell on a phone. The
+     opened card's body still scales. */
+  .page__content details.tldr:not([open]),
+  .page__content details.tldr > summary {
+    font-size: 0.85rem;
+  }
+
   /* .intro-toggles wraps the summary card and the key-terms block
      (quran.md). With both closed they share one row -- key terms at the
      left, the pill still centred -- instead of stacking two short controls
@@ -2444,8 +2453,15 @@
     width: fit-content;
   }
 
+  /* Held at its normal-state size in rem, as .tldr's pill above: under the
+     large text toggle "Key terms" wrapped to two lines in its mobile grid cell.
+     0.782rem = 0.92em of .page__content's 0.85em; the label 0.72em of that. */
+  .page__content .glossary-key:not(:has(> details[open])) {
+    font-size: 0.782rem;
+  }
+
   .glossary-key__label {
-    font-size: 0.72em;
+    font-size: 0.563rem;
     font-weight: 700;
     letter-spacing: 0.07em;
     text-transform: uppercase;
