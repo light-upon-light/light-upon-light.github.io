@@ -13,6 +13,9 @@ layout: single
 
 short_title: "The evidence in full"
 
+# A hub of links to the seventeen pages; its own word count would read "1 min".
+read_time: false
+
 quran_section: the-messenger-of-god-ﷺ
 quran_section_label: "The Messenger of God ﷺ"
 

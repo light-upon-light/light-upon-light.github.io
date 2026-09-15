@@ -1,0 +1,31 @@
+{%- comment -%}
+  Shadows minimal-mistakes 4.28.0's _includes/page__meta.html, which
+  _layouts/single.html includes under the page title. The theme's version
+  prints nothing on pages (read_time is only defaulted for posts) and marks
+  its parts with Font Awesome icons this repo no longer loads.
+
+  One quiet line instead: "Updated <date> · N min read". "Updated" only when
+  last_modified_at falls on a different day from date, the same rule as the
+  footer's page__date.html; otherwise "Published". Minutes round up at
+  site.words_per_minute. Liquid's strip_html drops <script> bodies, so the
+  glossary JSON doesn't count toward the words.
+{%- endcomment -%}
+{%- if page.date or page.last_modified_at -%}
+{%- assign date_format = site.date_format | default: "%B %-d, %Y" -%}
+{%- assign published_on = page.date | date: "%Y-%m-%d" -%}
+{%- assign updated_on = page.last_modified_at | date: "%Y-%m-%d" -%}
+{%- assign wpm = site.words_per_minute | default: 200 -%}
+{%- assign words = content | strip_html | number_of_words -%}
+{%- assign minutes = words | plus: wpm | minus: 1 | divided_by: wpm -%}
+{%- if minutes < 1 %}{% assign minutes = 1 %}{% endif -%}
+<p class="page__dateline">
+  {%- if page.last_modified_at and updated_on != published_on -%}
+    Updated <time datetime="{{ updated_on }}">{{ page.last_modified_at | date: date_format }}</time>
+  {%- else -%}
+    Published <time datetime="{{ published_on }}">{{ page.date | date: date_format }}</time>
+  {%- endif -%}
+  {%- unless page.read_time == false -%}
+  <span class="page__dateline-sep" aria-hidden="true"> · </span>{{ minutes }} min read
+  {%- endunless -%}
+</p>
+{%- endif -%}

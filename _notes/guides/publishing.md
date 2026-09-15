@@ -68,5 +68,12 @@ mechanism as `breadcrumbs.html`) and labels them separately, showing
 literals in that file; a local `_data/ui-text.yml` would replace the theme's
 whole copy rather than merge one key.
 
+The same dates also drive the dateline under every page title
+("Updated … · N min read"): `_includes/page__meta.html` shadows the theme's
+include, applies the same Updated-only-when-different rule, and rounds read
+time up at `words_per_minute` in `_config.yml`. A page with neither key gets
+no dateline; `read_time: false` drops just the read time (set on the
+`messenger.md` hub, whose own words are only links).
+
 Only `messenger.md`, `_pages/messenger/*.md`, and `quran.md` currently carry
 `last_modified_at`; the rest show a publish date alone, which is correct.
