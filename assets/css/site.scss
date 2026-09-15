@@ -1375,6 +1375,25 @@
     margin-top: 0;
   }
 
+  /* Summary pill directly followed by a closed key-terms block (quran.md):
+     both closed, they share one line instead of stacking two short
+     controls over a band of empty space. Opening either restores the
+     stacked layout. !important for the margin-block rules above. */
+  /* :has() may not nest inside :has() -- a nested one voids the rule --
+     so "closed" is tested as details:not([open]), never :not(:has(...)). */
+  .page__content details.tldr:not([open]):has(+ .glossary-key > details:not([open])) {
+    display: inline-block;
+    vertical-align: middle;
+    margin-block: 1.6em !important;
+    margin-inline: 0 0.75em;
+  }
+
+  .page__content details.tldr:not([open]) + .glossary-key:has(> details:not([open])) {
+    display: inline-block;
+    vertical-align: middle;
+    margin-block: 1.6em;
+  }
+
   /* Neither stylesheet sets list-style on .page__content ul, so the marker
      is the UA disc at full text colour -- too heavy inside a quiet card.
      A pseudo-element bullet at 45% recedes with whatever colour the text
