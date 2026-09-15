@@ -1987,8 +1987,26 @@
      and #floating-nav sits outside it, in body. */
   @media (min-width: 64em) {
     #floating-nav:not(.no-toc) {
-      left: min(min(100vw, 50vw + 640px) - 0.25rem, 100vw - 6.6rem);
+      left: #{"min(min(100vw, 50vw + 640px) - 0.25rem + var(--toc-grow, 0px), 100vw - 6.6rem)"};
       right: auto;
+    }
+  }
+
+  /* Widen the sidebar TOC by up to 40px, rightwards only: its left edge
+     (and so the text column) stays put, and the growth comes out of the
+     page margin beyond #main's 1280px. The TOC's right edge and the
+     floating-nav column move together, so --toc-grow is capped at the
+     margin left over once the column still fits on screen (the 6.35rem is
+     the 6.6rem clamp above less its 0.25rem offset) -- no growth below
+     roughly 1280px + 2 * 6.35rem, the full 40px from about 1560px. */
+  @media (min-width: 80em) {
+    :root {
+      --toc-grow: #{"clamp(0px, 50vw - 640px - 6.35rem, 40px)"};
+    }
+
+    .page__content .sidebar__right {
+      width: calc(300px + var(--toc-grow));
+      margin-inline-end: calc(-300px - var(--toc-grow));
     }
   }
 
