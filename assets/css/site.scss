@@ -2412,6 +2412,14 @@
     background-color: var(--mm-active-color);
   }
 
+  /* The row paints the highlight, so the <a> must not paint the theme's
+     copy on top of it. Invisible at rest (same opaque colour twice), but
+     mid-fade two half-transparent layers stack darker behind the text than
+     behind the toggle -- the split-bar look the fade below exists to avoid. */
+  .toc .active > .toc__heading-row a {
+    background-color: transparent;
+  }
+
   .toc .active > .toc__heading-row,
   .toc .active > .toc__heading-row a,
   .toc .active > .toc__heading-row .toc__toggle {
@@ -2423,13 +2431,25 @@
      `.toc__toggle`'s colour snaps instantly while the row's own <a> fades
      over 200ms, and the two visibly fall out of sync ("the toggle loses
      its highlight before the text" in one direction, or lags behind it in
-     the other). Forcing both to snap together is more consistent for a
-     scrollspy highlight than a lingering fade. The `html` prefix is
+     the other). The row, the <a> and the toggle therefore all get one
+     identical fade, so the highlight moves as a single bar. `html` is
      load-bearing: `html :is(a, .btn, form button, input[type="submit"])`
-     above takes its specificity from `input[type="submit"]`, (0,1,2), and
-     beat a bare `.toc__menu a` -- bringing the lag back. */
+     above takes (0,1,2) specificity from `input[type="submit"]` and beats a
+     bare `.toc__menu a`, which is how the two halves desynced a second
+     time. Only background-color and color change on `.active` (the
+     theme's `.toc .active a` plus the rules above). */
+  html .toc__heading-row,
   html .toc__menu a,
   html .toc__toggle {
+    transition: color 0.2s ease-in-out, background-color 0.2s ease-in-out;
+  }
+
+  /* The same race `html.theme-swap` exists for (see the global transition
+     rules near the top): without this the row and toggle would ease into
+     the new palette after the view-transition cross-fade had settled. */
+  html.theme-swap .toc__heading-row,
+  html.theme-swap .toc__menu a,
+  html.theme-swap .toc__toggle {
     transition: none;
   }
 
