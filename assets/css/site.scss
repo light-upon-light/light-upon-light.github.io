@@ -1380,13 +1380,13 @@
     margin-inline: auto;
     padding: 0.5em 1.05em;
     border-radius: 999px;
-    /* The card's double border with the colours swapped: gold (the label
-       dash's) outside, a lapis hairline 3px inside. Gold-inside-lapis read
-       as muddy on a pill this short, worst in dark. The label dash stays
-       off (rule below). */
-    border-color: var(--site-tldr-dash);
+    /* The card's gold inset, 3px in rather than 4px to clear the label, and
+       softened to half strength against the fill: at full strength the
+       line crowded a pill this short, worst in dark. Already a 1px line, so
+       colour is the only lever left. The label dash stays off (rule below). */
     box-shadow: inset 0 0 0 3px var(--site-tldr-fill),
-                inset 0 0 0 4px var(--site-tldr-line);
+                inset 0 0 0 4px color-mix(in srgb, var(--site-tldr-inset) 50%,
+                                          var(--site-tldr-fill));
   }
 
   .page__content details.tldr:not([open]) > summary .tldr__label::before {
