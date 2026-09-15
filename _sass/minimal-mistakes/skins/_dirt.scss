@@ -84,7 +84,7 @@ $base0f: #b49368 !default;
   --mm-masthead-link-color-hover: #343434;
   --mm-navicon-link-color-hover: #d6d6d6;
   --mm-focus-color: #343434;
-  --mm-active-color: #d6d6d6;
+  --mm-active-color: #dcc8a4; // TOC scrollspy highlight: a pale tint of --site-quote-gold (#a8792a), #3d4144 text on it 6.3:1
   --mm-form-background-color: #f2f3f3;
   --mm-code-background-color: #fafafa;
   --mm-code-background-color-dark: #bdc1c4;
@@ -151,8 +151,8 @@ $base0f: #b49368 !default;
   --site-gloss-border: #2e6b63; // blockquote.gloss border
   --site-gloss-bg: rgba(46, 107, 99, 0.05); // blockquote.gloss background wash
   --site-glosskey-bg: #ebe3d1; // .glossary-key parchment fill -- no rule, so it can't be mistaken for a .gloss panel; label is --site-src-text (4.7:1), body text 9.8:1
-  --site-toctitle-bg: #ddd3c1; // .toc .nav__title / .toc-disclosure summary fill -- a soft umber bar, not a solid ink block
-  --site-toctitle-text: #4a3f33; // 6.9:1 on --site-toctitle-bg
+  --site-toctitle-bg: #dcc8a4; // .toc .nav__title / .toc-disclosure summary fill -- the same pale gold as --mm-active-color, not a solid ink block
+  --site-toctitle-text: #4a3f33; // 6.3:1 on --site-toctitle-bg
   /* TL;DR card (.tldr) -- lapis and gold, the two prestige pigments of
      Qur'an illumination: a near-white card, a lapis border and label, a gold
      hairline inset 4px inside the border, and a gold dash before the label
@@ -208,7 +208,7 @@ $base0f: #b49368 !default;
 
    $active-color (--mm-active-color, the TOC scrollspy highlight) has to stay
    dark enough that yiq-contrasted() still picks white: at 10% white the YIQ
-   is 113 (threshold 175) and white clears AA at 4.9:1. The stock 80% would
+   is 113 (threshold 175). Now a gold tint (#785d31), white still 6.2:1. The stock 80% would
    give a near-white pill on a dark page.
 
    Defined once via a mixin and included from both the explicit-choice
@@ -228,7 +228,7 @@ $base0f: #b49368 !default;
   --mm-masthead-link-color-hover: #ece6dd;
   --mm-navicon-link-color-hover: #494845;
   --mm-focus-color: #d4a04a; // $primary-color is only 2:1 here — not a visible focus ring
-  --mm-active-color: #7d6f5a;
+  --mm-active-color: #785d31; // TOC scrollspy highlight: --site-quote-gold (#d4a04a) at 50% on the ground, white text on it 6.2:1
   --mm-form-background-color: #26221c;
   --mm-code-background-color: #26221c;
   --mm-code-background-color-dark: #16140f;
