@@ -91,7 +91,7 @@
       --mm-masthead-link-color-hover: #343434;
       --mm-navicon-link-color-hover: #d6d6d6;
       --mm-focus-color: #343434;
-      --mm-active-color: #d6d6d6;
+      --mm-active-color: #dcc8a4;
       --mm-form-background-color: #f2f3f3;
       --mm-code-background-color: #fafafa;
       --mm-code-background-color-dark: #bdc1c4;
@@ -125,7 +125,7 @@
       --site-gloss-border: #2e6b63;
       --site-gloss-bg: rgba(46, 107, 99, 0.05);
       --site-glosskey-bg: #ebe3d1;
-      --site-toctitle-bg: #ddd3c1;
+      --site-toctitle-bg: #dcc8a4;
       --site-toctitle-text: #4a3f33;
       --site-breadcrumb-sep: #c3b4a0;
       --site-return-hover-bg: rgba(161, 147, 124, 0.14);
@@ -871,7 +871,7 @@
      solid --mm-primary-color bar for the "On this page" title, and a 1px
      divider under every entry. The box and dividers are kept; the bar's
      solid ink fill read as too heavy, so it is recoloured below to
-     --site-toctitle-bg/-text (a soft umber bar in light, a sand-toned one a
+     --site-toctitle-bg/-text (a pale gold bar in light, a sand-toned one a
      step above the ground in dark), keeping the theme's padding and
      corners. Two earlier restyles are reverted and shouldn't be retried: a
      muted uppercase eyebrow over a hairline (the widget stopped reading as
