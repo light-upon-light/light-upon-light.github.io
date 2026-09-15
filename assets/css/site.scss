@@ -2424,9 +2424,12 @@
      over 200ms, and the two visibly fall out of sync ("the toggle loses
      its highlight before the text" in one direction, or lags behind it in
      the other). Forcing both to snap together is more consistent for a
-     scrollspy highlight than a lingering fade. */
-  .toc__menu a,
-  .toc__toggle {
+     scrollspy highlight than a lingering fade. The `html` prefix is
+     load-bearing: `html :is(a, .btn, form button, input[type="submit"])`
+     above takes its specificity from `input[type="submit"]`, (0,1,2), and
+     beat a bare `.toc__menu a` -- bringing the lag back. */
+  html .toc__menu a,
+  html .toc__toggle {
     transition: none;
   }
 
