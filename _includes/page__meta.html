@@ -14,8 +14,8 @@
 {%- assign date_format = site.date_format | default: "%B %-d, %Y" -%}
 {%- assign published_on = page.date | date: "%Y-%m-%d" -%}
 {%- assign updated_on = page.last_modified_at | date: "%Y-%m-%d" -%}
-{%- comment -%} A quarter of the plain words-per-minute estimate, by the author's call: the count includes footnotes, references and collapsed sections most readers skip. {%- endcomment -%}
-{%- assign wpm = site.words_per_minute | default: 200 | times: 4 -%}
+{%- comment -%} Half the plain words-per-minute estimate, by the author's call: the count includes footnotes, references and collapsed sections most readers skip. {%- endcomment -%}
+{%- assign wpm = site.words_per_minute | default: 250 | times: 2 -%}
 {%- assign words = content | strip_html | number_of_words -%}
 {%- assign minutes = words | plus: wpm | minus: 1 | divided_by: wpm -%}
 {%- if minutes < 1 %}{% assign minutes = 1 %}{% endif -%}
