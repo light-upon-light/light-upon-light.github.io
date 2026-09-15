@@ -274,7 +274,8 @@
      The palette lives entirely in custom properties -- see the three
      :root blocks in _sass/minimal-mistakes/skins/_dirt.scss (light,
      explicit-dark via [data-theme="dark"], and the no-JS/no-choice system
-     fallback via prefers-color-scheme). `data-theme` on <html> is the single
+     fallback via prefers-color-scheme; plus a print block that forces
+     light). `data-theme` on <html> is the single
      source of truth for which one is in effect; a change to it is a defined
      style-change event the browser resolves synchronously, unlike the old
      second-stylesheet-activated-by-media-attribute design this replaced (see

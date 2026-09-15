@@ -64,13 +64,18 @@ $base0d: #88a4d3 !default;
 $base0e: #bb90e2 !default;
 $base0f: #b49368 !default;
 
-/* Light palette (the only palette this task adds — dirt's existing colors,
-   moved verbatim into custom properties). Values were read out of a built
-   main.css, not recomputed: see _sass/minimal-mistakes/_notices.scss,
-   _navigation.scss, _buttons.scss, _mixins.scss, _page.scss, _search.scss,
-   _tables.scss and _utilities.scss for where the "-h000NN" / "-contrast" /
-   "-mix-*" / "notice-*" properties below are consumed. */
-:root {
+/* Light palette — dirt's colors moved verbatim into custom properties. Values
+   were read out of a built main.css, not recomputed: see
+   _sass/minimal-mistakes/_notices.scss, _navigation.scss, _buttons.scss,
+   _mixins.scss, _page.scss, _search.scss, _tables.scss and _utilities.scss
+   for where the "-h000NN" / "-contrast" / "-mix-*" / "notice-*" properties
+   below are consumed.
+
+   A mixin, like the dark palette below, so the print override at the bottom
+   of this file re-applies it instead of carrying a hand-copy (which is how
+   an older copy in site.scss drifted: it never gained the .tldr, glossary
+   tip or retuned gold values). */
+@mixin site-light-palette {
   --mm-background-color: #f3f3f3;
   --mm-text-color: #343434;
   --mm-muted-text-color: #8e8b82;
@@ -189,6 +194,23 @@ $base0f: #b49368 !default;
   --site-blockquote-border-default: var(--mm-primary-color);
 }
 
+:root {
+  @include site-light-palette;
+
+  /* Mode-invariant: colors that sit on a surface that is dark in *both*
+     palettes, so they must not gain a dark-mode value. Defined only here —
+     neither palette mixin touches them. */
+  --site-poster-ground: #1e1b18;                     // .yt-embed frame/poster fill: the poster's own near-black
+  --site-poster-scrim: rgba(0, 0, 0, 0.28);          // .yt-embed__poster::after, tames bright thumbnails
+  --site-poster-title-scrim: rgba(0, 0, 0, 0.75);    // top of .yt-embed__poster-title's gradient
+  --site-poster-text: #f2ece1;                       // .yt-embed__poster-title
+  --site-poster-disc: rgba(22, 19, 16, 0.72);        // .yt-embed__poster-play disc
+  --site-poster-disc-hover: rgba(22, 19, 16, 0.85);
+  --site-poster-disc-border: rgba(242, 236, 225, 0.3);
+  --site-poster-play: #c9973a;                       // play triangle: gold lifted for the dark disc; not --site-quote-gold, which means "revealed text"
+  --site-ondark-gold: #d4a04a;                       // #floating-font-size-toggle[aria-pressed]: always on a dark translucent disc
+}
+
 /* Dark palette. Values are hand-derived from dirt (a night version of the
    same warm, illuminated-manuscript scheme), not one of the theme's stock
    dark skins — carried over verbatim from the last build of
@@ -299,5 +321,34 @@ $base0f: #b49368 !default;
 @media (prefers-color-scheme: dark) {
   :root:not([data-theme="light"]) {
     @include site-dark-palette;
+  }
+}
+
+/* color-scheme drives UA form controls and scrollbars. Keyed to the same
+   attribute as the palette, in the same three-block shape, so they follow
+   the reader's choice rather than the system. */
+:root {
+  color-scheme: light;
+}
+
+:root[data-theme="dark"] {
+  color-scheme: dark;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    color-scheme: dark;
+  }
+}
+
+/* Print always uses the light palette, whatever the stored choice or system
+   preference. All three selectors carry it so it wins whichever would
+   otherwise apply: same specificity as each, and later in source order. */
+@media print {
+  :root,
+  :root[data-theme="dark"],
+  :root:not([data-theme="light"]) {
+    color-scheme: light;
+    @include site-light-palette;
   }
 }

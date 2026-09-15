@@ -14,7 +14,9 @@ the single source of truth. `_sass/minimal-mistakes/skins/_dirt.scss` defines
 three `:root` blocks — light (the bare block), explicit dark
 (`:root[data-theme="dark"]`), and the no-JS/no-choice system fallback
 (`@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) {`) —
-each setting the same ~41 `--mm-*`/`--site-*` properties. Every theme
+each setting the same ~67 `--mm-*`/`--site-*` properties from
+`@mixin site-light-palette` / `site-dark-palette`, plus a `@media print`
+block that re-includes the light mixin. Every theme
 component and every piece of this repo's own CSS reads one of those
 properties, so a `data-theme` change repaints the whole page from one
 attribute write. This replaced compiling the theme twice into a second
@@ -54,8 +56,8 @@ verbatim (still literal hex, not custom properties — see the comment in
 `_dirt.scss`) and code blocks look the same in both modes.
 
 This repo's own palette — the evidence blockquotes, the floating nav, the
-breadcrumb, and the dozen or so other rules hardcoded in `head/custom.html`
-and `footer/custom.html` — is `--site-*` properties in the same three
+breadcrumb, and the other rules in `assets/css/site.scss` — is `--site-*`
+properties in the same palette mixins in
 `_dirt.scss` blocks, consumed directly by those rules. A few reuse an
 existing `--mm-*` property instead of getting their own, where the dirt skin
 already happens to carry the right value (e.g. the TOC active-row highlight
@@ -97,7 +99,7 @@ instant of the swap. Nothing broader is needed: a `data-theme` write resolves
 in the same task, so there is no multi-frame window for a page-wide guard
 class to paper over.
 
-**Why a view transition at all.** Redefining ~41 custom properties on `:root`
+**Why a view transition at all.** Redefining ~67 custom properties on `:root`
 invalidates every element on the page. The style recalc happens in one go, but
 without help a browser can spread the resulting *paint* across several frames
 — which used to tear the masthead, icons and colours arriving a frame or two
