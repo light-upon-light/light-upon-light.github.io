@@ -45,6 +45,10 @@ $form-background-color: var(--mm-form-background-color) !default;
 $code-background-color: var(--mm-code-background-color) !default;
 $code-background-color-dark: var(--mm-code-background-color-dark) !default;
 
+/* Sidebar TOC column, a little wider than the theme's 200px / 300px. */
+$right-sidebar-width-narrow: 240px !default; // $large (64em) and up
+$right-sidebar-width: 340px !default; // $x-large (80em) and up
+
 /* dirt syntax highlighting (base16) — identical in both palettes by design,
    so these stay literal hex rather than custom properties. */
 $base00: #231e18 !default;
