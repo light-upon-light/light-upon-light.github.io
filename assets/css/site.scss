@@ -1394,8 +1394,13 @@
     margin-block: 0 !important;
   }
 
+  /* Nudged down so the pill sits midway between the quote and the next
+     `##` (whose top margin is larger than the quote's bottom one).
+     position: relative moves only the pill, not the key-terms box. */
   .page__content .intro-toggles:not(:has(details[open])) > .tldr {
     grid-column: 2;
+    position: relative;
+    top: 0.85em;
   }
 
   .page__content .intro-toggles:not(:has(details[open])) > .glossary-key {
