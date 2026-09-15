@@ -26,6 +26,7 @@ women:
 
 quran:
 
+- adapt ideas, way of delivering info, and sources from evidence for the truth of islam link
 - make 19 numerical pattern stronger from linked video and link the video again under that point
 - add sources and further readings under each point, within a details block
 - review the details sections bec rn it looks a bit weird
