@@ -1098,8 +1098,9 @@
      open, takes the full content width instead (closed, it is a centred
      pill -- see below): a different layer of the page, not another kind of
      quotation. The card form does that separating work, so
-     the colour only has to be findable: lapis border and label, a gold
-     hairline inset inside the border, and a gold dash before the label.
+     the colour only has to be findable: "gilt edge" (option 6 of
+     2-summary-directions.html) -- lifted paper, a warm hairline border and
+     soft shadow, a gold fade along the top edge, and a gold label.
      Palette and contrast ratios are in _dirt.scss; the round of demos that
      chose it is in _notes/drafts/colors-sep15/.
 
@@ -1134,16 +1135,27 @@
     background-color: var(--site-tldr-fill);
     border: 1px solid var(--site-tldr-line);
     border-radius: 4px;
-    /* the gold hairline 4px inside the border: a fill-coloured spread, then
-       one more pixel of gold beneath it */
-    box-shadow: inset 0 0 0 4px var(--site-tldr-fill),
-                inset 0 0 0 5px var(--site-tldr-inset);
+    box-shadow: 0 3px 12px var(--site-tldr-shadow);
   }
 
-  /* The break between the card and the intro: a short centred hairline,
-     fading out at both ends, in the gap the margin-bottom above opens. A
-     pseudo-element rather than markup, so none of the eight article pages
-     needs an extra element. */
+  /* The gilt edge: a 3px gold band along the top, fading out at both ends.
+     The fade is what keeps it clear of the rounded corners, so the card
+     needs no overflow: hidden -- which would clip the ::after hairline
+     hanging below it. */
+  .page__content .tldr::before {
+    content: "";
+    position: absolute;
+    inset: 0 0 auto;
+    height: 3px;
+    background-image: linear-gradient(to right, transparent,
+                                      var(--site-tldr-edge), transparent);
+  }
+
+  /* The break between the card and the intro: a short centred gold
+     hairline, fading out at both ends, in the gap the margin-bottom above
+     opens -- the gilt edge's colour, since the card's own border is too
+     pale to read against the page ground. A pseudo-element rather than
+     markup, so none of the eight article pages needs an extra element. */
   .page__content .tldr::after {
     content: "";
     position: absolute;
@@ -1153,7 +1165,7 @@
     width: 5em;
     height: 1px;
     background-image: linear-gradient(to right, transparent,
-                                      var(--site-tldr-line), transparent);
+                                      var(--site-tldr-edge), transparent);
   }
 
   /* The card's own padding sets the gap above and below its content; the
@@ -1171,17 +1183,8 @@
      a few pixels inside it was one line too many. The card's *body* prose
      is the reading serif like the rest of the article -- Karla there made
      the summary look like chrome rather than like the page's own argument
-     in short. */
-  .page__content .tldr__label::before {
-    content: "";
-    display: inline-block;
-    width: 1.4em;
-    height: 2px;
-    margin-inline-end: 0.6em;
-    vertical-align: middle;
-    background-color: var(--site-tldr-dash);
-  }
-
+     in short. No dash before it either: the gilt edge already marks the
+     card's top. */
   .page__content .tldr__label {
     display: block;
     color: var(--site-tldr-label);
@@ -1272,16 +1275,12 @@
     margin-inline: auto;
     padding: 0.5em 1.05em;
     border-radius: 999px;
-    /* The card's gold inset, 3px in rather than 4px to clear the label, and
-       softened to half strength against the fill: at full strength the
-       line crowded a pill this short, worst in dark. Already a 1px line, so
-       colour is the only lever left. The label dash stays off (rule below). */
-    box-shadow: inset 0 0 0 3px var(--site-tldr-fill),
-                inset 0 0 0 4px color-mix(in srgb, var(--site-tldr-inset) 50%,
-                                          var(--site-tldr-fill));
+    /* A tighter shadow than the open card's, sized to a pill this short. No
+       gilt edge: a 3px band across a pill's rounded top reads as a smudge. */
+    box-shadow: 0 2px 6px var(--site-tldr-shadow);
   }
 
-  .page__content details.tldr:not([open]) > summary .tldr__label::before {
+  .page__content details.tldr:not([open])::before {
     content: none;
   }
 
@@ -1293,7 +1292,9 @@
   .page__content details.tldr:not([open]) > summary::after {
     margin-inline-start: 0.85em;
     padding-inline-start: 0.85em;
-    border-inline-start: 1px solid var(--site-tldr-line);
+    /* the label's gold, faded with the word by ::after's 0.75 opacity: the
+       card's border colour vanishes against the pill's own fill */
+    border-inline-start: 1px solid var(--site-tldr-label);
     font-size: 0.74em;
   }
 
