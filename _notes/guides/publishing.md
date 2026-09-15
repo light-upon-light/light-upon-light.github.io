@@ -71,8 +71,8 @@ whole copy rather than merge one key.
 The same dates also drive the dateline under every page title
 ("Updated … · N min read"): `_includes/page__meta.html` shadows the theme's
 include, applies the same Updated-only-when-different rule, and rounds read
-time up at four times `words_per_minute` in `_config.yml` (the plain estimate
-divided by 4, since the count includes footnotes, references and collapsed
+time up at twice `words_per_minute` (250) in `_config.yml` (the plain estimate
+halved, since the count includes footnotes, references and collapsed
 sections). A page with neither key gets
 no dateline; `read_time: false` drops just the read time (set on the
 `messenger.md` hub, whose own words are only links).
