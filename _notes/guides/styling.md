@@ -25,8 +25,9 @@ stand-in for GreedyNav; ordering *within* `site.js` is what's load-bearing
 now, not `footer_scripts` order — see the header comment in `site.js`.
 
 `.tldr` is the summary card at the top of every article — a full-width
-bordered lapis-and-gold panel (open: lapis border, gold inset hairline, gold
-label dash; closed pill: the same lapis border with a softer, half-strength gold inset), deliberately refusing the left rule
+"gilt edge" panel (open: lifted paper fill, warm hairline border, soft shadow,
+gold fade along the top edge, gold label; closed pill: the same fill and border
+with a tighter shadow and no gold edge), deliberately refusing the left rule
 that marks the three evidence blockquotes. Every page authors it as a
 `<details>` and so opens collapsed (`details.tldr` in site.scss, CSS only —
 no JS), as a centred pill that widens to the full card when opened; the

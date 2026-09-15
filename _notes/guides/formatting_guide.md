@@ -68,8 +68,8 @@ already sits above a real `##`.
 It is not a fourth evidence type. `.quote`/`.src`/`.gloss` are a semantic
 *left-rule* system; the TL;DR, open, is a full-content-width card with a border, no
 left rule and no indent — a different layer of the page, not another kind of
-quotation. Its colours are lapis and gold — a lapis border and label, a gold
-hairline inset and a gold dash before the label — clear of `.gloss`'s teal; palette
+quotation. Its look is "gilt edge" — a lifted paper card with a warm hairline
+border, a soft shadow, a gold fade along its top edge and a gold label; palette
 and contrast ratios are in `_dirt.scss`. The
 label is a full-size titled bar; the card's prose is the reading serif, and
 a fading hairline below the card separates it from the article's intro.

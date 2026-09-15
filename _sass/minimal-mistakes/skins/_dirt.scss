@@ -158,17 +158,16 @@ $base0f: #b49368 !default;
   --site-glosskey-bg: #ebe3d1; // .glossary-key parchment fill -- no rule, so it can't be mistaken for a .gloss panel; label is --site-src-text (4.7:1), body text 9.8:1
   --site-toctitle-bg: #dcc8a4; // .toc .nav__title / .toc-disclosure summary fill -- the same pale gold as --mm-active-color, not a solid ink block
   --site-toctitle-text: #4a3f33; // 6.3:1 on --site-toctitle-bg
-  /* TL;DR card (.tldr) -- lapis and gold, the two prestige pigments of
-     Qur'an illumination: a near-white card, a lapis border and label, a gold
-     hairline inset 4px inside the border, and a gold dash before the label
-     (open card only). The full border (no left rule, no indent) is what
-     keeps it from reading as a fourth evidence type. Contrast on
-     --site-tldr-fill: label 8.5:1, body text 12.1:1, links 6.1:1. */
-  --site-tldr-fill: #fcfcfd;
-  --site-tldr-line: #2d4b7a;
-  --site-tldr-label: #2d4b7a;
-  --site-tldr-inset: #c9a45a;
-  --site-tldr-dash: #a8792a;
+  /* TL;DR card (.tldr) -- "gilt edge": lifted paper, a warm hairline
+     border, a soft shadow, and a gold fade along the top edge (open card
+     only). The full border (no left rule, no indent) is what keeps it from
+     reading as a fourth evidence type. Contrast on --site-tldr-fill: label
+     6.1:1, body text 12.1:1, links 6.1:1. */
+  --site-tldr-fill: #fdfcf9;
+  --site-tldr-line: #ebe4d6;
+  --site-tldr-label: #8a5320;
+  --site-tldr-edge: #a8792a; // the top-edge gold fade; same gold as --site-quote-gold
+  --site-tldr-shadow: rgba(90, 65, 30, 0.1);
   --site-breadcrumb-sep: #c3b4a0; // quran-breadcrumb "›" separator
   --site-return-hover-bg: rgba(161, 147, 124, 0.14); // quran-return hover background
   --site-floatnav-icon: #f3f3f3; // #floating-nav button icon color
@@ -288,14 +287,14 @@ $base0f: #b49368 !default;
   --site-glosskey-bg: #27231e; // label --site-src-text 6.9:1, body text 9.7:1
   --site-toctitle-bg: #2e2923; // a sand-toned bar a step above the ground
   --site-toctitle-text: #d3cbba; // 8.9:1
-  /* .tldr card, dark: lapis lifted for the dark ground, gold inset dimmed so
-     it doesn't glare. Contrast on --site-tldr-fill: label 7.7:1, body text
-     9.8:1, links 8.1:1. */
-  --site-tldr-fill: #1f232b;
-  --site-tldr-line: #3b465a;
-  --site-tldr-label: #9fb6dc;
-  --site-tldr-inset: #8f7340;
-  --site-tldr-dash: #d4a04a;
+  /* .tldr card, dark: a raised sand card a step above the ground, a deeper
+     shadow to lift it. Contrast on --site-tldr-fill: label 6.7:1, body text
+     9.8:1, links 8.2:1. */
+  --site-tldr-fill: #25221d;
+  --site-tldr-line: #3a342b;
+  --site-tldr-label: #d4a04a;
+  --site-tldr-edge: #d4a04a;
+  --site-tldr-shadow: rgba(0, 0, 0, 0.45);
   --site-breadcrumb-sep: #6b6152;
   --site-return-hover-bg: rgba(138, 125, 104, 0.18);
   --site-floatnav-icon: #e6ded2;
