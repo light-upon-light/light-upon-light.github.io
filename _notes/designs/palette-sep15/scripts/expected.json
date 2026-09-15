@@ -1,0 +1,254 @@
+{
+ "--mm-background-color": [
+  "#f3f3f3",
+  "#1c1a17"
+ ],
+ "--mm-text-color": [
+  "#343434",
+  "#d3cbba"
+ ],
+ "--mm-muted-text-color": [
+  "#8e8b82",
+  "#a1937c"
+ ],
+ "--mm-primary-color": [
+  "#343434",
+  "#6f6152"
+ ],
+ "--mm-border-color": [
+  "#e9dcbe",
+  "#4a4238"
+ ],
+ "--mm-footer-background-color": [
+  "#e9dcbe",
+  "#26221c"
+ ],
+ "--mm-link-color": [
+  "#8a5320",
+  "#d9b483"
+ ],
+ "--mm-link-color-hover": [
+  "#6e3f14",
+  "#e8cea3"
+ ],
+ "--mm-link-color-visited": [
+  "#6f6152",
+  "#b8ab97"
+ ],
+ "--mm-masthead-link-color": [
+  "#343434",
+  "#e6ded2"
+ ],
+ "--mm-masthead-link-color-hover": [
+  "#343434",
+  "#e6ded2"
+ ],
+ "--mm-navicon-link-color-hover": [
+  "#e9dcbe",
+  "#4a4238"
+ ],
+ "--mm-focus-color": [
+  "#343434",
+  "#d4a04a"
+ ],
+ "--mm-active-color": [
+  "#dcc8a4",
+  "#785d31"
+ ],
+ "--mm-form-background-color": [
+  "#f3f3f3",
+  "#26221c"
+ ],
+ "--mm-code-background-color": [
+  "#fdfcf9",
+  "#26221c"
+ ],
+ "--mm-code-background-color-dark": [
+  "#c3b4a0",
+  "#1c1a17"
+ ],
+ "--mm-border-color-h00025": [
+  "#afa58e",
+  "#38322a"
+ ],
+ "--mm-primary-color-h00025": [
+  "#272727",
+  "#53493e"
+ ],
+ "--mm-primary-color-hover": [
+  "#2a2a2a",
+  "#594e42"
+ ],
+ "--mm-primary-color-h00010": [
+  "#2f2f2f",
+  "#64574a"
+ ],
+ "--mm-primary-color-h00050": [
+  "#1a1a1a",
+  "#383029"
+ ],
+ "--mm-primary-color-alpha-25": [
+  "rgba(52, 52, 52, 0.25)",
+  "rgba(111, 97, 82, 0.25)"
+ ],
+ "--mm-text-color-alpha-06": [
+  "rgba(52, 52, 52, 0.06)",
+  "rgba(211, 203, 186, 0.06)"
+ ],
+ "--mm-primary-color-alpha-70": [
+  "rgba(52, 52, 52, 0.7)",
+  "rgba(111, 97, 82, 0.7)"
+ ],
+ "--mm-muted-text-color-alpha-50": [
+  "rgba(142, 139, 130, 0.5)",
+  "rgba(161, 147, 124, 0.5)"
+ ],
+ "--mm-on-accent": [
+  "#ffffff",
+  "#ffffff"
+ ],
+ "--mm-muted-text-color-contrast": [
+  "#ffffff",
+  "#ffffff"
+ ],
+ "--mm-active-color-contrast": [
+  "#343434",
+  "#ffffff"
+ ],
+ "--site-quote-gold": [
+  "#a8792a",
+  "#d4a04a"
+ ],
+ "--site-src-text": [
+  "#6f6152",
+  "#b8ab97"
+ ],
+ "--site-src-border": [
+  "#a1937c",
+  "#8a7d68"
+ ],
+ "--site-gloss-border": [
+  "#2e6b63",
+  "#4fa89c"
+ ],
+ "--site-gloss-bg": [
+  "rgba(46, 107, 99, 0.05)",
+  "rgba(79, 168, 156, 0.08)"
+ ],
+ "--site-glosskey-bg": [
+  "#ebe3d1",
+  "#26221c"
+ ],
+ "--site-toctitle-bg": [
+  "#dcc8a4",
+  "#2e2923"
+ ],
+ "--site-toctitle-text": [
+  "#4a4238",
+  "#d3cbba"
+ ],
+ "--site-tldr-fill": [
+  "#fdfcf9",
+  "#26221c"
+ ],
+ "--site-tldr-line": [
+  "#ebe3d1",
+  "#3a342b"
+ ],
+ "--site-tldr-label": [
+  "#8a5320",
+  "#d4a04a"
+ ],
+ "--site-tldr-edge": [
+  "#a8792a",
+  "#d4a04a"
+ ],
+ "--site-tldr-shadow": [
+  "rgba(111, 97, 82, 0.12)",
+  "rgba(0, 0, 0, 0.45)"
+ ],
+ "--site-breadcrumb-sep": [
+  "#c3b4a0",
+  "#6f6152"
+ ],
+ "--site-return-hover-bg": [
+  "rgba(161, 147, 124, 0.14)",
+  "rgba(138, 125, 104, 0.18)"
+ ],
+ "--site-floatnav-icon": [
+  "#f3f3f3",
+  "#e6ded2"
+ ],
+ "--site-floatnav-bg": [
+  "rgba(52, 52, 52, 0.55)",
+  "rgba(46, 41, 35, 0.55)"
+ ],
+ "--site-floatnav-border": [
+  "#e9dcbe",
+  "#6f6152"
+ ],
+ "--site-floatnav-shadow": [
+  "rgba(0, 0, 0, 0.3)",
+  "rgba(0, 0, 0, 0.6)"
+ ],
+ "--site-tocbackdrop-bg": [
+  "rgba(52, 52, 52, 0.5)",
+  "rgba(0, 0, 0, 0.65)"
+ ],
+ "--site-glossterm-underline": [
+  "#8a7d68",
+  "#b8ab97"
+ ],
+ "--site-glosstip-bg": [
+  "#343434",
+  "#2e2923"
+ ],
+ "--site-glosstip-text": [
+  "#f3f3f3",
+  "#e6ded2"
+ ],
+ "--site-glosstip-border": [
+  "#5c5445",
+  "#6f6152"
+ ],
+ "--site-blockquote-border-default": [
+  "#343434",
+  "#6b6152"
+ ],
+ "--site-poster-ground": [
+  "#1c1a17",
+  "#1c1a17"
+ ],
+ "--site-poster-scrim": [
+  "rgba(0, 0, 0, 0.28)",
+  "rgba(0, 0, 0, 0.28)"
+ ],
+ "--site-poster-title-scrim": [
+  "rgba(0, 0, 0, 0.75)",
+  "rgba(0, 0, 0, 0.75)"
+ ],
+ "--site-poster-text": [
+  "#e6ded2",
+  "#e6ded2"
+ ],
+ "--site-poster-disc": [
+  "rgba(28, 26, 23, 0.72)",
+  "rgba(28, 26, 23, 0.72)"
+ ],
+ "--site-poster-disc-hover": [
+  "rgba(28, 26, 23, 0.85)",
+  "rgba(28, 26, 23, 0.85)"
+ ],
+ "--site-poster-disc-border": [
+  "rgba(230, 222, 210, 0.3)",
+  "rgba(230, 222, 210, 0.3)"
+ ],
+ "--site-poster-play": [
+  "#d4a04a",
+  "#d4a04a"
+ ],
+ "--site-ondark-gold": [
+  "#d4a04a",
+  "#d4a04a"
+ ]
+}

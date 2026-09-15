@@ -1,76 +1,10 @@
-/* ==========================================================================
-   Dirt skin — palette expressed as CSS custom properties
-
-   Shadows the theme's 4.28.0 _dirt.scss. Each of the skin's own palette
-   variables resolves to a CSS custom property instead of a literal hex
-   value, so one compiled main.css carries both the light and dark palette —
-   `data-theme` on <html> is what picks between them, not a second stylesheet.
-   See _includes/head/custom.html for the toggle script and
-   _notes/guides/theme_internals.md for how the two used to be kept in sync
-   before this.
-
-   Sass still cannot run mix()/rgba()/yiq-contrasted() on a var(), so every
-   partial that calls those functions on one of these variables has a
-   matching @if type-of(...) == color guard, falling back to a second,
-   precomputed custom property (also defined below) when the value is no
-   longer a literal Sass color. Those precomputed dark values were pulled out
-   of the last build of assets/css/dark.css (before it was deleted) by
-   matching each consuming selector between main.css and dark.css — not
-   recomputed by hand, since Sass can't run those functions on a var() to
-   check them.
-
-   --site-* custom properties below are this repo's own palette (the evidence
-   blockquotes, the floating nav, the breadcrumb, …) — previously duplicated
-   wholesale in assets/css/dark.scss with a `body` specificity prefix to beat
-   a later stylesheet. Now they're consumed directly by the rules in
-   _includes/head/custom.html and _includes/footer/custom.html, which pick up
-   the dark value the same way every theme rule does. */
-
-/* Colors */
-$background-color: var(--mm-background-color) !default;
-$text-color: var(--mm-text-color) !default;
-$muted-text-color: var(--mm-muted-text-color) !default;
-$primary-color: var(--mm-primary-color) !default;
-$border-color: var(--mm-border-color) !default;
-$footer-background-color: var(--mm-footer-background-color) !default;
-$link-color: var(--mm-link-color) !default;
-$link-color-hover: var(--mm-link-color-hover) !default;
-$link-color-visited: var(--mm-link-color-visited) !default;
-$masthead-link-color: var(--mm-masthead-link-color) !default;
-$masthead-link-color-hover: var(--mm-masthead-link-color-hover) !default;
-$navicon-link-color-hover: var(--mm-navicon-link-color-hover) !default;
-$focus-color: var(--mm-focus-color) !default;
-$active-color: var(--mm-active-color) !default;
-$form-background-color: var(--mm-form-background-color) !default;
-$code-background-color: var(--mm-code-background-color) !default;
-$code-background-color-dark: var(--mm-code-background-color-dark) !default;
-
-/* dirt syntax highlighting (base16) — identical in both palettes by design,
-   so these stay literal hex rather than custom properties. */
-$base00: #231e18 !default;
-$base01: #302b25 !default;
-$base02: #48413a !default;
-$base03: #9d8b70 !default;
-$base04: #b4a490 !default;
-$base05: #cabcb1 !default;
-$base06: #d7c8bc !default;
-$base07: #e4d4c8 !default;
-$base08: #d35c5c !default;
-$base09: #ca7f32 !default;
-$base0a: #e0ac16 !default;
-$base0b: #b7ba53 !default;
-$base0c: #6eb958 !default;
-$base0d: #88a4d3 !default;
-$base0e: #bb90e2 !default;
-$base0f: #b49368 !default;
-
 /* Base colours. Every palette property below references one of these, so a
    colour is changed in one place and every use follows. Named by family and
    OKLab lightness x100 (paper 99 → night 22), so the name says where a step
    sits. The picks and before/after contrast behind this set are in
    _notes/designs/palette-sep15/. */
 $paper-99: #fdfcf9;
-$paper-96: #f3f3f3;
+$paper-96: {{PAPER96}};
 $sand-92: #ebe3d1;
 $sand-90: #e9dcbe;
 $bone-90: #e6ded2;
@@ -79,9 +13,9 @@ $umber-78: #c3b4a0;
 $umber-74: #b8ab97;
 $umber-67: #a1937c;
 $umber-60: #8a7d68;
-$umber-50: #6f6152;
+{{UMBER54}}$umber-50: #6f6152;
 $umber-38: #4a4238;
-$ink-33: #343434;
+$ink-33: {{INK33}};
 $night-29: #2e2923;
 $night-25: #26221c;
 $night-22: #1c1a17;
@@ -106,29 +40,7 @@ $black: #000;
    of hand-copied from a build. Contrast, recomputed for this palette (WCAG 2,
    composited over each mode's page ground):
 
-     pair (minimum 4.5, rules 3)                  light      dark
-     Body text on page                   11.2:1          10.8:1
-     Muted text (dates, meta) on page     3.1:1 (below)   5.8:1
-     Link on page                         5.7:1           8.9:1
-     Visited link on page                 5.4:1           7.7:1
-     Masthead link on page               11.2:1          13.0:1
-     Source-quote text on page            5.4:1           7.7:1
-     Key-terms label on parchment         4.7:1           7.0:1
-     Body text on parchment               9.7:1           9.8:1
-     Body text on summary card           12.1:1           9.8:1
-     Summary label on card                6.1:1           6.7:1
-     Link on summary card                 6.1:1           8.1:1
-     TOC title text on bar                6.0:1           8.9:1
-     TOC highlight text                   7.6:1           6.2:1
-     White on primary fill               12.4:1           6.0:1
-     Glossary tip text                   11.2:1          10.8:1
-     Code text on code fill              12.1:1           9.8:1
-     Focus ring on page                  11.2:1           7.4:1
-     Quote gold rule on page              3.5:1           7.4:1
-     Gloss rule on page                   5.6:1           6.1:1
-     Glossary underline on page           3.6:1           7.7:1
-     Default blockquote rule on page     11.2:1           2.9:1 (below)
-     Link hover on page                   7.9:1          11.4:1
+{{CONTRAST}}
 
    Re-run _notes/designs/palette-sep15/scripts/emit_sass.py after changing
    a base or a mapping and update this table. */
@@ -138,7 +50,7 @@ $black: #000;
 @mixin site-light-palette {
   --mm-background-color: #{$paper-96};
   --mm-text-color: #{$ink-33};
-  --mm-muted-text-color: #8e8b82;
+  --mm-muted-text-color: {{MUTED}};
   --mm-primary-color: #{$ink-33};
   --mm-border-color: #{$sand-90};
   --mm-footer-background-color: #{$sand-90};
@@ -166,7 +78,7 @@ $black: #000;
   --mm-primary-color-alpha-25: #{rgba($ink-33, 0.25)};
   --mm-text-color-alpha-06: #{rgba($ink-33, 0.06)};
   --mm-primary-color-alpha-70: #{rgba($ink-33, 0.7)};
-  --mm-muted-text-color-alpha-50: rgba(142, 139, 130, 0.5);
+  --mm-muted-text-color-alpha-50: {{MUTED50}};
 
   /* yiq-contrasted() picks, precomputed: text on accent fills, on a muted
      fill (pager hover), and on the TOC highlight. */
@@ -335,47 +247,4 @@ $black: #000;
   --site-glosstip-text: #{$bone-90};
   --site-glosstip-border: #{$umber-50};
   --site-blockquote-border-default: #6b6152; // 2.9:1, under the 3:1 non-text minimum; kept faint by choice (palette decision 5A)
-}
-
-/* Explicit choice, via [data-theme] on <html> — see the toggle script in
-   _includes/head/custom.html. */
-:root[data-theme="dark"] {
-  @include site-dark-palette;
-}
-
-/* No-JS / no-explicit-choice path: follow the OS. An explicit light choice
-   still beats a dark OS, because :not([data-theme="light"]) excludes it. */
-@media (prefers-color-scheme: dark) {
-  :root:not([data-theme="light"]) {
-    @include site-dark-palette;
-  }
-}
-
-/* color-scheme drives UA form controls and scrollbars. Keyed to the same
-   attribute as the palette, in the same three-block shape, so they follow
-   the reader's choice rather than the system. */
-:root {
-  color-scheme: light;
-}
-
-:root[data-theme="dark"] {
-  color-scheme: dark;
-}
-
-@media (prefers-color-scheme: dark) {
-  :root:not([data-theme="light"]) {
-    color-scheme: dark;
-  }
-}
-
-/* Print always uses the light palette, whatever the stored choice or system
-   preference. All three selectors carry it so it wins whichever would
-   otherwise apply: same specificity as each, and later in source order. */
-@media print {
-  :root,
-  :root[data-theme="dark"],
-  :root:not([data-theme="light"]) {
-    color-scheme: light;
-    @include site-light-palette;
-  }
 }
