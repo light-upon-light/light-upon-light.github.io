@@ -1943,70 +1943,50 @@
     opacity: 1;
   }
 
-  /* $large and up: anchor the column to the sidebar TOC's own right edge
-     instead of the plain `right: 1rem` above, which pins it to the
-     viewport edge -- on anything wider than the page's own max-width that
-     leaves it stranded in empty margin, far from the TOC it operates on.
-     Only on pages that have a TOC at all (see `.no-toc` below); home and
-     about have no `.sidebar__right` for this to attach to, so they keep
-     the plain viewport-edge position at every width.
+  /* Dock under the sidebar TOC: from $large up the buttons (five -- the
+     drawer toggle is hidden) become one row pinned to the bottom of the TOC
+     column, right-aligned with the TOC, and the sticky TOC's max-height
+     gives up that row. A column beside the TOC collided with it on laptop
+     widths, where #main fills the viewport and there is no margin to sit in.
 
-     This used to read `sourceToc.getBoundingClientRect().right` and
-     `nav.getBoundingClientRect().width` in JS on load and on every
-     `resize` (site.js). Both are pure functions of the page's own
-     max-width and the theme's fixed breakpoint variables, not anything
-     that needs measuring at runtime:
-
-     - `.sidebar__right`'s right edge coincides with #main's right edge
-       minus #main's own 1em padding-inline -- the theme's `.page`
-       reserves exactly `$right-sidebar-width(-narrow)` of end padding and
-       the sidebar sits `position: absolute; inset-inline-end: 0` with a
-       matching negative end margin, so the reserved width and the
-       negative margin cancel and the sidebar's rendered edge lands flush
-       with `.page`'s (and so #main's) own outer edge regardless of which
-       sidebar-width variant is active. (Checked against the compiled
-       theme CSS, not assumed.)
-     - #main itself is `max-width: 100%` below $x-large (1280px) --
-       i.e. its right edge tracks the viewport -- and `max-width: 1280px`,
-       centred, above it. `min(100vw, 50vw + 640px)` is exactly that: the
-       two expressions are equal at 1280px and the smaller one is always
-       the one in effect on either side of it, so this needs no separate
-       breakpoint for the x-large transition.
-
-     `- 1rem` is #main's own padding-inline. `+ 0.75rem` is the 12px gap
-     the old JS put between the TOC edge and the button column.
-
-     Clamped with an outer min() to `100vw - 6.6rem` so it can never
-     overflow: on the narrower end of $large (roughly 64em--80em) #main
-     still fills the viewport, so the sidebar's edge is close enough to
-     100vw that TOC-edge-plus-gap would push part of the column off-screen
-     -- the clamp backs the column off to stay on-screen instead, and at
-     that width the sidebar is already near the edge too, so it still
-     reads as attached to it. 6.6rem is the column's own width: two
-     2.75rem button columns (`grid-auto-flow: column` over `repeat(3,
-     auto)` rows, six buttons) plus one 0.6rem gap between them, plus the
-     0.5rem edge margin the old JS also kept clear of the viewport edge.
-
-     rem is safe here (not scaled by the reader's large-text toggle): that
-     toggle only bumps `.page__content`'s own font-size (see further down),
-     and #floating-nav sits outside it, in body. */
+     --toc-w is .toc's own width (sidebar width less its 1rem start padding);
+     the buttons shrink to fit five across it, capped at the usual 2.75rem.
+     The right edge is #main's (min(100%, 50% + 640px) -- % of a fixed box
+     is the viewport without its scrollbar) less #main's 1rem padding, plus
+     any --toc-grow. Pages without a TOC keep the plain corner button. */
   @media (min-width: 64em) {
+    :root {
+      --toc-w: calc(200px - 1rem);
+      --fn-gap: 0.4rem;
+      --fn-size: #{"min(2.75rem, calc((var(--toc-w) - 4 * var(--fn-gap)) / 5))"};
+    }
+
     #floating-nav:not(.no-toc) {
-      left: #{"min(min(100vw, 50vw + 640px) - 0.25rem + var(--toc-grow, 0px), 100vw - 6.6rem)"};
-      right: auto;
+      left: auto;
+      right: #{"calc(100% - min(100%, 50% + 640px) + 1rem - var(--toc-grow, 0px))"};
+      grid-template-rows: auto;
+      gap: var(--fn-gap);
+    }
+
+    #floating-nav:not(.no-toc) button {
+      width: var(--fn-size);
+      height: var(--fn-size);
+    }
+
+    /* top: 2rem (the theme's sticky offset), then a 1rem gap, the row,
+       and the row's own 1rem bottom offset */
+    .page__content .sidebar__right.sticky {
+      max-height: calc(100vh - 4rem - var(--fn-size) - env(safe-area-inset-bottom, 0px));
     }
   }
 
   /* Widen the sidebar TOC by up to 40px, rightwards only: its left edge
      (and so the text column) stays put, and the growth comes out of the
-     page margin beyond #main's 1280px. The TOC's right edge and the
-     floating-nav column move together, so --toc-grow is capped at the
-     margin left over once the column still fits on screen (the 6.35rem is
-     the 6.6rem clamp above less its 0.25rem offset) -- no growth below
-     roughly 1280px + 2 * 6.35rem, the full 40px from about 1560px. */
+     page margin beyond #main's 1280px, keeping 1rem clear of the edge. */
   @media (min-width: 80em) {
     :root {
-      --toc-grow: #{"clamp(0px, 50vw - 640px - 6.35rem, 40px)"};
+      --toc-grow: #{"clamp(0px, 50vw - 640px - 1rem, 40px)"};
+      --toc-w: calc(300px + var(--toc-grow) - 1rem);
     }
 
     .page__content .sidebar__right {
