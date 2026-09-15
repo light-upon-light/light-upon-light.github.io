@@ -1,0 +1,1166 @@
+{
+ "base": {
+  "paper-99": [
+   "Warm neutral",
+   "#fdfcf9",
+   "kept (summary card fill)"
+  ],
+  "paper-96": [
+   "Warm neutral",
+   "#f4f2ee",
+   "NEW: #f3f3f3 page ground, warmed at the same lightness"
+  ],
+  "sand-92": [
+   "Warm neutral",
+   "#ebe3d1",
+   "kept (key-terms parchment)"
+  ],
+  "sand-90": [
+   "Warm neutral",
+   "#e9dcbe",
+   "kept (light border, footer)"
+  ],
+  "bone-90": [
+   "Warm neutral",
+   "#e6ded2",
+   "kept (dark masthead, icons)"
+  ],
+  "bone-84": [
+   "Warm neutral",
+   "#d3cbba",
+   "kept (dark body text)"
+  ],
+  "umber-78": [
+   "Warm neutral",
+   "#c3b4a0",
+   "kept (light breadcrumb separator)"
+  ],
+  "umber-74": [
+   "Warm neutral",
+   "#b8ab97",
+   "kept (dark source text)"
+  ],
+  "umber-67": [
+   "Warm neutral",
+   "#a1937c",
+   "kept (light source rule)"
+  ],
+  "umber-60": [
+   "Warm neutral",
+   "#8a7d68",
+   "kept (already used in both modes)"
+  ],
+  "umber-50": [
+   "Warm neutral",
+   "#6f6152",
+   "kept (light source text)"
+  ],
+  "umber-38": [
+   "Warm neutral",
+   "#4a4238",
+   "kept (dark border)"
+  ],
+  "ink-33": [
+   "Warm neutral",
+   "#3a3631",
+   "NEW: #343434 ink, warmed at the same lightness"
+  ],
+  "night-29": [
+   "Warm neutral",
+   "#2e2923",
+   "kept (dark TOC title bar)"
+  ],
+  "night-25": [
+   "Warm neutral",
+   "#26221c",
+   "kept (dark form and code fill)"
+  ],
+  "night-22": [
+   "Warm neutral",
+   "#1c1a17",
+   "kept (dark page ground)"
+  ],
+  "gold-tint": [
+   "Gold",
+   "#dcc8a4",
+   "kept (light TOC highlight)"
+  ],
+  "gold": [
+   "Gold",
+   "#a8792a",
+   "kept (light quote gold)"
+  ],
+  "gold-bright": [
+   "Gold",
+   "#d4a04a",
+   "kept (dark quote gold)"
+  ],
+  "gold-shade": [
+   "Gold",
+   "#785d31",
+   "kept (dark TOC highlight)"
+  ],
+  "sienna": [
+   "Sienna",
+   "#8a5320",
+   "kept (light link)"
+  ],
+  "sienna-deep": [
+   "Sienna",
+   "#6e3f14",
+   "kept (light link hover)"
+  ],
+  "wheat": [
+   "Sienna",
+   "#d9b483",
+   "kept (dark link)"
+  ],
+  "wheat-pale": [
+   "Sienna",
+   "#e8cea3",
+   "kept (dark link hover)"
+  ],
+  "verdigris": [
+   "Verdigris",
+   "#2e6b63",
+   "kept (light gloss rule)"
+  ],
+  "verdigris-bright": [
+   "Verdigris",
+   "#4fa89c",
+   "kept (dark gloss rule)"
+  ],
+  "white": [
+   "Pure",
+   "#ffffff",
+   "text on accent fills"
+  ],
+  "black": [
+   "Pure",
+   "#000000",
+   "shadows and scrims"
+  ]
+ },
+ "rows": [
+  {
+   "token": "--mm-background-color",
+   "lo": "#f3f3f3",
+   "ln": "#f4f2ee",
+   "lref": "paper-96",
+   "ld": 0.006292017491646756,
+   "do": "#1c1a17",
+   "dn": "#1c1a17",
+   "dref": "night-22",
+   "dd": 0.0
+  },
+  {
+   "token": "--mm-text-color",
+   "lo": "#343434",
+   "ln": "#3a3631",
+   "lref": "ink-33",
+   "ld": 0.014509120844042671,
+   "do": "#d3cbba",
+   "dn": "#d3cbba",
+   "dref": "bone-84",
+   "dd": 0.0
+  },
+  {
+   "token": "--mm-muted-text-color",
+   "lo": "#8e8b82",
+   "ln": "#6f6152",
+   "lref": "umber-50",
+   "ld": 0.13610380117654514,
+   "do": "#a2988a",
+   "dn": "#a1937c",
+   "dref": "umber-67",
+   "dd": 0.02024297739677622
+  },
+  {
+   "token": "--mm-primary-color",
+   "lo": "#343434",
+   "ln": "#3a3631",
+   "lref": "ink-33",
+   "ld": 0.014509120844042671,
+   "do": "#6f5f48",
+   "dn": "#6f6152",
+   "dref": "umber-50",
+   "dd": 0.013830136118125636
+  },
+  {
+   "token": "--mm-border-color",
+   "lo": "#e9dcbe",
+   "ln": "#e9dcbe",
+   "lref": "sand-90",
+   "ld": 0.0,
+   "do": "#4a4238",
+   "dn": "#4a4238",
+   "dref": "umber-38",
+   "dd": 0.0
+  },
+  {
+   "token": "--mm-footer-background-color",
+   "lo": "#e9dcbe",
+   "ln": "#e9dcbe",
+   "lref": "sand-90",
+   "ld": 0.0,
+   "do": "#2a251e",
+   "dn": "#26221c",
+   "dref": "night-25",
+   "dd": 0.013482270813459271
+  },
+  {
+   "token": "--mm-link-color",
+   "lo": "#8a5320",
+   "ln": "#8a5320",
+   "lref": "sienna",
+   "ld": 0.0,
+   "do": "#d9b483",
+   "dn": "#d9b483",
+   "dref": "wheat",
+   "dd": 0.0
+  },
+  {
+   "token": "--mm-link-color-hover",
+   "lo": "#6e3f14",
+   "ln": "#6e3f14",
+   "lref": "sienna-deep",
+   "ld": 0.0,
+   "do": "#e8cea3",
+   "dn": "#e8cea3",
+   "dref": "wheat-pale",
+   "dd": 0.0
+  },
+  {
+   "token": "--mm-link-color-visited",
+   "lo": "#6b5a48",
+   "ln": "#6f6152",
+   "lref": "umber-50",
+   "ld": 0.02324369028222872,
+   "do": "#b7a58c",
+   "dn": "#b8ab97",
+   "dref": "umber-74",
+   "dd": 0.018372871604744375
+  },
+  {
+   "token": "--mm-masthead-link-color",
+   "lo": "#343434",
+   "ln": "#3a3631",
+   "lref": "ink-33",
+   "ld": 0.014509120844042671,
+   "do": "#e6ded2",
+   "dn": "#e6ded2",
+   "dref": "bone-90",
+   "dd": 0.0
+  },
+  {
+   "token": "--mm-masthead-link-color-hover",
+   "lo": "#343434",
+   "ln": "#3a3631",
+   "lref": "ink-33",
+   "ld": 0.014509120844042671,
+   "do": "#ece6dd",
+   "dn": "#e6ded2",
+   "dref": "bone-90",
+   "dd": 0.023968266483875504
+  },
+  {
+   "token": "--mm-navicon-link-color-hover",
+   "lo": "#d6d6d6",
+   "ln": "#e9dcbe",
+   "lref": "sand-90",
+   "ld": 0.04721069121131051,
+   "do": "#494845",
+   "dn": "#4a4238",
+   "dref": "umber-38",
+   "dd": 0.023075134112270173
+  },
+  {
+   "token": "--mm-focus-color",
+   "lo": "#343434",
+   "ln": "#3a3631",
+   "lref": "ink-33",
+   "ld": 0.014509120844042671,
+   "do": "#d4a04a",
+   "dn": "#d4a04a",
+   "dref": "gold-bright",
+   "dd": 0.0
+  },
+  {
+   "token": "--mm-active-color",
+   "lo": "#dcc8a4",
+   "ln": "#dcc8a4",
+   "lref": "gold-tint",
+   "ld": 0.0,
+   "do": "#785d31",
+   "dn": "#785d31",
+   "dref": "gold-shade",
+   "dd": 0.0
+  },
+  {
+   "token": "--mm-form-background-color",
+   "lo": "#f2f3f3",
+   "ln": "#f4f2ee",
+   "lref": "paper-96",
+   "ld": 0.00648804541249637,
+   "do": "#26221c",
+   "dn": "#26221c",
+   "dref": "night-25",
+   "dd": 0.0
+  },
+  {
+   "token": "--mm-code-background-color",
+   "lo": "#fafafa",
+   "ln": "#fdfcf9",
+   "lref": "paper-99",
+   "ld": 0.0071820229191755895,
+   "do": "#26221c",
+   "dn": "#26221c",
+   "dref": "night-25",
+   "dd": 0.0
+  },
+  {
+   "token": "--mm-code-background-color-dark",
+   "lo": "#bdc1c4",
+   "ln": "#c3b4a0",
+   "lref": "umber-78",
+   "ld": 0.04979119536250449,
+   "do": "#16140f",
+   "dn": "#1c1a17",
+   "dref": "night-22",
+   "dd": 0.02746683275490245
+  },
+  {
+   "token": "--mm-border-color-h00025",
+   "lo": "#afa58f",
+   "ln": "#afa58e",
+   "lref": "darken(sand-90, 25%)",
+   "ld": 0.0008260216878472143,
+   "do": "#38322a",
+   "dn": "#38322a",
+   "dref": "darken(umber-38, 25%)",
+   "dd": 0.0019974939193415087
+  },
+  {
+   "token": "--mm-primary-color-h00025",
+   "lo": "#272727",
+   "ln": "#2c2825",
+   "lref": "darken(ink-33, 25%)",
+   "ld": 0.011368576054768103,
+   "do": "#534736",
+   "dn": "#53493e",
+   "dref": "darken(umber-50, 25%)",
+   "dd": 0.011117592848264527
+  },
+  {
+   "token": "--mm-primary-color-hover",
+   "lo": "#2a2a2a",
+   "ln": "#2e2b27",
+   "lref": "darken(ink-33, 20%)",
+   "ld": 0.010923202988617816,
+   "do": "#594c3a",
+   "dn": "#594e42",
+   "dref": "darken(umber-50, 20%)",
+   "dd": 0.010934004097698598
+  },
+  {
+   "token": "--mm-primary-color-h00010",
+   "lo": "#2f2f2f",
+   "ln": "#34312c",
+   "lref": "darken(ink-33, 10%)",
+   "ld": 0.012721515775453843,
+   "do": "#645641",
+   "dn": "#64574a",
+   "dref": "darken(umber-50, 10%)",
+   "dd": 0.01238528095875871
+  },
+  {
+   "token": "--mm-primary-color-h00050",
+   "lo": "#1a1a1a",
+   "ln": "#1d1b18",
+   "lref": "darken(ink-33, 50%)",
+   "ld": 0.008016182024365565,
+   "do": "#383024",
+   "dn": "#383029",
+   "dref": "darken(umber-50, 50%)",
+   "dd": 0.00784747762869246
+  },
+  {
+   "token": "--mm-primary-color-alpha-25",
+   "lo": "rgba(52, 52, 52, 0.25)",
+   "ln": "rgba(58, 54, 49, 0.25)",
+   "lref": "ink-33 @ 25%",
+   "ld": 0.006520232625639626,
+   "do": "rgba(111, 95, 72, 0.25)",
+   "dn": "rgba(111, 97, 82, 0.25)",
+   "dref": "umber-50 @ 25%",
+   "dd": 0.0040734041984742085
+  },
+  {
+   "token": "--mm-text-color-alpha-06",
+   "lo": "rgba(52, 52, 52, 0.06)",
+   "ln": "rgba(58, 54, 49, 0.06)",
+   "lref": "ink-33 @ 6%",
+   "ld": 0.006238044063494733,
+   "do": "rgba(211, 203, 186, 0.06)",
+   "dn": "rgba(211, 203, 186, 0.06)",
+   "dref": "bone-84 @ 6%",
+   "dd": 0.0
+  },
+  {
+   "token": "--mm-primary-color-alpha-70",
+   "lo": "rgba(52, 52, 52, 0.7)",
+   "ln": "rgba(58, 54, 49, 0.7)",
+   "lref": "ink-33 @ 70%",
+   "ld": 0.009944483054063683,
+   "do": "rgba(111, 95, 72, 0.7)",
+   "dn": "rgba(111, 97, 82, 0.7)",
+   "dref": "umber-50 @ 70%",
+   "dd": 0.01019673201633214
+  },
+  {
+   "token": "--mm-muted-text-color-alpha-50",
+   "lo": "rgba(142, 139, 130, 0.5)",
+   "ln": "rgba(111, 97, 82, 0.5)",
+   "lref": "umber-50 @ 50%",
+   "ld": 0.06502877342073195,
+   "do": "rgba(162, 152, 138, 0.5)",
+   "dn": "rgba(161, 147, 124, 0.5)",
+   "dref": "umber-67 @ 50%",
+   "dd": 0.011164952340199458
+  },
+  {
+   "token": "--mm-on-accent",
+   "lo": "#ffffff",
+   "ln": "#ffffff",
+   "lref": "white",
+   "ld": 0.0,
+   "do": "#ffffff",
+   "dn": "#ffffff",
+   "dref": "white",
+   "dd": 0.0
+  },
+  {
+   "token": "--mm-muted-text-color-contrast",
+   "lo": "#ffffff",
+   "ln": "#ffffff",
+   "lref": "white",
+   "ld": 0.0,
+   "do": "#ffffff",
+   "dn": "#ffffff",
+   "dref": "white",
+   "dd": 0.0
+  },
+  {
+   "token": "--mm-active-color-contrast",
+   "lo": "#3d4144",
+   "ln": "#3a3631",
+   "lref": "ink-33",
+   "ld": 0.04128804950924688,
+   "do": "#ffffff",
+   "dn": "#ffffff",
+   "dref": "white",
+   "dd": 0.0
+  },
+  {
+   "token": "--site-quote-gold",
+   "lo": "#a8792a",
+   "ln": "#a8792a",
+   "lref": "gold",
+   "ld": 0.0,
+   "do": "#d4a04a",
+   "dn": "#d4a04a",
+   "dref": "gold-bright",
+   "dd": 0.0
+  },
+  {
+   "token": "--site-src-text",
+   "lo": "#6f6152",
+   "ln": "#6f6152",
+   "lref": "umber-50",
+   "ld": 0.0,
+   "do": "#b8ab97",
+   "dn": "#b8ab97",
+   "dref": "umber-74",
+   "dd": 0.0
+  },
+  {
+   "token": "--site-src-border",
+   "lo": "#a1937c",
+   "ln": "#a1937c",
+   "lref": "umber-67",
+   "ld": 0.0,
+   "do": "#8a7d68",
+   "dn": "#8a7d68",
+   "dref": "umber-60",
+   "dd": 0.0
+  },
+  {
+   "token": "--site-gloss-border",
+   "lo": "#2e6b63",
+   "ln": "#2e6b63",
+   "lref": "verdigris",
+   "ld": 0.0,
+   "do": "#4fa89c",
+   "dn": "#4fa89c",
+   "dref": "verdigris-bright",
+   "dd": 0.0
+  },
+  {
+   "token": "--site-gloss-bg",
+   "lo": "rgba(46, 107, 99, 0.05)",
+   "ln": "rgba(46, 107, 99, 0.05)",
+   "lref": "verdigris @ 5%",
+   "ld": 0.006014700781217293,
+   "do": "rgba(79, 168, 156, 0.08)",
+   "dn": "rgba(79, 168, 156, 0.08)",
+   "dref": "verdigris-bright @ 8%",
+   "dd": 0.0
+  },
+  {
+   "token": "--site-glosskey-bg",
+   "lo": "#ebe3d1",
+   "ln": "#ebe3d1",
+   "lref": "sand-92",
+   "ld": 0.0,
+   "do": "#27231e",
+   "dn": "#26221c",
+   "dref": "night-25",
+   "dd": 0.004847820511653496
+  },
+  {
+   "token": "--site-toctitle-bg",
+   "lo": "#dcc8a4",
+   "ln": "#dcc8a4",
+   "lref": "gold-tint",
+   "ld": 0.0,
+   "do": "#2e2923",
+   "dn": "#2e2923",
+   "dref": "night-29",
+   "dd": 0.0
+  },
+  {
+   "token": "--site-toctitle-text",
+   "lo": "#4a3f33",
+   "ln": "#4a4238",
+   "lref": "umber-38",
+   "ld": 0.010143384062758143,
+   "do": "#d3cbba",
+   "dn": "#d3cbba",
+   "dref": "bone-84",
+   "dd": 0.0
+  },
+  {
+   "token": "--site-tldr-fill",
+   "lo": "#fdfcf9",
+   "ln": "#fdfcf9",
+   "lref": "paper-99",
+   "ld": 0.0,
+   "do": "#25221d",
+   "dn": "#26221c",
+   "dref": "night-25",
+   "dd": 0.002475871862316619
+  },
+  {
+   "token": "--site-tldr-line",
+   "lo": "#ebe4d6",
+   "ln": "#ebe3d1",
+   "lref": "sand-92",
+   "ld": 0.006311082777678142,
+   "do": "#3a342b",
+   "dn": "#4a4238",
+   "dref": "umber-38",
+   "dd": 0.05571244598957279
+  },
+  {
+   "token": "--site-tldr-label",
+   "lo": "#8a5320",
+   "ln": "#8a5320",
+   "lref": "sienna",
+   "ld": 0.0,
+   "do": "#d4a04a",
+   "dn": "#d4a04a",
+   "dref": "gold-bright",
+   "dd": 0.0
+  },
+  {
+   "token": "--site-tldr-edge",
+   "lo": "#a8792a",
+   "ln": "#a8792a",
+   "lref": "gold",
+   "ld": 0.0,
+   "do": "#d4a04a",
+   "dn": "#d4a04a",
+   "dref": "gold-bright",
+   "dd": 0.0
+  },
+  {
+   "token": "--site-tldr-shadow",
+   "lo": "rgba(90, 65, 30, 0.1)",
+   "ln": "rgba(111, 97, 82, 0.12)",
+   "lref": "umber-50 @ 12%",
+   "ld": 0.0030969684523809793,
+   "do": "rgba(0, 0, 0, 0.45)",
+   "dn": "rgba(0, 0, 0, 0.45)",
+   "dref": "black @ 45%",
+   "dd": 0.0
+  },
+  {
+   "token": "--site-breadcrumb-sep",
+   "lo": "#c3b4a0",
+   "ln": "#c3b4a0",
+   "lref": "umber-78",
+   "ld": 0.0,
+   "do": "#6b6152",
+   "dn": "#6f6152",
+   "dref": "umber-50",
+   "dd": 0.006595415895136599
+  },
+  {
+   "token": "--site-return-hover-bg",
+   "lo": "rgba(161, 147, 124, 0.14)",
+   "ln": "rgba(161, 147, 124, 0.14)",
+   "lref": "umber-67 @ 14%",
+   "ld": 0.005444690347150025,
+   "do": "rgba(138, 125, 104, 0.18)",
+   "dn": "rgba(138, 125, 104, 0.18)",
+   "dref": "umber-60 @ 18%",
+   "dd": 0.0
+  },
+  {
+   "token": "--site-floatnav-icon",
+   "lo": "#f3f3f3",
+   "ln": "#f4f2ee",
+   "lref": "paper-96",
+   "ld": 0.006292017491646756,
+   "do": "#e6ded2",
+   "dn": "#e6ded2",
+   "dref": "bone-90",
+   "dd": 0.0
+  },
+  {
+   "token": "--site-floatnav-bg",
+   "lo": "rgba(52, 52, 52, 0.55)",
+   "ln": "rgba(58, 54, 49, 0.55)",
+   "lref": "ink-33 @ 55%",
+   "ld": 0.008396619328797372,
+   "do": "rgba(47, 42, 35, 0.55)",
+   "dn": "rgba(46, 41, 35, 0.55)",
+   "dref": "night-29 @ 55%",
+   "dd": 0.0023227333922450195
+  },
+  {
+   "token": "--site-floatnav-border",
+   "lo": "#e9dcbe",
+   "ln": "#e9dcbe",
+   "lref": "sand-90",
+   "ld": 0.0,
+   "do": "#6f5f48",
+   "dn": "#6f6152",
+   "dref": "umber-50",
+   "dd": 0.013830136118125636
+  },
+  {
+   "token": "--site-floatnav-shadow",
+   "lo": "rgba(0, 0, 0, 0.3)",
+   "ln": "rgba(0, 0, 0, 0.3)",
+   "lref": "black @ 30%",
+   "ld": 0.004708507722674577,
+   "do": "rgba(0, 0, 0, 0.6)",
+   "dn": "rgba(0, 0, 0, 0.6)",
+   "dref": "black @ 60%",
+   "dd": 0.0
+  },
+  {
+   "token": "--site-tocbackdrop-bg",
+   "lo": "rgba(52, 52, 52, 0.5)",
+   "ln": "rgba(58, 54, 49, 0.5)",
+   "lref": "ink-33 @ 50%",
+   "ld": 0.007969061039487758,
+   "do": "rgba(0, 0, 0, 0.65)",
+   "dn": "rgba(0, 0, 0, 0.65)",
+   "dref": "black @ 65%",
+   "dd": 0.0
+  },
+  {
+   "token": "--site-glossterm-underline",
+   "lo": "#8a7d68",
+   "ln": "#8a7d68",
+   "lref": "umber-60",
+   "ld": 0.0,
+   "do": "#b7a58c",
+   "dn": "#b8ab97",
+   "dref": "umber-74",
+   "dd": 0.018372871604744375
+  },
+  {
+   "token": "--site-glosstip-bg",
+   "lo": "#343434",
+   "ln": "#3a3631",
+   "lref": "ink-33",
+   "ld": 0.014509120844042671,
+   "do": "#2f2a22",
+   "dn": "#2e2923",
+   "dref": "night-29",
+   "dd": 0.004838447975667763
+  },
+  {
+   "token": "--site-glosstip-text",
+   "lo": "#f3f3f3",
+   "ln": "#f4f2ee",
+   "lref": "paper-96",
+   "ld": 0.006292017491646756,
+   "do": "#e6ded2",
+   "dn": "#e6ded2",
+   "dref": "bone-90",
+   "dd": 0.0
+  },
+  {
+   "token": "--site-glosstip-border",
+   "lo": "#5c5445",
+   "ln": "#6f6152",
+   "lref": "umber-50",
+   "ld": 0.05308464200570992,
+   "do": "#6f5f48",
+   "dn": "#6f6152",
+   "dref": "umber-50",
+   "dd": 0.013830136118125636
+  },
+  {
+   "token": "--site-blockquote-border-default",
+   "lo": "#343434",
+   "ln": "#3a3631",
+   "lref": "ink-33",
+   "ld": 0.014509120844042671,
+   "do": "#6b6152",
+   "dn": "#8a7d68",
+   "dref": "umber-60",
+   "dd": 0.09834123734122367
+  },
+  {
+   "token": "--site-poster-ground",
+   "lo": "#1e1b18",
+   "ln": "#1c1a17",
+   "lref": "night-22",
+   "ld": 0.005726098925318108,
+   "do": null,
+   "dn": null,
+   "dref": null,
+   "dd": 0,
+   "invariant": true
+  },
+  {
+   "token": "--site-poster-scrim",
+   "lo": "rgba(0, 0, 0, 0.28)",
+   "ln": "rgba(0, 0, 0, 0.28)",
+   "lref": "black @ 28%",
+   "ld": 0.004287968742858202,
+   "do": null,
+   "dn": null,
+   "dref": null,
+   "dd": 0,
+   "invariant": true
+  },
+  {
+   "token": "--site-poster-title-scrim",
+   "lo": "rgba(0, 0, 0, 0.75)",
+   "ln": "rgba(0, 0, 0, 0.75)",
+   "lref": "black @ 75%",
+   "ld": 0.0020393804479390764,
+   "do": null,
+   "dn": null,
+   "dref": null,
+   "dd": 0,
+   "invariant": true
+  },
+  {
+   "token": "--site-poster-text",
+   "lo": "#f2ece1",
+   "ln": "#e6ded2",
+   "lref": "bone-90",
+   "ld": 0.04120573628914447,
+   "do": null,
+   "dn": null,
+   "dref": null,
+   "dd": 0,
+   "invariant": true
+  },
+  {
+   "token": "--site-poster-disc",
+   "lo": "rgba(22, 19, 16, 0.72)",
+   "ln": "rgba(28, 26, 23, 0.72)",
+   "lref": "night-22 @ 72%",
+   "ld": 0.019782239798485892,
+   "do": null,
+   "dn": null,
+   "dref": null,
+   "dd": 0,
+   "invariant": true
+  },
+  {
+   "token": "--site-poster-disc-hover",
+   "lo": "rgba(22, 19, 16, 0.85)",
+   "ln": "rgba(28, 26, 23, 0.85)",
+   "lref": "night-22 @ 85%",
+   "ld": 0.024405893830725226,
+   "do": null,
+   "dn": null,
+   "dref": null,
+   "dd": 0,
+   "invariant": true
+  },
+  {
+   "token": "--site-poster-disc-border",
+   "lo": "rgba(242, 236, 225, 0.3)",
+   "ln": "rgba(230, 222, 210, 0.3)",
+   "lref": "bone-90 @ 30%",
+   "ld": 0.017888537406680713,
+   "do": null,
+   "dn": null,
+   "dref": null,
+   "dd": 0,
+   "invariant": true
+  },
+  {
+   "token": "--site-poster-play",
+   "lo": "#c9973a",
+   "ln": "#d4a04a",
+   "lref": "gold-bright",
+   "ld": 0.03157394025834119,
+   "do": null,
+   "dn": null,
+   "dref": null,
+   "dd": 0,
+   "invariant": true
+  },
+  {
+   "token": "--site-ondark-gold",
+   "lo": "#d4a04a",
+   "ln": "#d4a04a",
+   "lref": "gold-bright",
+   "ld": 0.0,
+   "do": null,
+   "dn": null,
+   "dref": null,
+   "dd": 0,
+   "invariant": true
+  }
+ ],
+ "checks": [
+  {
+   "name": "Body text on page",
+   "mode": "Light",
+   "need": 4.5,
+   "before": 11.219723985386873,
+   "after": 10.720824581114666
+  },
+  {
+   "name": "Body text on page",
+   "mode": "Dark",
+   "need": 4.5,
+   "before": 10.76571047246818,
+   "after": 10.76571047246818
+  },
+  {
+   "name": "Muted text (dates, meta) on page",
+   "mode": "Light",
+   "need": 4.5,
+   "before": 3.0695398587439486,
+   "after": 5.354653445041591
+  },
+  {
+   "name": "Muted text (dates, meta) on page",
+   "mode": "Dark",
+   "need": 4.5,
+   "before": 6.113710971163907,
+   "after": 5.77091086475044
+  },
+  {
+   "name": "Link on page",
+   "mode": "Light",
+   "need": 4.5,
+   "before": 5.6682959268021476,
+   "after": 5.625374655945075
+  },
+  {
+   "name": "Link on page",
+   "mode": "Dark",
+   "need": 4.5,
+   "before": 8.934713702959233,
+   "after": 8.934713702959233
+  },
+  {
+   "name": "Visited link on page",
+   "mode": "Light",
+   "need": 4.5,
+   "before": 5.949131624238822,
+   "after": 5.354653445041591
+  },
+  {
+   "name": "Visited link on page",
+   "mode": "Dark",
+   "need": 4.5,
+   "before": 7.254369489805994,
+   "after": 7.69744915124956
+  },
+  {
+   "name": "Masthead link on page",
+   "mode": "Light",
+   "need": 4.5,
+   "before": 11.219723985386873,
+   "after": 10.720824581114666
+  },
+  {
+   "name": "Masthead link on page",
+   "mode": "Dark",
+   "need": 4.5,
+   "before": 13.016674053851892,
+   "after": 13.016674053851892
+  },
+  {
+   "name": "Source-quote text on page",
+   "mode": "Light",
+   "need": 4.5,
+   "before": 5.395509129314548,
+   "after": 5.354653445041591
+  },
+  {
+   "name": "Source-quote text on page",
+   "mode": "Dark",
+   "need": 4.5,
+   "before": 7.69744915124956,
+   "after": 7.69744915124956
+  },
+  {
+   "name": "Key-terms label on parchment",
+   "mode": "Light",
+   "need": 4.5,
+   "before": 4.687156801322609,
+   "after": 4.687156801322609
+  },
+  {
+   "name": "Key-terms label on parchment",
+   "mode": "Dark",
+   "need": 4.5,
+   "before": 6.919814562050953,
+   "after": 7.010660077060033
+  },
+  {
+   "name": "Body text on parchment",
+   "mode": "Light",
+   "need": 4.5,
+   "before": 9.746736466693626,
+   "after": 9.384395529404408
+  },
+  {
+   "name": "Body text on parchment",
+   "mode": "Dark",
+   "need": 4.5,
+   "before": 9.67810486752178,
+   "after": 9.80516209038778
+  },
+  {
+   "name": "Body text on summary card",
+   "mode": "Light",
+   "need": 4.5,
+   "before": 12.13460297540719,
+   "after": 11.68349162846902
+  },
+  {
+   "name": "Body text on summary card",
+   "mode": "Dark",
+   "need": 4.5,
+   "before": 9.825710778279056,
+   "after": 9.80516209038778
+  },
+  {
+   "name": "Summary label on card",
+   "mode": "Light",
+   "need": 4.5,
+   "before": 6.130500243004872,
+   "after": 6.130500243004872
+  },
+  {
+   "name": "Summary label on card",
+   "mode": "Dark",
+   "need": 4.5,
+   "before": 6.7359714651053215,
+   "after": 6.721884405308388
+  },
+  {
+   "name": "Link on summary card",
+   "mode": "Light",
+   "need": 4.5,
+   "before": 6.130500243004872,
+   "after": 6.130500243004872
+  },
+  {
+   "name": "Link on summary card",
+   "mode": "Dark",
+   "need": 4.5,
+   "before": 8.154586077390313,
+   "after": 8.137532243019646
+  },
+  {
+   "name": "TOC title text on bar",
+   "mode": "Light",
+   "need": 4.5,
+   "before": 6.263932711981741,
+   "after": 6.035509082840507
+  },
+  {
+   "name": "TOC title text on bar",
+   "mode": "Dark",
+   "need": 4.5,
+   "before": 8.933222003605588,
+   "after": 8.933222003605588
+  },
+  {
+   "name": "TOC highlight text",
+   "mode": "Light",
+   "need": 4.5,
+   "before": 6.300709314465238,
+   "after": 7.329598230684428
+  },
+  {
+   "name": "TOC highlight text",
+   "mode": "Dark",
+   "need": 4.5,
+   "before": 6.160698389418915,
+   "after": 6.160698389418915
+  },
+  {
+   "name": "White on primary fill",
+   "mode": "Light",
+   "need": 4.5,
+   "before": 12.449637244033978,
+   "after": 11.98681430393203
+  },
+  {
+   "name": "White on primary fill",
+   "mode": "Dark",
+   "need": 4.5,
+   "before": 6.164936762162312,
+   "after": 5.986968261815361
+  },
+  {
+   "name": "Glossary tip text",
+   "mode": "Light",
+   "need": 4.5,
+   "before": 11.219723985386873,
+   "after": 10.720824581114666
+  },
+  {
+   "name": "Glossary tip text",
+   "mode": "Dark",
+   "need": 4.5,
+   "before": 10.672621404997642,
+   "after": 10.801037179014228
+  },
+  {
+   "name": "Code text on code fill",
+   "mode": "Light",
+   "need": 4.5,
+   "before": 11.927622214398156,
+   "after": 11.68349162846902
+  },
+  {
+   "name": "Code text on code fill",
+   "mode": "Dark",
+   "need": 4.5,
+   "before": 9.80516209038778,
+   "after": 9.80516209038778
+  },
+  {
+   "name": "Focus ring on page",
+   "mode": "Light",
+   "need": 3.0,
+   "before": 11.219723985386873,
+   "after": 10.720824581114666
+  },
+  {
+   "name": "Focus ring on page",
+   "mode": "Dark",
+   "need": 3.0,
+   "before": 7.380383992620677,
+   "after": 7.380383992620677
+  },
+  {
+   "name": "Quote gold rule on page",
+   "mode": "Light",
+   "need": 3.0,
+   "before": 3.483190346858287,
+   "after": 3.4568150555441317
+  },
+  {
+   "name": "Quote gold rule on page",
+   "mode": "Dark",
+   "need": 3.0,
+   "before": 7.380383992620677,
+   "after": 7.380383992620677
+  },
+  {
+   "name": "Gloss rule on page",
+   "mode": "Light",
+   "need": 3.0,
+   "before": 5.567245005134419,
+   "after": 5.525088908508767
+  },
+  {
+   "name": "Gloss rule on page",
+   "mode": "Dark",
+   "need": 3.0,
+   "before": 6.1294190856578465,
+   "after": 6.1294190856578465
+  },
+  {
+   "name": "Glossary underline on page",
+   "mode": "Light",
+   "need": 3.0,
+   "before": 3.6297278195766793,
+   "after": 3.6022429223706514
+  },
+  {
+   "name": "Glossary underline on page",
+   "mode": "Dark",
+   "need": 3.0,
+   "before": 7.254369489805994,
+   "after": 7.69744915124956
+  },
+  {
+   "name": "Default blockquote rule on page",
+   "mode": "Light",
+   "need": 3.0,
+   "before": 11.219723985386873,
+   "after": 10.720824581114666
+  },
+  {
+   "name": "Default blockquote rule on page",
+   "mode": "Dark",
+   "need": 3.0,
+   "before": 2.858091232227124,
+   "after": 4.3108497734820554
+  },
+  {
+   "name": "Video title on poster",
+   "mode": "Both",
+   "need": 4.5,
+   "before": 14.578326283041504,
+   "after": 13.016674053851892
+  },
+  {
+   "name": "Play triangle on disc",
+   "mode": "Both",
+   "need": 3.0,
+   "before": 6.887435517093469,
+   "after": 7.380383992620677
+  }
+ ],
+ "stats": {
+  "base": 28,
+  "old_l": 40,
+  "old_d": 41,
+  "new_l": 31,
+  "new_d": 31,
+  "tokens": 63
+ }
+}
