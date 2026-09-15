@@ -1375,23 +1375,32 @@
     margin-top: 0;
   }
 
-  /* Summary pill directly followed by a closed key-terms block (quran.md):
-     both closed, they share one line instead of stacking two short
-     controls over a band of empty space. Opening either restores the
-     stacked layout. !important for the margin-block rules above. */
-  /* :has() may not nest inside :has() -- a nested one voids the rule --
-     so "closed" is tested as details:not([open]), never :not(:has(...)). */
-  .page__content details.tldr:not([open]):has(+ .glossary-key > details:not([open])) {
-    display: inline-block;
-    vertical-align: middle;
-    margin-block: 1.6em !important;
-    margin-inline: 0 0.75em;
+  /* .intro-toggles wraps the summary card and the key-terms block
+     (quran.md). With both closed they share one row -- key terms at the
+     left, the pill still centred -- instead of stacking two short controls
+     over a band of empty space. Opening either drops the grid and restores
+     the stacked layout. The children's !important margins are the
+     .tldr rules' above. Never nest :has() inside :has(): it voids the rule. */
+  .page__content .intro-toggles:not(:has(details[open])) {
+    display: grid;
+    grid-template-columns: 1fr auto 1fr;
+    align-items: center;
+    column-gap: 0.75em;
+    margin-block: 1.6em;
   }
 
-  .page__content details.tldr:not([open]) + .glossary-key:has(> details:not([open])) {
-    display: inline-block;
-    vertical-align: middle;
-    margin-block: 1.6em;
+  .page__content .intro-toggles:not(:has(details[open])) > * {
+    grid-row: 1;
+    margin-block: 0 !important;
+  }
+
+  .page__content .intro-toggles:not(:has(details[open])) > .tldr {
+    grid-column: 2;
+  }
+
+  .page__content .intro-toggles:not(:has(details[open])) > .glossary-key {
+    grid-column: 1;
+    justify-self: start;
   }
 
   /* Neither stylesheet sets list-style on .page__content ul, so the marker
