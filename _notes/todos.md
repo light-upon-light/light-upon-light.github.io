@@ -38,12 +38,14 @@ messenger:
 
 - add something in the second paragraph about the prophet's unmatched character and moral conduct. also about him being one of the most influential humans in history
 - add and expand on similar sections of quran: historical knowledge, natural knowledge, predictions.
+- extract info about foretold in previous religions from videos and add them to a new page.
 - ideas in file
 
 ---
 
 At some point:
 
+- add key most striking and awe inspiring points from quran page to an expandable section so someone can see a sneak peak of what's to come (and to be a nice reference for quick talking points)
 - find good articles discussing misconceptions online and have llm compare them and take in strengths.
 - add links to good articles at the bottom in further reading
 - expand heavily on the literary miracle section and the summit of arabic eloquence part, with optionally depending on the early classical arabic scholarship on the subject
