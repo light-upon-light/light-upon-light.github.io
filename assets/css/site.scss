@@ -2547,3 +2547,22 @@
   .layout--single .feature__wrapper {
     display: block;
   }
+
+  /* ------------------------------------------------------------------
+     Dateline under the page title
+     ------------------------------------------------------------------ */
+
+  /* "Updated September 8, 2026 · 12 min read", from the local
+     _includes/page__meta.html. UI text, so Karla like the rest of the
+     chrome, and outside .page__content, so large-text mode leaves it at
+     its size. Muted colour: 4.5:1 on the light ground since palette
+     decision 2B. */
+  .page__dateline {
+    margin: 0.5em 0 0;
+    font-family: "Karla", -apple-system, BlinkMacSystemFont, "Roboto",
+                 "Segoe UI", Arial, sans-serif;
+    font-size: 0.8em;
+    letter-spacing: 0.01em;
+    color: var(--mm-muted-text-color);
+    font-variant-numeric: tabular-nums;
+  }
