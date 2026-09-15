@@ -1,0 +1,217 @@
+<title>Palette Decisions</title>
+<meta name="description" content="Side-by-side mock-ups of each palette consolidation choice, to pick from.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Karla:wght@400;600;700&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400&display=swap">
+<style>
+  :root {
+    --ground: #f3f3f3; --raised: #ebe3d1; --ink: #343434; --muted: #6f6152;
+    --rule: #e9dcbe; --gold: #a8792a; --link: #8a5320; --focus: #343434;
+    --edge: rgba(128, 118, 100, 0.35);
+    color-scheme: light;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) {
+      --ground: #1c1a17; --raised: #27231e; --ink: #d3cbba; --muted: #b8ab97;
+      --rule: #4a4238; --gold: #d4a04a; --link: #d9b483; --focus: #d4a04a;
+      color-scheme: dark;
+    }
+  }
+  :root[data-theme="dark"] {
+    --ground: #1c1a17; --raised: #27231e; --ink: #d3cbba; --muted: #b8ab97;
+    --rule: #4a4238; --gold: #d4a04a; --link: #d9b483; --focus: #d4a04a;
+    color-scheme: dark;
+  }
+  * { box-sizing: border-box; }
+  body { margin: 0; padding-inline: clamp(16px, 4vw, 48px); padding-block: 36px 120px; background: var(--ground); color: var(--ink);
+    font: 400 16px/1.55 "Source Serif 4", Georgia, "Times New Roman", serif; }
+  .ui { font-family: Karla, -apple-system, "Segoe UI", Arial, sans-serif; }
+  code { font-family: ui-monospace, "Cascadia Mono", Consolas, Menlo, monospace; font-size: 0.88em; }
+  :focus-visible { outline: 2px solid var(--focus); outline-offset: 3px; }
+  .page { max-width: 1240px; margin: 0 auto; }
+  header.top h1 { font: 400 clamp(32px, 5vw, 48px)/1.05 "Abril Fatface", "Source Serif 4", Georgia, serif; margin: 0 0 10px; }
+  header.top h1 span { color: var(--gold); }
+  header.top p { margin: 0; max-width: 70ch; color: var(--muted); }
+
+  section.dec { margin-top: 44px; border-top: 2px solid var(--ink); padding-top: 14px; }
+  .dec h2 { font: 600 24px/1.2 "Source Serif 4", Georgia, serif; margin: 0; text-wrap: balance; }
+  .dec h2 .n { color: var(--gold); margin-right: 8px; }
+  .dec .why { margin: 6px 0 0; max-width: 78ch; color: var(--muted); font-size: 15px; }
+  .opts { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 330px), 1fr)); gap: 16px; margin-top: 16px; }
+  .opt { display: flex; flex-direction: column; gap: 10px; padding: 10px; border: 2px solid var(--rule); border-radius: 4px; cursor: pointer; }
+  .opt:has(input:checked) { border-color: var(--gold); background: var(--raised); }
+  .opt:has(input:focus-visible) { outline: 2px solid var(--focus); outline-offset: 2px; }
+  .ohead { display: flex; align-items: baseline; gap: 10px; }
+  .ohead input { accent-color: var(--gold); width: 18px; height: 18px; margin: 0; align-self: center; flex: none; }
+  .ohead b { font-size: 16px; }
+  .ohead .rec { font-size: 11px; font-weight: 700; letter-spacing: 0.08em; text-transform: uppercase; color: var(--gold); margin-left: auto; white-space: nowrap; }
+  .onote { font-size: 13.5px; color: var(--muted); line-height: 1.4; }
+  .strip { display: flex; height: 54px; margin-top: 16px; border-radius: 3px; overflow: hidden; border: 1px solid var(--edge); }
+  .strip div { flex: 1; display: flex; align-items: center; justify-content: center; font-size: 12px; }
+
+  /* ---- mock site: every colour comes from the option's inline vars ---- */
+  .mock { background: var(--g); color: var(--t); border: 1px solid var(--edge); border-radius: 3px; padding: 16px 16px 0; font-size: 14.5px; line-height: 1.55; overflow: hidden; }
+  .mock h4 { font: 600 19px/1.2 "Source Serif 4", Georgia, serif; margin: 0; color: var(--t); }
+  .mock .meta { font: 13px/1.4 Karla, -apple-system, "Segoe UI", Arial, sans-serif; color: var(--m); margin: 4px 0 10px; }
+  .mock p { margin: 0 0 10px; }
+  .mock a { color: var(--l); }
+  .mock bq { display: block; margin: 0 0 10px; padding: 2px 0 2px 12px; border-left: 3px solid; font-size: 0.93em; }
+  .mock .src { border-color: var(--sb); color: var(--sr); }
+  .mock .quote { border-color: var(--qg); font-style: italic; }
+  .mock .gloss { border-color: var(--gb); background: var(--gw); padding: 6px 8px 6px 12px; }
+  .mock .plain { border-color: var(--bq); font-style: italic; }
+  .mock .keys { background: var(--kb); padding: 8px 12px; border-radius: 2px; margin: 0 0 10px; font-size: 0.92em; }
+  .mock .keys dt { font: 700 11px/1.3 Karla, sans-serif; letter-spacing: 0.08em; text-transform: uppercase; color: var(--sr); }
+  .mock .keys dd { margin: 0 0 4px; }
+  .mock .tldr { position: relative; background: var(--tf); border: 1px solid var(--tl); border-radius: 3px; padding: 12px 14px 10px; margin: 2px 0 14px; box-shadow: 0 3px 12px var(--ts); }
+  .mock .tldr::before { content: ""; position: absolute; left: 0; right: 0; top: -1px; height: 2px; background: linear-gradient(90deg, transparent, var(--te), transparent); }
+  .mock .tldr .lab { font: 700 11px/1 Karla, sans-serif; letter-spacing: 0.1em; text-transform: uppercase; color: var(--tla); display: block; margin-bottom: 6px; }
+  .mock .tldr p { margin: 0; }
+  .mock .row { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; margin: 0 0 12px; }
+  .mock .toc { border: 1px solid var(--bd); border-radius: 2px; font: 13px/1.3 Karla, sans-serif; }
+  .mock .toc .bar { background: var(--ttb); color: var(--ttt); font-weight: 700; letter-spacing: 0.06em; text-transform: uppercase; font-size: 11px; padding: 6px 8px; }
+  .mock .toc div:not(.bar) { padding: 5px 8px; border-top: 1px solid var(--bd); }
+  .mock .toc .act { background: var(--act); color: var(--actt); }
+  .mock pre { margin: 0; background: var(--cb); border: 1px solid var(--bd); border-radius: 2px; padding: 8px; font-size: 12px; overflow: hidden; color: var(--t); }
+  .mock .term { text-decoration: underline dotted var(--gu); text-underline-offset: 3px; }
+  .mock .tipwrap { position: relative; padding-top: 58px; }
+  .mock .tip { position: absolute; top: 0; left: 18%; width: min(270px, 78%); background: var(--tipb); color: var(--tipt); border: 1px solid var(--tipbr); border-radius: 3px; padding: 7px 10px; font: 13px/1.4 Karla, sans-serif; box-shadow: 0 4px 14px rgba(0,0,0,.25); }
+  .mock footer { margin: 12px -16px 0; background: var(--ft); color: var(--m); font: 12.5px/1.3 Karla, sans-serif; padding: 10px 16px; }
+  .mock .spacer { height: 12px; }
+
+  .tally { position: fixed; left: 0; right: 0; bottom: 0; background: var(--raised); border-top: 2px solid var(--gold); padding-block: 10px; padding-inline: clamp(16px, 4vw, 48px); z-index: 5; }
+  .tally .in { max-width: 1240px; margin: 0 auto; display: flex; flex-wrap: wrap; align-items: center; gap: 8px 14px; font-size: 14px; }
+  .tally output { font-family: ui-monospace, "Cascadia Mono", Consolas, Menlo, monospace; font-size: 13px; flex: 1 1 320px; overflow-wrap: anywhere; }
+  .tally button { font: 700 14px/1 Karla, sans-serif; padding: 9px 14px; border-radius: 3px; border: 1px solid var(--gold); background: var(--gold); color: var(--ground); cursor: pointer; }
+</style>
+
+<div class="page">
+  <header class="top">
+    <h1>Palette <span>Decisions</span></h1>
+    <p>Pick one option per row. Colours in each mock-up are exact; layout is a simplified sketch of the site. Each row changes only its own colours and keeps everything else as it is today. Your picks collect in the bar at the bottom: copy it and paste it back to me.</p>
+  </header>
+  <div id="decisions"></div>
+</div>
+
+<div class="tally ui"><div class="in"><b>Your picks</b><output id="picks" for="decisions">Nothing picked yet</output><button type="button" id="copy">Copy</button></div></div>
+
+<script>
+(function () {
+  var LIGHT = { g:"#f3f3f3", t:"#343434", m:"#8e8b82", l:"#8a5320", sr:"#6f6152", sb:"#a1937c", qg:"#a8792a", gb:"#2e6b63",
+    gw:"rgba(46,107,99,.05)", kb:"#ebe3d1", tf:"#fdfcf9", tl:"#ebe4d6", tla:"#8a5320", te:"#a8792a", ts:"rgba(90,65,30,.1)",
+    ttb:"#dcc8a4", ttt:"#4a3f33", ft:"#e9dcbe", cb:"#fafafa", tipb:"#343434", tipt:"#f3f3f3", tipbr:"#5c5445", bq:"#343434",
+    bd:"#e9dcbe", act:"#dcc8a4", actt:"#3d4144", gu:"#8a7d68" };
+  var DARK = { g:"#1c1a17", t:"#d3cbba", m:"#a2988a", l:"#d9b483", sr:"#b8ab97", sb:"#8a7d68", qg:"#d4a04a", gb:"#4fa89c",
+    gw:"rgba(79,168,156,.08)", kb:"#27231e", tf:"#25221d", tl:"#3a342b", tla:"#d4a04a", te:"#d4a04a", ts:"rgba(0,0,0,.45)",
+    ttb:"#2e2923", ttt:"#d3cbba", ft:"#2a251e", cb:"#26221c", tipb:"#2f2a22", tipt:"#e6ded2", tipbr:"#6f5f48", bq:"#6b6152",
+    bd:"#4a4238", act:"#785d31", actt:"#ffffff", gu:"#b7a58c" };
+  function w(base, over) { var o = {}, k; for (k in base) o[k] = base[k]; for (k in over) o[k] = over[k]; return o; }
+
+  var M = {
+    full: function () { return '<h4>The Messenger and the Book</h4><div class="meta">Updated 14 September 2026 · 12 min read</div>' +
+      '<div class="tldr"><span class="lab">Summary</span><p>The Qur\'an and the Prophet\'s practice explain one another; neither is read alone.</p></div>' +
+      '<p>Scholars described the <span class="term">sunna</span> as the Book\'s <a href="#">living commentary</a>, not a second scripture.</p>' +
+      '<bq class="quote">And We have sent down to you the Reminder, that you may make clear to people what was sent down to them.</bq>' +
+      '<bq class="src">al-Shāfiʿī, al-Risāla, §§ 96–105.</bq>' +
+      '<bq class="gloss">The verse gives the Prophet the role of explaining, so his explanation is part of the message.</bq>' +
+      '<dl class="keys"><dt>Key terms</dt><dd><b>sunna</b>: the Prophet\'s established practice</dd></dl>' +
+      '<div class="row"><div class="toc"><div class="bar">On this page</div><div>The claim</div><div class="act">The evidence</div><div>Objections</div></div>' +
+      '<pre>quran 16:44\nhadith bukhari 7280</pre></div>' +
+      '<footer>© 2026 Light upon Light</footer>'; },
+    meta: function () { return '<h4>The Messenger and the Book</h4><div class="meta">Updated 14 September 2026 · 12 min read</div>' +
+      '<p>Scholars described the sunna as the Book\'s <a href="#">living commentary</a>, not a second scripture.</p>' +
+      '<bq class="src">al-Shāfiʿī, al-Risāla, §§ 96–105.</bq><div class="spacer"></div>'; },
+    card: function () { return '<p>Scholars described the sunna as the Book\'s living commentary.</p>' +
+      '<div class="tldr"><span class="lab">Summary</span><p>The Qur\'an and the Prophet\'s practice explain one another; neither is read alone.</p></div>' +
+      '<dl class="keys"><dt>Key terms</dt><dd><b>sunna</b>: the Prophet\'s established practice</dd></dl><div class="spacer"></div>'; },
+    rules: function () { return '<p>A plain quotation, then a cited source beneath it:</p>' +
+      '<bq class="plain">Knowledge is not memorising much; knowledge is fear of God.</bq>' +
+      '<bq class="src">Ibn Masʿūd, reported in al-Ṭabarānī.</bq>' +
+      '<bq class="quote">Only those who know truly fear God.</bq><div class="spacer"></div>'; },
+    tip: function () { return '<div class="tipwrap"><div class="tip"><b>sunna</b>: the Prophet\'s established practice, in word, deed and approval.</div>' +
+      '<p>Scholars described the <span class="term">sunna</span> as the Book\'s living commentary.</p></div><div class="spacer"></div>'; }
+  };
+
+  var D = [
+    { id: "d1", n: "1", title: "Light mode: warm the page ground and ink",
+      why: "Today the light background and text are neutral grey while every other colour is warm. Warming them keeps the same lightness, so the difference is subtle. The strip under the options puts the two grounds edge to edge.",
+      mock: "full", strip: ["#f3f3f3", "#f4f2ee"],
+      opts: [
+        { k: "A", label: "Keep neutral grey", note: "Ground #f3f3f3, ink #343434, code #fafafa.", vars: LIGHT },
+        { k: "B", label: "Warm ground and ink", rec: true, note: "Ground #f4f2ee, ink #3a3631, code #fdfcf9. Body text 10.7:1.",
+          vars: w(LIGHT, { g:"#f4f2ee", t:"#3a3631", cb:"#fdfcf9", tipb:"#3a3631", tipt:"#f4f2ee", bq:"#3a3631", ttt:"#4a4238", actt:"#3a3631" }) } ] },
+    { id: "d2", n: "2", title: "Light mode: muted text (dates, reading time)",
+      why: "Today's grey is 3.07:1 against the page, under the 4.5:1 accessibility minimum. Compare the date line with the source citation below it.",
+      mock: "meta",
+      opts: [
+        { k: "A", label: "Keep #8e8b82", note: "3.07:1. Fails AA; lightest and most recessive.", vars: LIGHT },
+        { k: "B", label: "Middle #7a6c5c", rec: true, note: "4.55:1. Passes, and stays lighter than source text.", vars: w(LIGHT, { m:"#7a6c5c" }) },
+        { k: "C", label: "Source umber #6f6152", note: "5.35:1. Passes; the same colour as source citations.", vars: w(LIGHT, { m:"#6f6152" }) } ] },
+    { id: "d3", n: "3", title: "Dark mode: seven surface shades or three",
+      why: "Footer, code, key terms, summary card, TOC bar and glossary tip each have their own near-identical dark shade. Merging leaves ground, raised and bar.",
+      mock: "full",
+      opts: [
+        { k: "A", label: "Keep seven shades", note: "Footer #2a251e, key terms #27231e, card #25221d, code #26221c, TOC bar #2e2923, tip #2f2a22.", vars: DARK },
+        { k: "B", label: "Merge to three", rec: true, note: "Raised #26221c for footer, key terms, card and code; bar #2e2923 for TOC bar and tip.",
+          vars: w(DARK, { ft:"#26221c", kb:"#26221c", tf:"#26221c", cb:"#26221c", tipb:"#2e2923" }) } ] },
+    { id: "d4", n: "4", title: "Dark mode: summary card border",
+      why: "The softer line was picked in today's gilt-edge redesign. Merging it uses the dark border colour everything else uses.",
+      mock: "card",
+      opts: [
+        { k: "A", label: "Keep soft line #3a342b", rec: true, note: "As designed today; kept as a card-only exception.", vars: DARK },
+        { k: "B", label: "Use border colour #4a4238", note: "One fewer colour; the card edge reads firmer.", vars: w(DARK, { tl:"#4a4238" }) } ] },
+    { id: "d5", n: "5", title: "Dark mode: plain blockquote rule",
+      why: "Today's rule is 2.86:1, under the 3:1 minimum for a line that carries meaning. The fix reuses the source-citation rule colour, so the two quotes' rules would match.",
+      mock: "rules",
+      opts: [
+        { k: "A", label: "Keep #6b6152", note: "2.86:1. Faint; fails the non-text minimum.", vars: DARK },
+        { k: "B", label: "Source umber #8a7d68", rec: true, note: "4.31:1. Same rule colour as source citations.", vars: w(DARK, { bq:"#8a7d68" }) } ] },
+    { id: "d6", n: "6", title: "Light mode: glossary tip border",
+      why: "The tip is a dark card in light mode. The fix moves its border onto the umber used elsewhere.",
+      mock: "tip",
+      opts: [
+        { k: "A", label: "Keep #5c5445", note: "Current; a faint edge on the dark card.", vars: LIGHT },
+        { k: "B", label: "Umber #6f6152", rec: true, note: "One fewer colour; the edge is a touch more visible.", vars: w(LIGHT, { tipbr:"#6f6152" }) } ] }
+  ];
+
+  var store = {};
+  try { store = JSON.parse(localStorage.getItem("palette-picks") || "{}"); } catch (e) {}
+
+  function styleOf(v) { var s = "", k; for (k in v) s += "--" + k + ":" + v[k] + ";"; return s; }
+  var host = document.getElementById("decisions"), html = "";
+  D.forEach(function (d) {
+    html += '<section class="dec" id="' + d.id + '"><h2><span class="n">' + d.n + '</span>' + d.title + '</h2><p class="why">' + d.why + '</p><div class="opts" role="radiogroup" aria-label="' + d.title + '">';
+    d.opts.forEach(function (o) {
+      var id = d.id + "-" + o.k;
+      html += '<label class="opt" for="' + id + '"><span class="ohead ui"><input type="radio" name="' + d.id + '" id="' + id + '" value="' + o.k + '"' + (store[d.id] === o.k ? " checked" : "") + '>' +
+        '<b>' + o.k + ' · ' + o.label + '</b>' + (o.rec ? '<span class="rec">Recommended</span>' : "") + '</span>' +
+        '<span class="onote ui">' + o.note + '</span><div class="mock" style="' + styleOf(o.vars) + '">' + M[d.mock]() + '</div></label>';
+    });
+    html += "</div>";
+    if (d.strip) html += '<div class="strip ui" aria-hidden="true"><div style="background:' + d.strip[0] + ';color:#343434">A · ' + d.strip[0] + '</div><div style="background:' + d.strip[1] + ';color:#3a3631">B · ' + d.strip[1] + '</div></div>';
+    html += "</section>";
+  });
+  host.innerHTML = html;
+
+  var out = document.getElementById("picks");
+  function tally() {
+    var parts = [], missing = 0;
+    D.forEach(function (d) {
+      var c = document.querySelector('input[name="' + d.id + '"]:checked');
+      if (c) { store[d.id] = c.value; parts.push(d.n + c.value); } else missing++;
+    });
+    try { localStorage.setItem("palette-picks", JSON.stringify(store)); } catch (e) {}
+    out.textContent = parts.length ? "Palette picks: " + parts.join(" ") + (missing ? "  (" + missing + " still open)" : "") : "Nothing picked yet";
+  }
+  host.addEventListener("change", tally);
+  tally();
+
+  document.getElementById("copy").addEventListener("click", function () {
+    var btn = this, text = out.textContent;
+    function done(ok) { btn.textContent = ok ? "Copied" : "Select and copy"; setTimeout(function () { btn.textContent = "Copy"; }, 1600); }
+    if (navigator.clipboard && navigator.clipboard.writeText) navigator.clipboard.writeText(text).then(function () { done(true); }, function () { done(false); });
+    else done(false);
+    var r = document.createRange(); r.selectNodeContents(out); var s = getSelection(); s.removeAllRanges(); s.addRange(r);
+  });
+})();
+</script>

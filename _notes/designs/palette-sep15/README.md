@@ -8,8 +8,10 @@ every colour in `_sass/minimal-mistakes/skins/_dirt.scss`).
 - `2-consolidation-proposal.html`: proposal to rebuild the palette from 28
   base colours: base set, every property before/after (OKLab ΔE), contrast
   re-check, and five decisions needing sign-off. **Not applied.**
+- `3-decisions.html`: hand-written picker showing each proposal decision as
+  side-by-side mock-ups in exact colours (layout sketched); not generated.
 
-Both pages are generated, so regenerate instead of hand-editing. Values are
+Pages 1 and 2 are generated, so regenerate instead of hand-editing. Values are
 read from `_dirt.scss`, so the pages go stale when it changes.
 
 ```bash
