@@ -452,14 +452,15 @@
      The palette is an illuminated-manuscript one -- gold for the revealed
      text, verdigris for the commentary, and a taupe between them for the
      apparatus -- chosen to sit with the dirt skin's warm accents (#e9dcbe,
-     #b4a490, #ca7f32) on its #f3f3f3 background without borrowing the link
+     #b4a490, #ca7f32) on its light ground without borrowing the link
      colour. It does not track the skin, so changing minimal_mistakes_skin
      means re-checking these by hand.
 
-     Contrast on #f3f3f3: .src text 5.4:1 (WCAG AA for small text is 4.5:1);
-     rules are decorative, and .gloss/.quote text is the theme's #343434 at
-     11.2:1. Do not swap the .src colour back to an opacity -- opacity fades
-     any link inside the block along with the text. */
+     Contrast on the light ground: .src text 5.4:1 (WCAG AA for small text
+     is 4.5:1); rules are decorative, and .gloss/.quote text is the page ink
+     at 10.7:1 (full table: the base-colour comment in _dirt.scss). Do not
+     swap the .src colour back to an opacity -- opacity fades any link
+     inside the block along with the text. */
 
   /* minimal-mistakes reserves the right-sidebar gutter by floating .page
      (and .archive) right and narrowing it by $right-sidebar-width(-narrow).

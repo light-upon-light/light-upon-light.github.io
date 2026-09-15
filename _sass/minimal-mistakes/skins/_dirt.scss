@@ -79,6 +79,7 @@ $umber-78: #c3b4a0;
 $umber-74: #b8ab97;
 $umber-67: #a1937c;
 $umber-60: #8a7d68;
+$umber-54: #7a6c5c;
 $umber-50: #6f6152;
 $umber-38: #4a4238;
 $ink-33: #3a3631;
@@ -108,7 +109,7 @@ $black: #000;
 
      pair (minimum 4.5, rules 3)                  light      dark
      Body text on page                   10.7:1          10.8:1
-     Muted text (dates, meta) on page     3.0:1 (below)   5.8:1
+     Muted text (dates, meta) on page     4.6:1           5.8:1
      Link on page                         5.6:1           8.9:1
      Visited link on page                 5.4:1           7.7:1
      Masthead link on page               10.7:1          13.0:1
@@ -138,7 +139,7 @@ $black: #000;
 @mixin site-light-palette {
   --mm-background-color: #{$paper-96};
   --mm-text-color: #{$ink-33};
-  --mm-muted-text-color: #8e8b82;
+  --mm-muted-text-color: #{$umber-54};
   --mm-primary-color: #{$ink-33};
   --mm-border-color: #{$sand-90};
   --mm-footer-background-color: #{$sand-90};
@@ -166,7 +167,7 @@ $black: #000;
   --mm-primary-color-alpha-25: #{rgba($ink-33, 0.25)};
   --mm-text-color-alpha-06: #{rgba($ink-33, 0.06)};
   --mm-primary-color-alpha-70: #{rgba($ink-33, 0.7)};
-  --mm-muted-text-color-alpha-50: rgba(142, 139, 130, 0.5);
+  --mm-muted-text-color-alpha-50: #{rgba($umber-54, 0.5)};
 
   /* yiq-contrasted() picks, precomputed: text on accent fills, on a muted
      fill (pager hover), and on the TOC highlight. */
