@@ -1380,8 +1380,10 @@
     margin-inline: auto;
     padding: 0.5em 1.05em;
     border-radius: 999px;
-    /* the gold inset and the dash are the open card's; the pill is plain */
-    box-shadow: none;
+    /* same gold inset as the open card, pulled in to 3px so it clears the
+       label on a pill this short; the label dash stays off (rule below) */
+    box-shadow: inset 0 0 0 3px var(--site-tldr-fill),
+                inset 0 0 0 4px var(--site-tldr-inset);
   }
 
   .page__content details.tldr:not([open]) > summary .tldr__label::before {
