@@ -36,11 +36,13 @@ recomputed by hand, since Sass still can't run those functions on a `var()`
 to check them.
 
 The palette is hand-derived from dirt, not one of the theme's stock dark
-skins. `_dirt.scss`'s dark block carries the computed WCAG contrast ratios in
-its header comment; re-check them by hand if any value changes. Two of the
-choices are not free:
+skins. Both palettes reference the base colours at the top of `_dirt.scss`,
+whose comment carries the WCAG contrast table; after changing a base or a
+mapping, regenerate it with
+`_notes/designs/palette-sep15/scripts/emit_sass.py`. Two of the choices are
+not free:
 
-- `--mm-primary-color` (`#6f5f48` dark) does two opposing jobs: it is the
+- `--mm-primary-color` (`$umber-50` dark) does two opposing jobs: it is the
   background *behind* white text (`.btn--primary`) and the default
   `blockquote` rule drawn *on* the page background.
   `--site-blockquote-border-default` decouples the two — see its comment in

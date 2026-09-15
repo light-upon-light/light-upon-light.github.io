@@ -2,7 +2,11 @@ import re, math, html, json, pathlib, collections
 
 HERE = pathlib.Path(__file__).parent
 REPO = pathlib.Path(__file__).resolve().parents[4]
-dirt = (REPO / "_sass/minimal-mistakes/skins/_dirt.scss").read_text(encoding="utf8")
+# The palette as it stood before the proposal was applied (a835db9); the
+# live file now holds Sass interpolations, not hex.
+import subprocess
+dirt = subprocess.run(["git", "-C", str(REPO), "show", "a835db9:_sass/minimal-mistakes/skins/_dirt.scss"],
+                      capture_output=True, text=True, encoding="utf8", check=True).stdout
 
 
 def block(src, opener):

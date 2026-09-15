@@ -94,7 +94,11 @@ this one shadowed skin file, so `_dirt.scss` is the only place to `Read` or
 both palettes.
 
 **Every colour on the site is set in `_dirt.scss`; nowhere else writes hex or
-`rgba()`.** It holds `@mixin site-light-palette` and `@mixin site-dark-palette`
+`rgba()`.** Its top defines the base colours as Sass variables (warm neutrals
+named by lightness, `$paper-99` to `$night-22`, plus gold, sienna and
+verdigris); properties interpolate them, and `mix()`/`rgba()` derive the
+theme's shades. The three exceptions kept off the bases are commented where
+they sit. It holds `@mixin site-light-palette` and `@mixin site-dark-palette`
 (each included from its selectors, so no palette is hand-copied), a
 mode-invariant group in bare `:root` (`--site-poster-*`, `--site-ondark-gold`:
 colours on surfaces dark in both modes, which must never gain a dark value),

@@ -1,23 +1,23 @@
      pair (minimum 4.5, rules 3)                  light      dark
-     Body text on page                   11.2:1          10.8:1
-     Muted text (dates, meta) on page     3.1:1 (below)   5.8:1
-     Link on page                         5.7:1           8.9:1
+     Body text on page                   10.7:1          10.8:1
+     Muted text (dates, meta) on page     4.6:1           5.8:1
+     Link on page                         5.6:1           8.9:1
      Visited link on page                 5.4:1           7.7:1
-     Masthead link on page               11.2:1          13.0:1
+     Masthead link on page               10.7:1          13.0:1
      Source-quote text on page            5.4:1           7.7:1
      Key-terms label on parchment         4.7:1           7.0:1
-     Body text on parchment               9.7:1           9.8:1
-     Body text on summary card           12.1:1           9.8:1
+     Body text on parchment               9.4:1           9.8:1
+     Body text on summary card           11.7:1           9.8:1
      Summary label on card                6.1:1           6.7:1
      Link on summary card                 6.1:1           8.1:1
      TOC title text on bar                6.0:1           8.9:1
-     TOC highlight text                   7.6:1           6.2:1
-     White on primary fill               12.4:1           6.0:1
-     Glossary tip text                   11.2:1          10.8:1
-     Code text on code fill              12.1:1           9.8:1
-     Focus ring on page                  11.2:1           7.4:1
+     TOC highlight text                   7.3:1           6.2:1
+     White on primary fill               12.0:1           6.0:1
+     Glossary tip text                   10.7:1          10.8:1
+     Code text on code fill              11.7:1           9.8:1
+     Focus ring on page                  10.7:1           7.4:1
      Quote gold rule on page              3.5:1           7.4:1
-     Gloss rule on page                   5.6:1           6.1:1
+     Gloss rule on page                   5.5:1           6.1:1
      Glossary underline on page           3.6:1           7.7:1
-     Default blockquote rule on page     11.2:1           2.9:1 (below)
+     Default blockquote rule on page     10.7:1           2.9:1 (below)
      Link hover on page                   7.9:1          11.4:1
