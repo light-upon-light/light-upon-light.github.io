@@ -664,6 +664,28 @@
         shown = should;
         nav.classList.toggle("is-visible", shown);
       }
+
+      capToc();
+    }
+
+    /* Desktop: end the sticky TOC 1rem above the docked button row. The
+       scroller is the theme's `.toc__menu` (not the aside), and the CSS
+       max-height on it only holds once the TOC is stuck at its 2rem top;
+       before that it sits lower -- and the buttons are already showing,
+       since they appear as soon as the masthead is gone -- so measure its
+       real top. offsetTop ignores the row's show/hide translate; the 2px is
+       the card's bottom border. */
+    var tocMenu = document.querySelector(".sidebar__right.sticky .toc__menu");
+
+    function capToc() {
+      if (!tocMenu) return;
+      if (!isSidebarLayout.matches || nav.classList.contains("no-toc")) {
+        tocMenu.style.maxHeight = "";
+        return;
+      }
+      var rem = parseFloat(getComputedStyle(document.documentElement).fontSize);
+      var top = tocMenu.getBoundingClientRect().top;
+      tocMenu.style.maxHeight = Math.max(nav.offsetTop - rem - 2 - top, 0) + "px";
     }
 
     window.addEventListener("scroll", function () {
@@ -672,6 +694,9 @@
         window.requestAnimationFrame(update);
       }
     }, { passive: true });
+    window.addEventListener("resize", capToc);
+    window.addEventListener("load", capToc);
+    capToc();
 
     /* --- open / close ---
 

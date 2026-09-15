@@ -1968,10 +1968,17 @@
       height: var(--fn-size);
     }
 
-    /* top: 2rem (the theme's sticky offset), then a 1rem gap, the row,
-       and the row's own 1rem bottom offset */
-    .page__content .sidebar__right.sticky {
-      max-height: calc(100vh - 4rem - var(--fn-size) - env(safe-area-inset-bottom, 0px));
+    /* Back-to-top leads the row, away from prev/next, so it isn't hit by
+       mistake when stepping through sections. */
+    #floating-nav:not(.no-toc) #back-to-top {
+      order: -1;
+    }
+
+    /* The theme's scroller is .toc__menu at `100vh - 7em`; give up the row
+       and a 1rem gap too. Only exact once stuck -- site.js (capToc) measures
+       the real top while the TOC is still scrolling into place. */
+    .page__content .sidebar__right.sticky .toc .toc__menu {
+      max-height: calc(100vh - 7rem - var(--fn-size) - 1rem);
     }
   }
 
