@@ -152,7 +152,7 @@ out-of-order label doesn't leak into the rendered numbering.
 Every article that leans on recurring Arabic terms sets a `glossary:` list in
 its front matter (keys from `_data/glossary.yml`, in display order) and drops
 `{% include glossary-key.html %}` on its own line below the opening one or two
-paragraphs, before the first `##`. It replaces the old hand-written
+paragraphs, before the first `##`. When it directly follows the `details.tldr` card (quran.md), wrap both in `<div class="intro-toggles" markdown="1">` so the closed pill stays centred with the key-terms box beside it on the left. It replaces the old hand-written
 `**Terms used below:**` / `*Terms:*` paragraphs. Definitions are edited only in
 `_data/glossary.yml` — never inline — since the same string feeds both the
 visible list and the hover gloss `site.js` wraps around later occurrences (see
