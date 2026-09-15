@@ -1,0 +1,100 @@
+<title>Summary card options</title>
+<link href="https://fonts.googleapis.com/css2?family=Karla:wght@400;700&family=Source+Serif+4:ital,wght@0,400;0,600;1,400&display=swap" rel="stylesheet">
+<style>
+  body{margin:0;font-family:Karla,system-ui,sans-serif;background:#bbb}
+  h1{margin:0;padding:14px 20px;font-size:17px;background:#222;color:#eee}
+  h1 small{display:block;font-weight:400;color:#aaa;font-size:13px;margin-top:4px}
+  .row{display:grid;grid-template-columns:190px 1fr 1fr;border-bottom:2px solid #888}
+  .tag{padding:14px;font-weight:700;font-size:14px;background:#eee;color:#222}
+  .tag small{display:block;font-weight:400;color:#555;margin-top:5px;line-height:1.35}
+  .pane{padding:20px 24px;font-family:"Source Serif 4",Georgia,serif;font-size:15px;line-height:1.55;background:var(--bg);color:var(--tx)}
+  .L{--bg:#f3f3f3;--tx:#343434;--gold:#a8792a;--link:#8a5320;--bd:#e9dcbe}
+  .D{--bg:#1c1a17;--tx:#d3cbba;--gold:#d4a04a;--link:#d9b483;--bd:#4a4238}
+  .pill{display:table;margin:0 auto 16px;padding:.45em 1.05em;border-radius:999px;font-family:Karla,sans-serif;font-size:.8em;font-weight:700;letter-spacing:.12em;text-transform:uppercase}
+  .pill span{font-weight:400;letter-spacing:0;text-transform:none;margin-left:.8em;padding-left:.8em;border-left:1px solid currentColor;opacity:.75}
+  .card{position:relative;padding:1.3em 1.5em;border-radius:4px}
+  .lab{font-family:Karla,sans-serif;font-weight:700;letter-spacing:.12em;text-transform:uppercase;margin-bottom:.45em;font-size:.95em}
+  .card p{margin:0}.card a{color:var(--link)}
+  .gloss{margin:18px 0 0;padding:.6em 1em;border-left:.375em solid;font-size:.9em}
+  .L .gloss{border-color:#2e6b63;background:rgba(46,107,99,.05)} .D .gloss{border-color:#4fa89c;background:rgba(79,168,156,.08)}
+  .L .quote{border-color:#a8792a;background:none} .D .quote{border-color:#d4a04a;background:none}
+
+  /* 1 Rubric — cinnabar label, the manuscript convention for headings */
+  .L.r1{--c:#a8412a;--line:#d9b9a8;--fill:transparent}
+  .D.r1{--c:#e0876a;--line:#5a3a30;--fill:transparent}
+  .r1 .card{background:var(--fill);border-top:1px solid var(--line);border-bottom:1px solid var(--line);border-radius:0;padding-inline:.2em}
+  .r1 .lab{color:var(--c)} .r1 .lab::before{content:"❖ ";}
+  .r1 .pill{color:var(--c);border:1px solid var(--line)}
+
+  /* 2 Lapis & gold — lapis wash, gold hairline inset */
+  .L.r2{--fill:#e9edf3;--line:#b9c4d6;--c:#2d4b7a;--in:#c9a45a}
+  .D.r2{--fill:#1f232b;--line:#3b465a;--c:#9fb6dc;--in:#8f7340}
+  .r2 .card{background:var(--fill);border:1px solid var(--line);box-shadow:inset 0 0 0 4px var(--fill),inset 0 0 0 5px var(--in)}
+  .r2 .lab{color:var(--c)}
+  .r2 .pill{background:var(--fill);color:var(--c);border:1px solid var(--line)}
+
+  /* 3 Illuminated frame — double gold rule on vellum */
+  .L.r3{--fill:#f8f3e7;--line:#c9a45a;--c:#8a5320}
+  .D.r3{--fill:#221f1a;--line:#8f7340;--c:#d4a04a}
+  .r3 .card{background:var(--fill);border:4px double var(--line)}
+  .r3 .lab{color:var(--c);text-align:center}
+  .r3 .pill{background:var(--fill);color:var(--c);border:3px double var(--line)}
+
+  /* 4 Espresso ink — inverted in light, raised in dark */
+  .L.r4{--fill:#2e2924;--tx2:#ece4d4;--c:#d9b483;--line:#2e2924;--lk:#e8cea3}
+  .D.r4{--fill:#322c25;--tx2:#e2d9c8;--c:#d9b483;--line:#4a4238;--lk:#e8cea3}
+  .r4 .card{background:var(--fill);color:var(--tx2);border:1px solid var(--line)}
+  .r4 .card a{color:var(--lk)} .r4 .lab{color:var(--c)}
+  .r4 .pill{background:var(--fill);color:var(--c)}
+
+  /* 5 Margin note — label in a gutter, gold vertical divider */
+  .L.r5{--c:#8a5320;--line:#a8792a;--fill:#efe9dc}
+  .D.r5{--c:#d4a04a;--line:#8f7340;--fill:#24211c}
+  .r5 .card{display:grid;grid-template-columns:auto 1fr;gap:1.1em;background:var(--fill);padding:1.1em 1.3em}
+  .r5 .lab{color:var(--c);margin:0;padding-right:1.1em;border-right:1px solid var(--line);font-size:.8em;writing-mode:vertical-rl;transform:rotate(180deg);text-align:center}
+  .r5 .pill{background:var(--fill);color:var(--c)}
+
+  /* 6 Gilt edge — lifted paper, gold fade along top */
+  .L.r6{--fill:#fdfcf9;--c:#8a5320;--line:#ebe4d6;--sh:rgba(90,65,30,.10)}
+  .D.r6{--fill:#25221d;--c:#d4a04a;--line:#3a342b;--sh:rgba(0,0,0,.45)}
+  .r6 .card{background:var(--fill);border:1px solid var(--line);box-shadow:0 3px 12px var(--sh);overflow:hidden}
+  .r6 .card::before{content:"";position:absolute;inset:0 0 auto;height:3px;background:linear-gradient(90deg,transparent,var(--gold),transparent)}
+  .r6 .lab{color:var(--c)}
+  .r6 .pill{background:var(--fill);color:var(--c);border:1px solid var(--line);box-shadow:0 2px 6px var(--sh)}
+
+  /* 7 Clay & sand — terracotta hue, warm editorial */
+  .L.r7{--fill:#f1e4dc;--line:#dcbfae;--c:#9a4a2c}
+  .D.r7{--fill:#2a211d;--line:#5a4034;--c:#e0a07f}
+  .r7 .card{background:var(--fill);border:1px solid var(--line);border-radius:10px}
+  .r7 .lab{color:var(--c)}
+  .r7 .pill{background:var(--fill);color:var(--c);border:1px solid var(--line)}
+
+  /* 8 Quiet slate-gold — kept close to current but warmed and golded */
+  .L.r8{--fill:#e8e6e1;--line:#c9c2b4;--c:#5b5446;--acc:#a8792a}
+  .D.r8{--fill:#2a2825;--line:#4d473e;--c:#c7bca9;--acc:#d4a04a}
+  .r8 .card{background:var(--fill);border:1px solid var(--line)}
+  .r8 .lab{color:var(--c);display:flex;align-items:center;gap:.6em}
+  .r8 .lab::before{content:"";width:1.4em;height:2px;background:var(--acc)}
+  .r8 .pill{background:var(--fill);color:var(--c);border:1px solid var(--line)}
+</style>
+
+<h1>Summary card — 8 new directions (light | dark)
+<small>Each pane: the closed pill (how it first appears), the open card, then a gold quote + verdigris gloss below so you can judge it against the page's evidence panels.</small></h1>
+<div id="out"></div>
+<script>
+const V=[
+ ["1 · Rubric","Cinnabar-red label with ❖, hairlines above/below, no fill. Red rubrics were how manuscripts marked headings."],
+ ["2 · Lapis & gold","Faint lapis-blue wash with an inset gold hairline. Lapis and gold were the two prestige pigments of Qur'an illumination."],
+ ["3 · Illuminated frame","Double gold rule around a vellum fill, centred label. The most ornamental one."],
+ ["4 · Espresso ink","Dark card with cream text and a gold label in light mode, a raised card in dark. The boldest one."],
+ ["5 · Margin note","Label runs vertically in a gutter behind a gold divider, on a parchment fill. Reads like a scribe's marginal note."],
+ ["6 · Gilt edge","Lifted paper card, soft shadow, a gold fade along the top edge."],
+ ["7 · Clay & sand","Terracotta-tinted card with softer corners. Warm editorial palette."],
+ ["8 · Warm slate + gold dash","Closest to today, but warmed to greige with a short gold dash before the label."],
+];
+document.getElementById("out").innerHTML=V.map(([n,s],i)=>`<div class="row"><div class="tag">${n}<small>${s}</small></div>${["L","D"].map(m=>`<div class="pane ${m} r${i+1}">
+ <div class="pill">Summary<span>Show</span></div>
+ <div class="card"><div class="lab">Summary</div><p>The Qur'an presents itself as a book of guidance, and <a href="#">its own claims</a> about preservation are best tested against the manuscript record rather than assumed. Three strands of evidence converge on the same answer.</p></div>
+ <blockquote class="gloss quote">A quoted verse sits in a gold-ruled panel.</blockquote>
+ <blockquote class="gloss">The author's gloss sits in verdigris.</blockquote></div>`).join("")}</div>`).join("");
+</script>

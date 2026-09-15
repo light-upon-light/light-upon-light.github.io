@@ -124,6 +124,9 @@
       --site-src-border: #a1937c;
       --site-gloss-border: #2e6b63;
       --site-gloss-bg: rgba(46, 107, 99, 0.05);
+      --site-glosskey-bg: #ebe3d1;
+      --site-toctitle-bg: #ddd3c1;
+      --site-toctitle-text: #4a3f33;
       --site-breadcrumb-sep: #c3b4a0;
       --site-return-hover-bg: rgba(161, 147, 124, 0.14);
       --site-floatnav-icon: #f3f3f3;
@@ -866,19 +869,24 @@
 
      The theme ships .toc as a card: a bordered, shadowed, rounded box, a
      solid --mm-primary-color bar for the "On this page" title, and a 1px
-     divider under every entry. All of that is the theme's, and all of it is
-     kept. Two restyles of the title were tried and both are reverted: a
+     divider under every entry. The box and dividers are kept; the bar's
+     solid ink fill read as too heavy, so it is recoloured below to
+     --site-toctitle-bg/-text (a soft umber bar in light, a sand-toned one a
+     step above the ground in dark), keeping the theme's padding and
+     corners. Two earlier restyles are reverted and shouldn't be retried: a
      muted uppercase eyebrow over a hairline (the widget stopped reading as
-     a bounded thing), then that same eyebrow filled with --mm-border-color
-     over a faint wash on the box (in the light palette the cream fill read
-     as a yellow smear, and the collapsed inline form lost the padding and
-     the rounded corners the theme's bar gives it). --mm-primary-color is
-     dark in both palettes, so the theme's white-on-primary bar works in
-     both without a dark-mode rule of its own.
+     a bounded thing), then that eyebrow filled with --mm-border-color over
+     a faint wash on the box (the cream fill read as a yellow smear, and the
+     collapsed inline form lost its padding and rounded corners).
 
-     The only title rule left in this file is the disclosure summary's, in
-     the Mobile TOC disclosure block below: the summary is the collapsed
-     inline form of that same bar and has no theme rule to inherit from.
+     The disclosure summary, in the Mobile TOC disclosure block below, is
+     the collapsed inline form of that same bar and uses the same tokens. */
+  .toc .nav__title {
+    color: var(--site-toctitle-text);
+    background: var(--site-toctitle-bg);
+  }
+
+  /*
 
      #toc-panel is footer/custom.html's drawer clone of the same widget; it
      keeps its own rules further down (it runs flush to the viewport's top
@@ -961,8 +969,8 @@
   }
 
   /* The summary IS the TOC's title bar in the collapsed inline form, so it
-     copies the theme's `.toc .nav__title` exactly -- white on the solid
-     --mm-primary-color fill, 0.75em bold, the theme's own 0.5rem 0.75rem
+     copies `.toc .nav__title` exactly -- --site-toctitle-text on
+     --site-toctitle-bg, 0.75em bold, the theme's own 0.5rem 0.75rem
      padding (without it the label and the chevron sit flush against the
      box's edges) and its 4px top corners. Karla rather than the theme's
      narrow stack, matching the .nav__title font rule above. */
@@ -973,8 +981,8 @@
     gap: 0.5em;
     cursor: pointer;
     padding: 0.5rem 0.75rem;
-    color: #fff;
-    background: var(--mm-primary-color);
+    color: var(--site-toctitle-text);
+    background: var(--site-toctitle-bg);
     border-start-start-radius: 4px;
     border-start-end-radius: 4px;
     font-family: "Karla", -apple-system, BlinkMacSystemFont, "Roboto",
@@ -1198,9 +1206,10 @@
      open, takes the full content width instead (closed, it is a centred
      pill -- see below): a different layer of the page, not another kind of
      quotation. The card form does that separating work, so
-     the colour only has to be findable: a slate-ink wash and border, mixed
-     the way .gloss's are but in a cool hue of its own. Palette and contrast
-     ratios are in _dirt.scss.
+     the colour only has to be findable: lapis border and label, a gold
+     hairline inset inside the border, and a gold dash before the label.
+     Palette and contrast ratios are in _dirt.scss; the round of demos that
+     chose it is in _notes/drafts/colors-sep15/.
 
      Deliberately NOT a markdown heading: the misconception pages set
      `toc_levels: 2..3` and quran.md sets none, so an `## TL;DR` would enter
@@ -1233,6 +1242,10 @@
     background-color: var(--site-tldr-fill);
     border: 1px solid var(--site-tldr-line);
     border-radius: 4px;
+    /* the gold hairline 4px inside the border: a fill-coloured spread, then
+       one more pixel of gold beneath it */
+    box-shadow: inset 0 0 0 4px var(--site-tldr-fill),
+                inset 0 0 0 5px var(--site-tldr-inset);
   }
 
   /* The break between the card and the intro: a short centred hairline,
@@ -1267,6 +1280,16 @@
      is the reading serif like the rest of the article -- Karla there made
      the summary look like chrome rather than like the page's own argument
      in short. */
+  .page__content .tldr__label::before {
+    content: "";
+    display: inline-block;
+    width: 1.4em;
+    height: 2px;
+    margin-inline-end: 0.6em;
+    vertical-align: middle;
+    background-color: var(--site-tldr-dash);
+  }
+
   .page__content .tldr__label {
     display: block;
     color: var(--site-tldr-label);
@@ -1357,6 +1380,12 @@
     margin-inline: auto;
     padding: 0.5em 1.05em;
     border-radius: 999px;
+    /* the gold inset and the dash are the open card's; the pill is plain */
+    box-shadow: none;
+  }
+
+  .page__content details.tldr:not([open]) > summary .tldr__label::before {
+    content: none;
   }
 
   .page__content details.tldr:not([open]) > summary .tldr__label {
@@ -2221,7 +2250,7 @@
     width: 2.75rem;
     height: 2.75rem;
     padding: 0;
-    color: #fff;
+    color: var(--site-toctitle-text);
     background: none;
     border: 0;
     cursor: pointer;
@@ -2476,14 +2505,14 @@
      hover glosses its JSON drives (site.js -> .gloss-term, #gloss-tip)
      ------------------------------------------------------------------ */
 
-  /* Same verdigris rule and faint wash as blockquote.gloss -- this is
-     apparatus, like a source panel, not part of the argument. Sits just
-     below the intro, above the first heading. */
+  /* Apparatus, not argument: a plain parchment card with no left rule.
+     It used .gloss's verdigris rule and wash and read as another gloss
+     quote. Sits just below the intro, above the first heading. */
   .glossary-key {
     margin: 1.5em 0;
     padding: 0.6em 0.9em;
-    border-inline-start: 0.375em solid var(--site-gloss-border);
-    background-color: var(--site-gloss-bg);
+    background-color: var(--site-glosskey-bg);
+    border-radius: 4px;
     font-size: 0.92em;
   }
 
@@ -2498,7 +2527,9 @@
     font-weight: 700;
     letter-spacing: 0.07em;
     text-transform: uppercase;
-    color: var(--mm-muted-text-color);
+    color: var(--site-src-text);
+    font-family: "Karla", -apple-system, BlinkMacSystemFont, "Roboto",
+                 "Segoe UI", Arial, sans-serif;
     cursor: pointer;
   }
 
@@ -2520,6 +2551,15 @@
 
   /* Theme's _base.scss puts margin-top:1em on every dt -- far too much
      between entries in this compact block. */
+  /* The theme's _page.scss sets `.page__content dt, dd` to the system sans
+     stack (and dd to a smaller size), which read as a stray third face next
+     to the Karla label and the serif prose. The definitions are prose. */
+  .page__content .glossary-key dt,
+  .page__content .glossary-key dd {
+    font-family: inherit;
+    font-size: inherit;
+  }
+
   .glossary-key dt {
     margin-top: 0.25em;
     font-weight: 700;

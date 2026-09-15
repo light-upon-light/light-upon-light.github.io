@@ -42,11 +42,9 @@ choices are not free:
   background *behind* white text (`.btn--primary`) and the default
   `blockquote` rule drawn *on* the page background.
   `--site-blockquote-border-default` decouples the two — see its comment in
-  `_dirt.scss` and its consumer in `_includes/head/custom.html`. `#toc-close`
-  needs no dark rule at all because of this — primary is dark in both modes,
-  so white text still works. `.nav__title` is on that list too: its fill is
-  the theme's `--mm-primary-color` bar with white text on it in both
-  palettes, and the mobile disclosure summary copies that pair.
+  `_dirt.scss` and its consumer in `_includes/head/custom.html`. The TOC
+  title bar no longer uses primary: `.toc .nav__title`, the mobile disclosure
+  summary and `#toc-close` all read `--site-toctitle-bg`/`-text`.
 - `--mm-active-color` (the TOC scrollspy highlight) has to stay dark enough
   that `yiq-contrasted()` still picks `--mm-active-color-contrast: #fff`. The
   stock 80%-white value would paint a near-white pill on a dark page.
@@ -365,8 +363,8 @@ other page had the summary — two widgets where there should be one. The value 
 theme and font-size bootstraps, because CSS keys off it too.
 
 The summary **is** the TOC's title bar in the collapsed form, so it copies
-the theme's `.toc .nav__title` exactly: white on the solid
-`--mm-primary-color` fill, `0.75em` bold, `0.5rem 0.75rem` of padding, 4px
+the `.toc .nav__title` bar exactly: `--site-toctitle-text` on
+`--site-toctitle-bg`, `0.75em` bold, `0.5rem 0.75rem` of padding, 4px
 top corners — plus all four corners when closed, since nothing then sits
 below it to carry the bottom pair. It has no theme rule of its own to
 inherit, which is why this is the one title rule `site.scss` still carries.

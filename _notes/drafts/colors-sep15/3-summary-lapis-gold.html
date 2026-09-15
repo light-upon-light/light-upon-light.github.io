@@ -1,0 +1,83 @@
+<title>Summary: lapis & gold variations</title>
+<link href="https://fonts.googleapis.com/css2?family=Karla:wght@400;700&family=Source+Serif+4:ital,wght@0,400;0,600;1,400&display=swap" rel="stylesheet">
+<style>
+  body{margin:0;font-family:Karla,system-ui,sans-serif;background:#bbb}
+  h1{margin:0;padding:14px 20px;font-size:17px;background:#222;color:#eee}
+  h1 small{display:block;font-weight:400;color:#aaa;font-size:13px;margin-top:4px}
+  .row{display:grid;grid-template-columns:200px 1fr 1fr;border-bottom:2px solid #888}
+  .tag{padding:14px;font-weight:700;font-size:14px;background:#eee;color:#222}
+  .tag small{display:block;font-weight:400;color:#555;margin-top:5px;line-height:1.35}
+  .sw{display:flex;gap:4px;margin-top:8px}.sw i{width:18px;height:18px;border-radius:3px;border:1px solid #0003}
+  .pane{padding:20px 24px;font-family:"Source Serif 4",Georgia,serif;font-size:15px;line-height:1.55;background:var(--bg);color:var(--tx)}
+  .L{--bg:#f3f3f3;--tx:#343434;--link:#8a5320}
+  .D{--bg:#1c1a17;--tx:#d3cbba;--link:#d9b483}
+  .pill{display:table;margin:0 auto 16px;padding:.45em 1.05em;border-radius:999px;font-family:Karla,sans-serif;font-size:.8em;font-weight:700;letter-spacing:.12em;text-transform:uppercase;background:var(--fill);color:var(--c);border:1px solid var(--line)}
+  .pill b{display:inline-block;vertical-align:middle;width:1.1em;height:2px;margin-right:.55em;background:var(--dash)}
+  .pill span{font-weight:400;letter-spacing:0;text-transform:none;margin-left:.8em;padding-left:.8em;border-left:1px solid var(--line);opacity:.8}
+  .card{position:relative;padding:1.3em 1.5em;border-radius:4px;background:var(--fill);border:1px solid var(--line)}
+  .lab{font-family:Karla,sans-serif;font-weight:700;letter-spacing:.12em;text-transform:uppercase;margin-bottom:.45em;font-size:.95em;color:var(--c);display:flex;align-items:center;gap:.6em}
+  .lab::before{content:"";width:1.4em;height:2px;background:var(--dash)}
+  .card p{margin:0}.card a{color:var(--link)}
+  .ev{margin:18px 0 0;padding:.6em 1em;border-left:.375em solid;font-size:.9em}
+  .L .q{border-color:#a8792a}.D .q{border-color:#d4a04a}
+  .L .g{border-color:#2e6b63;background:rgba(46,107,99,.05)}.D .g{border-color:#4fa89c;background:rgba(79,168,156,.08)}
+
+  /* v1 — option 2 as shown, plus the gold dash */
+  .L.v1{--fill:#e9edf3;--line:#b9c4d6;--c:#2d4b7a;--in:#c9a45a;--dash:#a8792a}
+  .D.v1{--fill:#1f232b;--line:#3b465a;--c:#9fb6dc;--in:#8f7340;--dash:#d4a04a}
+  /* v2 — deeper lapis, brighter gold */
+  .L.v2{--fill:#e2e8f3;--line:#a9b8d2;--c:#1f3f73;--in:#b8913f;--dash:#b8913f}
+  .D.v2{--fill:#1a2031;--line:#34436a;--c:#a8bfe8;--in:#c9a45a;--dash:#d9b25e}
+  /* v3 — lapis wash inside option 3's double gold frame */
+  .L.v3{--fill:#e9edf3;--line:#c9a45a;--c:#2d4b7a;--dash:#a8792a}
+  .D.v3{--fill:#1f232b;--line:#8f7340;--c:#9fb6dc;--dash:#d4a04a}
+  .v3 .card{border:4px double var(--line)} .v3 .pill{border:3px double var(--line)}
+  /* v4 — dusk: greyer blue-slate, softer */
+  .L.v4{--fill:#e7e9ee;--line:#bcc3cf;--c:#3a4a62;--in:#c2a063;--dash:#a8792a}
+  .D.v4{--fill:#23252b;--line:#404652;--c:#b0bccd;--in:#7f6a44;--dash:#c99a4e}
+  /* v5 — lapis on vellum: warm cream fill, lapis frame and label */
+  .L.v5{--fill:#f7f2e6;--line:#9fb0cc;--c:#2d4b7a;--in:#c9a45a;--dash:#a8792a}
+  .D.v5{--fill:#24211c;--line:#3f4c66;--c:#9fb6dc;--in:#8f7340;--dash:#d4a04a}
+  /* v6 — cartouche header: solid lapis band carrying a gold label */
+  .L.v6{--fill:#edf0f5;--line:#b9c4d6;--c:#e9c87e;--band:#2d4b7a;--dash:#e9c87e}
+  .D.v6{--fill:#1f232b;--line:#3b465a;--c:#e2bd6c;--band:#2a3a5c;--dash:#e2bd6c}
+  .v6 .card{padding:0;overflow:hidden}
+  .v6 .lab{background:var(--band);margin:0;padding:.55em 1.5em;font-size:.85em}
+  .v6 .card p{padding:1.1em 1.5em 1.3em}
+  .v6 .pill{background:var(--band);border-color:var(--band)}
+  /* v7 — gold corner brackets on a lapis wash, no full border */
+  .L.v7{--fill:#e9edf3;--line:transparent;--c:#2d4b7a;--in:#b8913f;--dash:#a8792a}
+  .D.v7{--fill:#1f232b;--line:transparent;--c:#9fb6dc;--in:#c9a45a;--dash:#d4a04a}
+  .v7 .card::before,.v7 .card::after{content:"";position:absolute;width:18px;height:18px;border:2px solid var(--in)}
+  .v7 .card::before{top:5px;left:5px;border-right:0;border-bottom:0}
+  .v7 .card::after{bottom:5px;right:5px;border-left:0;border-top:0}
+  .v7 .pill{border-color:var(--in)}
+  /* v8 — night-sky: rich lapis in both modes, gold hairline inset */
+  .L.v8{--fill:#dfe6f2;--line:#8fa3c6;--c:#183666;--in:#b08a3a;--dash:#a8792a}
+  .D.v8{--fill:#172035;--line:#2f4270;--c:#b7cbef;--in:#b8913f;--dash:#e0b863}
+
+  /* the inset gold hairline, for every variant that sets --in (except v7's brackets) */
+  .v1 .card,.v2 .card,.v4 .card,.v5 .card,.v8 .card{box-shadow:inset 0 0 0 4px var(--fill),inset 0 0 0 5px var(--in)}
+</style>
+
+<h1>Summary card — lapis &amp; gold, round 3 (light | dark)
+<small>Built from your picks: option 2's lapis wash + gold inset, option 3's double frame, option 8's gold dash before the label. Swatches: fill · border · label · gold.</small></h1>
+<div id="out"></div>
+<script>
+const V=[
+ ["1 · Option 2 + dash","Option 2 unchanged, plus the gold dash. The baseline.",{L:["#e9edf3","#b9c4d6","#2d4b7a","#c9a45a"],D:["#1f232b","#3b465a","#9fb6dc","#8f7340"]}],
+ ["2 · Deeper lapis","More saturated blue, brighter gold.",{L:["#e2e8f3","#a9b8d2","#1f3f73","#b8913f"],D:["#1a2031","#34436a","#a8bfe8","#c9a45a"]}],
+ ["3 · Lapis in a gold frame","Option 2's wash inside option 3's double gold border.",{L:["#e9edf3","#c9a45a","#2d4b7a","#a8792a"],D:["#1f232b","#8f7340","#9fb6dc","#d4a04a"]}],
+ ["4 · Dusk","Greyer, softer blue-slate. The quietest.",{L:["#e7e9ee","#bcc3cf","#3a4a62","#c2a063"],D:["#23252b","#404652","#b0bccd","#7f6a44"]}],
+ ["5 · Lapis on vellum","Warm cream fill; blue only in the border and label.",{L:["#f7f2e6","#9fb0cc","#2d4b7a","#c9a45a"],D:["#24211c","#3f4c66","#9fb6dc","#8f7340"]}],
+ ["6 · Cartouche header","A solid lapis band carries a gold label, like a sura heading panel.",{L:["#edf0f5","#2d4b7a","#e9c87e","#e9c87e"],D:["#1f232b","#2a3a5c","#e2bd6c","#e2bd6c"]}],
+ ["7 · Gold corners","Lapis wash, no border, gold corner brackets.",{L:["#e9edf3","—","#2d4b7a","#b8913f"],D:["#1f232b","—","#9fb6dc","#c9a45a"]}],
+ ["8 · Night sky","Richest lapis in both modes, gold inset.",{L:["#dfe6f2","#8fa3c6","#183666","#b08a3a"],D:["#172035","#2f4270","#b7cbef","#b8913f"]}],
+];
+const sw=a=>`<div class="sw">${a.map(c=>c==="—"?"":`<i style="background:${c}" title="${c}"></i>`).join("")}</div>`;
+document.getElementById("out").innerHTML=V.map(([n,s,cols],i)=>`<div class="row"><div class="tag">${n}<small>${s}</small><small>Light</small>${sw(cols.L)}<small>Dark</small>${sw(cols.D)}</div>${["L","D"].map(m=>`<div class="pane ${m} v${i+1}">
+ <div class="pill"><b></b>Summary<span>Show</span></div>
+ <div class="card"><div class="lab">Summary</div><p>The Qur'an presents itself as a book of guidance, and <a href="#">its own claims</a> about preservation are best tested against the manuscript record rather than assumed. Three strands of evidence converge on the same answer.</p></div>
+ <blockquote class="ev q">A quoted verse sits in a gold-ruled panel.</blockquote>
+ <blockquote class="ev g">The author's gloss sits in verdigris.</blockquote></div>`).join("")}</div>`).join("");
+</script>
