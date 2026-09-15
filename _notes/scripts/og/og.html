@@ -35,6 +35,10 @@
 
   html, body { width: 1200px; height: 630px; }
 
+  /* Hardcoded on purpose: this page is rendered standalone by gen.py and
+     can't read the site's custom properties. Values track the light palette
+     in _sass/minimal-mistakes/skins/_dirt.scss (#e9dcbe border, #343434
+     text) — update both if those change. */
   body {
     background: #e9dcbe;
     color: #343434;

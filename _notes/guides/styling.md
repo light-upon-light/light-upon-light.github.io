@@ -69,14 +69,14 @@ so it can't be mistaken for a `.gloss` panel) and a page-scoped
 Esc. No JS → no wrapper and no tip; the `<dl>` is the fallback, so it must
 always carry the full definition. New palette entries — `--site-glossterm-underline`,
 `--site-glosstip-bg`, `--site-glosstip-text`, `--site-glosstip-border` — in both
-`_dirt.scss` blocks (bare `:root` and `@mixin site-dark-palette`). Editing a
+`_dirt.scss` palettes (`@mixin site-light-palette` and `@mixin site-dark-palette`). Editing a
 definition in the YAML changes the key block and every hover at once.
 
 ## The `--site-*` palette
 
 This repo's own colours — the evidence blockquotes, the floating nav, the
 breadcrumb — are **deliberately not the skin's**: its own `--site-*`
-properties, defined in the same three `:root` blocks as the skin's `--mm-*`
+properties, defined in the same palette mixins as the skin's `--mm-*`
 ones in `_sass/minimal-mistakes/skins/_dirt.scss` (see `theme_internals.md`).
 `.src` sets `color`, never `opacity`, because opacity fades any link inside
 the block along with the text; at `--site-src-text`'s light value (`#6f6152`)
@@ -91,6 +91,16 @@ this one shadowed skin file, so `_dirt.scss` is the only place to `Read` or
 `Grep` the palette. Changing `minimal_mistakes_skin` means updating both the
 `--mm-*` values (from a built `main.css`) and the `--site-*` ones by hand, in
 both palettes.
+
+**Every colour on the site is set in `_dirt.scss`; nowhere else writes hex or
+`rgba()`.** It holds `@mixin site-light-palette` and `@mixin site-dark-palette`
+(each included from its selectors, so no palette is hand-copied), a
+mode-invariant group in bare `:root` (`--site-poster-*`, `--site-ondark-gold`:
+colours on surfaces dark in both modes, which must never gain a dark value),
+the `color-scheme` blocks, and the `@media print` block that re-includes the
+light mixin. A hand-copied print palette in `site.scss` once went stale by nine
+properties. The one exception is `_notes/scripts/og/og.html`, rendered
+standalone and so unable to read the properties; it carries a pointer comment.
 
 ## The floating nav
 
@@ -116,7 +126,7 @@ rule, so a class-scoped `html:not(.js) .theme-toggle` at `(0,2,1)` loses to
 `#theme-toggle` at `(1,0,0)` and to `#floating-nav button` at `(1,0,1)`. It did
 lose, silently, for as long as the rule existed — a reader without JavaScript
 got both controls in both places, and clicking them did nothing. The floating "large text is on"
-state uses a plain `#d4a04a` constant in *both* palettes for that reason — it
+state uses the mode-invariant `--site-ondark-gold` for that reason — it
 always wants the lifted gold that reads on a dark ground, so it isn't one of
 the `--site-*` properties that vary by mode.
 

@@ -18,9 +18,9 @@
    rules depend on winning specificity/source-order ties against head rules,
    so preserving that relative order is load-bearing.
 
-   This is a pure relocation. Nothing below has been reordered, renamed, or
-   rewritten -- diff it against the pre-move includes and the only change is
-   which file it lives in. The two include files still carry: the font
+   The move itself was a pure relocation. Since then the color-scheme and
+   print-palette blocks have moved on to _dirt.scss, which now holds every
+   colour -- write var(--site-*) here, never a literal. The two include files still carry: the font
    <link>s, the pre-paint theme/font-size bootstrap <script>s (must run
    before first paint, so they stay inline), the quran_section breadcrumb's
    own <style>/<script> (Liquid-templated, about to be replaced separately),
@@ -32,111 +32,6 @@
 /* --------------------------------------------------------------------------
    From _includes/head/custom.html
    -------------------------------------------------------------------------- */
-
-  /* form controls, scrollbars and the like. Left as `light dark` this would
-     have UA scrollbars and form controls follow the *system* while the page
-     follows the reader's *choice*. Keyed to the same attribute the palette
-     itself uses, in the same three-block shape as the custom properties in
-     _sass/minimal-mistakes/skins/_dirt.scss: explicit choice, then the
-     no-JS/no-choice system fallback. */
-  :root {
-    color-scheme: light;
-  }
-
-  :root[data-theme="dark"] {
-    color-scheme: dark;
-  }
-
-  @media (prefers-color-scheme: dark) {
-    :root:not([data-theme="light"]) {
-      color-scheme: dark;
-    }
-  }
-
-  /* Print always uses the light palette, regardless of the reader's stored
-     choice or system preference -- dark-on-light is the sensible default
-     for a printed page, and these are long reference articles people
-     realistically do print. Re-declaring the light values here (not just
-     `color-scheme: light`) is what actually repaints the page: every rule
-     in this stylesheet and the theme's own reads one of these `--mm-*` /
-     `--site-*` custom properties (see _sass/minimal-mistakes/skins/_dirt.scss
-     and the note at the top of theme_internals.md's dark-mode section), so
-     the properties are the only lever that moves them.
-
-     All three selectors -- bare, explicit dark, and the no-JS system
-     fallback -- carry the override, matching the same three-block shape
-     the palette itself uses above, so this wins regardless of which of
-     them would otherwise apply. Same specificity as each of those
-     originals; this file compiles after main.css (see the header comment
-     at the top of this file), so the later declaration in @media print
-     wins the tie without needing !important. Values are the light block
-     from _dirt.scss, copied verbatim -- not recomputed, for the same
-     reason the dark block there wasn't either. */
-  @media print {
-    :root,
-    :root[data-theme="dark"],
-    :root:not([data-theme="light"]) {
-      color-scheme: light;
-
-      --mm-background-color: #f3f3f3;
-      --mm-text-color: #343434;
-      --mm-muted-text-color: #8e8b82;
-      --mm-primary-color: #343434;
-      --mm-border-color: #e9dcbe;
-      --mm-footer-background-color: #e9dcbe;
-      --mm-link-color: #8a5320;
-      --mm-link-color-hover: #6e3f14;
-      --mm-link-color-visited: #6b5a48;
-      --mm-masthead-link-color: #343434;
-      --mm-masthead-link-color-hover: #343434;
-      --mm-navicon-link-color-hover: #d6d6d6;
-      --mm-focus-color: #343434;
-      --mm-active-color: #dcc8a4;
-      --mm-form-background-color: #f2f3f3;
-      --mm-code-background-color: #fafafa;
-      --mm-code-background-color-dark: #bdc1c4;
-      --mm-border-color-h00025: #afa58f;
-      --mm-primary-color-h00025: #272727;
-      --mm-primary-color-hover: #2a2a2a;
-      --mm-primary-color-h00010: #2f2f2f;
-      --mm-primary-color-h00050: #1a1a1a;
-      --mm-primary-color-alpha-25: rgba(52, 52, 52, 0.25);
-      --mm-text-color-alpha-06: rgba(52, 52, 52, 0.06);
-      --mm-primary-color-alpha-70: rgba(52, 52, 52, 0.7);
-      --mm-muted-text-color-alpha-50: rgba(142, 139, 130, 0.5);
-      --mm-on-accent: #fff;
-      --mm-muted-text-color-contrast: #fff;
-      --mm-active-color-contrast: #3d4144;
-      --mm-notice-bg-default: #e8e9ea;
-      --mm-notice-bg-primary: #cdcdcd;
-      --mm-notice-bg-info: #cee2e8;
-      --mm-notice-bg-warning: #eddcc3;
-      --mm-notice-bg-success: #cfe4cf;
-      --mm-notice-bg-danger: #f2d5d5;
-      --mm-code-notice-bg-default: #eee;
-      --mm-code-notice-bg-primary: #e0e0e0;
-      --mm-code-notice-bg-info: #e1eaed;
-      --mm-code-notice-bg-warning: #f0e7db;
-      --mm-code-notice-bg-success: #e1ebe1;
-      --mm-code-notice-bg-danger: #f3e4e4;
-      --site-quote-gold: #a8792a;
-      --site-src-text: #6f6152;
-      --site-src-border: #a1937c;
-      --site-gloss-border: #2e6b63;
-      --site-gloss-bg: rgba(46, 107, 99, 0.05);
-      --site-glosskey-bg: #ebe3d1;
-      --site-toctitle-bg: #dcc8a4;
-      --site-toctitle-text: #4a3f33;
-      --site-breadcrumb-sep: #c3b4a0;
-      --site-return-hover-bg: rgba(161, 147, 124, 0.14);
-      --site-floatnav-icon: #f3f3f3;
-      --site-floatnav-bg: rgba(52, 52, 52, 0.55);
-      --site-floatnav-border: #e9dcbe;
-      --site-floatnav-shadow: rgba(0, 0, 0, 0.3);
-      --site-tocbackdrop-bg: rgba(52, 52, 52, 0.5);
-      --site-blockquote-border-default: #343434;
-    }
-  }
 
   /* Selection colour: dark-only. Light mode never set one and keeps the
      browser default, so there's no --site-* property pairing it with a
@@ -1607,13 +1502,13 @@
      The background is the poster's own near-black rather than a tint of
      the page, so that any sliver visible around the poster -- or behind
      the player once the poster has gone -- is dark. Dark in both palettes by
-     construction, so this needs no --site-* property of its own. */
+     construction, so its property is a mode-invariant one (_dirt.scss). */
   .yt-embed__frame.is-loaded {
     position: relative;
     height: 0;
     padding-bottom: 56.25%;
     overflow: hidden;
-    background-color: #1e1b18;
+    background-color: var(--site-poster-ground);
     animation: yt-embed-open 0.28s ease-out both;
   }
 
@@ -1703,7 +1598,7 @@
     margin: 0;
     padding: 0;
     border: 0;
-    background-color: #1e1b18;
+    background-color: var(--site-poster-ground);
     cursor: pointer;
   }
 
@@ -1736,7 +1631,7 @@
     position: absolute;
     inset: 0;
     z-index: 1;
-    background-color: rgba(0, 0, 0, 0.28);
+    background-color: var(--site-poster-scrim);
   }
 
   .yt-embed__poster-title {
@@ -1746,8 +1641,8 @@
     left: 0;
     right: 0;
     padding: 0.55em 0.8em 1.4em;
-    background-image: linear-gradient(rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));
-    color: #f2ece1;
+    background-image: linear-gradient(var(--site-poster-title-scrim), transparent);
+    color: var(--site-poster-text);
     font-size: 0.85em;
     line-height: 1.3;
     text-align: left;
@@ -1765,17 +1660,17 @@
     align-items: center;
     width: 3.4em;
     height: 3.4em;
-    border: 1px solid rgba(242, 236, 225, 0.3);
+    border: 1px solid var(--site-poster-disc-border);
     border-radius: 50%;
-    background-color: rgba(22, 19, 16, 0.72);
+    background-color: var(--site-poster-disc);
     transition: transform 0.15s ease, background-color 0.15s ease;
   }
 
   /* A lighter tint of the skin's gold. NOT --site-quote-gold (blockquote.quote's
      border) -- that gold means "revealed text" and should not leak onto a
      control; this is the same hue lifted for contrast on a near-black
-     ground, and stays a plain constant since the ground it sits on (the
-     poster) is dark in both palettes. */
+     ground, and is mode-invariant (_dirt.scss) since the ground it sits on
+     (the poster) is dark in both palettes. */
   .yt-embed__poster-play::before {
     content: "";
     display: block;
@@ -1786,13 +1681,13 @@
     margin-left: 0.4em;
     border-style: solid;
     border-width: 0.7em 0 0.7em 1.15em;
-    border-color: transparent transparent transparent #c9973a;
+    border-color: transparent transparent transparent var(--site-poster-play);
   }
 
   .yt-embed__poster:hover .yt-embed__poster-play,
   .yt-embed__poster:focus-visible .yt-embed__poster-play {
     transform: scale(1.1);
-    background-color: rgba(22, 19, 16, 0.85);
+    background-color: var(--site-poster-disc-hover);
   }
 
   /* Fades out over the loading player rather than being torn out from in
@@ -2075,12 +1970,12 @@
   }
 
   /* "Large text is on", the same state the masthead copy shows in gold.
-     A plain constant, not --site-quote-gold: this button sits on a dark
+     Mode-invariant, not --site-quote-gold: this button sits on a dark
      translucent disc in both palettes, so it always wants the lifted gold
      that reads on a dark ground -- the dirt skin's darker light-mode gold
      would read muddy here even in light mode. */
   #floating-nav #floating-font-size-toggle[aria-pressed="true"] {
-    color: #d4a04a;
+    color: var(--site-ondark-gold);
   }
 
   /* ------------------------------------------------------------------

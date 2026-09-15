@@ -25,6 +25,9 @@ check there is.
   corpora are on disk under `_notes/data/` — see the citations guide.
 - **`Edit` fails on lines containing Arabic** (bidi reordering means
   `old_string` won't match). Anchor on surrounding Latin text, or script it.
+- **Every colour lives in `_sass/minimal-mistakes/skins/_dirt.scss`** (light,
+  dark, mode-invariant and print). Never write hex or `rgba()` in `site.scss`
+  or an include; add a property there. Hand-copied palettes drift.
 - **Search is off** (`search: false`). There is no magnifier, no index, and
   nothing reads a store; don't reason about the site as though there were.
 
