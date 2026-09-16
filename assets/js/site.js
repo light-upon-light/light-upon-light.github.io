@@ -1236,38 +1236,74 @@
     detect(); // synchronous initial detect, mirrors Gumshoe's own init()
 
     /* --- auto-scroll the sticky sidebar TOC so the active entry stays
-       visible, ported verbatim (Chrome-only gate and all -- the theme's own
-       comment says it "has issues on Firefox") from the theme's _main.js.
-       `e.target` here is the <li> the dispatch above bubbled from, exactly
-       as it was `event.target` on Gumshoe's own dispatch.
+       visible. `e.target` is the <li> the dispatch above bubbled from,
+       exactly as it was `event.target` on Gumshoe's own dispatch.
 
-       `behavior: "instant"`, not the original's "auto": "auto" defers to
-       the CSS `scroll-behavior` of the scrolling box, and site.scss now
-       sets `html { scroll-behavior: smooth }` (P1-5, replacing the
-       theme's SmoothScroll plugin). Left as "auto" this call would pick up
-       that smooth animation and lag behind the reader's own scrolling --
-       exactly the desync this function exists to prevent. "instant" opts
-       out of CSS scroll-behavior explicitly and reproduces what "auto"
-       actually did before that CSS rule existed. */
+       The theme's _main.js did this with `scrollIntoView` behind an
+       `if (window.chrome)` gate ("has issues on Firefox"). Both halves are
+       gone, and they were the same bug:
+
+       - **The gate meant no other engine ever got this.** On iPad Safari
+         the highlight moved but the list never followed it, so the active
+         entry sat outside the clipped box with no way to see it. That is
+         the whole reason the gate is dropped.
+       - **`scrollIntoView` scrolls every scrollable ancestor**, the
+         document included. This fires *during* a reader's own scroll, so a
+         document-level nudge mid-momentum is exactly the jank the gate was
+         papering over. The scroll container is `.toc__menu` itself
+         (`.sticky .toc .toc__menu { overflow-y: auto; max-height: calc(100vh
+         - 7em) }`, the theme's own rule), so scrolling it directly can move
+         nothing else. Assert `window.scrollY` is unchanged across a
+         dispatch when verifying.
+
+       `behavior: "instant"`, never "auto": "auto" defers to the CSS
+       `scroll-behavior` of the scrolling box, and site.scss sets
+       `html { scroll-behavior: smooth }` (P1-5, replacing the theme's
+       SmoothScroll plugin). The property does not inherit, so `.toc__menu`
+       is not smooth today -- but a `scrollTop =` assignment or an "auto"
+       here would silently animate the moment one of them changed, lagging
+       behind the reader's scrolling: the desync this function exists to
+       prevent.
+
+       Only the >= 64em sticky sidebar is in scope. Below it there is no
+       sticky TOC to scroll -- the in-flow disclosure and the drawer are
+       their own mechanisms -- which the `position: sticky` test enforces. */
     function scrollTocToContent(e) {
-      var target = e.target;
-      var scrollOptions = { behavior: "instant", block: "nearest", inline: "start" };
+      var item = e.target;
 
       var tocElement = document.querySelector("aside.sidebar__right.sticky");
       if (!tocElement) return;
       if (window.getComputedStyle(tocElement).position !== "sticky") return;
 
-      if (target.parentElement.classList.contains("toc__menu") && target === target.parentElement.firstElementChild) {
-        var header = document.querySelector("nav.toc header");
-        if (header) header.scrollIntoView(scrollOptions);
-      } else {
-        target.scrollIntoView(scrollOptions);
+      var menu = tocElement.querySelector(".toc__menu");
+      if (!menu || !menu.contains(item)) return;
+
+      // The first top-level entry: nothing above it to keep on screen, and
+      // the theme's <header> title bar sits OUTSIDE .toc__menu, so there is
+      // nothing to scroll to -- go to the top of the list instead.
+      if (item.parentElement === menu && item === menu.firstElementChild) {
+        menu.scrollTo({ top: 0, behavior: "instant" });
+        return;
       }
+
+      /* Measure the item's own link row, not the <li>: an h2 <li> contains
+         its expanded sub-list, so its rect is the height of the whole
+         section and aligning on that pushes the label off. Rects, not
+         offsetTop -- makeCollapsible() wraps the <a> in a
+         .toc__heading-row, which changes the offset parent. */
+      var row = item.querySelector("a") || item;
+      var menuRect = menu.getBoundingClientRect();
+      var rowRect = row.getBoundingClientRect();
+
+      var delta = 0;
+      if (rowRect.top < menuRect.top) delta = rowRect.top - menuRect.top;
+      else if (rowRect.bottom > menuRect.bottom) delta = rowRect.bottom - menuRect.bottom;
+      if (!delta) return;
+
+      menu.scrollTo({ top: menu.scrollTop + delta, behavior: "instant" });
     }
 
-    if (window.chrome) {
-      document.addEventListener("gumshoeActivate", scrollTocToContent);
-    }
+    document.addEventListener("gumshoeActivate", scrollTocToContent);
   })();
 
 /* --------------------------------------------------------------------------
