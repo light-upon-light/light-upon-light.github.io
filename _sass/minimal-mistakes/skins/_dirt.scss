@@ -119,8 +119,8 @@ $black: #000;
      Body text on summary card           11.7:1           9.8:1
      Summary label on card                6.1:1           6.7:1
      Link on summary card                 6.1:1           8.1:1
-     TOC title text on bar                6.0:1           8.9:1
-     TOC highlight text                   7.3:1           6.2:1
+     TOC title text on bar                7.5:1           8.9:1
+     TOC highlight text                   8.1:1           6.2:1
      White on primary fill               12.0:1           6.0:1
      Glossary tip text                   10.7:1          10.8:1
      Code text on code fill              11.7:1           9.8:1
@@ -150,7 +150,7 @@ $black: #000;
   --mm-masthead-link-color-hover: #{$ink-33};
   --mm-navicon-link-color-hover: #{$sand-90};
   --mm-focus-color: #{$ink-33};
-  --mm-active-color: #{$gold-tint}; // TOC scrollspy highlight, a pale tint of the quote gold
+  --mm-active-color: #{rgba($verdigris, 0.2)}; // TOC scrollspy highlight -- the gloss verdigris as a wash, a step up from the title bar's
   --mm-form-background-color: #{$paper-96};
   --mm-code-background-color: #{$paper-99};
   --mm-code-background-color-dark: #{$umber-78};
@@ -198,7 +198,15 @@ $black: #000;
   --site-gloss-border: #{$verdigris}; // blockquote.gloss border
   --site-gloss-bg: #{rgba($verdigris, 0.05)}; // blockquote.gloss background wash
   --site-glosskey-bg: #{$sand-92}; // .glossary-key parchment fill -- no rule, so it can't be mistaken for a .gloss panel
-  --site-toctitle-bg: #{$gold-tint}; // .toc .nav__title / .toc-disclosure summary fill -- the same pale gold as --mm-active-color
+  /* .toc .nav__title / .toc-disclosure summary fill. A verdigris wash, not
+     a solid: the pale gold that was here read as the one saturated warm on
+     a warm page, and put the site's emphasis colour on navigation chrome.
+     Washes, so it composites over .toc's own --mm-background-color fill --
+     which is opaque, and is also what makes the drawer opaque. Nothing
+     paints it twice: .toc .active > .toc__heading-row carries the highlight
+     and its <a> is explicitly transparent, and .toc .active ul a resets the
+     nested case, so no two half-transparent layers stack. */
+  --site-toctitle-bg: #{rgba($verdigris, 0.12)};
   --site-toctitle-text: #{$umber-38};
   /* TL;DR card (.tldr) -- "gilt edge": lifted paper, a warm hairline
      border, a soft shadow, and a gold fade along the top edge (open card

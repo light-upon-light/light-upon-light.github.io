@@ -43,10 +43,15 @@ and indent and opts back into the large-text bump, since its content is the
 article's own prose; only its summary stays pinned at the apparatus size.
 
 `.toc` keeps the theme's box and per-entry dividers at both widths; the title
-bar is recoloured to `--site-toctitle-bg`/`-text` (soft umber in light, sand
-in dark) because the solid primary fill read as too heavy. Two restyles of the
-title (a muted uppercase eyebrow over a hairline, then that eyebrow filled
-with `--mm-border-color` over a washed box) were tried and reverted. site.scss
+bar is recoloured to `--site-toctitle-bg`/`-text` (a verdigris wash in light,
+sand in dark) because the solid primary fill read as too heavy. The light
+value was a pale gold until it read as the one saturated warm on a warm page;
+the wash is the `.gloss` verdigris, which is why the active row (`--mm-active-color`,
+the same family a step stronger) moved with it. Both are `rgba()` of `$verdigris`,
+so they composite over `.toc`'s own opaque fill — and nothing paints either
+twice, which is what keeps two half-transparent layers from stacking. Two
+restyles of the title (a muted uppercase eyebrow over a hairline, then that
+eyebrow filled with `--mm-border-color` over a washed box) were tried and reverted. site.scss
 also adds the disclosure summary's copy of that bar, the Karla face, and the
 entry sizing. Never strip the box: the drawer clone's `.toc`
 **is** `#toc-panel`'s opaque surface. See `theme_internals.md`.
