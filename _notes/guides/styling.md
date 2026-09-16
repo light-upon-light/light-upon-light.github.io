@@ -26,11 +26,12 @@ now, not `footer_scripts` order — see the header comment in `site.js`.
 
 `.tldr` is the summary card at the top of every article — a full-width
 "gilt edge" panel (open: lifted paper fill, warm hairline border, soft shadow,
-gold fade along the top edge, gold label; closed pill: the same fill and border
-with a tighter shadow and no gold edge), deliberately refusing the left rule
-that marks the three evidence blockquotes. Every page authors it as a
+gold fade along the top edge, gold label; closed: the same fill, border and
+4px radius with a tighter shadow and no gold edge), deliberately refusing the
+left rule that marks the three evidence blockquotes. Every page authors it as a
 `<details>` and so opens collapsed (`details.tldr` in site.scss, CSS only —
-no JS), as a centred pill that widens to the full card when opened; the
+no JS), as a centred bar that widens to the full card when opened — it keeps
+the open card's own corner radius, since it is the same object at two sizes; the
 plain-`<div>`, always-open form is still styled and supported. Markup is `formatting_guide.md`;
 its `--site-tldr-*` values and their contrast ratios are in `_dirt.scss`.
 
