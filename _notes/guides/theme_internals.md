@@ -446,6 +446,27 @@ again:
   `site.js`'s `topInView`/`bottomInView` both truncate with `parseInt` to
   match.
 
+**The sticky sidebar's auto-scroll is no longer Chrome-only, and no longer
+uses `scrollIntoView`.** The theme's `_main.js` gated `scrollTocToContent`
+behind `if (window.chrome)` ("has issues on Firefox"), so on iPad Safari the
+scrollspy highlighted an entry the reader could not see — the highlight moved
+inside a clipped list that never followed it. The gate and the `scrollIntoView`
+call are one bug: `scrollIntoView` scrolls *every* scrollable ancestor, the
+document included, and this fires during the reader's own scroll, so the
+engines without the gate would have been nudged mid-momentum. `site.js` now
+scrolls `.toc__menu` directly — it is its own scroll container
+(`.sticky .toc .toc__menu { overflow-y: auto; max-height: calc(100vh - 7em) }`,
+the theme's rule) — by the delta that clamps the active *link's* rect into the
+menu's, so nothing outside the list can move. Measure the link, not the `<li>`:
+an h2 `<li>` contains its expanded sub-list and its rect is the whole section.
+Rects, not `offsetTop`, because `makeCollapsible()` changes the offset parent.
+The first top-level entry is a special case — the theme's `<header>` title bar
+sits outside `.toc__menu`, so there is nothing to scroll to and it goes to
+`top: 0`. Only the `>= 64em` sticky sidebar is in scope; the `position: sticky`
+test enforces that, and below it the disclosure and the drawer are their own
+mechanisms. The regression assertion is that `window.scrollY` is **identical**
+across a `gumshoeActivate` dispatch while `menu.scrollTop` changes.
+
 **GreedyNav is not fully inert with the single link `_data/navigation.yml`
 holds**, contrary to `masthead.html`'s own comment (accurate about GreedyNav
 undercounting the two appearance-toggle buttons' width, wrong about the
