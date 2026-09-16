@@ -4,6 +4,7 @@ general:
 
 - any place that has a summary of points, mention all expanded sections (literary, historical, natural, numerical)
 - describe the (literary, historical, natural, numerical) appropriatry in the brief mention everywhere
+- add Allah in key terms
 
 ---
 
