@@ -47,11 +47,19 @@ not free:
   `blockquote` rule drawn *on* the page background.
   `--site-blockquote-border-default` decouples the two — see its comment in
   `_dirt.scss` and its consumer in `_includes/head/custom.html`. The TOC
-  title bar no longer uses primary: `.toc .nav__title`, the mobile disclosure
-  summary and `#toc-close` all read `--site-toctitle-bg`/`-text`.
+  title bar no longer uses primary: `.toc .nav__title` and the mobile
+  disclosure summary read `--site-toctitle-bg`/`-text`, and `#toc-close`
+  reads `-text` over the bar it sits on.
 - `--mm-active-color` (the TOC scrollspy highlight) has to stay dark enough
-  that `yiq-contrasted()` still picks `--mm-active-color-contrast: #fff`. The
-  stock 80%-white value would paint a near-white pill on a dark page.
+  in **dark** mode that `yiq-contrasted()` still picks
+  `--mm-active-color-contrast: #fff`. The stock 80%-white value would paint
+  a near-white pill on a dark page. In light it is now an `rgba($verdigris)`
+  wash, a step stronger than `--site-toctitle-bg`'s. Two consumers paint it,
+  not one — the theme's `.toc .active a` and site.scss's
+  `.toc .active > .toc__heading-row` — and site.scss zeroes the `<a>`'s copy
+  inside a heading row and resets `.toc .active ul a`, so a semi-transparent
+  value never stacks with itself. Re-check that before giving either token
+  another alpha.
 
 Dirt's base16 syntax colours are already a dark scheme, so they carry over
 verbatim (still literal hex, not custom properties — see the comment in
