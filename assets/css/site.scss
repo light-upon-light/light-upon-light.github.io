@@ -1270,14 +1270,19 @@
      drops to 0.8em so the pill reads as a control, and a hairline divides
      it from the toggle word, which sits right against it instead of being
      pushed to the far edge. Beats the base rule's `margin-inline: 0` on
-     specificity (0,3,1 vs 0,2,0), so no !important is needed here. */
+     specificity (0,3,1 vs 0,2,0), so no !important is needed here.
+
+     It keeps the open card's own 4px radius rather than rounding fully:
+     same object at two sizes, and matching corners is what says so. The
+     inline padding comes back in from the 1.05em a full round needed to
+     hold the label clear of the curve. */
   .page__content details.tldr:not([open]) {
     width: fit-content;
     margin-inline: auto;
-    padding: 0.5em 1.05em;
-    border-radius: 999px;
-    /* A tighter shadow than the open card's, sized to a pill this short. No
-       gilt edge: a 3px band across a pill's rounded top reads as a smudge. */
+    padding: 0.5em 0.95em;
+    /* A tighter shadow than the open card's, sized to a bar this short. No
+       gilt edge: a 3px band this wide, on a box two words long, reads as a
+       smudge rather than the card's fade. */
     box-shadow: 0 2px 6px var(--site-tldr-shadow);
   }
 
