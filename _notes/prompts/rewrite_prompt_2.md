@@ -2,7 +2,7 @@
 
 ## Voice / Writing style of the page
 
-Please write it to match the voice and writing style of the rest of the page: clear, easy-to-read, direct, concise, natural, confident and affirmative. Don't write it like it's trying to be dramatic or written for effect or concessionary.
+Please write it to match the voice and writing style of the rest of the page: clear, easy-to-read, direct, concise, natural, confident and affirmative. Don't write it like it's trying to be dramatic or written for effect or concessionary. And don't keep putting caveats, just present the points/examples as they are.
 
 ## Formatting
 
@@ -226,3 +226,8 @@ Make this about 50% shorter for a compact website TL;DR box.
 
 ## Better writing style / voice
 Please rewrite it to match the voice and writing style of the rest of the page that is direct, concise, natural, confident and affirmative. Right now it sounds like it's trying to be dramatic and written for effect.
+
+## Historical / Natural / Numerical prompt
+The uploaded document is a page from an Islam apologetics website. The historical knowledge section now has some examples but they don't have their own bullet points and I want to add many more. Please research the strongest and most striking, clear and convincing historical knowledge examples in the quran (especially ones that would have been extremely hard or impossible to know at the time and place of the quran's revelation) and include them as examples in that section. And give me the section only back
+
+Please write it to match the voice and writing style of the rest of the page: clear, easy-to-read, direct, concise, natural, confident and affirmative. Don't write it like it's trying to be dramatic or written for effect or concessionary. And don't keep putting caveats, just present the examples as they are.
