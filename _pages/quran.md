@@ -658,7 +658,7 @@ It also describes features of the natural world with remarkable precision, inclu
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَٱلسَّمَآءَ بَنَيْنَـٰهَا بِأَيْي۟دٍ وَإِنَّا لَمُوسِعُونَ ۝٤٧﴾ <span class="ayah-ref">سُورَةُ الذَّارِيَاتِ</span></div>
     {: .quote }
-    > The word rendered “expanding” is *mūsiʿūn*, an active participle from the root for width and vastness, so it describes ongoing action: “We are making it wide.” Many classical exegetes read it as God's vast power or provision. Its plain wording also fits the modern finding that the universe is expanding, which no one in seventh-century Arabia had reason to propose.
+    > The word rendered “expanding” is *mūsiʿūn*, an active participle from the root for width and vastness, so it describes ongoing action: “We are making it wide.” Modern astronomy established that the universe itself is expanding. The Qur'an described the heaven in these terms in seventh-century Arabia, long before that expansion could be observed.
     {: .gloss }
 
 1. **A joined origin of the heavens and earth:** the Qur'an describes the heavens and the earth as once joined together and then split apart, and in the same verse describes water as the origin of all life.
@@ -666,7 +666,7 @@ It also describes features of the natural world with remarkable precision, inclu
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿أَوَلَمْ يَرَ ٱلَّذِينَ كَفَرُوٓا۟ أَنَّ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضَ كَانَتَا رَتْقًا فَفَتَقْنَـٰهُمَا ۖ وَجَعَلْنَا مِنَ ٱلْمَآءِ كُلَّ شَىْءٍ حَىٍّ ۖ أَفَلَا يُؤْمِنُونَ ۝٣٠﴾ <span class="ayah-ref">سُورَةُ الأَنبِيَاءِ</span></div>
     {: .quote }
-    > The phrase rendered “a joined entity” is *ratq*, things fused or stitched together, and “We separated them” translates *fataqnāhumā*, from *fatq*, the unstitching of what was joined. The verse makes the separation an act of God, and puts it to the disbelievers as something they should reflect on.
+    > The phrase rendered “a joined entity” is *ratq*: things fused or stitched together. “We separated them” translates *fataqnāhumā*, from *fatq*, the opening or separation of what had been joined. The Qur'an therefore describes the heavens and earth as having a common joined origin before their separation.
     {: .gloss }
     > The second statement in the same verse is equally striking: “We made from water every living thing.” Every known form of life on Earth depends on water and originated from it, and liquid water is so fundamental to life that its presence is one of the principal things scientists look for when assessing whether another world could support life.
     {: .gloss }
@@ -702,7 +702,7 @@ It also describes features of the natural world with remarkable precision, inclu
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿هُوَ ٱلَّذِى جَعَلَ ٱلشَّمْسَ ضِيَآءًۭ وَٱلْقَمَرَ نُورًۭا وَقَدَّرَهُۥ مَنَازِلَ لِتَعْلَمُوا۟ عَدَدَ ٱلسِّنِينَ وَٱلْحِسَابَ ۚ مَا خَلَقَ ٱللَّهُ ذَٰلِكَ إِلَّا بِٱلْحَقِّ ۚ يُفَصِّلُ ٱلْـَٔايَـٰتِ لِقَوْمٍۢ يَعْلَمُونَ ۝٥﴾ <span class="ayah-ref">سُورَةُ يُونُسَ</span></div>
     {: .quote }
-    > Elsewhere, the same distinction appears again: the Sun is described as a **“shining lamp”**, while the Moon is described as a **light** (25:61; 71:16). The Arabic word *nūr* [light] does not itself mean reflected light, so the Qur'an does not explicitly state the mechanism. The distinction nevertheless fits the physical reality precisely: the Sun generates its own visible light, while the Moon shines by reflecting light from the Sun.
+    > The same distinction appears elsewhere: the Sun is described as a **“shining lamp”**, while the Moon is described as a **light** (25:61; 71:16). That distinction matches the physical reality: the Sun produces its own visible light, while the Moon shines by reflecting the Sun's light.
     {: .gloss }
 
 1. **Milk formation:** the Qur'an draws attention to the production of milk inside livestock in relation to both digestive material and blood.
@@ -721,9 +721,9 @@ It also describes features of the natural world with remarkable precision, inclu
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَأَوْحَىٰ رَبُّكَ إِلَى ٱلنَّحْلِ أَنِ ٱتَّخِذِى مِنَ ٱلْجِبَالِ بُيُوتًا وَمِنَ ٱلشَّجَرِ وَمِمَّا يَعْرِشُونَ ۝٦٨ ثُمَّ كُلِى مِن كُلِّ ٱلثَّمَرَٰتِ فَٱسْلُكِى سُبُلَ رَبِّكِ ذُلُلًا ۚ يَخْرُجُ مِنۢ بُطُونِهَا شَرَابٌ مُّخْتَلِفٌ أَلْوَٰنُهُۥ فِيهِ شِفَآءٌ لِّلنَّاسِ ۗ إِنَّ فِى ذَٰلِكَ لَـَٔايَةً لِّقَوْمٍ يَتَفَكَّرُونَ ۝٦٩﴾ <span class="ayah-ref">سُورَةُ النَّحۡلِ</span></div>
     {: .quote }
-    > English translations cannot show it, but every command in the Arabic is feminine: *ittakhidhī* (“take”), *kulī* (“eat”), and *fa-slukī* (“follow”). So is the pronoun in *buṭūnihā* (“their bellies”). The bees that build, forage, and make honey are the workers, and every worker bee is female.
+    > English translations cannot show it, but every command addressed to the bee is is feminine: *ittakhidhī* (“take”), *kulī* (“eat”), and *fa-slukī* (“follow”). So is the pronoun in *buṭūnihā* (“their bellies”). The bees that build, forage, and make honey are the workers, and every worker bee is female.
     {: .gloss }
-    > A common objection to this is that: "*al-naḥl* [bees] is a collective noun and can be referred to using feminine grammatical forms, so the feminine forms do not prove anything about the bees' biological sex". But Arabic does not require *al-naḥl* to be feminine; classical Arabic allows either masculine or feminine grammatical forms. The Qur'an therefore makes a real grammatical choice in consistently using feminine forms here, and that choice matches the biology precisely.
+    > This is a genuine grammatical choice, not something Arabic forces automatically. The collective noun *al-naḥl* [bees] can take either masculine or feminine agreement in classical Arabic, yet the Qur'an consistently chooses the feminine forms in this passage. The grammar therefore matches the biology of the workers carrying out the actions described precisely.
     {: .gloss }
     > The same passage also says of honey that “in it is healing for people” (16:69). Honey is now used in modern wound care, and clinical research has documented its antibacterial and wound-healing properties. A 2026 systematic review of 22 randomized clinical trials found that honey dressings shortened healing across burns, ulcers, and surgical wounds, with particularly clear effects in burns and evidence of antibacterial activity.
     {: .gloss }
@@ -745,7 +745,7 @@ It also describes features of the natural world with remarkable precision, inclu
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿هُوَ ٱلَّذِى يُرِيكُمُ ٱلْبَرْقَ خَوْفًا وَطَمَعًا وَيُنشِئُ ٱلسَّحَابَ ٱلثِّقَالَ ۝١٢﴾ <span class="ayah-ref">سُورَةُ الرَّعۡدِ</span></div>
     {: .quote }
-    > Clouds look weightless from the ground, and most people's first instinct would be to think they're light, especially in the desert in 7th century Arabia. A large rain cloud in fact holds an enormous mass of water, suspended by rising air until it falls as rain.
+    > From the ground, clouds look light enough to float effortlessly across the sky. In reality, a large rain cloud contains an enormous mass of suspended water. Calling rain-bearing clouds *“heavy”* is therefore physically exact in a way that is not obvious from ordinary appearance—especially in the seventh-century Arabian setting in which the verse was first recited.
     {: .gloss }
 
 1. **Difficulty breathing at high altitude:** the Qur'an compares intense constriction of the chest to ascending into the sky.
@@ -753,7 +753,7 @@ It also describes features of the natural world with remarkable precision, inclu
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿فَمَن يُرِدِ ٱللَّهُ أَن يَهْدِيَهُۥ يَشْرَحْ صَدْرَهُۥ لِلْإِسْلَـٰمِ ۖ وَمَن يُرِدْ أَن يُضِلَّهُۥ يَجْعَلْ صَدْرَهُۥ ضَيِّقًا حَرَجًۭا كَأَنَّمَا يَصَّعَّدُ فِى ٱلسَّمَآءِ ۚ كَذَٰلِكَ يَجْعَلُ ٱللَّهُ ٱلرِّجْسَ عَلَى ٱلَّذِينَ لَا يُؤْمِنُونَ ۝١٢٥﴾ <span class="ayah-ref">سُورَةُ الأَنۡعَامِ</span></div>
     {: .quote }
-    > As altitude increases, atmospheric pressure falls and less oxygen is available with each breath. Increasing altitude therefore causes breathlessness and hypoxic stress, making breathing progressively more difficult as a person ascends.
+    > The comparison is physically exact. As a person climbs higher, atmospheric pressure falls and each breath supplies less oxygen, producing breathlessness, chest tightness, and increasing physiological distress. For people without aircraft, pressurized cabins, or modern knowledge of atmospheric pressure, the Qur'an's choice of *ascending into the sky* as the image for a chest becoming progressively tight is strikingly precise.
     {: .gloss }
 
 1. **Male and female from the emitted reproductive drop:** the Qur'an connects the creation of male and female specifically with the reproductive drop that is emitted.
@@ -761,7 +761,7 @@ It also describes features of the natural world with remarkable precision, inclu
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَأَنَّهُۥ خَلَقَ ٱلزَّوْجَيْنِ ٱلذَّكَرَ وَٱلْأُنثَىٰ ۝٤٥ مِن نُّطْفَةٍ إِذَا تُمْنَىٰ ۝٤٦﴾ <span class="ayah-ref">سُورَةُ النَّجۡمِ</span></div>
     {: .quote }
-    > In human reproduction, the egg contributes an X chromosome, while the fertilizing sperm carries either an X or a Y chromosome. The sperm in the emitted male reproductive fluid therefore determines whether the resulting embryo is chromosomally XX or XY.
+    > Modern genetics shows why the wording is significant. The egg contributes an X chromosome, while the fertilizing sperm carries either X or Y; the sperm from the **emitted reproductive fluid** therefore determines whether the embryo is chromosomally XX or XY. The Qur'an specifically connects the formation of male and female with the emitted drop, placing the determining contribution on the correct side of human reproduction centuries before chromosomes were known.
     {: .gloss }
 
 1. **A boundary between fresh and salt water:** the Qur'an describes fresh and salt water meeting while a separating boundary remains between them.
@@ -781,6 +781,8 @@ It also describes features of the natural world with remarkable precision, inclu
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿ٱللَّهُ ٱلَّذِى يُرْسِلُ ٱلرِّيَـٰحَ فَتُثِيرُ سَحَابًا فَيَبْسُطُهُۥ فِى ٱلسَّمَآءِ كَيْفَ يَشَآءُ وَيَجْعَلُهُۥ كِسَفًا فَتَرَى ٱلْوَدْقَ يَخْرُجُ مِنْ خِلَـٰلِهِۦ ۖ فَإِذَآ أَصَابَ بِهِۦ مَن يَشَآءُ مِنْ عِبَادِهِۦٓ إِذَا هُمْ يَسْتَبْشِرُونَ ۝٤٨﴾ <span class="ayah-ref">سُورَةُ الرُّومِ</span></div>
     {: .quote }
+    > The verses describe the process in sequence: winds move the clouds, separate clouds are brought together and piled up, rain emerges from within them, and hail comes from great cloud masses.
+    {: .gloss }
 
 1. **Fertilizing winds:** the Qur'an explicitly describes the winds as fertilizing.
     > “And We have sent the fertilizing winds and sent down water from the sky and given you drink from it. And you are not its retainers.” (**Sūrat al-Ḥijr 15:22**), Saheeh International
