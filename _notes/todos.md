@@ -33,7 +33,11 @@ quran:
 - adapt ideas, way of delivering info, and sources from evidence for the truth of islam link
 - make 19 numerical pattern stronger from linked video and link the video again under that point
 - add sources and further readings under each point, within a details block
-- expand on the quranic challenge to the arabs. https://youtu.be/cGIV-EijdVg this video makes good points. add it to literary miracle section
+- expand on the quranic challenge to the arabs.
+    - https://youtu.be/cGIV-EijdVg this video makes good points. add it to literary miracle section.
+    - arabs would celebrate 2 things: the birth of a child and a poet rising from a tribe.
+    - tribe had to change their name bec of poetry.
+    - poetry having immense power, like media these days.
 - add link: martin ling: the life of the prophet
 - add converts link
 - add point about "what would you expect from a book that talks about the breadth and depth of such topics from 7th century arabian unlettered man from the desert?"
