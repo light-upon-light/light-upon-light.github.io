@@ -33,6 +33,11 @@ quran:
 - adapt ideas, way of delivering info, and sources from evidence for the truth of islam link
 - make 19 numerical pattern stronger from linked video and link the video again under that point
 - add sources and further readings under each point, within a details block
+- expand on the quranic challenge to the arabs. https://youtu.be/cGIV-EijdVg this video makes good points. add it to literary miracle section
+- add link: martin ling: the life of the prophet
+- add converts link
+- add point about "what would you expect from a book that talks about the breadth and depth of such topics from 7th century arabian unlettered man from the desert?"
+- nature: ants speaking
 - review the details sections bec rn it looks a bit weird
 
 - miconceptions to add: inheritance

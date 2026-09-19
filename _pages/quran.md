@@ -705,6 +705,49 @@ It also describes features of the natural world with remarkable precision, inclu
     > Elsewhere, the same distinction appears again: the Sun is described as a **“shining lamp”**, while the Moon is described as a **light** (25:61; 71:16). The Arabic word *nūr* [light] does not itself mean reflected light, so the Qur'an does not explicitly state the mechanism. The distinction nevertheless fits the physical reality precisely: the Sun generates its own visible light, while the Moon shines by reflecting light from the Sun.
     {: .gloss }
 
+1. **Milk formation:** the Qur'an draws attention to the production of milk inside livestock in relation to both digestive material and blood.
+    > “And there is certainly a lesson for you in cattle: We give you to drink of what is in their bellies, from between digested food and blood: pure milk, pleasant to drink.” (**Sūrat al-Naḥl 16:66**), Dr. Mustafa Khattab, *The Clear Quran*
+    >
+    > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَإِنَّ لَكُمْ فِى ٱلْأَنْعَـٰمِ لَعِبْرَةً ۖ نُّسْقِيكُم مِّمَّا فِى بُطُونِهِۦ مِنۢ بَيْنِ فَرْثٍۢ وَدَمٍۢ لَّبَنًا خَالِصًۭا سَآئِغًۭا لِّلشَّـٰرِبِينَ ۝٦٦﴾ <span class="ayah-ref">سُورَةُ النَّحۡلِ</span></div>
+    {: .quote }
+    > Nutrients from digested food are absorbed through the digestive system and transported through the bloodstream. The mammary glands then draw the substances needed for milk production from the blood and synthesize milk from them. The verse therefore places milk in relation to the two physiological systems involved in providing its raw materials: digestion and blood circulation.
+    {: .gloss }
+
+<details class="quran-more quran-more--section" markdown="1">
+<summary>Show more knowledge of nature</summary>
+
+1. **Gender of the worker honey bee:** the Qur'an addresses the bees that build homes, gather from fruits, and produce honey in the feminine.
+    > “And your Lord inspired to the bee, ‘Take for yourself among the mountains, houses, and among the trees and [in] that which they construct. Then eat from all the fruits and follow the ways of your Lord laid down [for you].’ There emerges from their bellies a drink, varying in colors, in which there is healing for people. Indeed in that is a sign for a people who give thought.” (**Sūrat al-Naḥl 16:68–69**), Saheeh International
+    >
+    > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَأَوْحَىٰ رَبُّكَ إِلَى ٱلنَّحْلِ أَنِ ٱتَّخِذِى مِنَ ٱلْجِبَالِ بُيُوتًا وَمِنَ ٱلشَّجَرِ وَمِمَّا يَعْرِشُونَ ۝٦٨ ثُمَّ كُلِى مِن كُلِّ ٱلثَّمَرَٰتِ فَٱسْلُكِى سُبُلَ رَبِّكِ ذُلُلًا ۚ يَخْرُجُ مِنۢ بُطُونِهَا شَرَابٌ مُّخْتَلِفٌ أَلْوَٰنُهُۥ فِيهِ شِفَآءٌ لِّلنَّاسِ ۗ إِنَّ فِى ذَٰلِكَ لَـَٔايَةً لِّقَوْمٍ يَتَفَكَّرُونَ ۝٦٩﴾ <span class="ayah-ref">سُورَةُ النَّحۡلِ</span></div>
+    {: .quote }
+    > English translations cannot show it, but every command in the Arabic is feminine: *ittakhidhī* (“take”), *kulī* (“eat”), and *fa-slukī* (“follow”). So is the pronoun in *buṭūnihā* (“their bellies”). The bees that build, forage, and make honey are the workers, and every worker bee is female.
+    {: .gloss }
+    > A common objection to this is that: "*al-naḥl* [bees] is a collective noun and can be referred to using feminine grammatical forms, so the feminine forms do not prove anything about the bees' biological sex". But Arabic does not require *al-naḥl* to be feminine; classical Arabic allows either masculine or feminine grammatical forms. The Qur'an therefore makes a real grammatical choice in consistently using feminine forms here, and that choice matches the biology precisely.
+    {: .gloss }
+    > The same passage also says of honey that “in it is healing for people” (16:69). Honey is now used in modern wound care, and clinical research has documented its antibacterial and wound-healing properties. A 2026 systematic review of 22 randomized clinical trials found that honey dressings shortened healing across burns, ulcers, and surgical wounds, with particularly clear effects in burns and evidence of antibacterial activity.
+    {: .gloss }
+
+1. **Ants communicating warnings through sound:** in the story of Solomon, the Qur'an describes an ant detecting approaching danger and communicating a warning to the other ants, causing them to retreat into their homes for protection.
+    > “And when they came across a valley of ants, an ant warned, ‘O ants! Go quickly into your homes so Solomon and his armies do not crush you, unknowingly.’” (**Sūrat al-Naml 27:18**), Dr. Mustafa Khattab, *The Clear Quran*
+    >
+    > <div dir="rtl" lang="ar" class="quran-arabic">﴿حَتَّىٰٓ إِذَآ أَتَوْا۟ عَلَىٰ وَادِ ٱلنَّمْلِ قَالَتْ نَمْلَةٌۭ يَـٰٓأَيُّهَا ٱلنَّمْلُ ٱدْخُلُوا۟ مَسَـٰكِنَكُمْ لَا يَحْطِمَنَّكُمْ سُلَيْمَـٰنُ وَجُنُودُهُۥ وَهُمْ لَا يَشْعُرُونَ ۝١٨﴾ <span class="ayah-ref">سُورَةُ النَّمۡلِ</span></div>
+    {: .quote }
+    > Ant communication was long understood primarily through chemical signals such as pheromones, while their acoustic communication was largely overlooked. Modern research has since established that ants also communicate **through sound and vibration**, producing stridulatory signals by rubbing parts of their bodies together. These signals carry meaningful information to other ants and are used in situations including **alarm, distress, and danger**.
+    {: .gloss }
+    > Particularly strikingly, researchers found that these sounds can function as an **“emergency beacon”** when an ant is threatened, calling other ants to its aid. Playback experiments showed that nestmates respond specifically to recorded ant sounds: they approach the source, become alert, investigate it with their antennae, guard it, and engage in protective behavior, while ordinary noise does not produce the same response. The Qur'an therefore describes a real feature of ant behavior with remarkable specificity: **an individual ant can communicate a warning of danger to other ants, including through sound, and cause them to take protective action.**
+    {: .gloss }
+    > Carrie Arnold, [“Shhh, the Ants Are Talking,” *Science* (2013)](https://www.science.org/content/article/shhh-ants-are-talking); F. Barbero et al., [“Myrmica Ants and Their Butterfly Parasites with Special Focus on the Acoustic Communication,” *Psyche* (2012)](https://doi.org/10.1155/2012/725237); Luca P. Casacci et al., [“Ant Pupae Employ Acoustics to Communicate Social Status in Their Colony's Hierarchy,” *Current Biology* 23 (2013), 323–327](https://doi.org/10.1016/j.cub.2013.01.010).
+    {: .src }
+
+1. **Weight of clouds:** the Qur'an calls rain-bearing clouds heavy.
+    > “He is the One Who shows you lightning, inspiring ˹you with˺ hope and fear, and produces heavy clouds.” (**Sūrat al-Raʿd 13:12**), Dr. Mustafa Khattab, *The Clear Quran*
+    >
+    > <div dir="rtl" lang="ar" class="quran-arabic">﴿هُوَ ٱلَّذِى يُرِيكُمُ ٱلْبَرْقَ خَوْفًا وَطَمَعًا وَيُنشِئُ ٱلسَّحَابَ ٱلثِّقَالَ ۝١٢﴾ <span class="ayah-ref">سُورَةُ الرَّعۡدِ</span></div>
+    {: .quote }
+    > Clouds look weightless from the ground, and most people's first instinct would be to think they're light, especially in the desert in 7th century Arabia. A large rain cloud in fact holds an enormous mass of water, suspended by rising air until it falls as rain.
+    {: .gloss }
+
 1. **Difficulty breathing at high altitude:** the Qur'an compares intense constriction of the chest to ascending into the sky.
     > “Whoever Allah wills to guide, He opens their heart to Islam. But whoever He wills to leave astray, He makes their chest tight and constricted as if they were climbing up into the sky.” (**Sūrat al-Anʿām 6:125**), Dr. Mustafa Khattab, *The Clear Quran*
     >
@@ -712,9 +755,6 @@ It also describes features of the natural world with remarkable precision, inclu
     {: .quote }
     > As altitude increases, atmospheric pressure falls and less oxygen is available with each breath. Increasing altitude therefore causes breathlessness and hypoxic stress, making breathing progressively more difficult as a person ascends.
     {: .gloss }
-
-<details class="quran-more quran-more--section" markdown="1">
-<summary>Show more knowledge of nature</summary>
 
 1. **Male and female from the emitted reproductive drop:** the Qur'an connects the creation of male and female specifically with the reproductive drop that is emitted.
     > “And He created the pairs—males and females—from a sperm-drop when it is emitted.” (**Sūrat al-Najm 53:45–46**), Dr. Mustafa Khattab, *The Clear Quran*
@@ -730,26 +770,6 @@ It also describes features of the natural world with remarkable precision, inclu
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿۞ وَهُوَ ٱلَّذِى مَرَجَ ٱلْبَحْرَيْنِ هَـٰذَا عَذْبٌۭ فُرَاتٌۭ وَهَـٰذَا مِلْحٌ أُجَاجٌۭ وَجَعَلَ بَيْنَهُمَا بَرْزَخًۭا وَحِجْرًۭا مَّحْجُورًۭا ۝٥٣﴾ <span class="ayah-ref">سُورَةُ الفُرۡقَانِ</span></div>
     {: .quote }
     > This is seen where rivers meet the sea. Because fresh water and salt water differ in density, they do not immediately become one uniform body of water. In strongly stratified estuaries, fresh water can flow above denser salt water, producing distinct water masses separated by a pronounced interface while mixing occurs gradually between them.
-    {: .gloss }
-
-1. **Milk formation:** the Qur'an draws attention to the production of milk inside livestock in relation to both digestive material and blood.
-    > “And there is certainly a lesson for you in cattle: We give you to drink of what is in their bellies, from between digested food and blood: pure milk, pleasant to drink.” (**Sūrat al-Naḥl 16:66**), Dr. Mustafa Khattab, *The Clear Quran*
-    >
-    > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَإِنَّ لَكُمْ فِى ٱلْأَنْعَـٰمِ لَعِبْرَةً ۖ نُّسْقِيكُم مِّمَّا فِى بُطُونِهِۦ مِنۢ بَيْنِ فَرْثٍۢ وَدَمٍۢ لَّبَنًا خَالِصًۭا سَآئِغًۭا لِّلشَّـٰرِبِينَ ۝٦٦﴾ <span class="ayah-ref">سُورَةُ النَّحۡلِ</span></div>
-    {: .quote }
-    > Nutrients from digested food are absorbed through the digestive system and transported through the bloodstream. The mammary glands then draw the substances needed for milk production from the blood and synthesize milk from them. The verse therefore places milk in relation to the two physiological systems involved in providing its raw materials: digestion and blood circulation.
-    {: .gloss }
-
-1. **Gender of the worker honey bee:** the Qur'an addresses the bees that build homes, gather from fruits, and produce honey in the feminine.
-    > “And your Lord inspired to the bee, ‘Take for yourself among the mountains, houses, and among the trees and [in] that which they construct. Then eat from all the fruits and follow the ways of your Lord laid down [for you].’ There emerges from their bellies a drink, varying in colors, in which there is healing for people. Indeed in that is a sign for a people who give thought.” (**Sūrat al-Naḥl 16:68–69**), Saheeh International
-    >
-    > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَأَوْحَىٰ رَبُّكَ إِلَى ٱلنَّحْلِ أَنِ ٱتَّخِذِى مِنَ ٱلْجِبَالِ بُيُوتًا وَمِنَ ٱلشَّجَرِ وَمِمَّا يَعْرِشُونَ ۝٦٨ ثُمَّ كُلِى مِن كُلِّ ٱلثَّمَرَٰتِ فَٱسْلُكِى سُبُلَ رَبِّكِ ذُلُلًا ۚ يَخْرُجُ مِنۢ بُطُونِهَا شَرَابٌ مُّخْتَلِفٌ أَلْوَٰنُهُۥ فِيهِ شِفَآءٌ لِّلنَّاسِ ۗ إِنَّ فِى ذَٰلِكَ لَـَٔايَةً لِّقَوْمٍ يَتَفَكَّرُونَ ۝٦٩﴾ <span class="ayah-ref">سُورَةُ النَّحۡلِ</span></div>
-    {: .quote }
-    > English translations cannot show it, but every command in the Arabic is feminine: *ittakhidhī* (“take”), *kulī* (“eat”), and *fa-slukī* (“follow”). So is the pronoun in *buṭūnihā* (“their bellies”). The bees that build, forage, and make honey are the workers, and every worker bee is female.
-    {: .gloss }
-    > A common objection to this is that: "*al-naḥl* [bees] is a collective noun and can be referred to using feminine grammatical forms, so the feminine forms do not prove anything about the bees' biological sex". But Arabic does not require *al-naḥl* to be feminine; classical Arabic allows either masculine or feminine grammatical forms. The Qur'an therefore makes a real grammatical choice in consistently using feminine forms here, and that choice matches the biology precisely.
-    {: .gloss }
-    > The same passage also says of honey that “in it is healing for people” (16:69). Honey is now used in modern wound care, and clinical research has documented its antibacterial and wound-healing properties. A 2026 systematic review of 22 randomized clinical trials found that honey dressings shortened healing across burns, ulcers, and surgical wounds, with particularly clear effects in burns and evidence of antibacterial activity.
     {: .gloss }
 
 1. **Formation of rain clouds:** It describes the ordered processes of rain, clouds, winds, and the revival of dead land.
@@ -786,13 +806,6 @@ It also describes features of the natural world with remarkable precision, inclu
     > Earth's atmosphere performs several essential protective functions. It absorbs harmful solar radiation, including most dangerous ultraviolet radiation, moderates otherwise extreme temperatures, and causes most incoming meteoroids to burn up before reaching the ground.
     {: .gloss }
 
-1. **Weight of clouds:** the Qur'an calls rain-bearing clouds heavy.
-    > “He is the One Who shows you lightning, inspiring ˹you with˺ hope and fear, and produces heavy clouds.” (**Sūrat al-Raʿd 13:12**), Dr. Mustafa Khattab, *The Clear Quran*
-    >
-    > <div dir="rtl" lang="ar" class="quran-arabic">﴿هُوَ ٱلَّذِى يُرِيكُمُ ٱلْبَرْقَ خَوْفًا وَطَمَعًا وَيُنشِئُ ٱلسَّحَابَ ٱلثِّقَالَ ۝١٢﴾ <span class="ayah-ref">سُورَةُ الرَّعۡدِ</span></div>
-    {: .quote }
-    > Clouds look weightless from the ground. A large rain cloud in fact holds an enormous mass of water, suspended by rising air until it falls as rain.
-    {: .gloss }
 {: start="6"}
 
 </details>
