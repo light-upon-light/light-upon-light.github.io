@@ -1,0 +1,22 @@
+- over 23 years
+- piecemeal, out of order
+- prophet saaw could not read or write
+- in response to unforseen circumstances
+- through public oral recitation
+- no revisions or drafts
+- prophet had no earlier career or training as a literary or poet
+- yet on his first attempt, he produced a text that is considered by admirers and opponents alike, the summit of arabic eloquence by a far margin
+- challenged the arabs at the time, who were at the peak of Arabic mastery, to match it and they failed
+- contains specific fulfilled predictions
+- is perfectly preserved like no other scripture or text, and foretells its own preservation
+- its whole 600+ pages are memorized by millions of people today, and foretells its own ease of memorization
+- whom Arabic is not the first language of
+- contains precise description of natural phenonoma that were unknowable at the time
+- contains precise historical details that were unknowable at the time
+- contains astonishing mathematical structures in a text revealed piecemeal and out of order
+- calls to the simplest and most logical conception of God
+- contains coherent guidance for humanity and a whole system of law, underpinned by mercy and justice
+- appeals to reason and invites scrutiny
+- continues the line of prophecy through Prophets Abraham, Moses and Jesus
+- is the scripture for a quarter of humanity today, and the second largest religion
+- and has transformed the lives of billions historically
