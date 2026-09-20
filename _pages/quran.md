@@ -30,6 +30,7 @@ toc_mobile: expanded
 share: true
 
 glossary:
+  - allah
   - surah
   - hadith
 ---

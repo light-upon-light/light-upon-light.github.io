@@ -174,3 +174,13 @@ ghiyar:
     Abbasid caliph al-Mutawakkil from around 850 CE; with no basis in the
     Qur'an or the Prophet's ﷺ practice."
   match: ["ghiyar", "ghiyār"]
+
+allah:
+  label: "Allah"
+  short: "the Arabic name for God — the one Creator, the God of Abraham, Moses,
+    and Jesus; Arabic-speaking Jews and Christians use the same word, and the
+    prose on these pages renders it *God*."
+  # key-block only: the word appears almost solely inside quoted translations,
+  # which the wrapper does not skip, so auto-wrapping would underline the
+  # divine name through the scripture itself
+  match: []
