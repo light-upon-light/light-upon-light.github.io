@@ -1319,15 +1319,21 @@
     font-size: 0.85rem;
   }
 
-  /* .intro-toggles wraps the summary card and the key-terms block
-     (quran.md). With both closed they share one row -- key terms at the
-     left, the pill still centred -- instead of stacking two short controls
-     over a band of empty space. Opening either drops the grid and restores
-     the stacked layout. The children's !important margins are the
-     .tldr rules' above. Never nest :has() inside :has(): it voids the rule. */
+  /* .intro-toggles wraps the two summary cards and the key-terms block
+     (quran.md). With all three closed they share one row -- key terms at the
+     left, the two pills centred as a pair -- instead of stacking three short
+     controls over a band of empty space. Opening any of them drops the grid
+     and restores the stacked layout. The children's !important margins are
+     the .tldr rules' above. Never nest :has() inside :has(): it voids the
+     rule.
+
+     Four columns, not three: the two pills take their own `auto` cells
+     (2 and 3) so they sit side by side with the pair still optically centred
+     between the 1fr gutters. `.tldr--why` is listed first here and authored
+     first in the page, so DOM order matches reading order. */
   .page__content .intro-toggles:not(:has(details[open])) {
     display: grid;
-    grid-template-columns: 1fr auto 1fr;
+    grid-template-columns: 1fr auto auto 1fr;
     align-items: center;
     column-gap: 0.75em;
     margin-block: 1.6em;
@@ -1338,13 +1344,40 @@
     margin-block: 0 !important;
   }
 
-  .page__content .intro-toggles:not(:has(details[open])) > .tldr {
+  .page__content .intro-toggles:not(:has(details[open])) > .tldr--why {
     grid-column: 2;
+  }
+
+  .page__content .intro-toggles:not(:has(details[open])) > .tldr:not(.tldr--why) {
+    grid-column: 3;
   }
 
   .page__content .intro-toggles:not(:has(details[open])) > .glossary-key {
     grid-column: 1;
     justify-self: start;
+  }
+
+  /* Three controls do not fit one line on a phone: measured at 375px, the
+     row overflowed the column. Below $medium the grid becomes a centred
+     wrapping flex row -- key terms keeps the lead position it has on the
+     grid, and the two pills drop to a second line together rather than one
+     of them being orphaned. The row-gap is what the stacked form would have
+     had between two pills anyway. */
+  @media (max-width: 47.9375em) {
+    .page__content .intro-toggles:not(:has(details[open])) {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      gap: 0.6em 0.75em;
+    }
+
+    /* grid-column is inert under flex, but the auto margins the closed pill
+       sets (`margin-inline: auto`) would push its siblings apart, so the
+       pills give them up and let `justify-content` do the centring. */
+    .page__content .intro-toggles:not(:has(details[open])) > .tldr {
+      margin-inline: 0;
+    }
+
   }
 
   /* Neither stylesheet sets list-style on .page__content ul, so the marker

@@ -24,20 +24,27 @@
   `short` is authored as inline markdown in the data file; markdownify then
   strip the <p> wrapper so the same string works inline in <dd> and as the
   tooltip's innerHTML.
+
+  An entry marked `hidden: true` in the data file is emitted into the JSON
+  only, so it gets the hover but never appears in the visible <dl> -- for a
+  gloss that is not one of the article's Arabic key terms. It therefore has
+  no no-JS or print fallback, which is the trade the flag makes. A page whose
+  every entry is hidden still emits the JSON; only the <details> is dropped.
 {%- endcomment -%}
 {%- if page.glossary -%}
 {%- assign has_terms = false -%}
-{%- for key in page.glossary -%}{%- if site.data.glossary[key] -%}{%- assign has_terms = true -%}{%- endif -%}{%- endfor -%}
+{%- assign has_visible = false -%}
+{%- for key in page.glossary -%}{%- assign e = site.data.glossary[key] -%}{%- if e -%}{%- assign has_terms = true -%}{%- if e.hidden != true -%}{%- assign has_visible = true -%}{%- endif -%}{%- endif -%}{%- endfor -%}
 {%- if has_terms -%}
-<div class="glossary-key" markdown="0"><details class="glossary-key__box"><summary class="glossary-key__label">Key terms</summary><dl>
+<div class="glossary-key" markdown="0">{% if has_visible %}<details class="glossary-key__box"><summary class="glossary-key__label">Key terms</summary><dl>
 {%- for key in page.glossary -%}
 {%- assign e = site.data.glossary[key] -%}
-{%- if e -%}
+{%- if e and e.hidden != true -%}
 {%- assign def = e.short | markdownify | replace: '<p>', '' | replace: '</p>', '' | strip_newlines | strip -%}
 <dt>{{ e.label }}</dt><dd>{{ def }}</dd>
 {%- endif -%}
 {%- endfor -%}
-</dl></details><script type="application/json" id="glossary-data">[
+</dl></details>{% endif %}<script type="application/json" id="glossary-data">[
 {%- assign first = true -%}
 {%- for key in page.glossary -%}
 {%- assign e = site.data.glossary[key] -%}

@@ -9,7 +9,13 @@
 #          hover text, so keep it to a sentence
 #   match  surface forms the client-side wrapper looks for in the prose,
 #          matched case-insensitively on whole words. List every transliteration
-#          spelling that appears in the pages. Never add a bare English word.
+#          spelling that appears in the pages. Never add a bare English word --
+#          a multi-word English phrase specific enough not to misfire is the
+#          one exception (see `under-these-conditions`).
+#   hidden optional; `true` keeps the entry out of the visible key-terms <dl>
+#          and emits it into the hover JSON only, for a gloss that is not one
+#          of the article's Arabic terms. Such an entry has no no-JS or print
+#          fallback, which is the trade.
 #
 # Editing a definition here changes it everywhere: the key block and every
 # hover. See _notes/guides/formatting_guide.md ("Key-terms block").
@@ -185,3 +191,17 @@ allah:
   # inside a quoted translation; underlining the divine name there is intended
   # ("Allah's" needs no entry -- the apostrophe ends the word for the matcher)
   match: ["Allah", "Allāh"]
+
+under-these-conditions:
+  label: "under these conditions"
+  # hover-only: `hidden` keeps it out of the visible key-terms <dl>, which is
+  # a list of Arabic terms. This is a shorthand the "Most striking features"
+  # box uses twice so the same clause need not be spelled out each time; as a
+  # plain English phrase it would read as an intruder in that list. Cost: a
+  # no-JS or print reader gets the phrase with no definition anywhere.
+  hidden: true
+  short: "revealed over 23 years, piecemeal, in response to changing
+    circumstances, out of order, through public oral recitation, without
+    drafting or revision, by an unlettered man with no previous literary
+    career or training."
+  match: ["under these conditions"]

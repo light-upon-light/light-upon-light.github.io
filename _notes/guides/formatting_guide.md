@@ -74,6 +74,16 @@ and contrast ratios are in `_dirt.scss`. The
 label is a full-size titled bar; the card's prose is the reading serif, and
 a fading hairline below the card separates it from the article's intro.
 
+`quran.md` carries a **second card of the same kind** beside it, authored
+first so DOM order matches reading order: `<details class="tldr tldr--why">`,
+labelled "Why read this?", holding the short list of the Qur'an's most
+striking features. `tldr--why` adds no look of its own — it exists only so
+the `.intro-toggles` grid can tell the two pills apart and give them their
+own columns. Source draft: `_notes/drafts/most_striking_features.md`. The
+list is deliberately **not** headed `## Most Striking Features`: a heading
+inside a closed box points the TOC and scrollspy at hidden content, and the
+`tldr__label` span carries the title instead.
+
 On `quran.md` the card sits *below* the intro note rather than above it.
 Because a collapsed card is one line with nothing to read past, `site.js`
 leaves the mobile TOC disclosure at the top of the content — its move-below
@@ -152,11 +162,15 @@ out-of-order label doesn't leak into the rendered numbering.
 Every article that leans on recurring Arabic terms sets a `glossary:` list in
 its front matter (keys from `_data/glossary.yml`, in display order) and drops
 `{% include glossary-key.html %}` on its own line below the opening one or two
-paragraphs, before the first `##`. When it directly follows the `details.tldr` card (quran.md), wrap both in `<div class="intro-toggles" markdown="1">` so the closed pill stays centred with the key-terms box beside it on the left. It replaces the old hand-written
+paragraphs, before the first `##`. When it follows the `details.tldr` cards (quran.md), wrap them all in `<div class="intro-toggles" markdown="1">` so the closed pills stay centred as a pair with the key-terms box beside them on the left; below 48em the row becomes a centred wrapping flex row and key terms drops to its own line. It replaces the old hand-written
 `**Terms used below:**` / `*Terms:*` paragraphs. Definitions are edited only in
 `_data/glossary.yml` — never inline — since the same string feeds both the
 visible list and the hover gloss `site.js` wraps around later occurrences (see
-`styling.md`). The include's raw `<dl>`/`<script>` live in a `.html` file, so
+`styling.md`). An entry marked `hidden: true` there is emitted into the hover
+JSON only and never into the visible `<dl>`: the block is a list of the
+article's Arabic terms, so an English gloss such as `under-these-conditions`
+on `quran.md` takes the hover and stays out of it. The trade is that a hidden
+entry has no no-JS or print fallback. The include's raw `<dl>`/`<script>` live in a `.html` file, so
 MD033 does not apply; the `.md` only ever holds the Liquid tag. The list is
 a native `<details>` collapsed by default ("Key terms" is the `<summary>`); no
 JS, and the `<dl>` still shows for readers whose browser ignores `<details>`.

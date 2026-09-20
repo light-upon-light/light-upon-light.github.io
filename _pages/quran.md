@@ -33,11 +33,44 @@ glossary:
   - allah
   - surah
   - hadith
+  # hover-only (hidden: true in _data/glossary.yml) -- the shorthand the
+  # "Most striking features" box leans on twice; never shown in Key terms.
+  - under-these-conditions
 ---
 
 > This page presents evidence for the **miraculous nature** of the **Qur'an** and the **prophethood** of **Prophet Muhammad** ﷺ. Not every point is a miracle or proof on its own. Taken together, however, they form a cumulative case for the Qur'an's divine origin and the authenticity of the Prophet's mission. — *Note: this page is a work in progress.*
 
 <div class="intro-toggles" markdown="1">
+
+<details class="tldr tldr--why" markdown="1">
+<summary><span class="tldr__label">Why read this?</span></summary>
+
+Below are the most striking features of the Qur'an, the points people most often begin with when showing why it could not have come from a human.
+
+- Revealed over **23 years**.
+- Revealed **piecemeal and out of order**, rather than composed from beginning to end.
+- Revealed in response to **unforeseen events and circumstances**.
+- Delivered through **public oral recitation**.
+- Produced with **no drafts or revisions**.
+- Revealed through a man who **could not read or write**.
+- Prophet Muhammad ﷺ had **no previous career or training as a poet, writer, or literary figure**.
+- Yet from the outset, he recited a text regarded by admirers and opponents alike as the **summit of Arabic eloquence**.
+- It challenged the Arabs of its time—at the height of their mastery of Arabic—to **produce anything comparable**, and the challenge went unanswered.
+- It contains intricate **literary architecture and composition**, despite being revealed **under these conditions**.
+- It contains **specific predictions that were later fulfilled**.
+- It has been **preserved with extraordinary precision** like no other scripture or text, while also foretelling its own preservation.
+- Its entire **600+ pages are memorized by millions of people** today, many of whom do not speak Arabic as their first language—and it foretells its own ease of memorization.
+- It contains precise descriptions of **natural phenomena unknowable at the time**.
+- It contains precise **historical details inaccessible at the time**.
+- It contains striking **mathematical structures**, despite being revealed **under these conditions**.
+- It repeatedly **appeals to reason and invites scrutiny**.
+- It calls to the **simplest and most coherent conception of God**.
+- It gives a coherent system of **guidance, morality, and law**, underpinned by mercy and justice.
+- It presents itself as the continuation of the same line of prophecy through **Abraham, Moses, Jesus, and the prophets before them**.
+- Today it is the scripture of **roughly a quarter of humanity**.
+- It has shaped the beliefs, laws, societies, and lives of **billions of people across history**.
+
+</details>
 
 <details class="tldr" markdown="1">
 <summary><span class="tldr__label">Summary</span></summary>
