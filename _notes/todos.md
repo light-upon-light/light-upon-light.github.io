@@ -40,6 +40,9 @@ quran:
 - review the details sections bec rn it looks a bit weird
 
 - add a "most striking features" / "why you should read this" / whatever title that shows that these are the most striking features that would make one think the quran cannot be from a human, section. maybe add examples in it. and adapt those points into the sumamry. i have a draft for it right now
+- maybe make the above an actual section not a button
+- add "under these conditions" glossary hover over
+
 
 - miconceptions to add: inheritance
 
