@@ -70,6 +70,8 @@ Below are some of the Qur'an's striking features—the kinds of things that firs
 - Today it is the scripture of roughly a quarter of humanity.
 - It has shaped the beliefs, laws, societies, and lives of billions of people across history.
 
+This page goes into detail about the above points and many more, and supplements the argument with evidence of prophethood from the life of Prophet Muhammad ﷺ.
+
 </details>
 
 <details class="tldr" markdown="1">
