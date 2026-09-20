@@ -45,7 +45,7 @@ glossary:
 <details class="tldr tldr--why" markdown="1">
 <summary><span class="tldr__label">Why read this?</span></summary>
 
-Below are the most striking features of the Qur'an, the points people most often begin with when showing why it could not have come from a human.
+Below are some of the Qur'an's most striking features at first glance—the kinds of things that first make a person stop and consider whether there may be more to this book than a human explanation can account for.
 
 - Revealed over **23 years**.
 - Revealed **piecemeal and out of order**, rather than composed from beginning to end.
