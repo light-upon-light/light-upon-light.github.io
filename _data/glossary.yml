@@ -181,7 +181,7 @@ allah:
     Arabic-speaking Christians and Jews use the same word for God in their own
     scriptures and worship. It also shares a root with the Hebrew *Elohim* and
     Aramaic *Alaha*, which Jesus himself would have used."
-  # key-block only: the word appears almost solely inside quoted translations,
-  # which the wrapper does not skip, so auto-wrapping would underline the
-  # divine name through the scripture itself
-  match: []
+  # the pages' own prose says "God", so nearly every hit the wrapper finds is
+  # inside a quoted translation; underlining the divine name there is intended
+  # ("Allah's" needs no entry -- the apostrophe ends the word for the matcher)
+  match: ["Allah"]
