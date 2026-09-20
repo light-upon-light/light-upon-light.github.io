@@ -1364,8 +1364,6 @@
     }
 
     var SKIP = "a,h1,h2,h3,h4,h5,h6,pre,code,sup,button,.quran-arabic,.ayah-ref,.glossary-key,.gloss-term,.no-gloss";
-    var PER_TERM_CAP = 40;
-    var counts = {};
 
     function skip(node) {
       var el = node.parentNode;
@@ -1399,8 +1397,6 @@
         if (after && wordChar.test(after)) continue;
         var rec = byForm[m[0].toLowerCase()];
         if (!rec) continue;
-        if ((counts[rec.id] || 0) >= PER_TERM_CAP) continue;
-        counts[rec.id] = (counts[rec.id] || 0) + 1;
         (hits || (hits = [])).push([s, e, rec]);
       }
       if (!hits) return;

@@ -184,4 +184,4 @@ allah:
   # the pages' own prose says "God", so nearly every hit the wrapper finds is
   # inside a quoted translation; underlining the divine name there is intended
   # ("Allah's" needs no entry -- the apostrophe ends the word for the matcher)
-  match: ["Allah"]
+  match: ["Allah", "Allāh"]
