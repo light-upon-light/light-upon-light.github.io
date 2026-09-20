@@ -45,7 +45,7 @@ glossary:
 <details class="tldr tldr--why" markdown="1">
 <summary><span class="tldr__label">Why read this?</span></summary>
 
-Below are some of the Qur'an's most striking features at first glance—the kinds of things that first make a person stop and consider whether there may be more to this book than a human explanation can account for.
+Below are some of the Qur'an's striking features—the kinds of things that first make a person stop and consider whether this book could actually be what it claims: the word of God.
 
 - Revealed over **23 years**.
 - Revealed **piecemeal and out of order**, rather than composed from beginning to end.
