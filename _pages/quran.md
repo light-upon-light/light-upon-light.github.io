@@ -1224,7 +1224,7 @@ These teachings connect patience and hope with the duty to relieve suffering and
 {: #guidance-law-and-morality }
 
 1. The Qur'an presents itself as coming from the same Divine Author as the earlier scriptures: confirming their original teaching, expanding their guidance, and restoring what was altered over time.
-    > Note: "Allah" is the Arabic word for God, not the name of a different deity. Arabic-speaking Christians and Jews use the same word for God in their own scriptures and worship. It also shares a root with the Hebrew *Elohim* and Aramaic *Alaha*, which Jesus himself would have used.
+    > Note: "Allah" is the Arabic word for God, not the name of a different deity. Arabic-speaking Christians and Jews use "Allah" in their own speech, scriptures and worship. It also shares a root with the Hebrew *Elohim* and Aramaic *Alaha*, which Jesus himself would have used.
     {: .gloss }
 
 1. The Qur'an repeatedly presents mercy as a defining attribute of God. Every chapter but one opens with the invocation, **"In the name of God, the Most Compassionate, the Most Merciful."** Muslims are taught to say these words before beginning their actions, so mercy frames not only the Qur'an but the rhythm of everyday life.
