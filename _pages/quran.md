@@ -47,6 +47,8 @@ glossary:
 
 Below are some of the Qur'an's striking features at first glance—things that usually make people stop and consider whether this book could actually be what it claims: the word of God.
 
+It emerged under unusual conditions:
+
 - Revealed over 23 years.
 - Revealed piecemeal and out of order, rather than composed from beginning to end.
 - Revealed in response to unforeseen events and circumstances.
@@ -54,21 +56,36 @@ Below are some of the Qur'an's striking features at first glance—things that u
 - Produced with no drafts or revisions.
 - Revealed through a man who could not read or write.
 - Prophet Muhammad ﷺ had no previous career or training as a poet, writer, or literary figure.
-- Yet from the outset, he recited a text regarded by admirers and opponents alike as the summit of Arabic eloquence, by a far margin.
+
+Yet the text he recited was extraordinary from the outset:
+
+- It was regarded by admirers and opponents alike as the summit of Arabic eloquence, by a far margin.
 - It challenged its enemies, the Arabs of its time—at the height of their mastery of Arabic—to produce anything comparable, and the challenge went unanswered.
 - It contains intricate literary architecture and composition, despite being revealed under these conditions.
+- It contains striking mathematical structures, despite being revealed under these conditions.
+
+Its knowledge reaches beyond its time and place:
+
 - It contains specific predictions that were later fulfilled.
 - It contains precise descriptions of natural phenomena unknowable at the time.
 - It contains precise historical details inaccessible at the time.
-- It contains striking mathematical structures, despite being revealed under these conditions.
+
+It has been kept intact, as it said it would be:
+
 - It has been preserved with extraordinary precision like no other scripture or text, while also foretelling its own preservation.
 - Its entire 600+ pages are memorized by millions of people today, many of whom do not speak Arabic as their first language—and it foretells its own ease of memorization.
-- Its recitation moves those who listen to it: many weep on hearing it or describe a profound sense of peace, even without understanding Arabic.
+
+And it does all of this while calling people to God:
+
 - It repeatedly appeals to reason and invites scrutiny.
 - It calls to the simplest and most coherent conception of God.
 - It offers a profound spirituality that speaks to the heart as well as the mind, calling people to remembrance and love of God, and inner transformation.
 - It gives a coherent system of guidance, morality, and law, underpinned by mercy and justice.
 - It presents itself as the continuation of the same line of prophecy through Abraham, Moses, Jesus, and the prophets before them.
+
+And it has changed the people who receive it:
+
+- Its recitation moves those who listen to it: many weep on hearing it or describe a profound sense of peace, even without understanding Arabic.
 - Today it is the scripture of roughly a quarter of humanity.
 - It has shaped the beliefs, laws, societies, and lives of billions of people across history.
 
