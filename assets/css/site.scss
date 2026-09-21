@@ -795,17 +795,27 @@
      background of its own -- so a `#toc-panel .toc { border: 0 }` renders
      the drawer transparent over the article. */
 
-  /* Inside the mobile disclosure the summary is the title bar, and the
-     box's own top border and top corners would double it. The box keeps
-     its sides and bottom; the summary carries the rounded top edge. The
-     media query is load-bearing: the wrapper exists at every width, and at
-     $large the summary is display:none, so an unscoped rule would leave
-     the desktop sidebar's box open along its top edge. */
+  /* Inside the mobile disclosure the summary is the title bar, so the
+     <details> wrapper takes over the theme's box (border and corners) and
+     .toc drops its own: the title bar then sits inside the same border as
+     the entries, open or closed, as it does in the desktop sidebar.
+     Leaving the border on .toc drew it beside the list but not the summary.
+     The theme's 1px shadow is dropped rather than moved (it is a literal
+     rgba with no skin token). `overflow: hidden` clips the summary's fill
+     to the rounded corners. The media query is load-bearing: the wrapper
+     exists at every width, and at $large the summary is display:none and
+     .toc is the box again. */
   @media (max-width: 63.9375em) {
+    .toc-disclosure {
+      border: 1px solid var(--mm-border-color);
+      border-radius: 4px;
+      overflow: hidden;
+    }
+
     .toc-disclosure > .toc {
-      border-block-start: 0;
-      border-start-start-radius: 0;
-      border-start-end-radius: 0;
+      border: 0;
+      border-radius: 0;
+      box-shadow: none;
     }
   }
 

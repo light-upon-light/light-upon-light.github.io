@@ -393,11 +393,13 @@ of them were stripped at some point during this work and all had to come
 back.
 
 One exception, and it is scoped: inside the mobile disclosure the summary is
-the title bar itself, so `.toc-disclosure > .toc` drops its
-`border-block-start` and squares its top corners, **inside
-`@media (max-width: 63.9375em)` only**. The wrapper exists
-at every width and at `64em` the summary is `display: none`, so an unscoped
-version leaves the desktop sidebar's box open along its top edge.
+the title bar itself, so the `.toc-disclosure` wrapper carries the box
+(border, 4px corners, `overflow: hidden`) and `.toc` inside it drops its own
+border, radius and shadow, **inside `@media (max-width: 63.9375em)` only**.
+Leaving the border on `.toc` draws it beside the entries but not the summary,
+and the title bar reads as a separate strip. The wrapper exists at every
+width and at `64em` the summary is `display: none`, so an unscoped version
+leaves the desktop sidebar with no box.
 
 `toc_label` is defaulted to `On this page` in `_config.yml`'s `pages` scope
 rather than repeated in front matter; a page can still override it there. The
