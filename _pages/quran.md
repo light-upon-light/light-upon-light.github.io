@@ -51,7 +51,7 @@ The unusual circumstances of its revelation
 {: .group-label }
 
 - Revealed over the span of 23 years.
-- Revealed piecemeal and out of order, rather than composed from beginning to end.
+- Revealed piecemeal and out of final order, rather than composed from beginning to end.
 - Revealed in response to unforeseen events and circumstances.
 - Delivered through public oral recitation.
 - Produced with no revisions or retractions.
