@@ -47,18 +47,18 @@ glossary:
 
 Below are some of the Qur'an's striking features at first glance—things that usually make people stop and consider whether this book could actually be what it claims: the word of God.
 
-The circumstances of its revelation
+The unusual circumstances of its revelation
 {: .tldr__group }
 
-- Revealed over 23 years.
+- Revealed over the span of 23 years.
 - Revealed piecemeal and out of order, rather than composed from beginning to end.
 - Revealed in response to unforeseen events and circumstances.
 - Delivered through public oral recitation.
-- Produced with no drafts or revisions.
+- Produced with no revisions or retractions.
 - Revealed through a man who could not read or write.
 - Prophet Muhammad ﷺ had no previous career or training as a poet, writer, or literary figure.
 
-Its language and structure
+Its unmatched language and structure
 {: .tldr__group }
 
 - Yet from the outset, he recited a text regarded by admirers and opponents alike as the summit of Arabic eloquence, by a far margin.
@@ -88,7 +88,7 @@ And it does all of this while calling people to God:
 - It gives a coherent system of guidance, morality, and law, underpinned by mercy and justice.
 - It presents itself as the continuation of the same line of prophecy through Abraham, Moses, Jesus, and the prophets before them.
 
-Its impact
+And it has changed the people who receive it:
 {: .tldr__group }
 
 - Its recitation moves those who listen to it: many weep on hearing it or describe a profound sense of peace, even without understanding Arabic.
