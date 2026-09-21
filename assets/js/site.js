@@ -435,7 +435,7 @@
 
     function updateSectionButtons() {
       if (!prevBtn || !nextBtn) return;
-      prevBtn.disabled = activeIndex < 0 && !(checkpoint && cpAfter === -1 && checkpointReached()); // index 0 can still return to its own top
+      prevBtn.disabled = !prevTarget(); // nothing above: the top section's own heading, or no section yet
       nextBtn.disabled = activeIndex !== -1 && activeIndex >= tocLinks.length - 1;
     }
 
@@ -548,15 +548,23 @@
       checkpoint.scrollIntoView({ block: "start" });
     }
 
+    /* Where Up would go from here, or null when there is nowhere above --
+       which is what disables the button, so the two can't disagree. */
+    function prevTarget() {
+      if (checkpoint && activeIndex === cpAfter && checkpointReached()) {
+        if (checkpointTop() < -1) return goToCheckpoint; // scrolled past its top
+        return cpAfter >= 0 ? function () { goToSection(cpAfter); } : null;
+      }
+      if (checkpoint && activeIndex === cpAfter + 1 && !headingAboveViewport(activeIndex)) return goToCheckpoint;
+      if (activeIndex >= 0 && headingAboveViewport(activeIndex)) return function () { goToSection(activeIndex); };
+      if (activeIndex > 0) return function () { goToSection(activeIndex - 1); };
+      return null;
+    }
+
     if (prevBtn) {
       prevBtn.addEventListener("click", function () {
-        if (checkpoint && activeIndex === cpAfter && checkpointReached()) {
-          if (checkpointTop() < -1) goToCheckpoint(); // scrolled past its top
-          else goToSection(cpAfter);
-        } else if (checkpoint && activeIndex === cpAfter + 1 && !headingAboveViewport(activeIndex)) {
-          goToCheckpoint();
-        } else if (activeIndex >= 0 && headingAboveViewport(activeIndex)) goToSection(activeIndex);
-        else if (activeIndex > 0) goToSection(activeIndex - 1);
+        var go = prevTarget();
+        if (go) go();
       });
     }
     if (nextBtn) {
@@ -567,13 +575,13 @@
       });
     }
 
-    /* Above the first section the scrollspy stays silent, so when the
-       checkpoint sits there Up's state (enabled once it is reached) tracks
-       the scroll here instead. */
-    if (checkpoint && cpAfter === -1 && prevBtn) {
+    /* In the top section (or above it) Up's state changes with no spy
+       event -- its heading scrolling off the top, or a checkpoint above the
+       first heading being reached -- so it tracks the scroll there. */
+    if (prevBtn) {
       var ticking = false;
       window.addEventListener("scroll", function () {
-        if (ticking || activeIndex !== -1) return;
+        if (ticking || activeIndex > 0) return;
         ticking = true;
         window.requestAnimationFrame(function () {
           ticking = false;
