@@ -66,11 +66,13 @@ Below are some of the Qur'an's striking features at first glance—things that u
 - Its recitation moves those who listen to it: many weep on hearing it or describe a profound sense of peace, even without understanding Arabic.
 - It repeatedly appeals to reason and invites scrutiny.
 - It calls to the simplest and most coherent conception of God.
-- It addresses the heart as well as the mind, calling people to remembrance of God, repentance, and inner transformation.
+- It offers a profound spirituality that speaks to the heart as well as the mind, calling people to remembrance and love of God, and inner transformation.
 - It gives a coherent system of guidance, morality, and law, underpinned by mercy and justice.
 - It presents itself as the continuation of the same line of prophecy through Abraham, Moses, Jesus, and the prophets before them.
 - Today it is the scripture of roughly a quarter of humanity.
 - It has shaped the beliefs, laws, societies, and lives of billions of people across history.
+
+All of this is done by one book that was revealed orally under these conditions and that claims it is the word of God and that Prophet Muhammad ﷺ is His messenger.
 
 This page goes into detail about the above points and many more, and supplements the argument with evidence of prophethood from the life of Prophet Muhammad ﷺ.
 
