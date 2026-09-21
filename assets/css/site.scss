@@ -1358,26 +1358,27 @@
   }
 
   /* Three controls do not fit one line on a phone: measured at 375px, the
-     row overflowed the column. Below $medium the grid becomes a centred
-     wrapping flex row -- key terms keeps the lead position it has on the
-     grid, and the two pills drop to a second line together rather than one
-     of them being orphaned. The row-gap is what the stacked form would have
+     row overflowed the column. Below $medium key terms drops to a second
+     grid row, left-aligned as it is on the one-row grid, and the two pills
+     keep the first row centred as a pair. A wrapping flex row centred key
+     terms on its own line instead. The column-gap goes: the empty gutters'
+     two extra gaps wrapped "Why read this?" at 375px, so one margin between
+     the pills replaces it. The row-gap is what the stacked form would have
      had between two pills anyway. */
   @media (max-width: 47.9375em) {
     .page__content .intro-toggles:not(:has(details[open])) {
-      display: flex;
-      flex-wrap: wrap;
-      justify-content: center;
-      gap: 0.6em 0.75em;
+      column-gap: 0;
+      row-gap: 0.6em;
     }
 
-    /* grid-column is inert under flex, but the auto margins the closed pill
-       sets (`margin-inline: auto`) would push its siblings apart, so the
-       pills give them up and let `justify-content` do the centring. */
-    .page__content .intro-toggles:not(:has(details[open])) > .tldr {
-      margin-inline: 0;
+    .page__content .intro-toggles:not(:has(details[open])) > .tldr--why {
+      margin-inline-end: 0.75em;
     }
 
+    .page__content .intro-toggles:not(:has(details[open])) > .glossary-key {
+      grid-row: 2;
+      grid-column: 1 / -1;
+    }
   }
 
   /* Neither stylesheet sets list-style on .page__content ul, so the marker
