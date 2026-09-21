@@ -55,31 +55,31 @@ The unusual circumstances of its revelation
 - Revealed in response to unforeseen events and circumstances.
 - Delivered through public oral recitation.
 - Produced with no revisions or retractions.
-- Revealed through a man who could not read or write.
-- Prophet Muhammad ﷺ had no previous career or training as a poet, writer, or literary figure.
+- Revealed through Prophet Muhammad ﷺ, who could not read or write.
 
-Its unmatched language and structure
+Its eloquence and architecture
 {: .tldr__group }
 
+- Prophet Muhammad ﷺ had no previous career or training as a poet, writer, or literary figure.
 - Yet from the outset, he recited a text regarded by admirers and opponents alike as the summit of Arabic eloquence, by a far margin.
 - It challenged its enemies, the Arabs of its time—at the height of their mastery of Arabic—to produce anything comparable, and the challenge went unanswered.
-- It contains intricate literary architecture and composition, despite being revealed under these conditions.
+- It contains intricate literary architecture and composition all throughout, despite being revealed under these conditions.
 - It contains striking mathematical structures, despite being revealed under these conditions.
 
-Its knowledge and predictions
+Its knowledge beyond human reach
 {: .tldr__group }
 
-- It contains specific predictions that were later fulfilled.
+- It contains specific predictions of the future that were later fulfilled.
 - It contains precise descriptions of natural phenomena unknowable at the time.
-- It contains precise historical details inaccessible at the time.
+- It contains strikingly accurate historical details inaccessible at the time.
 
-Its preservation
+Its unparalleled preservation
 {: .tldr__group }
 
 - It has been preserved with extraordinary precision like no other scripture or text, while also foretelling its own preservation.
-- Its entire 600+ pages are memorized by millions of people today, many of whom do not speak Arabic as their first language—and it foretells its own ease of memorization.
+- Its entire 600+ pages are memorized by millions of people today, the majority of whom do not speak Arabic as their first language—and it foretells its own ease of memorization.
 
-And it does all of this while calling people to God:
+And it does all of the above while guiding people to God:
 {: .tldr__group }
 
 - It repeatedly appeals to reason and invites scrutiny.
@@ -88,14 +88,16 @@ And it does all of this while calling people to God:
 - It gives a coherent system of guidance, morality, and law, underpinned by mercy and justice.
 - It presents itself as the continuation of the same line of prophecy through Abraham, Moses, Jesus, and the prophets before them.
 
-And it has changed the people who receive it:
+And it has transformed the people who receive it:
 {: .tldr__group }
 
 - Its recitation moves those who listen to it: many weep on hearing it or describe a profound sense of peace, even without understanding Arabic.
+- Within a single generation, the vast majority of Arabs accepted it, including tribes that had fought hardest to suppress it.
 - Today it is the scripture of roughly a quarter of humanity.
 - It has shaped the beliefs, laws, societies, and lives of billions of people across history.
+- Prophet Muhammad ﷺ has been regarded by both muslims and non-muslims alike as one of the most influential figures in history.
 
-All of this is done by one book that was revealed orally under these conditions and that claims it is the word of God and that Prophet Muhammad ﷺ is His messenger.
+All of this is done by one book that was revealed orally under these conditions and that claims it is the word of God and that Prophet Muhammad ﷺ is the messenger of God.
 
 This page goes into detail about the above points and many more, and supplements the argument with evidence of prophethood from the life of Prophet Muhammad ﷺ.
 
