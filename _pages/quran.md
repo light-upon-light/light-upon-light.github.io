@@ -64,7 +64,7 @@ Its eloquence and architecture
 - Yet from the outset, he recited a text regarded by admirers and opponents alike as the summit of Arabic eloquence, by a far margin.
 - It challenged its enemies, the Arabs of its time—at the height of their mastery of Arabic—to produce anything comparable, and the challenge went unanswered.
 - It contains intricate literary architecture and composition all throughout, despite being revealed under these conditions.
-- It contains striking mathematical structures, despite being revealed under these conditions.
+- It contains striking numerical patterns, despite being revealed under these conditions.
 
 Its knowledge beyond human reach
 {: .group-label }
