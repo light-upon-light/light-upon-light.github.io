@@ -456,6 +456,13 @@ again:
   `site.js`'s `topInView`/`bottomInView` both truncate with `parseInt` to
   match.
 
+**`#prev-section`/`#next-section` also stop at `.intro-toggles`** (the
+Summary / Key terms row), between whichever two TOC headings it falls
+between. The spy never activates it, so the buttons measure it against the
+same 20px line themselves. The spy dispatches `gumshoeDeactivate` (as Gumshoe
+does) so the buttons see it drop back to "nothing reached" above the first
+heading; without it their index goes stale there and Next skips a stop.
+
 **The sticky sidebar's auto-scroll is no longer Chrome-only, and no longer
 uses `scrollIntoView`.** The theme's `_main.js` gated `scrollTocToContent`
 behind `if (window.chrome)` ("has issues on Firefox"), so on iPad Safari the

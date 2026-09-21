@@ -435,7 +435,7 @@
 
     function updateSectionButtons() {
       if (!prevBtn || !nextBtn) return;
-      prevBtn.disabled = activeIndex < 0; // index 0 can still return to its own top
+      prevBtn.disabled = activeIndex < 0 && !(checkpoint && cpAfter === -1 && checkpointReached()); // index 0 can still return to its own top
       nextBtn.disabled = activeIndex !== -1 && activeIndex >= tocLinks.length - 1;
     }
 
@@ -495,6 +495,14 @@
           expandActiveSection(sourceToc, link);
         }, 180);
       });
+
+      /* Only matters when nothing replaces it: scrolling back above the
+         first heading. On a normal transition gumshoeActivate follows at
+         once and sets the real index. */
+      document.addEventListener("gumshoeDeactivate", function () {
+        activeIndex = -1;
+        updateSectionButtons();
+      });
     }
 
     /* --- prev / next section: step through the same flat link list,
@@ -515,17 +523,63 @@
       return !!target && target.getBoundingClientRect().top < -1; // -1: sub-pixel landing after a jump
     }
 
+    /* The Summary / Key terms row (.intro-toggles, quran.md) is one extra
+       stop between whichever two sections it falls between. It isn't a
+       heading, so the scrollspy never activates it: "reached" is measured
+       here against the same 20px line, and scrollIntoView lands it there
+       via scroll-padding-top. cpAfter is the index of the last section
+       whose heading precedes it (-1: it comes before them all). */
+    var checkpoint = document.querySelector(".page__content .intro-toggles");
+    var cpAfter = -1;
+    if (checkpoint) {
+      tocLinks.forEach(function (link, i) {
+        var t = document.getElementById(decodeURIComponent(link.hash.slice(1)));
+        if (t && checkpoint.compareDocumentPosition(t) & Node.DOCUMENT_POSITION_PRECEDING) cpAfter = i;
+      });
+    }
+
+    function checkpointTop() {
+      return parseInt(checkpoint.getBoundingClientRect().top, 10);
+    }
+    function checkpointReached() {
+      return checkpointTop() <= 21; // 20px line + sub-pixel landing
+    }
+    function goToCheckpoint() {
+      checkpoint.scrollIntoView({ block: "start" });
+    }
+
     if (prevBtn) {
       prevBtn.addEventListener("click", function () {
-        if (activeIndex >= 0 && headingAboveViewport(activeIndex)) goToSection(activeIndex);
+        if (checkpoint && activeIndex === cpAfter && checkpointReached()) {
+          if (checkpointTop() < -1) goToCheckpoint(); // scrolled past its top
+          else goToSection(cpAfter);
+        } else if (checkpoint && activeIndex === cpAfter + 1 && !headingAboveViewport(activeIndex)) {
+          goToCheckpoint();
+        } else if (activeIndex >= 0 && headingAboveViewport(activeIndex)) goToSection(activeIndex);
         else if (activeIndex > 0) goToSection(activeIndex - 1);
       });
     }
     if (nextBtn) {
       nextBtn.addEventListener("click", function () {
-        if (activeIndex === -1) goToSection(0);
+        if (checkpoint && activeIndex === cpAfter && !checkpointReached()) goToCheckpoint();
+        else if (activeIndex === -1) goToSection(0);
         else if (activeIndex < tocLinks.length - 1) goToSection(activeIndex + 1);
       });
+    }
+
+    /* Above the first section the scrollspy stays silent, so when the
+       checkpoint sits there Up's state (enabled once it is reached) tracks
+       the scroll here instead. */
+    if (checkpoint && cpAfter === -1 && prevBtn) {
+      var ticking = false;
+      window.addEventListener("scroll", function () {
+        if (ticking || activeIndex !== -1) return;
+        ticking = true;
+        window.requestAnimationFrame(function () {
+          ticking = false;
+          updateSectionButtons();
+        });
+      }, { passive: true });
     }
 
     updateSectionButtons();
@@ -1177,6 +1231,15 @@
                                                  // in this repo's CSS currently
                                                  // keys off it outside .toc, but
                                                  // the contract includes it
+      // Gumshoe's own counterpart event. Needed by the floating nav to see
+      // the spy drop back to "nothing reached" above the first heading,
+      // which fires no gumshoeActivate after it.
+      if (li) {
+        li.dispatchEvent(new CustomEvent("gumshoeDeactivate", {
+          bubbles: true,
+          detail: { link: item.nav, content: item.content }
+        }));
+      }
     }
 
     function activate(item) {
