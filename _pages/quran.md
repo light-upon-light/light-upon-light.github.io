@@ -88,7 +88,7 @@ It does all of the above while guiding people to God
 - It offers a profound spirituality that speaks to the heart as well as the mind, calling people to remembrance and love of God, and inner transformation.
 - It gives a detailed system of guidance, morality, and law, underpinned by mercy and justice.
 - It spans theology, worship, ethics, human nature, family life, economics, social justice, war and peace, history, the natural world, and the unseen, woven into a single coherent narrative.
-- It presents itself as the continuation of the same line of prophecy through prophets Abraham, Moses, Jesus, and the prophets before them, peace be upon them all.
+- It presents itself as the continuation of the same line of prophecy through Prophets Abraham, Moses, Jesus, and the prophets before them, peace be upon them all.
 
 And it has transformed the people who receive it
 {: .group-label }
