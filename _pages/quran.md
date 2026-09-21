@@ -107,7 +107,7 @@ This page goes into detail about the above points and many more, and supplements
 <div class="intro-toggles" markdown="1">
 
 <details class="tldr" markdown="1">
-<summary><span class="tldr__label">Summary</span></summary>
+<summary><span class="tldr__label">Summary of Page</span></summary>
 
 The Qur'an and the life of Prophet Muhammad ﷺ together form a powerful cumulative case for his prophethood.
 
