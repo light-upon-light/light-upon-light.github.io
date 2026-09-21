@@ -55,7 +55,7 @@ The unusual circumstances of its revelation
 - Revealed in response to unforeseen events and circumstances.
 - Delivered through public oral recitation.
 - Produced with no revisions or retractions.
-- Revealed through Prophet Muhammad ﷺ, who could not read or write in the desert of seventh-century Arabia.
+- Revealed through Prophet Muhammad ﷺ, who could not read or write in seventh-century Arabia.
 
 Its eloquence and architecture
 {: .group-label }
