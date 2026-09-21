@@ -55,7 +55,7 @@ The unusual circumstances of its revelation
 - Revealed in response to unforeseen events and circumstances.
 - Delivered through public oral recitation.
 - Produced with no revisions or retractions.
-- Revealed through Prophet Muhammad ﷺ, who could not read or write.
+- Revealed through Prophet Muhammad ﷺ, who could not read or write in the desert of seventh-century Arabia.
 
 Its eloquence and architecture
 {: .group-label }
@@ -70,7 +70,8 @@ Its knowledge beyond human reach
 {: .group-label }
 
 - It contains specific predictions of the future that were later fulfilled.
-- It contains precise descriptions of natural phenomena unknowable at the time.
+- It transcends the scientific misconceptions that were inevitable in seventh-century desert Arabia, and instead presents an understanding of the natural world that is perfectly coherent with what is known today.
+- It contains precise descriptions of the natural world unknowable at the time.
 - It contains strikingly accurate historical details inaccessible at the time.
 
 Its unparalleled preservation
