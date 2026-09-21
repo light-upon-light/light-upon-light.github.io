@@ -77,7 +77,7 @@ Its knowledge beyond human reach
 Its unparalleled preservation
 {: .group-label }
 
-- It has been preserved with extraordinary precision like no other scripture or text, while also foretelling its own preservation.
+- It has been preserved with extraordinary precision like no other scripture or text—and it foretells its own preservation.
 - Its entire 600+ pages are memorized by millions of people today, the majority of whom do not speak Arabic as their first language—and it foretells its own ease of memorization.
 
 It does all of the above while guiding people to God
