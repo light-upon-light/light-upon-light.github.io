@@ -1179,11 +1179,17 @@
   .page__content .tldr > :first-child { margin-top: 0; }
   .page__content .tldr > :last-child { margin-bottom: 0; }
 
-  /* A paragraph that leads into a list belongs to that list, not the one
-     above it. Without this the "Why read this?" group lead-ins sat ~7px
-     under the previous list and ~21px over their own, reading backwards. */
-  .page__content .tldr > ul + p { margin-top: 1.4em; }
-  .page__content .tldr > p:has(+ ul) { margin-bottom: 0.5em; }
+  /* Group labels inside a card's list ("Why read this?"): plain paragraphs,
+     never headings -- see formatting_guide.md. The `.tldr ul { margin: 0 }`
+     below leaves a list ending flush, so without these a label sat ~7px
+     under the previous group and ~21px over its own, reading backwards. */
+  .page__content .tldr__group {
+    margin-top: 1.4em;
+    margin-bottom: 0.5em;
+    text-decoration: underline;
+    text-decoration-thickness: 1px;
+    text-underline-offset: 0.25em;
+  }
 
   /* The label is the card's title and has to read as one -- at 0.72em it
      was a caption. Karla and the uppercase tracking stay (this is the UI
