@@ -1362,19 +1362,43 @@
     justify-self: start;
   }
 
-  /* On a phone the key-terms pill would squeeze the centred one: below
-     $medium key terms drops to a second grid row, left-aligned as it is on
-     the one-row grid, and the summary pill keeps the first row. */
+  /* On a phone the 1fr gutters are too narrow for key terms beside a
+     centred pill (at 320px it would overflow), so below $medium the two sit
+     side by side as a centred pair instead. Wrapping is only the fallback
+     for a viewport too narrow even for that. */
   @media (max-width: 47.9375em) {
     .page__content .intro-toggles:not(:has(details[open])) {
-      column-gap: 0;
-      row-gap: 0.6em;
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      gap: 0.6em 0.75em;
     }
 
-    .page__content .intro-toggles:not(:has(details[open])) > .glossary-key {
-      grid-row: 2;
-      grid-column: 1 / -1;
+    /* The closed pill's own `margin-inline: auto` would swallow the row's
+       free space and push the pair apart; same specificity, later wins. */
+    .page__content .intro-toggles:not(:has(details[open])) > * {
+      margin-inline: 0;
     }
+
+    /* key terms first, as it sits at the left of the one-row grid */
+    .page__content .intro-toggles:not(:has(details[open])) > .glossary-key {
+      order: -1;
+    }
+  }
+
+  /* Where the pills end a "Why Read This?"-style section (quran.md), a
+     short centred gold hairline -- the same fade as the open .tldr card's
+     ::after -- divides them from the Show more button above, which is
+     centred too and otherwise read as one cluster of controls with them.
+     A background rather than a pseudo-element, since ::before on a grid or
+     flex container becomes a layout item. */
+  .page__content .read-more ~ .intro-toggles {
+    padding-block-start: 1.6em;
+    background-image: linear-gradient(to right, transparent,
+                                      var(--site-tldr-edge), transparent);
+    background-repeat: no-repeat;
+    background-position: top center;
+    background-size: 6em 1px;
   }
 
   /* Neither stylesheet sets list-style on .page__content ul, so the marker

@@ -46,6 +46,8 @@ article's own prose; only its summary stays pinned at the apparatus size.
 `mask-image` (so no colour is needed), with a "Show more"/"Show less" button
 that `site.js` inserts after it; the script also sets `.is-clamped`, so no-JS
 and print show the full body. A body that already fits is left unclamped.
+An `.intro-toggles` row after it gets a short centred gold hairline on top,
+so the button and the pills don't read as one cluster.
 
 `.toc` keeps the theme's box and per-entry dividers at both widths; the title
 bar is recoloured to `--site-toctitle-bg`/`-text` (a verdigris wash in light,
