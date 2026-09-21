@@ -56,6 +56,7 @@ Below are some of the Qur'an's striking features—the kinds of things that firs
 - Prophet Muhammad ﷺ had no previous career or training as a poet, writer, or literary figure.
 - Yet from the outset, he recited a text regarded by admirers and opponents alike as the summit of Arabic eloquence.
 - It challenged its enemies, the Arabs of its time—at the height of their mastery of Arabic—to produce anything comparable, and the challenge went unanswered.
+- Its recitation moves those who listen to it: many weep on hearing it or describe a profound sense of peace, even without understanding Arabic.
 - It contains intricate literary architecture and composition, despite being revealed under these conditions.
 - It contains specific predictions that were later fulfilled.
 - It has been preserved with extraordinary precision like no other scripture or text, while also foretelling its own preservation.
