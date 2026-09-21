@@ -82,7 +82,10 @@ the `.intro-toggles` grid can tell the two pills apart and give them their
 own columns. Source draft: `_notes/drafts/most_striking_features.md`. The
 list is deliberately **not** headed `## Most Striking Features`: a heading
 inside a closed box points the TOC and scrollspy at hidden content, and the
-`tldr__label` span carries the title instead.
+`tldr__label` span carries the title instead. The list is split into groups
+by one-line lead-in paragraphs ending in a colon, for the same reason not
+headings; `site.scss` spaces a `p` after a `ul` so each lead-in sits with the
+list it introduces.
 
 On `quran.md` the card sits *below* the intro note rather than above it.
 Because a collapsed card is one line with nothing to read past, `site.js`
