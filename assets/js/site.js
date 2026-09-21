@@ -1524,3 +1524,46 @@
     window.addEventListener("scroll", onReflow, { passive: true });
     window.addEventListener("resize", onReflow);
   })();
+
+/* --------------------------------------------------------------------------
+   Read-more clamp (.read-more)
+
+   Shows a section body as its first few faded lines plus a "Show more"
+   button (quran.md's "Why Read This?"); the clamp height and fade are
+   `.read-more.is-clamped` in site.scss. Independent of everything above.
+   Progressive enhancement: with no JS nothing is clamped and there is no
+   button, so the full body shows. A body short enough to fit the clamp is
+   left alone rather than given a button that reveals nothing.
+   -------------------------------------------------------------------------- */
+
+  (function () {
+    var boxes = document.querySelectorAll(".page__content .read-more");
+    Array.prototype.forEach.call(boxes, function (box, n) {
+      box.classList.add("is-clamped");
+      if (box.scrollHeight <= box.clientHeight + 1) {
+        box.classList.remove("is-clamped");
+        return;
+      }
+      if (!box.id) box.id = "read-more-" + (n + 1);
+
+      var btn = document.createElement("button");
+      btn.type = "button";
+      btn.className = "read-more__toggle";
+      btn.setAttribute("aria-controls", box.id);
+      btn.setAttribute("aria-expanded", "false");
+      btn.textContent = "Show more";
+      box.parentNode.insertBefore(btn, box.nextSibling);
+
+      btn.addEventListener("click", function () {
+        var open = box.classList.toggle("is-clamped") === false;
+        btn.setAttribute("aria-expanded", open ? "true" : "false");
+        btn.textContent = open ? "Show less" : "Show more";
+        // Collapsing from far down the opened body would leave the reader
+        // stranded past the section; bring its start back into view.
+        if (!open && box.getBoundingClientRect().top < 0) {
+          var head = box.previousElementSibling || box;
+          head.scrollIntoView({ block: "start" });
+        }
+      });
+    });
+  })();

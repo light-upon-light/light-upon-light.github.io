@@ -34,75 +34,13 @@ glossary:
   - surah
   - hadith
   # hover-only (hidden: true in _data/glossary.yml) -- the shorthand the
-  # "Most striking features" box leans on twice; never shown in Key terms.
+  # "Why Read This?" section leans on twice; never shown in Key terms.
   - under-these-conditions
 ---
 
 > This page presents evidence for the **miraculous nature** of the **Qur'an** and the **prophethood** of **Prophet Muhammad** ﷺ. Not every point is a miracle or proof on its own. Taken together, however, they form a cumulative case for the Qur'an's divine origin and the authenticity of the Prophet's mission. — *Note: this page is a work in progress.*
 
 <div class="intro-toggles" markdown="1">
-
-<details class="tldr tldr--why" markdown="1">
-<summary><span class="tldr__label">Why read this?</span></summary>
-
-Below are some of the Qur'an's striking features—things that usually make people stop and consider whether this book could actually be what it claims: the word of God.
-
-The unusual circumstances of its revelation
-{: .tldr__group }
-
-- Revealed over the span of 23 years.
-- Revealed piecemeal and out of order, rather than composed from beginning to end.
-- Revealed in response to unforeseen events and circumstances.
-- Delivered through public oral recitation.
-- Produced with no revisions or retractions.
-- Revealed through Prophet Muhammad ﷺ, who could not read or write.
-
-Its eloquence and architecture
-{: .tldr__group }
-
-- Prophet Muhammad ﷺ had no previous career or training as a poet, writer, or literary figure.
-- Yet from the outset, he recited a text regarded by admirers and opponents alike as the summit of Arabic eloquence, by a far margin.
-- It challenged its enemies, the Arabs of its time—at the height of their mastery of Arabic—to produce anything comparable, and the challenge went unanswered.
-- It contains intricate literary architecture and composition all throughout, despite being revealed under these conditions.
-- It contains striking mathematical structures, despite being revealed under these conditions.
-
-Its knowledge beyond human reach
-{: .tldr__group }
-
-- It contains specific predictions of the future that were later fulfilled.
-- It contains precise descriptions of natural phenomena unknowable at the time.
-- It contains strikingly accurate historical details inaccessible at the time.
-
-Its unparalleled preservation
-{: .tldr__group }
-
-- It has been preserved with extraordinary precision like no other scripture or text, while also foretelling its own preservation.
-- Its entire 600+ pages are memorized by millions of people today, the majority of whom do not speak Arabic as their first language—and it foretells its own ease of memorization.
-
-It does all of the above while guiding people to God
-{: .tldr__group }
-
-- It repeatedly appeals to reason and invites scrutiny.
-- It calls to the simplest and most coherent conception of God.
-- It offers a profound spirituality that speaks to the heart as well as the mind, calling people to remembrance and love of God, and inner transformation.
-- It gives a detailed system of guidance, morality, and law, underpinned by mercy and justice.
-- It spans theology, worship, ethics, human nature, family life, economics, social justice, war and peace, history, the natural world, and the unseen, woven into a single coherent narrative.
-- It presents itself as the continuation of the same line of prophecy through Abraham, Moses, Jesus, and the prophets before them.
-
-And it has transformed the people who receive it
-{: .tldr__group }
-
-- Its recitation moves those who listen to it: many weep on hearing it or describe a profound sense of peace, even without understanding Arabic.
-- Within a single generation, the vast majority of Arabs accepted it, including tribes that had fought hardest to suppress it.
-- Today it is the scripture of roughly a quarter of humanity.
-- It has shaped the beliefs, laws, societies, and lives of billions of people across history.
-- Prophet Muhammad ﷺ has been regarded by both muslims and non-muslims alike as one of the most influential figures in history.
-
-All of this is done by one book that was revealed orally under these conditions and that claims it is the word of God and that Prophet Muhammad ﷺ is the messenger of God.
-
-This page goes into detail about the above points and many more, and supplements the argument with evidence of prophethood from the life of Prophet Muhammad ﷺ.
-
-</details>
 
 <details class="tldr" markdown="1">
 <summary><span class="tldr__label">Summary</span></summary>
@@ -134,6 +72,70 @@ The case is therefore cumulative: the Qur'an's extraordinary qualities, the Prop
 </details>
 
 {% include glossary-key.html %}
+
+</div>
+
+## Why Read This?
+{: #why-read-this }
+
+<div class="read-more" markdown="1">
+
+Below are some of the Qur'an's striking features—things that usually make people stop and consider whether this book could actually be what it claims: the word of God.
+
+The unusual circumstances of its revelation
+{: .group-label }
+
+- Revealed over the span of 23 years.
+- Revealed piecemeal and out of order, rather than composed from beginning to end.
+- Revealed in response to unforeseen events and circumstances.
+- Delivered through public oral recitation.
+- Produced with no revisions or retractions.
+- Revealed through Prophet Muhammad ﷺ, who could not read or write.
+
+Its eloquence and architecture
+{: .group-label }
+
+- Prophet Muhammad ﷺ had no previous career or training as a poet, writer, or literary figure.
+- Yet from the outset, he recited a text regarded by admirers and opponents alike as the summit of Arabic eloquence, by a far margin.
+- It challenged its enemies, the Arabs of its time—at the height of their mastery of Arabic—to produce anything comparable, and the challenge went unanswered.
+- It contains intricate literary architecture and composition all throughout, despite being revealed under these conditions.
+- It contains striking mathematical structures, despite being revealed under these conditions.
+
+Its knowledge beyond human reach
+{: .group-label }
+
+- It contains specific predictions of the future that were later fulfilled.
+- It contains precise descriptions of natural phenomena unknowable at the time.
+- It contains strikingly accurate historical details inaccessible at the time.
+
+Its unparalleled preservation
+{: .group-label }
+
+- It has been preserved with extraordinary precision like no other scripture or text, while also foretelling its own preservation.
+- Its entire 600+ pages are memorized by millions of people today, the majority of whom do not speak Arabic as their first language—and it foretells its own ease of memorization.
+
+It does all of the above while guiding people to God
+{: .group-label }
+
+- It repeatedly appeals to reason and invites scrutiny.
+- It calls to the simplest and most coherent conception of God.
+- It offers a profound spirituality that speaks to the heart as well as the mind, calling people to remembrance and love of God, and inner transformation.
+- It gives a detailed system of guidance, morality, and law, underpinned by mercy and justice.
+- It spans theology, worship, ethics, human nature, family life, economics, social justice, war and peace, history, the natural world, and the unseen, woven into a single coherent narrative.
+- It presents itself as the continuation of the same line of prophecy through Abraham, Moses, Jesus, and the prophets before them.
+
+And it has transformed the people who receive it
+{: .group-label }
+
+- Its recitation moves those who listen to it: many weep on hearing it or describe a profound sense of peace, even without understanding Arabic.
+- Within a single generation, the vast majority of Arabs accepted it, including tribes that had fought hardest to suppress it.
+- Today it is the scripture of roughly a quarter of humanity.
+- It has shaped the beliefs, laws, societies, and lives of billions of people across history.
+- Prophet Muhammad ﷺ has been regarded by both muslims and non-muslims alike as one of the most influential figures in history.
+
+All of this is done by one book that was revealed orally under these conditions and that claims it is the word of God and that Prophet Muhammad ﷺ is the messenger of God.
+
+This page goes into detail about the above points and many more, and supplements the argument with evidence of prophethood from the life of Prophet Muhammad ﷺ.
 
 </div>
 

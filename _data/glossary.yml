@@ -195,8 +195,8 @@ allah:
 under-these-conditions:
   label: "under these conditions"
   # hover-only: `hidden` keeps it out of the visible key-terms <dl>, which is
-  # a list of Arabic terms. This is a shorthand the "Most striking features"
-  # box uses twice so the same clause need not be spelled out each time; as a
+  # a list of Arabic terms. This is a shorthand quran.md's "Why Read This?"
+  # section uses twice so the same clause need not be spelled out each time; as a
   # plain English phrase it would read as an intruder in that list. Cost: a
   # no-JS or print reader gets the phrase with no definition anywhere.
   hidden: true

@@ -25,10 +25,9 @@
 
 ## Most Striking Features
 
-> Shipped 2026-09-19 as the "Why read this?" card on `_pages/quran.md` — the
-> first `details.tldr` inside `.intro-toggles`, `tldr--why`. The heading below
-> is not carried over (no headings inside a closed box); the label span holds
-> it. Edit the page, not this draft.
+> Shipped 2026-09-19 on `_pages/quran.md`; since 2026-09-20 it is the
+> `## Why Read This?` section before "The Book", its body a clamped
+> `.read-more` div. Edit the page, not this draft.
 
 Below are the most striking features of the Qur'an that people usually use as an introduction to show why it could not have been from a human.
 

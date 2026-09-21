@@ -42,6 +42,11 @@ large text like the quotes it carries. `.quran-more--section` drops the rule
 and indent and opts back into the large-text bump, since its content is the
 article's own prose; only its summary stays pinned at the apparatus size.
 
+`.read-more` clamps a section body to its first ~13em, faded out by a
+`mask-image` (so no colour is needed), with a "Show more"/"Show less" button
+that `site.js` inserts after it; the script also sets `.is-clamped`, so no-JS
+and print show the full body. A body that already fits is left unclamped.
+
 `.toc` keeps the theme's box and per-entry dividers at both widths; the title
 bar is recoloured to `--site-toctitle-bg`/`-text` (a verdigris wash in light,
 sand in dark) because the solid primary fill read as too heavy. The light

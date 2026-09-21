@@ -74,18 +74,14 @@ and contrast ratios are in `_dirt.scss`. The
 label is a full-size titled bar; the card's prose is the reading serif, and
 a fading hairline below the card separates it from the article's intro.
 
-`quran.md` carries a **second card of the same kind** beside it, authored
-first so DOM order matches reading order: `<details class="tldr tldr--why">`,
-labelled "Why read this?", holding the short list of the Qur'an's most
-striking features. `tldr--why` adds no look of its own — it exists only so
-the `.intro-toggles` grid can tell the two pills apart and give them their
-own columns. Source draft: `_notes/drafts/most_striking_features.md`. The
-list is deliberately **not** headed `## Most Striking Features`: a heading
-inside a closed box points the TOC and scrollspy at hidden content, and the
-`tldr__label` span carries the title instead. The list is split into groups
-by short underlined labels — plain paragraphs tagged `{: .tldr__group }`, for
-the same reason not headings. A label is a title, not a lead-in sentence
-(unless one reads naturally), and bullets keep their own wording.
+`quran.md`'s list of the Qur'an's most striking features is not a card but
+the page's first section, `## Why Read This?`, before `## The Book` (source
+draft: `_notes/drafts/most_striking_features.md`). Its body is wrapped in
+`<div class="read-more" markdown="1">` — see *Read-more clamp* below. The list
+is split into groups by short underlined labels — plain paragraphs tagged
+`{: .group-label }`, not headings, so they stay out of the TOC. A label is a
+title, not a lead-in sentence (unless one reads naturally), and bullets keep
+their own wording.
 
 On `quran.md` the card sits *below* the intro note rather than above it.
 Because a collapsed card is one line with nothing to read past, `site.js`
@@ -114,6 +110,11 @@ the body never starts on the line right under the summary.
 - **Section body**, at top level: add `quran-more--section` and open the box
   on the line after a heading's `{: #id }` (or its one-line intro). Opened, it
   reads as plain prose and grows with large text (`styling.md`).
+
+**Read-more clamp**: to show a section body's first few lines rather than a
+closed summary, wrap it in `<div class="read-more" markdown="1">` under its
+heading. `site.js` clamps it to a faded teaser with a "Show more" button;
+without JS, and in print, the whole body shows. Headings stay outside it.
 
 Never put a heading inside a box, or the TOC and scrollspy point at hidden
 content; `quran.md`'s preservation box is the one standing exception. A box
@@ -165,7 +166,7 @@ out-of-order label doesn't leak into the rendered numbering.
 Every article that leans on recurring Arabic terms sets a `glossary:` list in
 its front matter (keys from `_data/glossary.yml`, in display order) and drops
 `{% include glossary-key.html %}` on its own line below the opening one or two
-paragraphs, before the first `##`. When it follows the `details.tldr` cards (quran.md), wrap them all in `<div class="intro-toggles" markdown="1">` so the closed pills stay centred as a pair with the key-terms box beside them on the left; below 48em the row becomes a centred wrapping flex row and key terms drops to its own line. It replaces the old hand-written
+paragraphs, before the first `##`. When it follows the `details.tldr` card (quran.md), wrap both in `<div class="intro-toggles" markdown="1">` so the closed pill stays centred with the key-terms box beside it on the left; below 48em key terms drops to its own row. It replaces the old hand-written
 `**Terms used below:**` / `*Terms:*` paragraphs. Definitions are edited only in
 `_data/glossary.yml` — never inline — since the same string feeds both the
 visible list and the hover gloss `site.js` wraps around later occurrences (see
