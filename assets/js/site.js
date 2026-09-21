@@ -542,7 +542,7 @@
       return parseInt(checkpoint.getBoundingClientRect().top, 10);
     }
     function checkpointReached() {
-      return checkpointTop() <= 21; // 20px line + sub-pixel landing
+      return checkpointTop() <= 20; // the spy's OFFSET; checkpointTop truncates like topInView
     }
     function goToCheckpoint() {
       checkpoint.scrollIntoView({ block: "start" });
@@ -1237,6 +1237,7 @@
       if (li) {
         li.dispatchEvent(new CustomEvent("gumshoeDeactivate", {
           bubbles: true,
+          cancelable: true,
           detail: { link: item.nav, content: item.content }
         }));
       }
