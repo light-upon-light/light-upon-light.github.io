@@ -45,7 +45,7 @@ glossary:
 <details class="tldr tldr--why" markdown="1">
 <summary><span class="tldr__label">Why read this?</span></summary>
 
-Below are some of the Qur'an's striking features at first glance—things that usually make people stop and consider whether this book could actually be what it claims: the word of God.
+Below are some of the Qur'an's striking features—things that usually make people stop and consider whether this book could actually be what it claims: the word of God.
 
 The unusual circumstances of its revelation
 {: .tldr__group }
@@ -79,16 +79,17 @@ Its unparalleled preservation
 - It has been preserved with extraordinary precision like no other scripture or text, while also foretelling its own preservation.
 - Its entire 600+ pages are memorized by millions of people today, the majority of whom do not speak Arabic as their first language—and it foretells its own ease of memorization.
 
-And it does all of the above while guiding people to God:
+It does all of the above while guiding people to God
 {: .tldr__group }
 
 - It repeatedly appeals to reason and invites scrutiny.
 - It calls to the simplest and most coherent conception of God.
 - It offers a profound spirituality that speaks to the heart as well as the mind, calling people to remembrance and love of God, and inner transformation.
-- It gives a coherent system of guidance, morality, and law, underpinned by mercy and justice.
+- It gives a detailed system of guidance, morality, and law, underpinned by mercy and justice.
+- It spans theology, worship, ethics, human nature, family life, economics, social justice, war and peace, history, the natural world, and the unseen, woven into a single coherent narrative.
 - It presents itself as the continuation of the same line of prophecy through Abraham, Moses, Jesus, and the prophets before them.
 
-And it has transformed the people who receive it:
+And it has transformed the people who receive it
 {: .tldr__group }
 
 - Its recitation moves those who listen to it: many weep on hearing it or describe a profound sense of peace, even without understanding Arabic.
