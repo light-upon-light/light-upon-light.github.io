@@ -70,7 +70,7 @@ Its knowledge beyond human reach
 {: .group-label }
 
 - It contains specific predictions of the future that were later fulfilled.
-- It transcends the scientific misconceptions that were inevitable in seventh-century desert Arabia, and instead presents an understanding of the natural world that is perfectly coherent with what is known today.
+- It transcends the scientific misconceptions that were inevitable in seventh-century desert Arabia, and instead presents an understanding of the natural world that is coherent with what is known today.
 - It contains precise descriptions of the natural world unknowable at the time.
 - It contains strikingly accurate historical details inaccessible at the time.
 
