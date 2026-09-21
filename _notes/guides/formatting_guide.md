@@ -62,8 +62,9 @@ On the seven misconception pages a real `## Introduction` follows the card,
 above the intro paragraphs, so the prose does not hang unheaded under the
 mobile TOC disclosure and the sticky TOC opens on the introduction rather
 than mid-argument. It is left unnumbered on `wadribuhunna.md`, whose other
-headings are numbered. `quran.md` has no such heading; its collapsed card
-already sits above a real `##`.
+headings are numbered. `quran.md` has no such heading: its intro note is
+followed directly by `## Why Read This?`, and its Summary card and key terms
+sit at the end of that section, just above `## The Book`.
 
 It is not a fourth evidence type. `.quote`/`.src`/`.gloss` are a semantic
 *left-rule* system; the TL;DR, open, is a full-content-width card with a border, no
@@ -83,7 +84,7 @@ is split into groups by short underlined labels — plain paragraphs tagged
 title, not a lead-in sentence (unless one reads naturally), and bullets keep
 their own wording.
 
-On `quran.md` the card sits *below* the intro note rather than above it.
+On `quran.md` the card sits at the end of the "Why Read This?" section, not above the intro.
 Because a collapsed card is one line with nothing to read past, `site.js`
 leaves the mobile TOC disclosure at the top of the content — its move-below
 branch anchors on `div.tldr`, which no page now has. The collapsed card
@@ -166,7 +167,7 @@ out-of-order label doesn't leak into the rendered numbering.
 Every article that leans on recurring Arabic terms sets a `glossary:` list in
 its front matter (keys from `_data/glossary.yml`, in display order) and drops
 `{% include glossary-key.html %}` on its own line below the opening one or two
-paragraphs, before the first `##`. When it follows the `details.tldr` card (quran.md), wrap both in `<div class="intro-toggles" markdown="1">` so the closed pill stays centred with the key-terms box beside it on the left; below 48em key terms drops to its own row. It replaces the old hand-written
+paragraphs, before the first `##` (quran.md is the exception: see above). When it follows the `details.tldr` card (quran.md), wrap both in `<div class="intro-toggles" markdown="1">` so the closed pill stays centred with the key-terms box beside it on the left; below 48em key terms drops to its own row. It replaces the old hand-written
 `**Terms used below:**` / `*Terms:*` paragraphs. Definitions are edited only in
 `_data/glossary.yml` — never inline — since the same string feeds both the
 visible list and the hover gloss `site.js` wraps around later occurrences (see
