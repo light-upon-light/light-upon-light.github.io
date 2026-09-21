@@ -2,6 +2,10 @@
 
 general:
 
+- rework the summary to contain the most striking points and maybe examples of them. basically to contain a summary of the strongest concise argument for the quran.
+- rework first paragraph of The Book section to be stronger.
+- reword the first note in the page to be less awkward.
+
 ---
 
 aisha:
