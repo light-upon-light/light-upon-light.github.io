@@ -54,7 +54,7 @@ Below are some of the Qur'an's striking features at first glance—things that u
 - Produced with no drafts or revisions.
 - Revealed through a man who could not read or write.
 - Prophet Muhammad ﷺ had no previous career or training as a poet, writer, or literary figure.
-- Yet from the outset, he recited a text regarded by admirers and opponents alike as the summit of Arabic eloquence.
+- Yet from the outset, he recited a text regarded by admirers and opponents alike as the summit of Arabic eloquence, by a far margin.
 - It challenged its enemies, the Arabs of its time—at the height of their mastery of Arabic—to produce anything comparable, and the challenge went unanswered.
 - It contains intricate literary architecture and composition, despite being revealed under these conditions.
 - It contains specific predictions that were later fulfilled.
@@ -66,6 +66,7 @@ Below are some of the Qur'an's striking features at first glance—things that u
 - Its recitation moves those who listen to it: many weep on hearing it or describe a profound sense of peace, even without understanding Arabic.
 - It repeatedly appeals to reason and invites scrutiny.
 - It calls to the simplest and most coherent conception of God.
+- It addresses the heart as well as the mind, calling people to remembrance of God, repentance, and inner transformation.
 - It gives a coherent system of guidance, morality, and law, underpinned by mercy and justice.
 - It presents itself as the continuation of the same line of prophecy through Abraham, Moses, Jesus, and the prophets before them.
 - Today it is the scripture of roughly a quarter of humanity.
