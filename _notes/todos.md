@@ -8,6 +8,8 @@ general:
 - add simplest and most coherent conception of God point to body like in why read this.
 - add insane expansion and odds against super powers within 30 years, point from yasir qadhi video.
 - add that it transcends the scientific understanding of 7th century arabia and is coherent with the modern day scientific facts, same for historical.
+    - add this wording everywhere it's mentioned
+- maybe lessen strength of claims of some of the natural knowledge ones to be appropriate for the evidence and potential hole poking.
 
 ---
 
