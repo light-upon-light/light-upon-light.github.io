@@ -10,6 +10,8 @@ general:
 - add that it transcends the scientific understanding of 7th century arabia and is coherent with the modern day scientific facts, same for historical.
     - add this wording everywhere it's mentioned
 - maybe lessen strength of claims of some of the natural knowledge ones to be appropriate for the evidence and potential hole poking.
+- thumma vs fa in embryo verse. highlight the remarkable vocab more not the sequence more. keith moore and other guy quotes (in blogging theology vid).
+- precisely avoids the historical misconceptions ... and the historical mistakes of the similar narratives that existed at the time ... no anachronisms.
 
 ---
 
