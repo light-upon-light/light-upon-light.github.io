@@ -13,6 +13,9 @@ check there is.
 - **Commit to `main`. Never push.** Pushing is publishing, and that is the
   author's call alone — don't run `git push`, and don't offer to. No feature
   branches, no PRs; a branch cannot reach Pages.
+- **Keep `main` linear.** Never create a merge commit on it; a worktree
+  session rebases onto `main` and fast-forwards. `backup/YYYY-MM` tags mark
+  `main` at each month's end — never move or delete one.
 - **Never run `find /`, or any unscoped `find`, from Bash.** Git Bash's root
   walks the 459 GB SSD and a 200 GB Google Drive mount that hydrates cloud
   files as it is enumerated; the scan never finishes, and the tool's timeout
