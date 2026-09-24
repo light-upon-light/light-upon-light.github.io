@@ -13,6 +13,8 @@ general:
 - thumma vs fa in embryo verse. highlight the remarkable vocab more not the sequence more. keith moore and other guy quotes (in blogging theology vid).
 - precisely avoids the historical misconceptions ... and the historical mistakes of the similar narratives that existed at the time ... no anachronisms.
 - add points about prophet saaw in quran section dont keep them exclusively in prophet section. historical impact. spread against insane odds that historians cant explain. geel el sahaba as people the quran transformed.
+- add the complete transformation of his society within only 23 years to miraculous stuff. add: what they were before, what they were after, and only in 23 years through the influence of one man. add the quote from this video: https://youtu.be/H0aiDYcgQaQ "Let them gather a hundered philosophers, send them to that time and place, and let them work for a hundred years--could they achieve even 1% of what that great man achieved in just a single year?"-Bediuzzaman Said Nursi. or similar quotations / argument.
+- add the risale i nur arguments to the page somehow. (drafts in drafts sep22)
 
 ---
 
@@ -35,6 +37,7 @@ women:
 - wa lel rejal 3alayhenna daraja: one interpretation is that men should give women their full rights without expecting their full right to be given back in return
 - often in the quran, whenever a woman or women are addressed, it begins with the words: "Do not be saddened, do not be anxious, do not grieve, do not feel sorrow."
 - general commentary on fundamental difference in nature of masculine vs feminine:a good system of teachings has to have different roles and responsibilities for them, otherwise by definition it would be unfair and non optimal
+- use towards eternity video as guideline / add points from it https://youtu.be/H0aiDYcgQaQ https://youtu.be/ZpTWwMJLb-A
 
 quran:
 
