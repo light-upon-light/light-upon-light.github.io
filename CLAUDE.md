@@ -3,7 +3,8 @@
 Jekyll site (GitHub Pages) using the `minimal-mistakes` theme via `remote_theme`,
 pinned to 4.28.0. Pages live in `_pages/`. Build with `bundle exec jekyll build`.
 `_layouts/single.html` overrides the theme's copy only so the sidebar TOC
-honours front matter `toc_levels: MIN..MAX` (default `1..6`); re-sync it from
+honours front matter `toc_levels: MIN..MAX` (default `1..6`), and so the
+page title is plain text rather than a link to itself; re-sync it from
 the theme on any upgrade or the page silently runs stale theme code.
 There is no CI and no tests — a local build and a look at `_site/` is the only
 check there is.
