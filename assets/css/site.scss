@@ -1345,39 +1345,49 @@
   /* .intro-toggles wraps the summary card and the key-terms block
      (quran.md). With both closed they share one row -- key terms at the
      left, the pill centred in the column -- instead of stacking two short
-     controls over a band of empty space. Opening either drops the grid and
-     restores the stacked layout. The children's !important margins are the
-     .tldr rules' above. Never nest :has() inside :has(): it voids the rule.
-     The 1fr gutters either side are what keep the pill optically centred
-     rather than centred in what key terms leaves over. */
-  .page__content .intro-toggles:not(:has(details[open])) {
+     controls over a band of empty space. Opening key terms keeps the grid
+     and drops its box onto a full-width second row, so the pill and the
+     .read-more hairline above it stay where they were; only opening the
+     summary drops the grid and restores the stacked layout. The children's
+     !important margins are the .tldr rules' above. Never nest :has()
+     inside :has(): it voids the rule. The 1fr gutters either side are what
+     keep the pill optically centred rather than centred in what key terms
+     leaves over. */
+  .page__content .intro-toggles:not(:has(.tldr[open])) {
     display: grid;
     grid-template-columns: 1fr auto 1fr;
     align-items: center;
-    column-gap: 0.75em;
+    gap: 1.6em 0.75em;
     margin-block: 1.6em;
   }
 
-  .page__content .intro-toggles:not(:has(details[open])) > * {
+  .page__content .intro-toggles:not(:has(.tldr[open])) > * {
     grid-row: 1;
     margin-block: 0 !important;
   }
 
-  .page__content .intro-toggles:not(:has(details[open])) > .tldr {
+  .page__content .intro-toggles:not(:has(.tldr[open])) > .tldr {
     grid-column: 2;
   }
 
-  .page__content .intro-toggles:not(:has(details[open])) > .glossary-key {
+  .page__content .intro-toggles:not(:has(.tldr[open])) > .glossary-key {
     grid-column: 1;
     justify-self: start;
+  }
+
+  .page__content .intro-toggles:not(:has(.tldr[open])) > .glossary-key:has(> details[open]) {
+    grid-row: 2;
+    grid-column: 1 / -1;
+    justify-self: stretch;
   }
 
   /* On a phone the 1fr gutters are too narrow for key terms beside a
      centred pill (at 320px it would overflow), so below $medium the two sit
      side by side as a centred pair instead. Wrapping is only the fallback
-     for a viewport too narrow even for that. */
+     for a viewport too narrow even for that -- and how an opened key-terms
+     box takes its own full-width line under the pill. */
   @media (max-width: 47.9375em) {
-    .page__content .intro-toggles:not(:has(details[open])) {
+    .page__content .intro-toggles:not(:has(.tldr[open])) {
       display: flex;
       flex-wrap: wrap;
       justify-content: center;
@@ -1386,13 +1396,20 @@
 
     /* The closed pill's own `margin-inline: auto` would swallow the row's
        free space and push the pair apart; same specificity, later wins. */
-    .page__content .intro-toggles:not(:has(details[open])) > * {
+    .page__content .intro-toggles:not(:has(.tldr[open])) > * {
       margin-inline: 0;
     }
 
     /* key terms first, as it sits at the left of the one-row grid */
-    .page__content .intro-toggles:not(:has(details[open])) > .glossary-key {
+    .page__content .intro-toggles:not(:has(.tldr[open])) > .glossary-key {
       order: -1;
+    }
+
+    /* opened, it goes under the pill, as on the wide grid */
+    .page__content .intro-toggles:not(:has(.tldr[open])) > .glossary-key:has(> details[open]) {
+      order: 1;
+      flex-basis: 100%;
+      margin-block-start: 1em !important;
     }
   }
 
