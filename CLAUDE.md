@@ -4,8 +4,10 @@ Jekyll site (GitHub Pages) using the `minimal-mistakes` theme via `remote_theme`
 pinned to 4.28.0. Pages live in `_pages/`. Build with `bundle exec jekyll build`.
 `_layouts/single.html` overrides the theme's copy only so the sidebar TOC
 honours front matter `toc_levels: MIN..MAX` (default `1..6`), and so the
-page title is plain text rather than a link to itself; re-sync it from
-the theme on any upgrade or the page silently runs stale theme code.
+page title is plain text rather than a link to itself, and so article
+content gets two Qur'anic code points swapped for the KFGQPC font (see
+the citations guide); re-sync it from the theme on any upgrade (keeping
+those three changes) or the page silently runs stale theme code.
 There is no CI and no tests — a local build and a look at `_site/` is the only
 check there is.
 

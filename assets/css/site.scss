@@ -98,7 +98,7 @@
      beat. */
   body,
   h1, h2, h3, h4, h5, h6 {
-    font-family: "Source Serif 4", Georgia, "Times New Roman", serif;
+    font-family: "LUL Salawat", "Source Serif 4", Georgia, "Times New Roman", serif;
   }
 
   /* Dark-mode type rendering. On a near-black ground the reading serif reads
@@ -145,19 +145,71 @@
      block. That stylesheet is gone, so source order alone is enough here
      too. */
   .site-title {
-    font-family: "Abril Fatface", "Source Serif 4", Georgia, serif;
+    font-family: "LUL Salawat", "Abril Fatface", "Source Serif 4", Georgia, serif;
     font-weight: 400;
     letter-spacing: 0.01em;
+    /* Never wrap or shrink: the flexible .masthead-verse beside it is what
+       gives way on a narrow screen, not the brand mark. */
+    white-space: nowrap;
+    flex-shrink: 0;
   }
 
-  /* Masthead nav link ("The Qur'an and the Messenger ﷺ") -- UI text, not
-     reading content and not the brand mark, so neither the serif nor the
-     display face belongs here. Like .site-title's font-family, this has no
-     rule of its own to beat in either compiled stylesheet, so no
-     !important is needed. */
-  .masthead__menu-item a {
-    font-family: "Karla", -apple-system, BlinkMacSystemFont, "Roboto",
-                 "Segoe UI", Arial, sans-serif;
+  /* Masthead verse: the opening of al-Nur 24:35 between the site title
+     and the two toggles, in the slot the nav link used to hold (markup and
+     provenance in _includes/masthead.html). flex: 1 takes all the space
+     between them and centres the line in it; min-width: 0 lets it shrink
+     below its natural width so it can't push the toggles off the edge.
+     Set in the KFGQPC Hafs face (the Madinah mushaf's), as .quran-arabic
+     is. */
+  .masthead-verse {
+    flex: 1 1 auto;
+    min-width: 0;
+    margin: 0 0.75rem;
+    overflow: hidden;
+    white-space: nowrap;
+    text-align: center;
+    font-family: "KFGQPC HAFS Uthmanic Script", "Amiri", "Scheherazade New",
+                 "Noto Naskh Arabic", "Traditional Arabic", "Arabic Typesetting",
+                 serif;
+    /* larger than Amiri needed: KFGQPC draws small on its em */
+    font-size: 1.65rem;
+    line-height: 1.6;
+    color: var(--mm-text-color);
+    cursor: default;
+  }
+
+  /* Which phrase shows: the verse's opening where there is room, the
+     shorter "light upon light" below 48em ($medium) -- the opening needs
+     ~9rem at a readable size, and a phone masthead has ~6rem between title
+     and toggles at 375px. display: none, so screen readers read only the
+     visible one. */
+  .masthead-verse__short {
+    display: none;
+  }
+
+  @media (max-width: 47.9375em) {
+    .masthead-verse {
+      font-size: 1.2rem;
+      margin: 0 0.25rem;
+    }
+
+    .masthead-verse__long {
+      display: none;
+    }
+
+    .masthead-verse__short {
+      display: inline;
+    }
+  }
+
+  /* Under 360px even "light upon light" no longer fits beside the title
+     and toggles (2.5rem free at 320px), and a clipped fragment of a verse
+     is worse than none. visibility rather than display, so the element
+     keeps its flex slot and still pushes the toggles to the right edge. */
+  @media (max-width: 22.4375em) {
+    .masthead-verse {
+      visibility: hidden;
+    }
   }
 
   /* The mode toggle in the masthead, styled to match the theme's adjacent
@@ -178,7 +230,8 @@
 
      The margin-end here is bigger than the gap within the pair, since when
      site.search is off (no .search__toggle to supply its own 1rem gap) this
-     button would otherwise sit flush against the hamburger next to it.
+     button is the masthead's last item and would otherwise sit flush
+     against its edge.
 
      Layout only here -- colour is set below, alongside .search__toggle,
      since all three masthead controls share one rule. */
@@ -415,11 +468,16 @@
     to { opacity: 1; }
   }
 
-  /* Qur'anic Arabic (Uthmani script) shown alongside English translations */
+  /* Qur'anic Arabic (Uthmani script) shown alongside English translations.
+     KFGQPC (the Madinah mushaf's face) for the text; Amiri, second, only
+     ever draws the ornate parentheses, which KFGQPC lacks -- its file holds
+     nothing else. KFGQPC draws small on its em, hence a bigger size than
+     Amiri needed (1.4em then). */
   .quran-arabic {
-    font-family: "Amiri", "Scheherazade New", "Noto Naskh Arabic",
-                 "Traditional Arabic", "Arabic Typesetting", serif;
-    font-size: 1.4em;
+    font-family: "KFGQPC HAFS Uthmanic Script", "Amiri", "Scheherazade New",
+                 "Noto Naskh Arabic", "Traditional Arabic", "Arabic Typesetting",
+                 serif;
+    font-size: 1.7em;
     line-height: 2.1;
     text-align: right;
     margin: 0.4em 0;
@@ -430,7 +488,13 @@
 
   /* trailing reference: end-of-ayah marker for whole verses,
      [surah: number] for partial quotations */
+  /* Amiri first, whose file holds only the ornate parentheses and the
+     Arabic-Indic digits: the digits of a "[surah: 19]" label come from it,
+     unringed, and the surah name falls through to KFGQPC. In KFGQPC every
+     digit is drawn inside a verse-end ring, which is right for a whole
+     verse's number but would mark a fragment as ending a verse. */
   .quran-arabic .ayah-ref {
+    font-family: "Amiri", "KFGQPC HAFS Uthmanic Script", serif;
     font-size: 0.75em;
     opacity: 0.7;
     white-space: nowrap;
@@ -672,7 +736,7 @@
      inline TOC switched to Karla. */
   .page__content .toc,
   #toc-panel .toc {
-    font-family: "Karla", -apple-system, BlinkMacSystemFont, "Roboto",
+    font-family: "LUL Salawat", "Karla", -apple-system, BlinkMacSystemFont, "Roboto",
                  "Segoe UI", Arial, sans-serif;
   }
 
@@ -718,7 +782,7 @@
      one is inline-TOC-specific and this one isn't. */
   .page__content .toc .nav__title,
   #toc-panel .nav__title {
-    font-family: "Karla", -apple-system, BlinkMacSystemFont, "Roboto",
+    font-family: "LUL Salawat", "Karla", -apple-system, BlinkMacSystemFont, "Roboto",
                  "Segoe UI", Arial, sans-serif;
   }
 
@@ -893,7 +957,7 @@
     background: var(--site-toctitle-bg);
     border-start-start-radius: 4px;
     border-start-end-radius: 4px;
-    font-family: "Karla", -apple-system, BlinkMacSystemFont, "Roboto",
+    font-family: "LUL Salawat", "Karla", -apple-system, BlinkMacSystemFont, "Roboto",
                  "Segoe UI", Arial, sans-serif;
     font-size: 0.75em;
     font-weight: bold;
@@ -1214,7 +1278,7 @@
   .page__content .tldr__label {
     display: block;
     color: var(--site-tldr-label);
-    font-family: "Karla", -apple-system, BlinkMacSystemFont, "Roboto",
+    font-family: "LUL Salawat", "Karla", -apple-system, BlinkMacSystemFont, "Roboto",
                  "Segoe UI", Arial, sans-serif;
     font-size: 1em;
     font-weight: bold;
@@ -1258,7 +1322,7 @@
     padding-inline-start: 1em;
     color: var(--site-tldr-label);
     opacity: 0.75;
-    font-family: "Karla", -apple-system, BlinkMacSystemFont, "Roboto",
+    font-family: "LUL Salawat", "Karla", -apple-system, BlinkMacSystemFont, "Roboto",
                  "Segoe UI", Arial, sans-serif;
     font-size: 0.78em;
     letter-spacing: 0.04em;
@@ -1495,7 +1559,7 @@
     border: 1px solid var(--site-tldr-line);
     border-radius: 4px;
     color: var(--site-tldr-label);
-    font-family: "Karla", -apple-system, BlinkMacSystemFont, "Roboto",
+    font-family: "LUL Salawat", "Karla", -apple-system, BlinkMacSystemFont, "Roboto",
                  "Segoe UI", Arial, sans-serif;
     font-size: 0.8rem;
     letter-spacing: 0.04em;
@@ -1933,7 +1997,7 @@
     border: 1px solid var(--site-src-border);
     border-radius: 0.35em;
     color: var(--site-src-text);
-    font-family: "Karla", -apple-system, BlinkMacSystemFont, "Roboto",
+    font-family: "LUL Salawat", "Karla", -apple-system, BlinkMacSystemFont, "Roboto",
                  "Segoe UI", Arial, sans-serif;
     font-size: 0.85em;
     text-decoration: none;
@@ -2552,7 +2616,7 @@
     margin: 0;
     padding: 0;
     list-style: none;
-    font-family: "Karla", -apple-system, BlinkMacSystemFont, "Roboto",
+    font-family: "LUL Salawat", "Karla", -apple-system, BlinkMacSystemFont, "Roboto",
                  "Segoe UI", Arial, sans-serif;
     font-size: 0.8em;
   }
@@ -2619,7 +2683,7 @@
     letter-spacing: 0.07em;
     text-transform: uppercase;
     color: var(--site-src-text);
-    font-family: "Karla", -apple-system, BlinkMacSystemFont, "Roboto",
+    font-family: "LUL Salawat", "Karla", -apple-system, BlinkMacSystemFont, "Roboto",
                  "Segoe UI", Arial, sans-serif;
     cursor: pointer;
   }
@@ -2728,7 +2792,7 @@
      decision 2B. */
   .page__dateline {
     margin: 0.5em 0 0;
-    font-family: "Karla", -apple-system, BlinkMacSystemFont, "Roboto",
+    font-family: "LUL Salawat", "Karla", -apple-system, BlinkMacSystemFont, "Roboto",
                  "Segoe UI", Arial, sans-serif;
     font-size: 0.8em;
     letter-spacing: 0.01em;

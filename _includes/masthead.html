@@ -1,6 +1,7 @@
 {%- comment -%}
   A local copy of minimal-mistakes 4.28.0's _includes/masthead.html, verbatim
-  except for the #font-size-toggle and #theme-toggle buttons below. The theme
+  except for the #font-size-toggle and #theme-toggle buttons and the
+  .masthead-verse that replaces the nav links. The theme
   offers no hook inside the masthead, so overriding the whole file is the only
   way to put a control there. Injecting them with JavaScript (the way
   footer/custom.html builds the TOC drawer) would work, but the buttons would
@@ -9,12 +10,10 @@
   The theme is pinned to 4.28.0 in _config.yml, so this fork is stable. If that
   pin moves, diff this file against the new release.
 
-  One knock-on: GreedyNav (assets/js/plugins/jquery.greedy-navigation.js)
-  measures the space available for nav links by subtracting the site title and
-  the search toggle from the nav width. It knows nothing about either button, so
-  it believes it has ~6.3rem more room than it does. Harmless while
-  _data/navigation.yml holds a single short link — it cannot overflow at any
-  width. Revisit if the nav grows.
+  The nav links (_data/navigation.yml) and the GreedyNav overflow toggle are
+  gone too: the masthead's middle holds a fragment of al-Nur 24:35 instead,
+  and the only way into the articles is the home page's card. If a nav link
+  ever returns, it needs an overflow check again -- see theme_internals.md.
 {%- endcomment -%}
 {% assign locale = include.locale | default: site.locale %}
 {% capture logo_path %}{{ site.logo }}{% endcapture %}
@@ -30,17 +29,16 @@
           {{ site.masthead_title | default: site.title | escape_once | strip }}
           {% if site.subtitle %}<span class="site-subtitle">{{ site.subtitle | escape_once | strip }}</span>{% endif %}
         </a>
-        <ul class="visible-links">
-          {%- for link in site.data.navigation.main -%}
-            <li class="masthead__menu-item">
-              <a
-                href="{{ link.url | relative_url }}"
-                {% if link.description %} title="{{ link.description }}"{% endif %}
-                {% if link.target %} target="{{ link.target }}"{% endif %}
-              >{{ link.title }}</a>
-            </li>
-          {%- endfor -%}
-        </ul>
+        {%- comment -%}
+          Part of al-Nur 24:35 in the space the nav link used to hold: its
+          opening ("Allah is the Light of the heavens and the earth") where
+          there is room, and the shorter "light upon light" -- the phrase the
+          site is named after -- on phones (see .masthead-verse in site.scss).
+          Text copied by script from _notes/data/quran_arabic/024.json. The
+          title attributes carry the translation and reference, which the
+          masthead has no room to print.
+        {%- endcomment -%}
+        <p class="masthead-verse" dir="rtl" lang="ar"><span class="masthead-verse__long" title="&ldquo;Allah is the Light of the heavens and the earth.&rdquo; (S&umacr;rat al-N&umacr;r 24:35)">ٱللَّهُ نُورُ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ</span><span class="masthead-verse__short" title="&ldquo;Light upon light!&rdquo; (S&umacr;rat al-N&umacr;r 24:35)">نُّورٌ عَلَىٰ نُورٍ</span></p>
         {%- comment -%}
           Article text-size toggle. A plain "small A / big A" glyph pair (no
           state-swapped icon needed, since a single glyph already
@@ -89,11 +87,6 @@
           <i class="fas fa-search"></i>
         </button>
         {% endif %}
-        <button class="greedy-nav__toggle hidden" type="button">
-          <span class="visually-hidden">{{ site.data.ui-text[locale].menu_label | default: "Toggle menu" }}</span>
-          <div class="navicon"></div>
-        </button>
-        <ul class="hidden-links hidden"></ul>
       </nav>
     </div>
   </div>

@@ -8,9 +8,14 @@
 <link rel="icon" href="{{ '/favicon.ico' | relative_url }}" sizes="32x32">
 <link rel="apple-touch-icon" href="{{ '/assets/images/apple-touch-icon.png' | relative_url }}">
 
-{%- comment -%} Amiri: designed for Qur'anic typesetting. Loaded so the end-of-ayah marker
-     (U+06DD) encloses its digits and the ornate parentheses (U+FD3E/FD3F)
-     render correctly, rather than depending on the reader's installed fonts.
+{%- comment -%} KFGQPC HAFS Uthmanic Script: the King Fahd Complex's
+     Madinah-mushaf face, for all Qur'anic Arabic (.quran-arabic and the
+     masthead verse). Loaded so the Uthmani marks and the end-of-ayah marker
+     (U+06DD) enclosing its digits render correctly, rather than depending on
+     the reader's installed fonts.
+
+     Amiri: only the two ornate parentheses (U+FD3E/FD3F) that bracket every
+     quotation, which KFGQPC lacks, and the digits in citation labels.
 
      Source Serif 4: site-wide body/heading face, replacing the theme's
      default system-UI sans stack.
@@ -49,9 +54,9 @@
          `font-weight: bold`), plus 400 italic (the theme sets
          `blockquote { font-style: italic }` and nothing here overrides it
          for a plain blockquote). No 600 -- unused.
-       - Amiri: 400 only. No bold Arabic exists anywhere in _pages/ (grepped
-         for <strong>/<b> inside dir="rtl" spans and .quran-arabic divs --
-         none), so the 700 cut loaded before was dead weight.
+       - KFGQPC and Amiri: 400 only. No bold Arabic exists anywhere in
+         _pages/ (grepped for <strong>/<b> inside dir="rtl" spans and
+         .quran-arabic divs -- none).
 
      Google serves Karla and Source Serif 4 (roman) as variable fonts, and
      re-uses the *same* file across multiple static font-weight requests
@@ -68,12 +73,10 @@
      this site actually uses (e.g. ḥ ṣ ṭ ẓ ḍ ū ī in Sūrat, ʿAnkabūt) live in
      the U+1E00-1E9F and U+0100-02FF ranges latin-ext covers, not in
      latin's U+0000-00FF. Cyrillic/Greek/Vietnamese are dropped -- unused by
-     any text on this site. Amiri instead gets ONE hand-written
-     unicode-range covering only the Arabic blocks the site's Qur'anic text
-     and end-of-ayah/ornate-parenthesis marks use (U+0600-06FF, U+0750-077F,
-     U+08A0-08FF, U+FB50-FDFF, U+FE70-FEFF) in place of Google's own (wider,
-     multi-file) Arabic subset, so a Latin-only reader's browser never even
-     requests it -- Amiri was the largest of the four families. {%- endcomment -%}
+     any text on this site. Amiri is subset (by hand, with pyftsubset) to
+     its ornate parentheses and Arabic-Indic digits -- ~3 KB, against 109 KB for Google's
+     Arabic subset it replaced. KFGQPC is shipped whole: see its own comment
+     below. {%- endcomment -%}
 <style>
   @font-face {
     font-family: "Abril Fatface";
@@ -92,16 +95,73 @@
     unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
   }
 
-  /* Arabic only -- see the comment above for why. Amiri's Latin/Cyrillic/
-     Greek/Vietnamese subsets are never fetched by any reader whose text
-     never needs an Arabic glyph. */
+  /* The ornate parentheses KFGQPC can't draw, and plain Arabic-Indic
+     digits for .ayah-ref labels (KFGQPC rings every digit as a verse
+     number, which a fragment's label must not look like). If a
+     page ever needs another character from Amiri, re-subset from the full
+     font (github.com/aliftype/amiri) and widen unicode-range to match. */
   @font-face {
     font-family: "Amiri";
     font-style: normal;
     font-weight: 400;
     font-display: swap;
-    src: url("{{ '/assets/fonts/amiri/Amiri-arabic.woff2' | relative_url }}") format("woff2");
-    unicode-range: U+0600-06FF, U+0750-077F, U+08A0-08FF, U+FB50-FDFF, U+FE70-FEFF;
+    src: url("{{ '/assets/fonts/amiri/Amiri-ornaments.woff2' | relative_url }}") format("woff2");
+    unicode-range: U+0660-0669, U+FD3E-FD3F;
+  }
+
+  /* KFGQPC HAFS Uthmanic Script, the whole unmodified font (88 KB): it
+     covers the entire Qur'an, so any verse quoted later just works. Its
+     licence is in assets/fonts/kfgqpc-hafs/LICENSE.txt. font-display:
+     block, not swap: the masthead verse is on every page's first screen
+     and preloaded below, and a flash of a fallback face before the mushaf
+     one would be worse than a moment's blank. */
+  @font-face {
+    font-family: "KFGQPC HAFS Uthmanic Script";
+    font-style: normal;
+    font-weight: 400;
+    font-display: block;
+    src: url("{{ '/assets/fonts/kfgqpc-hafs/UthmanicHafs1Ver18.woff2' | relative_url }}") format("woff2");
+  }
+
+  /* LUL Salawat: IBM Plex Sans Arabic cut down to one character, U+FDFA
+     (ﷺ), and renamed -- its licence reserves the name "Plex" for unmodified
+     copies (assets/fonts/salawat/OFL.txt). No site font has ﷺ, so each OS
+     used to substitute its own; this goes first in every Latin stack (here
+     and via $serif/$sans-serif in _dirt.scss) so all readers get one
+     design. unicode-range keeps it from being fetched on pages without ﷺ.
+     The italic faces reuse the upright files so italic text doesn't get a
+     synthesised slant through the ligature. */
+  @font-face {
+    font-family: "LUL Salawat";
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url("{{ '/assets/fonts/salawat/LULSalawat-Regular.woff2' | relative_url }}") format("woff2");
+    unicode-range: U+FDFA;
+  }
+  @font-face {
+    font-family: "LUL Salawat";
+    font-style: normal;
+    font-weight: 700;
+    font-display: swap;
+    src: url("{{ '/assets/fonts/salawat/LULSalawat-Bold.woff2' | relative_url }}") format("woff2");
+    unicode-range: U+FDFA;
+  }
+  @font-face {
+    font-family: "LUL Salawat";
+    font-style: italic;
+    font-weight: 400;
+    font-display: swap;
+    src: url("{{ '/assets/fonts/salawat/LULSalawat-Regular.woff2' | relative_url }}") format("woff2");
+    unicode-range: U+FDFA;
+  }
+  @font-face {
+    font-family: "LUL Salawat";
+    font-style: italic;
+    font-weight: 700;
+    font-display: swap;
+    src: url("{{ '/assets/fonts/salawat/LULSalawat-Bold.woff2' | relative_url }}") format("woff2");
+    unicode-range: U+FDFA;
   }
 
   @font-face {
@@ -156,11 +216,12 @@
 </style>
 
 {%- comment -%} Preload only the cuts painted above the fold on first contentful paint:
-     the masthead title (Abril Fatface 400) and the article's opening body
-     text (Source Serif 4 400 roman). Everything else -- bold, italic,
-     Karla, Amiri -- is below the fold or conditional (Amiri only paints at
-     all on the ten quran_section pages), so preloading it would compete
-     with these two for bandwidth on every page load for no first-paint
+     the masthead title (Abril Fatface 400), the masthead verse (KFGQPC
+     Hafs -- the one Arabic file every page needs) and the article's
+     opening body text (Source Serif 4 400 roman). Everything else -- bold,
+     italic, Karla, Amiri -- is below the fold or conditional (Amiri only
+     paints at all on the pages that quote the Qur'an), so preloading it
+     would compete with these for bandwidth on every page load for no first-paint
      benefit. Only the "latin" subset of each is preloaded, not "latin-ext"
      too: the masthead title and a typical article's opening words are
      plain ASCII, so latin-ext would load speculatively and, for most
@@ -169,6 +230,7 @@
      it (fonts are fetched anonymous-mode regardless of same-origin). {%- endcomment -%}
 <link rel="preload" as="font" type="font/woff2" href="{{ '/assets/fonts/abril-fatface/AbrilFatface-latin.woff2' | relative_url }}" crossorigin>
 <link rel="preload" as="font" type="font/woff2" href="{{ '/assets/fonts/source-serif-4/SourceSerif4-latin.woff2' | relative_url }}" crossorigin>
+<link rel="preload" as="font" type="font/woff2" href="{{ '/assets/fonts/kfgqpc-hafs/UthmanicHafs1Ver18.woff2' | relative_url }}" crossorigin>
 
 {%- comment -%} ?v= is the build time: Pages serves site.css with a 4-hour
      max-age but the HTML with 10 minutes, so an unversioned URL kept the old

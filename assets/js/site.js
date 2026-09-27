@@ -12,10 +12,9 @@
    greedy-navigation + gumshoe, 124 KB / 42.7 KB gzipped) entirely: this
    site's own JS was already vanilla, and jQuery was there only to run that
    bundle. Only the pieces this site actually used got reimplemented --
-   Gumshoe (below, a line-for-line port), the theme's header-permalink
-   anchors (below), and a ~30-line stand-in for GreedyNav (below, NOT a
-   port -- see its own comment for why the naive "ship nothing, the toggle
-   and dropdown already carry `.hidden`" plan turned out to be wrong).
+   Gumshoe (below, a line-for-line port) and the theme's header-permalink
+   anchors (below). A ~30-line stand-in for GreedyNav lived here too until
+   the masthead's single nav link was replaced by a verse fragment.
    fitvids, magnific-popup and throttle-debounce were dead code (no
    matching elements anywhere in the built site -- no static iframe/video,
    no `.image-popup` targets, and _main.js never even called
@@ -36,80 +35,6 @@
    theme/font-size toggle bootstrap scripts and the quran_section breadcrumb
    script stay inline in the two custom.html includes (see the header
    comment in assets/css/site.scss for why). */
-
-/* --------------------------------------------------------------------------
-   Nav-link overflow (P1-5: replaces the theme's GreedyNav plugin)
-   -------------------------------------------------------------------------- */
-
-  /* _data/navigation.yml holds exactly one link, so GreedyNav's own job --
-     incrementally measuring and moving links one at a time to fit as many
-     as possible -- is more than this site ever needs: the only question is
-     whether that ONE link fits at all. Everything below is that binary
-     check, not a port of the plugin.
-
-     _includes/masthead.html's own comment (accurate when written) argued
-     this could never overflow because GreedyNav doesn't know about the two
-     appearance toggle buttons it added and so overestimates available
-     space by their combined width. That comment turned out to be wrong at
-     narrow widths once GreedyNav itself was removed: at 375px the link
-     doesn't just fail to fit, it renders ~135px into the site title's own
-     space (`.visible-links` is flex:1 with `justify-content: flex-end`, so
-     overflow spills past the container's START edge, not its end -- content
-     `scrollWidth` doesn't register that direction of overflow, which is why
-     this measures the link's own natural width against the container's
-     box instead of using a scrollWidth check). Confirmed side-by-side
-     against the theme's own GreedyNav output at 375/768/1280px -- see
-     theme_internals.md. */
-  (function () {
-    var nav = document.querySelector("nav.greedy-nav");
-    if (!nav) return;
-
-    var vlinks = nav.querySelector(".visible-links");
-    var hlinks = nav.querySelector(".hidden-links");
-    var toggle = nav.querySelector(".greedy-nav__toggle");
-    if (!vlinks || !hlinks || !toggle || !vlinks.children.length) return;
-
-    function naturalWidth() {
-      var w = 0;
-      var items = vlinks.children;
-      for (var i = 0; i < items.length; i++) w += items[i].offsetWidth;
-      return w;
-    }
-
-    function check() {
-      // Reset to "all visible" before each measurement -- offsetWidth on an
-      // item already sitting in the hidden, display:none dropdown is 0, so
-      // measuring from there would always read as "fits".
-      hlinks.classList.add("hidden");
-      toggle.classList.remove("close");
-      while (hlinks.firstElementChild) vlinks.appendChild(hlinks.firstElementChild);
-
-      if (naturalWidth() > vlinks.clientWidth) {
-        while (vlinks.firstElementChild) hlinks.appendChild(vlinks.firstElementChild);
-        toggle.classList.remove("hidden");
-      } else {
-        toggle.classList.add("hidden");
-      }
-    }
-
-    toggle.addEventListener("click", function () {
-      hlinks.classList.toggle("hidden");
-      toggle.classList.toggle("close");
-    });
-
-    // Dismiss on an outside click/tap, same as GreedyNav's own hidden-links
-    // click/mouseleave handling -- simplified to one listener since there's
-    // no hover-intent close timer to replicate for a single link.
-    document.addEventListener("click", function (e) {
-      if (hlinks.classList.contains("hidden")) return;
-      if (e.target.closest(".hidden-links") || e.target === toggle || toggle.contains(e.target)) return;
-      hlinks.classList.add("hidden");
-      toggle.classList.remove("close");
-    });
-
-    window.addEventListener("resize", check);
-    check();
-  })();
 
 /* --------------------------------------------------------------------------
    Mobile TOC disclosure

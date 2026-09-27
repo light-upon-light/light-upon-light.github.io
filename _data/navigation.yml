@@ -1,3 +1,3 @@
-main:
-  - title: "Qur'an and the Messenger ﷺ"
-    url: /quran
+# Empty: the masthead no longer renders nav links (its middle holds a
+# fragment of al-Nur 24:35 instead). See _includes/masthead.html.
+main: []

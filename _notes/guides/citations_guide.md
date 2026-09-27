@@ -50,6 +50,12 @@ The end-of-ayah marker (U+06DD + Arabic-Indic digits) goes *inside* the quoted
 text where the verse ends — never in the citation label, and never after a
 fragment, because no verse ends there.
 
+Write the corpus's code points as they are, including U+06DD and U+06DF (the
+silent-alif mark). The KFGQPC font the site renders Arabic in wants neither:
+it rings the digits by itself and draws the silent-alif mark at U+06E0.
+`_layouts/single.html` drops U+06DD and maps U+06DF to U+06E0 at build time,
+so the source stays standard Unicode and verifiable against the corpus.
+
 ### The markup
 
 A quotation is one blockquote: the English, its attribution, a bare `>` line,

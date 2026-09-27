@@ -484,25 +484,14 @@ test enforces that, and below it the disclosure and the drawer are their own
 mechanisms. The regression assertion is that `window.scrollY` is **identical**
 across a `gumshoeActivate` dispatch while `menu.scrollTop` changes.
 
-**GreedyNav is not fully inert with the single link `_data/navigation.yml`
-holds**, contrary to `masthead.html`'s own comment (accurate about GreedyNav
-undercounting the two appearance-toggle buttons' width, wrong about the
-consequence). Removing GreedyNav outright and shipping nothing produces real
-breakage at narrow widths: `.visible-links` is `flex: 1` with
-`justify-content: flex-end`, so when the single link doesn't fit, it
-overflows past the container's START edge — behind the site title, not
-off the end — which is why `scrollWidth > clientWidth` does NOT detect it
-(that check only sees end-edge overflow). Confirmed at 375px: the link
-rendered ~135px into the title's own box.
-
-The fix is a ~30-line stand-in in `site.js`, not a GreedyNav port: since
-there's only ever one link, the question is binary (fits / doesn't fit), not
-GreedyNav's incremental per-item measurement. It compares the link's own
-natural `offsetWidth` (unaffected by the parent's `overflow: hidden`, which
-only clips paint, not layout) against `.visible-links.clientWidth`, and on
-overflow moves the link into `.hidden-links` and reveals
-`.greedy-nav__toggle` — the same two elements and the same `.hidden` class
-GreedyNav itself used, so the theme's own CSS still drives the dropdown's
-appearance. Re-runs on `resize`. Verified at 375px (hamburger, no overlap,
-dropdown opens/closes), 768px and 1280px (inline, no hamburger) — all three
-match the theme's own GreedyNav output at the same widths.
+**There are no nav links, and so no GreedyNav.** `_data/navigation.yml`'s
+`main` is empty and the masthead's middle holds `.masthead-verse` (al-Nur
+24:35) instead, so the theme's `.visible-links`, `.hidden-links` and
+`.greedy-nav__toggle` are gone from `masthead.html`, and so is the stand-in
+overflow check `site.js` used to carry. If a nav link ever returns, it needs
+that check back: `.visible-links` is `flex: 1` with
+`justify-content: flex-end`, so a link too wide for it overflows past the
+container's START edge — behind the site title — where
+`scrollWidth > clientWidth` cannot see it. Compare the link's own
+`offsetWidth` against `.visible-links.clientWidth` instead (git history has
+the old implementation).

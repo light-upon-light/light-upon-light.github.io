@@ -51,7 +51,17 @@ layout: default
             </nav>
           </aside>
         {% endif %}
-        {{ content }}
+        {%- comment -%}
+          Two Qur'anic code points swapped at render time for the KFGQPC
+          face .quran-arabic uses, so _pages/ keeps the corpus's standard
+          Unicode (see _notes/guides/citations_guide.md):
+          - U+06DF (small high rounded zero, the silent-alif mark) -> U+06E0,
+            the code KFGQPC draws that mark at; its own U+06DF glyph is a
+            heavy dotted disc.
+          - U+06DD (end of ayah) dropped: KFGQPC rings the Arabic-Indic
+            digits after it by itself, so the ۝ drew a second, empty ring.
+        {%- endcomment -%}
+        {{ content | replace: "۟", "۠" | replace: "۝", "" }}
         {% if page.link %}<div><a href="{{ page.link }}" class="btn btn--primary">{{ site.data.ui-text[locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
       </section>
 

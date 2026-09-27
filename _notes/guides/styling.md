@@ -63,11 +63,30 @@ also adds the disclosure summary's copy of that bar, the Karla face, and the
 entry sizing. Never strip the box: the drawer clone's `.toc`
 **is** `#toc-panel`'s opaque surface. See `theme_internals.md`.
 
-Arabic uses `.quran-arabic`, citation labels `.ayah-ref`. Amiri is loaded from
-Google Fonts so the ayah marker encloses its digits regardless of what the
-reader has installed. The theme sets `blockquote { font-style: italic }`, and
-Arabic has no true italic — browsers synthesise a slant that mangles the joins,
-so `.quran-arabic` cancels it with `font-style: normal`.
+Arabic uses `.quran-arabic`, citation labels `.ayah-ref`, both set in the
+King Fahd Complex's Madinah-mushaf face (`assets/fonts/kfgqpc-hafs/`,
+self-hosted and preloaded on every page), so the Uthmani marks and the ayah
+marker enclosing its digits render regardless of what the reader has
+installed. That font's licence forbids modifying it, so it ships whole
+(88 KB, covering the entire Qur'an). It has no ornate parentheses: those come
+from Amiri, subset to U+FD3E/FD3F plus the Arabic-Indic digits (for
+`.ayah-ref` labels, which mustn't get KFGQPC's verse rings) — anything else
+Amiri is ever needed for means re-subsetting it from the full font and
+widening its `unicode-range`.
+
+ﷺ (U+FDFA) is in none of the site's fonts, so each OS used to substitute its
+own. `LUL Salawat` — IBM Plex Sans Arabic cut to that one character, in 400
+and 700, renamed because the licence reserves "Plex" — goes first in every
+Latin stack: the ones in `site.scss`, `$serif`/`$sans-serif` in `_dirt.scss`
+(the theme's), and `og.html`'s. A new `font-family` stack needs it in front
+too, or its ﷺ falls back to the OS again. The
+theme sets `blockquote { font-style: italic }`, and Arabic has no true italic
+— browsers synthesise a slant that mangles the joins, so `.quran-arabic`
+cancels it with `font-style: normal`.
+
+The masthead verse (`.masthead-verse`, al-Nur 24:35) uses the same face.
+Wide screens show the verse's opening; below 48em it swaps to the shorter
+"light upon light" on the same row, and is hidden below 360px.
 
 ## Glossary term hovers
 
