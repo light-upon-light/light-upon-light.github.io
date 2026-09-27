@@ -10,9 +10,9 @@ check there is.
 
 ## Rules that apply before you'd think to look anything up
 
-- **Commit to `main`. Never push.** Pushing is publishing, and that is the
-  author's call alone — don't run `git push`, and don't offer to. No feature
-  branches, no PRs; a branch cannot reach Pages.
+- **Commit to `main`. Never push to `main`.** Pushing `main` is publishing,
+  and that is the author's call alone — don't push it, and don't offer to.
+  Pushing any other branch is fine (a branch cannot reach Pages). No PRs.
 - **Keep `main` linear.** Never create a merge commit on it. Land a
   worktree branch with `git merge --squash --ff <branch>` (default), or rebase
   onto `main` and fast-forward when its commits are separate, meaningful
