@@ -157,7 +157,7 @@
   /* Masthead verse: the opening of al-Nur 24:35 between the site title
      and the two toggles, in the slot the nav link used to hold (markup and
      provenance in _includes/masthead.html). flex: 1 takes all the space
-     between them and centres the line in it; min-width: 0 lets it shrink
+     between them and sets the line against its right edge, beside the toggles; min-width: 0 lets it shrink
      below its natural width so it can't push the toggles off the edge.
      Set in the KFGQPC Hafs face (the Madinah mushaf's), as .quran-arabic
      is. */
@@ -167,12 +167,12 @@
     margin: 0 0.75rem;
     overflow: hidden;
     white-space: nowrap;
-    text-align: center;
+    text-align: right;
     font-family: "KFGQPC HAFS Uthmanic Script", "Amiri", "Scheherazade New",
                  "Noto Naskh Arabic", "Traditional Arabic", "Arabic Typesetting",
                  serif;
     /* larger than Amiri needed: KFGQPC draws small on its em */
-    font-size: 1.65rem;
+    font-size: 1.35rem;
     line-height: 1.6;
     color: var(--mm-text-color);
     cursor: default;
@@ -189,7 +189,7 @@
 
   @media (max-width: 47.9375em) {
     .masthead-verse {
-      font-size: 1.2rem;
+      font-size: 1.05rem;
       margin: 0 0.25rem;
     }
 
@@ -477,7 +477,7 @@
     font-family: "KFGQPC HAFS Uthmanic Script", "Amiri", "Scheherazade New",
                  "Noto Naskh Arabic", "Traditional Arabic", "Arabic Typesetting",
                  serif;
-    font-size: 1.7em;
+    font-size: 1.5em;
     line-height: 2.1;
     text-align: right;
     margin: 0.4em 0;
