@@ -66,5 +66,5 @@ Every article page sets `header.og_image` to a committed 1200×630 PNG in
 (`og/default.png`). The theme's `_includes/seo.html` emits `og:image` from
 `page.header.og_image` (falling back to `site.og_image`) — no Twitter-card
 tags, since `site.twitter.username` is unset. Regenerate the cards with
-`python _notes/scripts/og/gen.py [slug ...]` (needs Chrome; edit the `CARDS`
+`uv run _notes/scripts/og/gen.py [slug ...]` (needs Chrome; edit the `CARDS`
 list there when a title or section label changes), then commit the PNGs.
