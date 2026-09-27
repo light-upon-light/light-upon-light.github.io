@@ -7,3 +7,6 @@ vendor
 Gemfile.lock
 
 __pycache__/
+
+# Local-only scratch (favicon trials etc.); kept out of history on purpose
+_drafts/

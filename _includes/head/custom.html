@@ -1,5 +1,13 @@
 <!-- start custom head snippets -->
 
+{%- comment -%} Favicon. Which design is live is set by copying a variant from
+     _notes/favicons/ with _notes/scripts/favicon.sh. The SVG is the source; favicon.ico (32px, at the root, where browsers ask for it
+     unprompted) and the 180px apple-touch-icon are Chrome renders of it --
+     re-render both if the SVG changes. {%- endcomment -%}
+<link rel="icon" href="{{ '/assets/images/favicon.svg' | relative_url }}" type="image/svg+xml">
+<link rel="icon" href="{{ '/favicon.ico' | relative_url }}" sizes="32x32">
+<link rel="apple-touch-icon" href="{{ '/assets/images/apple-touch-icon.png' | relative_url }}">
+
 {%- comment -%} Amiri: designed for Qur'anic typesetting. Loaded so the end-of-ayah marker
      (U+06DD) encloses its digits and the ornate parentheses (U+FD3E/FD3F)
      render correctly, rather than depending on the reader's installed fonts.

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+<!-- Favicon: "L" in Abril Fatface (the masthead title face), outlined from
+     assets/fonts/abril-fatface so it needs no font. Colours are the skin's
+     $ink-33 and $paper-99; a favicon can't read the site's CSS. -->
+<rect width="64" height="64" rx="12" fill="#3a3631"/>
+<path transform="translate(13.43 54.00) scale(0.06286 -0.06286)" fill="#fdfcf9" d="M21 700H381V678H275V22H311Q396 22 446.5 74.0Q497 126 549 234H570L551 0H21V22H80V678H21Z"/>
+</svg>
