@@ -1381,6 +1381,17 @@
     justify-self: stretch;
   }
 
+  /* Stacked (summary open), the row keeps the grid's own outer margin and
+     the opened card drops its top margin, so the hairline stays put and
+     the card's top edge lands where the closed pill's was. */
+  .page__content .intro-toggles {
+    margin-block: 1.6em;
+  }
+
+  .page__content .intro-toggles > .tldr[open] {
+    margin-block-start: 0 !important;
+  }
+
   /* On a phone the 1fr gutters are too narrow for key terms beside a
      centred pill (at 320px it would overflow), so below $medium the two sit
      side by side as a centred pair instead. Wrapping is only the fallback
