@@ -1451,6 +1451,16 @@
     margin-block: 1.6em;
   }
 
+  /* After a .read-more body the pills measure as far from its bottom as
+     from the next heading, but the heading's line-height adds visible air
+     above its text that the faded body doesn't, so an equal margin reads as
+     sitting against the section above. Only the top grows. Listed in
+     both states, since the closed row's rule above outranks the bare one. */
+  .page__content .read-more ~ .intro-toggles,
+  .page__content .read-more ~ .intro-toggles:not(:has(.tldr[open])) {
+    margin-block-start: 2.6em;
+  }
+
   .page__content .intro-toggles > .tldr[open] {
     margin-block-start: 0 !important;
   }
