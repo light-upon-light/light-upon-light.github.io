@@ -49,7 +49,7 @@ in a centred row under it, where the reader is. `.read-more--head` puts it at
 the right end of the section's heading instead ("Why Read This?"), so it
 never stacks on the `.intro-toggles` pill below. `.read-more--tail` (extra
 points after a section's visible list) whose body is one list reveals the
-examples one at a time with "Show one more": the next item's first line is the faded
+examples one at a time with "Show one more": the next item's first two lines, steeply faded, are the
 teaser, the rest are folded, and "Show less" comes once all are out. The
 script also sets `.is-clamped`, so no-JS and print show the full body. A body
 that already fits is left unclamped.
