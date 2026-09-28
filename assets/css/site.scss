@@ -1541,11 +1541,37 @@
      it fades the text itself into whatever ground is behind it, so it
      needs no colour and works in both palettes unchanged (a mask reads
      only alpha, so currentColor just means "opaque"). */
-  .page__content .read-more.is-clamped {
+  .page__content .read-more.is-clamped,
+  .page__content .read-more__teaser {
     max-height: 4.5em;
     overflow: hidden;
     -webkit-mask-image: linear-gradient(to bottom, currentColor 45%, transparent);
             mask-image: linear-gradient(to bottom, currentColor 45%, transparent);
+  }
+
+  /* A .read-more--tail's list, stepped through by site.js: the next
+     example is the teaser above, the ones after it are out of the way. */
+  .page__content .read-more__folded {
+    display: none;
+  }
+
+  /* An item's number is an outside marker, painted beyond the li's border
+     box, so the teaser's clip and mask both cut it off. The teaser draws
+     its own from the same list-item counter instead, in a box widened
+     leftward to hold it, so the text doesn't move. */
+  .page__content .read-more__teaser {
+    position: relative;
+    margin-inline-start: -2.5em;
+    padding-inline-start: 2.5em;
+    list-style-type: none;
+  }
+
+  .page__content .read-more__teaser::before {
+    content: counter(list-item) ". ";
+    position: absolute;
+    inset-block-start: 0;
+    inset-inline-end: calc(100% - 2.5em);
+    white-space: pre;
   }
 
   /* A taste, not a summary: the default is a couple of lines. --long is
@@ -1613,7 +1639,12 @@
   }
 
   @media print {
-    .page__content .read-more.is-clamped {
+    .page__content .read-more__folded {
+      display: list-item;
+    }
+
+    .page__content .read-more.is-clamped,
+    .page__content .read-more__teaser {
       max-height: none;
       overflow: visible;
       -webkit-mask-image: none;

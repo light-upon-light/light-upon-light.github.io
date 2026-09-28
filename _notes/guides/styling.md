@@ -48,7 +48,9 @@ colour is needed), with a "Show more"/"Show less" toggle that `site.js` puts
 at the right end of the section's heading (after the body if no heading
 precedes it), so it never stacks on the `.intro-toggles` pill below.
 `.read-more--tail` (extra points after a section's visible list) always takes
-the centred row under the body, since the reader is already down there. The
+the centred row under the body, since the reader is already down there, and
+when its body is one list it reveals the examples one at a time: the next item
+is the faded teaser, the rest are folded, and "Show less" comes once all are out. The
 script also sets `.is-clamped`, so no-JS and print show the full body. A body
 that already fits is left unclamped.
 

@@ -1526,7 +1526,8 @@
    Read-more clamp (.read-more)
 
    Shows a section body as its first few faded lines plus a "Show more"
-   button in its heading (quran.md's "Why Read This?"); the clamp height and fade are
+   button in its heading (quran.md's hidden sections), or under it for a
+   .read-more--tail, whose list of examples it reveals one item at a time; the clamp height and fade are
    `.read-more.is-clamped` in site.scss. Independent of everything above.
    Progressive enhancement: with no JS nothing is clamped and there is no
    button, so the full body shows. A body short enough to fit the clamp is
@@ -1536,10 +1537,21 @@
   (function () {
     var boxes = document.querySelectorAll(".page__content .read-more");
     Array.prototype.forEach.call(boxes, function (box, n) {
-      box.classList.add("is-clamped");
-      if (box.scrollHeight <= box.clientHeight + 1) {
-        box.classList.remove("is-clamped");
-        return;
+      var tail = box.classList.contains("read-more--tail");
+      // A tail that is one list of examples steps through it an item at a
+      // time -- the next one as the faded teaser, the rest folded away --
+      // so a long run of hidden examples doesn't land on the reader at once.
+      var only = box.children.length === 1 && box.firstElementChild;
+      var items = tail && only && only.tagName === "OL" &&
+                  only.children.length > 1 ? only.children : null;
+      var shown = 0;
+
+      if (!items) {
+        box.classList.add("is-clamped");
+        if (box.scrollHeight <= box.clientHeight + 1) {
+          box.classList.remove("is-clamped");
+          return;
+        }
       }
       if (!box.id) box.id = "read-more-" + (n + 1);
 
@@ -1547,21 +1559,40 @@
       btn.type = "button";
       btn.className = "read-more__toggle";
       btn.setAttribute("aria-controls", box.id);
-      btn.setAttribute("aria-expanded", "false");
-      btn.textContent = "Show more";
       // Into the section's heading, at the right end of its line (site.scss
       // says why); after the body if nothing heads it, or if it is a
       // .read-more--tail, where the reader is already at the bottom.
       var head = box.previousElementSibling;
-      if (box.classList.contains("read-more--tail") ||
-          !(head && /^H[1-6]$/.test(head.tagName))) head = null;
+      if (tail || !(head && /^H[1-6]$/.test(head.tagName))) head = null;
       if (head) head.appendChild(btn);
       else box.parentNode.insertBefore(btn, box.nextSibling);
 
-      btn.addEventListener("click", function () {
-        var open = box.classList.toggle("is-clamped") === false;
+      function render(open) {
         btn.setAttribute("aria-expanded", open ? "true" : "false");
         btn.textContent = open ? "Show less" : "Show more";
+      }
+
+      function showItems() {
+        Array.prototype.forEach.call(items, function (li, i) {
+          li.classList.toggle("read-more__teaser", i === shown);
+          li.classList.toggle("read-more__folded", i > shown);
+        });
+        render(shown >= items.length);
+      }
+
+      if (items) showItems();
+      else render(false);
+
+      btn.addEventListener("click", function () {
+        var open;
+        if (items) {
+          shown = shown >= items.length ? 0 : shown + 1;
+          showItems();
+          open = shown > 0;
+        } else {
+          open = box.classList.toggle("is-clamped") === false;
+          render(open);
+        }
         // Collapsing from far down the opened body would leave the reader
         // stranded past the section; bring its start back into view.
         if (!open && box.getBoundingClientRect().top < 0) {
