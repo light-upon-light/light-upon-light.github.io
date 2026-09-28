@@ -1526,9 +1526,10 @@
    Read-more clamp (.read-more)
 
    Shows a section body as its first few faded lines plus a "Show more"
-   button in its heading (quran.md's hidden sections), or under it for a
-   .read-more--tail, whose list of examples it reveals one item at a time; the clamp height and fade are
-   `.read-more.is-clamped` in site.scss. Independent of everything above.
+   button under it -- or in its heading, for a .read-more--head (quran.md's
+   "Why Read This?"). A .read-more--tail's list of examples is revealed one
+   item at a time. The clamp height and fade are `.read-more.is-clamped` in
+   site.scss. Independent of everything above.
    Progressive enhancement: with no JS nothing is clamped and there is no
    button, so the full body shows. A body short enough to fit the clamp is
    left alone rather than given a button that reveals nothing.
@@ -1559,11 +1560,12 @@
       btn.type = "button";
       btn.className = "read-more__toggle";
       btn.setAttribute("aria-controls", box.id);
-      // Into the section's heading, at the right end of its line (site.scss
-      // says why); after the body if nothing heads it, or if it is a
-      // .read-more--tail, where the reader is already at the bottom.
+      // Under the body, where the reader is when they want more; a
+      // .read-more--head goes into the section's heading instead, at the
+      // right end of its line (site.scss says why).
       var head = box.previousElementSibling;
-      if (tail || !(head && /^H[1-6]$/.test(head.tagName))) head = null;
+      if (!box.classList.contains("read-more--head") ||
+          !(head && /^H[1-6]$/.test(head.tagName))) head = null;
       if (head) head.appendChild(btn);
       else box.parentNode.insertBefore(btn, box.nextSibling);
 
