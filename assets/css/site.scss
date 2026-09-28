@@ -1410,7 +1410,7 @@
      left, the pill centred in the column -- instead of stacking two short
      controls over a band of empty space. Opening key terms keeps the grid
      and drops its box onto a full-width second row, so the pill and the
-     .read-more hairline above it stay where they were; only opening the
+     section above it stay where they were; only opening the
      summary drops the grid and restores the stacked layout. The children's
      !important margins are the .tldr rules' above. Never nest :has()
      inside :has(): it voids the rule. The 1fr gutters either side are what
@@ -1492,21 +1492,6 @@
     }
   }
 
-  /* Where the pills end a "Why Read This?"-style section (quran.md), a
-     short centred gold hairline -- the same fade as the open .tldr card's
-     ::after -- divides them from the Show more button above, which is
-     centred too and otherwise read as one cluster of controls with them.
-     A background rather than a pseudo-element, since ::before on a grid or
-     flex container becomes a layout item. */
-  .page__content .read-more ~ .intro-toggles {
-    padding-block-start: 1.6em;
-    background-image: linear-gradient(to right, transparent,
-                                      var(--site-tldr-edge), transparent);
-    background-repeat: no-repeat;
-    background-position: top center;
-    background-size: 6em 1px;
-  }
-
   /* Neither stylesheet sets list-style on .page__content ul, so the marker
      is the UA disc at full text colour -- too heavy inside a quiet card.
      A pseudo-element bullet at 45% recedes with whatever colour the text
@@ -1553,21 +1538,53 @@
             mask-image: linear-gradient(to bottom, currentColor 45%, transparent);
   }
 
-  /* Styled as the .quran-more summary is: a small apparatus control, not a
-     call to action, so it sits under the prose without competing with it. */
+  /* The toggle sits at the right end of the section's heading line, not
+     under the faded text: centred there it stacked directly on the
+     .intro-toggles pill below, two boxed controls one over the other. Up
+     here the section's foot is just the fade. Small tracked caps like the
+     KEY TERMS and SUMMARY OF PAGE labels -- the page's apparatus voice --
+     and no border, so it reads as a label rather than a third box. Sized
+     in rem so the heading's own size doesn't scale it. site.js falls back
+     to placing it after the body when no heading precedes it. */
   .page__content .read-more__toggle {
+    float: right;
+    margin: 0.55em 0 0 1em;
+    padding: 0;
+    background: none;
+    border: 0;
+    color: var(--site-read-more-label);
+    font-family: "Karla", -apple-system, BlinkMacSystemFont, "Roboto",
+                 "Segoe UI", Arial, sans-serif;
+    font-size: 0.68rem;
+    font-weight: normal;
+    letter-spacing: 0.16em;
+    text-transform: uppercase;
+    cursor: pointer;
+  }
+
+  /* A drawn chevron, two strokes at the label's weight -- a "v" glyph at
+     this size read as a stray letter. Points down closed, up open. */
+  .page__content .read-more__toggle::after {
+    content: "";
+    display: inline-block;
+    width: 0.5em;
+    height: 0.5em;
+    margin-inline-start: 0.7em;
+    border-right: 1.5px solid currentColor;
+    border-bottom: 1.5px solid currentColor;
+    vertical-align: middle;
+    transform: translateY(-0.3em) rotate(45deg);
+  }
+
+  .page__content .read-more__toggle[aria-expanded="true"]::after {
+    transform: translateY(0.05em) rotate(-135deg);
+  }
+
+  /* No heading to sit in: a centred row under the body instead. */
+  .page__content .read-more + .read-more__toggle {
+    float: none;
     display: block;
     margin: 0.4em auto 1.6em;
-    padding: 0.3em 0.9em;
-    background: none;
-    border: 1px solid var(--site-tldr-line);
-    border-radius: 4px;
-    color: var(--site-read-more-label);
-    font-family: "Amiri", "Karla", -apple-system, BlinkMacSystemFont, "Roboto",
-                 "Segoe UI", Arial, sans-serif;
-    font-size: 0.8rem;
-    letter-spacing: 0.04em;
-    cursor: pointer;
   }
 
   .page__content .read-more__toggle:hover,

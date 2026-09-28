@@ -1526,7 +1526,7 @@
    Read-more clamp (.read-more)
 
    Shows a section body as its first few faded lines plus a "Show more"
-   button (quran.md's "Why Read This?"); the clamp height and fade are
+   button in its heading (quran.md's "Why Read This?"); the clamp height and fade are
    `.read-more.is-clamped` in site.scss. Independent of everything above.
    Progressive enhancement: with no JS nothing is clamped and there is no
    button, so the full body shows. A body short enough to fit the clamp is
@@ -1549,7 +1549,11 @@
       btn.setAttribute("aria-controls", box.id);
       btn.setAttribute("aria-expanded", "false");
       btn.textContent = "Show more";
-      box.parentNode.insertBefore(btn, box.nextSibling);
+      // Into the section's heading, at the right end of its line (site.scss
+      // says why); after the body if nothing heads it.
+      var head = box.previousElementSibling;
+      if (head && /^H[1-6]$/.test(head.tagName)) head.appendChild(btn);
+      else box.parentNode.insertBefore(btn, box.nextSibling);
 
       btn.addEventListener("click", function () {
         var open = box.classList.toggle("is-clamped") === false;
@@ -1558,8 +1562,7 @@
         // Collapsing from far down the opened body would leave the reader
         // stranded past the section; bring its start back into view.
         if (!open && box.getBoundingClientRect().top < 0) {
-          var head = box.previousElementSibling || box;
-          head.scrollIntoView({ block: "start" });
+          (head || box).scrollIntoView({ block: "start" });
         }
       });
     });
