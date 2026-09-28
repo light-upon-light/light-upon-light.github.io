@@ -42,7 +42,7 @@ quotes it carries. `.quran-more--plain` (unused today) drops the rule and
 indent and opts back into the large-text bump, for a box whose content is the
 article's own prose; only its summary stays pinned at the apparatus size.
 
-`.read-more` clamps a section body to its first ~7em (~13em with
+`.read-more` clamps a section body to its first ~4.5em (~13em with
 `.read-more--long`, for "Why Read This?"), faded out by a `mask-image` (so no
 colour is needed), with a "Show more"/"Show less" toggle that `site.js` puts
 at the right end of the section's heading (after the body if no heading

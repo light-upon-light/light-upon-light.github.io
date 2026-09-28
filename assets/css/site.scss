@@ -1542,7 +1542,7 @@
      needs no colour and works in both palettes unchanged (a mask reads
      only alpha, so currentColor just means "opaque"). */
   .page__content .read-more.is-clamped {
-    max-height: 7em;
+    max-height: 4.5em;
     overflow: hidden;
     -webkit-mask-image: linear-gradient(to bottom, currentColor 45%, transparent);
             mask-image: linear-gradient(to bottom, currentColor 45%, transparent);
