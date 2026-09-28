@@ -12,6 +12,8 @@ renders of the SVG. Install one with `sh _notes/scripts/favicon.sh <name>`.
 - `allah-disc` -- Allah in cream on an ink disc (round, not the rounded
   square), as large as fits with a 4-unit margin. Drawn from the original
   vector (allahwriting.zip); provenance unknown.
+- `noon` -- noon (U+0646) from Amiri Bold in cream on the ink disc,
+  sized and centred like `allah-disc`.
 
 All use the skin's `$ink-33` with `$paper-99` letters, hard-coded since a
 favicon can't read the site's CSS. If you edit an SVG, re-render its .ico

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+<!-- Favicon: noon (U+0646) from Amiri Bold, the site's own Arabic face
+     (OFL), outlined so it needs no font, in cream on the ink disc: centred     horizontally on its bounding box, vertically on its smallest enclosing circle, scaled to leave a 4-unit
+     margin to the edge. Colours are the skin's $ink-33 and $paper-99; a
+     favicon can't read the site's CSS. -->
+<circle cx="32" cy="32" r="32" fill="#3a3631"/><path transform="translate(8.903 53.555) scale(0.07993 -0.07993)" fill="#fdfcf9" d="M456 458Q531 306 509 120Q506 97 498.5 75.0Q491 53 477 33Q413 -64 273 -79Q176 -89 119 -35Q63 19 64 107Q66 199 122 281Q134 298 142 290Q152 280 142 264Q88 169 124 109Q159 51 266 52Q399 54 474 133Q470 220 390 354Q378 374 384 385L421 469Q435 501 456 458ZM247 614Q253 622 264 619Q284 612 302.5 601.0Q321 590 337 576Q345 568 340 558L292 482Q285 472 274 480Q264 488 202 525Q191 532 198 542Z"/></svg>
