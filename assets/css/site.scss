@@ -1560,6 +1560,9 @@
      its own from the same list-item counter instead, in a box widened
      leftward to hold it, so the text doesn't move. */
   .page__content .read-more__teaser {
+    /* One line: the button says "one more", so the teaser is a glimpse of
+       which one, not a start on reading it. */
+    max-height: 1lh;
     position: relative;
     margin-inline-start: -2.5em;
     padding-inline-start: 2.5em;
