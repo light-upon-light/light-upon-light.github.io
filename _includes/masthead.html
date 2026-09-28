@@ -38,7 +38,15 @@
           title attributes carry the translation and reference, which the
           masthead has no room to print.
         {%- endcomment -%}
+        {%- comment -%}
+          Gated on site.masthead_verse (_config.yml). With it off, the <p> stays
+          as an empty flex spacer so the toggles still sit at the right edge.
+        {%- endcomment -%}
+        {%- if site.masthead_verse %}
         <p class="masthead-verse" dir="rtl" lang="ar"><span class="masthead-verse__long" title="&ldquo;Allah is the Light of the heavens and the earth.&rdquo; (S&umacr;rat al-N&umacr;r 24:35)">ٱللَّهُ نُورُ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ</span><span class="masthead-verse__short" title="&ldquo;Light upon light!&rdquo; (S&umacr;rat al-N&umacr;r 24:35)">نُّورٌ عَلَىٰ نُورٍ</span></p>
+        {%- else %}
+        <p class="masthead-verse" aria-hidden="true"></p>
+        {%- endif %}
         {%- comment -%}
           Article text-size toggle. A plain "small A / big A" glyph pair (no
           state-swapped icon needed, since a single glyph already
