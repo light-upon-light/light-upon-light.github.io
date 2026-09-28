@@ -35,18 +35,17 @@ the open card's own corner radius, since it is the same object at two sizes; the
 plain-`<div>`, always-open form is still styled and supported. Markup is `formatting_guide.md`;
 its `--site-tldr-*` values and their contrast ratios are in `_dirt.scss`.
 
-`.quran-more` is the closed `<details>` holding extra verses and section
-bodies (markup in `formatting_guide.md`), styled like `.yt-embed` as
-apparatus: taupe left rule, small "Show …" label, and held at 0.85em under
-large text like the quotes it carries. `.quran-more--section` drops the rule
-and indent and opts back into the large-text bump, since its content is the
-article's own prose; only its summary stays pinned at the apparatus size.
+`.quran-more` is the closed `<details>` holding extra verses (markup in
+`formatting_guide.md`), styled like `.yt-embed` as apparatus: taupe left
+rule, small "Show …" label, and held at 0.85em under large text like the
+quotes it carries.
 
 `.read-more` clamps a section body to its first ~13em, faded out by a
 `mask-image` (so no colour is needed), with a "Show more"/"Show less" toggle
 that `site.js` puts at the right end of the section's heading (after the body
 if no heading precedes it), so it never stacks on the `.intro-toggles` pill
-below; the script also sets `.is-clamped`, so no-JS and print show the full
+below. `.read-more--tail` (extra points after a section's visible list) always
+takes the centred row under the body, since the reader is already down there; the script also sets `.is-clamped`, so no-JS and print show the full
 body. A body that already fits is left unclamped.
 
 `.toc` keeps the theme's box and per-entry dividers at both widths; the title

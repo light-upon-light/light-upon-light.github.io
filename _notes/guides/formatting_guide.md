@@ -100,7 +100,7 @@ empty input.
 
 Secondary material folds into a closed `<details class="quran-more"
 markdown="1">` whose `<summary>` uses theme wording: "Show more verses on this
-theme", "Show another verse on this theme", "Read more on this theme".
+theme", "Show another verse on this theme".
 `markdown="1"` is required, or kramdown passes the block through as raw HTML
 and never parses the quotes inside. Leave a blank line after `</summary>`, so
 the body never starts on the line right under the summary.
@@ -108,16 +108,16 @@ the body never starts on the line right under the summary.
 - **Verse box**, inside a list item: the point's first verse stays visible and
   the rest go in the box, its tags indented four spaces like the item's other
   blocks.
-- **Section tail**, at top level: extra points after a section's visible
-  list ("Show more historical details") — add `quran-more--section`. Opened,
-  it reads as plain prose and grows with large text (`styling.md`).
 
 **Read-more clamp**: a whole section hidden by default — everything under a
 heading, lead paragraph included — goes in `<div class="read-more"
 markdown="1">`, opened on the line after the heading's `{: #id }`, not in a
 `<details>`. `site.js` clamps it to a faded teaser and puts a "Show more"
 toggle at the right end of the heading; without JS, and in print, the whole
-body shows. Headings stay outside it.
+body shows. Headings stay outside it. Extra points after a section's visible
+list ("Show more historical details") use `<div class="read-more
+read-more--tail" markdown="1">` instead: the toggle sits centred under the
+fade, where the reader already is.
 
 Never put a heading inside a box, or the TOC and scrollspy point at hidden
 content; `quran.md`'s preservation box is the one standing exception. A box

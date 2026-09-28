@@ -580,8 +580,7 @@ Some of its historical details are especially striking because the civilizations
     > The Biblical text instead gives roughly **600,000 adult Israelite males** at the Exodus (Exodus 12:37; Numbers 1:46), which would imply a total population of roughly two to three million people. Modern historical and archaeological scholarship widely recognizes that a migration of that scale cannot be reconciled with the population and carrying capacity of the region, and scholars who accept a historical core to the Exodus generally place the group at a dramatically smaller size. The Qur'an does not repeat the enormous Biblical figure; it describes the escaping Israelites as a small group. ([mdpi.com](https://www.mdpi.com/2077-1444/17/6/737))
     {: .gloss }
 
-<details class="quran-more quran-more--section" markdown="1">
-<summary>Show more historical details</summary>
+<div class="read-more read-more--tail" markdown="1">
 
 1. **Sun worship in Saba:** in the account of Solomon and the Queen of Saba, the Qur'an reports:
     > **“I found her and her people prostrating to the sun instead of God.”** (27:24)
@@ -664,7 +663,7 @@ Some of its historical details are especially striking because the civilizations
     {: .gloss }
 {: start="6"}
 
-</details>
+</div>
 
 {% include yt-embed.html url="https://youtu.be/c2ovILc_sKY" title="The Qur'an and the Secrets of Egypt" %}
 
@@ -779,8 +778,7 @@ It also describes features of the natural world with remarkable precision, inclu
     > Nutrients from digested food are absorbed through the digestive system and transported through the bloodstream. The mammary glands then draw the substances needed for milk production from the blood and synthesize milk from them. The verse therefore places milk in relation to the two physiological systems involved in providing its raw materials: digestion and blood circulation.
     {: .gloss }
 
-<details class="quran-more quran-more--section" markdown="1">
-<summary>Show more knowledge of nature</summary>
+<div class="read-more read-more--tail" markdown="1">
 
 1. **Gender of the worker honey bee:** the Qur'an addresses the bees that build homes, gather from fruits, and produce honey in the feminine.
     > “And your Lord inspired to the bee, ‘Take for yourself among the mountains, houses, and among the trees and [in] that which they construct. Then eat from all the fruits and follow the ways of your Lord laid down [for you].’ There emerges from their bellies a drink, varying in colors, in which there is healing for people. Indeed in that is a sign for a people who give thought.” (**Sūrat al-Naḥl 16:68–69**), Saheeh International
@@ -873,10 +871,9 @@ It also describes features of the natural world with remarkable precision, inclu
     {: .quote }
     > Earth's atmosphere performs several essential protective functions. It absorbs harmful solar radiation, including most dangerous ultraviolet radiation, moderates otherwise extreme temperatures, and causes most incoming meteoroids to burn up before reaching the ground.
     {: .gloss }
+{: start="8"}
 
-{: start="6"}
-
-</details>
+</div>
 
 ### <span class="num-roman">VII.</span> Numerical Patterns
 {: #numerical-patterns }
@@ -951,8 +948,7 @@ These patterns are especially remarkable in light of how the Qur'an was revealed
     > Verses 1–143 comprise the first 143 verses, while verses 144–286 comprise the remaining 143. The description of the Muslim community as “middle” therefore appears precisely at the numerical middle division of the Qur'an's longest chapter.
     {: .gloss }
 
-<details class="quran-more quran-more--section" markdown="1">
-<summary>Read more on this theme</summary>
+<div class="read-more read-more--tail" markdown="1">
 
 1. **The opening formula and the Qur'an's 114 chapters:** almost every Qur'anic chapter begins with the formula **“In the name of God, the Most Compassionate, the Most Merciful.”** This formula is commonly called the *basmalah*.
     > It appears at the beginning of **113 of the Qur'an's 114 chapters**; chapter 9 is the sole exception. Chapter 27 then contains the complete formula once more within the text itself, in the letter sent by Solomon in verse 27:30. The formula therefore occurs **114 times in total—exactly matching the Qur'an's 114 chapters**.
@@ -995,7 +991,8 @@ These patterns are especially remarkable in light of how the Qur'an was revealed
     >
     > In both cases the complete root is counted rather than selecting particular grammatical forms.
     {: .gloss }
-</details>
+{: start="8"}
+</div>
 
 These patterns vary in kind. Some are exact correspondences between concepts that the Qur'an itself connects, such as Adam and Jesus or this world and the Hereafter. Others involve numbers explicitly stated by the Qur'an, such as twelve months, seven heavens, and nineteen. Others are structural relationships within chapters or across the text.
 
@@ -1309,8 +1306,7 @@ These teachings connect patience and hope with the duty to relieve suffering and
 
 1. Care for others—especially the weak and dependent—is treated as a duty across relationships: spouses, children, parents in old age, relatives, orphans, the poor, travelers, debtors, captives, servants, and those in one's charge.
 
-<details class="quran-more quran-more--section" markdown="1">
-<summary>Read more on this theme</summary>
+<div class="read-more read-more--tail" markdown="1">
 
 1. It makes the poor's share of wealth an obligation rather than a favor. Alms are a due; debts are to be forgiven when the debtor cannot pay; interest is banned; and charity followed by humiliation is worthless.
     > "And in their wealth there was a rightful share ˹fulfilled˺ for the beggar and the poor." (**Sūrat al-Dhāriyāt 51:19**), Dr. Mustafa Khattab, *The Clear Quran*
@@ -1427,7 +1423,8 @@ These teachings connect patience and hope with the duty to relieve suffering and
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿أَلَّا تَزِرُ وَازِرَةٌ وِزْرَ أُخْرَىٰ ۝٣٨ وَأَن لَّيْسَ لِلْإِنسَـٰنِ إِلَّا مَا سَعَىٰ ۝٣٩﴾ <span class="ayah-ref">سُورَةُ النَّجۡمِ</span></div>
     {: .quote }
-</details>
+{: start="7"}
+</div>
 
 Its breadth of subject and universal scope are remarkable: theology, worship, ethics, law, family life, economics, social justice, war and peace, history, human character, nature, and the afterlife are woven into a single worldview. It addresses the individual, family, society, and humanity as a whole, rather than one tribe, class, place, or era.
 
@@ -1597,8 +1594,7 @@ The Qur'an's extraordinary character has not been recognized only by Muslims. Ar
    > Arthur J. Arberry, *The Koran Interpreted*, Introduction, 1955.
    > {: .src }
 
-<details class="quran-more quran-more--section" markdown="1">
-<summary>Read more on this theme</summary>
+<div class="read-more read-more--tail" markdown="1">
 
 1. **Alfred Guillaume**, Christian Arabist and professor of Arabic and Islamic studies, wrote that the Qur'an:
    > “has a rhythm of peculiar beauty and a cadence that charms the ear.”
@@ -1642,7 +1638,7 @@ The Qur'an's extraordinary character has not been recognized only by Muslims. Ar
     > {: .src }
 {: start="5"}
 
-</details>
+</div>
 
 The significance of these testimonies is that qualities central to the Muslim claim about the Qur'an have repeatedly forced themselves upon readers who did not begin from that belief. Across very different periods and intellectual backgrounds, outside observers have independently remarked upon its unique place in Arabic literature, its rhythm and rhetorical force, its unusual effect when recited, the difficulty of reproducing it in translation, and its extraordinary historical influence.
 

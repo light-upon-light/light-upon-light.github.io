@@ -1550,9 +1550,12 @@
       btn.setAttribute("aria-expanded", "false");
       btn.textContent = "Show more";
       // Into the section's heading, at the right end of its line (site.scss
-      // says why); after the body if nothing heads it.
+      // says why); after the body if nothing heads it, or if it is a
+      // .read-more--tail, where the reader is already at the bottom.
       var head = box.previousElementSibling;
-      if (head && /^H[1-6]$/.test(head.tagName)) head.appendChild(btn);
+      if (box.classList.contains("read-more--tail") ||
+          !(head && /^H[1-6]$/.test(head.tagName))) head = null;
+      if (head) head.appendChild(btn);
       else box.parentNode.insertBefore(btn, box.nextSibling);
 
       btn.addEventListener("click", function () {
