@@ -1560,10 +1560,10 @@
      its own from the same list-item counter instead, in a box widened
      leftward to hold it, so the text doesn't move. */
   .page__content .read-more__teaser {
-    /* Two lines, faded from the first: the button says "one more", so the
+    /* One line, faded from its top: the button says "one more", so the
        teaser is a glimpse of which one, not a start on reading it, and the
        fade has to read as a fade over that little text. */
-    max-height: 2lh;
+    max-height: 1lh;
     -webkit-mask-image: linear-gradient(to bottom, currentColor, transparent 90%);
             mask-image: linear-gradient(to bottom, currentColor, transparent 90%);
     position: relative;
