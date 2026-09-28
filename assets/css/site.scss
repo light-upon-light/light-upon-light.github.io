@@ -1457,14 +1457,14 @@
 
   /* On a phone the 1fr gutters are too narrow for key terms beside a
      centred pill (at 320px it would overflow), so below $medium the two sit
-     side by side as a centred pair instead. Wrapping is only the fallback
+     side by side instead, key terms flush left as on desktop. Wrapping is only the fallback
      for a viewport too narrow even for that -- and how an opened key-terms
      box takes its own full-width line under the pill. */
   @media (max-width: 47.9375em) {
     .page__content .intro-toggles:not(:has(.tldr[open])) {
       display: flex;
       flex-wrap: wrap;
-      justify-content: center;
+      justify-content: flex-start;
       gap: 0.6em 0.75em;
     }
 
