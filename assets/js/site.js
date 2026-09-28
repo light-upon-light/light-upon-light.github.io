@@ -1569,7 +1569,8 @@
 
       function render(open) {
         btn.setAttribute("aria-expanded", open ? "true" : "false");
-        btn.textContent = open ? "Show less" : "Show more";
+        btn.textContent = open ? "Show less"
+                               : items ? "Show one more" : "Show more";
       }
 
       function showItems() {
