@@ -117,7 +117,10 @@ toggle at the right end of the heading; without JS, and in print, the whole
 body shows. Headings stay outside it. Extra points after a section's visible
 list ("Show more historical details") use `<div class="read-more
 read-more--tail" markdown="1">` instead: the toggle sits centred under the
-fade, where the reader already is.
+fade, where the reader already is. The teaser is a couple of lines; add
+`read-more--long` only where the opening itself is the point (quran.md's "Why
+Read This?"). A closed `<details>` of the article's own prose, if one is ever
+wanted again, is `quran-more quran-more--plain`.
 
 Never put a heading inside a box, or the TOC and scrollspy point at hidden
 content; `quran.md`'s preservation box is the one standing exception. A box

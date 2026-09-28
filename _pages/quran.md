@@ -43,7 +43,7 @@ glossary:
 ## Why Read This?
 {: #why-read-this }
 
-<div class="read-more" markdown="1">
+<div class="read-more read-more--long" markdown="1">
 
 Below are some of the Qur'an's striking features—things that usually make people stop and consider whether this book could actually be what it claims: the word of God.
 

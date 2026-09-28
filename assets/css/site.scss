@@ -686,6 +686,24 @@
     font-size: 0.9em;
   }
 
+  /* ...except the plain form (.quran-more--plain, below), whose content is
+     the article's own prose and must grow with the toggle like everything
+     around it. (0,4,0) beats the hold above; the summary alone is pinned
+     back to the 0.765em of root the other "Show ..." labels land on (their
+     0.9em of the held 0.85em). */
+  [data-font-size="large"] .page__content .quran-more.quran-more--plain {
+    font-size: 1em;
+  }
+
+  [data-font-size="large"] .page__content .quran-more--plain > summary {
+    font-size: 0.765em;
+  }
+
+  /* Not held, so its quotes go back to the plain 0.765em pin. */
+  [data-font-size="large"] .page__content .quran-more--plain blockquote {
+    font-size: 0.765em;
+  }
+
   /* The TOC widget (nav.toc, both the desktop sticky sidebar and the
      mobile inline version) renders inside .page__content, so without this
      it inherits the reduction above and reads smaller than the rest of
@@ -1515,7 +1533,7 @@
   /* ---- Read-more clamp (.read-more) ---------------------------------------
 
      A section body shown as its first few lines, fading out, with a "Show
-     more" button under it (quran.md's "Why Read This?"). Unlike .quran-more,
+     more" toggle (quran.md's hidden sections and section tails). Unlike .quran-more,
      the start of the content is the teaser, so a <details> -- which shows
      nothing but its summary when closed -- cannot do it. site.js adds
      `.is-clamped` and the button, so a reader without JS, and print, get
@@ -1524,10 +1542,17 @@
      needs no colour and works in both palettes unchanged (a mask reads
      only alpha, so currentColor just means "opaque"). */
   .page__content .read-more.is-clamped {
-    max-height: 13em;
+    max-height: 7em;
     overflow: hidden;
     -webkit-mask-image: linear-gradient(to bottom, currentColor 45%, transparent);
             mask-image: linear-gradient(to bottom, currentColor 45%, transparent);
+  }
+
+  /* A taste, not a summary: the default is a couple of lines. --long is
+     for a body whose opening is the point of showing it (quran.md's "Why
+     Read This?"), and keeps enough in view to read as one. */
+  .page__content .read-more--long.is-clamped {
+    max-height: 13em;
   }
 
   /* The toggle sits at the right end of the section's heading line, not
@@ -1689,6 +1714,18 @@
 
   .quran-more[open] > summary::before {
     transform: rotate(90deg);
+  }
+
+  /* Plain form: a closed box whose content is the article's own prose rather
+     than apparatus. Nothing uses it today (whole sections and section tails
+     are .read-more clamps); kept for a box of prose that wants a summary
+     label rather than a faded teaser. The toggle keeps the apparatus look
+     above, but opened it drops the taupe rule and indent and reads full
+     width. Large-text handling is with the font-size toggle rules near the
+     top of this file. */
+  .quran-more--plain {
+    border-inline-start: 0;
+    padding-inline-start: 0;
   }
 
   /* Holds the no-JS fallback link until the script in footer/custom.html
