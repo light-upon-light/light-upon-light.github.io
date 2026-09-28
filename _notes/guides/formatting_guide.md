@@ -108,14 +108,16 @@ the body never starts on the line right under the summary.
 - **Verse box**, inside a list item: the point's first verse stays visible and
   the rest go in the box, its tags indented four spaces like the item's other
   blocks.
-- **Section body**, at top level: add `quran-more--section` and open the box
-  on the line after a heading's `{: #id }` (or its one-line intro). Opened, it
-  reads as plain prose and grows with large text (`styling.md`).
+- **Section tail**, at top level: extra points after a section's visible
+  list ("Show more historical details") — add `quran-more--section`. Opened,
+  it reads as plain prose and grows with large text (`styling.md`).
 
-**Read-more clamp**: to show a section body's first few lines rather than a
-closed summary, wrap it in `<div class="read-more" markdown="1">` under its
-heading. `site.js` clamps it to a faded teaser with a "Show more" button;
-without JS, and in print, the whole body shows. Headings stay outside it.
+**Read-more clamp**: a whole section hidden by default — everything under a
+heading, lead paragraph included — goes in `<div class="read-more"
+markdown="1">`, opened on the line after the heading's `{: #id }`, not in a
+`<details>`. `site.js` clamps it to a faded teaser and puts a "Show more"
+toggle at the right end of the heading; without JS, and in print, the whole
+body shows. Headings stay outside it.
 
 Never put a heading inside a box, or the TOC and scrollspy point at hidden
 content; `quran.md`'s preservation box is the one standing exception. A box

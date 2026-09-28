@@ -425,10 +425,9 @@ The Qur'an's literary miracle extends far beyond beauty of expression. Its inimi
 #### The Qur'an's Account of Itself
 {: #self-referential-character }
 
-The Qur'an repeatedly explains its own source, purpose, delivery, interpretation, and preservation. It states why it should be accepted as revelation, records objections, and answers them within the text.
+<div class="read-more" markdown="1">
 
-<details class="quran-more quran-more--section" markdown="1">
-<summary>Read more on this theme</summary>
+The Qur'an repeatedly explains its own source, purpose, delivery, interpretation, and preservation. It states why it should be accepted as revelation, records objections, and answers them within the text.
 
 | Subject | Qur'anic explanation |
 | --- | --- |
@@ -448,7 +447,7 @@ The repeated command *qul* [say] makes the relationship between source and messe
 
 Anne-Sylvie Boisliveau studies how the Qur'an describes itself and argues for its authority. Daniel Madigan and Stefan Wild have also examined this feature. [Boisliveau's account of her research, International Qur'anic Studies Association](https://iqsaweb.org/2013/02/04/sr/).
 
-</details>
+</div>
 
 ### <span class="num-roman">IV.</span> Appeal to Reason & Invitation of Scrutiny
 {: #reason-and-scrutiny }
@@ -538,14 +537,13 @@ A fabricator seeking safety could have preferred vague and unfalsifiable claims,
 #### Direct engagement with the listener
 {: #reader-participation }
 
-<details class="quran-more quran-more--section" markdown="1">
-<summary>Read more on this theme</summary>
+<div class="read-more" markdown="1">
 
 The Qur'an repeatedly asks listeners to examine their own lives and answer its questions. Human origin, food, water, and fire become subjects for reflection on dependence upon God (56:58–73). Chapter 55 repeatedly asks people to acknowledge His favors. The question *fa-ayna tadhhabūn* [where, then, are you going?] in 81:26 calls them to reconsider their direction. [Qur'an 56:58–73](https://quran.com/56:58-73), [55:13](https://quran.com/55:13), and [81:26](https://quran.com/81:26).
 
 Questions, parables, warnings, and answers to objections make reflection part of the discourse. The listener is called to understand the message and respond to it.
 
-</details>
+</div>
 
 ### <span class="num-roman">V.</span> Earlier Scriptures & Historical Knowledge
 {: #knowledge-historical-scientific-and-linguistic }
@@ -693,14 +691,13 @@ Some of its historical details are especially striking because the civilizations
 #### The universality of prophecy
 {: #universality-of-prophecy }
 
-<details class="quran-more quran-more--section" markdown="1">
-<summary>Read more on this theme</summary>
+<div class="read-more" markdown="1">
 
 The Qur'an places Muhammad ﷺ within a continuous history of divine guidance. Every community has received a messenger or warner (16:36; 35:24), and the prophets share the call to worship God alone (21:25). Noah, Abraham, Moses, Jesus, and Muhammad ﷺ carry the same foundational message, with legal prescriptions suited to their communities (42:13; 5:48). [Qur'an 16:36](https://quran.com/16:36), [21:25](https://quran.com/21:25), [42:13](https://quran.com/42:13), and [5:48](https://quran.com/5:48).
 
 Divine guidance therefore extends across human history and beyond the figures named in the Qur'an. The text explicitly states that some messengers' stories have been recounted and others have not (40:78). Muhammad's ﷺ mission renews this common call to the Creator. [Qur'an 40:78](https://quran.com/40:78).
 
-</details>
+</div>
 
 ### <span class="num-roman">VI.</span> Knowledge of Nature
 {: #nature-knowledge }
@@ -1217,20 +1214,18 @@ The Qur'an gives a coherent account of God and humanity's relationship with Him.
 #### God's oneness and attributes
 {: #oneness-and-divine-attributes }
 
-<details class="quran-more quran-more--section" markdown="1">
-<summary>Read more on this theme</summary>
+<div class="read-more" markdown="1">
 
 1. **God is One and independent of creation.** Chapter 112 affirms His oneness and excludes offspring, ancestry, and equals. The Throne Verse brings together His life, sustaining power, knowledge, sovereignty, and freedom from weariness (2:255). Human beings depend on God; He is free of any need for their worship or provision (35:15; 51:56–58). Worship is therefore directed to the Creator upon whom everything depends. [Qur'an 112](https://quran.com/112), [2:255](https://quran.com/2:255), and [35:15](https://quran.com/35:15).
 
 1. **His power is joined to knowledge, mercy, and justice.** God knows what is hidden and what is open, and governs with wisdom. His mercy encompasses all things (7:156), and He wrongs no one even by an atom's weight (4:40). His warnings against wrongdoing accompany repeated invitations to repent. These attributes explain both human accountability and the continuing possibility of forgiveness. [Qur'an 59:22–24](https://quran.com/59:22-24), [4:40](https://quran.com/4:40), and [39:53–54](https://quran.com/39:53-54).
 
-</details>
+</div>
 
 #### God's transcendence and nearness
 {: #transcendence-and-nearness }
 
-<details class="quran-more quran-more--section" markdown="1">
-<summary>Read more on this theme</summary>
+<div class="read-more" markdown="1">
 
 > "[He is] Creator of the heavens and the earth. He has made for you from yourselves, mates, and among the cattle, mates; He multiplies you thereby. There is nothing like unto Him, and He is the Hearing, the Seeing." (**Sūrat al-Shūrā 42:11**), Saheeh International
 >
@@ -1244,13 +1239,12 @@ The Qur'an gives a coherent account of God and humanity's relationship with Him.
 
 God is beyond comparison with creation and directly accessible in prayer. He knows every thought, need, and concern. [50:16](https://quran.com/50:16) joins His knowledge of inward whispering with nearness greater than the jugular vein. Explanations of this nearness include divine knowledge and the proximity of His angels, consistent with His transcendence of creation. [Ibn Kathir on 50:16](https://quran.com/50:16/tafsirs/en-tafisr-ibn-kathir).
 
-</details>
+</div>
 
 #### Repentance and direct access to God
 {: #direct-access-to-god }
 
-<details class="quran-more quran-more--section" markdown="1">
-<summary>Read more on this theme</summary>
+<div class="read-more" markdown="1">
 
 Every person can turn directly to God. Adam receives words of repentance and is forgiven (2:37). Each person bears responsibility for their own conduct (53:38–39). Those who have greatly wronged themselves are called to return to God with hope in His mercy (39:53–54). Nearness to Him depends on faith and righteous action, beyond ancestry or wealth (34:37). [Qur'an 2:37](https://quran.com/2:37), [53:38–39](https://quran.com/53:38-39), and [34:37](https://quran.com/34:37).
 
@@ -1258,25 +1252,23 @@ Forgiveness is open through sincere repentance, without inherited guilt, a privi
 
 Repentance includes faith, changed conduct, and making amends for harm done to others. The invitation to seek forgiveness therefore also calls people to reform their lives. [Qur'an 4:110](https://quran.com/4:110), [5:39](https://quran.com/5:39), and [25:70–71](https://quran.com/25:70-71).
 
-</details>
+</div>
 
 #### Human purpose and responsibility
 {: #human-purpose }
 
-<details class="quran-more quran-more--section" markdown="1">
-<summary>Read more on this theme</summary>
+<div class="read-more" markdown="1">
 
 The Qur'an connects creation, choice, temptation, worship, suffering, death, resurrection, and judgment in one account of life. Human beings receive life and guidance, choose how to respond, and answer for their actions. Worship expresses gratitude and forms character. Resurrection brings the full consequences of human conduct before God's judgment. [Qur'an 76:2–3](https://quran.com/76:2-3), [51:56–58](https://quran.com/51:56-58), [67:2](https://quran.com/67:2), and [99:6–8](https://quran.com/99:6-8).
 
 This purpose gives ordinary choices lasting importance: how we treat parents, handle money, control anger, keep promises, and help others. Human responsibility operates within God's sovereignty, a relationship Islamic theologians have explained in different ways. The practical duty is clear: worship God and use the life He has given us well.
 
-</details>
+</div>
 
 #### Suffering and justice
 {: #suffering-and-justice }
 
-<details class="quran-more quran-more--section" markdown="1">
-<summary>Read more on this theme</summary>
+<div class="read-more" markdown="1">
 
 1. **Life tests people through ease and hardship.** Both are described as trials (21:35). Chapter 89 rejects the assumption that wealth proves God's approval or poverty His contempt. It directs attention to how people treat orphans and the poor. [Qur'an 21:35](https://quran.com/21:35) and [89:15–20](https://quran.com/89:15-20).
 
@@ -1286,7 +1278,7 @@ This purpose gives ordinary choices lasting importance: how we treat parents, ha
 
 These teachings connect patience and hope with the duty to relieve suffering and resist injustice. Trust in God's wisdom accompanies responsibility for what we can do.
 
-</details>
+</div>
 
 ### <span class="num-roman">XI.</span> Guidance, Law, and Morality
 {: #guidance-law-and-morality }
@@ -1442,8 +1434,7 @@ Its breadth of subject and universal scope are remarkable: theology, worship, et
 #### Gradual revelation and moral education
 {: #progressive-pedagogy }
 
-<details class="quran-more quran-more--section" markdown="1">
-<summary>Read more on this theme</summary>
+<div class="read-more" markdown="1">
 
 The Qur'an's gradual revelation prepared people to understand and practice its commands. The prohibition of intoxicants developed through stages: their harm was identified as greater than their benefit (2:219); prayer while intoxicated was prohibited (4:43); then avoidance was commanded, with their effects on relationships, remembrance, and prayer explained (5:90–91). [Qur'an 2:219](https://quran.com/2:219), [4:43](https://quran.com/4:43), and [5:90–91](https://quran.com/5:90-91).
 
@@ -1451,7 +1442,7 @@ The sequence combines explanation, changes to established habits, and a binding 
 
 The Qur'an explains that gradual delivery strengthens the messenger's heart (25:32). It also addresses the replacement of instructions during revelation (2:106; 16:101), whose extent and interpretation scholars discuss under abrogation. Its foundational theology and moral purposes remain consistent as particular instructions develop. [Qur'an 25:32](https://quran.com/25:32), [2:106](https://quran.com/2:106), and [16:101](https://quran.com/16:101).
 
-</details>
+</div>
 
 These points give only a glimpse of the Qur'an's guidance. The [evidence on his teachings](/messenger#teachings) gives more comprehensive examples from the Qur'an and the teachings of Prophet Muhammad ﷺ.
 
@@ -1463,8 +1454,7 @@ The Qur'an closely examines human motives, habits, and self-deception. It explai
 ##### Self-deception
 {: #self-deception }
 
-<details class="quran-more quran-more--section" markdown="1">
-<summary>Read more on this theme</summary>
+<div class="read-more" markdown="1">
 
 | Tendency | Qur'anic description |
 | --- | --- |
@@ -1480,25 +1470,23 @@ See [12:8–9](https://quran.com/12:8-9), [2:170](https://quran.com/2:170), [2:2
 
 These descriptions explain recognizable ways in which people justify wrongdoing and overlook their own faults.
 
-</details>
+</div>
 
 ##### How actions shape the heart
 {: #actions-and-the-heart }
 
-<details class="quran-more quran-more--section" markdown="1">
-<summary>Read more on this theme</summary>
+<div class="read-more" markdown="1">
 
 The Qur'an describes how wrongdoing changes the person who practices it. Repeated acts stain the heart (83:14), broken commitments lead to hardening (5:13), and forgetting God leads to self-forgetfulness (59:19). Choices influence what a person notices, accepts, and is willing to acknowledge. [Qur'an 83:14](https://quran.com/83:14), [5:13](https://quran.com/5:13), and [59:19](https://quran.com/59:19).
 
 Remembrance, repentance, and good conduct restore moral awareness. Those conscious of God regain clarity when temptation touches them (7:201), and sincere repentance opens the way to a changed life (25:70–71). The Qur'an therefore connects understanding with honesty and practice, beginning with examination of one's own heart. [Qur'an 7:201](https://quran.com/7:201) and [25:70–71](https://quran.com/25:70-71).
 
-</details>
+</div>
 
 ##### Worship and character
 {: #worship-and-character }
 
-<details class="quran-more quran-more--section" markdown="1">
-<summary>Read more on this theme</summary>
+<div class="read-more" markdown="1">
 
 Qur'anic worship gives moral principles a regular form of practice. Prayer cultivates remembrance and restraint from wrongdoing (20:14; 29:45). Fasting develops consciousness of God (2:183). Charity purifies (9:103). Pilgrimage requires disciplined conduct and directs shared remembrance toward God (2:197–200). [Qur'an 20:14](https://quran.com/20:14), [29:45](https://quran.com/29:45), [2:183](https://quran.com/2:183), [9:103](https://quran.com/9:103), and [2:197–200](https://quran.com/2:197-200).
 
@@ -1506,7 +1494,7 @@ The Prophet's ﷺ teaching supplies the detailed practice of these commands, inc
 
 The Qur'an also judges worship by its effect on conduct. Chapter 107 condemns prayer performed for show alongside neglect of those in need. The practice and the moral responsibility remain connected. [Qur'an 107](https://quran.com/107).
 
-</details>
+</div>
 
 ### <span class="num-roman">XII.</span> Historical Impact and Transformation
 {: #historical-impact-and-transformation }
