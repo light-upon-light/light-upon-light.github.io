@@ -75,8 +75,8 @@ Amiri is ever needed for means re-subsetting it from the full font and
 widening its `unicode-range`.
 
 ﷺ (U+FDFA) is in none of the site's fonts, so each OS used to substitute its
-own. `LUL Salawat` — IBM Plex Sans Arabic cut to that one character, in 400
-and 700, renamed because the licence reserves "Plex" — goes first in every
+own. `LUL Salawat` — Amiri cut to that one character (one file, declared at
+400 and 700 so headings don't faux-bold it) — goes first in every
 Latin stack: the ones in `site.scss`, `$serif`/`$sans-serif` in `_dirt.scss`
 (the theme's), and `og.html`'s. A new `font-family` stack needs it in front
 too, or its ﷺ falls back to the OS again. The

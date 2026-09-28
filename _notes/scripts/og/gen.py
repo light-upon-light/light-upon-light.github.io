@@ -19,7 +19,10 @@ import subprocess, sys, urllib.parse, pathlib, tempfile
 
 HERE = pathlib.Path(__file__).resolve().parent
 ROOT = HERE.parents[2]  # _notes/scripts/og -> repo root
-CHROME = r"C:\Program Files\Google\Chrome\Application\chrome.exe"
+CHROME = next((c for c in (
+    r"C:\Program Files\Google\Chrome\Application\chrome.exe",
+    "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome",
+) if pathlib.Path(c).exists()), "google-chrome")
 OUTDIR = ROOT / "assets" / "images" / "og"
 OUTDIR.mkdir(parents=True, exist_ok=True)
 

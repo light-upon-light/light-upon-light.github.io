@@ -123,14 +123,15 @@
     src: url("{{ '/assets/fonts/kfgqpc-hafs/UthmanicHafs1Ver18.woff2' | relative_url }}") format("woff2");
   }
 
-  /* LUL Salawat: IBM Plex Sans Arabic cut down to one character, U+FDFA
-     (ﷺ), and renamed -- its licence reserves the name "Plex" for unmodified
-     copies (assets/fonts/salawat/OFL.txt). No site font has ﷺ, so each OS
-     used to substitute its own; this goes first in every Latin stack (here
-     and via $serif/$sans-serif in _dirt.scss) so all readers get one
-     design. unicode-range keeps it from being fetched on pages without ﷺ.
-     The italic faces reuse the upright files so italic text doesn't get a
-     synthesised slant through the ligature. */
+  /* LUL Salawat: Amiri cut down to one character, U+FDFA (ﷺ), and renamed
+     so it can't collide with the ornaments-only "Amiri" face above (licence
+     in assets/fonts/salawat/OFL.txt). No site font has ﷺ, so each OS used
+     to substitute its own; this goes first in every Latin stack (here and
+     via $serif/$sans-serif in _dirt.scss) so all readers get one design.
+     unicode-range keeps it from being fetched on pages without ﷺ. Amiri
+     Bold draws ﷺ identically, so one file serves every face: the 700 and
+     italic declarations exist only so the browser doesn't synthesise a
+     bold or a slant through the ligature. */
   @font-face {
     font-family: "LUL Salawat";
     font-style: normal;
@@ -144,7 +145,7 @@
     font-style: normal;
     font-weight: 700;
     font-display: swap;
-    src: url("{{ '/assets/fonts/salawat/LULSalawat-Bold.woff2' | relative_url }}") format("woff2");
+    src: url("{{ '/assets/fonts/salawat/LULSalawat-Regular.woff2' | relative_url }}") format("woff2");
     unicode-range: U+FDFA;
   }
   @font-face {
@@ -160,7 +161,7 @@
     font-style: italic;
     font-weight: 700;
     font-display: swap;
-    src: url("{{ '/assets/fonts/salawat/LULSalawat-Bold.woff2' | relative_url }}") format("woff2");
+    src: url("{{ '/assets/fonts/salawat/LULSalawat-Regular.woff2' | relative_url }}") format("woff2");
     unicode-range: U+FDFA;
   }
 
