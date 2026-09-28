@@ -95,18 +95,48 @@
     unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
   }
 
-  /* The ornate parentheses KFGQPC can't draw, and plain Arabic-Indic
-     digits for .ayah-ref labels (KFGQPC rings every digit as a verse
-     number, which a fragment's label must not look like). If a
-     page ever needs another character from Amiri, re-subset from the full
-     font (github.com/aliftype/amiri) and widen unicode-range to match. */
+  /* Amiri, subset to three jobs: the ornate parentheses KFGQPC can't draw;
+     plain Arabic-Indic digits for .ayah-ref labels (KFGQPC rings every
+     digit as a verse number, which a fragment's label must not look like);
+     and ﷺ (U+FDFA), which no other site font has, so each OS used to
+     substitute its own. For that last, "Amiri" goes first in every Latin
+     stack (site.scss, $serif/$sans-serif in _dirt.scss, og.html).
+     One 400 file backs every face: Amiri Bold's ﷺ is drawn identically,
+     and the 700/italic declarations exist only so the browser doesn't
+     synthesise a bold or a slant through the calligraphy. If a page ever
+     needs another character, re-subset from the full font
+     (github.com/aliftype/amiri) and widen unicode-range to match. */
   @font-face {
     font-family: "Amiri";
     font-style: normal;
     font-weight: 400;
     font-display: swap;
-    src: url("{{ '/assets/fonts/amiri/Amiri-ornaments.woff2' | relative_url }}") format("woff2");
-    unicode-range: U+0660-0669, U+FD3E-FD3F;
+    src: url("{{ '/assets/fonts/amiri/Amiri-subset.woff2' | relative_url }}") format("woff2");
+    unicode-range: U+0660-0669, U+FD3E-FD3F, U+FDFA;
+  }
+  @font-face {
+    font-family: "Amiri";
+    font-style: normal;
+    font-weight: 700;
+    font-display: swap;
+    src: url("{{ '/assets/fonts/amiri/Amiri-subset.woff2' | relative_url }}") format("woff2");
+    unicode-range: U+0660-0669, U+FD3E-FD3F, U+FDFA;
+  }
+  @font-face {
+    font-family: "Amiri";
+    font-style: italic;
+    font-weight: 400;
+    font-display: swap;
+    src: url("{{ '/assets/fonts/amiri/Amiri-subset.woff2' | relative_url }}") format("woff2");
+    unicode-range: U+0660-0669, U+FD3E-FD3F, U+FDFA;
+  }
+  @font-face {
+    font-family: "Amiri";
+    font-style: italic;
+    font-weight: 700;
+    font-display: swap;
+    src: url("{{ '/assets/fonts/amiri/Amiri-subset.woff2' | relative_url }}") format("woff2");
+    unicode-range: U+0660-0669, U+FD3E-FD3F, U+FDFA;
   }
 
   /* KFGQPC HAFS Uthmanic Script, the whole unmodified font (88 KB): it
@@ -121,48 +151,6 @@
     font-weight: 400;
     font-display: block;
     src: url("{{ '/assets/fonts/kfgqpc-hafs/UthmanicHafs1Ver18.woff2' | relative_url }}") format("woff2");
-  }
-
-  /* LUL Salawat: Amiri cut down to one character, U+FDFA (ﷺ), and renamed
-     so it can't collide with the ornaments-only "Amiri" face above (licence
-     in assets/fonts/salawat/OFL.txt). No site font has ﷺ, so each OS used
-     to substitute its own; this goes first in every Latin stack (here and
-     via $serif/$sans-serif in _dirt.scss) so all readers get one design.
-     unicode-range keeps it from being fetched on pages without ﷺ. Amiri
-     Bold draws ﷺ identically, so one file serves every face: the 700 and
-     italic declarations exist only so the browser doesn't synthesise a
-     bold or a slant through the ligature. */
-  @font-face {
-    font-family: "LUL Salawat";
-    font-style: normal;
-    font-weight: 400;
-    font-display: swap;
-    src: url("{{ '/assets/fonts/salawat/LULSalawat-Regular.woff2' | relative_url }}") format("woff2");
-    unicode-range: U+FDFA;
-  }
-  @font-face {
-    font-family: "LUL Salawat";
-    font-style: normal;
-    font-weight: 700;
-    font-display: swap;
-    src: url("{{ '/assets/fonts/salawat/LULSalawat-Regular.woff2' | relative_url }}") format("woff2");
-    unicode-range: U+FDFA;
-  }
-  @font-face {
-    font-family: "LUL Salawat";
-    font-style: italic;
-    font-weight: 400;
-    font-display: swap;
-    src: url("{{ '/assets/fonts/salawat/LULSalawat-Regular.woff2' | relative_url }}") format("woff2");
-    unicode-range: U+FDFA;
-  }
-  @font-face {
-    font-family: "LUL Salawat";
-    font-style: italic;
-    font-weight: 700;
-    font-display: swap;
-    src: url("{{ '/assets/fonts/salawat/LULSalawat-Regular.woff2' | relative_url }}") format("woff2");
-    unicode-range: U+FDFA;
   }
 
   @font-face {

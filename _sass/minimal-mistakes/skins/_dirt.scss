@@ -391,9 +391,9 @@ $black: #000;
 
 /* Font stacks -- the one non-colour setting here, because this skin is the
    only file imported before the theme's _variables.scss, whose font stacks
-   are !default. The theme's defaults, with "LUL Salawat" (U+FDFA only, see
+   are !default. The theme's defaults, with "Amiri" (subset to ﷺ and a few marks, see
    _includes/head/custom.html) in front so every ﷺ the theme styles uses one
    drawing on every device instead of whatever the OS substitutes. */
-$serif: "LUL Salawat", Georgia, Times, serif;
-$sans-serif: "LUL Salawat", -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI",
+$serif: "Amiri", Georgia, Times, serif;
+$sans-serif: "Amiri", -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI",
   "Helvetica Neue", "Lucida Grande", Arial, sans-serif;

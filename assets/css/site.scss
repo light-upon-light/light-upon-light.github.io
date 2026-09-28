@@ -98,7 +98,7 @@
      beat. */
   body,
   h1, h2, h3, h4, h5, h6 {
-    font-family: "LUL Salawat", "Source Serif 4", Georgia, "Times New Roman", serif;
+    font-family: "Amiri", "Source Serif 4", Georgia, "Times New Roman", serif;
   }
 
   /* Dark-mode type rendering. On a near-black ground the reading serif reads
@@ -145,7 +145,7 @@
      block. That stylesheet is gone, so source order alone is enough here
      too. */
   .site-title {
-    font-family: "LUL Salawat", "Abril Fatface", "Source Serif 4", Georgia, serif;
+    font-family: "Amiri", "Abril Fatface", "Source Serif 4", Georgia, serif;
     font-weight: 400;
     letter-spacing: 0.01em;
     /* Never wrap or shrink: the flexible .masthead-verse beside it is what
@@ -735,7 +735,7 @@
      inline TOC switched to Karla. */
   .page__content .toc,
   #toc-panel .toc {
-    font-family: "LUL Salawat", "Karla", -apple-system, BlinkMacSystemFont, "Roboto",
+    font-family: "Amiri", "Karla", -apple-system, BlinkMacSystemFont, "Roboto",
                  "Segoe UI", Arial, sans-serif;
   }
 
@@ -781,7 +781,7 @@
      one is inline-TOC-specific and this one isn't. */
   .page__content .toc .nav__title,
   #toc-panel .nav__title {
-    font-family: "LUL Salawat", "Karla", -apple-system, BlinkMacSystemFont, "Roboto",
+    font-family: "Amiri", "Karla", -apple-system, BlinkMacSystemFont, "Roboto",
                  "Segoe UI", Arial, sans-serif;
   }
 
@@ -956,7 +956,7 @@
     background: var(--site-toctitle-bg);
     border-start-start-radius: 4px;
     border-start-end-radius: 4px;
-    font-family: "LUL Salawat", "Karla", -apple-system, BlinkMacSystemFont, "Roboto",
+    font-family: "Amiri", "Karla", -apple-system, BlinkMacSystemFont, "Roboto",
                  "Segoe UI", Arial, sans-serif;
     font-size: 0.75em;
     font-weight: bold;
@@ -1277,7 +1277,7 @@
   .page__content .tldr__label {
     display: block;
     color: var(--site-tldr-label);
-    font-family: "LUL Salawat", "Karla", -apple-system, BlinkMacSystemFont, "Roboto",
+    font-family: "Amiri", "Karla", -apple-system, BlinkMacSystemFont, "Roboto",
                  "Segoe UI", Arial, sans-serif;
     font-size: 1em;
     font-weight: bold;
@@ -1321,7 +1321,7 @@
     padding-inline-start: 1em;
     color: var(--site-tldr-label);
     opacity: 0.75;
-    font-family: "LUL Salawat", "Karla", -apple-system, BlinkMacSystemFont, "Roboto",
+    font-family: "Amiri", "Karla", -apple-system, BlinkMacSystemFont, "Roboto",
                  "Segoe UI", Arial, sans-serif;
     font-size: 0.78em;
     letter-spacing: 0.04em;
@@ -1558,7 +1558,7 @@
     border: 1px solid var(--site-tldr-line);
     border-radius: 4px;
     color: var(--site-tldr-label);
-    font-family: "LUL Salawat", "Karla", -apple-system, BlinkMacSystemFont, "Roboto",
+    font-family: "Amiri", "Karla", -apple-system, BlinkMacSystemFont, "Roboto",
                  "Segoe UI", Arial, sans-serif;
     font-size: 0.8rem;
     letter-spacing: 0.04em;
@@ -1996,7 +1996,7 @@
     border: 1px solid var(--site-src-border);
     border-radius: 0.35em;
     color: var(--site-src-text);
-    font-family: "LUL Salawat", "Karla", -apple-system, BlinkMacSystemFont, "Roboto",
+    font-family: "Amiri", "Karla", -apple-system, BlinkMacSystemFont, "Roboto",
                  "Segoe UI", Arial, sans-serif;
     font-size: 0.85em;
     text-decoration: none;
@@ -2615,7 +2615,7 @@
     margin: 0;
     padding: 0;
     list-style: none;
-    font-family: "LUL Salawat", "Karla", -apple-system, BlinkMacSystemFont, "Roboto",
+    font-family: "Amiri", "Karla", -apple-system, BlinkMacSystemFont, "Roboto",
                  "Segoe UI", Arial, sans-serif;
     font-size: 0.8em;
   }
@@ -2682,7 +2682,7 @@
     letter-spacing: 0.07em;
     text-transform: uppercase;
     color: var(--site-src-text);
-    font-family: "LUL Salawat", "Karla", -apple-system, BlinkMacSystemFont, "Roboto",
+    font-family: "Amiri", "Karla", -apple-system, BlinkMacSystemFont, "Roboto",
                  "Segoe UI", Arial, sans-serif;
     cursor: pointer;
   }
@@ -2791,7 +2791,7 @@
      decision 2B. */
   .page__dateline {
     margin: 0.5em 0 0;
-    font-family: "LUL Salawat", "Karla", -apple-system, BlinkMacSystemFont, "Roboto",
+    font-family: "Amiri", "Karla", -apple-system, BlinkMacSystemFont, "Roboto",
                  "Segoe UI", Arial, sans-serif;
     font-size: 0.8em;
     letter-spacing: 0.01em;
