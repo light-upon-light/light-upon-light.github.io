@@ -1479,6 +1479,11 @@
       order: -1;
     }
 
+    /* with key terms opened below, the pill has its row to itself: centre it */
+    .page__content .intro-toggles:not(:has(.tldr[open])):has(> .glossary-key > details[open]) {
+      justify-content: center;
+    }
+
     /* opened, it goes under the pill, as on the wide grid */
     .page__content .intro-toggles:not(:has(.tldr[open])) > .glossary-key:has(> details[open]) {
       order: 1;
