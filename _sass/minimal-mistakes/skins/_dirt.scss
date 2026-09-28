@@ -215,6 +215,7 @@ $black: #000;
   --site-tldr-fill: #{$paper-99};
   --site-tldr-line: #{$sand-92};
   --site-tldr-label: #{$sienna};
+  --site-read-more-label: #{$sienna}; // .read-more__toggle text
   --site-tldr-edge: #{$gold}; // the top-edge gold fade; same gold as --site-quote-gold
   --site-tldr-shadow: #{rgba($umber-50, 0.12)};
   --site-breadcrumb-sep: #{$umber-78}; // quran-breadcrumb "›" separator
@@ -330,6 +331,7 @@ $black: #000;
   --site-tldr-fill: #{$night-25};
   --site-tldr-line: #3a342b; // softer than the border colour, kept by choice (palette decision 4A)
   --site-tldr-label: #{$gold-bright};
+  --site-read-more-label: #{$bone-84}; // .read-more__toggle: body text colour, not gold
   --site-tldr-edge: #{$gold-bright};
   --site-tldr-shadow: #{rgba($black, 0.45)};
   --site-breadcrumb-sep: #{$umber-50};
