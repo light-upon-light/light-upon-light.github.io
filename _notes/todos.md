@@ -79,8 +79,6 @@ At some point:
 - expand heavily on the literary miracle section and the summit of arabic eloquence part, with optionally depending on the early classical arabic scholarship on the subject
 - review classical islamic literature on the inimitability of the quran and adapt that into the page. Maybe into the page itself or maybe in sections below that tackle specific books or literature, or just an expanded details section. (e.g. إعجاز القرآن والبلاغة النبوية)
 
-- fix [2026-08-06 23:14:20] ERROR '/favicon.ico' not found. error
-- on safari, since you can see the page behind the bar on top and on bottom of browser, when you open toc it only darkens the part not behing them.
 
 Maybe not:
 
