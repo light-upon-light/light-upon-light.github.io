@@ -102,7 +102,7 @@ And it has transformed the people who receive it
 
 All of the above is done by a book that was revealed orally under these conditions and that claims it is the word of God and that Prophet Muhammad ﷺ is the messenger of God.
 
-This page dicusses the above features in more detail along with many others, and supplements the argument with evidence of prophethood from the life of Prophet Muhammad ﷺ.
+This page discusses the above features in more detail along with many others, and supplements the argument with evidence of prophethood from the life of Prophet Muhammad ﷺ.
 
 </div>
 
