@@ -45,7 +45,8 @@ glossary:
 
 <div class="read-more read-more--long read-more--head" markdown="1">
 
-Below are some of the Qur'an's striking features—things that usually make people stop and consider whether this book could actually be what it claims: the word of God.
+The Qur'an presents a remarkable convergence of signs pointing to its divine origin. Below are some of its striking features that might make you interested in reading further.
+<!-- —things that usually make people stop and consider whether this book could actually be what it claims: the word of God. -->
 
 The unusual circumstances of its revelation
 {: .group-label }
@@ -99,9 +100,9 @@ And it has transformed the people who receive it
 - It has shaped the beliefs, laws, societies, and lives of billions of people across history.
 - Prophet Muhammad ﷺ has been regarded by both muslims and non-muslims alike as one of the most influential figures in history.
 
-All of this is done by one book that was revealed orally under these conditions and that claims it is the word of God and that Prophet Muhammad ﷺ is the messenger of God.
+All of the above is done by a book that was revealed orally under these conditions and that claims it is the word of God and that Prophet Muhammad ﷺ is the messenger of God.
 
-This page goes into detail about the above points and many more, and supplements the argument with evidence of prophethood from the life of Prophet Muhammad ﷺ.
+This page dicusses the above features in more detail along with many others, and supplements the argument with evidence of prophethood from the life of Prophet Muhammad ﷺ.
 
 </div>
 
@@ -110,7 +111,7 @@ This page goes into detail about the above points and many more, and supplements
 <details class="tldr" markdown="1">
 <summary><span class="tldr__label">Summary of Page</span></summary>
 
-The Qur'an and the life of Prophet Muhammad ﷺ together form a powerful cumulative case for his prophethood.
+The Qur'an and the life of Prophet Muhammad ﷺ together form a cumulative case for his prophethood.
 
 **The Qur'an**
 
@@ -142,7 +143,7 @@ The case is therefore cumulative: the Qur'an's extraordinary qualities, the Prop
 
 ## The Book
 
-The Qur'an presents a remarkable convergence of signs pointing to its divine origin. Its mode of revelation, a literary character that its first and most capable audience could not answer, and intricate composition stand alongside the historical and natural knowledge preserved in its text, the numerical patterns running through it, its fulfilled predictions, extraordinary preservation, depth of guidance, and its relationship with the Messenger ﷺ. Taken together, they form a powerful and comprehensive case that the Qur'an is what it declares itself to be: revelation from God.
+<!-- The Qur'an presents a remarkable convergence of signs pointing to its divine origin. Its mode of revelation, a literary character that its first and most capable audience could not answer, and intricate composition stand alongside the historical and natural knowledge preserved in its text, the numerical patterns running through it, its fulfilled predictions, extraordinary preservation, depth of guidance, and its relationship with the Messenger ﷺ. Taken together, they form a powerful and comprehensive case that the Qur'an is what it declares itself to be: revelation from God. -->
 
 ### <span class="num-roman">I.</span> How the Qur'an Emerged
 {: #mode-of-revelation }

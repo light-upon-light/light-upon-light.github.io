@@ -67,7 +67,9 @@ messenger:
 - add something in the second paragraph about the prophet's unmatched character and moral conduct. also about him being one of the most influential humans in history
 - add and expand on similar sections of quran: historical knowledge, natural knowledge, predictions.
 - extract info about foretold in previous religions from videos and add them to a new page.
-- ideas in file
+- chief rabbi testing the prophet saaw.
+- adopt flow or ideas from the proofs of prophethood book. Maybe restructure pages, and argument on main page.
+- ideas in file inside drafts folder.
 
 ---
 
