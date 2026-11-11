@@ -8,5 +8,8 @@ Gemfile.lock
 
 __pycache__/
 
+# macOS Finder metadata
+.DS_Store
+
 # Local-only scratch (favicon trials etc.); kept out of history on purpose
 _drafts/
