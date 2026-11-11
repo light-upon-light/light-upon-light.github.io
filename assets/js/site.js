@@ -1526,9 +1526,9 @@
    Read-more clamp (.read-more)
 
    Shows a section body as its first few faded lines plus a "Show more"
-   button under it -- or in its heading, for a .read-more--head (quran.md's
-   "Why Read This?"). A .read-more--tail's list of examples is revealed one
-   item at a time. The clamp height and fade are `.read-more.is-clamped` in
+   button under it. A .read-more--tail's list of examples is revealed one
+   item at a time, with a "Show all" beside it for a reader who'd rather not
+   keep clicking. The clamp height and fade are `.read-more.is-clamped` in
    site.scss. Independent of everything above.
    Progressive enhancement: with no JS nothing is clamped and there is no
    button, so the full body shows. A body short enough to fit the clamp is
@@ -1560,14 +1560,21 @@
       btn.type = "button";
       btn.className = "read-more__toggle";
       btn.setAttribute("aria-controls", box.id);
-      // Under the body, where the reader is when they want more; a
-      // .read-more--head goes into the section's heading instead, at the
-      // right end of its line (site.scss says why).
-      var head = box.previousElementSibling;
-      if (!box.classList.contains("read-more--head") ||
-          !(head && /^H[1-6]$/.test(head.tagName))) head = null;
-      if (head) head.appendChild(btn);
-      else box.parentNode.insertBefore(btn, box.nextSibling);
+      // Under the body, where the reader is when they want more.
+      var actions = document.createElement("div");
+      actions.className = "read-more__actions";
+      actions.appendChild(btn);
+      box.parentNode.insertBefore(actions, box.nextSibling);
+
+      var allBtn = null;
+      if (items) {
+        allBtn = document.createElement("button");
+        allBtn.type = "button";
+        allBtn.className = "read-more__toggle";
+        allBtn.setAttribute("aria-controls", box.id);
+        allBtn.textContent = "Show all";
+        actions.appendChild(allBtn);
+      }
 
       function render(open) {
         btn.setAttribute("aria-expanded", open ? "true" : "false");
@@ -1581,10 +1588,21 @@
           li.classList.toggle("read-more__folded", i > shown);
         });
         render(shown >= items.length);
+        // With one item left, "Show all" would just repeat "Show one more".
+        allBtn.hidden = items.length - shown <= 1;
       }
 
       if (items) showItems();
       else render(false);
+
+      if (allBtn) allBtn.addEventListener("click", function () {
+        shown = items.length;
+        showItems();
+        // This button has just hidden itself; don't drop keyboard focus. But
+        // btn is now below everything just revealed, and a plain focus()
+        // would scroll the reader past all of it.
+        btn.focus({ preventScroll: true });
+      });
 
       btn.addEventListener("click", function () {
         var open;
@@ -1599,7 +1617,7 @@
         // Collapsing from far down the opened body would leave the reader
         // stranded past the section; bring its start back into view.
         if (!open && box.getBoundingClientRect().top < 0) {
-          (head || box).scrollIntoView({ block: "start" });
+          box.scrollIntoView({ block: "start" });
         }
       });
     });

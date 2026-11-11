@@ -43,7 +43,7 @@ glossary:
 ## Why Read This?
 {: #why-read-this }
 
-<div class="read-more read-more--long read-more--head" markdown="1">
+<div class="read-more read-more--long" markdown="1">
 
 The Qur'an presents a remarkable convergence of signs pointing to its divine origin. Below are some of its striking features, which may invite you to read further.
 <!-- —things that usually make people stop and consider whether this book could actually be what it claims: the word of God. -->

@@ -112,15 +112,15 @@ the body never starts on the line right under the summary.
 **Read-more clamp**: a whole section hidden by default — everything under a
 heading, lead paragraph included — goes in `<div class="read-more"
 markdown="1">`, opened on the line after the heading's `{: #id }`, not in a
-`<details>`. `site.js` clamps it to a faded teaser with a centred "Show
+`<details>`. `site.js` clamps it to a faded teaser with a flush-left "Show
 more" under it; without JS, and in print, the whole body shows. Headings
 stay outside it. Extra points after a section's visible list ("Show more
 historical details") use `<div class="read-more read-more--tail"
-markdown="1">`: each click of "Show one more" reveals one example (keep the
+markdown="1">`: each click of "Show one more" reveals one example, and "Show
+all" beside it reveals the rest (keep the
 tail's body a single numbered list for that to work). The teaser is a couple
-of lines; `read-more--long` keeps more in view and `read-more--head` puts the
-toggle in the heading, both only for quran.md's "Why Read This?", whose
-opening is the point and whose foot meets the summary pill. A closed `<details>` of the article's own prose, if one is ever
+of lines; `read-more--long` keeps more in view, only for quran.md's "Why
+Read This?", whose opening is the point. A closed `<details>` of the article's own prose, if one is ever
 wanted again, is `quran-more quran-more--plain`.
 
 Never put a heading inside a box, or the TOC and scrollspy point at hidden

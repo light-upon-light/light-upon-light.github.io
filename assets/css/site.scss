@@ -1587,14 +1587,22 @@
     max-height: 13em;
   }
 
-  /* A centred row under the fade, where the reader is when they want
-     more. Small tracked caps like the KEY TERMS and SUMMARY OF PAGE labels
+  /* A flush-left row under the fade, where the reader is when they want
+     more; left so it never stacks on the centred .intro-toggles pill. It
+     holds one toggle, or "Show one more" and "Show all" side by side. */
+  .page__content .read-more__actions {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.4em 2em;
+    margin: 0.4em 0 1.6em;
+  }
+
+  /* Small tracked caps like the KEY TERMS and SUMMARY OF PAGE labels
      -- the page's apparatus voice -- and no border, so it reads as a label
-     rather than a box. Sized in rem so a heading holding it (below) doesn't
-     scale it. */
+     rather than a box. */
   .page__content .read-more__toggle {
     display: block;
-    margin: 0.4em auto 1.6em;
+    margin: 0;
     padding: 0;
     background: none;
     border: 0;
@@ -1626,13 +1634,9 @@
     transform: translateY(0.05em) rotate(-135deg);
   }
 
-  /* .read-more--head: at the right end of the section's heading line
-     instead (quran.md's "Why Read This?"). Under the fade there it
-     stacked directly on the .intro-toggles pill below, two controls one
-     over the other. */
-  .page__content :is(h1, h2, h3, h4, h5, h6) > .read-more__toggle {
-    float: right;
-    margin: 0.55em 0 0 1em;
+  /* `display: block` above would otherwise beat the UA's [hidden]. */
+  .page__content .read-more__toggle[hidden] {
+    display: none;
   }
 
   .page__content .read-more__toggle:hover,
@@ -1654,7 +1658,7 @@
               mask-image: none;
     }
 
-    .page__content .read-more__toggle {
+    .page__content .read-more__actions {
       display: none;
     }
   }

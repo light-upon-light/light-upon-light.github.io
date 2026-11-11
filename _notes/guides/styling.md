@@ -45,12 +45,12 @@ article's own prose; only its summary stays pinned at the apparatus size.
 `.read-more` clamps a section body to its first ~4.5em (~13em with
 `.read-more--long`, for "Why Read This?"), faded out by a `mask-image` (so no
 colour is needed), with a "Show more"/"Show less" toggle that `site.js` puts
-in a centred row under it, where the reader is. `.read-more--head` puts it at
-the right end of the section's heading instead ("Why Read This?"), so it
-never stacks on the `.intro-toggles` pill below. `.read-more--tail` (extra
+in a flush-left row under it, where the reader is and clear of the centred
+`.intro-toggles` pill. `.read-more--tail` (extra
 points after a section's visible list) whose body is one list reveals the
 examples one at a time with "Show one more": the next item's first line, steeply faded, is the
-teaser, the rest are folded, and "Show less" comes once all are out. The
+teaser, the rest are folded, "Show all" sits beside it while more than one
+item is left, and "Show less" comes once all are out. The
 script also sets `.is-clamped`, so no-JS and print show the full body. A body
 that already fits is left unclamped.
 
