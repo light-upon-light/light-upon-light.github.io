@@ -542,9 +542,9 @@ A fabricator seeking safety could have preferred vague and unfalsifiable claims,
 
 <div class="read-more" markdown="1">
 
-The Qur'an repeatedly asks its listeners to examine their own lives and answer its questions. It makes human origin, food, water, and fire subjects for reflection on dependence upon God (56:58–73). In Chapter 55 it asks people again and again to acknowledge His favors. In 81:26 it calls them to reconsider their direction with the question *fa-ayna tadhhabūn* [where, then, are you going?]. [Qur'an 56:58–73](https://quran.com/56:58-73), [55:13](https://quran.com/55:13), and [81:26](https://quran.com/81:26).
-
 The Qur'an makes reflection part of its discourse through questions, parables, warnings, and answers to objections, calling the listener to understand its message and respond.
+
+It repeatedly asks its listeners to examine their own lives and answer its questions. It makes human origin, food, water, and fire subjects for reflection on dependence upon God (56:58–73). In Chapter 55 it asks people again and again to acknowledge His favors. In 81:26 it calls them to reconsider their direction with the question *fa-ayna tadhhabūn* [where, then, are you going?]. [Qur'an 56:58–73](https://quran.com/56:58-73), [55:13](https://quran.com/55:13), and [81:26](https://quran.com/81:26).
 
 </div>
 
@@ -553,7 +553,7 @@ The Qur'an makes reflection part of its discourse through questions, parables, w
 
 The Qur'an presents itself as the final revelation in the same prophetic line as Abraham, Moses, and Jesus. It recounts earlier sacred history in a voice that is authoritative and independent: it corrects theological distortions, restores pure monotheism, and reshapes familiar narratives with remarkable precision.
 
-Some of the Qur'an's historical details are especially striking because the civilizations involved had long since disappeared and their own records could no longer be read. Knowledge of Egyptian hieroglyphs vanished after the fourth century CE and was recovered only after their modern decipherment in 1822. Ancient South Arabian monumental writing began to be deciphered only in the nineteenth century, while an entire script used for everyday Sabaean correspondence was not discovered until the 1970s. Modern archaeology and epigraphy have therefore made it possible to compare it with evidence unavailable for most of the intervening centuries. ([britishmuseum.org](https://www.britishmuseum.org/blog/everything-you-ever-wanted-know-about-rosetta-stone?utm_source=chatgpt.com))
+Some of the Qur'an's historical details are especially striking because they concern civilizations that had long since disappeared and whose own records could no longer be read. Knowledge of Egyptian hieroglyphs vanished after the fourth century CE and was recovered only with their modern decipherment in 1822. Ancient South Arabian monumental writing began to be deciphered only in the nineteenth century, while an entire script used for everyday Sabaean correspondence was not discovered until the 1970s. Modern archaeology and epigraphy have therefore made it possible to compare these details with evidence unavailable for most of the intervening centuries. ([britishmuseum.org](https://www.britishmuseum.org/blog/everything-you-ever-wanted-know-about-rosetta-stone?utm_source=chatgpt.com))
 
 1. **“King” in the time of Joseph and “Pharaoh” in the time of Moses:** the Qur'an distinguishes precisely between the titles of the Egyptian rulers in these two periods.
     > In the story of Joseph, the ruler is repeatedly called *al-malik* [the king] (12:43, 12:50, 12:54), and never Pharaoh. In the story of Moses, the ruler is repeatedly called *Firʿawn* [Pharaoh].
@@ -695,9 +695,9 @@ Some of the Qur'an's historical details are especially striking because the civi
 
 <div class="read-more" markdown="1">
 
-The Qur'an places Muhammad ﷺ within a continuous history of divine guidance. Every community has received a messenger or warner (16:36; 35:24), and the prophets share one call, to worship God alone (21:25). Noah, Abraham, Moses, Jesus, and Muhammad ﷺ carry the same foundational message, with legal prescriptions suited to each community (42:13; 5:48). [Qur'an 16:36](https://quran.com/16:36), [21:25](https://quran.com/21:25), [42:13](https://quran.com/42:13), and [5:48](https://quran.com/5:48).
+The Qur'an places Muhammad ﷺ within a continuous history of divine guidance. Every community has received a messenger or warner (16:36; 35:24), and the prophets share one call: to worship God alone (21:25). Noah, Abraham, Moses, Jesus, and Muhammad ﷺ carry the same foundational message, with legal prescriptions suited to each community (42:13; 5:48). [Qur'an 16:36](https://quran.com/16:36), [21:25](https://quran.com/21:25), [42:13](https://quran.com/42:13), and [5:48](https://quran.com/5:48).
 
-Divine guidance therefore extends across human history and beyond the figures the Qur'an names: the text explicitly states that the stories of some messengers have been recounted and others have not (40:78). Muhammad's ﷺ mission renews this common call to the Creator. [Qur'an 40:78](https://quran.com/40:78).
+Divine guidance therefore extends across human history and beyond the figures the Qur'an names, for the text explicitly states that the stories of some messengers have been recounted and others have not (40:78). Muhammad's ﷺ mission renews this common call to the Creator. [Qur'an 40:78](https://quran.com/40:78).
 
 </div>
 
@@ -706,7 +706,7 @@ Divine guidance therefore extends across human history and beyond the figures th
 
 The Qur'an repeatedly directs human beings to the natural world as evidence of God's wisdom and power: the heavens and earth, rain, animals, human development, day and night, winds, seas, mountains, and the origins and fragility of life.
 
-It also describes features of the natural world with remarkable precision, including observations whose significance became clearer only with later scientific knowledge. Some examples follow.
+It also describes features of that world with remarkable precision, including observations whose significance became clearer only with later scientific knowledge. Some examples follow.
 
 {% include yt-embed.html url="https://youtu.be/DoP6Ft-VE70" title="Are there scientific miracles in the Qur'an?" %}
 
@@ -881,7 +881,7 @@ It also describes features of the natural world with remarkable precision, inclu
 ### <span class="num-roman">VII.</span> Numerical Patterns
 {: #numerical-patterns }
 
-The Qur'an contains a number of striking numerical relationships across its **114 chapters**, each composed of verses in Arabic. These relationships involve the recurrence of particular words, grammatical forms, letters, verses, and chapter structures. Some involve concepts that the Qur'an itself explicitly connects or contrasts; others appear within the structure of individual chapters.
+The Qur'an contains a number of striking numerical relationships across its **114 chapters**, each composed of verses in Arabic. They appear in the recurrence of particular words, grammatical forms, letters, verses, and chapter structures. Some involve concepts that the Qur'an itself explicitly connects or contrasts; others lie within the structure of individual chapters.
 
 The strongest examples are those whose counting rules are clear and reproducible. The examples below therefore assign no arbitrary numerical values to letters and draw no comparisons from loosely related words.
 
@@ -1078,7 +1078,7 @@ Zuhayr's inscription, dated 24 AH / 644–645 CE, includes consonantal dots, whi
 #### The canonical readings
 {: #canonical-readings }
 
-The *qirāʾāt* [recognized Qur'anic reading traditions] preserve transmitted ways of reciting the Qur'an, among them the familiar Ḥafṣ transmission from ʿĀṣim and Warsh transmission from Nāfiʿ. Classical Sunni scholarship recognized ten canonical readings, each with named transmitters and specified transmission routes. This classification organized a recitation tradition that already existed.
+The Qur'an's canonical readings preserve a defined body of transmitted variation, and both its wording and its transmission can be studied. These *qirāʾāt* [recognized Qur'anic reading traditions] are transmitted ways of reciting the Qur'an, among them the familiar Ḥafṣ transmission from ʿĀṣim and Warsh transmission from Nāfiʿ. Classical Sunni scholarship recognized ten canonical readings, each with named transmitters and specified transmission routes. This classification organized a recitation tradition that already existed.
 
 A reading's acceptance required sound transmission, conformity with Arabic, and compatibility with at least one standard regional codex. Those codices shared an overwhelmingly stable text with limited regional differences. The seven *aḥruf* [authorized modes of revelation, whose precise meaning is disputed] are neither the seven readings selected by Ibn Mujāhid nor the later canon of ten. [Marijn van Putten, *Quranic Arabic: From Its Hijazi Origins to Its Classical Reading Traditions*](https://doi.org/10.1163/9789004506251).
 
@@ -1086,7 +1086,7 @@ In [1:4](https://quran.com/1:4), for example, *mālik* [Master or Owner] and *ma
 
 Written and oral transmission supported one another. In his study of Hišām's *Ibrāhām/Ibrāhīm* [two recited forms of Abraham's name], van Putten identifies places where spelling influenced recitation, and also agreements that point to inherited oral transmission. [“Hišām's ʾIbrāhām”](https://doi.org/10.1017/S1356186319000518).
 
-The Qur'an's canonical readings preserve a defined body of transmitted variation, and both its wording and its transmission can be studied. Muslims receive the accepted readings as authorized revelation; manuscript research traces their relationship to the early written text.
+Muslims receive the accepted readings as authorized revelation; manuscript research traces their relationship to the early written text.
 
 #### Early variants and standardization
 {: #difficult-textual-evidence }
@@ -1106,7 +1106,7 @@ The Qur'an's early variants and the history of its standardization belong within
 #### Early establishment of the standard text
 {: #early-textual-closure }
 
-The Qur'an's manuscripts share spelling details and relationships that point to a common written ancestor. Nicolai Sinai argues that the best starting point for historical analysis is a standard consonantal text in place by about 650 CE or earlier. That date falls within a generation of the Prophet's ﷺ death, close to the traditional date of ʿUthmān's standardization. [“When did the consonantal skeleton of the Quran reach closure? Part II”](https://doi.org/10.1017/S0041977X14000111).
+The Qur'an's manuscripts share spelling details and relationships that point to a common written ancestor. Nicolai Sinai argues that the best starting point for historical analysis is a standard consonantal text in place by about 650 CE or earlier, a date within a generation of the Prophet's ﷺ death and close to the traditional date of ʿUthmān's standardization. [“When did the consonantal skeleton of the Quran reach closure? Part II”](https://doi.org/10.1017/S0041977X14000111).
 
 This early evidence directly challenges theories that date the Qur'an's basic composition two or three centuries later. Research into the earliest collection, regional copies, spelling, and readings refines the history of a text already established near Islam's beginnings.
 
@@ -1127,9 +1127,9 @@ Sources: [Blair and Bloom, “Inscriptions in art and architecture”](https://w
 #### A shared language across generations and peoples
 {: #global-arabic-transmission }
 
-The Qur'an is recited in Arabic by Muslims whose first languages are as varied as Indonesian, Turkish, Hausa, Persian, Urdu, and English. Translations make its meaning accessible, while across recognized reading traditions its original language remains the shared language of worship.
+The Qur'an is recited in Arabic by Muslims whose first languages are as varied as Indonesian, Turkish, Hausa, Persian, Urdu, and English. Translations make its meaning accessible, while across recognized reading traditions the shared language of worship remains its original Arabic.
 
-Recitation, memorization, grammar, commentary, and dictionaries have also sustained access to the Arabic in which the Qur'an first appeared. Spoken Arabic has developed over time, and understanding early usage requires study. The continuing preservation and teaching of the original language give later generations direct access to the text itself. [Graham and Kermani on recitation](https://doi.org/10.1017/CCOL0521831601.007).
+The Arabic in which the Qur'an first appeared has also remained accessible, sustained by recitation, memorization, grammar, commentary, and dictionaries. Spoken Arabic has developed over time, and understanding early usage requires study. Because the original language continues to be preserved and taught, later generations have direct access to the text itself. [Graham and Kermani on recitation](https://doi.org/10.1017/CCOL0521831601.007).
 
 </details>
 
@@ -1246,7 +1246,7 @@ God is beyond comparison with creation and directly accessible in prayer, knowin
 
 <div class="read-more" markdown="1">
 
-Every person can turn directly to God. Adam receives words of repentance and is forgiven (2:37). Each person bears responsibility for their own conduct (53:38–39). Those who have greatly wronged themselves are called to return to God with hope in His mercy (39:53–54). Nearness to Him depends on faith and righteous action, not ancestry or wealth (34:37). [Qur'an 2:37](https://quran.com/2:37), [53:38–39](https://quran.com/53:38-39), and [34:37](https://quran.com/34:37).
+Every person can turn directly to God. Adam receives words of repentance and is forgiven (2:37). Each person bears responsibility for their own conduct (53:38–39). Those who have greatly wronged themselves are called to return to God with hope in His mercy (39:53–54). Nearness to Him depends not on ancestry or wealth but on faith and righteous action (34:37). [Qur'an 2:37](https://quran.com/2:37), [53:38–39](https://quran.com/53:38-39), and [34:37](https://quran.com/34:37).
 
 Forgiveness is open through sincere repentance, with no inherited guilt, no privileged ethnicity, no divine incarnation, and no priesthood authorizing access to God. Prophets teach and guide; God hears prayer and grants forgiveness. Asking someone else to pray for us complements this direct relationship.
 
@@ -1436,11 +1436,11 @@ The Qur'an is remarkable in breadth of subject and universal scope: it weaves th
 
 <div class="read-more" markdown="1">
 
-The Qur'an was revealed gradually, preparing people to understand and practice its commands. Its prohibition of intoxicants developed through stages: first it identified their harm as greater than their benefit (2:219); next it prohibited prayer while intoxicated (4:43); then it commanded their avoidance, explaining their effects on relationships, remembrance, and prayer (5:90–91). [Qur'an 2:219](https://quran.com/2:219), [4:43](https://quran.com/4:43), and [5:90–91](https://quran.com/5:90-91).
+The Qur'an was revealed gradually, preparing people to understand and practice its commands. Its prohibition of intoxicants developed through stages: it first identified their harm as greater than their benefit (2:219), next prohibited prayer while intoxicated (4:43), and then commanded their avoidance, explaining their effects on relationships, remembrance, and prayer (5:90–91). [Qur'an 2:219](https://quran.com/2:219), [4:43](https://quran.com/4:43), and [5:90–91](https://quran.com/5:90-91).
 
 The sequence explains first, then changes established habits, and ends with a binding rule. Aisha likewise describes early revelation as teaching Paradise and Hell before imposing detailed prohibitions. [Sahih al-Bukhari 4993](https://sunnah.com/bukhari:4993).
 
-The Qur'an explains that gradual delivery strengthens the messenger's heart (25:32). It also addresses the replacement of instructions during revelation (2:106; 16:101); scholars discuss the extent and interpretation of this under abrogation. As particular instructions develop, its foundational theology and moral purposes remain consistent. [Qur'an 25:32](https://quran.com/25:32), [2:106](https://quran.com/2:106), and [16:101](https://quran.com/16:101).
+The Qur'an explains that gradual delivery strengthens the messenger's heart (25:32). It also addresses the replacement of instructions during revelation (2:106; 16:101), the extent and interpretation of which scholars discuss under abrogation. As particular instructions develop, its foundational theology and moral purposes remain consistent. [Qur'an 25:32](https://quran.com/25:32), [2:106](https://quran.com/2:106), and [16:101](https://quran.com/16:101).
 
 </div>
 
@@ -1688,11 +1688,9 @@ The Qur'an's own explanation accounts for that convergence directly: it is revel
 
 ## The Messenger of God ﷺ
 
-The Qur'an, with everything described above, was recited over twenty-three years in seventh-century Arabia by one man who could neither read nor write. But it cannot be separated from the man who delivered it.
+The Qur'an, with everything described above, was recited over twenty-three years in seventh-century Arabia by one man who could neither read nor write. But it cannot be separated from the man who delivered it. Its extraordinary qualities came through a man whose character, life, and message were themselves extraordinary, so the two lines of evidence reinforce one another. Taken together, they point overwhelmingly toward the same conclusion: that Prophet Muhammad ﷺ was what he claimed to be—a true prophet of God.
 
-The Qur'an's extraordinary qualities came through a man whose character, life, and message were themselves extraordinary, so the two lines of evidence reinforce one another. Taken together, they point overwhelmingly toward the same conclusion: that Prophet Muhammad ﷺ was what he claimed to be—a true prophet of God.
-
-His life presents a remarkable case of its own. The man through whom the Qur'an came was known for his integrity, endured years of persecution and sacrifice for his message, and lived according to what he preached. The teachings and example he left behind transformed Arabia and shaped the lives of generations after him. His life was also preserved in extraordinary detail and rigor through reports from his family, companions, servants, followers, and even opponents.
+His life presents a remarkable case of its own. He was known for his integrity, endured years of persecution and sacrifice for his message, and lived according to what he preached. The teachings and example he left behind transformed Arabia and shaped the lives of generations after him. His life was also preserved in extraordinary detail and rigor through reports from his family, companions, servants, followers, and even opponents.
 
 ### Was Muhammad ﷺ Truly a Prophet?
 {: #was-muhammad-truly-a-prophet }
@@ -1702,11 +1700,11 @@ Broadly speaking, Prophet Muhammad ﷺ's life can be explained in only five ways
 ### <span class="num-roman">I.</span> The Fraud Hypothesis
 {: #the-fraud-hypothesis }
 
-Fraud usually serves some gain: wealth, status, comfort, power, or admiration. Prophet Muhammad ﷺ's mission brought him years of ridicule, isolation, persecution, and danger. He continued preaching when compromise would have been easier.
+Fraud usually serves some gain: wealth, status, comfort, power, or admiration. Prophet Muhammad ﷺ does not resemble a man who invented revelation to enrich or glorify himself. His mission brought him years of ridicule, isolation, persecution, and danger, and he continued preaching when compromise would have been easier.
+
+Success did not turn him into a king. Early reports describe a simple household, periods of scarcity, and a life far removed from luxury.
 
 The Qur'an also preserves public corrections of him. It rebukes him for turning away from a blind man while speaking to Meccan leaders (Qur'an 80:1–10), and it questions his decision to permit some men to stay behind from an expedition (9:43). A religious impostor who controlled his own scripture would have little reason to preserve revelations that diminish his image before his followers.
-
-Success did not turn him into a king. Early reports describe a simple household, periods of scarcity, and a life far removed from luxury. He does not resemble a man who invented revelation to enrich or glorify himself.
 
 The evidence is collected in three places: his motives under [the competing explanations](/messenger/claim), his household under [what those closest to him saw](/messenger/character), and the Qur'an's corrections of him under [the Qur'an he delivered](/messenger/quran).
 
@@ -1715,11 +1713,11 @@ The evidence is collected in three places: his motives under [the competing expl
 
 A sincere delusion can produce conviction, but Prophet Muhammad's ﷺ case involved more than conviction.
 
-The Qur'an addressed theology, ethics, law, worship, family life, war and peace, earlier prophets, personal crises, and changing political circumstances over twenty-three years while maintaining a stable religious core: worship God alone, live morally, prepare for judgment, defend the weak, repent, forgive, give charity, and resist pride.
+Over twenty-three years the Qur'an addressed theology, ethics, law, worship, family life, war and peace, earlier prophets, personal crises, and changing political circumstances, all while maintaining a stable religious core: worship God alone, live morally, prepare for judgment, defend the weak, repent, forgive, give charity, and resist pride.
 
 Prophet Muhammad ﷺ also showed sustained practical judgment: he negotiated treaties, resolved disputes, led a community, delegated authority, altered strategy when circumstances changed, and distinguished personal opinion from revelation. The message itself repeatedly imposed difficult duties on him, corrected him, and constrained his own preferences.
 
-A supposed delusion that remained coherent across decades, accompanied effective leadership, and repeatedly disciplined the person experiencing it is possible in principle, yet fits the evidence poorly.
+A supposed delusion might in principle remain coherent across decades, accompany effective leadership, and repeatedly discipline the person experiencing it, yet such a delusion fits the evidence poorly.
 
 For the range and consistency of the teaching, and for his conduct as a leader, see [worship and the inner life](/messenger/worship), [work and public responsibility](/messenger/work-and-authority), and [his life through hardship and power](/messenger/life).
 
@@ -1735,15 +1733,15 @@ The message's actual commands are set out at length under [worship and the inner
 ### <span class="num-roman">IV.</span> A Later Fabricated Legend
 {: #a-later-fabricated-legend }
 
-The Qur'an was preserved through public recitation and writing together. It was memorized across the Muslim community, taught from teacher to student, recited in worship, and copied in written form. With these channels overlapping across geographically separated communities, a later authority had limited possibility of quietly replacing the text.
+Prophet Muhammad ﷺ's life and message are anchored in first-century scripture, manuscripts, inscriptions, outside testimony, and traceable streams of transmission, rather than first appearing as a polished legend centuries later.
+
+The Qur'an was preserved through public recitation and writing together. It was memorized across the Muslim community, taught from teacher to student, recited in worship, and copied in written form. Because these channels overlapped across geographically separated communities, a later authority had limited possibility of quietly replacing the text.
 
 The Birmingham Qur'an folios preserve parts of Surahs 18–20 in an early Hijazi script. Their parchment was radiocarbon dated to 568–645 CE with 95.4% probability, and the University of Birmingham places the manuscript in the mid-seventh century, within decades of Prophet Muhammad ﷺ's death. Manuscript specialist Marijn van Putten has also argued that the highly specific spellings shared across numerous early Qur'an manuscripts point back to a single written archetype in the first Islamic century.
 
 Modern critical historians likewise place Prophet Muhammad ﷺ and the Qur'an firmly in the seventh century. Sean W. Anthony treats the Qur'an as the earliest and strongest literary witness to the historical Prophet Muhammad ﷺ. He also draws on seventh-century inscriptions, documentary evidence, and non-Muslim writings, which independently attest an Arabian prophetic movement associated with him. Gregor Schoeler's work supports an early culture in which reports about Prophet Muhammad ﷺ circulated through both oral teaching and written notes.
 
 Hadith transmission developed its own critical machinery. Reports circulated with named chains of transmitters, often through multiple routes. Scholars compared chains and textual variants, examined whether transmitters had met, assessed their memory and honesty, compiled biographical dictionaries, and classified reports as strong, weak, or fabricated. Modern isnad-cum-matn analysis has shown that some traditions can be traced substantially earlier than the surviving canonical collections.
-
-Prophet Muhammad ﷺ's life and message are anchored in first-century scripture, manuscripts, inscriptions, outside testimony, and traceable streams of transmission, rather than first appearing as a polished legend centuries later.
 
 [Sources, transmission, and bibliography](/messenger/sources) sets out how the hadith record was preserved and tested; [Muhammad ﷺ and the Qur'an he delivered](/messenger/quran) covers the Qur'an's own preservation.
 
