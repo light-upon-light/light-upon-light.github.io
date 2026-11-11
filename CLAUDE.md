@@ -45,7 +45,7 @@ check there is.
 
 | Before you… | Read |
 | --- | --- |
-| write any prose for a page | `_notes/guides/writing_style_guide.md` |
+| write or rewrite any prose for a page | the `prose-style` skill (`.claude/skills/prose-style/SKILL.md`) |
 | make an argument or handle a source | `_notes/guides/methodolody_guide.md` |
 | quote a verse or cite a hadith | `_notes/guides/citations_guide.md` |
 | add footnotes, references, an evidence blockquote, or a collapsible `<details>` box | `_notes/guides/formatting_guide.md` |
