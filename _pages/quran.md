@@ -111,7 +111,7 @@ This page examines these features and many others in more detail, and supplement
 <details class="tldr" markdown="1">
 <summary><span class="tldr__label">Summary of Page</span></summary>
 
-The Qur'an and the life of Prophet Muhammad ﷺ together form a cumulative case for his prophethood.
+The Qur'an and the life of Prophet Muhammad ﷺ together form a cumulative case for his prophethood. The examples given here are a few among many, and the page sets out the rest in full.
 
 **The Qur'an**
 
@@ -127,7 +127,7 @@ It preserves historical details inaccessible at the time. It calls Egypt's ruler
 
 It also describes the natural world with remarkable precision, including observations whose significance became clearer only with later scientific knowledge. It gives a striking stage-by-stage description of how a human embryo develops: first a drop, then something that clings, then a lump, then bones, and finally flesh clothing those bones (23:12–14). It also describes God as having built the heaven and as continually widening it (51:47), long before the expansion of the universe could be observed.
 
-A further level of order appears in its wording. The nouns *malak* (angel) and *shayṭān* (Satan or devil), which the Qur'an sets in opposition throughout, each occur 88 times under the same counting rule. No single count is offered as proof on its own.
+It also contains striking numerical patterns, despite having been recited piecemeal and outside its final order. The nouns *malak* (angel) and *shayṭān* (Satan or devil), which the Qur'an sets in opposition throughout, each occur 88 times under the same counting rule.
 
 It foretold its own preservation and ease of memorization. The Birmingham folios, containing parts of chapters 18–20, were radiocarbon dated to 568–645 CE with 95.4% probability. Today millions have memorized the entire text of more than 600 pages, most of whom do not speak Arabic as their first language.
 
