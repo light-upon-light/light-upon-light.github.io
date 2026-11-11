@@ -38,7 +38,7 @@ glossary:
   - under-these-conditions
 ---
 
-> This page presents evidence for the **miraculous nature** of the **Qur'an** and the **prophethood** of **Prophet Muhammad** ﷺ. Not every point is a miracle or proof on its own, yet taken together they form a cumulative case for the Qur'an's divine origin and the authenticity of the Prophet's mission. — *Note: this page is a work in progress.*
+> This page presents evidence for the divine origin of the Qur'an and the prophethood of Prophet Muhammad ﷺ.The argument on this page is cumulative; no individual point is presented as a standalone proof. Considered together, however, they form a case for the Qur'an's miraculous nature and the authenticity of the Prophet's mission. — *note: this page is a work in progress.*
 
 ## Why Read This?
 {: #why-read-this }
@@ -149,6 +149,7 @@ Any human-authorship explanation must account for all of these features together
 
 ## The Book
 
+This section of the page argues that the Qur'an could not have been authored by anyone but God, given all of its miraculous qualities that will be presented below.
 <!-- The Qur'an presents a remarkable convergence of signs pointing to its divine origin. Its mode of revelation, a literary character that its first and most capable audience could not answer, and intricate composition stand alongside the historical and natural knowledge preserved in its text, the numerical patterns running through it, its fulfilled predictions, extraordinary preservation, depth of guidance, and its relationship with the Messenger ﷺ. Taken together, they form a powerful and comprehensive case that the Qur'an is what it declares itself to be: revelation from God. -->
 
 ### <span class="num-roman">I.</span> How the Qur'an Emerged
