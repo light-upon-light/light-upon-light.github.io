@@ -2,7 +2,7 @@
 title: "The Qur'an and the Messenger ﷺ: Evidence for Prophethood"
 description: "The Qur'an and the life of Prophet Muhammad, considered together as evidence for his prophethood."
 date: 2025-08-16
-last_modified_at: 2026-09-20
+last_modified_at: 2026-11-11
 
 # Standard short-form label for this page, used wherever the full title (with
 # its "Evidence for Prophethood" subtitle) would be too long -- currently the
@@ -62,7 +62,7 @@ Its eloquence and architecture
 {: .group-label }
 
 - Prophet Muhammad ﷺ had no previous career or training as a poet, writer, or literary figure.
-- Yet from the outset, he recited a text that admirers and opponents alike regarded as by far the summit of Arabic eloquence.
+- Yet from the outset, he recited a text that admirers and opponents alike regarded as the summit of Arabic eloquence, by a far margin.
 - It challenged its enemies, the Arabs of its time—at the height of their mastery of Arabic—to produce anything comparable, and the challenge went unanswered.
 - It contains an intricate literary architecture that runs throughout its composition, despite being revealed under these conditions.
 - It contains striking numerical patterns, despite being revealed under these conditions.
