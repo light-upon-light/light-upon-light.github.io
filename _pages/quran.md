@@ -148,19 +148,19 @@ The case is therefore cumulative: the Qur'an's extraordinary qualities, the Prop
 ### <span class="num-roman">I.</span> How the Qur'an Emerged
 {: #mode-of-revelation }
 
-1. The Qur'an was delivered entirely through oral recitation by Prophet Muhammad ﷺ, a man from seventh-century Mecca who could neither read nor write.
-    > The Qur'an stated this openly before people who had known the Prophet ﷺ throughout his life. Had he been known as a reader, writer, or student of earlier scriptures, his opponents had every reason to expose the claim immediately and discredit him as a liar. The verse is quoted below.
+1. The Qur'an was delivered entirely by oral recitation through Prophet Muhammad ﷺ, a man from seventh-century Mecca who could neither read nor write.
+    > The Qur'an stated this openly before people who had known the Prophet ﷺ throughout his life. Had he been known as a reader, a writer, or a student of earlier scriptures, his opponents had every reason to expose the claim immediately and discredit him as a liar. The verse is quoted below.
     {: .gloss }
     > “You ˹O Prophet˺ could not read any writing ˹even˺ before this ˹revelation˺, nor could you write at all. Otherwise, the people of falsehood would have been suspicious.” (**Sūrat al-ʿAnkabūt 29:48**), Dr. Mustafa Khattab, *The Clear Quran*
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَمَا كُنتَ تَتْلُوا۟ مِن قَبْلِهِۦ مِن كِتَـٰبٍ وَلَا تَخُطُّهُۥ بِيَمِينِكَ ۖ إِذًا لَّٱرْتَابَ ٱلْمُبْطِلُونَ ۝٤٨﴾ <span class="ayah-ref">سُورَةُ العَنكَبُوتِ</span></div>
     {: .quote }
 
-1. Its revelation unfolded over twenty-three years in separate portions, often in response to unforeseen questions and circumstances: persecution, migration, war, treaties, family disputes, legal questions, theological challenges, internal failures, victories, and defeats. The material was therefore not delivered from beginning to end as a prewritten book.
+1. The Qur'an was not delivered from beginning to end as a prewritten book. It was revealed in separate portions over twenty-three years, often in response to unforeseen questions and circumstances: persecution, migration, war, treaties, family disputes, legal questions, theological challenges, internal failures, victories, and defeats.
 
-1. The final order of Qur'anic verses is not simply the chronological order of revelation. The Prophet ﷺ directed where newly revealed verses and passages belonged within chapters, so material revealed years apart came to form coherent literary and thematic units in the Qur'an as recited today.
+1. The Qur'an's final verse order is not simply the chronological order of revelation. Prophet Muhammad ﷺ directed where newly revealed passages belonged within chapters, and remarkably, material revealed years apart came to form coherent literary and thematic units in the Qur'an as recited today.
 
-1. The Qur'an did not emerge as a private manuscript that could be repeatedly revised in secret. Revelations were recited publicly, memorized by followers, used in prayer, and written down; the final text therefore emerged under communal observation rather than through an ordinary process of solitary drafting and revision.
+1. The Qur'an emerged under communal observation, not through an ordinary process of solitary drafting and revision. Its revelations were recited publicly, memorized by followers, used in prayer, and written down; it was never a private manuscript that could be repeatedly revised in secret.
     > This is crucial context for everything that follows. Qualities of the Qur'an that may seem impressive on their own become dramatically more so when considered alongside the way it emerged: piecemeal and out of its final order, across 23 years of unpredictable circumstances, without revision or retraction, through public oral recitation from a man who could not read or write.
     {: .gloss }
 
@@ -209,48 +209,48 @@ The Qur'an's literary miracle extends far beyond beauty of expression. Its inimi
 
     </details>
 
-1. Prophet Muhammad ﷺ was not known before revelation as a poet, writer, or literary figure. He had produced no poetry, books, or other literary works and had no known training or apprenticeship in composition. Yet when revelation began, he began reciting the Qur'an publicly—a work that would be recognized as the summit of Arabic eloquence by followers and opponents alike.
-   > Al-Walīd ibn al-Mughīrah, a leading opponent of the Prophet ﷺ and a man highly regarded for his knowledge of Arabic poetry, reportedly said after hearing the Qur'an: **“By God, the speech which he utters is sweet and graceful ... it has the upper hand and nothing has the upper hand over it.”** He nevertheless refused to accept the Prophet's message and later called the Qur'an magic.
+1. Prophet Muhammad ﷺ was not known before revelation as a poet, writer, or literary figure. He had produced no poetry, books, or other literary works, and had no known training or apprenticeship in composition. Yet when revelation began, he began reciting the Qur'an publicly—a work that followers and opponents alike would come to recognize as the summit of Arabic eloquence.
+   > Al-Walīd ibn al-Mughīrah, a leading opponent of the Prophet ﷺ who was highly regarded for his knowledge of Arabic poetry, reportedly said after hearing the Qur'an: **“By God, the speech which he utters is sweet and graceful ... it has the upper hand and nothing has the upper hand over it.”** He nevertheless refused to accept the Prophet's message and later called the Qur'an magic.
    {: .gloss }
    >
    > Reported from Qatādah in [Ibn Kathīr's commentary on 74:11–25](https://quran.com/74:11/tafsirs/en-tafisr-ibn-kathir).
    {: .src }
 
-1. The Qur'an belongs to neither ordinary prose nor metrical poetry, but sustains a distinctive Qur'anic mode of expression—previously unknown to Arabic—in which rhythm, rhyme, cadence, syntax, and shifts of register are fused with precision of meaning.
+1. The Qur'an is neither ordinary prose nor metrical poetry, but sustains its own mode of expression—previously unknown to Arabic—in which rhythm, rhyme, cadence, syntax, and shifts of register are fused with precision of meaning.
 
-1. The Qur'an maintains a remarkably recognizable literary voice and quality across 23 years of revelation, despite enormous changes in circumstance, subject matter, audience, and political situation; unlike human authors, whose style normally changes over the course of their careers.
+1. The Qur'an maintains a remarkably recognizable literary voice and quality across 23 years of revelation, despite enormous changes in circumstance, subject matter, audience, and political situation—unlike human authors, whose style normally changes over the course of their careers.
 
 1. Major theorists of Qur'anic inimitability focused on *naẓm* [syntactic-semantic arrangement]: the precise relationships created by syntax, word order, omission, emphasis, definiteness and indefiniteness, conjunctions, grammatical person, expectation, context, rhythm, sound and meaning.
-    > This gives the literary argument a more precise standard than simply saying that the Qur'an "sounds beautiful." In the mature Arabic rhetorical tradition associated especially with ʿAbd al-Qāhir al-Jurjānī, eloquence is produced by the way meanings are arranged through syntax and context. Modern historian of Arabic poetics Lara Harb likewise notes that medieval authors primarily located Qur'anic inimitability in sentence construction and the additional meanings conveyed through such features as omission, unusual word order, grammatical shifts, and definiteness.
+    > *Naẓm* gives the literary argument a more precise standard than simply saying that the Qur'an "sounds beautiful." In the mature Arabic rhetorical tradition, associated especially with ʿAbd al-Qāhir al-Jurjānī, eloquence comes from the way meanings are arranged through syntax and context. Lara Harb, a modern historian of Arabic poetics, likewise notes that medieval authors primarily located Qur'anic inimitability in sentence construction and in the additional meanings conveyed by such features as omission, unusual word order, grammatical shifts, and definiteness.
     {: .gloss }
-    > On this account, eloquence is not produced by collecting unusually ornate words. A common word can become extraordinary because of where it is placed, what is omitted around it, how the sentence is ordered, what the listener expects next, and how sound and meaning reinforce one another. This is one reason translation can communicate the basic meaning while losing much of the literary argument.
+    > On this account, eloquence does not come from collecting unusually ornate words. A common word can become extraordinary because of where it is placed, what is omitted around it, how the sentence is ordered, what the listener expects next, and how sound and meaning reinforce one another. This is one reason translation can communicate the basic meaning while losing much of the literary argument.
     {: .gloss }
     > Lara Harb, [*Arabic Poetics: Aesthetic Experience in Classical Arabic Literature*, ch. 5, "Naẓm, Wonder, and the Inimitability of the Quran"](https://www.cambridge.org/core/books/abs/arabic-poetics/nazm-wonder-and-the-inimitability-of-the-quran/B980231F9936B751EF11029D69CF4554).
     {: .src }
 
-1. The Qur'an repeatedly uses highly compressed rhetorical devices in which form contributes directly to meaning: deliberate omission, changes in expected word order, movement between first-, second-, and third-person address, parallelism, contrast, recurring formulas, and abrupt changes in sentence length or cadence. These grammatical shifts perform recognized rhetorical functions in Arabic, changing perspective, emphasis, immediacy, and emotional force.
-    > One famous category is *iltifāt* [a rhetorical shift in grammatical person or mode of address]. M. A. S. Abdel Haleem has shown how these shifts function systematically for rhetorical purposes rather than simply being grammatical accidents.
+1. The Qur'an repeatedly makes form carry meaning through highly compressed rhetorical devices: deliberate omission, changes in expected word order, movement between first-, second-, and third-person address, parallelism, contrast, recurring formulas, and abrupt changes in sentence length or cadence. In Arabic these grammatical shifts perform recognized rhetorical functions: they change perspective, emphasis, immediacy, and emotional force.
+    > One famous category is *iltifāt* [a rhetorical shift in grammatical person or mode of address]. M. A. S. Abdel Haleem has shown that these shifts function systematically for rhetorical purposes and are not simply grammatical accidents.
     {: .gloss }
-    > A simple example appears in the opening chapter: it begins by speaking *about* God—“Lord of all worlds ... Master of the Day of Judgment”—and then turns to speaking *to* God: “You alone we worship and You alone we ask for help.” The shift enacts a movement from knowledge and praise into direct worship and prayer.
+    > A simple example appears in the opening chapter. It begins by speaking *about* God—“Lord of all worlds ... Master of the Day of Judgment”—and then turns to speaking *to* God: “You alone we worship and You alone we ask for help.” The shift enacts a movement from knowledge and praise into direct worship and prayer.
     {: .gloss }
     > M. A. S. Abdel Haleem, ["Grammatical Shift for Rhetorical Purposes: Iltifāt and Related Features in the Qur'an"](https://doi.org/10.1017/S0041977X00003621), *Bulletin of the School of Oriental and African Studies* 55.3 (1992), 407–432.
     {: .src }
 
-1. The classical doctrine of inimitability became one of the major engines behind the development of Arabic rhetoric and literary theory. Scholars such as al-Khaṭṭābī, al-Rummānī, al-Bāqillānī, and ʿAbd al-Qāhir al-Jurjānī did not merely repeat that the Qur'an was eloquent; they attempted to analyze what its language was doing and why imitation was difficult.
+1. The classical doctrine of inimitability became one of the major engines behind the development of Arabic rhetoric and literary theory. Scholars such as al-Khaṭṭābī, al-Rummānī, al-Bāqillānī, and ʿAbd al-Qāhir al-Jurjānī went beyond repeating that the Qur'an was eloquent: they attempted to analyze what its language was doing and why imitation was difficult.
     > Modern studies of classical Arabic poetics likewise show how deeply Qur'anic inimitability shaped the development of Arabic rhetorical theory; see *The Oxford Handbook of Qur'anic Studies* and Lara Harb's *Arabic Poetics*.
     {: .src }
 
-1. The Qur'an became one of the foundational authorities used by early grammarians and philologists when describing Arabic. Its language helped establish the very grammatical and rhetorical tradition by which classical Arabic came to be analyzed and taught.
+1. The Qur'an became one of the foundational authorities on which early grammarians and philologists drew when describing Arabic. Its language helped establish the grammatical and rhetorical tradition through which classical Arabic came to be analyzed and taught.
 
-1. **Repetition with variation:** the Qur'an retells events—especially episodes involving Moses—many times. Repeated stories are not simply copied verbatim: details, dialogue, vocabulary, and emphasis are reshaped to serve the argument of the chapter in which each retelling appears.
-    > One retelling may expand a confrontation, another suppress it; one emphasizes fear, another prophetic reassurance; one places a speech before a sign, another highlights the sign itself. The same narrative material is repeatedly reshaped to serve the argument of the chapter in which it appears.
+1. **Repetition with variation:** The Qur'an retells events many times, especially episodes involving Moses, but does not simply copy them verbatim. Each retelling reshapes details, dialogue, vocabulary, and emphasis to serve the argument of the chapter in which it appears.
+    > One retelling may expand a confrontation, another suppress it; one emphasizes fear, another prophetic reassurance; one places a speech before a sign, another highlights the sign itself.
     {: .gloss }
     > Leyla Ozgur Alhassen's *How the Qur'ān Works: Reading Sacred Narrative* studies Qur'anic repetition through motifs, themes, action sequences, parallels, reversals, and deliberate suppression of repeated material.
     {: .src }
 
-1. **Compositional architecture:** The Qur’an repeatedly displays intricate large-scale organization across individual passages, entire chapters, and even groups of chapters. Themes, key words, images, and arguments are introduced, developed, echoed, contrasted, and later returned to in deliberate ways. Many chapters use patterns of framing, parallel sections, thematic symmetry, recurring key terms, verbal echoes, and carefully placed transitions to connect distant parts of the text. These patterns give the composition a strong internal unity that often becomes fully apparent only when the whole composition is examined.
+1. **Compositional architecture:** The Qur’an repeatedly displays intricate large-scale organization within individual passages, across entire chapters, and even across groups of chapters. Its themes, key words, images, and arguments are introduced, developed, echoed, contrasted, and later returned to in deliberate ways. Many chapters connect distant parts of the text through framing, parallel sections, thematic symmetry, recurring key terms, verbal echoes, and carefully placed transitions. The result is a strong internal unity that often becomes fully apparent only when the whole composition is examined.
 
-1. **Ring composition** is one striking example: many verses and chapters display tightly balanced chiastic structures in which the beginning and end correspond and the central passage carries special emphasis.
+1. **Ring composition** is one striking example: many verses and chapters display tightly balanced chiastic structures, in which the beginning and end correspond and the central passage carries special emphasis.
     > This is especially remarkable given that the Qur’an was revealed orally in separate portions over many years, often outside its final order and in response to changing circumstances, rather than composed from beginning to end as a manuscript that could be repeatedly reorganized and revised.
     {: .gloss }
     > Michel Cuypers, [*The Composition of the Qur'an: Rhetorical Analysis*](https://www.bloomsbury.com/uk/composition-of-the-quran-9781474227483/), presents a systematic case for symmetry and other compositional structures across Qur'anic passages.
@@ -263,28 +263,28 @@ The Qur'an's literary miracle extends far beyond beauty of expression. Its inimi
 
     {% include yt-embed.html url="https://youtu.be/eLaWEciecTc" title="Miracle of Surah Yusuf | Linguistic Miracle - Nouman Ali Khan" %}
 
-1. **Sound, syntax, and meaning:** Qur'anic cadence is not merely decorative. Verse endings, sentence length, pauses, repeated sounds, rhythm, rhyme, and shifts in pace frequently reinforce the movement of meaning.
-    > The text can accelerate through warning, slow into solemn reflection, move from vast cosmic imagery into intimate address, or let a repeated sound bind a sequence of short verses together. The relevant phenomenon is not just that recitation sounds beautiful, but that acoustic and semantic constraints are repeatedly satisfied together.
+1. **Sound, syntax, and meaning:** The Qur'an's cadence is not merely decorative: its verse endings, sentence length, pauses, repeated sounds, rhythm, rhyme, and shifts in pace frequently reinforce the movement of meaning.
+    > The text can accelerate through warning, slow into solemn reflection, move from vast cosmic imagery into intimate address, or let a repeated sound bind a sequence of short verses together. The relevant phenomenon is not merely that the recitation sounds beautiful, but that acoustic and semantic constraints are repeatedly satisfied together.
     {: .gloss }
 
-1. **Rapid movement between discourse modes:** within a short stretch the Qur'an may move among narration, quoted speech, direct divine address, prayer, law, warning, rhetorical question, and eschatological imagery while remaining intelligible as one discourse.
-    > That flexibility helps explain why the Qur'an is difficult to classify as ordinary narrative prose or conventional metrical poetry.
+1. **Rapid movement between discourse modes:** the Qur'an may move, within a short stretch, among narration, quoted speech, direct divine address, prayer, law, warning, rhetorical question, and eschatological imagery, yet remain intelligible as one discourse.
+    > This flexibility helps explain why the Qur'an is difficult to classify as ordinary narrative prose or conventional metrical poetry.
     {: .gloss }
 
-1. Its verses are unusually dense with meaning. A short passage can support linguistic, legal, theological, moral, spiritual, rhetorical and intertextual analysis simultaneously.
-    > This density is one reason generations of scholars have continued to discover new connections and insights from the same verses.
+1. Its verses are unusually dense with meaning: a single short passage can support linguistic, legal, theological, moral, spiritual, rhetorical and intertextual analysis simultaneously.
+    > This density is one reason generations of scholars have continued to find new connections and insights in the same verses.
     {: .gloss }
 
-1. Its arrangement is non-linear rather than chronological, yet individual chapters often have strong local coherence while themes, phrases, and narratives echo across distant parts of the book.
+1. Its arrangement is non-linear rather than chronological. Yet individual chapters often have strong local coherence, and themes, phrases, and narratives echo across distant parts of the book.
 
-1. **An exceptionally high bar for interpretation:** the Qur'an's meaning can turn on grammar, morphology, vocabulary, syntax, word order, omission, rhetoric, context, canonical readings, the circumstances of revelation, prophetic explanation, and the relationship of one passage to others. Serious Qur’anic interpretation therefore developed into a highly specialized discipline requiring mastery of numerous fields rather than simply reading a translation and offering an impression.
-   > Classical scholars formalized this demanding standard. Al-Suyūṭī, for example, listed fifteen branches of knowledge required for a properly qualified Qur’anic exegete, including multiple sciences of Arabic, principles of interpretation, canonical readings, circumstances of revelation, and prophetic tradition. The point is not that the Qur’an’s basic message is inaccessible, but that its language is so concentrated and multilayered that extracting its full implications can require expertise across several disciplines at once. A few words can carry grammatical, rhetorical, contextual, legal, and theological consequences simultaneously.
+1. **An exceptionally high bar for interpretation:** the Qur'an's meaning can turn on grammar, morphology, vocabulary, syntax, word order, omission, rhetoric, context, canonical readings, the circumstances of revelation, prophetic explanation, and the relationship of one passage to others. Serious Qur’anic interpretation therefore developed into a highly specialized discipline that requires mastery of numerous fields, not simply reading a translation and offering an impression.
+   > The Qur’an’s language is so concentrated and multilayered that extracting its full implications can require expertise across several disciplines at once. A few words can carry grammatical, rhetorical, contextual, legal, and theological consequences simultaneously. This does not make its basic message inaccessible. Classical scholars formalized the demanding standard. Al-Suyūṭī, for example, listed fifteen branches of knowledge required for a properly qualified Qur’anic exegete, including multiple sciences of Arabic, principles of interpretation, canonical readings, circumstances of revelation, and prophetic tradition.
    {: .gloss }
 
-1. **Simplicity and depth:** the call to worship one God alone, repent, act rightly, and prepare for judgment is easy to understand. The same words support detailed grammatical, legal, theological, and rhetorical study.
+1. **Simplicity and depth:** the Qur'an's call to worship one God alone, repent, act rightly, and prepare for judgment is easily understood; the same words support detailed grammatical, legal, theological, and rhetorical study.
 
-1. It challenged the Arabs to match it at a time when their command of Arabic was at its height. They had both the skill to answer the challenge and every motive to do so.
-    > The Qur'an was revealed in an era when poetry was not merely entertainment: it was the lifeblood of the Arab culture, the measure of honor, and even a weapon in war; tribes could settle disputes or ignite battles through verse. In that setting—where pride in language was unrivaled and mastery of Arabic expression was their greatest art—the Qur'an openly challenged them to produce anything like it. Despite their unmatched command of Arabic and every worldly motive to discredit the Prophet ﷺ, they were unable to answer the challenge. Their failure itself became a perpetual testimony to the Qur'an's inimitability.
+1. The Qur'an challenged the Arabs to match it when their command of Arabic was at its height, and they had both the skill and every motive to answer.
+    > The Qur'an was revealed in an era when poetry was more than entertainment: it was the lifeblood of Arab culture, the measure of honor, and even a weapon in war; tribes could settle disputes or ignite battles through verse. Pride in language was unrivaled, and mastery of Arabic expression was the Arabs' greatest art. In that setting the Qur'an openly challenged them to produce anything like it. They had an unmatched command of Arabic and every worldly motive to discredit the Prophet ﷺ, yet they were unable to answer the challenge. Their failure became a perpetual testimony to the Qur'an's inimitability.
     {: .gloss }
     > Ibn Rashiq, *al-Umda*: when a poet emerged from a tribe, neighboring tribes came to congratulate it, celebrating with feasting and singing as they would at a wedding.
     >
@@ -295,22 +295,22 @@ The Qur'an's literary miracle extends far beyond beauty of expression. Its inimi
     > *Sahih al-Bukhari* 3213 and *Sahih Muslim* 2490: the Prophet ﷺ appointed Hassan ibn Thabit to answer the Quraysh in verse — "Lampoon them, and Gabriel is with you" — because satire "is more grievous to them than the hurt of an arrow".
     {: .src }
 
-1. Attempts to imitate or answer the Qur'anic challenge have appeared from the earliest period onward, yet no rival has achieved anything approaching the Qur'an's standing within Arabic literary history.
+1. The Qur'an has no rival that has come near its standing in Arabic literary history, though attempts to imitate it or answer its challenge have appeared from the earliest period onward.
 
-1. The Qur'an's opponents had every motive to defeat the challenge publicly. Instead, the early record preserves accusations that it was magic, poetry, madness, or human instruction—attempts to explain away a text they could not answer with an equal of their own.
+1. The Qur'an could not be answered with an equal by its opponents, who had every motive to defeat its challenge publicly. The early record preserves instead their accusations that it was magic, poetry, madness, or human instruction—attempts to explain the text away.
 
-1. The Prophet's ﷺ personal life, grief, and grievances leave no mark on the message. The Qur'an maintains an objective, divine voice, even when addressing his own household.
+1. The Qur'an maintains an objective, divine voice, even when addressing the Prophet's ﷺ own household. His personal life, grief, and grievances leave no mark on the message.
 
-1. The Qur'anic voice is recognizably distinct from the Prophet's ﷺ ordinary speech preserved in hadith. Its vocabulary, cadence, sentence construction, rhetorical movement, and overall discourse form a separate literary voice, a contrast long recognized within the Arabic tradition and supported by modern linguistic analysis.
+1. The Qur'an speaks in a voice recognizably distinct from the Prophet's ﷺ ordinary speech preserved in hadith. Its vocabulary, cadence, sentence construction, rhetorical movement, and overall discourse form a separate literary voice, a contrast long recognized within the Arabic tradition and supported by modern linguistic analysis.
     > Fabricating two distinct voices for twenty-three years would be extremely difficult. An unlettered man would have had to maintain one style for his ordinary speech and another for revelation, without publicly confusing the two, while also achieving everything else described on this page.
     {: .gloss }
-    > Computational stylometry has found strong statistical differences between Qur'anic language and the Prophet's ﷺ reported speech, reinforcing what Arabic readers have long recognized: the voice and linguistic profile of the Qur'an are distinct from his ordinary manner of speaking.
+    > Computational stylometry has found strong statistical differences between Qur'anic language and the Prophet's ﷺ reported speech. This reinforces what Arabic readers have long recognized: the voice and linguistic profile of the Qur'an are distinct from his ordinary manner of speaking.
     {: .gloss }
     > Halim Sayoud, [“Author discrimination between the Holy Quran and Prophet's statements”](https://doi.org/10.1093/llc/fqs014), *Literary and Linguistic Computing* 27.4 (2012), 427–444.
     {: .src }
     {% include yt-embed.html url="https://youtu.be/_HlpfgaDATU" title="Conquering Doubts & Confidently Defending Islam | Ali Ataie" note="The whole of this video is great" %}
 
-1. Its recitation has an unusually powerful flow and sound. Rhythm, cadence, rhyme, pauses, emphasis, and changes in sentence length reinforce the meaning without sacrificing precision; the Qur'an can move from warning to tenderness, narrative to law, or vast cosmic imagery to intimate address while remaining cohesive and compelling. Even without understanding the words, people who do not know Arabic often weep while listening to it or describe being overcome by a profound sense of peace and tranquility.
+1. The Qur'an's recitation has an unusually powerful flow and sound. Rhythm, cadence, rhyme, pauses, emphasis, and changes in sentence length reinforce the meaning without sacrificing precision. The Qur'an can move from warning to tenderness, narrative to law, or vast cosmic imagery to intimate address while remaining cohesive and compelling. Even without understanding the words, people who do not know Arabic often weep while listening to it or describe being overcome by a profound sense of peace and tranquility.
     > "The inimitability of the Qur'an has yet another dimension, one which people tend to overlook, and is unrecognized except by a sparse few—namely what it generates in the hearts and impresses onto the souls. Aside from the Qur'an, you do not hear of any discourse, neither poetry nor prose, that upon reaching one's ears provides such immediate pleasure and sweetness, and at other times such awe and intimidation, like the Qur'an does." — Al-Khaṭṭābī, *Bayān iʿjāz al-Qurʾān*, in Muḥammad Khalaf Allāh Aḥmad and Muḥammad Zaghlūl Sallām (eds.), Issa J. Boullata (trans.), *Three Treatises on the I'jāz of the Qur'ān* (Reading, UK: Garnet Publishing, 2014).
     {: .src }
     {% include yt-embed.html url="https://youtu.be/3bJ2FM_IB9Q" title="Qur'an Recitation of chapters: Maryam (Mary), Joseph, Luqman and Muhammad" %}
@@ -325,7 +325,7 @@ The Qur'an's literary miracle extends far beyond beauty of expression. Its inimi
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿ٱللَّهُ نَزَّلَ أَحْسَنَ ٱلْحَدِيثِ كِتَـٰبًا مُّتَشَـٰبِهًا مَّثَانِىَ تَقْشَعِرُّ مِنْهُ جُلُودُ ٱلَّذِينَ يَخْشَوْنَ رَبَّهُمْ ثُمَّ تَلِينُ جُلُودُهُمْ وَقُلُوبُهُمْ إِلَىٰ ذِكْرِ ٱللَّهِ ۚ ذَٰلِكَ هُدَى ٱللَّهِ يَهْدِى بِهِۦ مَن يَشَآءُ ۚ وَمَن يُضْلِلِ ٱللَّهُ فَمَا لَهُۥ مِنْ هَادٍ ۝٢٣﴾ <span class="ayah-ref">سُورَةُ الزُّمَرِ</span></div>
     {: .quote }
 
-1. The literary dimension of the Qur'an is a field of study large enough to stand on its own. The points above are only a brief introduction. Qur'anic syntax, word order, omission, rhetorical shifts, sound, cadence, narrative technique, repetition, imagery, chapter structure, semantic density, and large-scale composition have each generated substantial bodies of scholarship, while the classical literature on Qur'anic inimitability and Arabic rhetoric spans centuries. Below are some further readings on the topic
+1. The Qur'an's literary dimension is a field of study large enough to stand on its own, and the points above are only a brief introduction to it. Its syntax, word order, omission, rhetorical shifts, sound, cadence, narrative technique, repetition, imagery, chapter structure, semantic density, and large-scale composition have each generated substantial bodies of scholarship, and the classical literature on Qur'anic inimitability and Arabic rhetoric spans centuries. Some further readings on the topic are listed below.
 
 <details class="quran-more" markdown="1">
 <summary>Show further reading links</summary>
@@ -395,7 +395,7 @@ The Qur'an's literary miracle extends far beyond beauty of expression. Its inimi
 ### <span class="num-roman">III.</span> Challenges & Bold Claims
 {: #challenges-and-bold-claims }
 
-1. The Qur'an claims to be the verbatim word of God—not a report about Him, and not a human account inspired by Him. No other book with comparable reach makes the same claim about itself.
+1. The Qur'an claims to be the verbatim word of God: not a report about Him, and not a human account inspired by Him. No other book of comparable reach makes this claim about itself.
 
 1. Near the beginning of the book it presents itself without hesitation:
     > "This is the Book! There is no doubt about it—a guide for those mindful ˹of Allah˺" (**Sūrat al-Baqarah 2:2**), Dr. Mustafa Khattab, *The Clear Quran*
@@ -403,7 +403,7 @@ The Qur'an's literary miracle extends far beyond beauty of expression. Its inimi
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿ذَٰلِكَ ٱلْكِتَـٰبُ لَا رَيْبَ ۛ فِيهِ ۛ هُدًى لِّلْمُتَّقِينَ ۝٢﴾ <span class="ayah-ref">سُورَةُ البَقَرَةِ</span></div>
     {: .quote }
 
-1. The Qur'an openly challenges its opponents and all of humanity to produce something comparable to it. The challenge is then narrowed to ten chapters, and finally to one chapter, with any help they can find.
+1. The Qur'an openly challenges its opponents and all of humanity to produce something comparable to it. It then narrows the challenge to ten chapters, and finally to a single chapter, with any help they can find.
     > “Say, ˹O Prophet,˺ ‘If ˹all˺ humans and jinn were to come together to produce the equivalent of this Qur'an, they could not produce its equal, no matter how they supported each other.'” (**Sūrat al-Isrāʾ 17:88**), Dr. Mustafa Khattab, *The Clear Quran*
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿قُل لَّئِنِ ٱجْتَمَعَتِ ٱلْإِنسُ وَٱلْجِنُّ عَلَىٰٓ أَن يَأْتُوا۟ بِمِثْلِ هَـٰذَا ٱلْقُرْءَانِ لَا يَأْتُونَ بِمِثْلِهِۦ وَلَوْ كَانَ بَعْضُهُمْ لِبَعْضٍ ظَهِيرًا ۝٨٨﴾ <span class="ayah-ref">سُورَةُ الإِسۡرَاءِ</span></div>
@@ -420,7 +420,7 @@ The Qur'an's literary miracle extends far beyond beauty of expression. Its inimi
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَإِن كُنتُمْ فِى رَيْبٍ مِّمَّا نَزَّلْنَا عَلَىٰ عَبْدِنَا فَأْتُوا۟ بِسُورَةٍ مِّن مِّثْلِهِۦ وَٱدْعُوا۟ شُهَدَآءَكُم مِّن دُونِ ٱللَّهِ إِن كُنتُمْ صَـٰدِقِينَ ۝٢٣ فَإِن لَّمْ تَفْعَلُوا۟ وَلَن تَفْعَلُوا۟ فَٱتَّقُوا۟ ٱلنَّارَ ٱلَّتِى وَقُودُهَا ٱلنَّاسُ وَٱلْحِجَارَةُ ۖ أُعِدَّتْ لِلْكَـٰفِرِينَ ۝٢٤﴾ <span class="ayah-ref">سُورَةُ البَقَرَةِ</span></div>
     {: .quote }
     </details>
-    > "Like it" here is not an arbitrary standard. The challenge concerns the totality of its language, structure, semantic density, rhetorical force, guidance, and sustained effect on the hearts of people together. Attempts were made, most famously those attributed to Musaylima, but classical Arabic sources treated them as parody, and later critics have not presented them as serious equals. The first audience was both the most qualified to judge the challenge and strongly motivated to reject the Qur'an.
+    > The Qur'an's standard of "like it" is not arbitrary: the challenge concerns its language, structure, semantic density, rhetorical force, guidance, and sustained effect on the hearts of people, all taken together. Its first audience was both the most qualified to judge the challenge and strongly motivated to reject the Qur'an. Attempts were made, most famously those attributed to Musaylima, but classical Arabic sources treated them as parody, and later critics have not presented them as serious equals.
     {: .gloss }
 
 #### The Qur'an's Account of Itself
@@ -453,13 +453,13 @@ Anne-Sylvie Boisliveau studies how the Qur'an describes itself and argues for it
 ### <span class="num-roman">IV.</span> Appeal to Reason & Invitation of Scrutiny
 {: #reason-and-scrutiny }
 
-1. The Qur'an grounds its own authenticity in being coherent and invites the reader to examine it closely.
+1. The Qur'an rests its claim to authenticity on its own coherence and invites the reader to examine it closely.
     > "Then do they not reflect upon the Qur’ān? If it had been from [any] other than Allāh, they would have found within it much contradiction." (**Sūrat al-Nisāʾ 4:82**), Saheeh International
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿أَفَلَا يَتَدَبَّرُونَ ٱلْقُرْءَانَ ۚ وَلَوْ كَانَ مِنْ عِندِ غَيْرِ ٱللَّهِ لَوَجَدُوا۟ فِيهِ ٱخْتِلَـٰفًا كَثِيرًا ۝٨٢﴾ <span class="ayah-ref">سُورَةُ النِّسَاءِ</span></div>
     {: .quote }
 
-1. The Qur'an repeatedly argues rather than merely asserting. It appeals to reason and asks the reader to reflect and consider implications. It also appeals to history, nature, conscience, and consistency.
+1. The Qur'an repeatedly argues rather than merely asserting. It appeals to reason, history, nature, conscience, and consistency, and it asks the reader to reflect and consider implications.
     > “Or were they created by nothing, or are they ˹their own˺ creators?” (**Sūrat al-Ṭūr 52:35**), Dr. Mustafa Khattab, *The Clear Quran*
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿أَمْ خُلِقُوا۟ مِنْ غَيْرِ شَىْءٍ أَمْ هُمُ ٱلْخَـٰلِقُونَ ۝٣٥﴾ <span class="ayah-ref">سُورَةُ الطُّورِ</span></div>
@@ -492,7 +492,7 @@ Anne-Sylvie Boisliveau studies how the Qur'an describes itself and argues for it
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿أَلَمْ تَرَ إِلَى ٱلَّذِى حَآجَّ إِبْرَٰهِـۧمَ فِى رَبِّهِۦٓ أَنْ ءَاتَىٰهُ ٱللَّهُ ٱلْمُلْكَ إِذْ قَالَ إِبْرَٰهِـۧمُ رَبِّىَ ٱلَّذِى يُحْىِۦ وَيُمِيتُ قَالَ أَنَا۠ أُحْىِۦ وَأُمِيتُ ۖ قَالَ إِبْرَٰهِـۧمُ فَإِنَّ ٱللَّهَ يَأْتِى بِٱلشَّمْسِ مِنَ ٱلْمَشْرِقِ فَأْتِ بِهَا مِنَ ٱلْمَغْرِبِ فَبُهِتَ ٱلَّذِى كَفَرَ ۗ وَٱللَّهُ لَا يَهْدِى ٱلْقَوْمَ ٱلظَّـٰلِمِينَ ۝٢٥٨﴾ <span class="ayah-ref">سُورَةُ البَقَرَةِ</span></div>
     {: .quote }
     </details>
-    > Each of these passages rests on a step the reader can check for themselves. Rival gods would ruin creation, each taking what it had created and trying to overpower the others (21:22, 23:91). The One who created life once can create it again (36:78–79). Idols that cannot make a fly have no claim to worship (22:73). A person does not make a child by their own power (56:58–59). And a king who claims power over life and death is silenced when asked to move the sun (2:258).
+    > Each of these passages rests on a step the reader can check for themselves. Rival gods would ruin creation, each taking what it had created and trying to overpower the others (21:22, 23:91). The One who created life once can create it again (36:78–79). Idols that cannot make a fly have no claim to worship (22:73). A person does not make a child by their own power (56:58–59). A king who claims power over life and death is silenced when asked to move the sun (2:258).
     {: .gloss }
 
 1. It repeatedly demands evidence and warns against following claims without knowledge, rather than treating sincere conviction alone as sufficient.
@@ -553,114 +553,114 @@ The Qur'an presents itself as the final revelation in the same prophetic line as
 
 Some of its historical details are especially striking because the civilizations involved had long since disappeared and their own records could no longer be read. Knowledge of Egyptian hieroglyphs vanished after the fourth century CE and was recovered only after their modern decipherment in 1822. Ancient South Arabian monumental writing began to be deciphered only in the nineteenth century, while an entire script used for everyday Sabaean correspondence was not discovered until the 1970s. Modern archaeology and epigraphy have therefore made it possible to compare the Qur'an with evidence unavailable for most of the intervening centuries. ([britishmuseum.org](https://www.britishmuseum.org/blog/everything-you-ever-wanted-know-about-rosetta-stone?utm_source=chatgpt.com))
 
-1. **“King” in the time of Joseph and “Pharaoh” in the time of Moses:** the Qur'an makes a precise distinction between the titles of the Egyptian rulers in these two periods.
+1. **“King” in the time of Joseph and “Pharaoh” in the time of Moses:** the Qur'an distinguishes precisely between the titles of the Egyptian rulers in these two periods.
     > In the story of Joseph, the ruler is repeatedly called *al-malik* [the king] (12:43, 12:50, 12:54), and never Pharaoh. In the story of Moses, the ruler is repeatedly called *Firʿawn* [Pharaoh].
     {: .gloss }
-    > Ancient Egyptian evidence shows that *pr-ꜥꜣ* [Great House], from which “Pharaoh” derives, originally meant the royal palace. It only came to designate the king himself in the New Kingdom. The Qur'an therefore preserves the historically appropriate distinction between an earlier Egyptian “king” and a later ruler called “Pharaoh.” The Biblical account, by contrast, repeatedly calls Joseph's ruler “Pharaoh” as well. Egyptologist John A. Wilson states: *“We have been guilty of an anachronism in using the term ‘pharaoh’ for the king of Egypt before the Empire.”* ([globalegyptianmuseum.org](https://www.globalegyptianmuseum.org/glossary.aspx?id=294&utm_source=chatgpt.com))
+    > Ancient Egyptian evidence shows that *pr-ꜥꜣ* [Great House], from which “Pharaoh” derives, originally meant the royal palace; only in the New Kingdom did it come to designate the king himself. The Qur'an therefore preserves the historically appropriate distinction between an earlier Egyptian “king” and a later ruler called “Pharaoh,” unlike the Biblical account, which repeatedly calls Joseph's ruler “Pharaoh” as well. Egyptologist John A. Wilson states: *“We have been guilty of an anachronism in using the term ‘pharaoh’ for the king of Egypt before the Empire.”* ([globalegyptianmuseum.org](https://www.globalegyptianmuseum.org/glossary.aspx?id=294&utm_source=chatgpt.com))
     {: .gloss }
 
-1. **The Sabaean word for the Ma'rib Dam:** when describing the destruction of Saba, the Qur'an says that its people were struck by *sayl al-ʿarim* [the flood of the dam] (34:16).
-    > The word *ʿarim* [dam] occurs only once in the entire Qur'an. Modern decipherment of Sabaic inscriptions produced a remarkable match: the Ma'rib Dam itself is called *ʿrmn* [the dam], and in one inscription *ʿrm Mrb* [the Dam of Ma'rib]. Abraha's great inscription concerning repairs to the dam likewise uses the same word. The Qur'an therefore uses local ancient South Arabian vocabulary precisely in its account of ancient Saba. ([knowledge.uchicago.edu](https://knowledge.uchicago.edu/record/1343/files/Dost_uchicago_0330D_13784.pdf?utm_source=chatgpt.com))
+1. **The Sabaean word for the Ma'rib Dam:** the Qur'an, when describing the destruction of Saba, says that its people were struck by *sayl al-ʿarim* [the flood of the dam] (34:16)—and *ʿarim* is the word the Sabaeans themselves used for their dam.
+    > The word *ʿarim* [dam] occurs only once in the entire Qur'an. Modern decipherment of Sabaic inscriptions produced a remarkable match: the Ma'rib Dam itself is called *ʿrmn* [the dam], and in one inscription *ʿrm Mrb* [the Dam of Ma'rib]. Abraha's great inscription concerning repairs to the dam likewise uses the same word. The Qur'an's account of ancient Saba therefore uses, precisely, the local vocabulary of ancient South Arabia. ([knowledge.uchicago.edu](https://knowledge.uchicago.edu/record/1343/files/Dost_uchicago_0330D_13784.pdf?utm_source=chatgpt.com))
     {: .gloss }
 
-1. **Fired brick in Pharaoh's Egypt:** when Pharaoh orders the construction of a high tower, the Qur'an gives the unusually specific instruction:
+1. **Fired brick in Pharaoh's Egypt:** the Qur'an has Pharaoh order his high tower with an unusually specific instruction—that the clay be baked:
     > **“O Haman! Bake clay into bricks for me, then build me a high tower...”** (28:38)
     >
-    > Mud brick was overwhelmingly dominant in ancient Egypt, making the explicit reference to firing the clay noteworthy. Flinders Petrie's excavations at Nebesheh uncovered **red baked bricks in Ramesside tombs of the Nineteenth Dynasty**. Petrie stressed the importance of the discovery because fired brick had previously been thought to belong only to much later Egypt. Archaeology therefore confirms the presence of precisely this technology in Ramesside Egypt. ([digi.ub.uni-heidelberg.de](https://digi.ub.uni-heidelberg.de/diglit/petrie1888bd2/0084?utm_source=chatgpt.com))
+    > Ancient Egypt built overwhelmingly in mud brick, which makes the explicit reference to firing the clay noteworthy. Fired brick had previously been thought to belong only to much later Egypt, yet Flinders Petrie's excavations at Nebesheh uncovered **red baked bricks in Ramesside tombs of the Nineteenth Dynasty**—a discovery whose importance Petrie stressed for that reason. Archaeology therefore confirms that precisely this technology was present in Ramesside Egypt. ([digi.ub.uni-heidelberg.de](https://digi.ub.uni-heidelberg.de/diglit/petrie1888bd2/0084?utm_source=chatgpt.com))
     {: .gloss }
 
-1. **Pharaoh's body is singled out for preservation:** after describing Pharaoh drowning while pursuing the Israelites, the Qur'an says:
+1. **Pharaoh's body is singled out for preservation:** the Qur'an, after describing Pharaoh drowning while pursuing the Israelites, says:
     > **“Today We will preserve your body so you may become a sign for those after you.”** (10:92)
     >
-    > Ancient Egypt was exceptional for deliberately preserving the bodies of its rulers. The mummies of numerous New Kingdom kings survive to the present day: Egypt's National Museum of Egyptian Civilization alone displays twenty royal mummies from the Seventeenth through Twentieth Dynasties. The Qur'an's emphasis specifically on the preservation of Pharaoh's body fits one of the most distinctive practices of Egyptian kingship. ([nmec.gov.eg](https://nmec.gov.eg/mummies-hall/))
+    > The Qur'an's emphasis specifically on the preservation of Pharaoh's body fits one of the most distinctive practices of Egyptian kingship. Ancient Egypt was exceptional for deliberately preserving the bodies of its rulers, and the mummies of numerous New Kingdom kings survive to the present day: Egypt's National Museum of Egyptian Civilization alone displays twenty royal mummies from the Seventeenth through Twentieth Dynasties. ([nmec.gov.eg](https://nmec.gov.eg/mummies-hall/))
     {: .gloss }
 
-1. **The Israelites are described as a small group at the Exodus:** when Pharaoh mobilizes his forces against Moses and the Israelites, the Qur'an has him say:
+1. **The Qur'an describes the Israelites at the Exodus as a small group:** when Pharaoh mobilizes his forces against Moses and the Israelites, it has him say:
     > **“These are only a small band.”** (26:54)
     >
-    > The Biblical text instead gives roughly **600,000 adult Israelite males** at the Exodus (Exodus 12:37; Numbers 1:46), which would imply a total population of roughly two to three million people. Modern historical and archaeological scholarship widely recognizes that a migration of that scale cannot be reconciled with the population and carrying capacity of the region, and scholars who accept a historical core to the Exodus generally place the group at a dramatically smaller size. The Qur'an does not repeat the enormous Biblical figure; it describes the escaping Israelites as a small group. ([mdpi.com](https://www.mdpi.com/2077-1444/17/6/737))
+    > The Biblical text instead gives roughly **600,000 adult Israelite males** at the Exodus (Exodus 12:37; Numbers 1:46), which would imply a total population of roughly two to three million people. Modern historical and archaeological scholarship widely recognizes that a migration of that scale cannot be reconciled with the population and carrying capacity of the region, and scholars who accept a historical core to the Exodus generally place the group at a dramatically smaller size. Rather than repeat the enormous Biblical figure, the Qur'an describes the escaping Israelites as a small group. ([mdpi.com](https://www.mdpi.com/2077-1444/17/6/737))
     {: .gloss }
 
 <div class="read-more read-more--tail" markdown="1">
 
-1. **Sun worship in Saba:** in the account of Solomon and the Queen of Saba, the Qur'an reports:
+1. **Sun worship in Saba:** the Qur'an, in its account of Solomon and the Queen of Saba, reports:
     > **“I found her and her people prostrating to the sun instead of God.”** (27:24)
     >
     > Ancient South Arabian inscriptions independently confirm solar worship in Saba. A surviving Sabaean inscription from Ma'rib records a dedication by a **king of Saba to his Sun-goddess Tanuf**, whom the British Museum identifies as a form of the sun goddess particularly revered by the Sabaean royal family. The Qur'an's specific description of Sabaean royal religion therefore corresponds directly to the civilization's own inscriptions. ([britishmuseum.org](https://www.britishmuseum.org/collection/object/W_1863-0216-2))
     {: .gloss }
 
-1. **The Queen of Saba consults a governing council:** after receiving Solomon's letter, the Queen says:
+1. **The Queen of Saba consults a governing council:** the Qur'an has the Queen, after receiving Solomon's letter, say:
     > **“O chiefs! Advise me in this matter of mine, for I would never make any decision without you.”** (27:32)
     >
-    > Sabaean inscriptions independently reveal that Saba had formal political councils. Scholarship on its public institutions identifies a supreme Sabaean legislative **council** in which the king sat together with representatives of the principal tribal groups. Surviving Sabaean legal inscriptions likewise record decisions ratified by councils. The Qur'an's brief scene therefore reflects a real institution of Sabaean government. ([archaeopresspublishing.com](https://archaeopresspublishing.com/ojs/index.php/PSAS/article/view/359))
+    > The Qur'an's brief scene reflects a real institution of Sabaean government: Sabaean inscriptions independently reveal that Saba had formal political councils. Scholarship on its public institutions identifies a supreme Sabaean legislative **council** in which the king sat together with representatives of the principal tribal groups, and surviving Sabaean legal inscriptions likewise record decisions ratified by councils. ([archaeopresspublishing.com](https://archaeopresspublishing.com/ojs/index.php/PSAS/article/view/359))
     {: .gloss }
 
-1. **Formal written correspondence in Saba:** the Qur'an portrays the kingdom as a literate state. Solomon sends the Queen a written letter, she receives it, reads its contents, and presents it to her council (27:28–31).
-    > The recovery of ancient South Arabian writing has revealed a remarkably developed documentary culture. Hundreds of wooden documents have now been deciphered, including private and official correspondence, legal documents, contracts, writing exercises, and other everyday records. Almost 900 such Sabaic and Minaic texts have been published. An entire form of South Arabian writing used for this everyday correspondence was unknown to modern scholars until its discovery in the 1970s. ([archaeopresspublishing.com](https://www.archaeopresspublishing.com/ojs/index.php/PSAS/article/view/1258?articlesBySimilarityPage=21))
+1. **Formal written correspondence in Saba:** the Qur'an portrays the kingdom as a literate state: Solomon sends the Queen a written letter, and she receives it, reads its contents, and presents it to her council (27:28–31).
+    > The recovery of ancient South Arabian writing has revealed a remarkably developed documentary culture. Hundreds of wooden documents have now been deciphered, among them private and official correspondence, legal documents, contracts, writing exercises, and other everyday records, and almost 900 such Sabaic and Minaic texts have been published. An entire form of South Arabian writing, the one used for this everyday correspondence, remained unknown to modern scholars until its discovery in the 1970s. ([archaeopresspublishing.com](https://www.archaeopresspublishing.com/ojs/index.php/PSAS/article/view/1258?articlesBySimilarityPage=21))
     {: .gloss }
 
 1. **Saba's two gardens and the Ma'rib irrigation system:** the Qur'an describes Saba as possessing **“two gardens, one to the right and one to the left”** (34:15).
-    > Archaeology has revealed the enormous irrigation system centered on the Great Dam of Ma'rib. UNESCO describes it as creating the largest ancient man-made oasis in Arabia, with canals irrigating a vast cultivated territory extending on both sides of Ma'rib. What now appears as a barren landscape was once an extraordinary agricultural zone divided by the valley and supplied from the dam—exactly the kind of landscape described by the Qur'an. ([whc.unesco.org](https://whc.unesco.org/en/list/1700))
+    > Archaeology has revealed an enormous irrigation system centered on the Great Dam of Ma'rib. UNESCO describes it as creating the largest ancient man-made oasis in Arabia, with canals irrigating a vast cultivated territory on both sides of Ma'rib. What now appears as a barren landscape was once an extraordinary agricultural zone, divided by the valley and supplied from the dam—exactly the kind of landscape the Qur'an describes. ([whc.unesco.org](https://whc.unesco.org/en/list/1700))
     {: .gloss }
 
-1. **The “flood of the dam” that destroyed Saba's prosperity:** the next verse says that the people turned away, so God sent upon them **“the flood of the dam”** and their rich gardens were replaced by inferior vegetation (34:16).
-    > The Great Dam of Ma'rib was the foundation of the region's agricultural prosperity and required repeated repairs after major breaches. Surviving inscriptions document these repairs, including an enormous restoration undertaken by Abraha in the sixth century CE. Its eventual failure brought the ancient irrigation system and the prosperity it supported to an end. The Qur'an accurately connects Saba's flourishing gardens, its great dam, a destructive flood, and the loss of its agricultural prosperity. ([whc.unesco.org](https://whc.unesco.org/en/list/1700))
+1. **The “flood of the dam” that destroyed Saba's prosperity:** the Qur'an says in the next verse that the people turned away, so God sent upon them **“the flood of the dam”**, and their rich gardens were replaced by inferior vegetation (34:16).
+    > The Great Dam of Ma'rib was the foundation of the region's agricultural prosperity and required repeated repairs after major breaches. Surviving inscriptions document these repairs, including an enormous restoration undertaken by Abraha in the sixth century CE. When the dam eventually failed, the ancient irrigation system and the prosperity it supported came to an end. The Qur'an accurately connects Saba's flourishing gardens, its great dam, a destructive flood, and the loss of its agricultural prosperity. ([whc.unesco.org](https://whc.unesco.org/en/list/1700))
     {: .gloss }
 
 1. **Pharaoh's reference to gold bracelets as a mark of status:** Pharaoh mocks Moses by asking:
     > **“Why have no bracelets of gold been given to him?”** (43:53)
     >
-    > Gold jewelry was a visible marker of royal favor and high status in New Kingdom Egypt. The Egyptian **“Gold of Honor”** was bestowed by the king upon distinguished officials, and surviving evidence shows that its sets could include gold collars, armlets, and bracelets. Egyptian art preserves officials and royal figures visibly wearing these awards. Pharaoh's challenge—that a true person of authority should display gold bracelets—fits the symbolic language of status at the Egyptian court. ([scholar.lib.vt.edu](https://scholar.lib.vt.edu/ejournals/ElAnt/V5N3/haeckl.html))
+    > Pharaoh's challenge—that a true person of authority should display gold bracelets—fits the symbolic language of status at the Egyptian court. In New Kingdom Egypt, gold jewelry was a visible marker of royal favor and high status: the king bestowed the **“Gold of Honor”** upon distinguished officials, and surviving evidence shows that its sets could include gold collars, armlets, and bracelets. Egyptian art preserves officials and royal figures visibly wearing these awards. ([scholar.lib.vt.edu](https://scholar.lib.vt.edu/ejournals/ElAnt/V5N3/haeckl.html))
     {: .gloss }
 
-1. **Staffs, serpents, and Egyptian magic:** the confrontation centers specifically on staffs and ropes that appear to move like serpents, followed by Moses' staff becoming a real serpent and swallowing them (7:116–117; 20:66–69; 26:44–45).
-    > The serpent-staff was itself deeply rooted in indigenous Egyptian ritual culture. Egyptologist Robert Ritner catalogued surviving **wooden and bronze serpent-shaped wands** from ancient Egypt and Egyptian magical texts concerning them. Egyptian literature also portrays ritual specialists transforming artificial objects into living animals. The imagery at the center of the Qur'anic confrontation is therefore strikingly at home in ancient Egyptian magical culture. ([jstor.org](https://www.jstor.org/stable/j.ctvvnbf1))
+1. **Staffs, serpents, and Egyptian magic:** the confrontation turns on staffs and ropes that appear to move like serpents, until Moses' staff becomes a real serpent and swallows them (7:116–117; 20:66–69; 26:44–45).
+    > The serpent-staff was deeply rooted in indigenous Egyptian ritual culture. Egyptologist Robert Ritner catalogued surviving **wooden and bronze serpent-shaped wands** from ancient Egypt, along with Egyptian magical texts concerning them. Egyptian literature also portrays ritual specialists transforming artificial objects into living animals. The imagery at the center of the Qur'anic confrontation is therefore strikingly at home in ancient Egyptian magical culture. ([jstor.org](https://www.jstor.org/stable/j.ctvvnbf1))
     {: .gloss }
 
-1. **Pharaoh's threatened punishments fit New Kingdom Egyptian practice:** after the magicians accept Moses' message, Pharaoh threatens to cut off their hands and feet on opposite sides and then execute them on stakes or crosses (7:124; 20:71; 26:49).
-    > New Kingdom Egyptian evidence independently documents the same punitive world. Archaeological, textual, and pictorial sources attest the cutting off of hands and other body parts, burning, impalement, and other severe punishments. Physical remains of severed hands have even been excavated in the forecourt of a royal palace at Avaris, while New Kingdom inscriptions and reliefs repeatedly depict the removal of hands. ([jstor.org](https://www.jstor.org/stable/j.ctvsf1qpk?utm_source=chatgpt.com))
+1. **Pharaoh's threatened punishments fit New Kingdom Egyptian practice:** when the magicians accept Moses' message, Pharaoh threatens to cut off their hands and feet on opposite sides and then execute them on stakes or crosses (7:124; 20:71; 26:49).
+    > New Kingdom Egyptian evidence independently documents the same punitive world. Archaeological, textual, and pictorial sources attest burning, impalement, the cutting off of hands and other body parts, and other severe punishments. New Kingdom inscriptions and reliefs repeatedly depict the removal of hands, and physical remains of severed hands have even been excavated in the forecourt of a royal palace at Avaris. ([jstor.org](https://www.jstor.org/stable/j.ctvsf1qpk?utm_source=chatgpt.com))
     {: .gloss }
 
 1. **Pharaoh's claim to supreme lordship fits Egyptian divine kingship:** the Qur'an portrays Pharaoh declaring:
     > **“I am your lord, the most high.”** (79:24)
     >
-    > This is not the language of an ordinary Near Eastern king. Egyptian kingship had a distinctively sacred character: the Pharaoh stood at the summit of Egypt's religious and political order and was responsible for maintaining the divinely established order of the cosmos. Egyptian royal ideology closely associated the king with the gods, giving the Qur'anic Pharaoh's extraordinary claim a specifically Egyptian setting. ([pbs.org](https://www.pbs.org/empires/egypt/newkingdom/pharaohs.html?utm_source=chatgpt.com))
+    > This is not the language of an ordinary Near Eastern king. Egyptian kingship was distinctively sacred: the Pharaoh stood at the summit of Egypt's religious and political order and was responsible for maintaining the divinely established order of the cosmos. Because Egyptian royal ideology closely associated the king with the gods, the Qur'anic Pharaoh's extraordinary claim has a setting that is specifically Egyptian. ([pbs.org](https://www.pbs.org/empires/egypt/newkingdom/pharaohs.html?utm_source=chatgpt.com))
     {: .gloss }
 
 1. **Egypt's professional magicians:** the Qur'an describes Pharaoh summoning skilled magicians from across Egypt to confront Moses (7:109–113; 20:57–66; 26:34–38).
-    > Egyptian sources independently reveal a recognized class of ritual specialists closely associated with what modern scholars call magic. The Egyptian lector was a learned ritual practitioner who recited spells, performed magical rites, served in temples, and could also hold positions connected with the royal palace. Evidence for this office extends through thousands of years of Egyptian history. The Qur'an's portrayal of Pharaoh assembling professional magical specialists therefore fits an established institution of Egyptian society. ([jstor.org](https://www.jstor.org/stable/j.ctvqc6jxb))
+    > The Qur'an's portrayal of Pharaoh assembling professional magical specialists fits an established institution of Egyptian society. Egyptian sources independently reveal a recognized class of ritual specialists closely associated with what modern scholars call magic. Among them was the lector, a learned practitioner who recited spells, performed magical rites, served in temples, and could also hold positions connected with the royal palace. Evidence for this office extends through thousands of years of Egyptian history. ([jstor.org](https://www.jstor.org/stable/j.ctvqc6jxb))
     {: .gloss }
 
 1. **Pharaoh boasts of Egypt's rivers flowing beneath him:** the Qur'an has Pharaoh proclaim:
     > **“O my people! Does the kingdom of Egypt not belong to me, as well as these rivers flowing at my feet?”** (43:51)
     >
-    > The royal centers of the Nile Delta were literally structured around branches of the Nile, canals, harbors, basins, and artificial waterways. Archaeological reconstruction of Pi-Ramesse, the great Ramesside royal residence, shows that watercourses both divided and connected the city; its royal and monumental landscape included canals and harbor facilities. Pharaoh's boast naturally reflects the physical geography and royal landscape of ancient Egypt. ([rmo.nl](https://www.rmo.nl/wp-content/uploads/2025/10/PALMA-27_9789464261196.pdf?utm_source=chatgpt.com))
+    > Pharaoh's boast naturally reflects the physical geography and royal landscape of ancient Egypt. The royal centers of the Nile Delta were literally structured around branches of the Nile, canals, harbors, basins, and artificial waterways. Archaeological reconstruction of Pi-Ramesse, the great Ramesside royal residence, shows a royal and monumental landscape that included canals and harbor facilities, in a city both divided and connected by watercourses. ([rmo.nl](https://www.rmo.nl/wp-content/uploads/2025/10/PALMA-27_9789464261196.pdf?utm_source=chatgpt.com))
     {: .gloss }
 
-1. **Saba was wealthy, monumental, and centrally organized:** the Qur'an portrays the Queen of Saba as ruling a prosperous kingdom and possessing **“a magnificent throne”** (27:23), while chapter 34 portrays Saba as extraordinarily fertile and prosperous.
-    > Archaeology has confirmed that Saba was one of ancient Arabia's great powers. UNESCO describes an affluent kingdom with a strong centralized administration, monumental walled cities and temples, extensive irrigation works, and wealth derived partly from control of the incense trade. Ma'rib itself was its administrative, cultural, and economic capital. ([whc.unesco.org](https://whc.unesco.org/en/list/1700))
+1. **Saba was wealthy, monumental, and centrally organized:** the Qur'an portrays the Queen of Saba as ruling a prosperous kingdom and possessing **“a magnificent throne”** (27:23), and chapter 34 describes Saba as extraordinarily fertile and prosperous.
+    > Archaeology has confirmed that Saba was one of ancient Arabia's great powers. UNESCO describes an affluent kingdom with a strong centralized administration, monumental walled cities and temples, and extensive irrigation works, its wealth derived partly from control of the incense trade. Ma'rib itself was its administrative, cultural, and economic capital. ([whc.unesco.org](https://whc.unesco.org/en/list/1700))
     {: .gloss }
 
-1. **West Semitic people really did live and serve in ancient Egypt:** the Qur'anic narratives of Joseph and Moses place a Semitic population from the Levant inside Egypt.
-    > Egyptian documents independently confirm this historical setting. The Brooklyn Papyrus 35.1446, from the late Middle Kingdom, records a large household containing dozens of servants identified as **Asiatics**, many bearing Northwest Semitic names. Archaeology at Avaris in the eastern Nile Delta has likewise revealed a major center with extensive Levantine connections and imports. The presence of West Semitic populations living and working within ancient Egypt is therefore directly documented by Egyptian evidence. ([archaeopress.com](https://www.archaeopress.com/Archaeopress/download/9781803278278?utm_source=chatgpt.com))
+1. **West Semitic people really did live and serve in ancient Egypt:** the Qur'an, in its narratives of Joseph and Moses, places a Semitic population from the Levant inside Egypt.
+    > Egyptian documents independently confirm this setting. The Brooklyn Papyrus 35.1446, from the late Middle Kingdom, records a large household with dozens of servants identified as **Asiatics**, many bearing Northwest Semitic names. Archaeology at Avaris, in the eastern Nile Delta, has likewise revealed a major center with extensive Levantine connections and imports. That West Semitic populations lived and worked within ancient Egypt is therefore directly documented by Egyptian evidence. ([archaeopress.com](https://www.archaeopress.com/Archaeopress/download/9781803278278?utm_source=chatgpt.com))
     {: .gloss }
 
 1. **Thamud was a real ancient Arabian people:** the Qur'an repeatedly refers to Thamud as an earlier Arabian people destroyed long before its own revelation.
-    > Thamud is independently recorded centuries before Islam. The eighth-century BCE annals of the Assyrian king Sargon II explicitly name **“the tribes of Thamud”** among distant Arabian peoples inhabiting the desert. The Qur'an therefore preserves the name of a genuine ancient Arabian people attested more than thirteen centuries before its revelation. ([cambridge.org](https://www.cambridge.org/core/books/preislamic-arabia/an-introduction-to-the-study-of-preislamic-arabia/1ECAF2010D2CA3D38EE1E281EF6ED009?utm_source=chatgpt.com))
+    > Thamud is independently recorded centuries before Islam. The annals of the Assyrian king Sargon II, from the eighth century BCE, explicitly name **“the tribes of Thamud”** among distant Arabian peoples inhabiting the desert. The Qur'an therefore preserves the name of a genuine ancient Arabian people—one attested more than thirteen centuries before its revelation. ([cambridge.org](https://www.cambridge.org/core/books/preislamic-arabia/an-introduction-to-the-study-of-preislamic-arabia/1ECAF2010D2CA3D38EE1E281EF6ED009?utm_source=chatgpt.com))
     {: .gloss }
 
 1. **Madyan was a real ancient north-west Arabian people or place:** the Qur'an repeatedly treats Madyan as a specific community and region, including in the story of Moses (7:85; 9:70; 11:84; 20:40; 28:22–28).
-    > Modern epigraphy has now produced a direct ancient Arabian inscription containing the name **Madyan**. The Taymanitic inscription was discovered in north-western Saudi Arabia near Tayma and published by Christian Robin and Ali al-Ghabban as the first epigraphic mention of Madyan found in Arabia. Its archaic script belongs to the ancient north-west Arabian epigraphic world. ([persee.fr](https://www.persee.fr/doc/crai_0065-0536_2017_num_161_1_96407))
+    > The name **Madyan** has now been found in a direct ancient Arabian inscription. This Taymanitic inscription, written in an archaic script of the ancient north-west Arabian epigraphic world, was discovered near Tayma in north-western Saudi Arabia. Christian Robin and Ali al-Ghabban published it as the first epigraphic mention of Madyan found in Arabia. ([persee.fr](https://www.persee.fr/doc/crai_0065-0536_2017_num_161_1_96407))
     {: .gloss }
 
 1. **The People of the Ditch and the massacre at Najran:** Sūrat al-Burūj describes believers persecuted for their faith by people gathered around a fire-filled trench:
     > **“Condemned are the makers of the ditch—the fire ˹pit˺, filled with fuel—when they sat around it, watching what they had ordered to be done to the believers. And they resented them only because they believed in God...”** (85:4–8)
     >
-    > The strongest historical identification is the persecution of the Christians of Najran in southern Arabia in 523 CE. This event is independently documented not only in Christian literature but in contemporary South Arabian inscriptions. Inscriptions produced by officers of the Himyarite king Yusuf As'ar record his campaign against Najran, the burning of churches, the siege of the city, and large numbers killed or captured. Modern Qur'anic scholarship has identified the Najran martyrs as the most plausible historical referent of the passage. ([posenlibrary.com](https://www.posenlibrary.com/entry/inscriptions-himyarite-high-officials?utm_source=chatgpt.com))
+    > The strongest historical identification is the persecution of the Christians of Najran in southern Arabia in 523 CE, which modern Qur'anic scholarship has identified as the most plausible historical referent of the passage. The event is independently documented not only in Christian literature but in contemporary South Arabian inscriptions: officers of the Himyarite king Yusuf As'ar recorded his campaign against Najran, the burning of churches, the siege of the city, and large numbers killed or captured. ([posenlibrary.com](https://www.posenlibrary.com/entry/inscriptions-himyarite-high-officials?utm_source=chatgpt.com))
     {: .gloss }
 
-1. **The historical setting behind the People of the Elephant:** Sūrat al-Fīl refers to the destruction of the **“companions of the elephant”**, traditionally identified with an expedition of the South Arabian Christian ruler Abraha toward Mecca shortly before the Prophet's ﷺ birth.
-    > Abraha himself is no legendary figure. His own monumental inscriptions have been recovered, and inscriptions from 552 CE document his repeated military expeditions deep into central Arabia. One describes the campaign as his **fourth** expedition against tribes there. Modern epigraphy has therefore independently confirmed the existence of the ruler remembered in connection with Sūrat al-Fīl and his large-scale military campaigns northward from Yemen into central Arabia. ([persee.fr](https://www.persee.fr/doc/crai_0065-0536_2012_num_156_1_93448?pageId=T45_526&utm_source=chatgpt.com))
+1. **The historical setting behind the People of the Elephant:** Sūrat al-Fīl refers to the destruction of the **“companions of the elephant”**, traditionally identified with an expedition toward Mecca led by Abraha, the Christian ruler of South Arabia, shortly before the Prophet's ﷺ birth.
+    > Abraha himself is no legendary figure. His own monumental inscriptions have been recovered, and inscriptions from 552 CE document his repeated military expeditions deep into central Arabia; one describes the campaign as his **fourth** against the tribes there. Modern epigraphy has therefore independently confirmed both the existence of the ruler remembered in connection with Sūrat al-Fīl and his large-scale military campaigns northward from Yemen into central Arabia. ([persee.fr](https://www.persee.fr/doc/crai_0065-0536_2012_num_156_1_93448?pageId=T45_526&utm_source=chatgpt.com))
     {: .gloss }
 {: start="6"}
 
@@ -672,14 +672,14 @@ Some of its historical details are especially striking because the civilizations
 
 {% include yt-embed.html url="https://youtu.be/lEc_ilaHim8" title="Stories of the Prophets: Bible vs. Qur'an" %}
 
-1. A common objection is that the Qur'an simply copied Biblical stories. But in several places it departs from the Bible precisely where the Biblical account contains historically problematic details as shown above—for example, calling Joseph's Egyptian ruler “king” rather than “Pharaoh,” and describing the Israelites at the Exodus as a small group rather than numbering them in the millions. That is difficult to explain as mere copying, since copying would be expected to reproduce the same historical inaccuracies rather than correct them.
+1. The Qur'an is often said to have simply copied Biblical stories, yet in several places it departs from the Bible precisely where the Biblical account contains historically problematic details, as shown above—for example, calling Joseph's Egyptian ruler “king” rather than “Pharaoh,” and describing the Israelites at the Exodus as a small group rather than numbering them in the millions. That is difficult to explain as mere copying, which would be expected to reproduce the same historical inaccuracies rather than correct them.
 
 1. The Qur'an does not merely inherit earlier material; it selects, compresses, relocates, disputes, corrects and reframes it. The same story can therefore serve different arguments in different chapters without becoming a copy of one fixed source.
-    > Genealogical and biographical detail is often reduced while monotheism, judgment, repentance, prophetic perseverance, and moral accountability move to the foreground. This transformation also fits the repetition-with-variation described in the literary section above.
+    > Genealogical and biographical detail is often reduced, while monotheism, judgment, repentance, prophetic perseverance, and moral accountability move to the foreground. This transformation also fits the repetition-with-variation described in the literary section above.
     {: .gloss }
 
-1. The Qur'an contains striking cross-Semitic linguistic correspondences, drawing on words and cognates connected with mainly Hebrew, but also Aramaic, Syriac, Ethiopic, Persian and the ancient languages of Arabia. In a number of passages, these relationships create wordplay, allusion, historically appropriate vocabulary, and layers of meaning that become visible only when the related languages are examined together.
-    > The Sabaean *ʿarim* [dam] example above is especially striking: a rare word that appears only once in the Qur'an is found in the ancient language of the very civilization being described, where it denotes the Ma'rib Dam itself. ([knowledge.uchicago.edu](https://knowledge.uchicago.edu/record/1343/files/Dost_uchicago_0330D_13784.pdf?utm_source=chatgpt.com))
+1. The Qur'an contains striking cross-Semitic linguistic correspondences: its words and cognates connect mainly with Hebrew, but also with Aramaic, Syriac, Ethiopic, Persian and the ancient languages of Arabia. In a number of passages, these relationships create wordplay, allusion, historically appropriate vocabulary, and layers of meaning that become visible only when the related languages are examined together.
+    > The Sabaean *ʿarim* [dam] example above is especially striking: a rare word, appearing only once in the Qur'an, is found in the ancient language of the very civilization being described—where it denotes the Ma'rib Dam itself. ([knowledge.uchicago.edu](https://knowledge.uchicago.edu/record/1343/files/Dost_uchicago_0330D_13784.pdf?utm_source=chatgpt.com))
     {: .gloss }
 
     {% include yt-embed.html url="https://youtu.be/wA4v8MrBHHc" title="The Hebrew word that PROVED that the Qur'an is from Allah" %}
@@ -708,33 +708,33 @@ It also describes features of the natural world with remarkable precision, inclu
 
 {% include yt-embed.html url="https://youtu.be/DoP6Ft-VE70" title="Are there scientific miracles in the Qur'an?" %}
 
-1. **Embryonic development:** the Qur'an gives a striking stage-by-stage description of the development of a human embryo. It moves from a drop, to something that clings, to a lump, to bones, and then to flesh clothing those bones.
+1. **Embryonic development:** the Qur'an gives a striking stage-by-stage description of how a human embryo develops: first a drop, then something that clings, then a lump, then bones, and finally flesh clothing those bones.
     > “And certainly did We create man from an extract of clay. Then We placed him as a sperm-drop in a firm lodging. Then We made the sperm-drop into a clinging clot, and We made the clot into a lump [of flesh], and We made [from] the lump, bones, and We covered the bones with flesh; then We developed him into another creation. So blessed is Allah, the best of creators.” (**Sūrat al-Muʾminūn 23:12–14**), Saheeh International
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَلَقَدْ خَلَقْنَا ٱلْإِنسَـٰنَ مِن سُلَـٰلَةٍ مِّن طِينٍ ۝١٢ ثُمَّ جَعَلْنَـٰهُ نُطْفَةً فِى قَرَارٍ مَّكِينٍ ۝١٣ ثُمَّ خَلَقْنَا ٱلنُّطْفَةَ عَلَقَةً فَخَلَقْنَا ٱلْعَلَقَةَ مُضْغَةً فَخَلَقْنَا ٱلْمُضْغَةَ عِظَـٰمًا فَكَسَوْنَا ٱلْعِظَـٰمَ لَحْمًا ثُمَّ أَنشَأْنَـٰهُ خَلْقًا ءَاخَرَ ۚ فَتَبَارَكَ ٱللَّهُ أَحْسَنُ ٱلْخَـٰلِقِينَ ۝١٤﴾ <span class="ayah-ref">سُورَةُ المُؤۡمِنُونَ</span></div>
     {: .quote }
-    > The Arabic words carry more than their usual English renderings. *ʿAlaqa*, rendered “clinging clot,” is something that clings or hangs, and the same root names a leech; *muḍgha*, rendered “lump [of flesh],” is a morsel that looks chewed. Each describes the embryo by its appearance.
+    > The Arabic words carry more than their usual English renderings. *ʿAlaqa*, rendered “clinging clot,” is something that clings or hangs, and its root also names a leech; *muḍgha*, rendered “lump [of flesh],” is a morsel that looks chewed. Each describes the embryo by its appearance.
     {: .gloss }
-    > Modern embryologists have been struck by how closely this sequence matches what the microscope later revealed. Keith L. Moore, professor of anatomy at the University of Toronto and author of *The Developing Human*, a standard embryology textbook, studied these verses with Muslim scholars who explained the Arabic to him. He concluded that the statements “must have come to Muhammad from God,” because most of this knowledge was discovered only centuries later. He gives his reasons in the video below.
+    > Modern embryologists have been struck by how closely this sequence matches what the microscope later revealed. Keith L. Moore, professor of anatomy at the University of Toronto and author of *The Developing Human*, a standard embryology textbook, studied these verses with Muslim scholars who explained the Arabic to him. Because most of this knowledge was discovered only centuries later, he concluded that the statements “must have come to Muhammad from God.” He gives his reasons in the video below.
     {: .gloss }
     {% include yt-embed.html url="https://youtu.be/J_Dllu42eEA" title="Qur'an on Embryology - Professor Keith L. Moore" %}
 
-1. **Expansion of the universe:** the Qur'an describes God as having built the heaven and as continually widening it.
+1. **Expansion of the universe:** the Qur'an describes God as having built the heaven, and as continually widening it.
     > “We built the universe with ˹great˺ might, and We are certainly expanding ˹it˺.” (**Sūrat al-Dhāriyāt 51:47**), Dr. Mustafa Khattab, *The Clear Quran*
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَٱلسَّمَآءَ بَنَيْنَـٰهَا بِأَيْي۟دٍ وَإِنَّا لَمُوسِعُونَ ۝٤٧﴾ <span class="ayah-ref">سُورَةُ الذَّارِيَاتِ</span></div>
     {: .quote }
-    > The word rendered “expanding” is *mūsiʿūn*, an active participle from the root for width and vastness, so it describes ongoing action: “We are making it wide.” Modern astronomy established that the universe itself is expanding. The Qur'an described the heaven in these terms in seventh-century Arabia, long before that expansion could be observed.
+    > The Qur'an's word rendered “expanding,” *mūsiʿūn*, is an active participle from the root for width and vastness, describing ongoing action: “We are making it wide.” Modern astronomy established that the universe itself is expanding, yet the Qur'an described the heaven in these terms in seventh-century Arabia—long before that expansion could be observed.
     {: .gloss }
 
-1. **A joined origin of the heavens and earth:** the Qur'an describes the heavens and the earth as once joined together and then split apart, and in the same verse describes water as the origin of all life.
+1. **A joined origin of the heavens and earth:** the Qur'an describes the heavens and the earth as once joined together and then split apart, and in the same verse names water as the origin of all life.
     > “Have those who disbelieved not considered that the heavens and the earth were a joined entity, and We separated them and made from water every living thing? Then will they not believe?” (**Sūrat al-Anbiyāʾ 21:30**), Saheeh International
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿أَوَلَمْ يَرَ ٱلَّذِينَ كَفَرُوٓا۟ أَنَّ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضَ كَانَتَا رَتْقًا فَفَتَقْنَـٰهُمَا ۖ وَجَعَلْنَا مِنَ ٱلْمَآءِ كُلَّ شَىْءٍ حَىٍّ ۖ أَفَلَا يُؤْمِنُونَ ۝٣٠﴾ <span class="ayah-ref">سُورَةُ الأَنبِيَاءِ</span></div>
     {: .quote }
-    > The phrase rendered “a joined entity” is *ratq*: things fused or stitched together. “We separated them” translates *fataqnāhumā*, from *fatq*, the opening or separation of what had been joined. The Qur'an therefore describes the heavens and earth as having a common joined origin before their separation.
+    > The Qur'an describes the heavens and earth as having a common joined origin before their separation. The phrase rendered “a joined entity” is *ratq*: things fused or stitched together. “We separated them” translates *fataqnāhumā*, from *fatq*, the opening or separation of what had been joined.
     {: .gloss }
-    > The second statement in the same verse is equally striking: “We made from water every living thing.” Every known form of life on Earth depends on water and originated from it, and liquid water is so fundamental to life that its presence is one of the principal things scientists look for when assessing whether another world could support life.
+    > The second statement in the same verse is equally striking: “We made from water every living thing.” Every known form of life on Earth depends on water and originated from it. Liquid water is so fundamental to life that, when scientists assess whether another world could support life, its presence is one of the principal things they look for.
     {: .gloss }
 
 1. **Darkness and waves in the deep ocean:** the Qur'an describes a deep sea with layers of darkness, with waves above waves and clouds above them.
@@ -742,10 +742,10 @@ It also describes features of the natural world with remarkable precision, inclu
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿أَوْ كَظُلُمَـٰتٍۢ فِى بَحْرٍۢ لُّجِّىٍّۢ يَغْشَىٰهُ مَوْجٌۭ مِّن فَوْقِهِۦ مَوْجٌۭ مِّن فَوْقِهِۦ سَحَابٌۭ ۚ ظُلُمَـٰتٌۢ بَعْضُهَا فَوْقَ بَعْضٍ إِذَآ أَخْرَجَ يَدَهُۥ لَمْ يَكَدْ يَرَىٰهَا ۗ وَمَن لَّمْ يَجْعَلِ ٱللَّهُ لَهُۥ نُورًۭا فَمَا لَهُۥ مِن نُّورٍ ۝٤٠﴾ <span class="ayah-ref">سُورَةُ النُّورِ</span></div>
     {: .quote }
-    > Sunlight disappears rapidly with ocean depth. Very little visible light remains in the deep ocean, and below roughly 1,000 metres sunlight no longer penetrates. Oceans also contain **internal waves** beneath their visible surface, travelling along boundaries between layers of water of different densities, while ordinary surface waves occur above them. The verse brings together a deep sea, extreme layered darkness, and waves beneath other waves.
+    > The verse brings together a deep sea, extreme layered darkness, and waves beneath other waves. Sunlight disappears rapidly with ocean depth: very little visible light remains in the deep ocean, and below roughly 1,000 metres sunlight no longer penetrates. Beneath their visible surface, oceans also contain **internal waves**, which travel along the boundaries between layers of water of different densities—with ordinary surface waves occurring above them.
     {: .gloss }
 
-1. **Orbits of the sun and moon:** the Qur'an describes the sun and the moon each moving in its own rounded course.
+1. **Orbits of the sun and moon:** the Qur'an describes the sun and the moon as each moving in its own rounded course.
     > “And He is the One Who created the day and the night, the sun and the moon—each travelling in an orbit.” (**Sūrat al-Anbiyāʾ 21:33**), Dr. Mustafa Khattab, *The Clear Quran*
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَهُوَ ٱلَّذِى خَلَقَ ٱلَّيْلَ وَٱلنَّهَارَ وَٱلشَّمْسَ وَٱلْقَمَرَ ۖ كُلٌّ فِى فَلَكٍ يَسْبَحُونَ ۝٣٣﴾ <span class="ayah-ref">سُورَةُ الأَنبِيَاءِ</span></div>
@@ -758,86 +758,86 @@ It also describes features of the natural world with remarkable precision, inclu
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿لَا ٱلشَّمْسُ يَنۢبَغِى لَهَآ أَن تُدْرِكَ ٱلْقَمَرَ وَلَا ٱلَّيْلُ سَابِقُ ٱلنَّهَارِ ۚ وَكُلٌّ فِى فَلَكٍ يَسْبَحُونَ ۝٤٠﴾ <span class="ayah-ref">سُورَةُ يسٓ</span></div>
     {: .quote }
     </details>
-    > The word rendered “orbit” is *falak*, a rounded course, the same word used for the whorl of a spindle. “Travelling” translates *yasbaḥūn*, which literally means gliding or swimming. Common ancient models fixed the heavenly bodies to turning spheres; the Qur'an instead describes each body moving along its own path.
+    > The word rendered “orbit” is *falak*, a rounded course—the same word used for the whorl of a spindle. “Travelling” translates *yasbaḥūn*, literally gliding or swimming. Unlike common ancient models, which fixed the heavenly bodies to turning spheres, the Qur'an describes each body moving along its own path.
     >
     > The phrase itself is also striking: “each in an orbit,” <span dir="rtl" lang="ar">كل في فلك</span> (*kullun fī falak*), is a palindrome spanning three Arabic words, with the letters k-l-f-y-f-l-k reading the same from either end. The words describing bodies traveling around a circuit turn back on themselves, and they do so within ordinary, natural Arabic in both verses where they appear.
     {: .gloss }
 
-1. **The Sun and Moon are described differently:** the Qur'an consistently distinguishes the light of the Sun from that of the Moon. It describes the Sun as a radiant or lamp-like source, while describing the Moon as light.
+1. **The Sun and Moon are described differently:** the Qur'an consistently distinguishes the light of the Sun from that of the Moon, describing the Sun as a radiant or lamp-like source, but the Moon simply as light.
     > “He is the One Who made the sun a radiant source and the moon a reflected light...” (**Sūrat Yūnus 10:5**), Dr. Mustafa Khattab, *The Clear Quran*
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿هُوَ ٱلَّذِى جَعَلَ ٱلشَّمْسَ ضِيَآءًۭ وَٱلْقَمَرَ نُورًۭا وَقَدَّرَهُۥ مَنَازِلَ لِتَعْلَمُوا۟ عَدَدَ ٱلسِّنِينَ وَٱلْحِسَابَ ۚ مَا خَلَقَ ٱللَّهُ ذَٰلِكَ إِلَّا بِٱلْحَقِّ ۚ يُفَصِّلُ ٱلْـَٔايَـٰتِ لِقَوْمٍۢ يَعْلَمُونَ ۝٥﴾ <span class="ayah-ref">سُورَةُ يُونُسَ</span></div>
     {: .quote }
-    > The same distinction appears elsewhere: the Sun is described as a **“shining lamp”**, while the Moon is described as a **light** (25:61; 71:16). That distinction matches the physical reality: the Sun produces its own visible light, while the Moon shines by reflecting the Sun's light.
+    > The Qur'an draws the same distinction elsewhere: it describes the Sun as a **“shining lamp”**, while the Moon is described as a **light** (25:61; 71:16). That distinction matches the physical reality: the Sun produces its own visible light, while the Moon shines by reflecting the Sun's light.
     {: .gloss }
 
-1. **Milk formation:** the Qur'an draws attention to the production of milk inside livestock in relation to both digestive material and blood.
+1. **Milk formation:** the Qur'an draws attention to how milk is produced inside livestock, relating it to both digestive material and blood.
     > “And there is certainly a lesson for you in cattle: We give you to drink of what is in their bellies, from between digested food and blood: pure milk, pleasant to drink.” (**Sūrat al-Naḥl 16:66**), Dr. Mustafa Khattab, *The Clear Quran*
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَإِنَّ لَكُمْ فِى ٱلْأَنْعَـٰمِ لَعِبْرَةً ۖ نُّسْقِيكُم مِّمَّا فِى بُطُونِهِۦ مِنۢ بَيْنِ فَرْثٍۢ وَدَمٍۢ لَّبَنًا خَالِصًۭا سَآئِغًۭا لِّلشَّـٰرِبِينَ ۝٦٦﴾ <span class="ayah-ref">سُورَةُ النَّحۡلِ</span></div>
     {: .quote }
-    > Nutrients from digested food are absorbed through the digestive system and transported through the bloodstream. The mammary glands then draw the substances needed for milk production from the blood and synthesize milk from them. The verse therefore places milk in relation to the two physiological systems involved in providing its raw materials: digestion and blood circulation.
+    > The verse places milk in relation to the two physiological systems that provide its raw materials: digestion and blood circulation. Nutrients from digested food are absorbed through the digestive system and transported through the bloodstream, and from the blood the mammary glands then draw the substances needed for milk production and synthesize milk from them.
     {: .gloss }
 
 <div class="read-more read-more--tail" markdown="1">
 
-1. **Gender of the worker honey bee:** the Qur'an addresses the bees that build homes, gather from fruits, and produce honey in the feminine.
+1. **Gender of the worker honey bee:** the Qur'an uses the feminine when addressing the bees that build homes, gather from fruits, and produce honey.
     > “And your Lord inspired to the bee, ‘Take for yourself among the mountains, houses, and among the trees and [in] that which they construct. Then eat from all the fruits and follow the ways of your Lord laid down [for you].’ There emerges from their bellies a drink, varying in colors, in which there is healing for people. Indeed in that is a sign for a people who give thought.” (**Sūrat al-Naḥl 16:68–69**), Saheeh International
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَأَوْحَىٰ رَبُّكَ إِلَى ٱلنَّحْلِ أَنِ ٱتَّخِذِى مِنَ ٱلْجِبَالِ بُيُوتًا وَمِنَ ٱلشَّجَرِ وَمِمَّا يَعْرِشُونَ ۝٦٨ ثُمَّ كُلِى مِن كُلِّ ٱلثَّمَرَٰتِ فَٱسْلُكِى سُبُلَ رَبِّكِ ذُلُلًا ۚ يَخْرُجُ مِنۢ بُطُونِهَا شَرَابٌ مُّخْتَلِفٌ أَلْوَٰنُهُۥ فِيهِ شِفَآءٌ لِّلنَّاسِ ۗ إِنَّ فِى ذَٰلِكَ لَـَٔايَةً لِّقَوْمٍ يَتَفَكَّرُونَ ۝٦٩﴾ <span class="ayah-ref">سُورَةُ النَّحۡلِ</span></div>
     {: .quote }
-    > English translations cannot show it, but every command addressed to the bee is is feminine: *ittakhidhī* (“take”), *kulī* (“eat”), and *fa-slukī* (“follow”). So is the pronoun in *buṭūnihā* (“their bellies”). The bees that build, forage, and make honey are the workers, and every worker bee is female.
+    > Though English translations cannot show it, every command the Qur'an addresses to the bee is feminine: *ittakhidhī* (“take”), *kulī* (“eat”), and *fa-slukī* (“follow”). So is the pronoun in *buṭūnihā* (“their bellies”). The bees that build, forage, and make honey are the workers, and every worker bee is female.
     {: .gloss }
-    > This is a genuine grammatical choice, not something Arabic forces automatically. The collective noun *al-naḥl* [bees] can take either masculine or feminine agreement in classical Arabic, yet the Qur'an consistently chooses the feminine forms in this passage. The grammar therefore matches the biology of the workers carrying out the actions described precisely.
+    > The feminine here is a genuine grammatical choice, not something Arabic forces automatically. In classical Arabic the collective noun *al-naḥl* [bees] can take either masculine or feminine agreement, yet the Qur'an consistently chooses the feminine forms in this passage. The grammar therefore matches precisely the biology of the workers that carry out the actions described.
     {: .gloss }
     > The same passage also says of honey that “in it is healing for people” (16:69). Honey is now used in modern wound care, and clinical research has documented its antibacterial and wound-healing properties. A 2026 systematic review of 22 randomized clinical trials found that honey dressings shortened healing across burns, ulcers, and surgical wounds, with particularly clear effects in burns and evidence of antibacterial activity.
     {: .gloss }
 
-1. **Ants communicating warnings through sound:** in the story of Solomon, the Qur'an describes an ant detecting approaching danger and communicating a warning to the other ants, causing them to retreat into their homes for protection.
+1. **Ants communicating warnings through sound:** the Qur'an, in the story of Solomon, describes an ant that detects approaching danger and warns the other ants, who retreat into their homes for protection.
     > “And when they came across a valley of ants, an ant warned, ‘O ants! Go quickly into your homes so Solomon and his armies do not crush you, unknowingly.’” (**Sūrat al-Naml 27:18**), Dr. Mustafa Khattab, *The Clear Quran*
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿حَتَّىٰٓ إِذَآ أَتَوْا۟ عَلَىٰ وَادِ ٱلنَّمْلِ قَالَتْ نَمْلَةٌۭ يَـٰٓأَيُّهَا ٱلنَّمْلُ ٱدْخُلُوا۟ مَسَـٰكِنَكُمْ لَا يَحْطِمَنَّكُمْ سُلَيْمَـٰنُ وَجُنُودُهُۥ وَهُمْ لَا يَشْعُرُونَ ۝١٨﴾ <span class="ayah-ref">سُورَةُ النَّمۡلِ</span></div>
     {: .quote }
-    > Ant communication was long understood primarily through chemical signals such as pheromones, while their acoustic communication was largely overlooked. Modern research has since established that ants also communicate **through sound and vibration**, producing stridulatory signals by rubbing parts of their bodies together. These signals carry meaningful information to other ants and are used in situations including **alarm, distress, and danger**.
+    > Ant communication was long understood primarily through chemical signals such as pheromones, while acoustic communication was largely overlooked. Modern research has since established that ants also communicate **through sound and vibration**, producing stridulatory signals by rubbing parts of their bodies together. These signals carry meaningful information to other ants and are used in situations including **alarm, distress, and danger**.
     {: .gloss }
-    > Particularly strikingly, researchers found that these sounds can function as an **“emergency beacon”** when an ant is threatened, calling other ants to its aid. Playback experiments showed that nestmates respond specifically to recorded ant sounds: they approach the source, become alert, investigate it with their antennae, guard it, and engage in protective behavior, while ordinary noise does not produce the same response. The Qur'an therefore describes a real feature of ant behavior with remarkable specificity: **an individual ant can communicate a warning of danger to other ants, including through sound, and cause them to take protective action.**
+    > Particularly striking, researchers found that when an ant is threatened, these sounds can function as an **“emergency beacon”**, calling other ants to its aid. In playback experiments, nestmates responded specifically to recorded ant sounds, approaching the source, becoming alert, investigating it with their antennae, guarding it, and engaging in protective behavior, whereas ordinary noise did not produce the same response. The Qur'an therefore describes a real feature of ant behavior with remarkable specificity: **an individual ant can communicate a warning of danger to other ants, including through sound, and cause them to take protective action.**
     {: .gloss }
     > Carrie Arnold, [“Shhh, the Ants Are Talking,” *Science* (2013)](https://www.science.org/content/article/shhh-ants-are-talking); F. Barbero et al., [“Myrmica Ants and Their Butterfly Parasites with Special Focus on the Acoustic Communication,” *Psyche* (2012)](https://doi.org/10.1155/2012/725237); Luca P. Casacci et al., [“Ant Pupae Employ Acoustics to Communicate Social Status in Their Colony's Hierarchy,” *Current Biology* 23 (2013), 323–327](https://doi.org/10.1016/j.cub.2013.01.010).
     {: .src }
 
-1. **Weight of clouds:** the Qur'an calls rain-bearing clouds heavy.
+1. **Weight of clouds:** the Qur'an describes rain-bearing clouds as heavy.
     > “He is the One Who shows you lightning, inspiring ˹you with˺ hope and fear, and produces heavy clouds.” (**Sūrat al-Raʿd 13:12**), Dr. Mustafa Khattab, *The Clear Quran*
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿هُوَ ٱلَّذِى يُرِيكُمُ ٱلْبَرْقَ خَوْفًا وَطَمَعًا وَيُنشِئُ ٱلسَّحَابَ ٱلثِّقَالَ ۝١٢﴾ <span class="ayah-ref">سُورَةُ الرَّعۡدِ</span></div>
     {: .quote }
-    > From the ground, clouds look light enough to float effortlessly across the sky. In reality, a large rain cloud contains an enormous mass of suspended water. Calling rain-bearing clouds *“heavy”* is therefore physically exact in a way that is not obvious from ordinary appearance—especially in the seventh-century Arabian setting in which the verse was first recited.
+    > The Qur'an's description of rain-bearing clouds as *“heavy”* is physically exact, though nothing in their appearance suggests it. From the ground, clouds look light enough to float effortlessly across the sky, yet a large rain cloud contains an enormous mass of suspended water—a fact far from obvious to the eye, least of all in the seventh-century Arabian setting in which the verse was first recited.
     {: .gloss }
 
-1. **Difficulty breathing at high altitude:** the Qur'an compares intense constriction of the chest to ascending into the sky.
+1. **Difficulty breathing at high altitude:** the Qur'an likens intense constriction of the chest to ascending into the sky.
     > “Whoever Allah wills to guide, He opens their heart to Islam. But whoever He wills to leave astray, He makes their chest tight and constricted as if they were climbing up into the sky.” (**Sūrat al-Anʿām 6:125**), Dr. Mustafa Khattab, *The Clear Quran*
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿فَمَن يُرِدِ ٱللَّهُ أَن يَهْدِيَهُۥ يَشْرَحْ صَدْرَهُۥ لِلْإِسْلَـٰمِ ۖ وَمَن يُرِدْ أَن يُضِلَّهُۥ يَجْعَلْ صَدْرَهُۥ ضَيِّقًا حَرَجًۭا كَأَنَّمَا يَصَّعَّدُ فِى ٱلسَّمَآءِ ۚ كَذَٰلِكَ يَجْعَلُ ٱللَّهُ ٱلرِّجْسَ عَلَى ٱلَّذِينَ لَا يُؤْمِنُونَ ۝١٢٥﴾ <span class="ayah-ref">سُورَةُ الأَنۡعَامِ</span></div>
     {: .quote }
-    > The comparison is physically exact. As a person climbs higher, atmospheric pressure falls and each breath supplies less oxygen, producing breathlessness, chest tightness, and increasing physiological distress. For people without aircraft, pressurized cabins, or modern knowledge of atmospheric pressure, the Qur'an's choice of *ascending into the sky* as the image for a chest becoming progressively tight is strikingly precise.
+    > The comparison is physically exact. As a person climbs higher, atmospheric pressure falls and each breath supplies less oxygen, bringing breathlessness, chest tightness, and mounting physiological distress. For people without aircraft, pressurized cabins, or modern knowledge of atmospheric pressure, the Qur'an's image for a chest growing progressively tight, *ascending into the sky*, is strikingly precise.
     {: .gloss }
 
-1. **Male and female from the emitted reproductive drop:** the Qur'an connects the creation of male and female specifically with the reproductive drop that is emitted.
+1. **Male and female from the emitted reproductive drop:** the Qur'an connects the creation of male and female specifically with the emitted reproductive drop.
     > “And He created the pairs—males and females—from a sperm-drop when it is emitted.” (**Sūrat al-Najm 53:45–46**), Dr. Mustafa Khattab, *The Clear Quran*
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَأَنَّهُۥ خَلَقَ ٱلزَّوْجَيْنِ ٱلذَّكَرَ وَٱلْأُنثَىٰ ۝٤٥ مِن نُّطْفَةٍ إِذَا تُمْنَىٰ ۝٤٦﴾ <span class="ayah-ref">سُورَةُ النَّجۡمِ</span></div>
     {: .quote }
-    > Modern genetics shows why the wording is significant. The egg contributes an X chromosome, while the fertilizing sperm carries either X or Y; the sperm from the **emitted reproductive fluid** therefore determines whether the embryo is chromosomally XX or XY. The Qur'an specifically connects the formation of male and female with the emitted drop, placing the determining contribution on the correct side of human reproduction centuries before chromosomes were known.
+    > The Qur'an specifically connects the formation of male and female with the emitted drop—wording whose significance modern genetics shows. The egg contributes an X chromosome, while the fertilizing sperm carries either X or Y; the sperm from the **emitted reproductive fluid** therefore determines whether the embryo is chromosomally XX or XY. The Qur'an places the determining contribution on the correct side of human reproduction—centuries before chromosomes were known.
     {: .gloss }
 
-1. **A boundary between fresh and salt water:** the Qur'an describes fresh and salt water meeting while a separating boundary remains between them.
+1. **A boundary between fresh and salt water:** the Qur'an describes fresh and salt water meeting, yet a boundary remains that keeps them apart.
     > “And He is the One Who merges the two bodies of water: one fresh and palatable and the other salty and bitter, placing between them a barrier they cannot cross.” (**Sūrat al-Furqān 25:53**), Dr. Mustafa Khattab, *The Clear Quran*
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿۞ وَهُوَ ٱلَّذِى مَرَجَ ٱلْبَحْرَيْنِ هَـٰذَا عَذْبٌۭ فُرَاتٌۭ وَهَـٰذَا مِلْحٌ أُجَاجٌۭ وَجَعَلَ بَيْنَهُمَا بَرْزَخًۭا وَحِجْرًۭا مَّحْجُورًۭا ۝٥٣﴾ <span class="ayah-ref">سُورَةُ الفُرۡقَانِ</span></div>
     {: .quote }
-    > This is seen where rivers meet the sea. Because fresh water and salt water differ in density, they do not immediately become one uniform body of water. In strongly stratified estuaries, fresh water can flow above denser salt water, producing distinct water masses separated by a pronounced interface while mixing occurs gradually between them.
+    > This is seen where rivers meet the sea. Fresh and salt water differ in density, so they do not immediately become one uniform body of water. In strongly stratified estuaries, fresh water can flow above denser salt water: the two mix gradually, yet remain distinct water masses separated by a pronounced interface.
     {: .gloss }
 
-1. **Formation of rain clouds:** It describes the ordered processes of rain, clouds, winds, and the revival of dead land.
+1. **Formation of rain clouds:** The Qur'an describes rain as an ordered sequence: winds, clouds, rainfall, and then the revival of dead land.
     > “Do you not see that Allah drives clouds? Then He brings them together, then He makes them into a mass, and you see the rain emerge from within it. And He sends down from the sky, mountains [of clouds] within which is hail, and He strikes with it whom He wills and averts it from whom He wills. The flash of its lightening almost takes away the eyesight.” (**Sūrat al-Nūr 24:43**), Saheeh International
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿أَلَمْ تَرَ أَنَّ ٱللَّهَ يُزْجِى سَحَابًا ثُمَّ يُؤَلِّفُ بَيْنَهُۥ ثُمَّ يَجْعَلُهُۥ رُكَامًا فَتَرَى ٱلْوَدْقَ يَخْرُجُ مِنْ خِلَـٰلِهِۦ وَيُنَزِّلُ مِنَ ٱلسَّمَآءِ مِن جِبَالٍ فِيهَا مِنۢ بَرَدٍ فَيُصِيبُ بِهِۦ مَن يَشَآءُ وَيَصْرِفُهُ عَن مَّن يَشَآءُ ۖ يَكَادُ سَنَا بَرْقِهِۦ يَذْهَبُ بِٱلْأَبْصَـٰرِ ۝٤٣﴾ <span class="ayah-ref">سُورَةُ النُّورِ</span></div>
@@ -846,7 +846,7 @@ It also describes features of the natural world with remarkable precision, inclu
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿ٱللَّهُ ٱلَّذِى يُرْسِلُ ٱلرِّيَـٰحَ فَتُثِيرُ سَحَابًا فَيَبْسُطُهُۥ فِى ٱلسَّمَآءِ كَيْفَ يَشَآءُ وَيَجْعَلُهُۥ كِسَفًا فَتَرَى ٱلْوَدْقَ يَخْرُجُ مِنْ خِلَـٰلِهِۦ ۖ فَإِذَآ أَصَابَ بِهِۦ مَن يَشَآءُ مِنْ عِبَادِهِۦٓ إِذَا هُمْ يَسْتَبْشِرُونَ ۝٤٨﴾ <span class="ayah-ref">سُورَةُ الرُّومِ</span></div>
     {: .quote }
-    > The verses describe the process in sequence: winds move the clouds, separate clouds are brought together and piled up, rain emerges from within them, and hail comes from great cloud masses.
+    > The verses set out the process in sequence: winds drive the clouds, separate clouds are joined and piled into heaps, rain emerges from within them, and hail falls from the great cloud masses.
     {: .gloss }
 
 1. **Fertilizing winds:** the Qur'an explicitly describes the winds as fertilizing.
@@ -854,23 +854,23 @@ It also describes features of the natural world with remarkable precision, inclu
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَأَرْسَلْنَا ٱلرِّيَـٰحَ لَوَٰقِحَ فَأَنزَلْنَا مِنَ ٱلسَّمَآءِ مَآءًۭ فَأَسْقَيْنَـٰكُمُوهُ وَمَآ أَنتُمْ لَهُۥ بِخَـٰزِنِينَ ۝٢٢﴾ <span class="ayah-ref">سُورَةُ الحِجۡرِ</span></div>
     {: .quote }
-    > Wind is an important agent of fertilization in the plant world. Wind-pollinated plants release pollen into the air so that it can be carried to receptive flowers. Winds also contribute to cloud and rainfall processes by transporting moisture and airborne particles involved in condensation.
+    > Wind fertilizes much of the plant world: wind-pollinated plants release their pollen into the air, and the wind carries it to receptive flowers. Winds also contribute to cloud and rainfall processes, transporting the moisture and airborne particles involved in condensation.
     {: .gloss }
 
-1. **Night wrapped around day:** the Qur'an describes the continual alternation of light and darkness using the language of wrapping one around the other.
+1. **Night wrapped around day:** the Qur'an describes the continual alternation of light and darkness in the language of wrapping, each wrapped around the other.
     > “He created the heavens and the earth for a purpose. He wraps the night around the day, and wraps the day around the night.” (**Sūrat al-Zumar 39:5**), Dr. Mustafa Khattab, *The Clear Quran*
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿خَلَقَ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضَ بِٱلْحَقِّ ۖ يُكَوِّرُ ٱلَّيْلَ عَلَى ٱلنَّهَارِ وَيُكَوِّرُ ٱلنَّهَارَ عَلَى ٱلَّيْلِ ۖ وَسَخَّرَ ٱلشَّمْسَ وَٱلْقَمَرَ ۖ كُلٌّۭ يَجْرِى لِأَجَلٍۢ مُّسَمًّى ۗ أَلَا هُوَ ٱلْعَزِيزُ ٱلْغَفَّـٰرُ ۝٥﴾ <span class="ayah-ref">سُورَةُ الزُّمَرِ</span></div>
     {: .quote }
-    > The verb *yukawwiru* means to wrap or wind something around something else. The description naturally fits a spherical rotating earth: one part of the globe faces the Sun while another is dark, and the curved boundary between the two continually moves around the earth as it rotates.
+    > The verb *yukawwiru* means to wrap or wind one thing around another. The description naturally fits a spherical, rotating earth: one part of the globe faces the Sun while another is dark, and as the earth rotates, the curved boundary between them moves continually around it.
     {: .gloss }
 
-1. **The sky as a protected covering:** the Qur'an describes the sky above the earth as a protected canopy.
+1. **The sky as a protected covering:** the Qur'an describes the sky above the earth as a canopy that is protected.
     > “And We have made the sky a well-protected canopy, still they turn away from its signs.” (**Sūrat al-Anbiyāʾ 21:32**), Dr. Mustafa Khattab, *The Clear Quran*
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَجَعَلْنَا ٱلسَّمَآءَ سَقْفًۭا مَّحْفُوظًۭا ۖ وَهُمْ عَنْ ءَايَـٰتِهَا مُعْرِضُونَ ۝٣٢﴾ <span class="ayah-ref">سُورَةُ الأَنبِيَاءِ</span></div>
     {: .quote }
-    > Earth's atmosphere performs several essential protective functions. It absorbs harmful solar radiation, including most dangerous ultraviolet radiation, moderates otherwise extreme temperatures, and causes most incoming meteoroids to burn up before reaching the ground.
+    > Earth's atmosphere performs several essential protective functions. It absorbs harmful solar radiation, including most dangerous ultraviolet rays, moderates temperatures that would otherwise be extreme, and burns up most incoming meteoroids before they reach the ground.
     {: .gloss }
 {: start="8"}
 
@@ -892,34 +892,34 @@ These patterns are especially remarkable in light of how the Qur'an was revealed
 1. **Adam and Jesus:** the Qur'an explicitly compares Jesus with Adam because both had miraculous births:
     > **“Indeed, the example of Jesus before God is like that of Adam.”** (3:59)
     >
-    > Across the entire Qur'an, the proper name **Adam occurs 25 times and Jesus occurs 25 times**. Even more strikingly, 3:59 is the **seventh occurrence of each name** from the beginning of the Qur'an—the very verse in which the text directly compares them.
+    > Across the entire Qur'an, the proper name **Adam occurs 25 times and Jesus occurs 25 times**. Even more strikingly, the **seventh occurrence of each name** from the beginning of the Qur'an falls in 3:59—the very verse that directly compares them.
     >
-    > This requires no grouping of synonyms or related words: it simply counts the two proper names whose relationship the Qur'an itself states.
+    > This count requires no grouping of synonyms or related words: it takes only the two proper names whose relationship the Qur'an itself states.
     {: .gloss }
 
-1. **This world and the Hereafter:** one of the Qur'an's central contrasts is between *dunyā* [this worldly life] and *ākhirah* [the Hereafter]. It repeatedly asks people not to sacrifice the lasting life to come for the temporary attractions of the present one.
+1. **This world and the Hereafter:** the Qur'an sets *dunyā* [this worldly life] against *ākhirah* [the Hereafter] as one of its central contrasts, repeatedly asking people not to sacrifice the lasting life to come for the temporary attractions of the present one.
     > *Dunyā* occurs **115 times**, and *ākhirah* also occurs **115 times**.
     >
-    > The equality is especially notable because these are not two concepts selected merely because their totals happen to match; the Qur'an itself repeatedly sets them against one another.
+    > The equality is especially notable because these two concepts were not selected merely because their totals happen to match; the Qur'an itself repeatedly sets them against one another.
     {: .gloss }
 
-1. **Angels and devils:** angels and devils represent opposing spiritual influences throughout the Qur'an. Counting the grammatical forms of the Arabic noun *malak* [angel] gives **88 occurrences**. Applying the same rule to *shayṭān* [Satan or devil] also gives **88 occurrences**.
-    > The same counting method is used on both sides: singular, dual, and plural forms of each noun are included, without adding synonyms or loosely related words.
+1. **Angels and devils:** the Qur'an presents angels and devils as opposing spiritual influences throughout, and names them equally often. Counting the grammatical forms of the Arabic noun *malak* [angel] gives **88 occurrences**, and the same rule applied to *shayṭān* [Satan or devil] also gives **88 occurrences**.
+    > Both counts use the same method: the singular, dual, and plural forms of each noun, without synonyms or loosely related words.
     {: .gloss }
 
 1. **Twelve months:** the Qur'an explicitly states:
     > **“Indeed, the number of months with God is twelve months.”** (9:36)
     >
-    > The singular Arabic form *shahr* [month] occurs **exactly twelve times** in the Qur'an.
+    > In the Qur'an, the singular Arabic form *shahr* [month] occurs **exactly twelve times**.
     >
-    > The count is specifically of the singular grammatical form. Separate dual and plural forms are not included, so the rule is defined independently of the desired total.
+    > The count takes only the singular grammatical form and excludes the separate dual and plural forms, so the rule is defined independently of the desired total.
     {: .gloss }
 
-1. **Seven heavens:** the Qur'an repeatedly speaks of **seven heavens**. The number seven is explicitly attached to the heavens in exactly **seven passages**: 2:29, 17:44, 23:86, 41:12, 65:12, 67:3, and 71:15.
-    > The wording varies grammatically between the passages, but in each case the text explicitly describes the heavens as seven.
+1. **Seven heavens:** the Qur'an repeatedly speaks of **seven heavens**, and it explicitly attaches the number seven to the heavens in exactly **seven passages**: 2:29, 17:44, 23:86, 41:12, 65:12, 67:3, and 71:15.
+    > Though the grammatical wording varies from passage to passage, each one explicitly describes the heavens as seven.
     {: .gloss }
 
-1. **The number 19:** one number receives unusually explicit attention in the Qur'an. Sūrat al-Muddaththir describes the guardians appointed over Hell and then states:
+1. **The number 19:** one number receives unusually explicit attention in the Qur'an, and the same number recurs in the Qur'an's structure. Sūrat al-Muddaththir describes the guardians appointed over Hell and then states:
     > **“Over it are nineteen.”** (74:30)
     >
     > The following verse explains that God appointed angels as the guardians and specifically made their number a **test**, so that the People of the Scripture may attain certainty, believers may increase in faith, and neither group may doubt (74:31). This makes 19 unusual among Qur'anic numbers: the text itself explicitly draws attention to the significance of the number.
@@ -927,7 +927,7 @@ These patterns are especially remarkable in light of how the Qur'an was revealed
     > A series of numerical relationships involving 19 then appears in the surrounding passage and elsewhere in the Qur'an:
     >
     > * From the beginning of Sūrat al-Muddaththir to the word **“nineteen”** in 74:30 are **95 words = 19 × 5**.
-    > * Counting the Arabic letters from the beginning of the chapter through the word **“nineteen”** gives **361 letters = 19 × 19**.
+    > * The Arabic letters from the beginning of the chapter through the word **“nineteen”** number **361 = 19 × 19**.
     > * The first **19 verses** of Sūrat al-Muddaththir contain **57 words = 19 × 3**.
     > * Verse 74:31—the very verse explaining why the number was appointed—also contains **57 words = 19 × 3**.
     > * The first passage revealed to Prophet Muhammad ﷺ is generally identified as the opening five verses of Sūrat al-ʿAlaq, 96:1–5. Those verses contain **19 words and 76 letters = 19 × 4**.
@@ -936,61 +936,61 @@ These patterns are especially remarkable in light of how the Qur'an was revealed
     > * Sūrat al-ʿAlaq is chapter 96 of 114, making it the **19th chapter when counted from the end** of the Qur'an.
     > * The complete Qur'an contains **114 chapters = 19 × 6**.
     > * The opening formula **“In the name of God, the Most Compassionate, the Most Merciful”** contains **19 written Arabic letters** and occurs **114 times = 19 × 6**.
-    > * Some Qur'anic chapters begin with isolated Arabic letters whose precise meaning is not explained in the text. These are recited as individual letter names rather than as ordinary words. Sūrat Maryam is itself **chapter 19** and begins with five such letters: *kāf-hā-yā-ʿayn-ṣād*. Those five letters occur **798 times = 19 × 42** throughout the chapter.
+    > * Some Qur'anic chapters begin with isolated Arabic letters, recited as individual letter names rather than as ordinary words, whose precise meaning the text does not explain. Sūrat Maryam is itself **chapter 19** and begins with five such letters: *kāf-hā-yā-ʿayn-ṣād*. Those five letters occur **798 times = 19 × 42** throughout the chapter.
     > * Seven consecutive chapters, 40–46, begin with the same isolated letters *Ḥā Mīm*. Across those seven chapters, the letters **ḥā and mīm occur 2,147 times = 19 × 113**.
     > * Only two chapters have the letter *qāf* among their isolated opening letters: Sūrat al-Shūrā (42) and Sūrat Qāf (50). Each contains **57 occurrences of qāf = 19 × 3**, giving **114 = 19 × 6** between them.
     >
     > What makes these relationships especially notable is that 19 is not merely a number selected afterward because some quantities happen to be divisible by it. The Qur'an itself singles the number out and immediately states that its appointment serves as a test connected with certainty, doubt, and increased faith. The same number then recurs in the structure surrounding that statement, the first revealed passage, the Qur'an's chapter count, its recurring opening formula, and chapters marked by particular isolated opening letters.
     {: .gloss }
 
-1. **The middle of Sūrat al-Baqarah:** Sūrat al-Baqarah is the Qur'an's longest chapter and contains **286 verses**. This divides exactly into two groups of **143 verses**.
+1. **The middle of Sūrat al-Baqarah:** Sūrat al-Baqarah, the Qur'an's longest chapter, contains **286 verses**, which divide exactly into two groups of **143 verses**.
     > At the dividing point, verse **143** describes the believers as an **“ummatan wasaṭan”**—a *middle*, balanced, or justly balanced community.
     >
-    > Verses 1–143 comprise the first 143 verses, while verses 144–286 comprise the remaining 143. The description of the Muslim community as “middle” therefore appears precisely at the numerical middle division of the Qur'an's longest chapter.
+    > Verses 1–143 form the first group of 143, and verses 144–286 the second. The Qur'an's longest chapter therefore describes the Muslim community as “middle” precisely at its own numerical middle division.
     {: .gloss }
 
 <div class="read-more read-more--tail" markdown="1">
 
-1. **The opening formula and the Qur'an's 114 chapters:** almost every Qur'anic chapter begins with the formula **“In the name of God, the Most Compassionate, the Most Merciful.”** This formula is commonly called the *basmalah*.
-    > It appears at the beginning of **113 of the Qur'an's 114 chapters**; chapter 9 is the sole exception. Chapter 27 then contains the complete formula once more within the text itself, in the letter sent by Solomon in verse 27:30. The formula therefore occurs **114 times in total—exactly matching the Qur'an's 114 chapters**.
+1. **The opening formula and the Qur'an's 114 chapters:** the Qur'an opens almost every chapter with the formula **“In the name of God, the Most Compassionate, the Most Merciful.”** This formula is commonly called the *basmalah*.
+    > It stands at the beginning of **113 of the Qur'an's 114 chapters**; chapter 9 is the sole exception. Chapter 27 then contains the complete formula once more within the text itself, in the letter sent by Solomon in verse 27:30. The formula therefore occurs **114 times in total—exactly matching the Qur'an's 114 chapters**.
     >
-    > There is also a connection with the number 19. In its standard written consonantal form, the formula contains **19 Arabic letters**, while **114 = 19 × 6**. The missing opening formula is in chapter 9 and the additional internal occurrence is in chapter 27; counting inclusively from chapter 9 through chapter 27 also gives **19 chapters**.
+    > The formula is also connected with the number 19. In its standard written consonantal form, it contains **19 Arabic letters**, while **114 = 19 × 6**. Counting inclusively from chapter 9, where the opening formula is missing, through chapter 27, where it occurs an additional time, also gives **19 chapters**.
     {: .gloss }
 
-1. **“Say” and “they said”:** a distinctive feature of the Qur'an is the repeated command *qul* [say], by which God instructs the Prophet Muhammad ﷺ how to answer questions, objections, or claims. The text also repeatedly introduces the speech of others with *qālū* [they said].
-    > The exact form *qul* occurs **332 times**, while the exact form *qālū* also occurs **332 times**.
+1. **“Say” and “they said”:** the Qur'an repeatedly issues the command *qul* [say], a distinctive feature by which God instructs the Prophet Muhammad ﷺ how to answer questions, objections, or claims. It also repeatedly introduces the speech of others with *qālū* [they said].
+    > The exact form *qul* occurs **332 times**, and the exact form *qālū* also occurs **332 times**.
     >
-    > These are two fixed grammatical forms of the same Arabic verb, *qāla* [to say]: one commands the Messenger to speak, while the other records what people said.
+    > Both are fixed grammatical forms of the same Arabic verb, *qāla* [to say]: one commands the Messenger to speak, while the other records what people said.
     {: .gloss }
 
-1. **Mercy and the Qur'an's 114 chapters:** the Qur'an contains **114 chapters**. The Arabic noun *raḥmah* [mercy] also occurs **114 times**.
-    > Mercy is one of the Qur'an's central descriptions of God's relationship with creation, making the correspondence especially fitting. It also connects with the Qur'an's recurring opening formula, which invokes God as **“the Most Compassionate, the Most Merciful.”**
+1. **Mercy and the Qur'an's 114 chapters:** the Qur'an contains **114 chapters**, and the Arabic noun *raḥmah* [mercy] likewise occurs **114 times**.
+    > The correspondence is especially fitting, since mercy is one of the Qur'an's central descriptions of God's relationship with creation. It also connects with the Qur'an's recurring opening formula, which invokes God as **“the Most Compassionate, the Most Merciful.”**
     {: .gloss }
 
-1. **The numerical center of Sūrat al-Ikhlāṣ:** Sūrat al-Ikhlāṣ is the short 112th chapter of the Qur'an, devoted entirely to God's absolute oneness and uniqueness:
+1. **The numerical center of Sūrat al-Ikhlāṣ:** Sūrat al-Ikhlāṣ, the Qur'an's short 112th chapter devoted entirely to God's absolute oneness and uniqueness, has its numerical center in its denial that God begets:
     > **“Say: He is God, One; God, the Eternal Refuge. He neither begets nor is born, and there is none comparable to Him.”**
     >
     > In its standard written form, the chapter contains **15 words and 47 letters**. Its eighth and exact middle word is *yalid* [begets], in the statement that God **“neither begets nor is born.”**
     >
-    > The seven words before *yalid* contain **22 letters**, while the seven words after it also contain **22 letters**, producing a **22 + 3 + 22** structure around the three-letter middle word.
+    > The seven words before *yalid* and the seven after it each contain **22 letters**, producing a **22 + 3 + 22** structure around the three-letter middle word.
     >
-    > With 47 letters in total, the chapter also has a single exact middle letter—the 24th—which is itself the middle letter of *yalid*. The numerical center of this chapter on God's absolute uniqueness therefore falls within its central denial that God begets.
+    > Its 47 letters also have a single exact middle letter—the 24th—which is itself the middle letter of *yalid*. The numerical center of this chapter on God's absolute uniqueness therefore falls within its central denial that God begets.
     {: .gloss }
 
-1. **Man and woman:** counting only the singular grammatical forms, *rajul* [man] occurs **24 times** and *imraʾah* [woman] also occurs **24 times**.
-    > The same grammatical rule is applied to both words. Dual and plural forms are separate forms and are not included.
+1. **Man and woman:** counting only the singular grammatical forms, the Qur'an uses *rajul* [man] **24 times** and *imraʾah* [woman] also **24 times**.
+    > The same grammatical rule is applied to both words: dual and plural forms are separate forms and are not included.
     {: .gloss }
 
 1. **Night and chapter 92:** Sūrat al-Layl, meaning **“The Night,”** is chapter **92** of the Qur'an and begins, **“By the night when it covers.”**
-    > Words from the Arabic root of *layl* [night] occur **92 times** throughout the Qur'an: 84 occurrences of *layl* [night] and eight of *laylah* [a night].
+    > Across the Qur'an, words from the Arabic root of *layl* [night] occur **92 times**: 84 occurrences of *layl* [night] and eight of *laylah* [a night].
     >
-    > The root associated with “night” therefore occurs the same number of times as the chapter number of the Qur'an's chapter entitled **The Night**.
+    > The root associated with “night” therefore occurs exactly as many times as the number of the chapter entitled **The Night**.
     {: .gloss }
 
-1. **Sickness and harm:** the Qur'an sometimes closely associates physical illness with harm or ailment. In 2:196, for example, it speaks of someone who is **“ill or has an ailment.”**
+1. **Sickness and harm:** the Qur'an sometimes closely associates physical illness with harm or ailment, as in 2:196, where it speaks of someone who is **“ill or has an ailment.”**
     > The Arabic root *m-r-ḍ*, associated with illness or sickness, occurs **24 times**. The root *ʾ-dh-y*, associated with harm, trouble, or ailment, also occurs **24 times**.
     >
-    > In both cases the complete root is counted rather than selecting particular grammatical forms.
+    > Both counts take the complete root rather than selecting particular grammatical forms.
     {: .gloss }
 {: start="8"}
 </div>
@@ -1004,8 +1004,8 @@ Their significance is therefore not that any matching count by itself proves div
 
 The Qur'an's preservation is one of the most remarkable features of its history: it was transmitted simultaneously through writing, memorization, public recitation, and teacher-to-student instruction from the earliest Muslim community onward.
 
-1. The Qur'an has been perfectly preserved for over fourteen centuries through several mutually reinforcing channels: very early written witnesses, an extraordinarily early standardized consonantal text, inherited recitation traditions, mass memorization, public liturgical use, and continuous copying in the original language.
-    > These overlapping channels form an unusually powerful preservation system. The same text was simultaneously recited, memorized, taught, written, copied, and heard publicly across expanding Muslim communities, making alteration extraordinarily difficult and preserving the Qur'an in the language in which it was revealed.
+1. The Qur'an has been perfectly preserved for over fourteen centuries through several channels that reinforce one another: very early written witnesses, an extraordinarily early standardized consonantal text, inherited recitation traditions, mass memorization, public liturgical use, and continuous copying in the original language.
+    > These overlapping channels form an unusually powerful preservation system. Across expanding Muslim communities, the same text was simultaneously recited, memorized, taught, written, copied, and heard publicly, making alteration extraordinarily difficult and preserving the Qur'an in the language in which it was revealed.
     {: .gloss }
     > No other book or scripture of comparable age and significance has been similarly preserved. Other ancient works generally survive through textual loss, variant versions, or translations—which are inherently interpretations—that stand between the reader and the original text.
     {: .gloss }
@@ -1017,38 +1017,38 @@ The Qur'an's preservation is one of the most remarkable features of its history:
 
     {% include yt-embed.html url="https://youtu.be/WL2hDhkYoao" title="The Book Without Doubt - Preservation of the Quran" %}
 
-1. **The surviving physical record begins extraordinarily early.** The Birmingham folios contain parts of chapters 18–20 in an early Hijazi script; their parchment was radiocarbon dated to 568–645 CE with 95.4% probability, placing this witness within the earliest material horizon of the Qur'an.
+1. **The surviving physical record begins extraordinarily early.** The Birmingham folios contain parts of chapters 18–20 in an early Hijazi script. Their parchment was radiocarbon dated to 568–645 CE with 95.4% probability, placing this witness within the earliest period of the Qur'an's physical record.
     > University of Birmingham, [“Birmingham Qur'an Manuscript — Frequently Asked Questions”](https://www.birmingham.ac.uk/facilities/cadbury/birmingham-quran-mingana-collection/birmingham-quran/faqs).
     {: .src }
 
-1. **Shared spelling peculiarities point to a common written archetype.** Marijn van Putten compared early Qur'an manuscripts and found idiosyncratic spellings recurring in the same locations across manuscripts. Because these spellings often make no difference in meaning, independent scribes would not be expected repeatedly to make the same arbitrary choice in the same place or recreate it independently from fresh oral dictation. The pattern strongly points to descent from a single written exemplar.
-    > Van Putten concludes that the early manuscripts he studied descend from a single written archetype and that their date is consistent with the traditional attribution of the standardization to the caliph ʿUthmān ibn ʿAffān. This is materially stronger than the mere existence of an old manuscript: genealogy is being inferred from shared scribal fingerprints.
+1. **Early Qur'an manuscripts share spelling peculiarities that point to a common written archetype.** Comparing them, Marijn van Putten found idiosyncratic spellings recurring in the same locations across manuscripts. Because these spellings often make no difference in meaning, independent scribes would not be expected repeatedly to make the same arbitrary choice in the same place or recreate it from fresh oral dictation. The pattern strongly points to descent from a single written exemplar.
+    > Van Putten concludes that the early manuscripts he studied descend from a single written archetype and that their date is consistent with the traditional attribution of the standardization to the caliph ʿUthmān ibn ʿAffān. This is materially stronger than the mere existence of an old manuscript: genealogy is inferred from shared scribal fingerprints.
     {: .gloss }
     > Marijn van Putten, [“‘The Grace of God’ as evidence for a written Uthmanic archetype: the importance of shared orthographic idiosyncrasies”](https://doi.org/10.1017/S0041977X19000338), *Bulletin of the School of Oriental and African Studies* 82.2 (2019), 271–288.
     {: .src }
 
-1. **Manuscript stemmatics independently recovers the early regional codices described in Muslim sources.** Hythem Sidky combined philological, manuscript, and phylogenetic analysis and reconstructed four ancestral regional exemplars behind the manuscripts he examined, providing material evidence for the historicity of an early standardization and distribution of regional codices.
-    > This provides independent material confirmation of the early Muslim reports: surviving manuscripts themselves reproduce a family pattern that substantially overlaps the reported distribution of regional exemplars.
+1. **The Qur'an's manuscript family tree independently recovers the early regional codices described in Muslim sources.** Combining philological, manuscript, and phylogenetic analysis, Hythem Sidky reconstructed four ancestral regional exemplars behind the manuscripts he examined, providing material evidence for the historicity of an early standardization and distribution of regional codices.
+    > The early Muslim reports thus receive independent material confirmation: the surviving manuscripts themselves reproduce a family pattern that substantially overlaps the reported distribution of regional exemplars.
     {: .gloss }
     > Hythem Sidky, [“On the Regionality of Qurʾānic Codices”](https://doi.org/10.5913/jiqsa.5.2020.a005), *Journal of the International Qur'anic Studies Association* 5.1 (2020), 133–210.
     {: .src }
 
-1. **Early public inscriptions provide an independent early witness outside bound manuscripts.** The Dome of the Rock in Jerusalem, completed in 72 AH / 691–692 CE, carries a long program of Qur'anic and closely Qur'anic inscriptions. By the end of the seventh century, Qur'anic language was therefore already sufficiently fixed and publicly recognizable to be monumentalized on one of the earliest major Islamic buildings.
+1. **The Qur'an has an early witness in public inscriptions, independent of bound manuscripts.** The Dome of the Rock in Jerusalem, completed in 72 AH / 691–692 CE, carries a long program of Qur'anic and closely Qur'anic inscriptions. By the end of the seventh century, Qur'anic language was therefore already fixed and publicly recognizable enough to be monumentalized on one of the earliest major Islamic buildings.
     > Sheila Blair and Jonathan Bloom, ["Inscriptions in art and architecture," *The Cambridge Companion to the Qur'an*](https://www.cambridge.org/core/books/abs/cambridge-companion-to-the-quran/inscriptions-in-art-and-architecture/8B94B2FEC63E14A8447547668BCE0FED).
     {: .src }
 
-1. **The canonical reading traditions preserve evidence of inherited oral transmission.** Study of consonantal dotting patterns reveals independent Medinan, Meccan-Basran, and Kufan regional reading traditions, pointing to living oral lineages reaching back to the earliest generations.
-    > The written manuscripts and the inherited recitations preserve two converging lines of transmission: manuscripts retain a recoverable written genealogy, while features of the recitations retain distinct regional oral lineages. Together they show that the Qur'an was transmitted through both writing and living recitation from the earliest period.
+1. **The canonical reading traditions of the Qur'an preserve evidence of inherited oral transmission.** Study of how these readings dot the consonants reveals independent Medinan, Meccan-Basran, and Kufan regional traditions, pointing to living oral lineages that reach back to the earliest generations.
+    > The written manuscripts and the inherited recitations are two converging lines of transmission: the manuscripts retain a recoverable written genealogy, while features of the recitations retain distinct regional oral lineages. Together they show that from the earliest period the Qur'an was transmitted through both writing and living recitation.
     {: .gloss }
     > Hythem Sidky, [“Consonantal Dotting and the Oral Quran”](https://doi.org/10.7817/jaos.143.4.2023.ar029), *Journal of the American Oriental Society* 143.4 (2023), 785–814.
     {: .src }
 
-1. **Mass memorization adds another layer of redundancy.** Complete memorization of the Qur'an has remained a major religious institution across Muslim societies ever since its revelation. Recitation is checked teacher-to-student, heard publicly in worship, compared against written copies, and reproduced across geographically separated communities.
+1. **Mass memorization adds another layer of redundancy.** Ever since the Qur'an's revelation, memorizing it in full has remained a major religious institution across Muslim societies. Recitation is checked teacher-to-student, heard publicly in worship, compared against written copies, and reproduced across geographically separated communities.
     > Daily liturgical recitation, complete memorization, public correction, and written codices provide overlapping channels through which one mode of transmission can check another.
     {: .gloss }
 
-1. The Qur'an is extraordinarily easy to memorize on a mass scale. Memorizing the entire 600+ page text is a goal every Muslim strives toward. Today, millions of people have it memorized cover to cover, including people whose first language is not Arabic.
-    > The majority of people who fully memorize the Qur'an are not native Arabic speakers; in fact, Arabic is not the first language of around 80% of Muslims today.
+1. The Qur'an is extraordinarily easy to memorize on a mass scale. Memorizing the entire 600+ page text is a goal every Muslim strives toward, and today millions of people have it memorized cover to cover, including people whose first language is not Arabic.
+    > Most people who fully memorize the Qur'an are not native Arabic speakers; in fact, Arabic is not the first language of around 80% of Muslims today.
     {: .gloss }
     {% include yt-embed.html url="https://youtu.be/s3WIOc2fHc0" title="MIRACLE OF QURAN MEMORIZATION" %}
 
@@ -1089,15 +1089,15 @@ The readings preserve a defined body of transmitted variation whose wording and 
 #### Early variants and standardization
 {: #difficult-textual-evidence }
 
-1. **The Ṣanʿāʾ palimpsest preserves an early textual variant.** A palimpsest is parchment whose earlier writing was erased and written over. Its upper text follows the standard Qur'anic text; the lower text includes differences in wording, additions, omissions, and arrangement. Behnam Sadeghi and Mohsen Goudarzi interpret it as an early nonstandard textual tradition. Asma Hilali offers a different account of its production and use, and some readings of the damaged undertext remain disputed. [Sadeghi and Goudarzi, “Ṣanʿāʾ 1 and the Origins of the Qur'ān”](https://doi.org/10.1515/islam-2011-0025); [Hilali, *The Sanaa Palimpsest*](https://www.iis.ac.uk/publications-listing/the-sanaa-palimpsest/).
+1. **The Ṣanʿāʾ palimpsest preserves an early textual variant.** A palimpsest is parchment whose earlier writing was erased and written over. Its upper text follows the standard Qur'anic text, while the lower text differs in wording, additions, omissions, and arrangement. Behnam Sadeghi and Mohsen Goudarzi interpret it as an early nonstandard textual tradition. Asma Hilali offers a different account of its production and use, and some readings of the damaged undertext remain disputed. [Sadeghi and Goudarzi, “Ṣanʿāʾ 1 and the Origins of the Qur'ān”](https://doi.org/10.1515/islam-2011-0025); [Hilali, *The Sanaa Palimpsest*](https://www.iis.ac.uk/publications-listing/the-sanaa-palimpsest/).
 
-   The manuscript places recognizable Qur'anic material near Islam's beginnings and documents early variation in wording. Its significance concerns the date, extent, and transmission of those differences. It rules out the claim that every early copy had identical wording while providing early evidence against theories of a Qur'an first assembled centuries later.
+   The manuscript places recognizable Qur'anic material near Islam's beginnings and documents early variation in wording. Its significance concerns the date, extent, and transmission of those differences: it rules out the claim that every early copy had identical wording, while providing early evidence against theories of a Qur'an first assembled centuries later.
 
-1. **Reports of Companion collections preserve evidence of early variation.** Muslim sources describe differences in order and wording in collections associated with Ibn Masʿūd, Ubayy ibn Kaʿb, and others. They also report questions about the opening and final refuge chapters in Ibn Masʿūd's collection and supplicatory texts in Ubayy's. These are reports about collections, rather than surviving copies in the Companions' own hands. Their reliability and the status of notes or prayers require individual assessment. Sadeghi and Goudarzi compare reported Companion variants with the Ṣanʿāʾ evidence. [Their study](https://doi.org/10.1515/islam-2011-0025).
+1. **Reports of Companion collections preserve evidence of early variation.** Muslim sources describe collections associated with Ibn Masʿūd, Ubayy ibn Kaʿb, and others that differed in order and wording. They also report questions about the opening and final refuge chapters in Ibn Masʿūd's collection and supplicatory texts in Ubayy's. These are reports about collections, rather than surviving copies in the Companions' own hands, so their reliability and the status of notes or prayers require individual assessment. Sadeghi and Goudarzi compare reported Companion variants with the Ṣanʿāʾ evidence. [Their study](https://doi.org/10.1515/islam-2011-0025).
 
-1. **ʿUthmān's standardization established common written copies.** The traditional account describes a commission to prepare standard copies and an order to destroy other written materials amid disagreements over recitation. This was an early intervention to establish a shared written standard, followed by its widespread transmission. [Sahih al-Bukhari 4987](https://sunnah.com/bukhari:4987).
+1. **ʿUthmān's standardization established common written copies.** The traditional account describes how, amid disagreements over recitation, a commission was appointed to prepare standard copies and other written materials were ordered destroyed. This was an early intervention to establish a shared written standard, which was then widely transmitted. [Sahih al-Bukhari 4987](https://sunnah.com/bukhari:4987).
 
-1. **Manuscript dates draw on several kinds of evidence.** Radiocarbon testing of the Birmingham fragments dates the animal skin. Dating the writing also requires attention to script, layout, and textual relationships. Each fragment directly attests the passages it contains. [University of Birmingham, manuscript FAQ](https://www.birmingham.ac.uk/facilities/cadbury/birmingham-quran-mingana-collection/birmingham-quran/faqs).
+1. **Manuscript dates draw on several kinds of evidence.** Radiocarbon testing of the Birmingham fragments dates the animal skin; dating the writing also requires attention to script, layout, and textual relationships. Each fragment directly attests the passages it contains. [University of Birmingham, manuscript FAQ](https://www.birmingham.ac.uk/facilities/cadbury/birmingham-quran-mingana-collection/birmingham-quran/faqs).
 
 The evidence supports an exceptionally early standard text, transmitted with remarkable stability alongside defined reading traditions. Early variants and the history of standardization belong within that account of preservation.
 
@@ -1136,23 +1136,23 @@ Recitation, memorization, grammar, commentary, and dictionaries have also sustai
 
 The Qur'an contains bold predictions made in circumstances where their fulfillment was far from guaranteed.
 
-1. The Qur'an declares itself the final revelation from God to humanity and Prophet Muhammad ﷺ the seal and last of the prophets—a standing claim of finality that has remained intact across fourteen centuries.
+1. The Qur'an declares itself God's final revelation to humanity and Prophet Muhammad ﷺ the seal and last of the prophets—a standing claim of finality that has remained intact across fourteen centuries.
     > "Muḥammad is not the father of [any] one of your men, but [he is] the Messenger of Allāh and seal [i.e., last] of the prophets. And ever is Allāh, of all things, Knowing." (**Sūrat al-Aḥzāb 33:40**), Saheeh International
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿مَّا كَانَ مُحَمَّدٌ أَبَآ أَحَدٍ مِّن رِّجَالِكُمْ وَلَـٰكِن رَّسُولَ ٱللَّهِ وَخَاتَمَ ٱلنَّبِيِّـۧنَ ۗ وَكَانَ ٱللَّهُ بِكُلِّ شَىْءٍ عَلِيمًا ۝٤٠﴾ <span class="ayah-ref">سُورَةُ الأَحۡزَابِ</span></div>
     {: .quote }
-    > Later centuries have produced several religious movements, but none rests on a similar combination of claims and evidence: including a miracle that rivals the Qur'an and the unmatched character and teachings of Prophet Muhammad ﷺ; nor has any later prophetic claimant achieved a comparable reach, historical effect, or transformative influence.
+    > Later centuries have produced several religious movements, but none rests on a similar combination of claims and evidence: no miracle to rival the Qur'an, no equal to the unmatched character and teachings of Prophet Muhammad ﷺ. Nor has any later prophetic claimant achieved comparable reach, historical effect, or transformative influence.
     {: .gloss }
 
-1. It foretells the future spread of the message while its followers were still in a single city in the desert of Arabia fighting against their persecution.
+1. The Qur'an foretold the spread of its message while its followers were still in a single city in the Arabian desert, fighting against their persecution.
     > "He is the One Who has sent His Messenger with ˹right˺ guidance and the religion of truth, making it prevail over all others. And sufficient is Allah as a Witness." (**Sūrat al-Fatḥ 48:28**), Dr. Mustafa Khattab, *The Clear Quran*
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿هُوَ ٱلَّذِىٓ أَرْسَلَ رَسُولَهُۥ بِٱلْهُدَىٰ وَدِينِ ٱلْحَقِّ لِيُظْهِرَهُۥ عَلَى ٱلدِّينِ كُلِّهِۦ ۚ وَكَفَىٰ بِٱللَّهِ شَهِيدًا ۝٢٨﴾ <span class="ayah-ref">سُورَةُ الفَتۡحِ</span></div>
     {: .quote }
-    > Beginning with a small group of believers in seventh-century Arabia, Islam spread with extraordinary speed, reaching vast regions of the Middle East, Africa, Asia, and beyond within its first few centuries. Today it is the world’s second-largest religion, with around 2 billion followers.
+    > Islam began with a small group of believers in seventh-century Arabia and spread with extraordinary speed, reaching vast regions of the Middle East, Africa, Asia, and beyond within its first few centuries. Today it is the world’s second-largest religion, with around 2 billion followers.
     {: .gloss }
 
-1. It prophesies its own preservation and states that God Himself will guard it. As shown above, the Qur'an has indeed been perfectly preserved in an extraordinary manner across fourteen centuries.
+1. It prophesies its own preservation, stating that God Himself will guard it. As shown above, the Qur'an has indeed been preserved perfectly, and in an extraordinary manner, across fourteen centuries.
     > "Indeed, it is We who sent down the message [i.e., the Qur’ān], and indeed, We will be its guardian." (**Sūrat al-Ḥijr 15:9**), Saheeh International
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿إِنَّا نَحْنُ نَزَّلْنَا ٱلذِّكْرَ وَإِنَّا لَهُۥ لَحَـٰفِظُونَ ۝٩﴾ <span class="ayah-ref">سُورَةُ الحِجۡرِ</span></div>
@@ -1171,12 +1171,12 @@ The Qur'an contains bold predictions made in circumstances where their fulfillme
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَلَقَدْ يَسَّرْنَا ٱلْقُرْءَانَ لِلذِّكْرِ فَهَلْ مِن مُّدَّكِرٍ ۝١٧﴾ <span class="ayah-ref">سُورَةُ القَمَرِ</span></div>
     {: .quote }
-    > Consider the difficulty of memorizing a 600+ page book in a second or third language. Normally, few people would be capable of such a feat, let alone millions.
+    > Memorizing a 600+ page book in a second or third language is a feat few people would normally be capable of, let alone millions.
     {: .gloss }
 
 It contains further fulfilled predictions concerning identifiable people and events.
 
-1. **The Roman recovery:** after the Romans suffered a devastating defeat, the Qur'an declared that they would in turn be victorious within *biḍʿ sinīn* [three to nine years]. The Byzantine-Sasanian war is independently documented. After catastrophic Byzantine losses, including Jerusalem in 614, Emperor Heraclius opened his counter-offensive in 622 and defeated a Persian army in Asia Minor that year, eight years after Jerusalem fell. The turning point came within the stated period, and by 628 Persia had been forced to terms.
+1. **The Roman recovery:** the Qur'an declared that the Romans, after suffering a devastating defeat, would in turn be victorious within *biḍʿ sinīn* [three to nine years]. The Byzantine-Sasanian war is independently documented. After catastrophic Byzantine losses, including Jerusalem in 614, Emperor Heraclius opened his counter-offensive in 622 and defeated a Persian army in Asia Minor that same year, eight years after Jerusalem fell. The turning point came within the stated period, and by 628 Persia had been forced to terms.
     > "The Romans have been defeated in a nearby land. Yet following their defeat, they will triumph within three to nine years. The ˹whole˺ matter rests with Allah before and after ˹victory˺. And on that day the believers will rejoice." (**Sūrat al-Rūm 30:2–4**), Dr. Mustafa Khattab, *The Clear Quran*
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿غُلِبَتِ ٱلرُّومُ ۝٢ فِىٓ أَدْنَى ٱلْأَرْضِ وَهُم مِّنۢ بَعْدِ غَلَبِهِمْ سَيَغْلِبُونَ ۝٣ فِى بِضْعِ سِنِينَ ۗ لِلَّهِ ٱلْأَمْرُ مِن قَبْلُ وَمِنۢ بَعْدُ ۚ وَيَوْمَئِذٍۢ يَفْرَحُ ٱلْمُؤْمِنُونَ ۝٤﴾ <span class="ayah-ref">سُورَةُ الرُّومِ</span></div>
@@ -1184,17 +1184,17 @@ It contains further fulfilled predictions concerning identifiable people and eve
     > For the independently documented Byzantine recovery, see Walter E. Kaegi, [*Byzantium and the Early Islamic Conquests*, ch. 2](https://www.cambridge.org/core/books/abs/byzantium-and-the-early-islamic-conquests/byzantine-empire-in-an-era-of-accelerating-change/326C4AD3819C9BA745C546C04DD47970), and N. Oikonomidès, ["A Chronological Note on the First Persian Campaign of Heraclius (622)"](https://www.cambridge.org/core/journals/byzantine-and-modern-greek-studies/article/abs/chronological-note-on-the-first-persian-campaign-of-heraclius-622/F7221BA792928B16279D235B3EE4638D).
     {: .src }
 
-1. **The fate of Abū Lahab:** Sūrat al-Masad condemned one of the Prophet's fiercest enemies while he was still alive and publicly opposing him. He had years in which an outward profession of faith could have been used to mock the revelation's claim, yet he died as an enemy of Islam exactly as the chapter declared.
+1. **The fate of Abū Lahab:** Sūrat al-Masad condemned Abū Lahab, one of the Prophet's fiercest enemies, while he was still alive and publicly opposing him. He had years in which an outward profession of faith could have been used to mock the revelation's claim, yet he died exactly as the chapter declared: an enemy of Islam.
 
-1. **Safe entry into the Sacred Mosque:** after the Muslims traveled toward Mecca for pilgrimage and were prevented from entering, the Qur'an stated that the Prophet's ﷺ vision would be fulfilled and that the believers would enter the Sacred Mosque securely, with heads shaved or hair shortened as part of the pilgrimage rites. They returned and performed the pilgrimage the following year.
+1. **Safe entry into the Sacred Mosque:** the Qur'an stated that the Prophet's ﷺ vision would be fulfilled and that the believers would enter the Sacred Mosque securely, with heads shaved or hair shortened as part of the pilgrimage rites. It stated this after the Muslims had traveled toward Mecca for pilgrimage and been prevented from entering. The following year they returned and performed the pilgrimage.
     > “Indeed, Allah will fulfil His Messenger's vision in all truth: Allah willing, you will surely enter the Sacred Mosque, in security...” (**Sūrat al-Fatḥ 48:27**), Dr. Mustafa Khattab, *The Clear Quran*
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿لَّقَدْ صَدَقَ ٱللَّهُ رَسُولَهُ ٱلرُّءْيَا بِٱلْحَقِّ ۖ لَتَدْخُلُنَّ ٱلْمَسْجِدَ ٱلْحَرَامَ إِن شَآءَ ٱللَّهُ ءَامِنِينَ﴾ <span class="ayah-ref">[سُورَةُ الفَتۡحِ: ٢٧]</span></div>
     {: .quote }
-    > It was fulfilled the following year when the Muslims entered Mecca and completed the pilgrimage rites in security.
+    > The following year it was fulfilled: the Muslims entered Mecca and completed the pilgrimage rites in security.
     {: .gloss }
 
-1. **The treaty of Ḥudaybiyyah was called a "clear victory" before its consequences were obvious.** The treaty initially appeared disappointing to many Muslims because they had come intending pilgrimage and accepted terms they found difficult. The Qur'an nonetheless opened Sūrat al-Fatḥ by calling the outcome a clear victory. The treaty's subsequent consequences strongly favored the Muslim community.
+1. **The treaty of Ḥudaybiyyah was called a "clear victory" before its consequences were obvious.** The Qur'an opened Sūrat al-Fatḥ by calling the outcome a clear victory, even though the treaty initially appeared disappointing to many Muslims, who had come intending pilgrimage and accepted terms they found difficult. The treaty's subsequent consequences strongly favored the Muslim community.
 
 {% include yt-embed.html url="https://youtu.be/xZIqd_-1Zus" title="Mind Blowing Prophecies of Muhammad | Part 1" %}
 
@@ -1214,9 +1214,9 @@ The Qur'an gives a coherent account of God and humanity's relationship with Him.
 
 <div class="read-more" markdown="1">
 
-1. **God is One and independent of creation.** Chapter 112 affirms His oneness and excludes offspring, ancestry, and equals. The Throne Verse brings together His life, sustaining power, knowledge, sovereignty, and freedom from weariness (2:255). Human beings depend on God; He is free of any need for their worship or provision (35:15; 51:56–58). Worship is therefore directed to the Creator upon whom everything depends. [Qur'an 112](https://quran.com/112), [2:255](https://quran.com/2:255), and [35:15](https://quran.com/35:15).
+1. **God is One and independent of creation.** Chapter 112 affirms His oneness and excludes offspring, ancestry, and equals. The Throne Verse brings together His life, sustaining power, knowledge, sovereignty, and freedom from weariness (2:255). Human beings depend on God, yet He has no need of their worship or provision (35:15; 51:56–58). Worship is therefore directed to the Creator upon whom everything depends. [Qur'an 112](https://quran.com/112), [2:255](https://quran.com/2:255), and [35:15](https://quran.com/35:15).
 
-1. **His power is joined to knowledge, mercy, and justice.** God knows what is hidden and what is open, and governs with wisdom. His mercy encompasses all things (7:156), and He wrongs no one even by an atom's weight (4:40). His warnings against wrongdoing accompany repeated invitations to repent. These attributes explain both human accountability and the continuing possibility of forgiveness. [Qur'an 59:22–24](https://quran.com/59:22-24), [4:40](https://quran.com/4:40), and [39:53–54](https://quran.com/39:53-54).
+1. **His power is joined to knowledge, mercy, and justice.** God knows what is hidden and what is open, and governs with wisdom. His mercy encompasses all things (7:156), and He wrongs no one even by an atom's weight (4:40). His warnings against wrongdoing come with repeated invitations to repent. These attributes explain both human accountability and the continuing possibility of forgiveness. [Qur'an 59:22–24](https://quran.com/59:22-24), [4:40](https://quran.com/4:40), and [39:53–54](https://quran.com/39:53-54).
 
 </div>
 
@@ -1268,11 +1268,11 @@ This purpose gives ordinary choices lasting importance: how we treat parents, ha
 
 <div class="read-more" markdown="1">
 
-1. **Life tests people through ease and hardship.** Both are described as trials (21:35). Chapter 89 rejects the assumption that wealth proves God's approval or poverty His contempt. It directs attention to how people treat orphans and the poor. [Qur'an 21:35](https://quran.com/21:35) and [89:15–20](https://quran.com/89:15-20).
+1. **Life tests people through ease and hardship.** The Qur'an describes both as trials (21:35). Chapter 89 rejects the assumption that wealth proves God's approval or poverty His contempt, directing attention to how people treat orphans and the poor. [Qur'an 21:35](https://quran.com/21:35) and [89:15–20](https://quran.com/89:15-20).
 
-1. **Human knowledge is limited.** What we dislike may bring good, and what we desire may bring harm (2:216). This calls for humility about purposes we cannot fully see. The Qur'an also identifies suffering caused by human wrongdoing and commands action against injustice. [Qur'an 2:216](https://quran.com/2:216), [30:41](https://quran.com/30:41), and [4:75](https://quran.com/4:75).
+1. **Human knowledge is limited.** What we dislike may bring good, and what we desire may bring harm (2:216), which calls for humility about purposes we cannot fully see. The Qur'an also identifies suffering caused by human wrongdoing and commands action against injustice. [Qur'an 2:216](https://quran.com/2:216), [30:41](https://quran.com/30:41), and [4:75](https://quran.com/4:75).
 
-1. **Justice is completed beyond this life.** God knows the conduct of oppressors and promises exact judgment (14:42; 21:47). He promises reward for patience and an enduring life free of grief for those received into His mercy (39:10; 35:34–35). The afterlife completes the justice that earthly life often leaves unfinished. [Qur'an 14:42](https://quran.com/14:42), [21:47](https://quran.com/21:47), [39:10](https://quran.com/39:10), and [35:34–35](https://quran.com/35:34-35).
+1. **Justice is completed beyond this life.** The afterlife completes the justice that earthly life often leaves unfinished. God knows the conduct of oppressors and promises exact judgment (14:42; 21:47). He promises reward for patience, and for those received into His mercy an enduring life free of grief (39:10; 35:34–35). [Qur'an 14:42](https://quran.com/14:42), [21:47](https://quran.com/21:47), [39:10](https://quran.com/39:10), and [35:34–35](https://quran.com/35:34-35).
 
 These teachings connect patience and hope with the duty to relieve suffering and resist injustice. Trust in God's wisdom accompanies responsibility for what we can do.
 
@@ -1281,35 +1281,35 @@ These teachings connect patience and hope with the duty to relieve suffering and
 ### <span class="num-roman">XI.</span> Guidance, Law, and Morality
 {: #guidance-law-and-morality }
 
-1. The Qur'an presents itself as coming from the same Divine Author as the earlier scriptures: confirming their original teaching, expanding their guidance, and restoring what was altered over time.
-    > Note: "Allah" is the Arabic word for God, not the name of a different deity. Arabic-speaking Christians and Jews use "Allah" in their own speech, scriptures and worship. It also shares a root with the Hebrew *Elohim* and Aramaic *Alaha*, which Jesus himself would have used.
+1. The Qur'an presents itself as coming from the same Divine Author as the earlier scriptures: it confirms their original teaching, expands their guidance, and restores what was altered over time.
+    > Note: "Allah" is the Arabic word for God, not the name of a different deity. Arabic-speaking Christians and Jews use "Allah" in their own speech, scriptures and worship. The word also shares a root with the Hebrew *Elohim* and Aramaic *Alaha*, which Jesus himself would have used.
     {: .gloss }
 
-1. The Qur'an repeatedly presents mercy as a defining attribute of God. Every chapter but one opens with the invocation, **"In the name of God, the Most Compassionate, the Most Merciful."** Muslims are taught to say these words before beginning their actions, so mercy frames not only the Qur'an but the rhythm of everyday life.
+1. The Qur'an repeatedly presents mercy as a defining attribute of God. All but one of its chapters open with the invocation, **"In the name of God, the Most Compassionate, the Most Merciful."** Muslims are taught to say these words before beginning their actions, so mercy frames not only the Qur'an but the rhythm of everyday life.
     > "My mercy encompasses all things." (**Sūrat al-Aʿrāf 7:156**), Saheeh International
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَرَحْمَتِى وَسِعَتْ كُلَّ شَىْءٍ﴾ <span class="ayah-ref">[سُورَةُ الأَعۡرَافِ: ١٥٦]</span></div>
     {: .quote }
 
-1. The Qur'an keeps forgiveness open for every sin, no matter how far a person has gone, and tells people never to despair of God's mercy.
+1. The Qur'an keeps forgiveness open for every sin, however far a person has gone, and tells people never to despair of God's mercy.
     > "Say, 'O My servants who have transgressed against themselves [by sinning], do not despair of the mercy of Allāh. Indeed, Allāh forgives all sins. Indeed, it is He who is the Forgiving, the Merciful.'" (**Sūrat al-Zumar 39:53**), Saheeh International
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿۞ قُلْ يَـٰعِبَادِىَ ٱلَّذِينَ أَسْرَفُوا۟ عَلَىٰٓ أَنفُسِهِمْ لَا تَقْنَطُوا۟ مِن رَّحْمَةِ ٱللَّهِ ۚ إِنَّ ٱللَّهَ يَغْفِرُ ٱلذُّنُوبَ جَمِيعًا ۚ إِنَّهُۥ هُوَ ٱلْغَفُورُ ٱلرَّحِيمُ ۝٥٣﴾ <span class="ayah-ref">سُورَةُ الزُّمَرِ</span></div>
     {: .quote }
 
-1. It emphasizes genuine character over hollow ritual. Worship that leaves a person cruel is rejected.
+1. The Qur'an places genuine character above hollow ritual: worship that leaves a person cruel is rejected.
     > "Righteousness is not in turning your faces towards the east or the west. Rather, the righteous are those who believe in Allah, the Last Day, the angels, the Books, and the prophets; who give charity out of their cherished wealth to relatives, orphans, the poor, ˹needy˺ travellers, beggars, and for freeing captives; who establish prayer, pay alms-tax, and keep the pledges they make; and who are patient in times of suffering, adversity, and in ˹the heat of˺ battle. It is they who are true ˹in faith˺, and it is they who are mindful ˹of Allah˺." (**Sūrat al-Baqarah 2:177**), Dr. Mustafa Khattab, *The Clear Quran*
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿۞ لَّيْسَ ٱلْبِرَّ أَن تُوَلُّوا۟ وُجُوهَكُمْ قِبَلَ ٱلْمَشْرِقِ وَٱلْمَغْرِبِ وَلَـٰكِنَّ ٱلْبِرَّ مَنْ ءَامَنَ بِٱللَّهِ وَٱلْيَوْمِ ٱلْـَٔاخِرِ وَٱلْمَلَـٰٓئِكَةِ وَٱلْكِتَـٰبِ وَٱلنَّبِيِّـۧنَ وَءَاتَى ٱلْمَالَ عَلَىٰ حُبِّهِۦ ذَوِى ٱلْقُرْبَىٰ وَٱلْيَتَـٰمَىٰ وَٱلْمَسَـٰكِينَ وَٱبْنَ ٱلسَّبِيلِ وَٱلسَّآئِلِينَ وَفِى ٱلرِّقَابِ وَأَقَامَ ٱلصَّلَوٰةَ وَءَاتَى ٱلزَّكَوٰةَ وَٱلْمُوفُونَ بِعَهْدِهِمْ إِذَا عَـٰهَدُوا۟ ۖ وَٱلصَّـٰبِرِينَ فِى ٱلْبَأْسَآءِ وَٱلضَّرَّآءِ وَحِينَ ٱلْبَأْسِ ۗ أُو۟لَـٰٓئِكَ ٱلَّذِينَ صَدَقُوا۟ ۖ وَأُو۟لَـٰٓئِكَ هُمُ ٱلْمُتَّقُونَ ۝١٧٧﴾ <span class="ayah-ref">سُورَةُ البَقَرَةِ</span></div>
     {: .quote }
 
-1. It commands honesty, keeping one's word, humility, patience, and restraint in anger, while forbidding backbiting, mockery, contempt, and suspicion of others.
+1. It commands honesty, humility, patience, restraint in anger, and keeping one's word, while forbidding backbiting, mockery, contempt, and suspicion of others.
 
-1. Care for others—especially the weak and dependent—is treated as a duty across relationships: spouses, children, parents in old age, relatives, orphans, the poor, travelers, debtors, captives, servants, and those in one's charge.
+1. It treats care for others—especially the weak and dependent—as a duty across relationships: spouses, children, parents in old age, relatives, orphans, the poor, travelers, debtors, captives, servants, and those in one's charge.
 
 <div class="read-more read-more--tail" markdown="1">
 
-1. It makes the poor's share of wealth an obligation rather than a favor. Alms are a due; debts are to be forgiven when the debtor cannot pay; interest is banned; and charity followed by humiliation is worthless.
+1. It makes the poor's share of wealth an obligation rather than a favor. Alms are a due, interest is banned, debts are to be forgiven when the debtor cannot pay, and charity followed by humiliation is worthless.
     > "And in their wealth there was a rightful share ˹fulfilled˺ for the beggar and the poor." (**Sūrat al-Dhāriyāt 51:19**), Dr. Mustafa Khattab, *The Clear Quran*
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَفِىٓ أَمْوَٰلِهِمْ حَقٌّ لِّلسَّآئِلِ وَٱلْمَحْرُومِ ۝١٩﴾ <span class="ayah-ref">سُورَةُ الذَّارِيَاتِ</span></div>
@@ -1321,13 +1321,13 @@ These teachings connect patience and hope with the duty to relieve suffering and
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿أَرَءَيْتَ ٱلَّذِى يُكَذِّبُ بِٱلدِّينِ ۝١ فَذَٰلِكَ ٱلَّذِى يَدُعُّ ٱلْيَتِيمَ ۝٢ وَلَا يَحُضُّ عَلَىٰ طَعَامِ ٱلْمِسْكِينِ ۝٣﴾ <span class="ayah-ref">سُورَةُ المَاعُونِ</span></div>
     {: .quote }
 
-1. It treats one life as standing for all of humanity: to kill a person unjustly is as though one had killed everyone, and to save one is as though one had saved everyone.
+1. It treats a single life as standing for all of humanity: to kill one person unjustly is as though one had killed everyone, and to save one is as though one had saved everyone.
     > "That is why We ordained for the Children of Israel that whoever takes a life—unless as a punishment for murder or mischief in the land—it will be as if they killed all of humanity; and whoever saves a life, it will be as if they saved all of humanity." (**Sūrat al-Māʾidah 5:32**), Dr. Mustafa Khattab, *The Clear Quran*
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿مِنْ أَجْلِ ذَٰلِكَ كَتَبْنَا عَلَىٰ بَنِىٓ إِسْرَٰٓءِيلَ أَنَّهُۥ مَن قَتَلَ نَفْسًۢا بِغَيْرِ نَفْسٍ أَوْ فَسَادٍ فِى ٱلْأَرْضِ فَكَأَنَّمَا قَتَلَ ٱلنَّاسَ جَمِيعًا وَمَنْ أَحْيَاهَا فَكَأَنَّمَآ أَحْيَا ٱلنَّاسَ جَمِيعًا﴾ <span class="ayah-ref">[سُورَةُ المَائـِدَةِ: ٣٢]</span></div>
     {: .quote }
 
-1. It requires justice even when justice runs against one's own interests or feelings: hatred of another people cannot justify wrongdoing, and testimony must be given even against oneself, one's parents, close relatives, or one's own people.
+1. It requires justice even when justice runs against one's own feelings or interests: hatred of another people cannot justify wrongdoing, and testimony must be given even against one's own people, close relatives, parents, or oneself.
     > "O believers! Stand firm for Allah and bear true testimony. Do not let the hatred of a people lead you to injustice. Be just! That is closer to righteousness. And be mindful of Allah. Surely Allah is All-Aware of what you do." (**Sūrat al-Māʾidah 5:8**), Dr. Mustafa Khattab, *The Clear Quran*
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ كُونُوا۟ قَوَّٰمِينَ لِلَّهِ شُهَدَآءَ بِٱلْقِسْطِ ۖ وَلَا يَجْرِمَنَّكُمْ شَنَـَٔانُ قَوْمٍ عَلَىٰٓ أَلَّا تَعْدِلُوا۟ ۚ ٱعْدِلُوا۟ هُوَ أَقْرَبُ لِلتَّقْوَىٰ ۖ وَٱتَّقُوا۟ ٱللَّهَ ۚ إِنَّ ٱللَّهَ خَبِيرٌۢ بِمَا تَعْمَلُونَ ۝٨﴾ <span class="ayah-ref">سُورَةُ المَائـِدَةِ</span></div>
@@ -1341,13 +1341,13 @@ These teachings connect patience and hope with the duty to relieve suffering and
     {: .quote }
     </details>
 
-1. It rejects status based on ancestry, tribe, wealth, gender, or color as a measure of worth before God. The measure of a person is character and conduct alone; the most honorable people are those most conscious of God.
+1. It rejects status based on ancestry, tribe, wealth, gender, or color as a measure of a person's worth before God. The measure is character and conduct alone; the most honorable people are those most conscious of God.
     > "O humanity! Indeed, We created you from a male and a female, and made you into peoples and tribes so that you may ˹get to˺ know one another. Surely the most noble of you in the sight of Allah is the most righteous among you. Allah is truly All-Knowing, All-Aware." (**Sūrat al-Ḥujurāt 49:13**), Dr. Mustafa Khattab, *The Clear Quran*
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿يَـٰٓأَيُّهَا ٱلنَّاسُ إِنَّا خَلَقْنَـٰكُم مِّن ذَكَرٍ وَأُنثَىٰ وَجَعَلْنَـٰكُمْ شُعُوبًا وَقَبَآئِلَ لِتَعَارَفُوٓا۟ ۚ إِنَّ أَكْرَمَكُمْ عِندَ ٱللَّهِ أَتْقَىٰكُمْ ۚ إِنَّ ٱللَّهَ عَلِيمٌ خَبِيرٌ ۝١٣﴾ <span class="ayah-ref">سُورَةُ الحُجُرَاتِ</span></div>
     {: .quote }
 
-1. It places forgiveness and reconciliation above retaliation. A person is permitted to respond to a wrong in equal measure, but no further, while forgiveness is presented as the better path, with the higher aim of turning hostility into friendship.
+1. It places forgiveness and reconciliation above retaliation. A person may answer a wrong in equal measure but no further, yet forgiveness is presented as the better path, and its higher aim is to turn hostility into friendship.
     > "The reward of an evil deed is its equivalent. But whoever pardons and seeks reconciliation, then their reward is with Allah. He certainly does not like the wrongdoers." (**Sūrat al-Shūrā 42:40**), Dr. Mustafa Khattab, *The Clear Quran*
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَجَزَٰٓؤُا۟ سَيِّئَةٍ سَيِّئَةٌ مِّثْلُهَا ۖ فَمَنْ عَفَا وَأَصْلَحَ فَأَجْرُهُۥ عَلَى ٱللَّهِ ۚ إِنَّهُۥ لَا يُحِبُّ ٱلظَّـٰلِمِينَ ۝٤٠﴾ <span class="ayah-ref">سُورَةُ الشُّورَىٰ</span></div>
@@ -1361,7 +1361,7 @@ These teachings connect patience and hope with the duty to relieve suffering and
     {: .quote }
     </details>
 
-1. It rejects compulsion in religion. Rather than demanding belief by force, the Qur'an repeatedly calls people to look, question, reason, reflect, and contemplate God's signs with both mind and heart.
+1. It rejects compulsion in religion. Rather than demanding belief by force, the Qur'an repeatedly calls people to look, question, reason, and reflect, contemplating God's signs with both mind and heart.
     > "Let there be no compulsion in religion, for the truth stands out clearly from falsehood. So whoever renounces false gods and believes in Allah has certainly grasped the firmest, unfailing hand-hold. And Allah is All-Hearing, All-Knowing." (**Sūrat al-Baqarah 2:256**), Dr. Mustafa Khattab, *The Clear Quran*
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿لَآ إِكْرَاهَ فِى ٱلدِّينِ ۖ قَد تَّبَيَّنَ ٱلرُّشْدُ مِنَ ٱلْغَىِّ ۚ فَمَن يَكْفُرْ بِٱلطَّـٰغُوتِ وَيُؤْمِنۢ بِٱللَّهِ فَقَدِ ٱسْتَمْسَكَ بِٱلْعُرْوَةِ ٱلْوُثْقَىٰ لَا ٱنفِصَامَ لَهَا ۗ وَٱللَّهُ سَمِيعٌ عَلِيمٌ ۝٢٥٦﴾ <span class="ayah-ref">سُورَةُ البَقَرَةِ</span></div>
@@ -1393,7 +1393,7 @@ These teachings connect patience and hope with the duty to relieve suffering and
     {: .quote }
     </details>
 
-1. It anchors morality in accountability before God, both seen and unseen. A person may think they have escaped the consequences of wrongdoing because no immediate outward punishment follows, but the Qur'an presents actions as having real consequences in the hidden spiritual order of this life as well as in the next. Unless a person turns back to God and sets things right, what they do ultimately returns to them in one form or another. Repentance, however, completely wipes sins away, and even turns evil deeds into good ones.
+1. It anchors morality in accountability before God, both seen and unseen. A person may think they have escaped the consequences of wrongdoing because no immediate outward punishment follows, but the Qur'an presents actions as having real consequences in the hidden spiritual order of this life as well as in the next. What a person does ultimately returns to them in one form or another, unless they turn back to God and set things right. Repentance, however, wipes sins away completely, and even turns evil deeds into good ones.
     > "So whoever does an atom's weight of good will see it. And whoever does an atom's weight of evil will see it." (**Sūrat al-Zalzalah 99:7–8**), Dr. Mustafa Khattab, *The Clear Quran*
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿فَمَن يَعْمَلْ مِثْقَالَ ذَرَّةٍ خَيْرًا يَرَهُۥ ۝٧ وَمَن يَعْمَلْ مِثْقَالَ ذَرَّةٍ شَرًّا يَرَهُۥ ۝٨﴾ <span class="ayah-ref">سُورَةُ الزَّلۡزَلَةِ</span></div>
@@ -1419,7 +1419,7 @@ These teachings connect patience and hope with the duty to relieve suffering and
     {: .quote }
     </details>
 
-1. The Qur'an rejects inherited guilt: nobody is born owing another person's moral debt, and no soul bears another's burden.
+1. The Qur'an rejects inherited guilt: no one is born owing another's moral debt, and no soul bears another's burden.
     > "That no bearer of burdens will bear the burden of another. And that there is not for man except that [good] for which he strives." (**Sūrat al-Najm 53:38–39**), Saheeh International
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿أَلَّا تَزِرُ وَازِرَةٌ وِزْرَ أُخْرَىٰ ۝٣٨ وَأَن لَّيْسَ لِلْإِنسَـٰنِ إِلَّا مَا سَعَىٰ ۝٣٩﴾ <span class="ayah-ref">سُورَةُ النَّجۡمِ</span></div>
@@ -1497,15 +1497,15 @@ The Qur'an also judges worship by its effect on conduct. Chapter 107 condemns pr
 ### <span class="num-roman">XII.</span> Historical Impact and Transformation
 {: #historical-impact-and-transformation }
 
-1. The Prophet and the first hearers of the Qur'an remained committed through thirteen years of persecution in Mecca—mockery, beatings, starvation, boycott, and exile. Renouncing it would have ended their suffering, but they did not.
+1. The Prophet and the first hearers of the Qur'an remained committed through thirteen years of persecution in Mecca—mockery, beatings, starvation, boycott, and exile. Renouncing it would have ended their suffering, yet they did not.
 
-1. Within a single generation, the vast majority of Arabs accepted it, including tribes that had fought hardest to suppress it.
+1. Within a single generation it won over the vast majority of Arabs, including tribes that had fought hardest to suppress it.
 
-1. It gave rise to the second-largest religion on earth, after Christianity—its own predecessor—and the fastest-growing of the major religions.
+1. It gave rise to the second-largest religion on earth—after its predecessor, Christianity—and the fastest-growing of the major religions.
     > [*Pew Research Center*, April 2015](https://www.pewresearch.org/religion/2015/04/02/religious-projections-2010-2050/), projected that Muslims and Christians would approach numerical parity by 2050, at roughly 2.8 billion and 2.9 billion respectively.
     {: .src }
 
-1. It has shaped the lives of billions across fourteen centuries. Around two billion Muslims today accept it as scripture.
+1. It has shaped the lives of billions across fourteen centuries, and around two billion Muslims accept it as scripture today.
     > [*Pew Research Center*, June 2025](https://www.pewresearch.org/religion/2025/06/09/how-the-global-religious-landscape-changed-from-2010-to-2020/): the global Muslim population grew from 1.7 billion in 2010 to 2.0 billion in 2020, reaching 26% of the world's population.
     {: .src }
 
@@ -1513,11 +1513,11 @@ The Qur'an also judges worship by its effect on conduct. Chapter 107 condemns pr
     > The Qur'an became a foundational reference for the sciences of Arabic grammar, lexicography, rhetoric, and recitation, shaping the formal study of the language for centuries.
     {: .gloss }
 
-1. Its historical influence is extraordinary.
-    > A seventh-century Arabic revelation became simultaneously a memorized liturgy, a foundational legal and theological source, a central literary reference point, and a continuously transmitted scripture across peoples, languages, continents, and fourteen centuries.
+1. The Qur'an's historical influence is extraordinary.
+    > A seventh-century Arabic revelation became simultaneously a memorized liturgy, a foundational legal and theological source, a central literary reference point, and a scripture transmitted continuously across peoples, languages, continents, and fourteen centuries.
     {: .gloss }
 
-1. Taken together, the Qur'an's teachings form a complete moral and legal framework that holds justice and mercy in balance and historically guided a flourishing civilization. Its guidance remains directly applicable: what it addressed to seventh-century Arabs still addresses readers today.
+1. The Qur'an's teachings, taken together, form a complete moral and legal framework that holds justice and mercy in balance and historically guided a flourishing civilization. Its guidance remains directly applicable: what it addressed to seventh-century Arabs still addresses readers today.
 
 ### <span class="num-roman">XIII.</span> The Qur'an and the Man Who Proclaimed It
 {: #quran-and-messenger }
@@ -1531,35 +1531,35 @@ The relationship between the Qur'an and the Messenger ﷺ is itself one of the c
     {: .quote }
 
 1. Revelation did not come on demand, even when an immediate answer would have greatly helped the Prophet ﷺ.
-   > On one occasion, ʿĀʾishah, the Prophet's ﷺ wife, was falsely accused of adultery after being accidentally left behind by a traveling caravan and later escorted back to Medina by a companion. The accusation spread through the city and caused a severe personal and public crisis. Yet no revelation came clearing her for about a month. The Prophet ﷺ did not produce an answer of his own; he investigated the matter, consulted others, and waited. Only afterward did Qur'an 24:11–20 come publicly declaring the accusation false and defending her innocence. [Sahih al-Bukhari 4750](https://sunnah.com/bukhari:4750).
+   > ʿĀʾishah, the Prophet's ﷺ wife, was once falsely accused of adultery after a traveling caravan accidentally left her behind and a companion later escorted her back to Medina. The accusation spread through the city and caused a severe personal and public crisis, yet for about a month no revelation came clearing her. The Prophet ﷺ did not produce an answer of his own; he investigated the matter, consulted others, and waited. Only afterward did Qur'an 24:11–20 come, publicly declaring the accusation false and defending her innocence. [Sahih al-Bukhari 4750](https://sunnah.com/bukhari:4750).
    {: .gloss }
-   > On another occasion, Meccan opponents tested the Prophet ﷺ by asking him questions they had obtained from Jewish scholars, including about the Companions of the Cave. He told them he would answer the next day, expecting revelation to come. Instead, revelation was delayed, leaving him unable to answer while his opponents mocked him. When the answer finally came, the Qur'an also corrected him for saying that he would do something the next day without adding “if God wills” (18:23–24).
+   > On another occasion, Meccan opponents tested the Prophet ﷺ with questions they had obtained from Jewish scholars, including about the Companions of the Cave. Expecting revelation to come, he told them he would answer the next day. Instead, revelation was delayed, leaving him unable to answer while his opponents mocked him. When the answer finally came, the Qur'an also corrected him for saying that he would do something the next day without adding “if God wills” (18:23–24).
    {: .gloss }
    > In both cases, a man inventing revelation could have produced an immediate answer when delay was damaging him personally and publicly. Instead, he waited until revelation came, even when the delay exposed him to distress, embarrassment, and criticism. The pattern fits his own claim: revelation was something he received, not something he controlled.
    {: .gloss }
 
-1. It contains an extraordinary threat against the messenger himself were he to fabricate revelation.
+1. The Qur'an contains an extraordinary threat against the messenger himself, should he ever fabricate revelation.
     > “Had the Messenger made up something in Our Name, We would have certainly seized him by his right hand, then severed his aorta, and none of you could have shielded him ˹from Us˺!” (**Sūrat al-Ḥāqqah 69:44–47**), Dr. Mustafa Khattab, *The Clear Quran*
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَلَوْ تَقَوَّلَ عَلَيْنَا بَعْضَ ٱلْأَقَاوِيلِ ۝٤٤ لَأَخَذْنَا مِنْهُ بِٱلْيَمِينِ ۝٤٥ ثُمَّ لَقَطَعْنَا مِنْهُ ٱلْوَتِينَ ۝٤٦ فَمَا مِنكُم مِّنْ أَحَدٍ عَنْهُ حَـٰجِزِينَ ۝٤٧﴾ <span class="ayah-ref">سُورَةُ الحَاقَّةِ</span></div>
     {: .quote }
 
 1. It permanently records public corrections of him.
-    > In Sūrat ʿAbasa 80:1–10 he is corrected for turning away from a blind believer while addressing influential Meccan leaders. In 9:43 he is questioned for granting permission too readily. In 66:1 he is asked why he prohibited for himself what God had made lawful. In 18:23–24 he is corrected regarding speaking confidently about what he would do the next day.
+    > In Sūrat ʿAbasa 80:1–10 he is corrected for turning away from a blind believer while addressing influential Meccan leaders. In 9:43 he is questioned for granting permission too readily. In 66:1 he is asked why he prohibited for himself what God had made lawful. In 18:23–24 he is corrected for speaking confidently about what he would do the next day.
     {: .gloss }
-    > These corrections were not hidden in private records. They became part of the Qur'an itself, recited publicly in worship for all time. The man accused of inventing the revelation faithfully transmitted verses that corrected and disciplined him before his own followers.
+    > These corrections were not hidden in private records; they became part of the Qur'an itself, recited publicly in worship for all time. The man accused of inventing the revelation faithfully transmitted verses that corrected and disciplined him before his own followers.
     {: .gloss }
 
 1. The Qur'an is strikingly non-autobiographical. Muhammad ﷺ is the human messenger through whom the entire text comes, yet the Qur'an does not read like his memoir.
-    > It gives no continuous account of his childhood, business career, marriage to Khadijah, genealogy, or most of the events later biographies consider central. Muhammad ﷺ is named only a few times. The center of gravity remains God, revelation, judgment, earlier prophets, moral responsibility, and the response of the community.
+    > It names Muhammad ﷺ only a few times, and it gives no continuous account of his childhood, business career, marriage to Khadijah, genealogy, or most of the events later biographies consider central. Its center of gravity remains God, revelation, judgment, earlier prophets, moral responsibility, and the response of the community.
     {: .gloss }
 
-1. The first Muslim community is not portrayed as an unblemished heroic group.
-    > The Qur'an preserves disobedience and collapse at Uḥud (3:152–155), panic and misplaced confidence at Ḥunayn (9:25), hypocrisy, desertion, quarrels, and failures of discipline. A purely triumphalist founding document could have erased or softened much of this material; the Qur'an instead makes communal failure part of permanent moral instruction.
+1. The Qur'an does not portray the first Muslim community as an unblemished heroic group.
+    > It preserves the disobedience and collapse at Uḥud (3:152–155), the panic and misplaced confidence at Ḥunayn (9:25), hypocrisy, desertion, quarrels, and failures of discipline. A purely triumphalist founding document could have erased or softened much of this material; the Qur'an instead makes communal failure part of permanent moral instruction.
     {: .gloss }
 
-1. Personal events enter the text but are repeatedly universalized.
-    > The Qur'an consoles the Prophet ﷺ, addresses his household, responds to accusations, and comments on political and military crises. The remarkable feature is therefore not that his circumstances leave no trace. It is that personal and contingent events are repeatedly reframed into principles meant to outlive the event that triggered them.
+1. The Qur'an takes up personal events but repeatedly universalizes them.
+    > The Qur'an consoles the Prophet ﷺ, addresses his household, responds to accusations, and comments on political and military crises. What is remarkable, therefore, is not that his circumstances leave no trace, but that personal and contingent events are repeatedly reframed into principles meant to outlive the event that triggered them.
     {: .gloss }
 
 ### <span class="num-roman">XIV.</span> What Non-Muslim Scholars Have Said
@@ -1570,28 +1570,28 @@ The Qur'an's extraordinary character has not been recognized only by Muslims. Ar
 1. **E. H. Palmer**, Cambridge Arabist and translator of the Qur'an for Oxford's *Sacred Books of the East*, wrote that:
    > “the best of Arab writers has never succeeded in producing anything equal in merit to the Qur'an itself”
 
-   Palmer argued that later attempts at the Qur'anic style appeared labored beside its spontaneous force. Elsewhere in the same introduction he described early Qur'anic passages as “curt, grand, and often almost sublime” and its language as universally acknowledged as a highly perfected form of Arabic speech.
+   Later attempts at the Qur'anic style, Palmer argued, appeared labored beside its spontaneous force. Elsewhere in the same introduction he described early Qur'anic passages as “curt, grand, and often almost sublime”, and its language as universally acknowledged to be a highly perfected form of Arabic speech.
    > E. H. Palmer, trans., *The Qur'ân*, *Sacred Books of the East*, vols. 6 and 9, Oxford: Clarendon Press, 1880, Introduction.
    > {: .src }
 
-1. **George Sale**, whose 1734 English translation remained enormously influential in Europe for generations, wrote despite his explicitly Christian criticism of Islam:
+1. **George Sale**, whose 1734 English translation remained enormously influential in Europe for generations, criticized Islam on explicitly Christian grounds, yet wrote:
    > “The style of the Korân is generally beautiful and fluent”
 
-   and described passages concerning God's majesty and attributes as “sublime and magnificent.” He further observed that the Qur'an's harmony of expression and rhetorical power helped account for the extraordinary effect it produced upon its first hearers.
+   He described passages concerning God's majesty and attributes as “sublime and magnificent,” and observed that the Qur'an's harmony of expression and rhetorical power helped account for the extraordinary effect it produced upon its first hearers.
    > George Sale, *The Koran, Commonly Called the Alcoran of Mohammed*, 1734, Preliminary Discourse, §III.
    > {: .src }
 
 1. **H. A. R. Gibb**, one of the twentieth century's leading Western scholars of Arabic and Islam, wrote:
    > “As a literary monument the Koran thus stands by itself”
 
-   calling it a production unique in Arabic literature, without a predecessor or successor in its particular idiom. He also emphasized the extraordinary freedom and originality with which Qur'anic rhetoric exploits the resources of Arabic syntax.
+   He called it a production unique in Arabic literature, with neither predecessor nor successor in its particular idiom. He also emphasized the extraordinary freedom and originality with which Qur'anic rhetoric exploits the resources of Arabic syntax.
    > H. A. R. Gibb, *Arabic Literature: An Introduction*, Oxford: Clarendon Press, 1963, p. 36.
    > {: .src }
 
 1. **Arthur J. Arberry**, Cambridge professor of Arabic and one of the most respected English translators of the Qur'an, said that its rhythms establish its:
    > “undeniable claim to rank amongst the greatest literary masterpieces of mankind.”
 
-   Arberry deliberately structured his translation around the Qur'an's changing rhythms because he believed previous translations had failed to convey the rhetorical character of the Arabic original. Oxford University Press describes the Qur'an in connection with his translation as the “supreme classic of Arabic literature” and “a unique fusion” of prose and poetry.
+   Arberry believed previous translations had failed to convey the rhetorical character of the Arabic original, so he deliberately structured his own around the Qur'an's changing rhythms. In connection with his translation, Oxford University Press describes the Qur'an as the “supreme classic of Arabic literature” and “a unique fusion” of prose and poetry.
    > Arthur J. Arberry, *The Koran Interpreted*, Introduction, 1955.
    > {: .src }
 
@@ -1600,41 +1600,41 @@ The Qur'an's extraordinary character has not been recognized only by Muslims. Ar
 1. **Alfred Guillaume**, Christian Arabist and professor of Arabic and Islamic studies, wrote that the Qur'an:
    > “has a rhythm of peculiar beauty and a cadence that charms the ear.”
 
-   He noted the admiration of Christian Arabs for its style and the widespread recognition of its excellence among Arabists, concluding that within the vast literature of Arabic there is “nothing to compare with it.”
+   He noted that Christian Arabs admire its style and that Arabists widely recognize its excellence, and he concluded that within the vast literature of Arabic there is “nothing to compare with it.”
    > Alfred Guillaume, *Islam*, Penguin Books, 1954, pp. 73–74.
    > {: .src }
 
-1. **John Alden Williams**, professor of religion and a specialist in Islamic civilization, was equally emphatic about what is lost outside the Arabic original. He wrote:
+1. **John Alden Williams**, professor of religion and a specialist in Islamic civilization, was equally emphatic that much is lost outside the Arabic original. He wrote:
    > “no translation, however faithful to the meaning, has ever been fully successful.”
 
-   He described Qur'anic Arabic as, by turns, “striking, soaring, vivid, terrible, tender and breathtaking.” This is precisely why literary judgments based only on an English rendering can miss much of what Arabic readers are evaluating.
+   He described Qur'anic Arabic as, by turns, “striking, soaring, vivid, terrible, tender and breathtaking.” This is precisely why a literary judgment based only on an English rendering can miss much of what Arabic readers are evaluating.
    > John Alden Williams, ed., *Islam*, New York: George Braziller, 1961.
    > {: .src }
 
-1. **Neal Robinson**, Qur'anic scholar and Anglican priest, has devoted extensive study to features once dismissed by some Western critics as irregularities. Examining the Qur'an's abrupt shifts of grammatical person and perspective, he concluded that they:
+1. **Neal Robinson**, Qur'anic scholar and Anglican priest, has studied at length the features that some Western critics once dismissed as irregularities. Examining the Qur'an's abrupt shifts of grammatical person and perspective, he concluded that they:
    > “are a very effective rhetorical device.”
 
    His broader structural analysis likewise argues that apparently non-linear passages can form a forceful cumulative argument, reinforced by recurring rhythm and rhyme.
    > Neal Robinson, *Discovering the Qur'an: A Contemporary Approach to a Veiled Text*, 2nd ed., Georgetown University Press, 2003.
    > {: .src }
 
-1. **Émile Dermenghem**, the French historian and biographer of Prophet Muhammad ﷺ, drew particular attention to the effect of Qur'anic recitation. In *The Life of Mahomet* he wrote that:
+1. **Émile Dermenghem**, the French historian and biographer of Prophet Muhammad ﷺ, drew particular attention to the effect the Qur'an has on those who recite it. In *The Life of Mahomet* he wrote:
    > “Its literary beauty, its irradiation, an enigma even today, have the power of putting those who recite it into a state of fervor.”
 
    > Émile Dermenghem, *The Life of Mahomet*, trans. Arabella Yorke, London: George Routledge, 1930, pp. 249–250.
    > {: .src }
 
-1. **Thomas Carlyle** is an especially revealing case because he did not enjoy reading Sale's English translation of the Qur'an and criticized it harshly. Yet after working through it, he still concluded:
+1. **Thomas Carlyle** is an especially revealing case, because he did not enjoy reading Sale's English translation of the Qur'an and criticized it harshly. Yet after working through it, he still concluded:
     > “Sincerity, in all senses, seems to me the merit of the Koran”
 
-    and acknowledged within it “a vein of true direct insight” approaching poetry. Carlyle's reluctant concession is arguably more significant than uncomplicated praise: despite his aversion to the translated literary form, he found something powerful and genuine running through the text.
+    and acknowledged within it “a vein of true direct insight” approaching poetry. A concession this reluctant is arguably more significant than uncomplicated praise: despite his aversion to the translated literary form, Carlyle found something powerful and genuine running through the text.
     > Thomas Carlyle, *On Heroes, Hero-Worship, and the Heroic in History*, Lecture II, “The Hero as Prophet,” 1841.
     > {: .src }
 
-1. **Johann Wolfgang von Goethe**, one of the greatest figures in German literature, studied the Qur'an repeatedly and had a complex attitude toward it. Although he criticized its repetitions, he also described its style as:
+1. **Johann Wolfgang von Goethe**, one of the greatest figures in German literature, studied the Qur'an repeatedly, and his attitude toward it was complex. Although he criticized its repetitions, he described its style as:
     > “stern, grand, terrible ... truly sublime”
 
-    and wrote that repeated engagement with the book moves the reader from resistance to astonishment and ultimately reverence. He predicted that the Qur'an would continue exercising a powerful influence through the ages.
+    He wrote that repeated engagement with the book moves the reader from resistance to astonishment and ultimately reverence, and predicted that the Qur'an would continue exercising a powerful influence through the ages.
     > Johann Wolfgang von Goethe, *Notes and Essays for a Better Understanding of the West-Eastern Divan*, 1819.
     > {: .src }
 {: start="5"}
