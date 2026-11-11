@@ -7,28 +7,59 @@ description: Writing style and voice for prose on this site. Use it whenever you
 
 How prose on this site should read, for anyone writing it, person or model. The
 guide is self-contained, so a writer who cannot open files can be given it whole.
-How to build an argument and handle sources is in `_notes/guides/methodolody_guide.md`, and
-markup is in `_notes/guides/formatting_guide.md`.
+How to build an argument and handle sources is in
+`_notes/guides/methodolody_guide.md`, and markup is in
+`_notes/guides/formatting_guide.md`.
 
 ## The voice
 
-You are a careful person who has looked into something closely and is telling
-an intelligent stranger what you found. That stranger is sceptical, owes you
-nothing, and can stop reading at any point. They are not your friend, your
-student, or your opponent, and the prose should treat them as none of the three.
+You are a careful person who has looked into something closely and is explaining
+to an intelligent stranger what you found, the way you would across a table. That
+stranger is sceptical, owes you nothing, and can stop reading at any point. They
+are not your friend, your student, or your opponent, and the prose should treat
+them as none of the three.
 
-The register is dignified and measured: eloquent yet plain, confident and
-affirmative, easy to follow and digest. Write with sincerity, not manufactured
-enthusiasm. Write like a thoughtful person, not a template.
+Write directly and plainly. The reader should understand each sentence the first
+time, without working out what it is trying to say. Dignified means no slang and
+no hype. It does not mean elaborate. If a sentence sounds written rather than
+said, rewrite it.
 
-## Principles
+## Clarity and flow come first
 
-**State the point directly.** Say the claim, the evidence, or the inference
-itself. Test every sentence: is it conveying information or reasoning, or is it
-framing, signalling, or landing a rhythm? If the latter, cut it.
+**Say it directly.** Decide what you are trying to say, then say that. Put the
+subject first, doing the action, with a plain verb. Do not approach the point
+sideways.
 
-**Make the point clear early, and let the crux land last.** A reader should know
-early what a paragraph is about. Where evidence builds toward a conclusion, the
+**People do things; documents do not.** Write what was said and done, and name the
+source only where it matters to the reader. Avoid stacking layers of reporting.
+
+| Write | Not |
+| --- | --- |
+| The Prophet ﷺ warned that on the Day of Judgment God Himself will stand against anyone who sells a free person into slavery. | A hadith reporting words from God names selling a free person into slavery among the wrongs for which God will be the offender's adversary. |
+| The Prophet ﷺ warned that God will… | The Prophet ﷺ reported God as saying that He will… |
+
+**Open with the point.** Know what a paragraph is saying in one plain sentence
+before you write it, and let the reader have that sentence early, so every later
+sentence has something to serve. If the material has no single point, do not
+invent a vague one. Leave facts out rather than force them in.
+
+**Connect each sentence to the one before.** Use a real link: "also", "the same
+standard", "as well", "so that", "because", or a repeated key word. A paragraph
+of separate facts reads as a list, however well each sentence is written.
+
+**Join related ideas.** Split a sentence only when it becomes hard to follow.
+Strings of short, equal sentences sound as mechanical as long tangled ones.
+
+**Never restate a fact in abstract terms.** Once a fact is given, do not explain it
+again in grander words. "The Qur'an praises freeing an enslaved person as a
+difficult form of goodness" is complete. Adding "counting liberation as a moral
+achievement that asks something of the person who undertakes it" only pads it.
+
+**Stop when the point is made.** Do not stretch thin material to reach a length.
+
+## Argument and force
+
+**Let the crux land last.** Where evidence builds toward a conclusion, the
 conclusion comes after it.
 
 **Reason in the open.** Show why a fact supports a claim. Words like therefore,
@@ -43,7 +74,8 @@ abstractions.
 **Let the facts carry the argument.** Do not tell the reader what to think of a
 fact or why it matters. Give the fact in the position where its force is plain.
 Judgments about the evidence itself are substance and stay: "The source is weak."
-"The requirement is unusually demanding."
+"The requirement is unusually demanding." Where a fact's scale or strangeness is
+part of the argument, name it plainly: "The scale of the practice is remarkable."
 
 **Match confidence to the evidence.** State claims strongly when the evidence
 supports them, and do not weaken a clear claim to sound neutral or cautious. Use
@@ -54,8 +86,10 @@ either: no claim should be asked to prove more than it can.
 short sentence and move on. Do not stack caveats, sound apologetic, or announce
 how fair you are being. Keep the fairness and strip the announcement of it.
 
-**Keep the register up.** Use ordinary English, but never at the cost of precision
-or dignity. Where a formal word is the exact one, use it.
+## Words
+
+**Prefer the simple word.** Use a formal word only when it is the exact one, and
+then keep it. Plain never means casual:
 
 | Write | Not |
 | --- | --- |
@@ -76,9 +110,6 @@ paragraphs short, with one main idea each.
 **Be concise without losing logic.** Remove verbal overhead: repetition, setup,
 and explanation that adds no meaning. Do not remove premises, inferences, or the
 words that join them.
-
-**Use natural subjects.** Keep what the point is about as the subject of the
-sentence, and do not contort a sentence to do so.
 
 ## What to cut
 
@@ -108,6 +139,13 @@ sentences, throwaway zingers.
 **Writing for effect.** Invented scenes, rhetorical questions, manufactured
 intimacy, drama, hype, and sentences built mainly to sound impressive.
 
+**Manufactured closers.** A last sentence added to sound conclusive: "A person's
+freedom was therefore not merchandise." End on the last thing worth saying.
+
+**Contrived phrasing.** Sentences that talk around a fact instead of stating it, or
+that a person would never say aloud: "commending release as a deed that costs the
+one who performs it."
+
 **Added force.** Do not reach for "even", "yet", or an intensifier where the facts
 do not make the contrast themselves.
 
@@ -125,6 +163,13 @@ do not make the contrast themselves.
 
 The strongest passages on the site, with footnote markers removed. Follow their
 voice, not their words.
+
+Direct and connected, from the same facts as the contrived versions quoted above.
+Each opens with its point, and each sentence picks up from the last:
+
+> Islam treats human freedom as something of great worth. The Qur'an praises freeing an enslaved person as a hard but good deed, and the Prophet ﷺ warned that on the Day of Judgment God Himself will stand against anyone who sells a free person into slavery and keeps the money. A past in slavery also did not hold a person back. Bilal, a formerly enslaved Abyssinian, became the best-known caller to prayer in the Muslim community, and the Prophet ﷺ told him that he had heard his footsteps ahead of him in Paradise.
+
+> Islam requires honesty in business, even when a person could get away with cheating. When the Prophet ﷺ found wet grain hidden under dry grain in the market, he told the seller to put it where buyers could see it, and he condemned the deception. The same standard applies in court: he warned that someone who wins a case by arguing better has no moral right to the other person's property. The Qur'an brings this fairness to lending as well. It forbids *riba* (prohibited increase) and tells creditors who repent to take back only what they lent, so that neither side is wronged.
 
 An inference drawn from a fact, so the reader sees the reasoning work:
 
@@ -182,6 +227,12 @@ Work on a small unit at a time. Passing over a whole section at once misses most
 of the problems and flattens the rest.
 
 Change wording only where the change is an improvement. A near-synonym is not one.
+
+When the job is to fix awkward or weak text, recast the sentence. Rebuild it around
+its real subject and verb instead of nudging words within the old frame: "Not
+every point is on its own a miracle" only rearranges the awkwardness. Where a
+passage already reads well, leave it nearly alone.
+
 Keep each claim exactly as strong as it was, and add no contrast, dash, or
 intensifier the original lacks. These changes all overstated or padded:
 
