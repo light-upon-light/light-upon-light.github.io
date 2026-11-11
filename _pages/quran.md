@@ -38,7 +38,7 @@ glossary:
   - under-these-conditions
 ---
 
-> This page presents evidence for the divine origin of the Qur'an and the prophethood of Prophet Muhammad ﷺ.The argument on this page is cumulative; no individual point is presented as a standalone proof. Considered together, however, they form a case for the Qur'an's miraculous nature and the authenticity of the Prophet's mission. — *note: this page is a work in progress.*
+> This page presents evidence for the divine origin of the Qur'an and the prophethood of Prophet Muhammad ﷺ.The argument on this page is cumulative; no individual point is presented as a standalone proof. Considered together, however, they form a case for the Qur'an's miraculous nature and the authenticity of the Prophet's mission. — note: this page is a work in progress.
 
 ## Why Read This?
 {: #why-read-this }

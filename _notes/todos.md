@@ -3,7 +3,6 @@
 general:
 
 - rework first paragraph of The Book section to be stronger.
-- reword the first note in the page to be less awkward.
 - add simplest and most coherent conception of God point to body like in why read this.
 - add insane expansion and odds against super powers within 30 years, point from yasir qadhi video.
 - add that it transcends the scientific understanding of 7th century arabia and is coherent with the modern day scientific facts, same for historical.
