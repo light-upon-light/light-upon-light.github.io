@@ -38,14 +38,14 @@ glossary:
   - under-these-conditions
 ---
 
-> This page presents evidence for the **miraculous nature** of the **Qur'an** and the **prophethood** of **Prophet Muhammad** ﷺ. Not every point is a miracle or proof on its own. Taken together, however, they form a cumulative case for the Qur'an's divine origin and the authenticity of the Prophet's mission. — *Note: this page is a work in progress.*
+> This page presents evidence for the **miraculous nature** of the **Qur'an** and the **prophethood** of **Prophet Muhammad** ﷺ. Not every point is a miracle or proof on its own, yet taken together they form a cumulative case for the Qur'an's divine origin and the authenticity of the Prophet's mission. — *Note: this page is a work in progress.*
 
 ## Why Read This?
 {: #why-read-this }
 
 <div class="read-more read-more--long read-more--head" markdown="1">
 
-The Qur'an presents a remarkable convergence of signs pointing to its divine origin. Below are some of its striking features that might make you interested in reading further.
+The Qur'an presents a remarkable convergence of signs pointing to its divine origin. Below are some of its striking features, which may invite you to read further.
 <!-- —things that usually make people stop and consider whether this book could actually be what it claims: the word of God. -->
 
 The unusual circumstances of its revelation
@@ -55,23 +55,23 @@ The unusual circumstances of its revelation
 - Revealed piecemeal and out of final order, rather than composed from beginning to end.
 - Revealed in response to unforeseen events and circumstances.
 - Delivered through public oral recitation.
-- Produced with no revisions or retractions.
-- Revealed through Prophet Muhammad ﷺ, who could not read or write in seventh-century Arabia.
+- Produced without revision or retraction.
+- Revealed in seventh-century Arabia through Prophet Muhammad ﷺ, who could not read or write.
 
 Its eloquence and architecture
 {: .group-label }
 
 - Prophet Muhammad ﷺ had no previous career or training as a poet, writer, or literary figure.
-- Yet from the outset, he recited a text regarded by admirers and opponents alike as the summit of Arabic eloquence, by a far margin.
+- Yet from the outset, he recited a text that admirers and opponents alike regarded as by far the summit of Arabic eloquence.
 - It challenged its enemies, the Arabs of its time—at the height of their mastery of Arabic—to produce anything comparable, and the challenge went unanswered.
-- It contains intricate literary architecture and composition all throughout, despite being revealed under these conditions.
+- It contains an intricate literary architecture that runs throughout its composition, despite being revealed under these conditions.
 - It contains striking numerical patterns, despite being revealed under these conditions.
 
 Its knowledge beyond human reach
 {: .group-label }
 
 - It contains specific predictions of the future that were later fulfilled.
-- It transcends the scientific misconceptions that were inevitable in seventh-century desert Arabia, and instead presents an understanding of the natural world that is coherent with what is known today.
+- It transcends the scientific misconceptions that were inevitable in seventh-century desert Arabia, and instead presents an understanding of the natural world consistent with what is known today.
 - It contains precise descriptions of the natural world unknowable at the time.
 - It contains strikingly accurate historical details inaccessible at the time.
 
@@ -79,30 +79,30 @@ Its unparalleled preservation
 {: .group-label }
 
 - It has been preserved with extraordinary precision like no other scripture or text—and it foretells its own preservation.
-- Its entire 600+ pages are memorized by millions of people today, the majority of whom do not speak Arabic as their first language—and it foretells its own ease of memorization.
+- Its entire 600+ pages are memorized today by millions of people, most of whom do not speak Arabic as their first language—and it foretells its own ease of memorization.
 
 It does all of the above while guiding people to God
 {: .group-label }
 
 - It repeatedly appeals to reason and invites scrutiny.
 - It calls to the simplest and most coherent conception of God.
-- It offers a profound spirituality that speaks to the heart as well as the mind, calling people to remembrance and love of God, and inner transformation.
-- It gives a detailed system of guidance, morality, and law, underpinned by mercy and justice.
-- It spans theology, worship, ethics, human nature, family life, economics, social justice, war and peace, history, the natural world, and the unseen, woven into a single coherent narrative.
-- It presents itself as the continuation of the same line of prophecy through Prophets Abraham, Moses, Jesus, and the prophets before them, peace be upon them all.
+- It offers a profound spirituality that speaks to the heart as well as the mind, calling people to remembrance and love of God and to inner transformation.
+- It provides a detailed system of guidance, morality, and law, founded on mercy and justice.
+- It weaves theology, worship, ethics, human nature, family life, economics, social justice, war and peace, history, the natural world, and the unseen into a single coherent narrative.
+- It presents itself as continuing the same line of prophecy that ran through Prophets Abraham, Moses, Jesus, and the prophets before them, peace be upon them all.
 
 And it has transformed the people who receive it
 {: .group-label }
 
-- Its recitation moves those who listen to it: many weep on hearing it or describe a profound sense of peace, even without understanding Arabic.
+- Its recitation moves those who hear it: many weep or describe a profound sense of peace, even without understanding Arabic.
 - Within a single generation, the vast majority of Arabs accepted it, including tribes that had fought hardest to suppress it.
 - Today it is the scripture of roughly a quarter of humanity.
 - It has shaped the beliefs, laws, societies, and lives of billions of people across history.
-- Prophet Muhammad ﷺ has been regarded by both muslims and non-muslims alike as one of the most influential figures in history.
+- Prophet Muhammad ﷺ has been regarded by Muslims and non-Muslims alike as one of the most influential figures in history.
 
 All of the above is done by a book that was revealed orally under these conditions and that claims it is the word of God and that Prophet Muhammad ﷺ is the messenger of God.
 
-This page discusses the above features in more detail along with many others, and supplements the argument with evidence of prophethood from the life of Prophet Muhammad ﷺ.
+This page examines these features and many others in more detail, and supplements the argument with evidence of prophethood from the life of Prophet Muhammad ﷺ.
 
 </div>
 
@@ -115,9 +115,9 @@ The Qur'an and the life of Prophet Muhammad ﷺ together form a cumulative case 
 
 **The Qur'an**
 
-The Qur'an was delivered through public oral recitation over twenty-three years by a man who could neither read nor write and had no prior literary career. Its passages came separately, often in response to unpredictable events and outside their final order, without the ordinary process of private drafting and revision. Yet across more than 600 pages it sustains a distinctive literary voice and extraordinary precision in syntax, rhetoric, sound, meaning, narrative, and composition, and holds that quality steady even as its circumstances, subjects, and audiences changed completely, though a human author's style ordinarily shifts over a career. It belongs to neither Arabic prose nor Arabic poetry but to a mode of expression the language had not seen before, and admirers and opponents alike have treated it as the summit of Arabic eloquence. Material revealed years apart forms coherent chapters and intricate large-scale structures, while repeated stories are deliberately reshaped to serve the argument of each context. The Qur'an openly challenged the most accomplished Arabic speakers of its first audience to produce anything comparable. They had every motive to answer it and were the most capable of doing so, yet the early record preserves their accusations of magic, poetry, and madness rather than a rival text, and the Qur'an has retained an unmatched place in Arabic literary history ever since.
+The Qur'an was delivered through public oral recitation over twenty-three years by a man who could neither read nor write and had no prior literary career. Its passages came separately, often in response to unpredictable events and outside their final order, without the ordinary process of private drafting and revision. Yet across more than 600 pages it sustains a distinctive literary voice and extraordinary precision in syntax, rhetoric, sound, meaning, narrative, and composition. A human author's style ordinarily shifts over a career, yet the Qur'an holds that quality steady even as its circumstances, subjects, and audiences changed completely. It belongs to neither Arabic prose nor Arabic poetry but to a mode of expression the language had not seen before, and admirers and opponents alike have treated it as the summit of Arabic eloquence. Material revealed years apart forms coherent chapters and intricate large-scale structures, while repeated stories are deliberately reshaped to serve the argument of each context. The Qur'an openly challenged the most accomplished Arabic speakers of its first audience to produce anything comparable. They were the most capable of answering it and had every motive to do so, yet the early record preserves their accusations of magic, poetry, and madness rather than a rival text. The Qur'an has retained an unmatched place in Arabic literary history ever since.
 
-The same pattern extends beyond its literary character. The Qur'an makes specific predictions that were fulfilled. It also foretells its own preservation and ease of memorization, then becomes a scripture transmitted through an exceptional combination of very early manuscripts, a recoverable written archetype, inherited oral readings, public recitation, and mass memorization. It preserves historical and cross-linguistic details about ancient civilizations with striking precision, much of it recoverable only after their long-dead scripts were deciphered in modern times and unavailable to anyone in seventh-century Arabia. It describes features of the natural world with a precision that remains remarkable in that same setting, including observations no one of the time had the means to make. Running through the same text are astonishing numerical relationships involving words, concepts, stated numbers, and structures, sustained in a book that was recited piecemeal and outside its final order. It also repeatedly invites scrutiny, appeals to reason, demands evidence, and places its own coherence and claims before the reader for examination.
+The same pattern extends beyond its literary character. The Qur'an makes specific predictions that were fulfilled. It also foretells its own preservation and ease of memorization, then becomes a scripture transmitted through an exceptional combination of very early manuscripts, a recoverable written archetype, inherited oral readings, public recitation, and mass memorization. It preserves historical and cross-linguistic details about ancient civilizations with striking precision, much of it unavailable to anyone in seventh-century Arabia and recoverable only after their long-dead scripts were deciphered in modern times. It describes features of the natural world with a precision that remains remarkable in that same setting, including observations no one of the time had the means to make. Running through the text are astonishing numerical relationships involving words, concepts, stated numbers, and structures, sustained in a book that was recited piecemeal and outside its final order. It also repeatedly invites scrutiny, appeals to reason, demands evidence, and places its own coherence and claims before the reader for examination.
 
 The Qur'an's literary voice is recognizably distinct from Prophet Muhammad ﷺ's ordinary speech. It presents him as subject to revelation rather than its author: revelation sometimes failed to come when an immediate answer would have benefited him, it permanently records corrections of him before his followers, and it explicitly threatens him were he to fabricate anything in God's name. The text is also strikingly non-autobiographical despite being delivered entirely through him.
 
@@ -127,13 +127,13 @@ The strength of the argument lies in this convergence. These are not merely admi
 
 **Prophet Muhammad ﷺ**
 
-The life of Prophet Muhammad ﷺ further strengthens that case. He was known for exceptional integrity, mercy, courage, and humility. He embodied the justice and generosity he taught, endured years of persecution rather than abandon his message, and lived simply even after gaining authority. His public leadership and private conduct reflected the same devotion to God and responsibility toward others. His teachings and example transformed Arabia and shaped billions of lives across fourteen centuries, making him one of history's most influential figures.
+The life of Prophet Muhammad ﷺ further strengthens that case. Known for exceptional integrity, mercy, courage, and humility, he embodied the justice and generosity he taught. He endured years of persecution rather than abandon his message, and he lived simply even after gaining authority. His public leadership and private conduct reflected the same devotion to God and responsibility toward others. His teachings and example transformed Arabia and shaped billions of lives across fourteen centuries, making him one of history's most influential figures.
 
-The main alternative explanations fail to account for the evidence of his life and message. Deliberate fraud does not explain his personal sacrifices or his faithful transmission of revelations that openly corrected him. Sincere error does not explain decades of coherent teaching, sound judgment, and effective leadership. Evil inspiration is incompatible with a message that calls people to worship God, reject Satan and evil, live morally, and resist wrongdoing. The claim that his story was fabricated later is contradicted by early manuscript evidence and by the extensive record of his life carefully preserved by the first generations of Muslims.
+The main alternative explanations fail to account for the evidence of his life and message. Deliberate fraud does not explain his personal sacrifices or his faithful transmission of revelations that openly corrected him. Sincere error does not explain decades of coherent teaching, sound judgment, and effective leadership. Evil inspiration is incompatible with a message that calls people to worship God, reject Satan and evil, live morally, and resist wrongdoing. The claim that his story was fabricated later is contradicted by early manuscript evidence and by the extensive record of his life that the first generations of Muslims carefully preserved.
 
 **The Cumulative Case**
 
-The case is therefore cumulative: the Qur'an's extraordinary qualities, the Prophet Muhammad's ﷺ moral character and lasting influence, and the weakness of alternative explanations all reinforce one another. The Qur'an is presented as a lasting and preserved miracle from God, given to Prophet Muhammad ﷺ as evidence for his message to all humanity. Together with the carefully preserved record of his life, they provide every generation with tangible evidence by which to examine the Qur'an's claim to divine origin and assess Muhammad's ﷺ claim to prophethood.
+The case is therefore cumulative: the Qur'an's extraordinary qualities, the Prophet Muhammad's ﷺ moral character and lasting influence, and the weakness of alternative explanations all reinforce one another. The Qur'an is presented as a lasting and preserved miracle from God, given to Prophet Muhammad ﷺ as evidence for his message to all humanity. Together with the carefully preserved record of his life, it provides every generation with tangible evidence by which to examine its claim to divine origin and assess Muhammad's ﷺ claim to prophethood.
 
 </details>
 
@@ -1648,26 +1648,26 @@ That agreement is particularly striking because these writers were not simply re
 ### <span class="num-roman">XV.</span> The Cumulative Case
 {: #quran-cumulative-case }
 
-The case for the Qur'an's divine origin rests on the extraordinary convergence of its features under the conditions in which the Qur'an emerged. It was recited publicly, piecemeal, and often outside its final order over twenty-three years, through a man who could neither read nor write and had no prior literary career, while responding to events he could not control. Yet the completed text:
+The case for the Qur'an's divine origin rests on the extraordinary convergence of its features under the conditions in which it emerged. Over twenty-three years it was recited publicly, piecemeal, and often outside its final order, through a man who could neither read nor write and had no prior literary career, in response to events he could not control. Yet the completed text:
 
 * sustains a distinctive and recognizable literary voice across more than 600 pages of recited text;
 * belongs to neither Arabic prose nor Arabic poetry but to a mode of expression the language had not seen before, treated by admirers and opponents alike as the summit of Arabic eloquence;
-* combines syntax, sound, rhetoric, semantic density, narrative, and guidance with remarkable precision;
-* displays intricate local and large-scale composition, including framing, symmetry, verbal echoes, thematic correspondences, and ring structures across material revealed years apart;
-* retells the same events with deliberate variation, reshaping details and emphasis to serve the argument of each chapter;
+* combines syntax, sound, rhetoric, density of meaning, narrative, and guidance with remarkable precision;
+* displays intricate composition at both local and large scale, including framing, symmetry, verbal echoes, thematic correspondences, and ring structures that span material revealed years apart;
+* retells the same events across chapters, deliberately varying details and emphasis to serve the argument of each;
 * openly challenges its opponents to rival it, and though they had both the skill and every motive to answer, no rival has ever achieved comparable standing in Arabic literary history;
 * explains its own source, purpose, and manner of revelation, repeatedly argues from reason, demands evidence, invites scrutiny, and preserves the objections of its first opponents inside the text itself;
-* engages earlier scriptures and sacred history with an independent voice while preserving striking historical and cross-linguistic details;
+* engages earlier scriptures and sacred history in an independent voice while preserving striking historical and cross-linguistic details;
 * describes features of the natural world with a precision that remains remarkable in its seventh-century setting;
-* contains astonishing numerical relationships involving words, concepts, stated numbers, and structures across the text;
-* makes specific predictions about future events, including the Roman recovery and the Muslims' secure return to the Sacred Mosque, and sees them fulfilled;
+* contains astonishing numerical relationships across the text, involving words, concepts, stated numbers, and structures;
+* predicts specific future events, including the Roman recovery and the Muslims' secure return to the Sacred Mosque, and sees them fulfilled;
 * predicts its own preservation and ease of remembrance, then becomes a scripture transmitted through an extraordinary combination of early manuscripts, a recoverable written archetype, inherited oral readings, public recitation, and mass memorization;
 * maintains a literary voice distinct from the Prophet's ﷺ ordinary speech and repeatedly presents him as subject to the revelation rather than its author;
 * withholds revelation when delay harms him, permanently records corrections of him, and even threatens him were he to fabricate anything in God's name;
 * presents a coherent account of God's oneness, transcendence, and nearness, and of human purpose, suffering, and judgment;
 * develops a coherent moral, legal, and spiritual worldview across radically changing circumstances;
 * diagnoses pride, envy, conformity, and self-deception, and ties worship to the formation of character;
-* transforms the society that first received it and continues to shape the lives of around two billion people in its original language;
+* transforms the society that first received it and, in its original language, continues to shape the lives of around two billion people;
 * and has compelled even non-Muslim Arabists, translators, historians, and literary figures to acknowledge its unusual form, rhetorical power, and unique place in Arabic literature.
 
 The strength of the argument lies in how these features converge in one text and one prophetic career. Any human-authorship explanation has to account for that convergence as a whole: the Qur'an's mode of emergence, literary and structural achievement, numerical patterns, distinct voice, knowledge, predictions, preservation, theology, moral insight and consistency, its relationship with the Messenger ﷺ, and its transformative effect on the lives of billions of people.
