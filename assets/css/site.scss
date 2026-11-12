@@ -1067,11 +1067,11 @@
   /* Lists and blockquotes were carrying the browser's UA default indents
      (ul/ol padding-inline-start: 40px; blockquote margin-inline-start:
      40px, which the theme's own blockquote rule below never touched).
-     On a bullet-led site that's a lot of reclaimable line width -- a
-     narrower line wraps to more lines, which costs far more vertical
-     space than the indent bought in scannability. Quotes nested inside a
-     bullet were paying both indents at once (list padding + blockquote
-     margin + blockquote padding), so this matters most there. Font-size is
+     When the articles were bullet-led that was cut almost to nothing, to
+     win back line width. Now that points are numbered paragraphs
+     (.ev-list, no list indent) the indent is affordable again and is what
+     sets a quote off from the prose around it: a little on phones, where
+     width is scarce, more from 48em up. Font-size is
      generally smaller than body text too, matching the existing .src
      convention below rather than inventing a second scale. One class plus
      one type beats the theme's bare `blockquote { margin-block: 2em;
@@ -1086,9 +1086,16 @@
      it, and font-size has no competing rule at all). */
   .page__content blockquote {
     margin-block: 1.3em !important;
-    margin-inline: 0;
-    padding-inline: 0.75em;
+    margin-inline: 0.5em 0;
+    padding-inline: 0.85em;
     font-size: 0.9em;
+  }
+
+  @media (min-width: 48em) {
+    .page__content blockquote {
+      margin-inline: 1.5em 1em;
+      padding-inline: 1em;
+    }
   }
 
   /* No padding-inline-start rule targets `.page__content ul`/`ol` directly
@@ -1096,7 +1103,14 @@
      do), so no !important is needed here either. */
   .page__content ul,
   .page__content ol {
-    padding-inline-start: 1.25em;
+    padding-inline-start: 1.5em;
+  }
+
+  @media (min-width: 48em) {
+    .page__content ul,
+    .page__content ol {
+      padding-inline-start: 2em;
+    }
   }
 
   /* An untagged blockquote -- a bare link, a prose aside -- keeps a rule
