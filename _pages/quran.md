@@ -681,14 +681,20 @@ Some of the Qur'an's historical details are especially striking because they con
 
 {% include yt-embed.html url="https://youtu.be/lEc_ilaHim8" title="Stories of the Prophets: Bible vs. Qur'an" %}
 
-1. The Qur'an is often said to have simply copied Biblical stories, yet in several places it departs from the Bible precisely where the Biblical account contains historically problematic details, as shown above—for example, calling Joseph's Egyptian ruler “king” rather than “Pharaoh,” and describing the Israelites at the Exodus as a small group rather than numbering them in the millions. That is difficult to explain as mere copying, which would be expected to reproduce the same historical inaccuracies rather than correct them.
+- The Qur'an is often said to have simply copied Biblical stories, yet in several places it departs from the Bible precisely where the Biblical account contains historically problematic details, as shown above—for example, calling Joseph's Egyptian ruler “king” rather than “Pharaoh,” and describing the Israelites at the Exodus as a small group rather than numbering them in the millions. That is difficult to explain as mere copying, which would be expected to reproduce the same historical inaccuracies rather than correct them.
 
-1. The Qur'an does not merely inherit earlier material; it selects, compresses, relocates, disputes, corrects and reframes it. The same story can therefore serve different arguments in different chapters without becoming a copy of one fixed source.
+- The Qur'an does not merely inherit earlier material; it selects, compresses, relocates, disputes, corrects and reframes it. The same story can therefore serve different arguments in different chapters without becoming a copy of one fixed source.
     > Genealogical and biographical detail is often reduced, while monotheism, judgment, repentance, prophetic perseverance, and moral accountability move to the foreground. This transformation also fits the repetition-with-variation described in the literary section above.
     {: .gloss }
 
-1. The Qur'an contains striking cross-Semitic linguistic correspondences: its words and cognates connect mainly with Hebrew, but also with Aramaic, Syriac, Ethiopic, Persian and the ancient languages of Arabia. In a number of passages, these relationships create wordplay, allusion, historically appropriate vocabulary, and layers of meaning that become visible only when the related languages are examined together.
-    > The Sabaean *ʿarim* [dam] example above is especially striking: a rare word, appearing only once in the Qur'an, is found in the ancient language of the very civilization being described—where it denotes the Ma'rib Dam itself. ([knowledge.uchicago.edu](https://knowledge.uchicago.edu/record/1343/files/Dost_uchicago_0330D_13784.pdf?utm_source=chatgpt.com))
+- The Qur'an contains striking cross-Semitic linguistic correspondences: its words and cognates connect mainly with Hebrew, but also with Aramaic, Syriac, Ethiopic, Persian and the ancient languages of Arabia as shown in examples above. In a number of passages, these relationships create wordplay, allusion, historically appropriate vocabulary, and layers of meaning that become visible only when the related languages are examined together. Below are some examples that relate to Hebrew:
+    > The names of earlier prophets show this clearly. Each name below has a meaning in Hebrew, and where the Qur'an introduces the prophet, it uses an Arabic word with that same meaning, often from the same root:
+    >
+    > - **Isaac:** *Yiṣḥaq* means “he laughs” (Genesis 21:6). The Qur'an gives the news of Isaac at the moment his mother laughs: “she laughed (*ḍaḥikat*), then We gave her good news of Isaac” (11:71).
+    > - **Jacob:** *Yaʿaqov* comes from *ʿaqev* [heel], the one who follows at another's heel (Genesis 25:26). The same verse says Jacob would come *min warāʾ* [after, behind] Isaac (11:71).
+    > - **Ishmael:** *Yishmaʿel* means “God hears” (Genesis 16:11). Building the House with Ishmael, Abraham prays, “You are indeed the All-Hearing” (2:127), and thanking God for Ishmael, he says, “My Lord is indeed the Hearer of prayers” (14:39).
+    > - **Zechariah:** *Zekharyah* means “the LORD has remembered.” His story opens with *dhikr* [remembrance], the same root: “a remembrance of your Lord's mercy to His servant Zechariah” (19:2).
+    > - **John:** *Yoḥanan* means “the LORD has been gracious.” Six verses after naming him, the Qur'an says John was given *ḥanān* [tenderness, grace], again the same root: “and affection from Us” (19:13).
     {: .gloss }
 
     {% include yt-embed.html url="https://youtu.be/wA4v8MrBHHc" title="The Hebrew word that PROVED that the Qur'an is from Allah" %}
