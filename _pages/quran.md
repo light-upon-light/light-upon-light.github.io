@@ -1,5 +1,5 @@
 ---
-title: "The Qur'an and the Messenger ﷺ: Evidence for Prophethood"
+title: "The Qur'an and the Messenger ﷺ"
 description: "The Qur'an and the life of Prophet Muhammad, considered together as evidence for his prophethood."
 date: 2025-08-16
 last_modified_at: 2026-11-11
@@ -7,7 +7,7 @@ last_modified_at: 2026-11-11
 # Standard short-form label for this page, used wherever the full title (with
 # its "Evidence for Prophethood" subtitle) would be too long -- currently the
 # breadcrumb trail on the misconceptions sub-pages (_includes/footer/custom.html).
-short_title: "Qur'an and the Messenger ﷺ"
+short_title: "Qur'an and Messenger ﷺ"
 
 permalink: /quran
 
@@ -38,7 +38,7 @@ glossary:
   - under-these-conditions
 ---
 
-> This page presents evidence for the divine origin of the Qur'an and the prophethood of Prophet Muhammad ﷺ.The argument on this page is cumulative; no individual point is presented as a standalone proof. Considered together, however, they form a case for the Qur'an's miraculous nature and the authenticity of the Prophet's mission. — note: this page is a work in progress.
+> This page presents evidence for the divine origin of the Qur'an and the prophethood of Prophet Muhammad ﷺ. The argument is cumulative; no individual point is presented as a standalone proof. Considered together, however, they form a case for the Qur'an's miraculous nature and the authenticity of the Prophet's mission. — note: this page is a work in progress.
 
 ## Why Read This?
 {: #why-read-this }
@@ -78,8 +78,8 @@ Its knowledge beyond human reach
 Its unparalleled preservation
 {: .group-label }
 
-- It has been preserved with extraordinary precision like no other scripture or text—and it foretells its own preservation.
-- Its entire 600+ pages are memorized today by millions of people, most of whom do not speak Arabic as their first language—and it foretells its own ease of memorization.
+- It has been preserved with extraordinary precision like no other scripture or text—and it foretold its own preservation.
+- Its entire 600+ pages are memorized today by millions of people, the majority of whom do not speak Arabic as their first language—and it foretold its own ease of memorization.
 
 It does all of the above while guiding people to God
 {: .group-label }
@@ -127,7 +127,7 @@ It preserves historical details inaccessible at the time. It calls Egypt's ruler
 
 It also describes the natural world with remarkable precision, including observations whose significance became clearer only with later scientific knowledge. It gives a striking stage-by-stage description of how a human embryo develops: first a drop, then something that clings, then a lump, then bones, and finally flesh clothing those bones (23:12–14). It also describes God as having built the heaven and as continually widening it (51:47), long before the expansion of the universe could be observed.
 
-It also contains striking numerical patterns, despite having been recited piecemeal and outside its final order. The nouns *malak* (angel) and *shayṭān* (Satan or devil), which the Qur'an sets in opposition throughout, each occur 88 times under the same counting rule.
+It also contains striking numerical patterns, despite having been recited piecemeal and outside its final order. The nouns *malak* (angel) and *shayṭān* (devil), which the Qur'an sets in opposition throughout, each occur 88 times under the same counting rule.
 
 It foretold its own preservation and ease of memorization. The Birmingham folios, containing parts of chapters 18–20, were radiocarbon dated to 568–645 CE with 95.4% probability. Today millions have memorized the entire text of more than 600 pages, most of whom do not speak Arabic as their first language.
 
@@ -149,13 +149,13 @@ Any human-authorship explanation must account for all of these features together
 
 ## The Book
 
-This section of the page argues that the Qur'an could not have been authored by anyone but God, given all of its miraculous qualities that will be presented below.
+This chapter argues that the Qur'an could not have been authored by anyone but God, given all of its miraculous qualities. Those qualities are presented below, in sections grouped by theme.
 <!-- The Qur'an presents a remarkable convergence of signs pointing to its divine origin. Its mode of revelation, a literary character that its first and most capable audience could not answer, and intricate composition stand alongside the historical and natural knowledge preserved in its text, the numerical patterns running through it, its fulfilled predictions, extraordinary preservation, depth of guidance, and its relationship with the Messenger ﷺ. Taken together, they form a powerful and comprehensive case that the Qur'an is what it declares itself to be: revelation from God. -->
 
 ### <span class="num-roman">I.</span> How the Qur'an Emerged
 {: #mode-of-revelation }
 
-1. The Qur'an was delivered entirely by oral recitation through Prophet Muhammad ﷺ, a man from seventh-century Mecca who could neither read nor write.
+1. The Qur'an was delivered entirely by oral recitation through Prophet Muhammad ﷺ, a man from seventh-century Arabia who could neither read nor write.
     > The Qur'an stated this openly before people who had known the Prophet ﷺ throughout his life. Had he been known as a reader, a writer, or a student of earlier scriptures, his opponents had every reason to expose the claim immediately and discredit him as a liar. The verse is quoted below.
     {: .gloss }
     > “You ˹O Prophet˺ could not read any writing ˹even˺ before this ˹revelation˺, nor could you write at all. Otherwise, the people of falsehood would have been suspicious.” (**Sūrat al-ʿAnkabūt 29:48**), Dr. Mustafa Khattab, *The Clear Quran*
@@ -163,7 +163,7 @@ This section of the page argues that the Qur'an could not have been authored by 
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَمَا كُنتَ تَتْلُوا۟ مِن قَبْلِهِۦ مِن كِتَـٰبٍ وَلَا تَخُطُّهُۥ بِيَمِينِكَ ۖ إِذًا لَّٱرْتَابَ ٱلْمُبْطِلُونَ ۝٤٨﴾ <span class="ayah-ref">سُورَةُ العَنكَبُوتِ</span></div>
     {: .quote }
 
-1. The Qur'an was not delivered from beginning to end as a prewritten book. It was revealed in separate portions over twenty-three years, often in response to unforeseen questions and circumstances: persecution, migration, war, treaties, family disputes, legal questions, theological challenges, internal failures, victories, and defeats.
+1. The Qur'an was not delivered from beginning to end as a prewritten book. It was revealed in separate portions over twenty-three years, often in response to unforeseeable questions and circumstances: persecution, migration, war, treaties, family disputes, legal questions, theological challenges, victories, and defeats.
 
 1. The Qur'an's final verse order is not simply the chronological order of revelation. Prophet Muhammad ﷺ directed where newly revealed passages belonged within chapters, and remarkably, material revealed years apart came to form coherent literary and thematic units in the Qur'an as recited today.
 
