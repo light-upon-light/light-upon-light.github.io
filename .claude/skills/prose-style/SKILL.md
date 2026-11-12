@@ -152,9 +152,11 @@ do not make the contrast themselves.
 ## Mechanics
 
 - Em dashes are unspaced and used rarely.
-- No bold inside running prose. Bold is reserved for lead-in labels that open a
-  paragraph or list item (`**A note on terms.**`), and citations keep their
-  existing `**Sūrat …**` convention inside blockquotes.
+- Bold is for labels and titles. In running prose, use it rarely and
+  deliberately, only where the reader would otherwise miss what matters most.
+  If removing it loses nothing, remove it.
+- Italics mark a word rather than stress it: a term, a transliteration, a
+  word the meaning turns on.
 - Always write ﷺ after the Prophet's name or title. Spell it Qur'an.
 - Never invent a quotation, source, consensus, or historical fact. Never write
   Qur'anic Arabic or a hadith number from memory.

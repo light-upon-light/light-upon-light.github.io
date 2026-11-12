@@ -12,11 +12,23 @@ colour: **revealed text** (`{: .quote }`, `--site-quote-gold`), a
 `--site-src-text` text), and the author's **commentary** (`{: .gloss }`,
 `--site-gloss-border` with a 5% wash, `--site-gloss-bg`). The tag is a
 kramdown inline attribute list on the line directly after the block — plain
-markdown, so MD033 stays as it is. Tag a quotation anywhere; `.src` and
-`.gloss` only appear indented under a bullet. A blockquote holding only a
+markdown, so MD033 stays as it is. The tag sits at the blockquote's own
+indent with no `>`; written as `> {: .src }` it tags the paragraph inside
+instead, and the block keeps the default rule. A blockquote holding only a
 link stays untagged and keeps `--site-blockquote-border-default`, decoupled
 from `--mm-primary-color` because that variable does two opposing jobs (see
 its comment in `_dirt.scss`).
+
+What goes where:
+
+- **Plain paragraphs** carry the case itself: the facts, examples,
+  findings and testimony a reader needs before accepting it.
+- **A gloss** is the author stepping back from that case: what it implies,
+  why it matters, or context that sits alongside it. It is a side panel, so
+  the case should still stand if the reader skips it.
+- **A verse** almost always goes in its own `.quote` block, unless we only want to highlight a very small excerpt from it.
+- **Apparatus** goes in `.src`: citations, and notes on method such as how a
+  count was made.
 
 The `--site-*` properties behind those colours are defined in
 `_sass/minimal-mistakes/skins/_dirt.scss` — see `styling.md`.
@@ -126,7 +138,7 @@ wanted again, is `quran-more quran-more--plain`.
 Never put a heading inside a box, or the TOC and scrollspy point at hidden
 content; `quran.md`'s preservation box is the one standing exception. A box
 that splits a numbered list restarts its count at 1 — continue it with
-`{: start="N"}` touching the boxed list's last item (traps below).
+`{: start="N"}` on the line before the boxed list's first item (traps below).
 
 ## Evidence numbering
 
@@ -138,7 +150,9 @@ sub-heading or closed box splits it into, and drops the list marker and
 indent. So `{: start="N"}` no longer sets what readers see there. Keep it
 anyway: it is what a reader without JavaScript gets. Author the points as
 ordinary `1.` items. A point may run to several paragraphs: indent the later
-ones under the item like its quotes. Each label links to its point at
+ones under the item like its quotes. A point with a short title puts it alone
+on the item's first line with no colon, optionally in bold, and starts its text as the
+next paragraph. Each label links to its point at
 `#<heading-id>-<n>` (`/quran#literary-miracle-14`), so inserting a point
 renumbers the rest of its section and moves those links.
 
@@ -179,10 +193,11 @@ converter rather than assumed:
   anchor has to be an inline `<span id="ref-N"></span>` at the start of the
   item's text instead.
 - A markdown list restarts numbering at 1 every time a heading interrupts it.
-  To continue a running count across a heading, add `{: start="N"}` on its
-  own line touching the group's *last* item with **no blank line** in
-  between — a blank line there makes kramdown attach the IAL to whatever
-  follows (e.g. the next heading) instead of the list.
+  To continue a running count across a heading, put `{: start="N"}` on its
+  own line directly *before* the list's first item. After the last item it
+  works only when touching it with no blank line, and not even then when the
+  item ends in a `{% include %}` or another IAL; otherwise kramdown attaches
+  it to whatever follows (e.g. the next heading) and the list restarts at 1.
 
 Numbers are assigned sequentially by physical position of the `[^N]:` /
 list-item source, not preserved from any prior footnote label — so an
