@@ -1304,6 +1304,99 @@
   })();
 
 /* --------------------------------------------------------------------------
+   Evidence labels
+
+   Numbers the points of every numbered section (an h3 carrying a
+   .num-roman/.num-alpha span) as "<section>.<point>", with the heading's
+   roman numeral written as a number -- "2.14" under "II." -- and makes the
+   label a link to that point (#<section-id>-<point>, e.g.
+   #literary-miracle-14, keyed to the heading's pinned id so a section can
+   move without breaking links into it). The count runs straight through a
+   section, across the lists a read-more tail, a sub-heading or a closed box
+   splits it into, so no two points share a label; an ol's own `start` is
+   ignored. The label goes at the start of the point's first line.
+
+   Three styles, `.ev--<name>` on .page__content, styled in site.scss:
+     bar    bold gold number, a thin upright rule, then the text (default)
+     fill   the number in a soft gold chip
+     serif  the reading serif's old-style figures, bold gold, no box
+   EVIDENCE_STYLE below picks the site's style; ?ev=<name> on any URL
+   previews another without changing it.
+
+   Runs before the read-more clamp, which measures heights the labels add
+   to. Progressive enhancement: with no JS the lists keep their ordinary
+   numbers (.ev-list, which drops them, is only added here).
+   -------------------------------------------------------------------------- */
+
+  (function () {
+    var EVIDENCE_STYLE = "bar";
+    var STYLES = ["bar", "fill", "serif"];
+
+    var root = document.querySelector(".page__content");
+    if (!root || !document.createTreeWalker) return;
+
+    var asked = /[?&]ev=([a-z]+)(?=&|$)/.exec(location.search);
+    var style = asked && STYLES.indexOf(asked[1]) !== -1 ? asked[1] : EVIDENCE_STYLE;
+
+    function fromRoman(s) {
+      var v = { I: 1, V: 5, X: 10, L: 50, C: 100 }, n = 0;
+      for (var i = 0; i < s.length; i++) {
+        var a = v[s[i]], b = v[s[i + 1]];
+        if (!a) return s; // not a roman numeral (a .num-alpha letter): keep it
+        n += b > a ? -a : a;
+      }
+      return String(n);
+    }
+
+    var walker = document.createTreeWalker(root, NodeFilter.SHOW_ELEMENT);
+    var section = null, numeral = "", count = 0, any = false, el;
+
+    while ((el = walker.nextNode())) {
+      if (el.tagName === "H2" || el.tagName === "H3") {
+        var num = el.tagName === "H3" && el.querySelector(".num-roman, .num-alpha");
+        section = num && el.id ? el : null;
+        numeral = num ? fromRoman(num.textContent.replace(/\.\s*$/, "").trim()) : "";
+        count = 0;
+      } else if (el.tagName === "OL" && section &&
+                 !el.parentElement.closest("li, blockquote, .footnotes, .tldr")) {
+        el.classList.add("ev-list");
+        any = true;
+        Array.prototype.forEach.call(el.children, function (li) {
+          count += 1;
+          li.id = section.id + "-" + count;
+          var label = document.createElement("a");
+          label.className = "ev-id";
+          label.href = "#" + li.id;
+          label.textContent = numeral + "." + count;
+          label.title = "Link to this point";
+          // Into the first paragraph when the item opens with one, so the
+          // label shares its line rather than sitting on one of its own.
+          var first = li.firstChild;
+          while (first && first.nodeType === 3 && !first.nodeValue.trim()) first = first.nextSibling;
+          var host = first && first.nodeType === 1 && first.tagName === "P" ? first : li;
+          host.insertBefore(label, host.firstChild);
+        });
+      }
+    }
+
+    if (!any) return;
+    root.classList.add("ev--" + style);
+
+    // The browser looks for a #fragment before these ids exist, so a link
+    // to one point (#literary-miracle-14) would land at the top of the page.
+    // Go there once the page has loaded and stopped shifting. (A point still
+    // folded inside a read-more tail is display:none and can't be reached.)
+    var hit = location.hash && document.getElementById(decodeURIComponent(location.hash.slice(1)));
+    if (hit && hit.parentElement && hit.parentElement.classList.contains("ev-list")) {
+      // "instant": a smooth scroll (html's scroll-behavior) is cancelled by
+      // the scrolls the page makes as it settles, and never arrives.
+      var go = function () { hit.scrollIntoView({ block: "start", behavior: "instant" }); };
+      if (document.readyState === "complete") go();
+      else window.addEventListener("load", go);
+    }
+  })();
+
+/* --------------------------------------------------------------------------
    Glossary term hovers
 
    Reads the page-scoped JSON that _includes/glossary-key.html emits

@@ -128,6 +128,26 @@ content; `quran.md`'s preservation box is the one standing exception. A box
 that splits a numbered list restarts its count at 1 — continue it with
 `{: start="N"}` touching the boxed list's last item (traps below).
 
+## Evidence numbering
+
+The numbered points in `quran.md`'s numbered sections (an `###` heading
+with a `num-roman` span) are labelled `2.14`, not `14.`. `site.js`
+(*Evidence labels*) writes the heading's numeral as a number, counts
+straight through the section, across every list a read-more tail, `####`
+sub-heading or closed box splits it into, and drops the list marker and
+indent. So `{: start="N"}` no longer sets what readers see there. Keep it
+anyway: it is what a reader without JavaScript gets. Author the points as
+ordinary `1.` items. A point may run to several paragraphs: indent the later
+ones under the item like its quotes. Each label links to its point at
+`#<heading-id>-<n>` (`/quran#literary-miracle-14`), so inserting a point
+renumbers the rest of its section and moves those links.
+
+The label has three styles, set by `EVIDENCE_STYLE` at the top of that
+block: `bar` (the default: bold number, thin upright rule), `fill` (soft
+gold chip) and `serif` (old-style figures in the reading face). Add
+`?ev=fill` or `?ev=serif` to a page's URL to preview one without changing
+the setting.
+
 ## Source citations
 
 Inline citations are plain markdown links with a kramdown inline attribute

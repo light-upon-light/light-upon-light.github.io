@@ -1645,6 +1645,92 @@
     text-underline-offset: 0.25em;
   }
 
+  /* ---- Evidence labels -------------------------------------------------
+
+     The numbered points of quran.md's sections, labelled "2.14" by site.js
+     (Evidence labels), which also adds .ev-list to each list and
+     ev--<style> to .page__content. The label replaces the list marker and
+     runs into the point's first line, so the list loses its indent: a
+     point's later paragraphs, quotes and boxes sit at the same left edge
+     as its first line.
+
+     Three styles, picked by EVIDENCE_STYLE in site.js (?ev=<name> previews
+     one):
+       bar    bold sans number, then a thin upright rule (default)
+       fill   the number in a soft gold chip
+       serif  the reading serif's old-style figures, no box
+     Gold is --site-quote-gold, the section numerals' own, since the label
+     carries that numeral; the bar's rule is --site-evidence-rule and the
+     chip --site-evidence-fill. */
+  .page__content ol.ev-list {
+    list-style: none;
+    padding-inline-start: 0;
+  }
+
+  .page__content ol.ev-list > li + li {
+    margin-top: 1.1em;
+  }
+
+  .page__content .ev-id {
+    display: inline-block;
+    margin-inline-end: 0.5em;
+    font-family: "Amiri", "Karla", -apple-system, BlinkMacSystemFont, "Roboto",
+      "Segoe UI", Arial, sans-serif;
+    font-size: 0.72em;
+    font-weight: 700;
+    font-variant-numeric: tabular-nums;
+    letter-spacing: 0.06em;
+    line-height: 1.5;
+    vertical-align: 0.12em;
+    color: var(--site-quote-gold);
+    text-decoration: none;
+    -webkit-hyphens: manual;
+    hyphens: manual;
+  }
+
+  .page__content .ev-id:hover,
+  .page__content .ev-id:focus-visible {
+    text-decoration: underline;
+    text-underline-offset: 0.2em;
+  }
+
+  .page__content.ev--bar .ev-id {
+    margin-inline-end: 0.6em;
+    padding-inline-end: 0.6em;
+    border-inline-end: 1px solid var(--site-evidence-rule);
+    font-size: 0.78em;
+    line-height: 1.1;
+    vertical-align: 0.06em;
+  }
+
+  .page__content.ev--fill .ev-id {
+    padding: 0.05em 0.45em;
+    border-radius: 3px;
+    background: var(--site-evidence-fill);
+  }
+
+  .page__content.ev--serif .ev-id {
+    margin-inline-end: 0.55em;
+    font-family: inherit;
+    font-size: 1em;
+    font-variant-numeric: oldstyle-nums tabular-nums;
+    letter-spacing: 0;
+    line-height: inherit;
+    vertical-align: baseline;
+  }
+
+  /* A read-more tail's one-line teaser: the label is real content now, so
+     drop the stand-in number the teaser draws for an outside marker, and
+     the gutter it widens into to hold it. */
+  .page__content ol.ev-list > .read-more__teaser {
+    margin-inline-start: 0;
+    padding-inline-start: 0;
+  }
+
+  .page__content ol.ev-list > .read-more__teaser::before {
+    content: none;
+  }
+
   @media print {
     .page__content .read-more__folded {
       display: list-item;

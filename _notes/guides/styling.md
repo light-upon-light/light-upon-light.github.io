@@ -54,6 +54,14 @@ item is left, and "Show less" comes once all are out. The
 script also sets `.is-clamped`, so no-JS and print show the full body. A body
 that already fits is left unclamped.
 
+`.ev-id` is the `2.14` label `site.js` puts at the start of each numbered
+point in `quran.md`'s sections, and `.ev-list` the list it drops the marker
+and indent from. The style (`.ev--bar`, `.ev--fill`, `.ev--serif` on
+`.page__content`) is one constant in `site.js`; `?ev=<name>` previews
+another. Gold is `--site-quote-gold`, like the section numerals; the bar's
+rule and the chip are `--site-evidence-rule` and `--site-evidence-fill`.
+Markup and numbering rules are in `formatting_guide.md`.
+
 `.toc` keeps the theme's box and per-entry dividers at both widths; the title
 bar is recoloured to `--site-toctitle-bg`/`-text` (a verdigris wash in light,
 sand in dark) because the solid primary fill read as too heavy. The light

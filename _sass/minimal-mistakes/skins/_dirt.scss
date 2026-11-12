@@ -192,7 +192,9 @@ $black: #000;
 
   /* This repo's own palette: gold for revealed text, taupe/sepia for the
      apparatus, verdigris for the author's own commentary. */
-  --site-quote-gold: #{$gold}; // blockquote.quote border, .num-roman/.num-alpha, #font-size-toggle[aria-pressed]
+  --site-quote-gold: #{$gold}; // blockquote.quote border, .num-roman/.num-alpha, .ev-id labels, #font-size-toggle[aria-pressed]
+  --site-evidence-rule: #{$gold-tint}; // .ev-id upright rule (bar evidence style); decorative, no contrast floor
+  --site-evidence-fill: #{rgba($gold, 0.12)}; // .ev-id chip (fill evidence style), under --site-quote-gold text
   --site-src-text: #{$umber-50}; // blockquote.src text, .yt-embed summary, breadcrumb current crumb, quran-return text
   --site-src-border: #{$umber-67}; // blockquote.src / .yt-embed / .quran-return border
   --site-gloss-border: #{$verdigris}; // blockquote.gloss border
@@ -319,6 +321,8 @@ $black: #000;
   --mm-code-notice-bg-danger: #31211e;
 
   --site-quote-gold: #{$gold-bright}; // dirt's light gold reads muddy on a dark ground; lifted
+  --site-evidence-rule: #{$gold-shade};
+  --site-evidence-fill: #{rgba($gold-bright, 0.14)};
   --site-src-text: #{$umber-74};
   --site-src-border: #{$umber-60};
   --site-gloss-border: #{$verdigris-bright};
