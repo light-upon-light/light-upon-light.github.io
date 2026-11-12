@@ -43,7 +43,7 @@ The sources describe extraordinary events in public and private settings. These 
 
 - <span id="src-2874"></span>The Qur’an was a public part of Prophet Muhammad’s ﷺ mission: it was recited openly, memorized, written, challenged, and transmitted rather than being known only through a private vision.
 
-    > "And if you are in doubt about what We have sent down upon Our Servant [Muhammad], then produce a surah the like thereof and call upon your witnesses other than Allah, if you should be truthful." (**Sūrat al-Baqarah 2:23**), Saheeh International[1](/messenger/sources#ref-1){: .footnote}[11](/messenger/sources#ref-11){: .footnote}[12](/messenger/sources#ref-12){: .footnote}[36](/messenger/sources#ref-36){: .footnote}
+    > "And if you are in doubt about what We have sent down upon Our Servant [Muhammad], then produce a surah the like thereof and call upon your witnesses other than Allah, if you should be truthful." (**Sūrat al-Baqarah 2:23**)[1](/messenger/sources#ref-1){: .footnote}[11](/messenger/sources#ref-11){: .footnote}[12](/messenger/sources#ref-12){: .footnote}[36](/messenger/sources#ref-36){: .footnote}
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَإِن كُنتُمْ فِى رَيْبٍ مِّمَّا نَزَّلْنَا عَلَىٰ عَبْدِنَا فَأْتُوا۟ بِسُورَةٍ مِّن مِّثْلِهِۦ وَٱدْعُوا۟ شُهَدَآءَكُم مِّن دُونِ ٱللَّهِ إِن كُنتُمْ صَـٰدِقِينَ ۝٢٣﴾ <span class="ayah-ref">سُورَةُ البَقَرَةِ</span></div>
     {: .quote }
@@ -70,14 +70,14 @@ The sources describe extraordinary events in public and private settings. These 
 
 - <span id="src-2901"></span>**The splitting of the moon** is associated explicitly with Prophet Muhammad ﷺ in both the Qur’an and hadith. Ibn Masud’s report in Bukhari says that the moon appeared divided into two parts and that Prophet Muhammad ﷺ told those present to bear witness.
 
-    > "The Hour has drawn near and the moon was split ˹in two˺." (**Sūrat al-Qamar 54:1**), Dr. Mustafa Khattab, *The Clear Quran*[1](/messenger/sources#ref-1){: .footnote}[11](/messenger/sources#ref-11){: .footnote}[12](/messenger/sources#ref-12){: .footnote}[36](/messenger/sources#ref-36){: .footnote}; *Sahih al-Bukhari* 3636[2](/messenger/sources#ref-2){: .footnote}[13](/messenger/sources#ref-13){: .footnote}[43](/messenger/sources#ref-43){: .footnote}; *Sahih al-Bukhari* 3637[2](/messenger/sources#ref-2){: .footnote}[13](/messenger/sources#ref-13){: .footnote}[43](/messenger/sources#ref-43){: .footnote}, an Anas report that Meccans asked for a sign
+    > "The Hour has drawn near and the moon was split ˹in two˺." (**Sūrat al-Qamar 54:1**)[1](/messenger/sources#ref-1){: .footnote}[11](/messenger/sources#ref-11){: .footnote}[12](/messenger/sources#ref-12){: .footnote}[36](/messenger/sources#ref-36){: .footnote}; *Sahih al-Bukhari* 3636[2](/messenger/sources#ref-2){: .footnote}[13](/messenger/sources#ref-13){: .footnote}[43](/messenger/sources#ref-43){: .footnote}; *Sahih al-Bukhari* 3637[2](/messenger/sources#ref-2){: .footnote}[13](/messenger/sources#ref-13){: .footnote}[43](/messenger/sources#ref-43){: .footnote}, an Anas report that Meccans asked for a sign
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿ٱقْتَرَبَتِ ٱلسَّاعَةُ وَٱنشَقَّ ٱلْقَمَرُ ۝١﴾ <span class="ayah-ref">سُورَةُ القَمَرِ</span></div>
     {: .quote }
 
     The next Qur’anic verse adds an important detail: it portrays opponents as seeing a “sign” and calling it magic rather than saying that nothing had happened. This matters within the Qur’an’s own public account of the dispute, but it is not independent non-Muslim confirmation of the event.
 
-    > "Yet, whenever they see a sign, they turn away, saying, 'Same old magic!'" (**Sūrat al-Qamar 54:2**), Dr. Mustafa Khattab, *The Clear Quran*[1](/messenger/sources#ref-1){: .footnote}[11](/messenger/sources#ref-11){: .footnote}[12](/messenger/sources#ref-12){: .footnote}[36](/messenger/sources#ref-36){: .footnote}
+    > "Yet, whenever they see a sign, they turn away, saying, 'Same old magic!'" (**Sūrat al-Qamar 54:2**)[1](/messenger/sources#ref-1){: .footnote}[11](/messenger/sources#ref-11){: .footnote}[12](/messenger/sources#ref-12){: .footnote}[36](/messenger/sources#ref-36){: .footnote}
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَإِن يَرَوْا۟ ءَايَةً يُعْرِضُوا۟ وَيَقُولُوا۟ سِحْرٌ مُّسْتَمِرٌّ ۝٢﴾ <span class="ayah-ref">سُورَةُ القَمَرِ</span></div>
     {: .quote }
@@ -117,7 +117,7 @@ The sources describe extraordinary events in public and private settings. These 
 
 - <span id="src-2948"></span>**The Night Journey** is claimed directly in the Qur’an. The text says that God took His servant by night from the Sacred Mosque in Mecca to the “farthest mosque,” or place of worship, traditionally identified with Jerusalem, in order to show him divine signs.
 
-    > "Glory be to the One Who took His servant ˹Muḥammad˺ by night from the Sacred Mosque to the Farthest Mosque whose surroundings We have blessed, so that We may show him some of Our signs. Indeed, He alone is the All-Hearing, All-Seeing." (**Sūrat al-Isrāʾ 17:1**), Dr. Mustafa Khattab, *The Clear Quran*[1](/messenger/sources#ref-1){: .footnote}[11](/messenger/sources#ref-11){: .footnote}[12](/messenger/sources#ref-12){: .footnote}[36](/messenger/sources#ref-36){: .footnote}
+    > "Glory be to the One Who took His servant ˹Muḥammad˺ by night from the Sacred Mosque to the Farthest Mosque whose surroundings We have blessed, so that We may show him some of Our signs. Indeed, He alone is the All-Hearing, All-Seeing." (**Sūrat al-Isrāʾ 17:1**)[1](/messenger/sources#ref-1){: .footnote}[11](/messenger/sources#ref-11){: .footnote}[12](/messenger/sources#ref-12){: .footnote}[36](/messenger/sources#ref-36){: .footnote}
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿سُبْحَـٰنَ ٱلَّذِىٓ أَسْرَىٰ بِعَبْدِهِۦ لَيْلًا مِّنَ ٱلْمَسْجِدِ ٱلْحَرَامِ إِلَى ٱلْمَسْجِدِ ٱلْأَقْصَا ٱلَّذِى بَـٰرَكْنَا حَوْلَهُۥ لِنُرِيَهُۥ مِنْ ءَايَـٰتِنَآ ۚ إِنَّهُۥ هُوَ ٱلسَّمِيعُ ٱلْبَصِيرُ ۝١﴾ <span class="ayah-ref">سُورَةُ الإِسۡرَاءِ</span></div>
     {: .quote }
@@ -132,7 +132,7 @@ The sources describe extraordinary events in public and private settings. These 
 
 - <span id="src-2963"></span>Miracle reports should be evaluated separately from the moral and biographical evidence. If they are historically reliable, they support a supernatural mission directly; if a reader remains uncertain about them, the other evidence can still be assessed on its own.
 
-    > "Nothing keeps Us from sending the ˹demanded˺ signs except that they had ˹already˺ been denied by earlier peoples. And We gave Thamûd the she-camel as a clear sign, but they wrongfully rejected it. We only send the signs as a warning." (**Sūrat al-Isrāʾ 17:59**), Dr. Mustafa Khattab, *The Clear Quran*[1](/messenger/sources#ref-1){: .footnote}[11](/messenger/sources#ref-11){: .footnote}[12](/messenger/sources#ref-12){: .footnote}[36](/messenger/sources#ref-36){: .footnote}
+    > "Nothing keeps Us from sending the ˹demanded˺ signs except that they had ˹already˺ been denied by earlier peoples. And We gave Thamûd the she-camel as a clear sign, but they wrongfully rejected it. We only send the signs as a warning." (**Sūrat al-Isrāʾ 17:59**)[1](/messenger/sources#ref-1){: .footnote}[11](/messenger/sources#ref-11){: .footnote}[12](/messenger/sources#ref-12){: .footnote}[36](/messenger/sources#ref-36){: .footnote}
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَمَا مَنَعَنَآ أَن نُّرْسِلَ بِٱلْـَٔايَـٰتِ إِلَّآ أَن كَذَّبَ بِهَا ٱلْأَوَّلُونَ ۚ وَءَاتَيْنَا ثَمُودَ ٱلنَّاقَةَ مُبْصِرَةً فَظَلَمُوا۟ بِهَا ۚ وَمَا نُرْسِلُ بِٱلْـَٔايَـٰتِ إِلَّا تَخْوِيفًا ۝٥٩﴾ <span class="ayah-ref">سُورَةُ الإِسۡرَاءِ</span></div>
     {: .quote }

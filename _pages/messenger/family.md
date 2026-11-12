@@ -34,7 +34,7 @@ The home is a place where duties, rights, and affection meet. These entries cove
 
 - <span id="src-1436"></span>The Qur’an places kindness to parents immediately after worship of God and forbids even a small expression of contempt toward them in old age.
 
-    > "For your Lord has decreed that you worship none but Him. And honour your parents. If one or both of them reach old age in your care, never say to them ˹even˺ 'ugh,' nor yell at them. Rather, address them respectfully." (**Sūrat al-Isrāʾ 17:23**), Dr. Mustafa Khattab, *The Clear Quran*[1](/messenger/sources#ref-1){: .footnote}[11](/messenger/sources#ref-11){: .footnote}[12](/messenger/sources#ref-12){: .footnote}[36](/messenger/sources#ref-36){: .footnote}
+    > "For your Lord has decreed that you worship none but Him. And honour your parents. If one or both of them reach old age in your care, never say to them ˹even˺ 'ugh,' nor yell at them. Rather, address them respectfully." (**Sūrat al-Isrāʾ 17:23**)[1](/messenger/sources#ref-1){: .footnote}[11](/messenger/sources#ref-11){: .footnote}[12](/messenger/sources#ref-12){: .footnote}[36](/messenger/sources#ref-36){: .footnote}
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَقَضَىٰ رَبُّكَ أَلَّا تَعْبُدُوٓا۟ إِلَّآ إِيَّاهُ وَبِٱلْوَٰلِدَيْنِ إِحْسَـٰنًا ۚ إِمَّا يَبْلُغَنَّ عِندَكَ ٱلْكِبَرَ أَحَدُهُمَآ أَوْ كِلَاهُمَا فَلَا تَقُل لَّهُمَآ أُفٍّ وَلَا تَنْهَرْهُمَا وَقُل لَّهُمَا قَوْلًا كَرِيمًا ۝٢٣﴾ <span class="ayah-ref">سُورَةُ الإِسۡرَاءِ</span></div>
     {: .quote }
@@ -46,7 +46,7 @@ The home is a place where duties, rights, and affection meet. These entries cove
 
 - <span id="src-1448"></span>The Qur’an explicitly acknowledges the physical burden a mother bears in pregnancy, childbirth, and nursing.
 
-    > "And We have enjoined upon man [care] for his parents. His mother carried him, [increasing her] in weakness upon weakness, and his weaning is in two years. Be grateful to Me and to your parents; to Me is the [final] destination." (**Sūrat Luqmān 31:14**), Saheeh International[1](/messenger/sources#ref-1){: .footnote}[11](/messenger/sources#ref-11){: .footnote}[12](/messenger/sources#ref-12){: .footnote}[36](/messenger/sources#ref-36){: .footnote}
+    > "And We have enjoined upon man [care] for his parents. His mother carried him, [increasing her] in weakness upon weakness, and his weaning is in two years. Be grateful to Me and to your parents; to Me is the [final] destination." (**Sūrat Luqmān 31:14**)[1](/messenger/sources#ref-1){: .footnote}[11](/messenger/sources#ref-11){: .footnote}[12](/messenger/sources#ref-12){: .footnote}[36](/messenger/sources#ref-36){: .footnote}
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَوَصَّيْنَا ٱلْإِنسَـٰنَ بِوَٰلِدَيْهِ حَمَلَتْهُ أُمُّهُۥ وَهْنًا عَلَىٰ وَهْنٍ وَفِصَـٰلُهُۥ فِى عَامَيْنِ أَنِ ٱشْكُرْ لِى وَلِوَٰلِدَيْكَ إِلَىَّ ٱلْمَصِيرُ ۝١٤﴾ <span class="ayah-ref">سُورَةُ لُقۡمَانَ</span></div>
     {: .quote }
@@ -76,21 +76,21 @@ The home is a place where duties, rights, and affection meet. These entries cove
 
 - <span id="src-1504"></span>The Qur’an forbids treating women as property that can be inherited against their will.
 
-    > "O you who have believed, it is not lawful for you to inherit women by compulsion. And do not make difficulties for them in order to take [back] part of what you gave them unless they commit a clear immorality. And live with them in kindness. For if you dislike them - perhaps you dislike a thing and Allah makes therein much good." (**Sūrat al-Nisāʾ 4:19**), Saheeh International[1](/messenger/sources#ref-1){: .footnote}[11](/messenger/sources#ref-11){: .footnote}[12](/messenger/sources#ref-12){: .footnote}[36](/messenger/sources#ref-36){: .footnote}
+    > "O you who have believed, it is not lawful for you to inherit women by compulsion. And do not make difficulties for them in order to take [back] part of what you gave them unless they commit a clear immorality. And live with them in kindness. For if you dislike them - perhaps you dislike a thing and Allah makes therein much good." (**Sūrat al-Nisāʾ 4:19**)[1](/messenger/sources#ref-1){: .footnote}[11](/messenger/sources#ref-11){: .footnote}[12](/messenger/sources#ref-12){: .footnote}[36](/messenger/sources#ref-36){: .footnote}
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا يَحِلُّ لَكُمْ أَن تَرِثُوا۟ ٱلنِّسَآءَ كَرْهًا ۖ وَلَا تَعْضُلُوهُنَّ لِتَذْهَبُوا۟ بِبَعْضِ مَآ ءَاتَيْتُمُوهُنَّ إِلَّآ أَن يَأْتِينَ بِفَـٰحِشَةٍ مُّبَيِّنَةٍ ۚ وَعَاشِرُوهُنَّ بِٱلْمَعْرُوفِ ۚ فَإِن كَرِهْتُمُوهُنَّ فَعَسَىٰٓ أَن تَكْرَهُوا۟ شَيْـًٔا وَيَجْعَلَ ٱللَّهُ فِيهِ خَيْرًا كَثِيرًا ۝١٩﴾ <span class="ayah-ref">سُورَةُ النِّسَاءِ</span></div>
     {: .quote }
 
 - <span id="src-1511"></span>The Qur’an gives women as well as men legally defined shares of inheritance.[54](/messenger/sources#ref-54){: .footnote}[55](/messenger/sources#ref-55){: .footnote}
 
-    > "For men there is a share in what their parents and close relatives leave, and for women there is a share in what their parents and close relatives leave—whether it is little or much. ˹These are˺ obligatory shares." (**Sūrat al-Nisāʾ 4:7**), Dr. Mustafa Khattab, *The Clear Quran*[1](/messenger/sources#ref-1){: .footnote}[11](/messenger/sources#ref-11){: .footnote}[12](/messenger/sources#ref-12){: .footnote}[36](/messenger/sources#ref-36){: .footnote}
+    > "For men there is a share in what their parents and close relatives leave, and for women there is a share in what their parents and close relatives leave—whether it is little or much. ˹These are˺ obligatory shares." (**Sūrat al-Nisāʾ 4:7**)[1](/messenger/sources#ref-1){: .footnote}[11](/messenger/sources#ref-11){: .footnote}[12](/messenger/sources#ref-12){: .footnote}[36](/messenger/sources#ref-36){: .footnote}
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿لِّلرِّجَالِ نَصِيبٌ مِّمَّا تَرَكَ ٱلْوَٰلِدَانِ وَٱلْأَقْرَبُونَ وَلِلنِّسَآءِ نَصِيبٌ مِّمَّا تَرَكَ ٱلْوَٰلِدَانِ وَٱلْأَقْرَبُونَ مِمَّا قَلَّ مِنْهُ أَوْ كَثُرَ ۚ نَصِيبًا مَّفْرُوضًا ۝٧﴾ <span class="ayah-ref">سُورَةُ النِّسَاءِ</span></div>
     {: .quote }
 
 - <span id="src-1549"></span>The Qur’an requires the *mahr* [marriage gift owed to the bride] to be given to the woman herself rather than treated as family property.
 
-    > "Give women ˹you wed˺ their due dowries graciously. But if they waive some of it willingly, then you may enjoy it freely with a clear conscience." (**Sūrat al-Nisāʾ 4:4**), Dr. Mustafa Khattab, *The Clear Quran*[1](/messenger/sources#ref-1){: .footnote}[11](/messenger/sources#ref-11){: .footnote}[12](/messenger/sources#ref-12){: .footnote}[36](/messenger/sources#ref-36){: .footnote}
+    > "Give women ˹you wed˺ their due dowries graciously. But if they waive some of it willingly, then you may enjoy it freely with a clear conscience." (**Sūrat al-Nisāʾ 4:4**)[1](/messenger/sources#ref-1){: .footnote}[11](/messenger/sources#ref-11){: .footnote}[12](/messenger/sources#ref-12){: .footnote}[36](/messenger/sources#ref-36){: .footnote}
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَءَاتُوا۟ ٱلنِّسَآءَ صَدُقَـٰتِهِنَّ نِحْلَةً ۚ فَإِن طِبْنَ لَكُمْ عَن شَىْءٍ مِّنْهُ نَفْسًا فَكُلُوهُ هَنِيٓـًٔا مَّرِيٓـًٔا ۝٤﴾ <span class="ayah-ref">سُورَةُ النِّسَاءِ</span></div>
     {: .quote }
@@ -115,14 +115,14 @@ The home is a place where duties, rights, and affection meet. These entries cove
 
 - <span id="src-1520"></span>The Qur’an describes marriage as a relationship of tranquility, affection, and mercy.
 
-    > "And of His signs is that He created for you from yourselves mates that you may find tranquillity in them; and He placed between you affection and mercy. Indeed in that are signs for a people who give thought." (**Sūrat al-Rūm 30:21**), Saheeh International[1](/messenger/sources#ref-1){: .footnote}[11](/messenger/sources#ref-11){: .footnote}[12](/messenger/sources#ref-12){: .footnote}[36](/messenger/sources#ref-36){: .footnote}
+    > "And of His signs is that He created for you from yourselves mates that you may find tranquillity in them; and He placed between you affection and mercy. Indeed in that are signs for a people who give thought." (**Sūrat al-Rūm 30:21**)[1](/messenger/sources#ref-1){: .footnote}[11](/messenger/sources#ref-11){: .footnote}[12](/messenger/sources#ref-12){: .footnote}[36](/messenger/sources#ref-36){: .footnote}
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَمِنْ ءَايَـٰتِهِۦٓ أَنْ خَلَقَ لَكُم مِّنْ أَنفُسِكُمْ أَزْوَٰجًا لِّتَسْكُنُوٓا۟ إِلَيْهَا وَجَعَلَ بَيْنَكُم مَّوَدَّةً وَرَحْمَةً ۚ إِنَّ فِى ذَٰلِكَ لَـَٔايَـٰتٍ لِّقَوْمٍ يَتَفَكَّرُونَ ۝٢١﴾ <span class="ayah-ref">سُورَةُ الرُّومِ</span></div>
     {: .quote }
 
 - <span id="src-1527"></span>The Qur’an describes spouses as garments for one another, using clothing as an image of mutual intimacy and protection.
 
-    > "It has been made permissible for you the night preceding fasting to go to your wives [for sexual relations]. They are clothing for you and you are clothing for them. Allah knows that you used to deceive yourselves, so He accepted your repentance and forgave you. So now, have relations with them and seek that which Allah has decreed for you. And eat and drink until the white thread of dawn becomes distinct to you from the black thread [of night]. Then complete the fast until the sunset. And do not have relations with them as long as you are staying for worship in the mosques. These are the limits [set by] Allah, so do not approach them. Thus does Allah make clear His ordinances to the people that they may become righteous." (**Sūrat al-Baqarah 2:187**), Saheeh International[1](/messenger/sources#ref-1){: .footnote}[11](/messenger/sources#ref-11){: .footnote}[12](/messenger/sources#ref-12){: .footnote}[36](/messenger/sources#ref-36){: .footnote}
+    > "It has been made permissible for you the night preceding fasting to go to your wives [for sexual relations]. They are clothing for you and you are clothing for them. Allah knows that you used to deceive yourselves, so He accepted your repentance and forgave you. So now, have relations with them and seek that which Allah has decreed for you. And eat and drink until the white thread of dawn becomes distinct to you from the black thread [of night]. Then complete the fast until the sunset. And do not have relations with them as long as you are staying for worship in the mosques. These are the limits [set by] Allah, so do not approach them. Thus does Allah make clear His ordinances to the people that they may become righteous." (**Sūrat al-Baqarah 2:187**)[1](/messenger/sources#ref-1){: .footnote}[11](/messenger/sources#ref-11){: .footnote}[12](/messenger/sources#ref-12){: .footnote}[36](/messenger/sources#ref-36){: .footnote}
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿أُحِلَّ لَكُمْ لَيْلَةَ ٱلصِّيَامِ ٱلرَّفَثُ إِلَىٰ نِسَآئِكُمْ ۚ هُنَّ لِبَاسٌ لَّكُمْ وَأَنتُمْ لِبَاسٌ لَّهُنَّ ۗ عَلِمَ ٱللَّهُ أَنَّكُمْ كُنتُمْ تَخْتَانُونَ أَنفُسَكُمْ فَتَابَ عَلَيْكُمْ وَعَفَا عَنكُمْ ۖ فَٱلْـَٔـٰنَ بَـٰشِرُوهُنَّ وَٱبْتَغُوا۟ مَا كَتَبَ ٱللَّهُ لَكُمْ ۚ وَكُلُوا۟ وَٱشْرَبُوا۟ حَتَّىٰ يَتَبَيَّنَ لَكُمُ ٱلْخَيْطُ ٱلْأَبْيَضُ مِنَ ٱلْخَيْطِ ٱلْأَسْوَدِ مِنَ ٱلْفَجْرِ ۖ ثُمَّ أَتِمُّوا۟ ٱلصِّيَامَ إِلَى ٱلَّيْلِ ۚ وَلَا تُبَـٰشِرُوهُنَّ وَأَنتُمْ عَـٰكِفُونَ فِى ٱلْمَسَـٰجِدِ ۗ تِلْكَ حُدُودُ ٱللَّهِ فَلَا تَقْرَبُوهَا ۗ كَذَٰلِكَ يُبَيِّنُ ٱللَّهُ ءَايَـٰتِهِۦ لِلنَّاسِ لَعَلَّهُمْ يَتَّقُونَ ۝١٨٧﴾ <span class="ayah-ref">سُورَةُ البَقَرَةِ</span></div>
     {: .quote }
@@ -155,14 +155,14 @@ The home is a place where duties, rights, and affection meet. These entries cove
 
 - <span id="src-1568"></span>The Qur’an forbids using divorce to trap or injure a woman and requires a husband either to retain her honorably or release her honorably.[54](/messenger/sources#ref-54){: .footnote}[55](/messenger/sources#ref-55){: .footnote}
 
-    > "And when you divorce women and they have [nearly] fulfilled their term, either retain them according to acceptable terms or release them according to acceptable terms, and do not keep them, intending harm, to transgress [against them]. And whoever does that has certainly wronged himself. And do not take the verses of Allah in jest. And remember the favor of Allah upon you and what has been revealed to you of the Book and wisdom by which He instructs you. And fear Allah and know that Allah is Knowing of all things." (**Sūrat al-Baqarah 2:231**), Saheeh International[1](/messenger/sources#ref-1){: .footnote}[11](/messenger/sources#ref-11){: .footnote}[12](/messenger/sources#ref-12){: .footnote}[36](/messenger/sources#ref-36){: .footnote}
+    > "And when you divorce women and they have [nearly] fulfilled their term, either retain them according to acceptable terms or release them according to acceptable terms, and do not keep them, intending harm, to transgress [against them]. And whoever does that has certainly wronged himself. And do not take the verses of Allah in jest. And remember the favor of Allah upon you and what has been revealed to you of the Book and wisdom by which He instructs you. And fear Allah and know that Allah is Knowing of all things." (**Sūrat al-Baqarah 2:231**)[1](/messenger/sources#ref-1){: .footnote}[11](/messenger/sources#ref-11){: .footnote}[12](/messenger/sources#ref-12){: .footnote}[36](/messenger/sources#ref-36){: .footnote}
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَإِذَا طَلَّقْتُمُ ٱلنِّسَآءَ فَبَلَغْنَ أَجَلَهُنَّ فَأَمْسِكُوهُنَّ بِمَعْرُوفٍ أَوْ سَرِّحُوهُنَّ بِمَعْرُوفٍ ۚ وَلَا تُمْسِكُوهُنَّ ضِرَارًا لِّتَعْتَدُوا۟ ۚ وَمَن يَفْعَلْ ذَٰلِكَ فَقَدْ ظَلَمَ نَفْسَهُۥ ۚ وَلَا تَتَّخِذُوٓا۟ ءَايَـٰتِ ٱللَّهِ هُزُوًا ۚ وَٱذْكُرُوا۟ نِعْمَتَ ٱللَّهِ عَلَيْكُمْ وَمَآ أَنزَلَ عَلَيْكُم مِّنَ ٱلْكِتَـٰبِ وَٱلْحِكْمَةِ يَعِظُكُم بِهِۦ ۚ وَٱتَّقُوا۟ ٱللَّهَ وَٱعْلَمُوٓا۟ أَنَّ ٱللَّهَ بِكُلِّ شَىْءٍ عَلِيمٌ ۝٢٣١﴾ <span class="ayah-ref">سُورَةُ البَقَرَةِ</span></div>
     {: .quote }
 
 - <span id="src-1575"></span>A woman’s marital complaint became the opening of a Qur’anic chapter: the passage begins by affirming that God heard her as she disputed with Prophet Muhammad ﷺ about her husband.
 
-    > "Indeed, Allah has heard the argument of the woman who pleaded with you ˹O Prophet˺ concerning her husband, and appealed to Allah. Allah has heard your exchange. Surely Allah is All-Hearing, All-Seeing." (**Sūrat al-Mujādilah 58:1**), Dr. Mustafa Khattab, *The Clear Quran*[1](/messenger/sources#ref-1){: .footnote}[11](/messenger/sources#ref-11){: .footnote}[12](/messenger/sources#ref-12){: .footnote}[36](/messenger/sources#ref-36){: .footnote}
+    > "Indeed, Allah has heard the argument of the woman who pleaded with you ˹O Prophet˺ concerning her husband, and appealed to Allah. Allah has heard your exchange. Surely Allah is All-Hearing, All-Seeing." (**Sūrat al-Mujādilah 58:1**)[1](/messenger/sources#ref-1){: .footnote}[11](/messenger/sources#ref-11){: .footnote}[12](/messenger/sources#ref-12){: .footnote}[36](/messenger/sources#ref-36){: .footnote}
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿قَدْ سَمِعَ ٱللَّهُ قَوْلَ ٱلَّتِى تُجَـٰدِلُكَ فِى زَوْجِهَا وَتَشْتَكِىٓ إِلَى ٱللَّهِ وَٱللَّهُ يَسْمَعُ تَحَاوُرَكُمَآ ۚ إِنَّ ٱللَّهَ سَمِيعٌۢ بَصِيرٌ ۝١﴾ <span class="ayah-ref">سُورَةُ المُجَادلَةِ</span></div>
     {: .quote }
@@ -177,14 +177,14 @@ The home is a place where duties, rights, and affection meet. These entries cove
 
 - <span id="src-1596"></span>The Qur’an repeatedly addresses believing women and men together as responsible moral agents.
 
-    > "The believing men and believing women are allies of one another. They enjoin what is right and forbid what is wrong and establish prayer and give zakah and obey Allah and His Messenger. Those - Allah will have mercy upon them. Indeed, Allah is Exalted in Might and Wise." (**Sūrat al-Tawbah 9:71**), Saheeh International[1](/messenger/sources#ref-1){: .footnote}[11](/messenger/sources#ref-11){: .footnote}[12](/messenger/sources#ref-12){: .footnote}[36](/messenger/sources#ref-36){: .footnote}
+    > "The believing men and believing women are allies of one another. They enjoin what is right and forbid what is wrong and establish prayer and give zakah and obey Allah and His Messenger. Those - Allah will have mercy upon them. Indeed, Allah is Exalted in Might and Wise." (**Sūrat al-Tawbah 9:71**)[1](/messenger/sources#ref-1){: .footnote}[11](/messenger/sources#ref-11){: .footnote}[12](/messenger/sources#ref-12){: .footnote}[36](/messenger/sources#ref-36){: .footnote}
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَٱلْمُؤْمِنُونَ وَٱلْمُؤْمِنَـٰتُ بَعْضُهُمْ أَوْلِيَآءُ بَعْضٍ ۚ يَأْمُرُونَ بِٱلْمَعْرُوفِ وَيَنْهَوْنَ عَنِ ٱلْمُنكَرِ وَيُقِيمُونَ ٱلصَّلَوٰةَ وَيُؤْتُونَ ٱلزَّكَوٰةَ وَيُطِيعُونَ ٱللَّهَ وَرَسُولَهُۥٓ ۚ أُو۟لَـٰٓئِكَ سَيَرْحَمُهُمُ ٱللَّهُ ۗ إِنَّ ٱللَّهَ عَزِيزٌ حَكِيمٌ ۝٧١﴾ <span class="ayah-ref">سُورَةُ التَّوۡبَةِ</span></div>
     {: .quote }
 
 - <span id="src-1603"></span>Qur’an 33:35 names believing, truthful, patient, humble, charitable, fasting, chaste, and God-remembering women and men side by side and gives both the same promise.
 
-    > "Surely ˹for˺ Muslim men and women, believing men and women, devout men and women, truthful men and women, patient men and women, humble men and women, charitable men and women, fasting men and women, men and women who guard their chastity, and men and women who remember Allah often—for ˹all of˺ them Allah has prepared forgiveness and a great reward." (**Sūrat al-Aḥzāb 33:35**), Dr. Mustafa Khattab, *The Clear Quran*[1](/messenger/sources#ref-1){: .footnote}[11](/messenger/sources#ref-11){: .footnote}[12](/messenger/sources#ref-12){: .footnote}[36](/messenger/sources#ref-36){: .footnote}
+    > "Surely ˹for˺ Muslim men and women, believing men and women, devout men and women, truthful men and women, patient men and women, humble men and women, charitable men and women, fasting men and women, men and women who guard their chastity, and men and women who remember Allah often—for ˹all of˺ them Allah has prepared forgiveness and a great reward." (**Sūrat al-Aḥzāb 33:35**)[1](/messenger/sources#ref-1){: .footnote}[11](/messenger/sources#ref-11){: .footnote}[12](/messenger/sources#ref-12){: .footnote}[36](/messenger/sources#ref-36){: .footnote}
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿إِنَّ ٱلْمُسْلِمِينَ وَٱلْمُسْلِمَـٰتِ وَٱلْمُؤْمِنِينَ وَٱلْمُؤْمِنَـٰتِ وَٱلْقَـٰنِتِينَ وَٱلْقَـٰنِتَـٰتِ وَٱلصَّـٰدِقِينَ وَٱلصَّـٰدِقَـٰتِ وَٱلصَّـٰبِرِينَ وَٱلصَّـٰبِرَٰتِ وَٱلْخَـٰشِعِينَ وَٱلْخَـٰشِعَـٰتِ وَٱلْمُتَصَدِّقِينَ وَٱلْمُتَصَدِّقَـٰتِ وَٱلصَّـٰٓئِمِينَ وَٱلصَّـٰٓئِمَـٰتِ وَٱلْحَـٰفِظِينَ فُرُوجَهُمْ وَٱلْحَـٰفِظَـٰتِ وَٱلذَّٰكِرِينَ ٱللَّهَ كَثِيرًا وَٱلذَّٰكِرَٰتِ أَعَدَّ ٱللَّهُ لَهُم مَّغْفِرَةً وَأَجْرًا عَظِيمًا ۝٣٥﴾ <span class="ayah-ref">سُورَةُ الأَحۡزَابِ</span></div>
     {: .quote }
@@ -209,7 +209,7 @@ The home is a place where duties, rights, and affection meet. These entries cove
 
 - <span id="src-1556"></span>The Qur’an condemns female infanticide and depicts the murdered girl herself being called forward on the Day of Judgment to expose the crime.
 
-    > "And when the girl [who was] buried alive is asked, for what sin she was killed." (**Sūrat al-Takwīr 81:8-9**), Saheeh International[1](/messenger/sources#ref-1){: .footnote}[11](/messenger/sources#ref-11){: .footnote}[12](/messenger/sources#ref-12){: .footnote}[36](/messenger/sources#ref-36){: .footnote}; also *Sahih al-Bukhari* 5975[2](/messenger/sources#ref-2){: .footnote}[13](/messenger/sources#ref-13){: .footnote}[43](/messenger/sources#ref-43){: .footnote}
+    > "And when the girl [who was] buried alive is asked, for what sin she was killed." (**Sūrat al-Takwīr 81:8-9**)[1](/messenger/sources#ref-1){: .footnote}[11](/messenger/sources#ref-11){: .footnote}[12](/messenger/sources#ref-12){: .footnote}[36](/messenger/sources#ref-36){: .footnote}; also *Sahih al-Bukhari* 5975[2](/messenger/sources#ref-2){: .footnote}[13](/messenger/sources#ref-13){: .footnote}[43](/messenger/sources#ref-43){: .footnote}
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَإِذَا ٱلْمَوْءُۥدَةُ سُئِلَتْ ۝٨ بِأَىِّ ذَنۢبٍ قُتِلَتْ ۝٩﴾ <span class="ayah-ref">سُورَةُ التَّكۡوِيرِ</span></div>
     {: .quote }

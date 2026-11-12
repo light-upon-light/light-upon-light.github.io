@@ -63,12 +63,12 @@ The death penalty for apostasy is a related but separate issue, discussed at [Ap
 
 A *hadd* is not the worldly price a sinner must pay for committing the sin, nor is it a condition of God's forgiveness. The Qur'an repeatedly frames sin in terms of repentance and God's mercy; the Prophet ﷺ likewise described God as rejoicing intensely at a servant's repentance.[1](#ref-1){: .footnote} A person may therefore sin, repent sincerely, and receive God's forgiveness without ever receiving a worldly punishment.
 
-> “O My servants who have transgressed against themselves [by sinning], do not despair of the mercy of God. Indeed, God forgives all sins. Indeed, it is He who is the Forgiving, the Merciful.” (**Sūrat al-Zumar 39:53**), Saheeh International, with “Allah” rendered as “God”
+> “O My servants who have transgressed against themselves [by sinning], do not despair of the mercy of God. Indeed, God forgives all sins. Indeed, it is He who is the Forgiving, the Merciful.” (**Sūrat al-Zumar 39:53**)
 >
 > <div dir="rtl" lang="ar" class="quran-arabic">﴿قُلْ يَـٰعِبَادِىَ ٱلَّذِينَ أَسْرَفُوا۟ عَلَىٰٓ أَنفُسِهِمْ لَا تَقْنَطُوا۟ مِن رَّحْمَةِ ٱللَّهِ ۚ إِنَّ ٱللَّهَ يَغْفِرُ ٱلذُّنُوبَ جَمِيعًا ۚ إِنَّهُۥ هُوَ ٱلْغَفُورُ ٱلرَّحِيمُ ۝٥٣﴾ <span class="ayah-ref">سُورَةُ الزُّمَرِ</span></div>
 {: .quote }
 
-> “As for those who repent, believe, and do good deeds, ... God will change their evil deeds into good deeds.” (**Sūrat al-Furqān 25:70**), Dr. Mustafa Khattab, *The Clear Quran*, with “Allah” rendered as “God”
+> “As for those who repent, believe, and do good deeds, ... God will change their evil deeds into good deeds.” (**Sūrat al-Furqān 25:70**)
 >
 > <div dir="rtl" lang="ar" class="quran-arabic">﴿إِلَّا مَن تَابَ وَءَامَنَ وَعَمِلَ عَمَلًۭا صَـٰلِحًۭا فَأُو۟لَـٰٓئِكَ يُبَدِّلُ ٱللَّهُ سَيِّـَٔاتِهِمْ حَسَنَـٰتٍۢ ۗ وَكَانَ ٱللَّهُ غَفُورًۭا رَّحِيمًۭا ۝٧٠﴾ <span class="ayah-ref">سُورَةُ الفُرْقَانِ</span></div>
 {: .quote }
@@ -77,12 +77,12 @@ A *hadd* is not the worldly price a sinner must pay for committing the sin, nor 
 
 <summary>More Qur'anic verses on God's mercy and forgiveness</summary>
 
-> “Whoever commits evil or wrongs themselves then seeks God's forgiveness will certainly find God All-Forgiving, Most Merciful.” (**Sūrat al-Nisāʾ 4:110**), Dr. Mustafa Khattab, *The Clear Quran*, with “Allah” rendered as “God”
+> “Whoever commits evil or wrongs themselves then seeks God's forgiveness will certainly find God All-Forgiving, Most Merciful.” (**Sūrat al-Nisāʾ 4:110**)
 >
 > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَمَن يَعْمَلْ سُوٓءًا أَوْ يَظْلِمْ نَفْسَهُۥ ثُمَّ يَسْتَغْفِرِ ٱللَّهَ يَجِدِ ٱللَّهَ غَفُورًۭا رَّحِيمًۭا ۝١١٠﴾ <span class="ayah-ref">سُورَةُ النِّسَاءِ</span></div>
 {: .quote }
 
-> “He is the One Who accepts repentance from His servants and pardons their sins. And He knows whatever you do.” (**Sūrat al-Shūrā 42:25**), Dr. Mustafa Khattab, *The Clear Quran*, with “Allah” rendered as “God”
+> “He is the One Who accepts repentance from His servants and pardons their sins. And He knows whatever you do.” (**Sūrat al-Shūrā 42:25**)
 >
 > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَهُوَ ٱلَّذِى يَقْبَلُ ٱلتَّوْبَةَ عَنْ عِبَادِهِۦ وَيَعْفُوا۟ عَنِ ٱلسَّيِّـَٔاتِ وَيَعْلَمُ مَا تَفْعَلُونَ ۝٢٥﴾ <span class="ayah-ref">سُورَةُ الشُّورَىٰ</span></div>
 {: .quote }
@@ -147,14 +147,14 @@ The Qur'an places repentance not only throughout its moral teaching but alongsid
 
 For *hiraba*:
 
-> “Except for those who return [repenting] before you apprehend them. And know that God is Forgiving and Merciful.” (**Sūrat al-Māʾidah 5:34**), Saheeh International, with “Allah” rendered as “God”
+> “Except for those who return [repenting] before you apprehend them. And know that God is Forgiving and Merciful.” (**Sūrat al-Māʾidah 5:34**)
 >
 > <div dir="rtl" lang="ar" class="quran-arabic">﴿إِلَّا ٱلَّذِينَ تَابُوا۟ مِن قَبْلِ أَن تَقْدِرُوا۟ عَلَيْهِمْ ۖ فَٱعْلَمُوٓا۟ أَنَّ ٱللَّهَ غَفُورٌ رَّحِيمٌ ۝٣٤﴾ <span class="ayah-ref">سُورَةُ المَائـِدَةِ</span></div>
 {: .quote }
 
 For theft, in the verse immediately after the amputation verse:
 
-> “But whoever repents after his wrongdoing and reforms, indeed, God will turn to him in forgiveness.” (**Sūrat al-Māʾidah 5:39**), Saheeh International, with “Allah” rendered as “God”
+> “But whoever repents after his wrongdoing and reforms, indeed, God will turn to him in forgiveness.” (**Sūrat al-Māʾidah 5:39**)
 >
 > <div dir="rtl" lang="ar" class="quran-arabic">﴿فَمَن تَابَ مِنۢ بَعْدِ ظُلْمِهِۦ وَأَصْلَحَ فَإِنَّ ٱللَّهَ يَتُوبُ عَلَيْهِ ۗ إِنَّ ٱللَّهَ غَفُورٌ رَّحِيمٌ ۝٣٩﴾ <span class="ayah-ref">سُورَةُ المَائـِدَةِ</span></div>
 {: .quote }

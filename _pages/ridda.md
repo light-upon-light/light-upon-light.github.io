@@ -68,7 +68,7 @@ The Qur'an discusses apostasy several times but never prescribes a worldly punis
 An apostate who dies in disbelief loses his deeds and faces punishment in the hereafter:
 
 > "And whoever of you reverts from his religion and dies while he is a disbeliever — for those, their deeds have become worthless in this world and the Hereafter."
-> (**Sūrat al-Baqarah 2:217**), Saheeh International
+> (**Sūrat al-Baqarah 2:217**)
 >
 > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَمَن يَرْتَدِدْ مِنكُمْ عَن دِينِهِۦ فَيَمُتْ وَهُوَ كَافِرٌ فَأُو۟لَـٰٓئِكَ حَبِطَتْ أَعْمَـٰلُهُمْ فِى ٱلدُّنْيَا وَٱلْـَٔاخِرَةِ﴾ <span class="ayah-ref">[سُورَةُ البَقَرَةِ: ٢١٧]</span></div>
 {: .quote }
@@ -76,7 +76,7 @@ An apostate who dies in disbelief loses his deeds and faces punishment in the he
 A person who verbally renounces the faith under coercion is exempted. The verse was revealed concerning Ammar ibn Yasir, who denied his faith under torture while remaining a believer inwardly:
 
 > "except for one who is forced [to renounce his religion] while his heart is secure in faith"
-> (**Sūrat al-Naḥl 16:106**), Saheeh International
+> (**Sūrat al-Naḥl 16:106**)
 >
 > <div dir="rtl" lang="ar" class="quran-arabic">﴿إِلَّا مَنْ أُكْرِهَ وَقَلْبُهُۥ مُطْمَئِنٌّۢ بِٱلْإِيمَـٰنِ﴾ <span class="ayah-ref">[سُورَةُ النَّحۡلِ: ١٠٦]</span></div>
 {: .quote }
@@ -84,7 +84,7 @@ A person who verbally renounces the faith under coercion is exempted. The verse 
 The Qur'an also describes people believing, apostatising, returning to belief, and apostatising again:
 
 > "Indeed, those who have believed then disbelieved, then believed, then disbelieved, and then increased in disbelief — never will Allah forgive them, nor will He guide them to a way."
-> (**Sūrat al-Nisāʾ 4:137**), Saheeh International
+> (**Sūrat al-Nisāʾ 4:137**)
 >
 > <div dir="rtl" lang="ar" class="quran-arabic">﴿إِنَّ ٱلَّذِينَ ءَامَنُوا۟ ثُمَّ كَفَرُوا۟ ثُمَّ ءَامَنُوا۟ ثُمَّ كَفَرُوا۟ ثُمَّ ٱزْدَادُوا۟ كُفْرًا لَّمْ يَكُنِ ٱللَّهُ لِيَغْفِرَ لَهُمْ وَلَا لِيَهْدِيَهُمْ سَبِيلًۢا ۝١٣٧﴾ <span class="ayah-ref">سُورَةُ النِّسَاءِ</span></div>
 {: .quote }
@@ -94,7 +94,7 @@ Execution after the first apostasy would make this sequence impossible. The vers
 The Qur'an also states:
 
 > "Let there be no compulsion in religion."
-> (**Sūrat al-Baqarah 2:256**), Dr. Mustafa Khattab, *The Clear Quran*
+> (**Sūrat al-Baqarah 2:256**)
 >
 > <div dir="rtl" lang="ar" class="quran-arabic">﴿لَآ إِكْرَاهَ فِى ٱلدِّينِ﴾ <span class="ayah-ref">[سُورَةُ البَقَرَةِ: ٢٥٦]</span></div>
 {: .quote }
@@ -144,7 +144,7 @@ The one case in which apostates were executed during the Prophet's ﷺ lifetime 
 The Qur'anic verse associated with the incident concerns *hiraba* — armed predation:
 
 > "Indeed, the penalty for those who wage war against Allah and His Messenger and strive upon earth to cause corruption is none but that they be killed or crucified, or that their hands and feet be cut off from opposite sides, or that they be exiled from the land."
-> (**Sūrat al-Māʾidah 5:33**), Saheeh International
+> (**Sūrat al-Māʾidah 5:33**)
 >
 > <div dir="rtl" lang="ar" class="quran-arabic">﴿إِنَّمَا جَزَٰٓؤُا۟ ٱلَّذِينَ يُحَارِبُونَ ٱللَّهَ وَرَسُولَهُۥ وَيَسْعَوْنَ فِى ٱلْأَرْضِ فَسَادًا أَن يُقَتَّلُوٓا۟ أَوْ يُصَلَّبُوٓا۟ أَوْ تُقَطَّعَ أَيْدِيهِمْ وَأَرْجُلُهُم مِّنْ خِلَـٰفٍ أَوْ يُنفَوْا۟ مِنَ ٱلْأَرْضِ﴾ <span class="ayah-ref">سُورَةُ المَائـِدَةِ</span></div>
 {: .quote }

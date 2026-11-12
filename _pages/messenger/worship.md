@@ -40,21 +40,21 @@ The call to worship one God reaches into hope, repentance, hardship, intention, 
 
 - <span id="src-0924"></span>Prophet Muhammad ﷺ called people to worship one God alone and did not ask them to worship him, his family, saints, tribes, natural forces, or intermediaries.
 
-    > "Say, ‘He is Allah, [who is] One,’ Allah, the Eternal Refuge. He neither begets nor is born, nor is there to Him any equivalent." (**Sūrat al-Ikhlāṣ 112:1-4**), Saheeh International[1](/messenger/sources#ref-1){: .footnote}[11](/messenger/sources#ref-11){: .footnote}[12](/messenger/sources#ref-12){: .footnote}[36](/messenger/sources#ref-36){: .footnote}
+    > "Say, ‘He is Allah, [who is] One,’ Allah, the Eternal Refuge. He neither begets nor is born, nor is there to Him any equivalent." (**Sūrat al-Ikhlāṣ 112:1-4**)[1](/messenger/sources#ref-1){: .footnote}[11](/messenger/sources#ref-11){: .footnote}[12](/messenger/sources#ref-12){: .footnote}[36](/messenger/sources#ref-36){: .footnote}
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿قُلْ هُوَ ٱللَّهُ أَحَدٌ ۝١ ٱللَّهُ ٱلصَّمَدُ ۝٢ لَمْ يَلِدْ وَلَمْ يُولَدْ ۝٣ وَلَمْ يَكُن لَّهُۥ كُفُوًا أَحَدٌۢ ۝٤﴾ <span class="ayah-ref">سُورَةُ الإِخۡلَاصِ</span></div>
     {: .quote }
 
 - <span id="src-0931"></span>The Qur’an says that God is near and responds directly to the sincere prayer of the person who calls on Him.
 
-    > "When My servants ask you, [O Muhammad], concerning Me - indeed I am near. I respond to the invocation of the supplicant when he calls upon Me. So let them respond to Me [by obedience] and believe in Me that they may be [rightly] guided." (**Sūrat al-Baqarah 2:186**), Saheeh International[1](/messenger/sources#ref-1){: .footnote}[11](/messenger/sources#ref-11){: .footnote}[12](/messenger/sources#ref-12){: .footnote}[36](/messenger/sources#ref-36){: .footnote}
+    > "When My servants ask you, [O Muhammad], concerning Me - indeed I am near. I respond to the invocation of the supplicant when he calls upon Me. So let them respond to Me [by obedience] and believe in Me that they may be [rightly] guided." (**Sūrat al-Baqarah 2:186**)[1](/messenger/sources#ref-1){: .footnote}[11](/messenger/sources#ref-11){: .footnote}[12](/messenger/sources#ref-12){: .footnote}[36](/messenger/sources#ref-36){: .footnote}
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَإِذَا سَأَلَكَ عِبَادِى عَنِّى فَإِنِّى قَرِيبٌ ۖ أُجِيبُ دَعْوَةَ ٱلدَّاعِ إِذَا دَعَانِ ۖ فَلْيَسْتَجِيبُوا۟ لِى وَلْيُؤْمِنُوا۟ بِى لَعَلَّهُمْ يَرْشُدُونَ ۝١٨٦﴾ <span class="ayah-ref">سُورَةُ البَقَرَةِ</span></div>
     {: .quote }
 
 - <span id="src-0938"></span>In the Qur’an’s account of the Night Journey, Prophet Muhammad ﷺ is called God’s servant. The extraordinary event does not turn him into a divine figure, and authenticated reports connect the journey with the establishment of the five daily prayers.
 
-    > "Glory be to the One Who took His servant ˹Muḥammad˺ by night from the Sacred Mosque to the Farthest Mosque whose surroundings We have blessed, so that We may show him some of Our signs. Indeed, He alone is the All-Hearing, All-Seeing." (**Sūrat al-Isrāʾ 17:1**), Dr. Mustafa Khattab, *The Clear Quran*[1](/messenger/sources#ref-1){: .footnote}[11](/messenger/sources#ref-11){: .footnote}[12](/messenger/sources#ref-12){: .footnote}[36](/messenger/sources#ref-36){: .footnote}
+    > "Glory be to the One Who took His servant ˹Muḥammad˺ by night from the Sacred Mosque to the Farthest Mosque whose surroundings We have blessed, so that We may show him some of Our signs. Indeed, He alone is the All-Hearing, All-Seeing." (**Sūrat al-Isrāʾ 17:1**)[1](/messenger/sources#ref-1){: .footnote}[11](/messenger/sources#ref-11){: .footnote}[12](/messenger/sources#ref-12){: .footnote}[36](/messenger/sources#ref-36){: .footnote}
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿سُبْحَـٰنَ ٱلَّذِىٓ أَسْرَىٰ بِعَبْدِهِۦ لَيْلًا مِّنَ ٱلْمَسْجِدِ ٱلْحَرَامِ إِلَى ٱلْمَسْجِدِ ٱلْأَقْصَا ٱلَّذِى بَـٰرَكْنَا حَوْلَهُۥ لِنُرِيَهُۥ مِنْ ءَايَـٰتِنَآ ۚ إِنَّهُۥ هُوَ ٱلسَّمِيعُ ٱلْبَصِيرُ ۝١﴾ <span class="ayah-ref">سُورَةُ الإِسۡرَاءِ</span></div>
     {: .quote }
@@ -78,7 +78,7 @@ The call to worship one God reaches into hope, repentance, hardship, intention, 
 
 - <span id="src-0962"></span>The Qur’an describes Prophet Muhammad’s ﷺ mission as a mercy to the worlds, a claim that can be read alongside the concrete teachings on children, servants, debtors, captives, non-Muslims, defeated enemies, and animals collected in this library.
 
-    > "And We have not sent you, [O Muhammad], except as a mercy to the worlds." (**Sūrat al-Anbiyāʾ 21:107**), Saheeh International[1](/messenger/sources#ref-1){: .footnote}[11](/messenger/sources#ref-11){: .footnote}[12](/messenger/sources#ref-12){: .footnote}[36](/messenger/sources#ref-36){: .footnote}
+    > "And We have not sent you, [O Muhammad], except as a mercy to the worlds." (**Sūrat al-Anbiyāʾ 21:107**)[1](/messenger/sources#ref-1){: .footnote}[11](/messenger/sources#ref-11){: .footnote}[12](/messenger/sources#ref-12){: .footnote}[36](/messenger/sources#ref-36){: .footnote}
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَمَآ أَرْسَلْنَـٰكَ إِلَّا رَحْمَةً لِّلْعَـٰلَمِينَ ۝١٠٧﴾ <span class="ayah-ref">سُورَةُ الأَنبِيَاءِ</span></div>
     {: .quote }
@@ -88,14 +88,14 @@ The call to worship one God reaches into hope, repentance, hardship, intention, 
 
 - <span id="src-0971"></span>The Qur’an tells people who have seriously sinned not to despair of God’s mercy.
 
-    > "Say, ‘O My servants who have transgressed against themselves [by sinning], do not despair of the mercy of Allah. Indeed, Allah forgives all sins. Indeed, it is He who is the Forgiving, the Merciful.’" (**Sūrat al-Zumar 39:53**), Saheeh International[1](/messenger/sources#ref-1){: .footnote}[11](/messenger/sources#ref-11){: .footnote}[12](/messenger/sources#ref-12){: .footnote}[36](/messenger/sources#ref-36){: .footnote}
+    > "Say, ‘O My servants who have transgressed against themselves [by sinning], do not despair of the mercy of Allah. Indeed, Allah forgives all sins. Indeed, it is He who is the Forgiving, the Merciful.’" (**Sūrat al-Zumar 39:53**)[1](/messenger/sources#ref-1){: .footnote}[11](/messenger/sources#ref-11){: .footnote}[12](/messenger/sources#ref-12){: .footnote}[36](/messenger/sources#ref-36){: .footnote}
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿۞ قُلْ يَـٰعِبَادِىَ ٱلَّذِينَ أَسْرَفُوا۟ عَلَىٰٓ أَنفُسِهِمْ لَا تَقْنَطُوا۟ مِن رَّحْمَةِ ٱللَّهِ ۚ إِنَّ ٱللَّهَ يَغْفِرُ ٱلذُّنُوبَ جَمِيعًا ۚ إِنَّهُۥ هُوَ ٱلْغَفُورُ ٱلرَّحِيمُ ۝٥٣﴾ <span class="ayah-ref">سُورَةُ الزُّمَرِ</span></div>
     {: .quote }
 
 - <span id="src-0978"></span>The Qur’an teaches that sincere repentance, faith, and reform can transform a person’s moral record.
 
-    > "Except for those who repent, believe and do righteous work. For them Allah will replace their evil deeds with good. And ever is Allah Forgiving and Merciful." (**Sūrat al-Furqān 25:70**), Saheeh International[1](/messenger/sources#ref-1){: .footnote}[11](/messenger/sources#ref-11){: .footnote}[12](/messenger/sources#ref-12){: .footnote}[36](/messenger/sources#ref-36){: .footnote}
+    > "Except for those who repent, believe and do righteous work. For them Allah will replace their evil deeds with good. And ever is Allah Forgiving and Merciful." (**Sūrat al-Furqān 25:70**)[1](/messenger/sources#ref-1){: .footnote}[11](/messenger/sources#ref-11){: .footnote}[12](/messenger/sources#ref-12){: .footnote}[36](/messenger/sources#ref-36){: .footnote}
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿إِلَّا مَن تَابَ وَءَامَنَ وَعَمِلَ عَمَلًا صَـٰلِحًا فَأُو۟لَـٰٓئِكَ يُبَدِّلُ ٱللَّهُ سَيِّـَٔاتِهِمْ حَسَنَـٰتٍ ۗ وَكَانَ ٱللَّهُ غَفُورًا رَّحِيمًا ۝٧٠﴾ <span class="ayah-ref">سُورَةُ الفُرۡقَانِ</span></div>
     {: .quote }
@@ -115,28 +115,28 @@ The call to worship one God reaches into hope, repentance, hardship, intention, 
 
 - <span id="src-0997"></span>The Qur’an does not promise a life without hardship; it repeats that ease accompanies hardship.
 
-    > "So, surely with hardship comes ease. Surely with ˹that˺ hardship comes ˹more˺ ease." (**Sūrat al-Sharḥ 94:5-6**), Dr. Mustafa Khattab, *The Clear Quran*[1](/messenger/sources#ref-1){: .footnote}[11](/messenger/sources#ref-11){: .footnote}[12](/messenger/sources#ref-12){: .footnote}[36](/messenger/sources#ref-36){: .footnote}
+    > "So, surely with hardship comes ease. Surely with ˹that˺ hardship comes ˹more˺ ease." (**Sūrat al-Sharḥ 94:5-6**)[1](/messenger/sources#ref-1){: .footnote}[11](/messenger/sources#ref-11){: .footnote}[12](/messenger/sources#ref-12){: .footnote}[36](/messenger/sources#ref-36){: .footnote}
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿فَإِنَّ مَعَ ٱلْعُسْرِ يُسْرًا ۝٥ إِنَّ مَعَ ٱلْعُسْرِ يُسْرًا ۝٦﴾ <span class="ayah-ref">سُورَةُ الشَّرۡحِ</span></div>
     {: .quote }
 
 - <span id="src-1004"></span>The Qur’an states that God does not burden a soul beyond its capacity.
 
-    > "Allah does not charge a soul except [with that within] its capacity. It will have [the consequence of] what [good] it has gained, and it will bear [the consequence of] what [evil] it has earned. ‘Our Lord, do not impose blame upon us if we have forgotten or erred. Our Lord, and lay not upon us a burden like that which You laid upon those before us. Our Lord, and burden us not with that which we have no ability to bear. And pardon us; and forgive us; and have mercy upon us. You are our protector, so give us victory over the disbelieving people.’" (**Sūrat al-Baqarah 2:286**), Saheeh International[1](/messenger/sources#ref-1){: .footnote}[11](/messenger/sources#ref-11){: .footnote}[12](/messenger/sources#ref-12){: .footnote}[36](/messenger/sources#ref-36){: .footnote}
+    > "Allah does not charge a soul except [with that within] its capacity. It will have [the consequence of] what [good] it has gained, and it will bear [the consequence of] what [evil] it has earned. ‘Our Lord, do not impose blame upon us if we have forgotten or erred. Our Lord, and lay not upon us a burden like that which You laid upon those before us. Our Lord, and burden us not with that which we have no ability to bear. And pardon us; and forgive us; and have mercy upon us. You are our protector, so give us victory over the disbelieving people.’" (**Sūrat al-Baqarah 2:286**)[1](/messenger/sources#ref-1){: .footnote}[11](/messenger/sources#ref-11){: .footnote}[12](/messenger/sources#ref-12){: .footnote}[36](/messenger/sources#ref-36){: .footnote}
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿لَا يُكَلِّفُ ٱللَّهُ نَفْسًا إِلَّا وُسْعَهَا ۚ لَهَا مَا كَسَبَتْ وَعَلَيْهَا مَا ٱكْتَسَبَتْ ۗ رَبَّنَا لَا تُؤَاخِذْنَآ إِن نَّسِينَآ أَوْ أَخْطَأْنَا ۚ رَبَّنَا وَلَا تَحْمِلْ عَلَيْنَآ إِصْرًا كَمَا حَمَلْتَهُۥ عَلَى ٱلَّذِينَ مِن قَبْلِنَا ۚ رَبَّنَا وَلَا تُحَمِّلْنَا مَا لَا طَاقَةَ لَنَا بِهِۦ ۖ وَٱعْفُ عَنَّا وَٱغْفِرْ لَنَا وَٱرْحَمْنَآ ۚ أَنتَ مَوْلَىٰنَا فَٱنصُرْنَا عَلَى ٱلْقَوْمِ ٱلْكَـٰفِرِينَ ۝٢٨٦﴾ <span class="ayah-ref">سُورَةُ البَقَرَةِ</span></div>
     {: .quote }
 
 - <span id="src-1011"></span>The Qur’an presents remembrance of God as a source of inward peace for the heart.
 
-    > "Those who have believed and whose hearts are assured by the remembrance of Allah. Unquestionably, by the remembrance of Allah hearts are assured." (**Sūrat al-Raʿd 13:28**), Saheeh International[1](/messenger/sources#ref-1){: .footnote}[11](/messenger/sources#ref-11){: .footnote}[12](/messenger/sources#ref-12){: .footnote}[36](/messenger/sources#ref-36){: .footnote}
+    > "Those who have believed and whose hearts are assured by the remembrance of Allah. Unquestionably, by the remembrance of Allah hearts are assured." (**Sūrat al-Raʿd 13:28**)[1](/messenger/sources#ref-1){: .footnote}[11](/messenger/sources#ref-11){: .footnote}[12](/messenger/sources#ref-12){: .footnote}[36](/messenger/sources#ref-36){: .footnote}
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿ٱلَّذِينَ ءَامَنُوا۟ وَتَطْمَئِنُّ قُلُوبُهُم بِذِكْرِ ٱللَّهِ ۗ أَلَا بِذِكْرِ ٱللَّهِ تَطْمَئِنُّ ٱلْقُلُوبُ ۝٢٨﴾ <span class="ayah-ref">سُورَةُ الرَّعۡدِ</span></div>
     {: .quote }
 
 - <span id="src-1018"></span>The Qur’an tells believers that when they remember God, God remembers them.
 
-    > "So remember Me; I will remember you. And be grateful to Me and do not deny Me." (**Sūrat al-Baqarah 2:152**), Saheeh International[1](/messenger/sources#ref-1){: .footnote}[11](/messenger/sources#ref-11){: .footnote}[12](/messenger/sources#ref-12){: .footnote}[36](/messenger/sources#ref-36){: .footnote}
+    > "So remember Me; I will remember you. And be grateful to Me and do not deny Me." (**Sūrat al-Baqarah 2:152**)[1](/messenger/sources#ref-1){: .footnote}[11](/messenger/sources#ref-11){: .footnote}[12](/messenger/sources#ref-12){: .footnote}[36](/messenger/sources#ref-36){: .footnote}
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿فَٱذْكُرُونِىٓ أَذْكُرْكُمْ وَٱشْكُرُوا۟ لِى وَلَا تَكْفُرُونِ ۝١٥٢﴾ <span class="ayah-ref">سُورَةُ البَقَرَةِ</span></div>
     {: .quote }
@@ -158,7 +158,7 @@ The call to worship one God reaches into hope, repentance, hardship, intention, 
 
 - <span id="src-1040"></span>The Qur’an teaches gratitude in times of ease and warns against ingratitude.
 
-    > "And [remember] when your Lord proclaimed, ‘If you are grateful, I will surely increase you [in favor]; but if you deny, indeed, My punishment is severe.’" (**Sūrat Ibrāhīm 14:7**), Saheeh International[1](/messenger/sources#ref-1){: .footnote}[11](/messenger/sources#ref-11){: .footnote}[12](/messenger/sources#ref-12){: .footnote}[36](/messenger/sources#ref-36){: .footnote}
+    > "And [remember] when your Lord proclaimed, ‘If you are grateful, I will surely increase you [in favor]; but if you deny, indeed, My punishment is severe.’" (**Sūrat Ibrāhīm 14:7**)[1](/messenger/sources#ref-1){: .footnote}[11](/messenger/sources#ref-11){: .footnote}[12](/messenger/sources#ref-12){: .footnote}[36](/messenger/sources#ref-36){: .footnote}
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَإِذْ تَأَذَّنَ رَبُّكُمْ لَئِن شَكَرْتُمْ لَأَزِيدَنَّكُمْ ۖ وَلَئِن كَفَرْتُمْ إِنَّ عَذَابِى لَشَدِيدٌ ۝٧﴾ <span class="ayah-ref">سُورَةُ إِبۡرَاهِيمَ</span></div>
     {: .quote }

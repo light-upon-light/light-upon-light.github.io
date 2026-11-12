@@ -40,11 +40,11 @@ The chronology places the evidence in changing circumstances: ordinary adult lif
 
 - <span id="src-1932"></span>Prophet Muhammad ﷺ was born without a living father, and the Qur’an turns his own experience of vulnerability into a duty toward others. According to the early biographical tradition, his father died before he was born and his mother died while he was still a child. The same Qur’anic chapter that reminds him of being an orphan tells him not to mistreat the orphan or turn away the person who asks for help.
 
-    > "Did He not find you an orphan and give [you] refuge?" (**Sūrat ad-Duḥā 93:6**), Saheeh International[1](/messenger/sources#ref-1){: .footnote}[11](/messenger/sources#ref-11){: .footnote}[12](/messenger/sources#ref-12){: .footnote}[36](/messenger/sources#ref-36){: .footnote}
+    > "Did He not find you an orphan and give [you] refuge?" (**Sūrat ad-Duḥā 93:6**)[1](/messenger/sources#ref-1){: .footnote}[11](/messenger/sources#ref-11){: .footnote}[12](/messenger/sources#ref-12){: .footnote}[36](/messenger/sources#ref-36){: .footnote}
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿أَلَمْ يَجِدْكَ يَتِيمًا فَـَٔاوَىٰ ۝٦﴾ <span class="ayah-ref">سُورَةُ الضُّحَىٰ</span></div>
     >
-    > "So as for the orphan, do not oppress [him]. And as for the petitioner, do not repel [him]." (**Sūrat ad-Duḥā 93:9-10**), Saheeh International[1](/messenger/sources#ref-1){: .footnote}[11](/messenger/sources#ref-11){: .footnote}[12](/messenger/sources#ref-12){: .footnote}[36](/messenger/sources#ref-36){: .footnote}
+    > "So as for the orphan, do not oppress [him]. And as for the petitioner, do not repel [him]." (**Sūrat ad-Duḥā 93:9-10**)[1](/messenger/sources#ref-1){: .footnote}[11](/messenger/sources#ref-11){: .footnote}[12](/messenger/sources#ref-12){: .footnote}[36](/messenger/sources#ref-36){: .footnote}
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿فَأَمَّا ٱلْيَتِيمَ فَلَا تَقْهَرْ ۝٩ وَأَمَّا ٱلسَّآئِلَ فَلَا تَنْهَرْ ۝١٠﴾ <span class="ayah-ref">سُورَةُ الضُّحَىٰ</span></div>
     {: .quote }
@@ -94,7 +94,7 @@ The chronology places the evidence in changing circumstances: ordinary adult lif
 
 - <span id="src-1985"></span>The sources do not give him a forty-year career as a poet, priest, scripture scholar, or religious orator preparing for this role. Arabia highly valued poetry, yet Prophet Muhammad’s ﷺ prophetic claim appears after a long ordinary adult life rather than at the end of an established literary or priestly career. The Qur’an itself appeals to that discontinuity before the audience who had known his earlier life.
 
-    > "You did not know what is the Book or [what is] faith, but We have made it a light by which We guide whom We will of Our servants." (**Sūrat ash-Shūrā 42:52**), Saheeh International[1](/messenger/sources#ref-1){: .footnote}[11](/messenger/sources#ref-11){: .footnote}[12](/messenger/sources#ref-12){: .footnote}[36](/messenger/sources#ref-36){: .footnote}; compare **Sūrat al-‘Ankabūt 29:48**[1](/messenger/sources#ref-1){: .footnote}[11](/messenger/sources#ref-11){: .footnote}[12](/messenger/sources#ref-12){: .footnote}[36](/messenger/sources#ref-36){: .footnote}
+    > "You did not know what is the Book or [what is] faith, but We have made it a light by which We guide whom We will of Our servants." (**Sūrat ash-Shūrā 42:52**)[1](/messenger/sources#ref-1){: .footnote}[11](/messenger/sources#ref-11){: .footnote}[12](/messenger/sources#ref-12){: .footnote}[36](/messenger/sources#ref-36){: .footnote}; compare **Sūrat al-‘Ankabūt 29:48**[1](/messenger/sources#ref-1){: .footnote}[11](/messenger/sources#ref-11){: .footnote}[12](/messenger/sources#ref-12){: .footnote}[36](/messenger/sources#ref-36){: .footnote}
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَكَذَٰلِكَ أَوْحَيْنَآ إِلَيْكَ رُوحًا مِّنْ أَمْرِنَا ۚ مَا كُنتَ تَدْرِى مَا ٱلْكِتَـٰبُ وَلَا ٱلْإِيمَـٰنُ وَلَـٰكِن جَعَلْنَـٰهُ نُورًا نَّهْدِى بِهِۦ مَن نَّشَآءُ مِنْ عِبَادِنَا ۚ وَإِنَّكَ لَتَهْدِىٓ إِلَىٰ صِرَٰطٍ مُّسْتَقِيمٍ ۝٥٢﴾ <span class="ayah-ref">سُورَةُ الشُّورَىٰ</span></div>
     {: .quote }
@@ -104,14 +104,14 @@ The chronology places the evidence in changing circumstances: ordinary adult lif
 
 - <span id="src-1995"></span>Prophet Muhammad’s ﷺ early public message challenged rather than flattered the foundations of Meccan status. The Qur’an called people away from inherited idols to the worship of one God, while condemning neglect of the poor, cheating, arrogance, and exploitation of the vulnerable.
 
-    > "Say, 'He is Allah, [who is] One,'" (**Sūrat al-Ikhlāṣ 112:1**), Saheeh International[1](/messenger/sources#ref-1){: .footnote}[11](/messenger/sources#ref-11){: .footnote}[12](/messenger/sources#ref-12){: .footnote}[36](/messenger/sources#ref-36){: .footnote}
+    > "Say, 'He is Allah, [who is] One,'" (**Sūrat al-Ikhlāṣ 112:1**)[1](/messenger/sources#ref-1){: .footnote}[11](/messenger/sources#ref-11){: .footnote}[12](/messenger/sources#ref-12){: .footnote}[36](/messenger/sources#ref-36){: .footnote}
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿قُلْ هُوَ ٱللَّهُ أَحَدٌ ۝١﴾ <span class="ayah-ref">سُورَةُ الإِخۡلَاصِ</span></div>
     {: .quote }
 
 - <span id="src-2002"></span>Prophet Muhammad ﷺ was commanded to begin with his own relatives rather than exempt his clan from the message’s moral demands.
 
-    > "And warn, [O Muhammad], your closest kindred." (**Sūrat ash-Shu'arā' 26:214**), Saheeh International[1](/messenger/sources#ref-1){: .footnote}[11](/messenger/sources#ref-11){: .footnote}[12](/messenger/sources#ref-12){: .footnote}[36](/messenger/sources#ref-36){: .footnote}
+    > "And warn, [O Muhammad], your closest kindred." (**Sūrat ash-Shu'arā' 26:214**)[1](/messenger/sources#ref-1){: .footnote}[11](/messenger/sources#ref-11){: .footnote}[12](/messenger/sources#ref-12){: .footnote}[36](/messenger/sources#ref-36){: .footnote}
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَأَنذِرْ عَشِيرَتَكَ ٱلْأَقْرَبِينَ ۝٢١٤﴾ <span class="ayah-ref">سُورَةُ الشُّعَرَاءِ</span></div>
     {: .quote }
@@ -123,14 +123,14 @@ The chronology places the evidence in changing circumstances: ordinary adult lif
 
 - <span id="src-2014"></span>Prophet Muhammad ﷺ did not soften the central claim of monotheism in order to reach a compromise with polytheism. A short Meccan chapter draws a clear boundary between his worship and that of his opponents.
 
-    > "For you is your religion, and for me is my religion." (**Sūrat al-Kāfirūn 109:6**), Saheeh International[1](/messenger/sources#ref-1){: .footnote}[11](/messenger/sources#ref-11){: .footnote}[12](/messenger/sources#ref-12){: .footnote}[36](/messenger/sources#ref-36){: .footnote}
+    > "For you is your religion, and for me is my religion." (**Sūrat al-Kāfirūn 109:6**)[1](/messenger/sources#ref-1){: .footnote}[11](/messenger/sources#ref-11){: .footnote}[12](/messenger/sources#ref-12){: .footnote}[36](/messenger/sources#ref-36){: .footnote}
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿لَكُمْ دِينُكُمْ وَلِىَ دِينِ ۝٦﴾ <span class="ayah-ref">سُورَةُ الكَافِرُونَ</span></div>
     {: .quote }
 
 - <span id="src-2021"></span>The Qur’an records pressure on him to compromise and warns him not to yield. Whatever view one takes of revelation, the text restricts the messenger rather than giving him pragmatic freedom to reshape the message for political survival.
 
-    > "They wish that you would soften [in your position], so they would soften [toward you]." (**Sūrat al-Qalam 68:9**), Saheeh International[1](/messenger/sources#ref-1){: .footnote}[11](/messenger/sources#ref-11){: .footnote}[12](/messenger/sources#ref-12){: .footnote}[36](/messenger/sources#ref-36){: .footnote}
+    > "They wish that you would soften [in your position], so they would soften [toward you]." (**Sūrat al-Qalam 68:9**)[1](/messenger/sources#ref-1){: .footnote}[11](/messenger/sources#ref-11){: .footnote}[12](/messenger/sources#ref-12){: .footnote}[36](/messenger/sources#ref-36){: .footnote}
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَدُّوا۟ لَوْ تُدْهِنُ فَيُدْهِنُونَ ۝٩﴾ <span class="ayah-ref">سُورَةُ القَلَمِ</span></div>
     {: .quote }
@@ -149,7 +149,7 @@ The chronology places the evidence in changing circumstances: ordinary adult lif
 
 - <span id="src-2040"></span>When he finally left Mecca, he did so as a hunted migrant rather than a conqueror. The Qur’an recalls Prophet Muhammad ﷺ and Abu Bakr hiding in a cave while pursuers searched for them.
 
-    > "˹It does not matter˺ if you ˹believers˺ do not support him, for Allah did in fact support him when the disbelievers drove him out ˹of Mecca˺ and he was only one of two. While they both were in the cave, he reassured his companion, 'Do not worry; Allah is certainly with us.' So Allah sent down His serenity upon the Prophet, supported him with forces you ˹believers˺ did not see, and made the word of the disbelievers lowest, while the Word of Allah is supreme. And Allah is Almighty, All-Wise." (**Sūrat at-Tawbah 9:40**), Dr. Mustafa Khattab, *The Clear Quran*[1](/messenger/sources#ref-1){: .footnote}[11](/messenger/sources#ref-11){: .footnote}[12](/messenger/sources#ref-12){: .footnote}[36](/messenger/sources#ref-36){: .footnote}
+    > "˹It does not matter˺ if you ˹believers˺ do not support him, for Allah did in fact support him when the disbelievers drove him out ˹of Mecca˺ and he was only one of two. While they both were in the cave, he reassured his companion, 'Do not worry; Allah is certainly with us.' So Allah sent down His serenity upon the Prophet, supported him with forces you ˹believers˺ did not see, and made the word of the disbelievers lowest, while the Word of Allah is supreme. And Allah is Almighty, All-Wise." (**Sūrat at-Tawbah 9:40**)[1](/messenger/sources#ref-1){: .footnote}[11](/messenger/sources#ref-11){: .footnote}[12](/messenger/sources#ref-12){: .footnote}[36](/messenger/sources#ref-36){: .footnote}
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿إِلَّا تَنصُرُوهُ فَقَدْ نَصَرَهُ ٱللَّهُ إِذْ أَخْرَجَهُ ٱلَّذِينَ كَفَرُوا۟ ثَانِىَ ٱثْنَيْنِ إِذْ هُمَا فِى ٱلْغَارِ إِذْ يَقُولُ لِصَـٰحِبِهِۦ لَا تَحْزَنْ إِنَّ ٱللَّهَ مَعَنَا ۖ فَأَنزَلَ ٱللَّهُ سَكِينَتَهُۥ عَلَيْهِ وَأَيَّدَهُۥ بِجُنُودٍ لَّمْ تَرَوْهَا وَجَعَلَ كَلِمَةَ ٱلَّذِينَ كَفَرُوا۟ ٱلسُّفْلَىٰ ۗ وَكَلِمَةُ ٱللَّهِ هِىَ ٱلْعُلْيَا ۗ وَٱللَّهُ عَزِيزٌ حَكِيمٌ ۝٤٠﴾ <span class="ayah-ref">سُورَةُ التَّوۡبَةِ</span></div>
     {: .quote }
@@ -161,14 +161,14 @@ The chronology places the evidence in changing circumstances: ordinary adult lif
 
 - <span id="src-2052"></span>During the years of Muslim weakness, the message emphasized patient restraint rather than private revenge. Mockery and injury were not treated as permission for individuals to begin cycles of retaliation.
 
-    > "And be patient over what they say and avoid them with gracious avoidance." (**Sūrat al-Muzzammil 73:10**), Saheeh International[1](/messenger/sources#ref-1){: .footnote}[11](/messenger/sources#ref-11){: .footnote}[12](/messenger/sources#ref-12){: .footnote}[36](/messenger/sources#ref-36){: .footnote}
+    > "And be patient over what they say and avoid them with gracious avoidance." (**Sūrat al-Muzzammil 73:10**)[1](/messenger/sources#ref-1){: .footnote}[11](/messenger/sources#ref-11){: .footnote}[12](/messenger/sources#ref-12){: .footnote}[36](/messenger/sources#ref-36){: .footnote}
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَٱصْبِرْ عَلَىٰ مَا يَقُولُونَ وَٱهْجُرْهُمْ هَجْرًا جَمِيلًا ۝١٠﴾ <span class="ayah-ref">سُورَةُ المُزَّمِّلِ</span></div>
     {: .quote }
 
 - <span id="src-2059"></span>The Qur’an forbade Prophet Muhammad ﷺ from pushing away sincere low-status followers in order to attract wealthy or influential people. Many early believers were poor, enslaved, young, or socially unprotected. The Qur’an specifically protected such worshippers from being discarded for reasons of status.
 
-    > "And do not send away those who call upon their Lord morning and afternoon, seeking His countenance." (**Sūrat al-An'ām 6:52**), Saheeh International[1](/messenger/sources#ref-1){: .footnote}[11](/messenger/sources#ref-11){: .footnote}[12](/messenger/sources#ref-12){: .footnote}[36](/messenger/sources#ref-36){: .footnote}
+    > "And do not send away those who call upon their Lord morning and afternoon, seeking His countenance." (**Sūrat al-An'ām 6:52**)[1](/messenger/sources#ref-1){: .footnote}[11](/messenger/sources#ref-11){: .footnote}[12](/messenger/sources#ref-12){: .footnote}[36](/messenger/sources#ref-36){: .footnote}
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَلَا تَطْرُدِ ٱلَّذِينَ يَدْعُونَ رَبَّهُم بِٱلْغَدَوٰةِ وَٱلْعَشِىِّ يُرِيدُونَ وَجْهَهُۥ ۖ مَا عَلَيْكَ مِنْ حِسَابِهِم مِّن شَىْءٍ وَمَا مِنْ حِسَابِكَ عَلَيْهِم مِّن شَىْءٍ فَتَطْرُدَهُمْ فَتَكُونَ مِنَ ٱلظَّـٰلِمِينَ ۝٥٢﴾ <span class="ayah-ref">سُورَةُ الأَنۡعَامِ</span></div>
     {: .quote }
@@ -180,7 +180,7 @@ The chronology places the evidence in changing circumstances: ordinary adult lif
 
 - <span id="src-2071"></span>Prophet Muhammad ﷺ endured a clan boycott without abandoning or diluting the message. The resulting social and economic isolation made his claim more costly rather than turning it into a route to comfort or prestige.
 
-    > "Do the people think that they will be left to say, 'We believe' and they will not be tried?" (**Sūrat al-'Ankabūt 29:2**), Saheeh International[1](/messenger/sources#ref-1){: .footnote}[11](/messenger/sources#ref-11){: .footnote}[12](/messenger/sources#ref-12){: .footnote}[36](/messenger/sources#ref-36){: .footnote}
+    > "Do the people think that they will be left to say, 'We believe' and they will not be tried?" (**Sūrat al-'Ankabūt 29:2**)[1](/messenger/sources#ref-1){: .footnote}[11](/messenger/sources#ref-11){: .footnote}[12](/messenger/sources#ref-12){: .footnote}[36](/messenger/sources#ref-36){: .footnote}
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿أَحَسِبَ ٱلنَّاسُ أَن يُتْرَكُوٓا۟ أَن يَقُولُوٓا۟ ءَامَنَّا وَهُمْ لَا يُفْتَنُونَ ۝٢﴾ <span class="ayah-ref">سُورَةُ العَنكَبُوتِ</span></div>
     {: .quote }
@@ -210,7 +210,7 @@ The chronology places the evidence in changing circumstances: ordinary adult lif
 
 - <span id="src-2101"></span>**The migration in 622** radically changed Prophet Muhammad’s ﷺ circumstances. In Medina he was no longer only a persecuted preacher, but the leader of an emerging multi-clan community. His conduct under authority can therefore be compared with the moral claims he had made while weak.
 
-    > "And [also for] those who were settled in al-Madinah and [adopted] the faith before them. They love those who emigrated to them and find not any want in their breasts of what the emigrants were given but give [them] preference over themselves, even though they are in privation." (**Sūrat al-Ḥashr 59:9**), Saheeh International[1](/messenger/sources#ref-1){: .footnote}[11](/messenger/sources#ref-11){: .footnote}[12](/messenger/sources#ref-12){: .footnote}[36](/messenger/sources#ref-36){: .footnote}
+    > "And [also for] those who were settled in al-Madinah and [adopted] the faith before them. They love those who emigrated to them and find not any want in their breasts of what the emigrants were given but give [them] preference over themselves, even though they are in privation." (**Sūrat al-Ḥashr 59:9**)[1](/messenger/sources#ref-1){: .footnote}[11](/messenger/sources#ref-11){: .footnote}[12](/messenger/sources#ref-12){: .footnote}[36](/messenger/sources#ref-36){: .footnote}
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَٱلَّذِينَ تَبَوَّءُو ٱلدَّارَ وَٱلْإِيمَـٰنَ مِن قَبْلِهِمْ يُحِبُّونَ مَنْ هَاجَرَ إِلَيْهِمْ وَلَا يَجِدُونَ فِى صُدُورِهِمْ حَاجَةً مِّمَّآ أُوتُوا۟ وَيُؤْثِرُونَ عَلَىٰٓ أَنفُسِهِمْ وَلَوْ كَانَ بِهِمْ خَصَاصَةٌ ۚ وَمَن يُوقَ شُحَّ نَفْسِهِۦ فَأُو۟لَـٰٓئِكَ هُمُ ٱلْمُفْلِحُونَ ۝٩﴾ <span class="ayah-ref">سُورَةُ الحَشۡرِ</span></div>
     {: .quote }
@@ -227,7 +227,7 @@ The chronology places the evidence in changing circumstances: ordinary adult lif
 
 - <span id="src-2118"></span>After the painful defeat at Uhud, he was told to remain gentle, pardon his followers, and continue consulting them. Their military error had serious consequences, but those consequences did not become a reason to abandon consultation.
 
-    > "So by mercy from Allah, [O Muhammad], you were lenient with them. And if you had been rude [in speech] and harsh in heart, they would have disbanded from about you. So pardon them and ask forgiveness for them and consult them in the matter. And when you have decided, then rely upon Allah. Indeed, Allah loves those who rely [upon Him]." (**Sūrat Āl 'Imrān 3:159**), Saheeh International[1](/messenger/sources#ref-1){: .footnote}[11](/messenger/sources#ref-11){: .footnote}[12](/messenger/sources#ref-12){: .footnote}[36](/messenger/sources#ref-36){: .footnote}
+    > "So by mercy from Allah, [O Muhammad], you were lenient with them. And if you had been rude [in speech] and harsh in heart, they would have disbanded from about you. So pardon them and ask forgiveness for them and consult them in the matter. And when you have decided, then rely upon Allah. Indeed, Allah loves those who rely [upon Him]." (**Sūrat Āl 'Imrān 3:159**)[1](/messenger/sources#ref-1){: .footnote}[11](/messenger/sources#ref-11){: .footnote}[12](/messenger/sources#ref-12){: .footnote}[36](/messenger/sources#ref-36){: .footnote}
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿فَبِمَا رَحْمَةٍ مِّنَ ٱللَّهِ لِنتَ لَهُمْ ۖ وَلَوْ كُنتَ فَظًّا غَلِيظَ ٱلْقَلْبِ لَٱنفَضُّوا۟ مِنْ حَوْلِكَ ۖ فَٱعْفُ عَنْهُمْ وَٱسْتَغْفِرْ لَهُمْ وَشَاوِرْهُمْ فِى ٱلْأَمْرِ ۖ فَإِذَا عَزَمْتَ فَتَوَكَّلْ عَلَى ٱللَّهِ ۚ إِنَّ ٱللَّهَ يُحِبُّ ٱلْمُتَوَكِّلِينَ ۝١٥٩﴾ <span class="ayah-ref">سُورَةُ آلِ عِمۡرَانَ</span></div>
     {: .quote }
@@ -259,7 +259,7 @@ The chronology places the evidence in changing circumstances: ordinary adult lif
 
 - <span id="src-2150"></span>The Qur’an called this apparently humiliating truce a “clear victory.” The opportunities created by the peace help explain why early Muslims later regarded Hudaybiyyah as a decisive turning point rather than a defeat.
 
-    > "Indeed, We have given you, [O Muhammad], a clear conquest." (**Sūrat al-Fatḥ 48:1**), Saheeh International[1](/messenger/sources#ref-1){: .footnote}[11](/messenger/sources#ref-11){: .footnote}[12](/messenger/sources#ref-12){: .footnote}[36](/messenger/sources#ref-36){: .footnote}
+    > "Indeed, We have given you, [O Muhammad], a clear conquest." (**Sūrat al-Fatḥ 48:1**)[1](/messenger/sources#ref-1){: .footnote}[11](/messenger/sources#ref-11){: .footnote}[12](/messenger/sources#ref-12){: .footnote}[36](/messenger/sources#ref-36){: .footnote}
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿إِنَّا فَتَحْنَا لَكَ فَتْحًا مُّبِينًا ۝١﴾ <span class="ayah-ref">سُورَةُ الفَتۡحِ</span></div>
     {: .quote }
@@ -301,7 +301,7 @@ The chronology places the evidence in changing circumstances: ordinary adult lif
 
 - <span id="src-2192"></span>When victory came, the Qur’an instructed Prophet Muhammad ﷺ to praise God and seek forgiveness rather than use success for self-glorification.
 
-    > "When the victory of Allah has come and the conquest, and you see the people entering into the religion of Allah in multitudes, then exalt [Him] with praise of your Lord and ask forgiveness of Him. Indeed, He is ever Accepting of repentance." (**Sūrat an-Naṣr 110:1-3**), Saheeh International[1](/messenger/sources#ref-1){: .footnote}[11](/messenger/sources#ref-11){: .footnote}[12](/messenger/sources#ref-12){: .footnote}[36](/messenger/sources#ref-36){: .footnote}
+    > "When the victory of Allah has come and the conquest, and you see the people entering into the religion of Allah in multitudes, then exalt [Him] with praise of your Lord and ask forgiveness of Him. Indeed, He is ever Accepting of repentance." (**Sūrat an-Naṣr 110:1-3**)[1](/messenger/sources#ref-1){: .footnote}[11](/messenger/sources#ref-11){: .footnote}[12](/messenger/sources#ref-12){: .footnote}[36](/messenger/sources#ref-36){: .footnote}
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿إِذَا جَآءَ نَصْرُ ٱللَّهِ وَٱلْفَتْحُ ۝١ وَرَأَيْتَ ٱلنَّاسَ يَدْخُلُونَ فِى دِينِ ٱللَّهِ أَفْوَاجًا ۝٢ فَسَبِّحْ بِحَمْدِ رَبِّكَ وَٱسْتَغْفِرْهُ ۚ إِنَّهُۥ كَانَ تَوَّابًۢا ۝٣﴾ <span class="ayah-ref">سُورَةُ النَّصۡرِ</span></div>
     {: .quote }
@@ -356,7 +356,7 @@ The chronology places the evidence in changing circumstances: ordinary adult lif
 
 - <span id="src-2247"></span>Prophet Muhammad’s ﷺ followers were not allowed to turn his death into a denial of his humanity. The Qur’an had already warned the community not to make faith depend on Prophet Muhammad’s ﷺ continued earthly life.
 
-    > "Muhammad is not but a messenger. [Other] messengers have passed on before him. So if he was to die or be killed, would you turn back on your heels [to unbelief]? And he who turns back on his heels will never harm Allah at all; but Allah will reward the grateful." (**Sūrat Āl 'Imrān 3:144**), Saheeh International[1](/messenger/sources#ref-1){: .footnote}[11](/messenger/sources#ref-11){: .footnote}[12](/messenger/sources#ref-12){: .footnote}[36](/messenger/sources#ref-36){: .footnote}
+    > "Muhammad is not but a messenger. [Other] messengers have passed on before him. So if he was to die or be killed, would you turn back on your heels [to unbelief]? And he who turns back on his heels will never harm Allah at all; but Allah will reward the grateful." (**Sūrat Āl 'Imrān 3:144**)[1](/messenger/sources#ref-1){: .footnote}[11](/messenger/sources#ref-11){: .footnote}[12](/messenger/sources#ref-12){: .footnote}[36](/messenger/sources#ref-36){: .footnote}
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَمَا مُحَمَّدٌ إِلَّا رَسُولٌ قَدْ خَلَتْ مِن قَبْلِهِ ٱلرُّسُلُ ۚ أَفَإِي۟ن مَّاتَ أَوْ قُتِلَ ٱنقَلَبْتُمْ عَلَىٰٓ أَعْقَـٰبِكُمْ ۚ وَمَن يَنقَلِبْ عَلَىٰ عَقِبَيْهِ فَلَن يَضُرَّ ٱللَّهَ شَيْـًٔا ۗ وَسَيَجْزِى ٱللَّهُ ٱلشَّـٰكِرِينَ ۝١٤٤﴾ <span class="ayah-ref">سُورَةُ آلِ عِمۡرَانَ</span></div>
     {: .quote }
@@ -381,7 +381,7 @@ The chronology places the evidence in changing circumstances: ordinary adult lif
 
 - <span id="src-2272"></span>The scale of change during Prophet Muhammad’s ﷺ twenty-three-year mission is itself part of what needs explaining. He began preaching in a fragmented tribal society without a state and died leading a polity that covered most of Arabia. In between, his community developed institutions of law, worship, taxation, learning, treaty-making, public charity, and written administration, while directly challenging practices such as idolatrous worship, blood vengeance, female infanticide, and unrestricted usury. The speed of this transformation does not by itself prove revelation, but an explanation of his historical career has to account for it.
 
-    > "It is He who has sent among the unlettered a Messenger from themselves reciting to them His verses and purifying them and teaching them the Book and wisdom - although they were before in clear error -" (**Sūrat al-Jumu'ah 62:2**), Saheeh International[1](/messenger/sources#ref-1){: .footnote}[11](/messenger/sources#ref-11){: .footnote}[12](/messenger/sources#ref-12){: .footnote}[36](/messenger/sources#ref-36){: .footnote}
+    > "It is He who has sent among the unlettered a Messenger from themselves reciting to them His verses and purifying them and teaching them the Book and wisdom - although they were before in clear error -" (**Sūrat al-Jumu'ah 62:2**)[1](/messenger/sources#ref-1){: .footnote}[11](/messenger/sources#ref-11){: .footnote}[12](/messenger/sources#ref-12){: .footnote}[36](/messenger/sources#ref-36){: .footnote}
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿هُوَ ٱلَّذِى بَعَثَ فِى ٱلْأُمِّيِّـۧنَ رَسُولًا مِّنْهُمْ يَتْلُوا۟ عَلَيْهِمْ ءَايَـٰتِهِۦ وَيُزَكِّيهِمْ وَيُعَلِّمُهُمُ ٱلْكِتَـٰبَ وَٱلْحِكْمَةَ وَإِن كَانُوا۟ مِن قَبْلُ لَفِى ضَلَـٰلٍ مُّبِينٍ ۝٢﴾ <span class="ayah-ref">سُورَةُ الجُمُعَةِ</span></div>
     {: .quote }
@@ -393,21 +393,21 @@ The chronology places the evidence in changing circumstances: ordinary adult lif
 
 - <span id="src-2284"></span>The mission helped reconcile communities whose feud had involved real bloodshed. The Medinan tribes Aws and Khazraj had fought for generations, most recently at Bu’ath shortly before Prophet Muhammad’s ﷺ arrival. The Qur’an explicitly appealed to their own memory of once being enemies whose hearts had been brought together.
 
-    > "And hold firmly to the rope of Allah all together and do not become divided. And remember the favor of Allah upon you - when you were enemies and He brought your hearts together and you became, by His favor, brothers. And you were on the edge of a pit of the Fire, and He saved you from it. Thus does Allah make clear to you His verses that you may be guided." (**Sūrat Āl 'Imrān 3:103**), Saheeh International[1](/messenger/sources#ref-1){: .footnote}[11](/messenger/sources#ref-11){: .footnote}[12](/messenger/sources#ref-12){: .footnote}[36](/messenger/sources#ref-36){: .footnote}; *Sīra*: early biography, for the Bu'ath background[8](/messenger/sources#ref-8){: .footnote}[19](/messenger/sources#ref-19){: .footnote}[28](/messenger/sources#ref-28){: .footnote}[37](/messenger/sources#ref-37){: .footnote}[38](/messenger/sources#ref-38){: .footnote}
+    > "And hold firmly to the rope of Allah all together and do not become divided. And remember the favor of Allah upon you - when you were enemies and He brought your hearts together and you became, by His favor, brothers. And you were on the edge of a pit of the Fire, and He saved you from it. Thus does Allah make clear to you His verses that you may be guided." (**Sūrat Āl 'Imrān 3:103**)[1](/messenger/sources#ref-1){: .footnote}[11](/messenger/sources#ref-11){: .footnote}[12](/messenger/sources#ref-12){: .footnote}[36](/messenger/sources#ref-36){: .footnote}; *Sīra*: early biography, for the Bu'ath background[8](/messenger/sources#ref-8){: .footnote}[19](/messenger/sources#ref-19){: .footnote}[28](/messenger/sources#ref-28){: .footnote}[37](/messenger/sources#ref-37){: .footnote}[38](/messenger/sources#ref-38){: .footnote}
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَٱعْتَصِمُوا۟ بِحَبْلِ ٱللَّهِ جَمِيعًا وَلَا تَفَرَّقُوا۟ ۚ وَٱذْكُرُوا۟ نِعْمَتَ ٱللَّهِ عَلَيْكُمْ إِذْ كُنتُمْ أَعْدَآءً فَأَلَّفَ بَيْنَ قُلُوبِكُمْ فَأَصْبَحْتُم بِنِعْمَتِهِۦٓ إِخْوَٰنًا وَكُنتُمْ عَلَىٰ شَفَا حُفْرَةٍ مِّنَ ٱلنَّارِ فَأَنقَذَكُم مِّنْهَا ۗ كَذَٰلِكَ يُبَيِّنُ ٱللَّهُ لَكُمْ ءَايَـٰتِهِۦ لَعَلَّكُمْ تَهْتَدُونَ ۝١٠٣﴾ <span class="ayah-ref">سُورَةُ آلِ عِمۡرَانَ</span></div>
     {: .quote }
 
 - <span id="src-2291"></span>The refugees from Mecca were not merely admitted to Medina; the new community deliberately created bonds of practical responsibility between households. The emigrants had left property and protection behind. Early biography remembers pairings between emigrants and Medinan supporters, while the Qur’an praises the hosts for preferring the newcomers even when they themselves were in need.
 
-    > "They give [them] preference over themselves, even though they are in privation." (**Sūrat al-Ḥashr 59:9**), Saheeh International[1](/messenger/sources#ref-1){: .footnote}[11](/messenger/sources#ref-11){: .footnote}[12](/messenger/sources#ref-12){: .footnote}[36](/messenger/sources#ref-36){: .footnote}; *Sīra*: early biography, for the pairing of emigrants and helpers[8](/messenger/sources#ref-8){: .footnote}[19](/messenger/sources#ref-19){: .footnote}[28](/messenger/sources#ref-28){: .footnote}[37](/messenger/sources#ref-37){: .footnote}[38](/messenger/sources#ref-38){: .footnote}
+    > "They give [them] preference over themselves, even though they are in privation." (**Sūrat al-Ḥashr 59:9**)[1](/messenger/sources#ref-1){: .footnote}[11](/messenger/sources#ref-11){: .footnote}[12](/messenger/sources#ref-12){: .footnote}[36](/messenger/sources#ref-36){: .footnote}; *Sīra*: early biography, for the pairing of emigrants and helpers[8](/messenger/sources#ref-8){: .footnote}[19](/messenger/sources#ref-19){: .footnote}[28](/messenger/sources#ref-28){: .footnote}[37](/messenger/sources#ref-37){: .footnote}[38](/messenger/sources#ref-38){: .footnote}
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَٱلَّذِينَ تَبَوَّءُو ٱلدَّارَ وَٱلْإِيمَـٰنَ مِن قَبْلِهِمْ يُحِبُّونَ مَنْ هَاجَرَ إِلَيْهِمْ وَلَا يَجِدُونَ فِى صُدُورِهِمْ حَاجَةً مِّمَّآ أُوتُوا۟ وَيُؤْثِرُونَ عَلَىٰٓ أَنفُسِهِمْ وَلَوْ كَانَ بِهِمْ خَصَاصَةٌ ۚ وَمَن يُوقَ شُحَّ نَفْسِهِۦ فَأُو۟لَـٰٓئِكَ هُمُ ٱلْمُفْلِحُونَ ۝٩﴾ <span class="ayah-ref">سُورَةُ الحَشۡرِ</span></div>
     {: .quote }
 
 - <span id="src-2298"></span>The generation formed around him did not respond to his death by making him divine. They had been taught to distinguish the messenger from God. Early reports remember Abu Bakr calming the community by reciting the Qur’anic reminder that Prophet Muhammad ﷺ was a messenger like earlier messengers and could die. That generation then became administrators, judges, teachers, and transmitters of the religious record rather than custodians of a royal cult centered on his person.
 
-    > "Muhammad is not but a messenger. [Other] messengers have passed on before him. So if he was to die or be killed, would you turn back on your heels [to unbelief]?" (**Sūrat Āl 'Imrān 3:144**), Saheeh International[1](/messenger/sources#ref-1){: .footnote}[11](/messenger/sources#ref-11){: .footnote}[12](/messenger/sources#ref-12){: .footnote}[36](/messenger/sources#ref-36){: .footnote}; recited by Abu Bakr in his address after Muhammad's ﷺ death, reported in *Sahih al-Bukhari*
+    > "Muhammad is not but a messenger. [Other] messengers have passed on before him. So if he was to die or be killed, would you turn back on your heels [to unbelief]?" (**Sūrat Āl 'Imrān 3:144**)[1](/messenger/sources#ref-1){: .footnote}[11](/messenger/sources#ref-11){: .footnote}[12](/messenger/sources#ref-12){: .footnote}[36](/messenger/sources#ref-36){: .footnote}; recited by Abu Bakr in his address after Muhammad's ﷺ death, reported in *Sahih al-Bukhari*
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَمَا مُحَمَّدٌ إِلَّا رَسُولٌ قَدْ خَلَتْ مِن قَبْلِهِ ٱلرُّسُلُ ۚ أَفَإِي۟ن مَّاتَ أَوْ قُتِلَ ٱنقَلَبْتُمْ عَلَىٰٓ أَعْقَـٰبِكُمْ ۚ وَمَن يَنقَلِبْ عَلَىٰ عَقِبَيْهِ فَلَن يَضُرَّ ٱللَّهَ شَيْـًٔا ۗ وَسَيَجْزِى ٱللَّهُ ٱلشَّـٰكِرِينَ ۝١٤٤﴾ <span class="ayah-ref">سُورَةُ آلِ عِمۡرَانَ</span></div>
     {: .quote }

@@ -22,8 +22,9 @@
 
 surah:
   label: "sūrah"
-  short: "a chapter of the Qur'an — the standard division of the text, of
-    which there are 114, each identified by a name rather than a number."
+  short: "a chapter of the Qur'an, one of 114. Each has a name and a number,
+    and citations give both: “Sūrat Maryam 19:33” is chapter 19, Maryam,
+    verse 33."
   match: ["surah", "surahs", "sūrah", "sūrahs", "sūrat", "sûrah", "sûrahs"]
 
 ridda:

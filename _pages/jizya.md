@@ -71,7 +71,7 @@ The word *jizya* appears only once in the Qur'an, in verse 9:29:
 > consider unlawful what Allah and His Messenger have made unlawful and who do
 > not adopt the religion of truth from those who were given the Scripture —
 > [fight] until they give the jizyah willingly while they are humbled."
-> (**Sūrat al-Tawbah 9:29**), Saheeh International
+> (**Sūrat al-Tawbah 9:29**)
 >
 > <div dir="rtl" lang="ar" class="quran-arabic">﴿قَـٰتِلُوا۟ ٱلَّذِينَ لَا يُؤْمِنُونَ بِٱللَّهِ وَلَا بِٱلْيَوْمِ ٱلْـَٔاخِرِ وَلَا يُحَرِّمُونَ مَا حَرَّمَ ٱللَّهُ وَرَسُولُهُۥ وَلَا يَدِينُونَ دِينَ ٱلْحَقِّ مِنَ ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَـٰبَ حَتَّىٰ يُعْطُوا۟ ٱلْجِزْيَةَ عَن يَدٍ وَهُمْ صَـٰغِرُونَ ۝٢٩﴾ <span class="ayah-ref">سُورَةُ التَّوۡبَةِ</span></div>
 {: .quote }
@@ -83,17 +83,17 @@ Elsewhere, the Qur'an restricts fighting, rejects compelled belief, and requires
 <details class="quran-more" markdown="1">
 <summary>Show the Qur'anic passages that frame this reading</summary>
 
-> "Fight in the cause of Allah ˹only˺ against those who wage war against you, but do not exceed the limits. Allah does not like transgressors" (**Sūrat al-Baqarah 2:190**), Dr. Mustafa Khattab, *The Clear Quran*
+> "Fight in the cause of Allah ˹only˺ against those who wage war against you, but do not exceed the limits. Allah does not like transgressors" (**Sūrat al-Baqarah 2:190**)
 >
 > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَقَـٰتِلُوا۟ فِى سَبِيلِ ٱللَّهِ ٱلَّذِينَ يُقَـٰتِلُونَكُمْ وَلَا تَعْتَدُوٓا۟ ۚ إِنَّ ٱللَّهَ لَا يُحِبُّ ٱلْمُعْتَدِينَ ۝١٩٠﴾ <span class="ayah-ref">سُورَةُ البَقَرَةِ</span></div>
 {: .quote }
 
-> "Let there be no compulsion in religion" (**Sūrat al-Baqarah 2:256**), Dr. Mustafa Khattab, *The Clear Quran*
+> "Let there be no compulsion in religion" (**Sūrat al-Baqarah 2:256**)
 >
 > <div dir="rtl" lang="ar" class="quran-arabic">﴿لَآ إِكْرَاهَ فِى ٱلدِّينِ﴾ <span class="ayah-ref">[سُورَةُ البَقَرَةِ: ٢٥٦]</span></div>
 {: .quote }
 
-> "Allah does not forbid you from dealing kindly and fairly with those who have neither fought nor driven you out of your homes. Surely Allah loves those who are fair" (**Sūrat al-Mumtaḥanah 60:8**), Dr. Mustafa Khattab, *The Clear Quran*
+> "Allah does not forbid you from dealing kindly and fairly with those who have neither fought nor driven you out of your homes. Surely Allah loves those who are fair" (**Sūrat al-Mumtaḥanah 60:8**)
 >
 > <div dir="rtl" lang="ar" class="quran-arabic">﴿لَّا يَنْهَىٰكُمُ ٱللَّهُ عَنِ ٱلَّذِينَ لَمْ يُقَـٰتِلُوكُمْ فِى ٱلدِّينِ وَلَمْ يُخْرِجُوكُم مِّن دِيَـٰرِكُمْ أَن تَبَرُّوهُمْ وَتُقْسِطُوٓا۟ إِلَيْهِمْ ۚ إِنَّ ٱللَّهَ لَا يُحِبُّ ٱلْمُقْسِطِينَ ۝٨﴾ <span class="ayah-ref">سُورَةُ المُمۡتَحنَةِ</span></div>
 {: .quote }

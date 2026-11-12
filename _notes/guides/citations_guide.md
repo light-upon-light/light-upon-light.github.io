@@ -35,8 +35,9 @@ both and quote whichever reads more powerfully and accurately to an
 English-only, non-Muslim reader — the one that lands as clear, direct (and
 most importantly best represents the intended Arabic meaning) rather than the
 one that's more literal or more devotionally worded. Don't default to always
-using the same translation; pick per-quotation. Attribute whichever one is
-quoted (see the markup below).
+using the same translation; pick per-quotation. Quotations carry no
+translator attribution: the citation label alone follows the English (see the
+markup below).
 
 Existing citations follow these conventions — match them:
 
@@ -58,11 +59,11 @@ so the source stays standard Unicode and verifiable against the corpus.
 
 ### The markup
 
-A quotation is one blockquote: the English, its attribution, a bare `>` line,
+A quotation is one blockquote: the English, its citation label, a bare `>` line,
 then the Arabic in a `div`.
 
 ```markdown
-> "…translation…" (**Sūrat al-Nisāʾ 4:34**), Dr. Mustafa Khattab, *The Clear Quran*
+> "…translation…" (**Sūrat al-Nisāʾ 4:34**)
 >
 > <div dir="rtl" lang="ar" class="quran-arabic">…Arabic…<span class="ayah-ref">…label…</span></div>
 ```

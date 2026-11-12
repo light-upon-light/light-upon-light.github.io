@@ -99,7 +99,7 @@ What best explains Muhammad ﷺ’s claim to revelation? These evidence entries 
 
 - <span id="src-2421"></span>The Qur’an itself appeals to the long public life he had already lived before revelation. Prophet Muhammad’s ﷺ first audience was not meeting a stranger with an unverifiable past. They had decades of ordinary conduct against which to compare his new claim.
 
-    > "Say, 'If Allah had willed, I would not have recited it to you, nor would He have made it known to you, for I had remained among you a lifetime before it. Then will you not reason?'" (**Sūrat Yūnus 10:16**), Saheeh International[1](/messenger/sources#ref-1){: .footnote}[11](/messenger/sources#ref-11){: .footnote}[12](/messenger/sources#ref-12){: .footnote}[36](/messenger/sources#ref-36){: .footnote}
+    > "Say, 'If Allah had willed, I would not have recited it to you, nor would He have made it known to you, for I had remained among you a lifetime before it. Then will you not reason?'" (**Sūrat Yūnus 10:16**)[1](/messenger/sources#ref-1){: .footnote}[11](/messenger/sources#ref-11){: .footnote}[12](/messenger/sources#ref-12){: .footnote}[36](/messenger/sources#ref-36){: .footnote}
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿قُل لَّوْ شَآءَ ٱللَّهُ مَا تَلَوْتُهُۥ عَلَيْكُمْ وَلَآ أَدْرَىٰكُم بِهِۦ ۖ فَقَدْ لَبِثْتُ فِيكُمْ عُمُرًا مِّن قَبْلِهِۦٓ ۚ أَفَلَا تَعْقِلُونَ ۝١٦﴾ <span class="ayah-ref">سُورَةُ يُونُسَ</span></div>
     {: .quote }
@@ -114,7 +114,7 @@ What best explains Muhammad ﷺ’s claim to revelation? These evidence entries 
 
 - <span id="src-2351"></span>For years, the claim brought Prophet Muhammad ﷺ loss rather than political power. The Meccan mission meant hostility, insecurity, persecution of his followers, loss of protection, rejection at al-Ta’if, and finally migration. A theory based on simple short-term personal gain fits this phase poorly.
 
-    > "If you do not aid the Prophet - Allah has already aided him when those who disbelieved had driven him out [of Makkah] as one of two, when they were in the cave and he said to his companion, 'Do not grieve; indeed Allah is with us.' And Allah sent down his tranquillity upon him and supported him with angels you did not see and made the word of those who disbelieved the lowest, while the word of Allah - that is the highest. And Allah is Exalted in Might and Wise." (**Sūrat al-Tawbah 9:40**), Saheeh International[1](/messenger/sources#ref-1){: .footnote}[11](/messenger/sources#ref-11){: .footnote}[12](/messenger/sources#ref-12){: .footnote}[36](/messenger/sources#ref-36){: .footnote}
+    > "If you do not aid the Prophet - Allah has already aided him when those who disbelieved had driven him out [of Makkah] as one of two, when they were in the cave and he said to his companion, 'Do not grieve; indeed Allah is with us.' And Allah sent down his tranquillity upon him and supported him with angels you did not see and made the word of those who disbelieved the lowest, while the word of Allah - that is the highest. And Allah is Exalted in Might and Wise." (**Sūrat al-Tawbah 9:40**)[1](/messenger/sources#ref-1){: .footnote}[11](/messenger/sources#ref-11){: .footnote}[12](/messenger/sources#ref-12){: .footnote}[36](/messenger/sources#ref-36){: .footnote}
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿إِلَّا تَنصُرُوهُ فَقَدْ نَصَرَهُ ٱللَّهُ إِذْ أَخْرَجَهُ ٱلَّذِينَ كَفَرُوا۟ ثَانِىَ ٱثْنَيْنِ إِذْ هُمَا فِى ٱلْغَارِ إِذْ يَقُولُ لِصَـٰحِبِهِۦ لَا تَحْزَنْ إِنَّ ٱللَّهَ مَعَنَا ۖ فَأَنزَلَ ٱللَّهُ سَكِينَتَهُۥ عَلَيْهِ وَأَيَّدَهُۥ بِجُنُودٍ لَّمْ تَرَوْهَا وَجَعَلَ كَلِمَةَ ٱلَّذِينَ كَفَرُوا۟ ٱلسُّفْلَىٰ ۗ وَكَلِمَةُ ٱللَّهِ هِىَ ٱلْعُلْيَا ۗ وَٱللَّهُ عَزِيزٌ حَكِيمٌ ۝٤٠﴾ <span class="ayah-ref">سُورَةُ التَّوۡبَةِ</span></div>
     {: .quote }
@@ -131,7 +131,7 @@ What best explains Muhammad ﷺ’s claim to revelation? These evidence entries 
 
 - <span id="src-2414"></span>Prophet Muhammad ﷺ repeatedly said that he sought no payment for delivering the message. This does not by itself prove sincerity, but it counts against explanations that treat his preaching primarily as a paid personal enterprise.
 
-    > "even though you are not asking them for a reward for this ˹Quran˺. It is only a reminder to the whole world." (**Sūrat Yūsuf 12:104**), Dr. Mustafa Khattab, *The Clear Quran*[1](/messenger/sources#ref-1){: .footnote}[11](/messenger/sources#ref-11){: .footnote}[12](/messenger/sources#ref-12){: .footnote}[36](/messenger/sources#ref-36){: .footnote}
+    > "even though you are not asking them for a reward for this ˹Quran˺. It is only a reminder to the whole world." (**Sūrat Yūsuf 12:104**)[1](/messenger/sources#ref-1){: .footnote}[11](/messenger/sources#ref-11){: .footnote}[12](/messenger/sources#ref-12){: .footnote}[36](/messenger/sources#ref-36){: .footnote}
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَمَا تَسْـَٔلُهُمْ عَلَيْهِ مِنْ أَجْرٍ ۚ إِنْ هُوَ إِلَّا ذِكْرٌ لِّلْعَـٰلَمِينَ ۝١٠٤﴾ <span class="ayah-ref">سُورَةُ يُوسُفَ</span></div>
     {: .quote }
@@ -146,21 +146,21 @@ What best explains Muhammad ﷺ’s claim to revelation? These evidence entries 
 
 - <span id="src-2373"></span>Prophet Muhammad ﷺ denied possessing independent knowledge of the unseen.
 
-    > "I hold not for myself [the power of] benefit or harm, except what Allah has willed. And if I knew the unseen, I could have acquired much wealth, and no harm would have touched me. I am not except a warner and a bringer of good tidings to a people who believe." (**Sūrat al-Aʿrāf 7:188**), Saheeh International[1](/messenger/sources#ref-1){: .footnote}[11](/messenger/sources#ref-11){: .footnote}[12](/messenger/sources#ref-12){: .footnote}[36](/messenger/sources#ref-36){: .footnote}
+    > "I hold not for myself [the power of] benefit or harm, except what Allah has willed. And if I knew the unseen, I could have acquired much wealth, and no harm would have touched me. I am not except a warner and a bringer of good tidings to a people who believe." (**Sūrat al-Aʿrāf 7:188**)[1](/messenger/sources#ref-1){: .footnote}[11](/messenger/sources#ref-11){: .footnote}[12](/messenger/sources#ref-12){: .footnote}[36](/messenger/sources#ref-36){: .footnote}
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿قُل لَّآ أَمْلِكُ لِنَفْسِى نَفْعًا وَلَا ضَرًّا إِلَّا مَا شَآءَ ٱللَّهُ ۚ وَلَوْ كُنتُ أَعْلَمُ ٱلْغَيْبَ لَٱسْتَكْثَرْتُ مِنَ ٱلْخَيْرِ وَمَا مَسَّنِىَ ٱلسُّوٓءُ ۚ إِنْ أَنَا۠ إِلَّا نَذِيرٌ وَبَشِيرٌ لِّقَوْمٍ يُؤْمِنُونَ ۝١٨٨﴾ <span class="ayah-ref">سُورَةُ الأَعۡرَافِ</span></div>
     {: .quote }
 
 - <span id="src-2380"></span>Prophet Muhammad ﷺ denied possessing God’s treasures and denied being an angel.
 
-    > "I do not say to you that I possess Allah’s treasuries or know the unseen, nor do I claim to be an angel. I only follow what is revealed to me." (**Sūrat al-Anʿām 6:50**), Dr. Mustafa Khattab, *The Clear Quran*[1](/messenger/sources#ref-1){: .footnote}[11](/messenger/sources#ref-11){: .footnote}[12](/messenger/sources#ref-12){: .footnote}[36](/messenger/sources#ref-36){: .footnote}
+    > "I do not say to you that I possess Allah’s treasuries or know the unseen, nor do I claim to be an angel. I only follow what is revealed to me." (**Sūrat al-Anʿām 6:50**)[1](/messenger/sources#ref-1){: .footnote}[11](/messenger/sources#ref-11){: .footnote}[12](/messenger/sources#ref-12){: .footnote}[36](/messenger/sources#ref-36){: .footnote}
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿قُل لَّآ أَقُولُ لَكُمْ عِندِى خَزَآئِنُ ٱللَّهِ وَلَآ أَعْلَمُ ٱلْغَيْبَ وَلَآ أَقُولُ لَكُمْ إِنِّى مَلَكٌ ۖ إِنْ أَتَّبِعُ إِلَّا مَا يُوحَىٰٓ إِلَىَّ ۚ قُلْ هَلْ يَسْتَوِى ٱلْأَعْمَىٰ وَٱلْبَصِيرُ ۚ أَفَلَا تَتَفَكَّرُونَ ۝٥٠﴾ <span class="ayah-ref">سُورَةُ الأَنۡعَامِ</span></div>
     {: .quote }
 
 - <span id="src-2407"></span>The Qur’an repeatedly places limits on Prophet Muhammad’s ﷺ status. He is a messenger rather than a deity, a human rather than an angel, a recipient rather than the owner of revelation, and a mortal rather than the permanent center of the faith.
 
-    > "Muḥammad is no more than a messenger; other messengers have gone before him. If he were to die or to be killed, would you regress into disbelief? Those who do so will not harm Allah whatsoever. And Allah will reward those who are grateful." (**Sūrat Āl ʿImrān 3:144**), Dr. Mustafa Khattab, *The Clear Quran*[1](/messenger/sources#ref-1){: .footnote}[11](/messenger/sources#ref-11){: .footnote}[12](/messenger/sources#ref-12){: .footnote}[36](/messenger/sources#ref-36){: .footnote}
+    > "Muḥammad is no more than a messenger; other messengers have gone before him. If he were to die or to be killed, would you regress into disbelief? Those who do so will not harm Allah whatsoever. And Allah will reward those who are grateful." (**Sūrat Āl ʿImrān 3:144**)[1](/messenger/sources#ref-1){: .footnote}[11](/messenger/sources#ref-11){: .footnote}[12](/messenger/sources#ref-12){: .footnote}[36](/messenger/sources#ref-36){: .footnote}
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَمَا مُحَمَّدٌ إِلَّا رَسُولٌ قَدْ خَلَتْ مِن قَبْلِهِ ٱلرُّسُلُ ۚ أَفَإِي۟ن مَّاتَ أَوْ قُتِلَ ٱنقَلَبْتُمْ عَلَىٰٓ أَعْقَـٰبِكُمْ ۚ وَمَن يَنقَلِبْ عَلَىٰ عَقِبَيْهِ فَلَن يَضُرَّ ٱللَّهَ شَيْـًٔا ۗ وَسَيَجْزِى ٱللَّهُ ٱلشَّـٰكِرِينَ ۝١٤٤﴾ <span class="ayah-ref">سُورَةُ آلِ عِمۡرَانَ</span></div>
     {: .quote }
@@ -224,17 +224,17 @@ What best explains Muhammad ﷺ’s claim to revelation? These evidence entries 
 
 - <span id="src-3154"></span>**“The source was demonic rather than divine.”** This explanation appears especially in Christian polemic, while Meccan opponents made related accusations of possession or soothsaying. The Qur’an rejects the charge directly, saying that devils neither brought down the recitation nor were capable of doing so. More importantly for the hypothesis itself, the resulting message persistently directs worship away from idols and spirits toward one God, condemns sorcery, divination, omens, murder, exploitation, and sexual wrongdoing, repeatedly teaches people to seek refuge from Satan, and explicitly commands believers to treat Satan as an enemy. This is not incidental phrasing: the Qur’an and hadith corpus name Satan the believer’s explicit enemy and command that he be treated as one—the opposite of what a source working on his behalf would be expected to produce. The hadith corpus carries the same opposition into practice.[6](/messenger/sources#ref-6){: .footnote}[17](/messenger/sources#ref-17){: .footnote}[43](/messenger/sources#ref-43){: .footnote}
 
-    > "It was not the devils who brought this ˹Quran˺ down. It is not for them ˹to do so˺, nor can they, for they are strictly barred from ˹even˺ overhearing ˹it˺." (**Sūrat ash-Shuʿarāʾ 26:210-212**), Dr. Mustafa Khattab, *The Clear Quran*[1](/messenger/sources#ref-1){: .footnote}[11](/messenger/sources#ref-11){: .footnote}[12](/messenger/sources#ref-12){: .footnote}[36](/messenger/sources#ref-36){: .footnote}
+    > "It was not the devils who brought this ˹Quran˺ down. It is not for them ˹to do so˺, nor can they, for they are strictly barred from ˹even˺ overhearing ˹it˺." (**Sūrat ash-Shuʿarāʾ 26:210-212**)[1](/messenger/sources#ref-1){: .footnote}[11](/messenger/sources#ref-11){: .footnote}[12](/messenger/sources#ref-12){: .footnote}[36](/messenger/sources#ref-36){: .footnote}
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَمَا تَنَزَّلَتْ بِهِ ٱلشَّيَـٰطِينُ ۝٢١٠ وَمَا يَنۢبَغِى لَهُمْ وَمَا يَسْتَطِيعُونَ ۝٢١١ إِنَّهُمْ عَنِ ٱلسَّمْعِ لَمَعْزُولُونَ ۝٢١٢﴾ <span class="ayah-ref">سُورَةُ الشُّعَرَاءِ</span></div>
     {: .quote }
 
-    > "And this ˹Quran˺ is not the word of an outcast devil." (**Sūrat al-Takwīr 81:25**), Dr. Mustafa Khattab, *The Clear Quran*[1](/messenger/sources#ref-1){: .footnote}[11](/messenger/sources#ref-11){: .footnote}[12](/messenger/sources#ref-12){: .footnote}[36](/messenger/sources#ref-36){: .footnote}
+    > "And this ˹Quran˺ is not the word of an outcast devil." (**Sūrat al-Takwīr 81:25**)[1](/messenger/sources#ref-1){: .footnote}[11](/messenger/sources#ref-11){: .footnote}[12](/messenger/sources#ref-12){: .footnote}[36](/messenger/sources#ref-36){: .footnote}
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَمَا هُوَ بِقَوْلِ شَيْطَـٰنٍ رَّجِيمٍ ۝٢٥﴾ <span class="ayah-ref">سُورَةُ التَّكۡوِيرِ</span></div>
     {: .quote }
 
-    > "Surely Satan is an enemy to you, so take him as an enemy. He only invites his followers to become inmates of the Blaze." (**Sūrat Fāṭir 35:6**), Dr. Mustafa Khattab, *The Clear Quran*[1](/messenger/sources#ref-1){: .footnote}[11](/messenger/sources#ref-11){: .footnote}[12](/messenger/sources#ref-12){: .footnote}[36](/messenger/sources#ref-36){: .footnote}
+    > "Surely Satan is an enemy to you, so take him as an enemy. He only invites his followers to become inmates of the Blaze." (**Sūrat Fāṭir 35:6**)[1](/messenger/sources#ref-1){: .footnote}[11](/messenger/sources#ref-11){: .footnote}[12](/messenger/sources#ref-12){: .footnote}[36](/messenger/sources#ref-36){: .footnote}
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿إِنَّ ٱلشَّيْطَـٰنَ لَكُمْ عَدُوٌّ فَٱتَّخِذُوهُ عَدُوًّا ۚ إِنَّمَا يَدْعُوا۟ حِزْبَهُۥ لِيَكُونُوا۟ مِنْ أَصْحَـٰبِ ٱلسَّعِيرِ ۝٦﴾ <span class="ayah-ref">سُورَةُ فَاطِرٍ</span></div>
     {: .quote }
@@ -257,7 +257,7 @@ What best explains Muhammad ﷺ’s claim to revelation? These evidence entries 
 
 - <span id="src-3187"></span>The teachings can be compared with the life. The message calls for truthfulness, mercy, family duty, care for vulnerable people, honest trade, justice, restraint in conflict, humility, knowledge, consultation, and forgiveness. Family members, servants, petitioners, companions, and even opponents describe conduct that often follows the same pattern. Good character does not by itself prove revelation, but the public teaching and the reported private life are directly relevant to one another.
 
-    > "And indeed, you are of a great moral character." (**Sūrat al-Qalam 68:4**), Saheeh International[1](/messenger/sources#ref-1){: .footnote}[11](/messenger/sources#ref-11){: .footnote}[12](/messenger/sources#ref-12){: .footnote}[36](/messenger/sources#ref-36){: .footnote}
+    > "And indeed, you are of a great moral character." (**Sūrat al-Qalam 68:4**)[1](/messenger/sources#ref-1){: .footnote}[11](/messenger/sources#ref-11){: .footnote}[12](/messenger/sources#ref-12){: .footnote}[36](/messenger/sources#ref-36){: .footnote}
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَإِنَّكَ لَعَلَىٰ خُلُقٍ عَظِيمٍ ۝٤﴾ <span class="ayah-ref">سُورَةُ القَلَمِ</span></div>
     {: .quote }
@@ -267,14 +267,14 @@ What best explains Muhammad ﷺ’s claim to revelation? These evidence entries 
 
 - <span id="src-3196"></span>Several episodes are particularly awkward for a deliberate-fabrication explanation. He rejected the popular attempt to connect an eclipse with his son’s death, waited through Aisha’s accusation rather than producing an immediate convenient revelation, acknowledged ordinary error in agricultural advice, restricted exaggerated praise of himself, denied independent knowledge of the unseen, and delivered a Qur’an that publicly corrected and constrained him. None of these points proves revelation, but together they make a simple theory of calculated self-aggrandizement less economical.
 
-    > "When Our clear revelations are recited to them, those who do not expect to meet Us say ˹to the Prophet˺, 'Bring us a different Quran or make some changes in it.' Say ˹to them˺, 'It is not for me to change it on my own. I only follow what is revealed to me.'" (**Sūrat Yūnus 10:15**), Dr. Mustafa Khattab, *The Clear Quran*[1](/messenger/sources#ref-1){: .footnote}[11](/messenger/sources#ref-11){: .footnote}[12](/messenger/sources#ref-12){: .footnote}[36](/messenger/sources#ref-36){: .footnote}
+    > "When Our clear revelations are recited to them, those who do not expect to meet Us say ˹to the Prophet˺, 'Bring us a different Quran or make some changes in it.' Say ˹to them˺, 'It is not for me to change it on my own. I only follow what is revealed to me.'" (**Sūrat Yūnus 10:15**)[1](/messenger/sources#ref-1){: .footnote}[11](/messenger/sources#ref-11){: .footnote}[12](/messenger/sources#ref-12){: .footnote}[36](/messenger/sources#ref-36){: .footnote}
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَإِذَا تُتْلَىٰ عَلَيْهِمْ ءَايَاتُنَا بَيِّنَـٰتٍ ۙ قَالَ ٱلَّذِينَ لَا يَرْجُونَ لِقَآءَنَا ٱئْتِ بِقُرْءَانٍ غَيْرَ هَـٰذَآ أَوْ بَدِّلْهُ ۚ قُلْ مَا يَكُونُ لِىٓ أَنْ أُبَدِّلَهُۥ مِن تِلْقَآئِ نَفْسِىٓ ۖ إِنْ أَتَّبِعُ إِلَّا مَا يُوحَىٰٓ إِلَىَّ ۖ إِنِّىٓ أَخَافُ إِنْ عَصَيْتُ رَبِّى عَذَابَ يَوْمٍ عَظِيمٍ ۝١٥﴾ <span class="ayah-ref">سُورَةُ يُونُسَ</span></div>
     {: .quote }
 
 - <span id="src-3203"></span>Predictions and miracle reports add a different category of evidence, but they have to be weighted carefully. Qur’anic examples such as the Byzantine recovery and the promised return to the Sacred Mosque have stronger dating arguments than predictions first preserved in later compilations. Hadith also contain forecasts concerning particular people and political developments, as well as reports of multiplied food and water, the splitting of the moon, the crying palm trunk, healing, rain, and the Night Journey. Their evidential force is not uniform: specificity, source dating, transmission, and one’s prior judgment about miracles all matter.
 
-    > "The Romans have been defeated in a nearby land. Yet following their defeat, they will triumph within three to nine years." (**Sūrat al-Rūm 30:2-4**), Dr. Mustafa Khattab, *The Clear Quran*[1](/messenger/sources#ref-1){: .footnote}[11](/messenger/sources#ref-11){: .footnote}[12](/messenger/sources#ref-12){: .footnote}[36](/messenger/sources#ref-36){: .footnote}
+    > "The Romans have been defeated in a nearby land. Yet following their defeat, they will triumph within three to nine years." (**Sūrat al-Rūm 30:2-4**)[1](/messenger/sources#ref-1){: .footnote}[11](/messenger/sources#ref-11){: .footnote}[12](/messenger/sources#ref-12){: .footnote}[36](/messenger/sources#ref-36){: .footnote}
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿غُلِبَتِ ٱلرُّومُ ۝٢ فِىٓ أَدْنَى ٱلْأَرْضِ وَهُم مِّنۢ بَعْدِ غَلَبِهِمْ سَيَغْلِبُونَ ۝٣ فِى بِضْعِ سِنِينَ ۗ لِلَّهِ ٱلْأَمْرُ مِن قَبْلُ وَمِنۢ بَعْدُ ۚ وَيَوْمَئِذٍ يَفْرَحُ ٱلْمُؤْمِنُونَ ۝٤﴾ <span class="ayah-ref">سُورَةُ الرُّومِ</span></div>
     {: .quote }
@@ -284,7 +284,7 @@ What best explains Muhammad ﷺ’s claim to revelation? These evidence entries 
 
 - <span id="src-3210"></span>The strongest skeptical alternative is therefore not a simple picture of deliberate imposture for wealth or status. A more serious alternative is that Prophet Muhammad ﷺ was deeply sincere but mistaken: a religious experiencer who nevertheless delivered a remarkable scripture, exercised unusual moral and political judgment, sustained a demanding monotheistic mission across radically changing circumstances, and became the center of a tradition containing striking predictions and miracle testimony. That hypothesis is coherent. The question is whether it explains the whole pattern more naturally than prophethood does.
 
-    > "Say, 'I only advise you of one [thing] - that you stand for Allah, [seeking truth] in pairs and individually, and then give thought.' There is not in your companion any madness. He is only a warner to you before a severe punishment." (**Sūrat Sabaʾ 34:46**), Saheeh International[1](/messenger/sources#ref-1){: .footnote}[11](/messenger/sources#ref-11){: .footnote}[12](/messenger/sources#ref-12){: .footnote}[36](/messenger/sources#ref-36){: .footnote}
+    > "Say, 'I only advise you of one [thing] - that you stand for Allah, [seeking truth] in pairs and individually, and then give thought.' There is not in your companion any madness. He is only a warner to you before a severe punishment." (**Sūrat Sabaʾ 34:46**)[1](/messenger/sources#ref-1){: .footnote}[11](/messenger/sources#ref-11){: .footnote}[12](/messenger/sources#ref-12){: .footnote}[36](/messenger/sources#ref-36){: .footnote}
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿۞ قُلْ إِنَّمَآ أَعِظُكُم بِوَٰحِدَةٍ ۖ أَن تَقُومُوا۟ لِلَّهِ مَثْنَىٰ وَفُرَٰدَىٰ ثُمَّ تَتَفَكَّرُوا۟ ۚ مَا بِصَاحِبِكُم مِّن جِنَّةٍ ۚ إِنْ هُوَ إِلَّا نَذِيرٌ لَّكُم بَيْنَ يَدَىْ عَذَابٍ شَدِيدٍ ۝٤٦﴾ <span class="ayah-ref">سُورَةُ سَبَإٍ</span></div>
     {: .quote }
@@ -299,14 +299,14 @@ What best explains Muhammad ﷺ’s claim to revelation? These evidence entries 
 
 - <span id="src-3224"></span>**The human details matter** alongside the large claims. The same sources remember a man who wept over his child, carried his granddaughter in prayer, listened to women, forgave personal injuries, helped at home, lived simply after acquiring power, and spent his final illness turning toward God. The portrait is therefore neither merely a list of doctrines nor merely a catalogue of marvels. It is a claim about a life in which truthfulness without cruelty, strength without arrogance, devotion without extremism, justice without favoritism, and mercy without moral indifference remain visible across very different circumstances. This is why the small incidents matter beside the large claims: a moral teaching is tested most clearly by proximity, inconvenience, loss, insult, fear, money, and power.
 
-    > "Indeed, in the Messenger of Allah you have an excellent example for whoever has hope in Allah and the Last Day, and remembers Allah often." (**Sūrat al-Aḥzāb 33:21**), Dr. Mustafa Khattab, *The Clear Quran*[1](/messenger/sources#ref-1){: .footnote}[11](/messenger/sources#ref-11){: .footnote}[12](/messenger/sources#ref-12){: .footnote}[36](/messenger/sources#ref-36){: .footnote}
+    > "Indeed, in the Messenger of Allah you have an excellent example for whoever has hope in Allah and the Last Day, and remembers Allah often." (**Sūrat al-Aḥzāb 33:21**)[1](/messenger/sources#ref-1){: .footnote}[11](/messenger/sources#ref-11){: .footnote}[12](/messenger/sources#ref-12){: .footnote}[36](/messenger/sources#ref-36){: .footnote}
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿لَّقَدْ كَانَ لَكُمْ فِى رَسُولِ ٱللَّهِ أُسْوَةٌ حَسَنَةٌ لِّمَن كَانَ يَرْجُوا۟ ٱللَّهَ وَٱلْيَوْمِ ٱلْـَٔاخِرَ وَذَكَرَ ٱللَّهَ كَثِيرًا ۝٢١﴾ <span class="ayah-ref">سُورَةُ الأَحۡزَابِ</span></div>
     {: .quote }
 
 - <span id="src-3231"></span>The message ultimately directs attention beyond Prophet Muhammad ﷺ and toward God. He did not ask to be worshipped; his authority, in his own teaching, came from being God’s servant and messenger rather than from possessing divinity himself.
 
-    > "Say, ˹O Prophet,˺ 'I am only a man like you, ˹but˺ it has been revealed to me that your God is only One God. So whoever hopes for the meeting with their Lord, let them do good deeds and associate none in the worship of their Lord.'" (**Sūrat al-Kahf 18:110**), Dr. Mustafa Khattab, *The Clear Quran*[1](/messenger/sources#ref-1){: .footnote}[11](/messenger/sources#ref-11){: .footnote}[12](/messenger/sources#ref-12){: .footnote}[36](/messenger/sources#ref-36){: .footnote}
+    > "Say, ˹O Prophet,˺ 'I am only a man like you, ˹but˺ it has been revealed to me that your God is only One God. So whoever hopes for the meeting with their Lord, let them do good deeds and associate none in the worship of their Lord.'" (**Sūrat al-Kahf 18:110**)[1](/messenger/sources#ref-1){: .footnote}[11](/messenger/sources#ref-11){: .footnote}[12](/messenger/sources#ref-12){: .footnote}[36](/messenger/sources#ref-36){: .footnote}
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿قُلْ إِنَّمَآ أَنَا۠ بَشَرٌ مِّثْلُكُمْ يُوحَىٰٓ إِلَىَّ أَنَّمَآ إِلَـٰهُكُمْ إِلَـٰهٌ وَٰحِدٌ ۖ فَمَن كَانَ يَرْجُوا۟ لِقَآءِ رَبِّهِۦ فَلْيَعْمَلْ عَمَلًا صَـٰلِحًا وَلَا يُشْرِكْ بِعِبَادَةِ رَبِّهِۦٓ أَحَدًۢا ۝١١٠﴾ <span class="ayah-ref">سُورَةُ الكَهۡفِ</span></div>
     {: .quote }

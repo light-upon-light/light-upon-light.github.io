@@ -158,7 +158,7 @@ This chapter argues that the Qur'an could not have been authored by anyone but G
 1. The Qur'an was delivered entirely by oral recitation through Prophet Muhammad ﷺ, a man from seventh-century Arabia who could neither read nor write.
     > The Qur'an stated this openly before people who had known the Prophet ﷺ throughout his life. Had he been known as a reader, a writer, or a student of earlier scriptures, his opponents had every reason to expose the claim immediately and discredit him as a liar. The verse is quoted below.
     {: .gloss }
-    > “You ˹O Prophet˺ could not read any writing ˹even˺ before this ˹revelation˺, nor could you write at all. Otherwise, the people of falsehood would have been suspicious.” (**Sūrat al-ʿAnkabūt 29:48**), Dr. Mustafa Khattab, *The Clear Quran*
+    > “You ˹O Prophet˺ could not read any writing ˹even˺ before this ˹revelation˺, nor could you write at all. Otherwise, the people of falsehood would have been suspicious.” (**Sūrat al-ʿAnkabūt 29:48**)
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَمَا كُنتَ تَتْلُوا۟ مِن قَبْلِهِۦ مِن كِتَـٰبٍ وَلَا تَخُطُّهُۥ بِيَمِينِكَ ۖ إِذًا لَّٱرْتَابَ ٱلْمُبْطِلُونَ ۝٤٨﴾ <span class="ayah-ref">سُورَةُ العَنكَبُوتِ</span></div>
     {: .quote }
@@ -327,7 +327,7 @@ The Qur'an's literary miracle extends far beyond beauty of expression. Its inimi
     {% include yt-embed.html url="https://youtube.com/shorts/4pf9Cu5cwhs" title="Qur'an Recitation of Al-Rahman (Youtube Short)" %}
 
     {% include yt-embed.html url="https://youtube.com/shorts/0cbZ6FqFiV8" title="Qur'an Recitation of Al-Talaq (Youtube Short)" %}
-    > "˹It is˺ Allah ˹Who˺ has sent down the best message—a Book of perfect consistency and repeated lessons—which causes the skin ˹and hearts˺ of those who fear their Lord to tremble, then their skin and hearts soften at the mention of ˹the mercy of˺ Allah. That is the guidance of Allah, through which He guides whoever He wills. But whoever Allah leaves to stray will be left with no guide." (**Sūrat az-Zumar 39:23**), Dr. Mustafa Khattab, *The Clear Quran*
+    > "˹It is˺ Allah ˹Who˺ has sent down the best message—a Book of perfect consistency and repeated lessons—which causes the skin ˹and hearts˺ of those who fear their Lord to tremble, then their skin and hearts soften at the mention of ˹the mercy of˺ Allah. That is the guidance of Allah, through which He guides whoever He wills. But whoever Allah leaves to stray will be left with no guide." (**Sūrat az-Zumar 39:23**)
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿ٱللَّهُ نَزَّلَ أَحْسَنَ ٱلْحَدِيثِ كِتَـٰبًا مُّتَشَـٰبِهًا مَّثَانِىَ تَقْشَعِرُّ مِنْهُ جُلُودُ ٱلَّذِينَ يَخْشَوْنَ رَبَّهُمْ ثُمَّ تَلِينُ جُلُودُهُمْ وَقُلُوبُهُمْ إِلَىٰ ذِكْرِ ٱللَّهِ ۚ ذَٰلِكَ هُدَى ٱللَّهِ يَهْدِى بِهِۦ مَن يَشَآءُ ۚ وَمَن يُضْلِلِ ٱللَّهُ فَمَا لَهُۥ مِنْ هَادٍ ۝٢٣﴾ <span class="ayah-ref">سُورَةُ الزُّمَرِ</span></div>
     {: .quote }
@@ -405,24 +405,24 @@ The Qur'an's literary miracle extends far beyond beauty of expression. Its inimi
 1. The Qur'an claims to be the verbatim word of God: not a report about Him, and not a human account inspired by Him. No other book of comparable reach makes this claim about itself.
 
 1. Near the beginning of the book it presents itself without hesitation:
-    > "This is the Book! There is no doubt about it—a guide for those mindful ˹of Allah˺" (**Sūrat al-Baqarah 2:2**), Dr. Mustafa Khattab, *The Clear Quran*
+    > "This is the Book! There is no doubt about it—a guide for those mindful ˹of Allah˺" (**Sūrat al-Baqarah 2:2**)
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿ذَٰلِكَ ٱلْكِتَـٰبُ لَا رَيْبَ ۛ فِيهِ ۛ هُدًى لِّلْمُتَّقِينَ ۝٢﴾ <span class="ayah-ref">سُورَةُ البَقَرَةِ</span></div>
     {: .quote }
 
 1. The Qur'an openly challenges its opponents and all of humanity to produce something comparable to it. It then narrows the challenge to ten chapters, and finally to a single chapter, with any help they can find.
-    > “Say, ˹O Prophet,˺ ‘If ˹all˺ humans and jinn were to come together to produce the equivalent of this Qur'an, they could not produce its equal, no matter how they supported each other.'” (**Sūrat al-Isrāʾ 17:88**), Dr. Mustafa Khattab, *The Clear Quran*
+    > “Say, ˹O Prophet,˺ ‘If ˹all˺ humans and jinn were to come together to produce the equivalent of this Qur'an, they could not produce its equal, no matter how they supported each other.'” (**Sūrat al-Isrāʾ 17:88**)
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿قُل لَّئِنِ ٱجْتَمَعَتِ ٱلْإِنسُ وَٱلْجِنُّ عَلَىٰٓ أَن يَأْتُوا۟ بِمِثْلِ هَـٰذَا ٱلْقُرْءَانِ لَا يَأْتُونَ بِمِثْلِهِۦ وَلَوْ كَانَ بَعْضُهُمْ لِبَعْضٍ ظَهِيرًا ۝٨٨﴾ <span class="ayah-ref">سُورَةُ الإِسۡرَاءِ</span></div>
     {: .quote }
     <details class="quran-more" markdown="1">
     <summary>Show more verses on this theme</summary>
 
-    > “Or do they say, ‘He has fabricated this ˹Qur'an˺!'? Say, ˹O Prophet,˺ ‘Produce ten fabricated sûrahs like it and seek help from whoever you can—other than Allah—if what you say is true!' But if your helpers fail you, then know that it has been revealed with the knowledge of Allah, and that there is no god ˹worthy of worship˺ except Him! Will you ˹not˺ then submit ˹to Allah˺?” (**Sūrat Hūd 11:13–14**), Dr. Mustafa Khattab, *The Clear Quran*
+    > “Or do they say, ‘He has fabricated this ˹Qur'an˺!'? Say, ˹O Prophet,˺ ‘Produce ten fabricated sûrahs like it and seek help from whoever you can—other than Allah—if what you say is true!' But if your helpers fail you, then know that it has been revealed with the knowledge of Allah, and that there is no god ˹worthy of worship˺ except Him! Will you ˹not˺ then submit ˹to Allah˺?” (**Sūrat Hūd 11:13–14**)
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿أَمْ يَقُولُونَ ٱفْتَرَىٰهُ ۖ قُلْ فَأْتُوا۟ بِعَشْرِ سُوَرٍ مِّثْلِهِۦ مُفْتَرَيَـٰتٍ وَٱدْعُوا۟ مَنِ ٱسْتَطَعْتُم مِّن دُونِ ٱللَّهِ إِن كُنتُمْ صَـٰدِقِينَ ۝١٣ فَإِلَّمْ يَسْتَجِيبُوا۟ لَكُمْ فَٱعْلَمُوٓا۟ أَنَّمَآ أُنزِلَ بِعِلْمِ ٱللَّهِ وَأَن لَّآ إِلَـٰهَ إِلَّا هُوَ ۖ فَهَلْ أَنتُم مُّسْلِمُونَ ۝١٤﴾ <span class="ayah-ref">سُورَةُ هُودٍ</span></div>
     {: .quote }
-    > “And if you are in doubt about what We have revealed to Our servant, then produce a sûrah like it and call your helpers other than Allah, if what you say is true. But if you are unable to do so—and you will never be able to do so—then fear the Fire fuelled with people and stones, which is prepared for the disbelievers.” (**Sūrat al-Baqarah 2:23–24**), Dr. Mustafa Khattab, *The Clear Quran*
+    > “And if you are in doubt about what We have revealed to Our servant, then produce a sûrah like it and call your helpers other than Allah, if what you say is true. But if you are unable to do so—and you will never be able to do so—then fear the Fire fuelled with people and stones, which is prepared for the disbelievers.” (**Sūrat al-Baqarah 2:23–24**)
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَإِن كُنتُمْ فِى رَيْبٍ مِّمَّا نَزَّلْنَا عَلَىٰ عَبْدِنَا فَأْتُوا۟ بِسُورَةٍ مِّن مِّثْلِهِۦ وَٱدْعُوا۟ شُهَدَآءَكُم مِّن دُونِ ٱللَّهِ إِن كُنتُمْ صَـٰدِقِينَ ۝٢٣ فَإِن لَّمْ تَفْعَلُوا۟ وَلَن تَفْعَلُوا۟ فَٱتَّقُوا۟ ٱلنَّارَ ٱلَّتِى وَقُودُهَا ٱلنَّاسُ وَٱلْحِجَارَةُ ۖ أُعِدَّتْ لِلْكَـٰفِرِينَ ۝٢٤﴾ <span class="ayah-ref">سُورَةُ البَقَرَةِ</span></div>
     {: .quote }
@@ -446,7 +446,7 @@ The Qur'an repeatedly explains its own source, purpose, delivery, interpretation
 | **Objections** | It records accusations of human assistance and ancient tales (25:4–5), poetry, and confused dreams (21:5). |
 | **Response and preservation** | It describes awe and softened hearts (39:23), calls for conduct guided by its teaching, and promises divine protection of the message (15:9). |
 
-> "˹It is˺ Allah ˹Who˺ has sent down the best message—a Book of perfect consistency and repeated lessons—which causes the skin ˹and hearts˺ of those who fear their Lord to tremble, then their skin and hearts soften at the mention of ˹the mercy of˺ Allah. That is the guidance of Allah, through which He guides whoever He wills. But whoever Allah leaves to stray will be left with no guide." (**Sūrat az-Zumar 39:23**), Dr. Mustafa Khattab, *The Clear Quran*
+> "˹It is˺ Allah ˹Who˺ has sent down the best message—a Book of perfect consistency and repeated lessons—which causes the skin ˹and hearts˺ of those who fear their Lord to tremble, then their skin and hearts soften at the mention of ˹the mercy of˺ Allah. That is the guidance of Allah, through which He guides whoever He wills. But whoever Allah leaves to stray will be left with no guide." (**Sūrat az-Zumar 39:23**)
 >
 > <div dir="rtl" lang="ar" class="quran-arabic">﴿ٱللَّهُ نَزَّلَ أَحْسَنَ ٱلْحَدِيثِ كِتَـٰبًا مُّتَشَـٰبِهًا مَّثَانِىَ تَقْشَعِرُّ مِنْهُ جُلُودُ ٱلَّذِينَ يَخْشَوْنَ رَبَّهُمْ ثُمَّ تَلِينُ جُلُودُهُمْ وَقُلُوبُهُمْ إِلَىٰ ذِكْرِ ٱللَّهِ ۚ ذَٰلِكَ هُدَى ٱللَّهِ يَهْدِى بِهِۦ مَن يَشَآءُ ۚ وَمَن يُضْلِلِ ٱللَّهُ فَمَا لَهُۥ مِنْ هَادٍ ۝٢٣﴾ <span class="ayah-ref">سُورَةُ الزُّمَرِ</span></div>
 {: .quote }
@@ -461,40 +461,40 @@ Anne-Sylvie Boisliveau studies how the Qur'an describes itself and argues for it
 {: #reason-and-scrutiny }
 
 1. The Qur'an rests its claim to authenticity on its own coherence and invites the reader to examine it closely.
-    > "Then do they not reflect upon the Qur’ān? If it had been from [any] other than Allāh, they would have found within it much contradiction." (**Sūrat al-Nisāʾ 4:82**), Saheeh International
+    > "Then do they not reflect upon the Qur’ān? If it had been from [any] other than Allāh, they would have found within it much contradiction." (**Sūrat al-Nisāʾ 4:82**)
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿أَفَلَا يَتَدَبَّرُونَ ٱلْقُرْءَانَ ۚ وَلَوْ كَانَ مِنْ عِندِ غَيْرِ ٱللَّهِ لَوَجَدُوا۟ فِيهِ ٱخْتِلَـٰفًا كَثِيرًا ۝٨٢﴾ <span class="ayah-ref">سُورَةُ النِّسَاءِ</span></div>
     {: .quote }
 
 1. The Qur'an repeatedly argues rather than merely asserting. It appeals to reason, history, nature, conscience, and consistency, and it asks the reader to reflect and consider implications.
-    > “Or were they created by nothing, or are they ˹their own˺ creators?” (**Sūrat al-Ṭūr 52:35**), Dr. Mustafa Khattab, *The Clear Quran*
+    > “Or were they created by nothing, or are they ˹their own˺ creators?” (**Sūrat al-Ṭūr 52:35**)
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿أَمْ خُلِقُوا۟ مِنْ غَيْرِ شَىْءٍ أَمْ هُمُ ٱلْخَـٰلِقُونَ ۝٣٥﴾ <span class="ayah-ref">سُورَةُ الطُّورِ</span></div>
     {: .quote }
     <details class="quran-more" markdown="1">
     <summary>Show more verses on this theme</summary>
 
-    > “Had there been other gods besides Allah in the heavens or the earth, both ˹realms˺ would have surely been corrupted. So Glorified is Allah, Lord of the Throne, far above what they claim.” (**Sūrat al-Anbiyāʾ 21:22**), Dr. Mustafa Khattab, *The Clear Quran*
+    > “Had there been other gods besides Allah in the heavens or the earth, both ˹realms˺ would have surely been corrupted. So Glorified is Allah, Lord of the Throne, far above what they claim.” (**Sūrat al-Anbiyāʾ 21:22**)
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿لَوْ كَانَ فِيهِمَآ ءَالِهَةٌ إِلَّا ٱللَّهُ لَفَسَدَتَا ۚ فَسُبْحَـٰنَ ٱللَّهِ رَبِّ ٱلْعَرْشِ عَمَّا يَصِفُونَ ۝٢٢﴾ <span class="ayah-ref">سُورَةُ الأَنبِيَاءِ</span></div>
     {: .quote }
-    > “Allah has never had ˹any˺ offspring, nor is there any god besides Him. Otherwise, each god would have taken away what he created, and they would have tried to dominate one another. Glorified is Allah above what they claim.” (**Sūrat al-Muʾminūn 23:91**), Dr. Mustafa Khattab, *The Clear Quran*
+    > “Allah has never had ˹any˺ offspring, nor is there any god besides Him. Otherwise, each god would have taken away what he created, and they would have tried to dominate one another. Glorified is Allah above what they claim.” (**Sūrat al-Muʾminūn 23:91**)
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿مَا ٱتَّخَذَ ٱللَّهُ مِن وَلَدٍ وَمَا كَانَ مَعَهُۥ مِنْ إِلَـٰهٍ ۚ إِذًا لَّذَهَبَ كُلُّ إِلَـٰهٍۭ بِمَا خَلَقَ وَلَعَلَا بَعْضُهُمْ عَلَىٰ بَعْضٍ ۚ سُبْحَـٰنَ ٱللَّهِ عَمَّا يَصِفُونَ ۝٩١﴾ <span class="ayah-ref">سُورَةُ المُؤۡمِنُونَ</span></div>
     {: .quote }
-    > “And they argue with Us—forgetting they were created—saying, ‘Who will give life to decayed bones?’ Say, ˹O Prophet,˺ ‘They will be revived by the One Who produced them the first time, for He has ˹perfect˺ knowledge of every created being.’” (**Sūrat Yā Sīn 36:78–79**), Dr. Mustafa Khattab, *The Clear Quran*
+    > “And they argue with Us—forgetting they were created—saying, ‘Who will give life to decayed bones?’ Say, ˹O Prophet,˺ ‘They will be revived by the One Who produced them the first time, for He has ˹perfect˺ knowledge of every created being.’” (**Sūrat Yā Sīn 36:78–79**)
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَضَرَبَ لَنَا مَثَلًا وَنَسِىَ خَلْقَهُۥ ۖ قَالَ مَن يُحْىِ ٱلْعِظَـٰمَ وَهِىَ رَمِيمٌ ۝٧٨ قُلْ يُحْيِيهَا ٱلَّذِىٓ أَنشَأَهَآ أَوَّلَ مَرَّةٍ ۖ وَهُوَ بِكُلِّ خَلْقٍ عَلِيمٌ ۝٧٩﴾ <span class="ayah-ref">سُورَةُ يسٓ</span></div>
     {: .quote }
-    > “O humanity! A lesson is set forth, so listen to it ˹carefully˺: those ˹idols˺ you invoke besides Allah can never create ˹so much as˺ a fly, even if they ˹all˺ were to come together for that. And if a fly were to snatch anything away from them, they cannot ˹even˺ retrieve it from the fly. How powerless are those who invoke and those invoked.” (**Sūrat al-Ḥajj 22:73**), Dr. Mustafa Khattab, *The Clear Quran*
+    > “O humanity! A lesson is set forth, so listen to it ˹carefully˺: those ˹idols˺ you invoke besides Allah can never create ˹so much as˺ a fly, even if they ˹all˺ were to come together for that. And if a fly were to snatch anything away from them, they cannot ˹even˺ retrieve it from the fly. How powerless are those who invoke and those invoked.” (**Sūrat al-Ḥajj 22:73**)
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿يَـٰٓأَيُّهَا ٱلنَّاسُ ضُرِبَ مَثَلٌ فَٱسْتَمِعُوا۟ لَهُۥٓ ۚ إِنَّ ٱلَّذِينَ تَدْعُونَ مِن دُونِ ٱللَّهِ لَن يَخْلُقُوا۟ ذُبَابًا وَلَوِ ٱجْتَمَعُوا۟ لَهُۥ ۖ وَإِن يَسْلُبْهُمُ ٱلذُّبَابُ شَيْـًٔا لَّا يَسْتَنقِذُوهُ مِنْهُ ۚ ضَعُفَ ٱلطَّالِبُ وَٱلْمَطْلُوبُ ۝٧٣﴾ <span class="ayah-ref">سُورَةُ الحَجِّ</span></div>
     {: .quote }
-    > “Have you considered what you ejaculate? Is it you who create ˹a child out of˺ it, or is it We Who do so?” (**Sūrat al-Wāqiʿah 56:58–59**), Dr. Mustafa Khattab, *The Clear Quran*
+    > “Have you considered what you ejaculate? Is it you who create ˹a child out of˺ it, or is it We Who do so?” (**Sūrat al-Wāqiʿah 56:58–59**)
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿أَفَرَءَيْتُم مَّا تُمْنُونَ ۝٥٨ ءَأَنتُمْ تَخْلُقُونَهُۥٓ أَمْ نَحْنُ ٱلْخَـٰلِقُونَ ۝٥٩﴾ <span class="ayah-ref">سُورَةُ الوَاقِعَةِ</span></div>
     {: .quote }
-    > “Are you ˹O Prophet˺ not aware of the one who argued with Abraham about his Lord because Allah had granted him kingship? ˹Remember˺ when Abraham said, ‘My Lord is the One Who has power to give life and cause death.’ He argued, ‘I too have the power to give life and cause death.’ Abraham challenged ˹him˺, ‘Allah causes the sun to rise from the east. So make it rise from the west.’ And so the disbeliever was dumbstruck. And Allah does not guide the wrongdoing people.” (**Sūrat al-Baqarah 2:258**), Dr. Mustafa Khattab, *The Clear Quran*
+    > “Are you ˹O Prophet˺ not aware of the one who argued with Abraham about his Lord because Allah had granted him kingship? ˹Remember˺ when Abraham said, ‘My Lord is the One Who has power to give life and cause death.’ He argued, ‘I too have the power to give life and cause death.’ Abraham challenged ˹him˺, ‘Allah causes the sun to rise from the east. So make it rise from the west.’ And so the disbeliever was dumbstruck. And Allah does not guide the wrongdoing people.” (**Sūrat al-Baqarah 2:258**)
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿أَلَمْ تَرَ إِلَى ٱلَّذِى حَآجَّ إِبْرَٰهِـۧمَ فِى رَبِّهِۦٓ أَنْ ءَاتَىٰهُ ٱللَّهُ ٱلْمُلْكَ إِذْ قَالَ إِبْرَٰهِـۧمُ رَبِّىَ ٱلَّذِى يُحْىِۦ وَيُمِيتُ قَالَ أَنَا۠ أُحْىِۦ وَأُمِيتُ ۖ قَالَ إِبْرَٰهِـۧمُ فَإِنَّ ٱللَّهَ يَأْتِى بِٱلشَّمْسِ مِنَ ٱلْمَشْرِقِ فَأْتِ بِهَا مِنَ ٱلْمَغْرِبِ فَبُهِتَ ٱلَّذِى كَفَرَ ۗ وَٱللَّهُ لَا يَهْدِى ٱلْقَوْمَ ٱلظَّـٰلِمِينَ ۝٢٥٨﴾ <span class="ayah-ref">سُورَةُ البَقَرَةِ</span></div>
     {: .quote }
@@ -503,18 +503,18 @@ Anne-Sylvie Boisliveau studies how the Qur'an describes itself and argues for it
     {: .gloss }
 
 1. It repeatedly demands evidence and warns against following claims without knowledge, rather than treating sincere conviction alone as sufficient.
-    > “Do not follow what you have no ˹sure˺ knowledge of. Indeed, all will be called to account for ˹their˺ hearing, sight, and intellect.” (**Sūrat al-Isrāʾ 17:36**), Dr. Mustafa Khattab, *The Clear Quran*
+    > “Do not follow what you have no ˹sure˺ knowledge of. Indeed, all will be called to account for ˹their˺ hearing, sight, and intellect.” (**Sūrat al-Isrāʾ 17:36**)
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَلَا تَقْفُ مَا لَيْسَ لَكَ بِهِۦ عِلْمٌ ۚ إِنَّ ٱلسَّمْعَ وَٱلْبَصَرَ وَٱلْفُؤَادَ كُلُّ أُو۟لَـٰٓئِكَ كَانَ عَنْهُ مَسْـُٔولًا ۝٣٦﴾ <span class="ayah-ref">سُورَةُ الإِسۡرَاءِ</span></div>
     {: .quote }
     <details class="quran-more" markdown="1">
     <summary>Show more verses on this theme</summary>
 
-    > “Say, ‘Produce your proof, if you should be truthful.’” (**Sūrat al-Baqarah 2:111**), Saheeh International
+    > “Say, ‘Produce your proof, if you should be truthful.’” (**Sūrat al-Baqarah 2:111**)
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿قُلْ هَاتُوا۟ بُرْهَـٰنَكُمْ إِن كُنتُمْ صَـٰدِقِينَ﴾ <span class="ayah-ref">[سُورَةُ البَقَرَةِ: ١١١]</span></div>
     {: .quote }
-    > “O believers, if an evildoer brings you any news, verify ˹it˺ so you do not harm people unknowingly, becoming regretful for what you have done.” (**Sūrat al-Ḥujurāt 49:6**), Dr. Mustafa Khattab, *The Clear Quran*
+    > “O believers, if an evildoer brings you any news, verify ˹it˺ so you do not harm people unknowingly, becoming regretful for what you have done.” (**Sūrat al-Ḥujurāt 49:6**)
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ إِن جَآءَكُمْ فَاسِقٌۢ بِنَبَإٍ فَتَبَيَّنُوٓا۟ أَن تُصِيبُوا۟ قَوْمًۢا بِجَهَـٰلَةٍ فَتُصْبِحُوا۟ عَلَىٰ مَا فَعَلْتُمْ نَـٰدِمِينَ ۝٦﴾ <span class="ayah-ref">سُورَةُ الحُجُرَاتِ</span></div>
     {: .quote }
@@ -523,18 +523,18 @@ Anne-Sylvie Boisliveau studies how the Qur'an describes itself and argues for it
 1. It preserves hostile objections inside the permanent text: accusations of fabrication, madness, poetry, magic, ancient tales, and human instruction. The Qur'an then answers those objections rather than editing them out of the record.
     > This gives the book a strikingly “live” argumentative quality. Its first audience remains present in the scripture through the questions and accusations the text addresses.
     {: .gloss }
-    > “The disbelievers say, ‘This ˹Quran˺ is nothing but a fabrication which he made up with the help of others.’ Their claim is totally unjustified and untrue. And they say, ‘˹These revelations are only˺ ancient fables which he has had written down, and they are rehearsed to him morning and evening.’” (**Sūrat al-Furqān 25:4–5**), Dr. Mustafa Khattab, *The Clear Quran*
+    > “The disbelievers say, ‘This ˹Quran˺ is nothing but a fabrication which he made up with the help of others.’ Their claim is totally unjustified and untrue. And they say, ‘˹These revelations are only˺ ancient fables which he has had written down, and they are rehearsed to him morning and evening.’” (**Sūrat al-Furqān 25:4–5**)
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَقَالَ ٱلَّذِينَ كَفَرُوٓا۟ إِنْ هَـٰذَآ إِلَّآ إِفْكٌ ٱفْتَرَىٰهُ وَأَعَانَهُۥ عَلَيْهِ قَوْمٌ ءَاخَرُونَ ۖ فَقَدْ جَآءُو ظُلْمًا وَزُورًا ۝٤ وَقَالُوٓا۟ أَسَـٰطِيرُ ٱلْأَوَّلِينَ ٱكْتَتَبَهَا فَهِىَ تُمْلَىٰ عَلَيْهِ بُكْرَةً وَأَصِيلًا ۝٥﴾ <span class="ayah-ref">سُورَةُ الفُرۡقَانِ</span></div>
     {: .quote }
     <details class="quran-more" markdown="1">
     <summary>Show more verses on this theme</summary>
 
-    > “Yet they say, ‘This ˹Quran˺ is a set of confused dreams! No, he has fabricated it! No, he must be a poet! So let him bring us a ˹tangible˺ sign like those ˹prophets˺ sent before.’” (**Sūrat al-Anbiyāʾ 21:5**), Dr. Mustafa Khattab, *The Clear Quran*
+    > “Yet they say, ‘This ˹Quran˺ is a set of confused dreams! No, he has fabricated it! No, he must be a poet! So let him bring us a ˹tangible˺ sign like those ˹prophets˺ sent before.’” (**Sūrat al-Anbiyāʾ 21:5**)
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿بَلْ قَالُوٓا۟ أَضْغَـٰثُ أَحْلَـٰمٍۭ بَلِ ٱفْتَرَىٰهُ بَلْ هُوَ شَاعِرٌ فَلْيَأْتِنَا بِـَٔايَةٍ كَمَآ أُرْسِلَ ٱلْأَوَّلُونَ ۝٥﴾ <span class="ayah-ref">سُورَةُ الأَنبِيَاءِ</span></div>
     {: .quote }
-    > “And We surely know that they say, ‘No one is teaching him except a human.’ But the man they refer to speaks a foreign tongue, whereas this ˹Quran˺ is ˹in˺ eloquent Arabic.” (**Sūrat al-Naḥl 16:103**), Dr. Mustafa Khattab, *The Clear Quran*
+    > “And We surely know that they say, ‘No one is teaching him except a human.’ But the man they refer to speaks a foreign tongue, whereas this ˹Quran˺ is ˹in˺ eloquent Arabic.” (**Sūrat al-Naḥl 16:103**)
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَلَقَدْ نَعْلَمُ أَنَّهُمْ يَقُولُونَ إِنَّمَا يُعَلِّمُهُۥ بَشَرٌ ۗ لِّسَانُ ٱلَّذِى يُلْحِدُونَ إِلَيْهِ أَعْجَمِىٌّ وَهَـٰذَا لِسَانٌ عَرَبِىٌّ مُّبِينٌ ۝١٠٣﴾ <span class="ayah-ref">سُورَةُ النَّحۡلِ</span></div>
     {: .quote }
@@ -716,7 +716,7 @@ It also describes features of that world with remarkable precision, including ob
 {% include yt-embed.html url="https://youtu.be/DoP6Ft-VE70" title="Are there scientific miracles in the Qur'an?" %}
 
 1. **Embryonic development:** the Qur'an gives a striking stage-by-stage description of how a human embryo develops: first a drop, then something that clings, then a lump, then bones, and finally flesh clothing those bones.
-    > “And certainly did We create man from an extract of clay. Then We placed him as a sperm-drop in a firm lodging. Then We made the sperm-drop into a clinging clot, and We made the clot into a lump [of flesh], and We made [from] the lump, bones, and We covered the bones with flesh; then We developed him into another creation. So blessed is Allah, the best of creators.” (**Sūrat al-Muʾminūn 23:12–14**), Saheeh International
+    > “And certainly did We create man from an extract of clay. Then We placed him as a sperm-drop in a firm lodging. Then We made the sperm-drop into a clinging clot, and We made the clot into a lump [of flesh], and We made [from] the lump, bones, and We covered the bones with flesh; then We developed him into another creation. So blessed is Allah, the best of creators.” (**Sūrat al-Muʾminūn 23:12–14**)
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَلَقَدْ خَلَقْنَا ٱلْإِنسَـٰنَ مِن سُلَـٰلَةٍ مِّن طِينٍ ۝١٢ ثُمَّ جَعَلْنَـٰهُ نُطْفَةً فِى قَرَارٍ مَّكِينٍ ۝١٣ ثُمَّ خَلَقْنَا ٱلنُّطْفَةَ عَلَقَةً فَخَلَقْنَا ٱلْعَلَقَةَ مُضْغَةً فَخَلَقْنَا ٱلْمُضْغَةَ عِظَـٰمًا فَكَسَوْنَا ٱلْعِظَـٰمَ لَحْمًا ثُمَّ أَنشَأْنَـٰهُ خَلْقًا ءَاخَرَ ۚ فَتَبَارَكَ ٱللَّهُ أَحْسَنُ ٱلْخَـٰلِقِينَ ۝١٤﴾ <span class="ayah-ref">سُورَةُ المُؤۡمِنُونَ</span></div>
     {: .quote }
@@ -727,7 +727,7 @@ It also describes features of that world with remarkable precision, including ob
     {% include yt-embed.html url="https://youtu.be/J_Dllu42eEA" title="Qur'an on Embryology - Professor Keith L. Moore" %}
 
 1. **Expansion of the universe:** the Qur'an describes God as having built the heaven, and as continually widening it.
-    > “We built the universe with ˹great˺ might, and We are certainly expanding ˹it˺.” (**Sūrat al-Dhāriyāt 51:47**), Dr. Mustafa Khattab, *The Clear Quran*
+    > “We built the universe with ˹great˺ might, and We are certainly expanding ˹it˺.” (**Sūrat al-Dhāriyāt 51:47**)
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَٱلسَّمَآءَ بَنَيْنَـٰهَا بِأَيْي۟دٍ وَإِنَّا لَمُوسِعُونَ ۝٤٧﴾ <span class="ayah-ref">سُورَةُ الذَّارِيَاتِ</span></div>
     {: .quote }
@@ -735,7 +735,7 @@ It also describes features of that world with remarkable precision, including ob
     {: .gloss }
 
 1. **A joined origin of the heavens and earth:** the Qur'an describes the heavens and the earth as once joined together and then split apart, and in the same verse names water as the origin of all life.
-    > “Have those who disbelieved not considered that the heavens and the earth were a joined entity, and We separated them and made from water every living thing? Then will they not believe?” (**Sūrat al-Anbiyāʾ 21:30**), Saheeh International
+    > “Have those who disbelieved not considered that the heavens and the earth were a joined entity, and We separated them and made from water every living thing? Then will they not believe?” (**Sūrat al-Anbiyāʾ 21:30**)
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿أَوَلَمْ يَرَ ٱلَّذِينَ كَفَرُوٓا۟ أَنَّ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضَ كَانَتَا رَتْقًا فَفَتَقْنَـٰهُمَا ۖ وَجَعَلْنَا مِنَ ٱلْمَآءِ كُلَّ شَىْءٍ حَىٍّ ۖ أَفَلَا يُؤْمِنُونَ ۝٣٠﴾ <span class="ayah-ref">سُورَةُ الأَنبِيَاءِ</span></div>
     {: .quote }
@@ -745,7 +745,7 @@ It also describes features of that world with remarkable precision, including ob
     {: .gloss }
 
 1. **Darkness and waves in the deep ocean:** the Qur'an describes a deep sea with layers of darkness, with waves above waves and clouds above them.
-    > “Or ˹their deeds are˺ like the darkness in a deep sea, covered by waves upon waves, topped by ˹dark˺ clouds. Darkness upon darkness! If one stretches out their hand, they can hardly see it. And whoever Allah does not bless with light will have no light.” (**Sūrat al-Nūr 24:40**), Dr. Mustafa Khattab, *The Clear Quran*
+    > “Or ˹their deeds are˺ like the darkness in a deep sea, covered by waves upon waves, topped by ˹dark˺ clouds. Darkness upon darkness! If one stretches out their hand, they can hardly see it. And whoever Allah does not bless with light will have no light.” (**Sūrat al-Nūr 24:40**)
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿أَوْ كَظُلُمَـٰتٍۢ فِى بَحْرٍۢ لُّجِّىٍّۢ يَغْشَىٰهُ مَوْجٌۭ مِّن فَوْقِهِۦ مَوْجٌۭ مِّن فَوْقِهِۦ سَحَابٌۭ ۚ ظُلُمَـٰتٌۢ بَعْضُهَا فَوْقَ بَعْضٍ إِذَآ أَخْرَجَ يَدَهُۥ لَمْ يَكَدْ يَرَىٰهَا ۗ وَمَن لَّمْ يَجْعَلِ ٱللَّهُ لَهُۥ نُورًۭا فَمَا لَهُۥ مِن نُّورٍ ۝٤٠﴾ <span class="ayah-ref">سُورَةُ النُّورِ</span></div>
     {: .quote }
@@ -753,14 +753,14 @@ It also describes features of that world with remarkable precision, including ob
     {: .gloss }
 
 1. **Orbits of the sun and moon:** the Qur'an describes the sun and the moon as each moving in its own rounded course.
-    > “And He is the One Who created the day and the night, the sun and the moon—each travelling in an orbit.” (**Sūrat al-Anbiyāʾ 21:33**), Dr. Mustafa Khattab, *The Clear Quran*
+    > “And He is the One Who created the day and the night, the sun and the moon—each travelling in an orbit.” (**Sūrat al-Anbiyāʾ 21:33**)
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَهُوَ ٱلَّذِى خَلَقَ ٱلَّيْلَ وَٱلنَّهَارَ وَٱلشَّمْسَ وَٱلْقَمَرَ ۖ كُلٌّ فِى فَلَكٍ يَسْبَحُونَ ۝٣٣﴾ <span class="ayah-ref">سُورَةُ الأَنبِيَاءِ</span></div>
     {: .quote }
     <details class="quran-more" markdown="1">
     <summary>Show another verse on this theme</summary>
 
-    > “It is not for the sun to catch up with the moon, nor does the night outrun the day. Each is travelling in an orbit of their own.” (**Sūrat Yā Sīn 36:40**), Dr. Mustafa Khattab, *The Clear Quran*
+    > “It is not for the sun to catch up with the moon, nor does the night outrun the day. Each is travelling in an orbit of their own.” (**Sūrat Yā Sīn 36:40**)
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿لَا ٱلشَّمْسُ يَنۢبَغِى لَهَآ أَن تُدْرِكَ ٱلْقَمَرَ وَلَا ٱلَّيْلُ سَابِقُ ٱلنَّهَارِ ۚ وَكُلٌّ فِى فَلَكٍ يَسْبَحُونَ ۝٤٠﴾ <span class="ayah-ref">سُورَةُ يسٓ</span></div>
     {: .quote }
@@ -771,7 +771,7 @@ It also describes features of that world with remarkable precision, including ob
     {: .gloss }
 
 1. **The Sun and Moon are described differently:** the Qur'an consistently distinguishes the light of the Sun from that of the Moon, describing the Sun as a radiant or lamp-like source, but the Moon simply as light.
-    > “He is the One Who made the sun a radiant source and the moon a reflected light...” (**Sūrat Yūnus 10:5**), Dr. Mustafa Khattab, *The Clear Quran*
+    > “He is the One Who made the sun a radiant source and the moon a reflected light...” (**Sūrat Yūnus 10:5**)
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿هُوَ ٱلَّذِى جَعَلَ ٱلشَّمْسَ ضِيَآءًۭ وَٱلْقَمَرَ نُورًۭا وَقَدَّرَهُۥ مَنَازِلَ لِتَعْلَمُوا۟ عَدَدَ ٱلسِّنِينَ وَٱلْحِسَابَ ۚ مَا خَلَقَ ٱللَّهُ ذَٰلِكَ إِلَّا بِٱلْحَقِّ ۚ يُفَصِّلُ ٱلْـَٔايَـٰتِ لِقَوْمٍۢ يَعْلَمُونَ ۝٥﴾ <span class="ayah-ref">سُورَةُ يُونُسَ</span></div>
     {: .quote }
@@ -779,7 +779,7 @@ It also describes features of that world with remarkable precision, including ob
     {: .gloss }
 
 1. **Milk formation:** the Qur'an draws attention to how milk is produced inside livestock, relating it to both digestive material and blood.
-    > “And there is certainly a lesson for you in cattle: We give you to drink of what is in their bellies, from between digested food and blood: pure milk, pleasant to drink.” (**Sūrat al-Naḥl 16:66**), Dr. Mustafa Khattab, *The Clear Quran*
+    > “And there is certainly a lesson for you in cattle: We give you to drink of what is in their bellies, from between digested food and blood: pure milk, pleasant to drink.” (**Sūrat al-Naḥl 16:66**)
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَإِنَّ لَكُمْ فِى ٱلْأَنْعَـٰمِ لَعِبْرَةً ۖ نُّسْقِيكُم مِّمَّا فِى بُطُونِهِۦ مِنۢ بَيْنِ فَرْثٍۢ وَدَمٍۢ لَّبَنًا خَالِصًۭا سَآئِغًۭا لِّلشَّـٰرِبِينَ ۝٦٦﴾ <span class="ayah-ref">سُورَةُ النَّحۡلِ</span></div>
     {: .quote }
@@ -789,7 +789,7 @@ It also describes features of that world with remarkable precision, including ob
 <div class="read-more read-more--tail" markdown="1">
 
 1. **Gender of the worker honey bee:** the Qur'an uses the feminine when addressing the bees that build homes, gather from fruits, and produce honey.
-    > “And your Lord inspired to the bee, ‘Take for yourself among the mountains, houses, and among the trees and [in] that which they construct. Then eat from all the fruits and follow the ways of your Lord laid down [for you].’ There emerges from their bellies a drink, varying in colors, in which there is healing for people. Indeed in that is a sign for a people who give thought.” (**Sūrat al-Naḥl 16:68–69**), Saheeh International
+    > “And your Lord inspired to the bee, ‘Take for yourself among the mountains, houses, and among the trees and [in] that which they construct. Then eat from all the fruits and follow the ways of your Lord laid down [for you].’ There emerges from their bellies a drink, varying in colors, in which there is healing for people. Indeed in that is a sign for a people who give thought.” (**Sūrat al-Naḥl 16:68–69**)
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَأَوْحَىٰ رَبُّكَ إِلَى ٱلنَّحْلِ أَنِ ٱتَّخِذِى مِنَ ٱلْجِبَالِ بُيُوتًا وَمِنَ ٱلشَّجَرِ وَمِمَّا يَعْرِشُونَ ۝٦٨ ثُمَّ كُلِى مِن كُلِّ ٱلثَّمَرَٰتِ فَٱسْلُكِى سُبُلَ رَبِّكِ ذُلُلًا ۚ يَخْرُجُ مِنۢ بُطُونِهَا شَرَابٌ مُّخْتَلِفٌ أَلْوَٰنُهُۥ فِيهِ شِفَآءٌ لِّلنَّاسِ ۗ إِنَّ فِى ذَٰلِكَ لَـَٔايَةً لِّقَوْمٍ يَتَفَكَّرُونَ ۝٦٩﴾ <span class="ayah-ref">سُورَةُ النَّحۡلِ</span></div>
     {: .quote }
@@ -801,7 +801,7 @@ It also describes features of that world with remarkable precision, including ob
     {: .gloss }
 
 1. **Ants communicating warnings through sound:** the Qur'an, in the story of Solomon, describes an ant that detects approaching danger and warns the other ants, who retreat into their homes for protection.
-    > “And when they came across a valley of ants, an ant warned, ‘O ants! Go quickly into your homes so Solomon and his armies do not crush you, unknowingly.’” (**Sūrat al-Naml 27:18**), Dr. Mustafa Khattab, *The Clear Quran*
+    > “And when they came across a valley of ants, an ant warned, ‘O ants! Go quickly into your homes so Solomon and his armies do not crush you, unknowingly.’” (**Sūrat al-Naml 27:18**)
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿حَتَّىٰٓ إِذَآ أَتَوْا۟ عَلَىٰ وَادِ ٱلنَّمْلِ قَالَتْ نَمْلَةٌۭ يَـٰٓأَيُّهَا ٱلنَّمْلُ ٱدْخُلُوا۟ مَسَـٰكِنَكُمْ لَا يَحْطِمَنَّكُمْ سُلَيْمَـٰنُ وَجُنُودُهُۥ وَهُمْ لَا يَشْعُرُونَ ۝١٨﴾ <span class="ayah-ref">سُورَةُ النَّمۡلِ</span></div>
     {: .quote }
@@ -813,7 +813,7 @@ It also describes features of that world with remarkable precision, including ob
     {: .src }
 
 1. **Weight of clouds:** the Qur'an describes rain-bearing clouds as heavy.
-    > “He is the One Who shows you lightning, inspiring ˹you with˺ hope and fear, and produces heavy clouds.” (**Sūrat al-Raʿd 13:12**), Dr. Mustafa Khattab, *The Clear Quran*
+    > “He is the One Who shows you lightning, inspiring ˹you with˺ hope and fear, and produces heavy clouds.” (**Sūrat al-Raʿd 13:12**)
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿هُوَ ٱلَّذِى يُرِيكُمُ ٱلْبَرْقَ خَوْفًا وَطَمَعًا وَيُنشِئُ ٱلسَّحَابَ ٱلثِّقَالَ ۝١٢﴾ <span class="ayah-ref">سُورَةُ الرَّعۡدِ</span></div>
     {: .quote }
@@ -821,7 +821,7 @@ It also describes features of that world with remarkable precision, including ob
     {: .gloss }
 
 1. **Difficulty breathing at high altitude:** the Qur'an likens intense constriction of the chest to ascending into the sky.
-    > “Whoever Allah wills to guide, He opens their heart to Islam. But whoever He wills to leave astray, He makes their chest tight and constricted as if they were climbing up into the sky.” (**Sūrat al-Anʿām 6:125**), Dr. Mustafa Khattab, *The Clear Quran*
+    > “Whoever Allah wills to guide, He opens their heart to Islam. But whoever He wills to leave astray, He makes their chest tight and constricted as if they were climbing up into the sky.” (**Sūrat al-Anʿām 6:125**)
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿فَمَن يُرِدِ ٱللَّهُ أَن يَهْدِيَهُۥ يَشْرَحْ صَدْرَهُۥ لِلْإِسْلَـٰمِ ۖ وَمَن يُرِدْ أَن يُضِلَّهُۥ يَجْعَلْ صَدْرَهُۥ ضَيِّقًا حَرَجًۭا كَأَنَّمَا يَصَّعَّدُ فِى ٱلسَّمَآءِ ۚ كَذَٰلِكَ يَجْعَلُ ٱللَّهُ ٱلرِّجْسَ عَلَى ٱلَّذِينَ لَا يُؤْمِنُونَ ۝١٢٥﴾ <span class="ayah-ref">سُورَةُ الأَنۡعَامِ</span></div>
     {: .quote }
@@ -829,7 +829,7 @@ It also describes features of that world with remarkable precision, including ob
     {: .gloss }
 
 1. **Male and female from the emitted reproductive drop:** the Qur'an connects the creation of male and female specifically with the emitted reproductive drop.
-    > “And He created the pairs—males and females—from a sperm-drop when it is emitted.” (**Sūrat al-Najm 53:45–46**), Dr. Mustafa Khattab, *The Clear Quran*
+    > “And He created the pairs—males and females—from a sperm-drop when it is emitted.” (**Sūrat al-Najm 53:45–46**)
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَأَنَّهُۥ خَلَقَ ٱلزَّوْجَيْنِ ٱلذَّكَرَ وَٱلْأُنثَىٰ ۝٤٥ مِن نُّطْفَةٍ إِذَا تُمْنَىٰ ۝٤٦﴾ <span class="ayah-ref">سُورَةُ النَّجۡمِ</span></div>
     {: .quote }
@@ -837,7 +837,7 @@ It also describes features of that world with remarkable precision, including ob
     {: .gloss }
 
 1. **A boundary between fresh and salt water:** the Qur'an describes fresh and salt water meeting, yet a boundary remains that keeps them apart.
-    > “And He is the One Who merges the two bodies of water: one fresh and palatable and the other salty and bitter, placing between them a barrier they cannot cross.” (**Sūrat al-Furqān 25:53**), Dr. Mustafa Khattab, *The Clear Quran*
+    > “And He is the One Who merges the two bodies of water: one fresh and palatable and the other salty and bitter, placing between them a barrier they cannot cross.” (**Sūrat al-Furqān 25:53**)
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿۞ وَهُوَ ٱلَّذِى مَرَجَ ٱلْبَحْرَيْنِ هَـٰذَا عَذْبٌۭ فُرَاتٌۭ وَهَـٰذَا مِلْحٌ أُجَاجٌۭ وَجَعَلَ بَيْنَهُمَا بَرْزَخًۭا وَحِجْرًۭا مَّحْجُورًۭا ۝٥٣﴾ <span class="ayah-ref">سُورَةُ الفُرۡقَانِ</span></div>
     {: .quote }
@@ -845,11 +845,11 @@ It also describes features of that world with remarkable precision, including ob
     {: .gloss }
 
 1. **Formation of rain clouds:** The Qur'an describes rain as an ordered sequence: winds, clouds, rainfall, and then the revival of dead land.
-    > “Do you not see that Allah drives clouds? Then He brings them together, then He makes them into a mass, and you see the rain emerge from within it. And He sends down from the sky, mountains [of clouds] within which is hail, and He strikes with it whom He wills and averts it from whom He wills. The flash of its lightening almost takes away the eyesight.” (**Sūrat al-Nūr 24:43**), Saheeh International
+    > “Do you not see that Allah drives clouds? Then He brings them together, then He makes them into a mass, and you see the rain emerge from within it. And He sends down from the sky, mountains [of clouds] within which is hail, and He strikes with it whom He wills and averts it from whom He wills. The flash of its lightening almost takes away the eyesight.” (**Sūrat al-Nūr 24:43**)
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿أَلَمْ تَرَ أَنَّ ٱللَّهَ يُزْجِى سَحَابًا ثُمَّ يُؤَلِّفُ بَيْنَهُۥ ثُمَّ يَجْعَلُهُۥ رُكَامًا فَتَرَى ٱلْوَدْقَ يَخْرُجُ مِنْ خِلَـٰلِهِۦ وَيُنَزِّلُ مِنَ ٱلسَّمَآءِ مِن جِبَالٍ فِيهَا مِنۢ بَرَدٍ فَيُصِيبُ بِهِۦ مَن يَشَآءُ وَيَصْرِفُهُ عَن مَّن يَشَآءُ ۖ يَكَادُ سَنَا بَرْقِهِۦ يَذْهَبُ بِٱلْأَبْصَـٰرِ ۝٤٣﴾ <span class="ayah-ref">سُورَةُ النُّورِ</span></div>
     {: .quote }
-    > “It is Allah who sends the winds, and they stir the clouds and spread them in the sky however He wills, and He makes them fragments so you see the rain emerge from within them. And when He causes it to fall upon whom He wills of His servants, immediately they rejoice.” (**Sūrat al-Rūm 30:48**), Saheeh International
+    > “It is Allah who sends the winds, and they stir the clouds and spread them in the sky however He wills, and He makes them fragments so you see the rain emerge from within them. And when He causes it to fall upon whom He wills of His servants, immediately they rejoice.” (**Sūrat al-Rūm 30:48**)
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿ٱللَّهُ ٱلَّذِى يُرْسِلُ ٱلرِّيَـٰحَ فَتُثِيرُ سَحَابًا فَيَبْسُطُهُۥ فِى ٱلسَّمَآءِ كَيْفَ يَشَآءُ وَيَجْعَلُهُۥ كِسَفًا فَتَرَى ٱلْوَدْقَ يَخْرُجُ مِنْ خِلَـٰلِهِۦ ۖ فَإِذَآ أَصَابَ بِهِۦ مَن يَشَآءُ مِنْ عِبَادِهِۦٓ إِذَا هُمْ يَسْتَبْشِرُونَ ۝٤٨﴾ <span class="ayah-ref">سُورَةُ الرُّومِ</span></div>
     {: .quote }
@@ -857,7 +857,7 @@ It also describes features of that world with remarkable precision, including ob
     {: .gloss }
 
 1. **Fertilizing winds:** the Qur'an explicitly describes the winds as fertilizing.
-    > “And We have sent the fertilizing winds and sent down water from the sky and given you drink from it. And you are not its retainers.” (**Sūrat al-Ḥijr 15:22**), Saheeh International
+    > “And We have sent the fertilizing winds and sent down water from the sky and given you drink from it. And you are not its retainers.” (**Sūrat al-Ḥijr 15:22**)
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَأَرْسَلْنَا ٱلرِّيَـٰحَ لَوَٰقِحَ فَأَنزَلْنَا مِنَ ٱلسَّمَآءِ مَآءًۭ فَأَسْقَيْنَـٰكُمُوهُ وَمَآ أَنتُمْ لَهُۥ بِخَـٰزِنِينَ ۝٢٢﴾ <span class="ayah-ref">سُورَةُ الحِجۡرِ</span></div>
     {: .quote }
@@ -865,7 +865,7 @@ It also describes features of that world with remarkable precision, including ob
     {: .gloss }
 
 1. **Night wrapped around day:** the Qur'an describes the continual alternation of light and darkness in the language of wrapping, each wrapped around the other.
-    > “He created the heavens and the earth for a purpose. He wraps the night around the day, and wraps the day around the night.” (**Sūrat al-Zumar 39:5**), Dr. Mustafa Khattab, *The Clear Quran*
+    > “He created the heavens and the earth for a purpose. He wraps the night around the day, and wraps the day around the night.” (**Sūrat al-Zumar 39:5**)
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿خَلَقَ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضَ بِٱلْحَقِّ ۖ يُكَوِّرُ ٱلَّيْلَ عَلَى ٱلنَّهَارِ وَيُكَوِّرُ ٱلنَّهَارَ عَلَى ٱلَّيْلِ ۖ وَسَخَّرَ ٱلشَّمْسَ وَٱلْقَمَرَ ۖ كُلٌّۭ يَجْرِى لِأَجَلٍۢ مُّسَمًّى ۗ أَلَا هُوَ ٱلْعَزِيزُ ٱلْغَفَّـٰرُ ۝٥﴾ <span class="ayah-ref">سُورَةُ الزُّمَرِ</span></div>
     {: .quote }
@@ -873,7 +873,7 @@ It also describes features of that world with remarkable precision, including ob
     {: .gloss }
 
 1. **The sky as a protected covering:** the Qur'an describes the sky above the earth as a canopy that is protected.
-    > “And We have made the sky a well-protected canopy, still they turn away from its signs.” (**Sūrat al-Anbiyāʾ 21:32**), Dr. Mustafa Khattab, *The Clear Quran*
+    > “And We have made the sky a well-protected canopy, still they turn away from its signs.” (**Sūrat al-Anbiyāʾ 21:32**)
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَجَعَلْنَا ٱلسَّمَآءَ سَقْفًۭا مَّحْفُوظًۭا ۖ وَهُمْ عَنْ ءَايَـٰتِهَا مُعْرِضُونَ ۝٣٢﴾ <span class="ayah-ref">سُورَةُ الأَنبِيَاءِ</span></div>
     {: .quote }
@@ -1144,7 +1144,7 @@ The Arabic in which the Qur'an first appeared has also remained accessible, sust
 The Qur'an makes bold predictions, delivered in circumstances where their fulfillment was far from guaranteed.
 
 1. The Qur'an declares itself God's final revelation to humanity and Prophet Muhammad ﷺ the seal and last of the prophets—a standing claim of finality that has remained intact across fourteen centuries.
-    > "Muḥammad is not the father of [any] one of your men, but [he is] the Messenger of Allāh and seal [i.e., last] of the prophets. And ever is Allāh, of all things, Knowing." (**Sūrat al-Aḥzāb 33:40**), Saheeh International
+    > "Muḥammad is not the father of [any] one of your men, but [he is] the Messenger of Allāh and seal [i.e., last] of the prophets. And ever is Allāh, of all things, Knowing." (**Sūrat al-Aḥzāb 33:40**)
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿مَّا كَانَ مُحَمَّدٌ أَبَآ أَحَدٍ مِّن رِّجَالِكُمْ وَلَـٰكِن رَّسُولَ ٱللَّهِ وَخَاتَمَ ٱلنَّبِيِّـۧنَ ۗ وَكَانَ ٱللَّهُ بِكُلِّ شَىْءٍ عَلِيمًا ۝٤٠﴾ <span class="ayah-ref">سُورَةُ الأَحۡزَابِ</span></div>
     {: .quote }
@@ -1152,7 +1152,7 @@ The Qur'an makes bold predictions, delivered in circumstances where their fulfil
     {: .gloss }
 
 1. The Qur'an foretold the spread of its message while its followers were still in a single city in the Arabian desert, fighting against their persecution.
-    > "He is the One Who has sent His Messenger with ˹right˺ guidance and the religion of truth, making it prevail over all others. And sufficient is Allah as a Witness." (**Sūrat al-Fatḥ 48:28**), Dr. Mustafa Khattab, *The Clear Quran*
+    > "He is the One Who has sent His Messenger with ˹right˺ guidance and the religion of truth, making it prevail over all others. And sufficient is Allah as a Witness." (**Sūrat al-Fatḥ 48:28**)
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿هُوَ ٱلَّذِىٓ أَرْسَلَ رَسُولَهُۥ بِٱلْهُدَىٰ وَدِينِ ٱلْحَقِّ لِيُظْهِرَهُۥ عَلَى ٱلدِّينِ كُلِّهِۦ ۚ وَكَفَىٰ بِٱللَّهِ شَهِيدًا ۝٢٨﴾ <span class="ayah-ref">سُورَةُ الفَتۡحِ</span></div>
     {: .quote }
@@ -1160,21 +1160,21 @@ The Qur'an makes bold predictions, delivered in circumstances where their fulfil
     {: .gloss }
 
 1. It prophesies its own preservation, stating that God Himself will guard it. As shown above, the Qur'an has indeed been preserved perfectly, and in an extraordinary manner, across fourteen centuries.
-    > "Indeed, it is We who sent down the message [i.e., the Qur’ān], and indeed, We will be its guardian." (**Sūrat al-Ḥijr 15:9**), Saheeh International
+    > "Indeed, it is We who sent down the message [i.e., the Qur’ān], and indeed, We will be its guardian." (**Sūrat al-Ḥijr 15:9**)
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿إِنَّا نَحْنُ نَزَّلْنَا ٱلذِّكْرَ وَإِنَّا لَهُۥ لَحَـٰفِظُونَ ۝٩﴾ <span class="ayah-ref">سُورَةُ الحِجۡرِ</span></div>
     {: .quote }
     <details class="quran-more" markdown="1">
     <summary>Show another verse on this theme</summary>
 
-    > "The Word of your Lord has been perfected in truth and justice. None can change His Words. And He is the All-Hearing, All-Knowing." (**Sūrat al-Anʿām 6:115**), Dr. Mustafa Khattab, *The Clear Quran*
+    > "The Word of your Lord has been perfected in truth and justice. None can change His Words. And He is the All-Hearing, All-Knowing." (**Sūrat al-Anʿām 6:115**)
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَتَمَّتْ كَلِمَتُ رَبِّكَ صِدْقًا وَعَدْلًا ۚ لَّا مُبَدِّلَ لِكَلِمَـٰتِهِۦ ۚ وَهُوَ ٱلسَّمِيعُ ٱلْعَلِيمُ ۝١١٥﴾ <span class="ayah-ref">سُورَةُ الأَنۡعَامِ</span></div>
     {: .quote }
     </details>
 
 1. It prophesies its own ease of memorization, a claim visibly fulfilled in the extraordinary worldwide culture of memorizing the entire Qur'an, often by people for whom Arabic is a second or third language.
-    > "And We have certainly made the Quran easy to remember. So is there anyone who will be mindful?" (**Sūrat al-Qamar 54:17**), Dr. Mustafa Khattab, *The Clear Quran*
+    > "And We have certainly made the Quran easy to remember. So is there anyone who will be mindful?" (**Sūrat al-Qamar 54:17**)
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَلَقَدْ يَسَّرْنَا ٱلْقُرْءَانَ لِلذِّكْرِ فَهَلْ مِن مُّدَّكِرٍ ۝١٧﴾ <span class="ayah-ref">سُورَةُ القَمَرِ</span></div>
     {: .quote }
@@ -1184,7 +1184,7 @@ The Qur'an makes bold predictions, delivered in circumstances where their fulfil
 The Qur'an also contains fulfilled predictions about identifiable people and events.
 
 1. **The Roman recovery:** the Qur'an declared that the Romans, after suffering a devastating defeat, would in turn be victorious within *biḍʿ sinīn* [three to nine years]. The Byzantine-Sasanian war is independently documented. After catastrophic Byzantine losses, including Jerusalem in 614, Emperor Heraclius opened his counter-offensive in 622 and defeated a Persian army in Asia Minor that same year, eight years after Jerusalem fell. The turning point came within the stated period, and by 628 Persia had been forced to terms.
-    > "The Romans have been defeated in a nearby land. Yet following their defeat, they will triumph within three to nine years. The ˹whole˺ matter rests with Allah before and after ˹victory˺. And on that day the believers will rejoice." (**Sūrat al-Rūm 30:2–4**), Dr. Mustafa Khattab, *The Clear Quran*
+    > "The Romans have been defeated in a nearby land. Yet following their defeat, they will triumph within three to nine years. The ˹whole˺ matter rests with Allah before and after ˹victory˺. And on that day the believers will rejoice." (**Sūrat al-Rūm 30:2–4**)
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿غُلِبَتِ ٱلرُّومُ ۝٢ فِىٓ أَدْنَى ٱلْأَرْضِ وَهُم مِّنۢ بَعْدِ غَلَبِهِمْ سَيَغْلِبُونَ ۝٣ فِى بِضْعِ سِنِينَ ۗ لِلَّهِ ٱلْأَمْرُ مِن قَبْلُ وَمِنۢ بَعْدُ ۚ وَيَوْمَئِذٍۢ يَفْرَحُ ٱلْمُؤْمِنُونَ ۝٤﴾ <span class="ayah-ref">سُورَةُ الرُّومِ</span></div>
     {: .quote }
@@ -1194,7 +1194,7 @@ The Qur'an also contains fulfilled predictions about identifiable people and eve
 1. **The fate of Abū Lahab:** Sūrat al-Masad condemned Abū Lahab, one of the Prophet's fiercest enemies, while he was still alive and publicly opposing him. He had years in which an outward profession of faith could have been used to mock the revelation's claim, yet he died exactly as the chapter declared: an enemy of Islam.
 
 1. **Safe entry into the Sacred Mosque:** the Qur'an stated that the Prophet's ﷺ vision would be fulfilled and that the believers would enter the Sacred Mosque securely, with heads shaved or hair shortened as part of the pilgrimage rites. It stated this after the Muslims had traveled toward Mecca for pilgrimage and been prevented from entering. The following year they returned and performed the pilgrimage.
-    > “Indeed, Allah will fulfil His Messenger's vision in all truth: Allah willing, you will surely enter the Sacred Mosque, in security...” (**Sūrat al-Fatḥ 48:27**), Dr. Mustafa Khattab, *The Clear Quran*
+    > “Indeed, Allah will fulfil His Messenger's vision in all truth: Allah willing, you will surely enter the Sacred Mosque, in security...” (**Sūrat al-Fatḥ 48:27**)
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿لَّقَدْ صَدَقَ ٱللَّهُ رَسُولَهُ ٱلرُّءْيَا بِٱلْحَقِّ ۖ لَتَدْخُلُنَّ ٱلْمَسْجِدَ ٱلْحَرَامَ إِن شَآءَ ٱللَّهُ ءَامِنِينَ﴾ <span class="ayah-ref">[سُورَةُ الفَتۡحِ: ٢٧]</span></div>
     {: .quote }
@@ -1232,12 +1232,12 @@ The Qur'an gives a coherent account of God and humanity's relationship with Him:
 
 <div class="read-more" markdown="1">
 
-> "[He is] Creator of the heavens and the earth. He has made for you from yourselves, mates, and among the cattle, mates; He multiplies you thereby. There is nothing like unto Him, and He is the Hearing, the Seeing." (**Sūrat al-Shūrā 42:11**), Saheeh International
+> "[He is] Creator of the heavens and the earth. He has made for you from yourselves, mates, and among the cattle, mates; He multiplies you thereby. There is nothing like unto Him, and He is the Hearing, the Seeing." (**Sūrat al-Shūrā 42:11**)
 >
 > <div dir="rtl" lang="ar" class="quran-arabic">﴿فَاطِرُ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ ۚ جَعَلَ لَكُم مِّنْ أَنفُسِكُمْ أَزْوَٰجًا وَمِنَ ٱلْأَنْعَـٰمِ أَزْوَٰجًا ۖ يَذْرَؤُكُمْ فِيهِ ۚ لَيْسَ كَمِثْلِهِۦ شَىْءٌ ۖ وَهُوَ ٱلسَّمِيعُ ٱلْبَصِيرُ ۝١١﴾ <span class="ayah-ref">سُورَةُ الشُّورَىٰ</span></div>
 {: .quote }
 
-> "When My servants ask you ˹O Prophet˺ about Me: I am truly near. I respond to one’s prayer when they call upon Me. So let them respond ˹with obedience˺ to Me and believe in Me, perhaps they will be guided ˹to the Right Way˺." (**Sūrat al-Baqarah 2:186**), Dr. Mustafa Khattab, *The Clear Quran*
+> "When My servants ask you ˹O Prophet˺ about Me: I am truly near. I respond to one’s prayer when they call upon Me. So let them respond ˹with obedience˺ to Me and believe in Me, perhaps they will be guided ˹to the Right Way˺." (**Sūrat al-Baqarah 2:186**)
 >
 > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَإِذَا سَأَلَكَ عِبَادِى عَنِّى فَإِنِّى قَرِيبٌ ۖ أُجِيبُ دَعْوَةَ ٱلدَّاعِ إِذَا دَعَانِ ۖ فَلْيَسْتَجِيبُوا۟ لِى وَلْيُؤْمِنُوا۟ بِى لَعَلَّهُمْ يَرْشُدُونَ ۝١٨٦﴾ <span class="ayah-ref">سُورَةُ البَقَرَةِ</span></div>
 {: .quote }
@@ -1293,19 +1293,19 @@ These teachings join patience and hope to the duty to relieve suffering and resi
     {: .gloss }
 
 1. The Qur'an repeatedly presents mercy as a defining attribute of God. All but one of its chapters open with the invocation, **"In the name of God, the Most Compassionate, the Most Merciful."** Muslims are taught to say these words before beginning their actions, so mercy frames not only the Qur'an but the rhythm of everyday life.
-    > "My mercy encompasses all things." (**Sūrat al-Aʿrāf 7:156**), Saheeh International
+    > "My mercy encompasses all things." (**Sūrat al-Aʿrāf 7:156**)
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَرَحْمَتِى وَسِعَتْ كُلَّ شَىْءٍ﴾ <span class="ayah-ref">[سُورَةُ الأَعۡرَافِ: ١٥٦]</span></div>
     {: .quote }
 
 1. The Qur'an keeps forgiveness open for every sin, however far a person has gone, and tells people never to despair of God's mercy.
-    > "Say, 'O My servants who have transgressed against themselves [by sinning], do not despair of the mercy of Allāh. Indeed, Allāh forgives all sins. Indeed, it is He who is the Forgiving, the Merciful.'" (**Sūrat al-Zumar 39:53**), Saheeh International
+    > "Say, 'O My servants who have transgressed against themselves [by sinning], do not despair of the mercy of Allāh. Indeed, Allāh forgives all sins. Indeed, it is He who is the Forgiving, the Merciful.'" (**Sūrat al-Zumar 39:53**)
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿۞ قُلْ يَـٰعِبَادِىَ ٱلَّذِينَ أَسْرَفُوا۟ عَلَىٰٓ أَنفُسِهِمْ لَا تَقْنَطُوا۟ مِن رَّحْمَةِ ٱللَّهِ ۚ إِنَّ ٱللَّهَ يَغْفِرُ ٱلذُّنُوبَ جَمِيعًا ۚ إِنَّهُۥ هُوَ ٱلْغَفُورُ ٱلرَّحِيمُ ۝٥٣﴾ <span class="ayah-ref">سُورَةُ الزُّمَرِ</span></div>
     {: .quote }
 
 1. The Qur'an places genuine character above hollow ritual: worship that leaves a person cruel is rejected.
-    > "Righteousness is not in turning your faces towards the east or the west. Rather, the righteous are those who believe in Allah, the Last Day, the angels, the Books, and the prophets; who give charity out of their cherished wealth to relatives, orphans, the poor, ˹needy˺ travellers, beggars, and for freeing captives; who establish prayer, pay alms-tax, and keep the pledges they make; and who are patient in times of suffering, adversity, and in ˹the heat of˺ battle. It is they who are true ˹in faith˺, and it is they who are mindful ˹of Allah˺." (**Sūrat al-Baqarah 2:177**), Dr. Mustafa Khattab, *The Clear Quran*
+    > "Righteousness is not in turning your faces towards the east or the west. Rather, the righteous are those who believe in Allah, the Last Day, the angels, the Books, and the prophets; who give charity out of their cherished wealth to relatives, orphans, the poor, ˹needy˺ travellers, beggars, and for freeing captives; who establish prayer, pay alms-tax, and keep the pledges they make; and who are patient in times of suffering, adversity, and in ˹the heat of˺ battle. It is they who are true ˹in faith˺, and it is they who are mindful ˹of Allah˺." (**Sūrat al-Baqarah 2:177**)
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿۞ لَّيْسَ ٱلْبِرَّ أَن تُوَلُّوا۟ وُجُوهَكُمْ قِبَلَ ٱلْمَشْرِقِ وَٱلْمَغْرِبِ وَلَـٰكِنَّ ٱلْبِرَّ مَنْ ءَامَنَ بِٱللَّهِ وَٱلْيَوْمِ ٱلْـَٔاخِرِ وَٱلْمَلَـٰٓئِكَةِ وَٱلْكِتَـٰبِ وَٱلنَّبِيِّـۧنَ وَءَاتَى ٱلْمَالَ عَلَىٰ حُبِّهِۦ ذَوِى ٱلْقُرْبَىٰ وَٱلْيَتَـٰمَىٰ وَٱلْمَسَـٰكِينَ وَٱبْنَ ٱلسَّبِيلِ وَٱلسَّآئِلِينَ وَفِى ٱلرِّقَابِ وَأَقَامَ ٱلصَّلَوٰةَ وَءَاتَى ٱلزَّكَوٰةَ وَٱلْمُوفُونَ بِعَهْدِهِمْ إِذَا عَـٰهَدُوا۟ ۖ وَٱلصَّـٰبِرِينَ فِى ٱلْبَأْسَآءِ وَٱلضَّرَّآءِ وَحِينَ ٱلْبَأْسِ ۗ أُو۟لَـٰٓئِكَ ٱلَّذِينَ صَدَقُوا۟ ۖ وَأُو۟لَـٰٓئِكَ هُمُ ٱلْمُتَّقُونَ ۝١٧٧﴾ <span class="ayah-ref">سُورَةُ البَقَرَةِ</span></div>
     {: .quote }
@@ -1317,117 +1317,117 @@ These teachings join patience and hope to the duty to relieve suffering and resi
 <div class="read-more read-more--tail" markdown="1">
 
 1. It makes the poor's share of wealth an obligation rather than a favor. Alms are a due, interest is banned, debts are to be forgiven when the debtor cannot pay, and charity followed by humiliation is worthless.
-    > "And in their wealth there was a rightful share ˹fulfilled˺ for the beggar and the poor." (**Sūrat al-Dhāriyāt 51:19**), Dr. Mustafa Khattab, *The Clear Quran*
+    > "And in their wealth there was a rightful share ˹fulfilled˺ for the beggar and the poor." (**Sūrat al-Dhāriyāt 51:19**)
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَفِىٓ أَمْوَٰلِهِمْ حَقٌّ لِّلسَّآئِلِ وَٱلْمَحْرُومِ ۝١٩﴾ <span class="ayah-ref">سُورَةُ الذَّارِيَاتِ</span></div>
     {: .quote }
 
 1. It equates neglect of the orphan and poor with rejection of the religion itself.
-    > "Have you seen the one who denies the ˹final˺ Judgment? That is the one who repulses the orphan and does not encourage the feeding of the poor." (**Sūrat al-Māʿūn 107:1–3**), Dr. Mustafa Khattab, *The Clear Quran*
+    > "Have you seen the one who denies the ˹final˺ Judgment? That is the one who repulses the orphan and does not encourage the feeding of the poor." (**Sūrat al-Māʿūn 107:1–3**)
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿أَرَءَيْتَ ٱلَّذِى يُكَذِّبُ بِٱلدِّينِ ۝١ فَذَٰلِكَ ٱلَّذِى يَدُعُّ ٱلْيَتِيمَ ۝٢ وَلَا يَحُضُّ عَلَىٰ طَعَامِ ٱلْمِسْكِينِ ۝٣﴾ <span class="ayah-ref">سُورَةُ المَاعُونِ</span></div>
     {: .quote }
 
 1. It treats a single life as standing for all of humanity: to kill one person unjustly is as though one had killed everyone, and to save one is as though one had saved everyone.
-    > "That is why We ordained for the Children of Israel that whoever takes a life—unless as a punishment for murder or mischief in the land—it will be as if they killed all of humanity; and whoever saves a life, it will be as if they saved all of humanity." (**Sūrat al-Māʾidah 5:32**), Dr. Mustafa Khattab, *The Clear Quran*
+    > "That is why We ordained for the Children of Israel that whoever takes a life—unless as a punishment for murder or mischief in the land—it will be as if they killed all of humanity; and whoever saves a life, it will be as if they saved all of humanity." (**Sūrat al-Māʾidah 5:32**)
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿مِنْ أَجْلِ ذَٰلِكَ كَتَبْنَا عَلَىٰ بَنِىٓ إِسْرَٰٓءِيلَ أَنَّهُۥ مَن قَتَلَ نَفْسًۢا بِغَيْرِ نَفْسٍ أَوْ فَسَادٍ فِى ٱلْأَرْضِ فَكَأَنَّمَا قَتَلَ ٱلنَّاسَ جَمِيعًا وَمَنْ أَحْيَاهَا فَكَأَنَّمَآ أَحْيَا ٱلنَّاسَ جَمِيعًا﴾ <span class="ayah-ref">[سُورَةُ المَائـِدَةِ: ٣٢]</span></div>
     {: .quote }
 
 1. It requires justice even when justice runs against one's own feelings or interests: hatred of another people cannot justify wrongdoing, and testimony must be given even against one's own people, close relatives, parents, or oneself.
-    > "O believers! Stand firm for Allah and bear true testimony. Do not let the hatred of a people lead you to injustice. Be just! That is closer to righteousness. And be mindful of Allah. Surely Allah is All-Aware of what you do." (**Sūrat al-Māʾidah 5:8**), Dr. Mustafa Khattab, *The Clear Quran*
+    > "O believers! Stand firm for Allah and bear true testimony. Do not let the hatred of a people lead you to injustice. Be just! That is closer to righteousness. And be mindful of Allah. Surely Allah is All-Aware of what you do." (**Sūrat al-Māʾidah 5:8**)
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ كُونُوا۟ قَوَّٰمِينَ لِلَّهِ شُهَدَآءَ بِٱلْقِسْطِ ۖ وَلَا يَجْرِمَنَّكُمْ شَنَـَٔانُ قَوْمٍ عَلَىٰٓ أَلَّا تَعْدِلُوا۟ ۚ ٱعْدِلُوا۟ هُوَ أَقْرَبُ لِلتَّقْوَىٰ ۖ وَٱتَّقُوا۟ ٱللَّهَ ۚ إِنَّ ٱللَّهَ خَبِيرٌۢ بِمَا تَعْمَلُونَ ۝٨﴾ <span class="ayah-ref">سُورَةُ المَائـِدَةِ</span></div>
     {: .quote }
     <details class="quran-more" markdown="1">
     <summary>Show another verse on this theme</summary>
 
-    > "O believers! Stand firm for justice as witnesses for Allah even if it is against yourselves, your parents, or close relatives. Be they rich or poor, Allah is best to ensure their interests." (**Sūrat al-Nisāʾ 4:135**), Dr. Mustafa Khattab, *The Clear Quran*
+    > "O believers! Stand firm for justice as witnesses for Allah even if it is against yourselves, your parents, or close relatives. Be they rich or poor, Allah is best to ensure their interests." (**Sūrat al-Nisāʾ 4:135**)
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ كُونُوا۟ قَوَّٰمِينَ بِٱلْقِسْطِ شُهَدَآءَ لِلَّهِ وَلَوْ عَلَىٰٓ أَنفُسِكُمْ أَوِ ٱلْوَٰلِدَيْنِ وَٱلْأَقْرَبِينَ ۚ إِن يَكُنْ غَنِيًّا أَوْ فَقِيرًا فَٱللَّهُ أَوْلَىٰ بِهِمَا﴾ <span class="ayah-ref">[سُورَةُ النِّسَاءِ: ١٣٥]</span></div>
     {: .quote }
     </details>
 
 1. It rejects status based on ancestry, tribe, wealth, gender, or color as a measure of a person's worth before God. The measure is character and conduct alone; the most honorable people are those most conscious of God.
-    > "O humanity! Indeed, We created you from a male and a female, and made you into peoples and tribes so that you may ˹get to˺ know one another. Surely the most noble of you in the sight of Allah is the most righteous among you. Allah is truly All-Knowing, All-Aware." (**Sūrat al-Ḥujurāt 49:13**), Dr. Mustafa Khattab, *The Clear Quran*
+    > "O humanity! Indeed, We created you from a male and a female, and made you into peoples and tribes so that you may ˹get to˺ know one another. Surely the most noble of you in the sight of Allah is the most righteous among you. Allah is truly All-Knowing, All-Aware." (**Sūrat al-Ḥujurāt 49:13**)
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿يَـٰٓأَيُّهَا ٱلنَّاسُ إِنَّا خَلَقْنَـٰكُم مِّن ذَكَرٍ وَأُنثَىٰ وَجَعَلْنَـٰكُمْ شُعُوبًا وَقَبَآئِلَ لِتَعَارَفُوٓا۟ ۚ إِنَّ أَكْرَمَكُمْ عِندَ ٱللَّهِ أَتْقَىٰكُمْ ۚ إِنَّ ٱللَّهَ عَلِيمٌ خَبِيرٌ ۝١٣﴾ <span class="ayah-ref">سُورَةُ الحُجُرَاتِ</span></div>
     {: .quote }
 
 1. It places forgiveness and reconciliation above retaliation. A person may answer a wrong in equal measure but no further, yet forgiveness is presented as the better path, and its higher aim is to turn hostility into friendship.
-    > "The reward of an evil deed is its equivalent. But whoever pardons and seeks reconciliation, then their reward is with Allah. He certainly does not like the wrongdoers." (**Sūrat al-Shūrā 42:40**), Dr. Mustafa Khattab, *The Clear Quran*
+    > "The reward of an evil deed is its equivalent. But whoever pardons and seeks reconciliation, then their reward is with Allah. He certainly does not like the wrongdoers." (**Sūrat al-Shūrā 42:40**)
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَجَزَٰٓؤُا۟ سَيِّئَةٍ سَيِّئَةٌ مِّثْلُهَا ۖ فَمَنْ عَفَا وَأَصْلَحَ فَأَجْرُهُۥ عَلَى ٱللَّهِ ۚ إِنَّهُۥ لَا يُحِبُّ ٱلظَّـٰلِمِينَ ۝٤٠﴾ <span class="ayah-ref">سُورَةُ الشُّورَىٰ</span></div>
     {: .quote }
     <details class="quran-more" markdown="1">
     <summary>Show another verse on this theme</summary>
 
-    > "Good and evil cannot be equal. Respond ˹to evil˺ with what is best, then the one you are in a feud with will be like a close friend." (**Sūrat Fuṣṣilat 41:34**), Dr. Mustafa Khattab, *The Clear Quran*
+    > "Good and evil cannot be equal. Respond ˹to evil˺ with what is best, then the one you are in a feud with will be like a close friend." (**Sūrat Fuṣṣilat 41:34**)
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَلَا تَسْتَوِى ٱلْحَسَنَةُ وَلَا ٱلسَّيِّئَةُ ۚ ٱدْفَعْ بِٱلَّتِى هِىَ أَحْسَنُ فَإِذَا ٱلَّذِى بَيْنَكَ وَبَيْنَهُۥ عَدَٰوَةٌ كَأَنَّهُۥ وَلِىٌّ حَمِيمٌ ۝٣٤﴾ <span class="ayah-ref">سُورَةُ فُصِّلَتۡ</span></div>
     {: .quote }
     </details>
 
 1. It rejects compulsion in religion. Rather than demanding belief by force, the Qur'an repeatedly calls people to look, question, reason, and reflect, contemplating God's signs with both mind and heart.
-    > "Let there be no compulsion in religion, for the truth stands out clearly from falsehood. So whoever renounces false gods and believes in Allah has certainly grasped the firmest, unfailing hand-hold. And Allah is All-Hearing, All-Knowing." (**Sūrat al-Baqarah 2:256**), Dr. Mustafa Khattab, *The Clear Quran*
+    > "Let there be no compulsion in religion, for the truth stands out clearly from falsehood. So whoever renounces false gods and believes in Allah has certainly grasped the firmest, unfailing hand-hold. And Allah is All-Hearing, All-Knowing." (**Sūrat al-Baqarah 2:256**)
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿لَآ إِكْرَاهَ فِى ٱلدِّينِ ۖ قَد تَّبَيَّنَ ٱلرُّشْدُ مِنَ ٱلْغَىِّ ۚ فَمَن يَكْفُرْ بِٱلطَّـٰغُوتِ وَيُؤْمِنۢ بِٱللَّهِ فَقَدِ ٱسْتَمْسَكَ بِٱلْعُرْوَةِ ٱلْوُثْقَىٰ لَا ٱنفِصَامَ لَهَا ۗ وَٱللَّهُ سَمِيعٌ عَلِيمٌ ۝٢٥٦﴾ <span class="ayah-ref">سُورَةُ البَقَرَةِ</span></div>
     {: .quote }
     <details class="quran-more" markdown="1">
     <summary>Show more verses on this theme</summary>
 
-    > "Do they not then reflect on the Qur’an? Or are there locks upon their hearts?" (**Sūrat Muḥammad 47:24**), Dr. Mustafa Khattab, *The Clear Quran*
+    > "Do they not then reflect on the Qur’an? Or are there locks upon their hearts?" (**Sūrat Muḥammad 47:24**)
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿أَفَلَا يَتَدَبَّرُونَ ٱلْقُرْءَانَ أَمْ عَلَىٰ قُلُوبٍ أَقْفَالُهَآ ۝٢٤﴾ <span class="ayah-ref">سُورَةُ مُحَمَّدٍ</span></div>
     {: .quote }
-    > "˹This is˺ a blessed Book which We have revealed to you ˹O Prophet˺ so that they may contemplate its verses, and people of reason may be mindful." (**Sūrat Ṣād 38:29**), Dr. Mustafa Khattab, *The Clear Quran*
+    > "˹This is˺ a blessed Book which We have revealed to you ˹O Prophet˺ so that they may contemplate its verses, and people of reason may be mindful." (**Sūrat Ṣād 38:29**)
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿كِتَـٰبٌ أَنزَلْنَـٰهُ إِلَيْكَ مُبَـٰرَكٌ لِّيَدَّبَّرُوٓا۟ ءَايَـٰتِهِۦ وَلِيَتَذَكَّرَ أُو۟لُوا۟ ٱلْأَلْبَـٰبِ ۝٢٩﴾ <span class="ayah-ref">سُورَةُ صٓ</span></div>
     {: .quote }
     </details>
 
 1. It does not demand more than a person can bear. Religious obligations are not intended to impose undue hardship: there is no monasticism or celibacy, and duties are eased or lifted in cases of hardship, illness, travel, and coercion.
-    > "Allah does not require of any soul more than what it can afford." (**Sūrat al-Baqarah 2:286**), Dr. Mustafa Khattab, *The Clear Quran*
+    > "Allah does not require of any soul more than what it can afford." (**Sūrat al-Baqarah 2:286**)
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿لَا يُكَلِّفُ ٱللَّهُ نَفْسًا إِلَّا وُسْعَهَا﴾ <span class="ayah-ref">[سُورَةُ البَقَرَةِ: ٢٨٦]</span></div>
     {: .quote }
     <details class="quran-more" markdown="1">
     <summary>Show another verse on this theme</summary>
 
-    > "And He has not placed upon you in the religion any difficulty." (**Sūrat al-Ḥajj 22:78**), Saheeh International
+    > "And He has not placed upon you in the religion any difficulty." (**Sūrat al-Ḥajj 22:78**)
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَمَا جَعَلَ عَلَيْكُمْ فِى ٱلدِّينِ مِنْ حَرَجٍ﴾ <span class="ayah-ref">[سُورَةُ الحَجِّ: ٧٨]</span></div>
     {: .quote }
     </details>
 
 1. It anchors morality in accountability before God, both seen and unseen. A person may think they have escaped the consequences of wrongdoing because no immediate outward punishment follows, but the Qur'an presents actions as having real consequences in the hidden spiritual order of this life as well as in the next. What a person does ultimately returns to them in one form or another, unless they turn back to God and set things right. Repentance, however, wipes sins away completely, and even turns evil deeds into good ones.
-    > "So whoever does an atom's weight of good will see it. And whoever does an atom's weight of evil will see it." (**Sūrat al-Zalzalah 99:7–8**), Dr. Mustafa Khattab, *The Clear Quran*
+    > "So whoever does an atom's weight of good will see it. And whoever does an atom's weight of evil will see it." (**Sūrat al-Zalzalah 99:7–8**)
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿فَمَن يَعْمَلْ مِثْقَالَ ذَرَّةٍ خَيْرًا يَرَهُۥ ۝٧ وَمَن يَعْمَلْ مِثْقَالَ ذَرَّةٍ شَرًّا يَرَهُۥ ۝٨﴾ <span class="ayah-ref">سُورَةُ الزَّلۡزَلَةِ</span></div>
     {: .quote }
     <details class="quran-more" markdown="1">
     <summary>Show more verses on this theme</summary>
 
-    > "Corruption has spread on land and sea as a result of what people’s hands have done, so that Allah may cause them to taste ˹the consequences of˺ some of their deeds and perhaps they might return ˹to the Right Path˺." (**Sūrat al-Rūm 30:41**), Dr. Mustafa Khattab, *The Clear Quran*
+    > "Corruption has spread on land and sea as a result of what people’s hands have done, so that Allah may cause them to taste ˹the consequences of˺ some of their deeds and perhaps they might return ˹to the Right Path˺." (**Sūrat al-Rūm 30:41**)
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿ظَهَرَ ٱلْفَسَادُ فِى ٱلْبَرِّ وَٱلْبَحْرِ بِمَا كَسَبَتْ أَيْدِى ٱلنَّاسِ لِيُذِيقَهُم بَعْضَ ٱلَّذِى عَمِلُوا۟ لَعَلَّهُمْ يَرْجِعُونَ ۝٤١﴾ <span class="ayah-ref">سُورَةُ الرُّومِ</span></div>
     {: .quote }
-    > "But no! In fact, their hearts have been stained by all ˹the evil˺ they used to commit." (**Sūrat al-Muṭaffifīn 83:14**), Dr. Mustafa Khattab, *The Clear Quran*
+    > "But no! In fact, their hearts have been stained by all ˹the evil˺ they used to commit." (**Sūrat al-Muṭaffifīn 83:14**)
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿كَلَّا ۖ بَلْ ۜ رَانَ عَلَىٰ قُلُوبِهِم مَّا كَانُوا۟ يَكْسِبُونَ ۝١٤﴾ <span class="ayah-ref">سُورَةُ المُطَفِّفِينَ</span></div>
     {: .quote }
-    > "And do not be like those who forgot Allah, so He made them forget themselves. It is they who are ˹truly˺ rebellious." (**Sūrat al-Ḥashr 59:19**), Dr. Mustafa Khattab, *The Clear Quran*
+    > "And do not be like those who forgot Allah, so He made them forget themselves. It is they who are ˹truly˺ rebellious." (**Sūrat al-Ḥashr 59:19**)
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَلَا تَكُونُوا۟ كَٱلَّذِينَ نَسُوا۟ ٱللَّهَ فَأَنسَىٰهُمْ أَنفُسَهُمْ ۚ أُو۟لَـٰٓئِكَ هُمُ ٱلْفَـٰسِقُونَ ۝١٩﴾ <span class="ayah-ref">سُورَةُ الحَشۡرِ</span></div>
     {: .quote }
-    > "As for those who repent, believe, and do good deeds, they are the ones whose evil deeds Allah will change into good deeds. For Allah is All-Forgiving, Most Merciful." (**Sūrat al-Furqān 25:70**), Dr. Mustafa Khattab, *The Clear Quran*
+    > "As for those who repent, believe, and do good deeds, they are the ones whose evil deeds Allah will change into good deeds. For Allah is All-Forgiving, Most Merciful." (**Sūrat al-Furqān 25:70**)
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿إِلَّا مَن تَابَ وَءَامَنَ وَعَمِلَ عَمَلًا صَـٰلِحًا فَأُو۟لَـٰٓئِكَ يُبَدِّلُ ٱللَّهُ سَيِّـَٔاتِهِمْ حَسَنَـٰتٍ ۗ وَكَانَ ٱللَّهُ غَفُورًا رَّحِيمًا ۝٧٠﴾ <span class="ayah-ref">سُورَةُ الفُرۡقَانِ</span></div>
     {: .quote }
     </details>
 
 1. The Qur'an rejects inherited guilt: no one is born owing another's moral debt, and no soul bears another's burden.
-    > "That no bearer of burdens will bear the burden of another. And that there is not for man except that [good] for which he strives." (**Sūrat al-Najm 53:38–39**), Saheeh International
+    > "That no bearer of burdens will bear the burden of another. And that there is not for man except that [good] for which he strives." (**Sūrat al-Najm 53:38–39**)
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿أَلَّا تَزِرُ وَازِرَةٌ وِزْرَ أُخْرَىٰ ۝٣٨ وَأَن لَّيْسَ لِلْإِنسَـٰنِ إِلَّا مَا سَعَىٰ ۝٣٩﴾ <span class="ayah-ref">سُورَةُ النَّجۡمِ</span></div>
     {: .quote }
@@ -1532,7 +1532,7 @@ The Qur'an also judges worship by its effect on conduct. Chapter 107 condemns th
 The Qur'an's relationship to the Messenger ﷺ is itself one of the clearest signs that he was transmitting a revelation rather than composing a book of his own.
 
 1. The Qur'an repeatedly presents Prophet Muhammad ﷺ as subject to the revelation rather than in control of it.
-    > “When Our clear revelations are recited to them, those who do not expect to meet Us say ˹to the Prophet˺, ‘Bring us a different Qur'an or make some changes in it.’ Say ˹to them˺, ‘It is not for me to change it on my own. I only follow what is revealed to me. I fear, if I were to disobey my Lord, the punishment of a tremendous Day.’” (**Sūrat Yūnus 10:15**), Dr. Mustafa Khattab, *The Clear Quran*
+    > “When Our clear revelations are recited to them, those who do not expect to meet Us say ˹to the Prophet˺, ‘Bring us a different Qur'an or make some changes in it.’ Say ˹to them˺, ‘It is not for me to change it on my own. I only follow what is revealed to me. I fear, if I were to disobey my Lord, the punishment of a tremendous Day.’” (**Sūrat Yūnus 10:15**)
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَإِذَا تُتْلَىٰ عَلَيْهِمْ ءَايَاتُنَا بَيِّنَـٰتٍ ۙ قَالَ ٱلَّذِينَ لَا يَرْجُونَ لِقَآءَنَا ٱئْتِ بِقُرْءَانٍ غَيْرِ هَـٰذَآ أَوْ بَدِّلْهُ ۚ قُلْ مَا يَكُونُ لِىٓ أَنْ أُبَدِّلَهُۥ مِن تِلْقَآئِ نَفْسِىٓ ۖ إِنْ أَتَّبِعُ إِلَّا مَا يُوحَىٰٓ إِلَىَّ ۖ إِنِّىٓ أَخَافُ إِنْ عَصَيْتُ رَبِّى عَذَابَ يَوْمٍ عَظِيمٍ ۝١٥﴾ <span class="ayah-ref">سُورَةُ يُونُسَ</span></div>
     {: .quote }
@@ -1546,7 +1546,7 @@ The Qur'an's relationship to the Messenger ﷺ is itself one of the clearest sig
    {: .gloss }
 
 1. The Qur'an contains an extraordinary threat against the messenger himself, should he ever fabricate revelation.
-    > “Had the Messenger made up something in Our Name, We would have certainly seized him by his right hand, then severed his aorta, and none of you could have shielded him ˹from Us˺!” (**Sūrat al-Ḥāqqah 69:44–47**), Dr. Mustafa Khattab, *The Clear Quran*
+    > “Had the Messenger made up something in Our Name, We would have certainly seized him by his right hand, then severed his aorta, and none of you could have shielded him ˹from Us˺!” (**Sūrat al-Ḥāqqah 69:44–47**)
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَلَوْ تَقَوَّلَ عَلَيْنَا بَعْضَ ٱلْأَقَاوِيلِ ۝٤٤ لَأَخَذْنَا مِنْهُ بِٱلْيَمِينِ ۝٤٥ ثُمَّ لَقَطَعْنَا مِنْهُ ٱلْوَتِينَ ۝٤٦ فَمَا مِنكُم مِّنْ أَحَدٍ عَنْهُ حَـٰجِزِينَ ۝٤٧﴾ <span class="ayah-ref">سُورَةُ الحَاقَّةِ</span></div>
     {: .quote }
@@ -1680,7 +1680,7 @@ The case for the Qur'an's divine origin rests on the extraordinary convergence o
 The strength of the argument lies in how these features converge in one text and one prophetic career. Any human-authorship explanation has to account for that convergence as a whole: the Qur'an's mode of emergence, literary and structural achievement, numerical patterns, distinct voice, knowledge, predictions, preservation, theology, moral insight and consistency, its relationship with the Messenger ﷺ, and its transformative effect on the lives of billions of people.
 
 The Qur'an's own explanation accounts for that convergence directly: it is revelation from God and a lasting miracle given to Prophet Muhammad ﷺ as evidence for his universal message to humanity.
-> “It is not ˹possible˺ for this Qur'an to have been produced by anyone other than Allah. In fact, it is a confirmation of what came before, and an explanation of the Scripture. It is, without a doubt, from the Lord of all worlds.” (**Sūrat Yūnus 10:37**), Dr. Mustafa Khattab, *The Clear Quran*
+> “It is not ˹possible˺ for this Qur'an to have been produced by anyone other than Allah. In fact, it is a confirmation of what came before, and an explanation of the Scripture. It is, without a doubt, from the Lord of all worlds.” (**Sūrat Yūnus 10:37**)
 >
 > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَمَا كَانَ هَـٰذَا ٱلْقُرْءَانُ أَن يُفْتَرَىٰ مِن دُونِ ٱللَّهِ وَلَـٰكِن تَصْدِيقَ ٱلَّذِى بَيْنَ يَدَيْهِ وَتَفْصِيلَ ٱلْكِتَـٰبِ لَا رَيْبَ فِيهِ مِن رَّبِّ ٱلْعَـٰلَمِينَ ۝٣٧﴾ <span class="ayah-ref">سُورَةُ يُونُسَ</span></div>
 {: .quote }

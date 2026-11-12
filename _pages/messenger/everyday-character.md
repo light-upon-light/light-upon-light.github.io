@@ -42,7 +42,7 @@ Truthfulness, restraint, forgiveness, privacy, and reconciliation give religious
 
 - <span id="src-1124"></span>The Qur’an describes Prophet Muhammad ﷺ as possessing great moral character.
 
-    > "And indeed, you are of a great moral character." (**Sūrat al-Qalam 68:4**), Saheeh International[1](/messenger/sources#ref-1){: .footnote}[11](/messenger/sources#ref-11){: .footnote}[12](/messenger/sources#ref-12){: .footnote}[36](/messenger/sources#ref-36){: .footnote}
+    > "And indeed, you are of a great moral character." (**Sūrat al-Qalam 68:4**)[1](/messenger/sources#ref-1){: .footnote}[11](/messenger/sources#ref-11){: .footnote}[12](/messenger/sources#ref-12){: .footnote}[36](/messenger/sources#ref-36){: .footnote}
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَإِنَّكَ لَعَلَىٰ خُلُقٍ عَظِيمٍ ۝٤﴾ <span class="ayah-ref">سُورَةُ القَلَمِ</span></div>
     {: .quote }
@@ -54,7 +54,7 @@ Truthfulness, restraint, forgiveness, privacy, and reconciliation give religious
 
 - <span id="src-1136"></span>The Qur’an praises people who control their anger and pardon others.
 
-    > "˹They are˺ those who donate in prosperity and adversity, control their anger, and pardon others. And Allah loves the good-doers." (**Sūrat Āli ʿImrān 3:134**), Dr. Mustafa Khattab, *The Clear Quran*[1](/messenger/sources#ref-1){: .footnote}[11](/messenger/sources#ref-11){: .footnote}[12](/messenger/sources#ref-12){: .footnote}[36](/messenger/sources#ref-36){: .footnote}
+    > "˹They are˺ those who donate in prosperity and adversity, control their anger, and pardon others. And Allah loves the good-doers." (**Sūrat Āli ʿImrān 3:134**)[1](/messenger/sources#ref-1){: .footnote}[11](/messenger/sources#ref-11){: .footnote}[12](/messenger/sources#ref-12){: .footnote}[36](/messenger/sources#ref-36){: .footnote}
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿ٱلَّذِينَ يُنفِقُونَ فِى ٱلسَّرَّآءِ وَٱلضَّرَّآءِ وَٱلْكَـٰظِمِينَ ٱلْغَيْظَ وَٱلْعَافِينَ عَنِ ٱلنَّاسِ ۗ وَٱللَّهُ يُحِبُّ ٱلْمُحْسِنِينَ ۝١٣٤﴾ <span class="ayah-ref">سُورَةُ آلِ عِمۡرَانَ</span></div>
     {: .quote }
@@ -66,14 +66,14 @@ Truthfulness, restraint, forgiveness, privacy, and reconciliation give religious
 
 - <span id="src-1148"></span>The Qur’an permits proportionate redress for a wrong but presents pardon and reconciliation as better.
 
-    > "And the retribution for an evil act is an evil one like it, but whoever pardons and makes reconciliation - his reward is [due] from Allah. Indeed, He does not like wrongdoers." (**Sūrat al-Shūrā 42:40**), Saheeh International[1](/messenger/sources#ref-1){: .footnote}[11](/messenger/sources#ref-11){: .footnote}[12](/messenger/sources#ref-12){: .footnote}[36](/messenger/sources#ref-36){: .footnote}
+    > "And the retribution for an evil act is an evil one like it, but whoever pardons and makes reconciliation - his reward is [due] from Allah. Indeed, He does not like wrongdoers." (**Sūrat al-Shūrā 42:40**)[1](/messenger/sources#ref-1){: .footnote}[11](/messenger/sources#ref-11){: .footnote}[12](/messenger/sources#ref-12){: .footnote}[36](/messenger/sources#ref-36){: .footnote}
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَجَزَٰٓؤُا۟ سَيِّئَةٍ سَيِّئَةٌ مِّثْلُهَا ۖ فَمَنْ عَفَا وَأَصْلَحَ فَأَجْرُهُۥ عَلَى ٱللَّهِ ۚ إِنَّهُۥ لَا يُحِبُّ ٱلظَّـٰلِمِينَ ۝٤٠﴾ <span class="ayah-ref">سُورَةُ الشُّورَىٰ</span></div>
     {: .quote }
 
 - <span id="src-1155"></span>The Qur’an tells believers to respond to evil with what is better where possible, with reconciliation as the hoped-for result.
 
-    > "Good and evil cannot be equal. Respond ˹to evil˺ with what is best, then the one you are in a feud with will be like a close friend." (**Sūrat Fuṣṣilat 41:34**), Dr. Mustafa Khattab, *The Clear Quran*[1](/messenger/sources#ref-1){: .footnote}[11](/messenger/sources#ref-11){: .footnote}[12](/messenger/sources#ref-12){: .footnote}[36](/messenger/sources#ref-36){: .footnote}
+    > "Good and evil cannot be equal. Respond ˹to evil˺ with what is best, then the one you are in a feud with will be like a close friend." (**Sūrat Fuṣṣilat 41:34**)[1](/messenger/sources#ref-1){: .footnote}[11](/messenger/sources#ref-11){: .footnote}[12](/messenger/sources#ref-12){: .footnote}[36](/messenger/sources#ref-36){: .footnote}
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَلَا تَسْتَوِى ٱلْحَسَنَةُ وَلَا ٱلسَّيِّئَةُ ۚ ٱدْفَعْ بِٱلَّتِى هِىَ أَحْسَنُ فَإِذَا ٱلَّذِى بَيْنَكَ وَبَيْنَهُۥ عَدَٰوَةٌ كَأَنَّهُۥ وَلِىٌّ حَمِيمٌ ۝٣٤﴾ <span class="ayah-ref">سُورَةُ فُصِّلَتۡ</span></div>
     {: .quote }
@@ -90,7 +90,7 @@ Truthfulness, restraint, forgiveness, privacy, and reconciliation give religious
 
 - <span id="src-1172"></span>After Mistah helped spread the slander against Aisha, Abu Bakr swore to stop supporting him financially. The Qur’an called Abu Bakr back to forgiveness, and he resumed helping him.
 
-    > "And let not those of virtue among you and wealth swear not to give [aid] to their relatives and the needy and the emigrants for the cause of Allah, and let them pardon and overlook. Would you not like that Allah should forgive you? And Allah is Forgiving and Merciful." (**Sūrat al-Nūr 24:22**), Saheeh International[1](/messenger/sources#ref-1){: .footnote}[11](/messenger/sources#ref-11){: .footnote}[12](/messenger/sources#ref-12){: .footnote}[36](/messenger/sources#ref-36){: .footnote}; the occasion is recorded in *Sahih al-Bukhari* 4750[2](/messenger/sources#ref-2){: .footnote}[13](/messenger/sources#ref-13){: .footnote}[43](/messenger/sources#ref-43){: .footnote}
+    > "And let not those of virtue among you and wealth swear not to give [aid] to their relatives and the needy and the emigrants for the cause of Allah, and let them pardon and overlook. Would you not like that Allah should forgive you? And Allah is Forgiving and Merciful." (**Sūrat al-Nūr 24:22**)[1](/messenger/sources#ref-1){: .footnote}[11](/messenger/sources#ref-11){: .footnote}[12](/messenger/sources#ref-12){: .footnote}[36](/messenger/sources#ref-36){: .footnote}; the occasion is recorded in *Sahih al-Bukhari* 4750[2](/messenger/sources#ref-2){: .footnote}[13](/messenger/sources#ref-13){: .footnote}[43](/messenger/sources#ref-43){: .footnote}
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَلَا يَأْتَلِ أُو۟لُوا۟ ٱلْفَضْلِ مِنكُمْ وَٱلسَّعَةِ أَن يُؤْتُوٓا۟ أُو۟لِى ٱلْقُرْبَىٰ وَٱلْمَسَـٰكِينَ وَٱلْمُهَـٰجِرِينَ فِى سَبِيلِ ٱللَّهِ ۖ وَلْيَعْفُوا۟ وَلْيَصْفَحُوٓا۟ ۗ أَلَا تُحِبُّونَ أَن يَغْفِرَ ٱللَّهُ لَكُمْ ۗ وَٱللَّهُ غَفُورٌ رَّحِيمٌ ۝٢٢﴾ <span class="ayah-ref">سُورَةُ النُّورِ</span></div>
     {: .quote }
@@ -112,7 +112,7 @@ Truthfulness, restraint, forgiveness, privacy, and reconciliation give religious
 
 - <span id="src-1194"></span>The Qur’an tells believers to repair broken relationships rather than be content with the mere absence of open fighting.
 
-    > "The believers are but brothers, so make settlement between your brothers. And fear Allah that you may receive mercy." (**Sūrat al-Ḥujurāt 49:10**), Saheeh International[1](/messenger/sources#ref-1){: .footnote}[11](/messenger/sources#ref-11){: .footnote}[12](/messenger/sources#ref-12){: .footnote}[36](/messenger/sources#ref-36){: .footnote}
+    > "The believers are but brothers, so make settlement between your brothers. And fear Allah that you may receive mercy." (**Sūrat al-Ḥujurāt 49:10**)[1](/messenger/sources#ref-1){: .footnote}[11](/messenger/sources#ref-11){: .footnote}[12](/messenger/sources#ref-12){: .footnote}[36](/messenger/sources#ref-36){: .footnote}
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿إِنَّمَا ٱلْمُؤْمِنُونَ إِخْوَةٌ فَأَصْلِحُوا۟ بَيْنَ أَخَوَيْكُمْ ۚ وَٱتَّقُوا۟ ٱللَّهَ لَعَلَّكُمْ تُرْحَمُونَ ۝١٠﴾ <span class="ayah-ref">سُورَةُ الحُجُرَاتِ</span></div>
     {: .quote }
@@ -137,35 +137,35 @@ Truthfulness, restraint, forgiveness, privacy, and reconciliation give religious
 
 - <span id="src-1218"></span>The Qur’an forbids mocking people, insulting them, and using degrading nicknames.
 
-    > "O believers! Do not let some ˹men˺ ridicule others, they may be better than them, nor let ˹some˺ women ridicule other women, they may be better than them. Do not defame one another, nor call each other by offensive nicknames. How evil it is to act rebelliously after having faith! And whoever does not repent, it is they who are the ˹true˺ wrongdoers." (**Sūrat al-Ḥujurāt 49:11**), Dr. Mustafa Khattab, *The Clear Quran*[1](/messenger/sources#ref-1){: .footnote}[11](/messenger/sources#ref-11){: .footnote}[12](/messenger/sources#ref-12){: .footnote}[36](/messenger/sources#ref-36){: .footnote}
+    > "O believers! Do not let some ˹men˺ ridicule others, they may be better than them, nor let ˹some˺ women ridicule other women, they may be better than them. Do not defame one another, nor call each other by offensive nicknames. How evil it is to act rebelliously after having faith! And whoever does not repent, it is they who are the ˹true˺ wrongdoers." (**Sūrat al-Ḥujurāt 49:11**)[1](/messenger/sources#ref-1){: .footnote}[11](/messenger/sources#ref-11){: .footnote}[12](/messenger/sources#ref-12){: .footnote}[36](/messenger/sources#ref-36){: .footnote}
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا يَسْخَرْ قَوْمٌ مِّن قَوْمٍ عَسَىٰٓ أَن يَكُونُوا۟ خَيْرًا مِّنْهُمْ وَلَا نِسَآءٌ مِّن نِّسَآءٍ عَسَىٰٓ أَن يَكُنَّ خَيْرًا مِّنْهُنَّ ۖ وَلَا تَلْمِزُوٓا۟ أَنفُسَكُمْ وَلَا تَنَابَزُوا۟ بِٱلْأَلْقَـٰبِ ۖ بِئْسَ ٱلِٱسْمُ ٱلْفُسُوقُ بَعْدَ ٱلْإِيمَـٰنِ ۚ وَمَن لَّمْ يَتُبْ فَأُو۟لَـٰٓئِكَ هُمُ ٱلظَّـٰلِمُونَ ۝١١﴾ <span class="ayah-ref">سُورَةُ الحُجُرَاتِ</span></div>
     {: .quote }
 
 - <span id="src-1225"></span>The Qur’an forbids corrosive suspicion, spying, and backbiting, comparing backbiting to eating the flesh of one’s dead sibling.
 
-    > "O believers! Avoid many suspicions, ˹for˺ indeed, some suspicions are sinful. And do not spy, nor backbite one another. Would any of you like to eat the flesh of their dead brother? You would despise that! And fear Allah. Surely Allah is ˹the˺ Accepter of Repentance, Most Merciful." (**Sūrat al-Ḥujurāt 49:12**), Dr. Mustafa Khattab, *The Clear Quran*[1](/messenger/sources#ref-1){: .footnote}[11](/messenger/sources#ref-11){: .footnote}[12](/messenger/sources#ref-12){: .footnote}[36](/messenger/sources#ref-36){: .footnote}
+    > "O believers! Avoid many suspicions, ˹for˺ indeed, some suspicions are sinful. And do not spy, nor backbite one another. Would any of you like to eat the flesh of their dead brother? You would despise that! And fear Allah. Surely Allah is ˹the˺ Accepter of Repentance, Most Merciful." (**Sūrat al-Ḥujurāt 49:12**)[1](/messenger/sources#ref-1){: .footnote}[11](/messenger/sources#ref-11){: .footnote}[12](/messenger/sources#ref-12){: .footnote}[36](/messenger/sources#ref-36){: .footnote}
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ ٱجْتَنِبُوا۟ كَثِيرًا مِّنَ ٱلظَّنِّ إِنَّ بَعْضَ ٱلظَّنِّ إِثْمٌ ۖ وَلَا تَجَسَّسُوا۟ وَلَا يَغْتَب بَّعْضُكُم بَعْضًا ۚ أَيُحِبُّ أَحَدُكُمْ أَن يَأْكُلَ لَحْمَ أَخِيهِ مَيْتًا فَكَرِهْتُمُوهُ ۚ وَٱتَّقُوا۟ ٱللَّهَ ۚ إِنَّ ٱللَّهَ تَوَّابٌ رَّحِيمٌ ۝١٢﴾ <span class="ayah-ref">سُورَةُ الحُجُرَاتِ</span></div>
     {: .quote }
 
 - <span id="src-1232"></span>The Qur’an tells believers to choose the best way of speaking, not merely words that are technically permissible.
 
-    > "And tell My servants to say that which is best. Indeed, Satan induces [dissension] among them. Indeed Satan is ever, to mankind, a clear enemy." (**Sūrat al-Isrāʾ 17:53**), Saheeh International[1](/messenger/sources#ref-1){: .footnote}[11](/messenger/sources#ref-11){: .footnote}[12](/messenger/sources#ref-12){: .footnote}[36](/messenger/sources#ref-36){: .footnote}
+    > "And tell My servants to say that which is best. Indeed, Satan induces [dissension] among them. Indeed Satan is ever, to mankind, a clear enemy." (**Sūrat al-Isrāʾ 17:53**)[1](/messenger/sources#ref-1){: .footnote}[11](/messenger/sources#ref-11){: .footnote}[12](/messenger/sources#ref-12){: .footnote}[36](/messenger/sources#ref-36){: .footnote}
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَقُل لِّعِبَادِى يَقُولُوا۟ ٱلَّتِى هِىَ أَحْسَنُ ۚ إِنَّ ٱلشَّيْطَـٰنَ يَنزَغُ بَيْنَهُمْ ۚ إِنَّ ٱلشَّيْطَـٰنَ كَانَ لِلْإِنسَـٰنِ عَدُوًّا مُّبِينًا ۝٥٣﴾ <span class="ayah-ref">سُورَةُ الإِسۡرَاءِ</span></div>
     {: .quote }
 
 - <span id="src-1239"></span>The Qur’an teaches humility in how a person treats others, walks, and speaks.
 
-    > "And do not turn your cheek [in contempt] toward people and do not walk through the earth exultantly. Indeed, Allah does not like everyone self-deluded and boastful. And be moderate in your pace and lower your voice; indeed, the most disagreeable of sounds is the voice of donkeys." (**Sūrat Luqmān 31:18-19**), Saheeh International[1](/messenger/sources#ref-1){: .footnote}[11](/messenger/sources#ref-11){: .footnote}[12](/messenger/sources#ref-12){: .footnote}[36](/messenger/sources#ref-36){: .footnote}
+    > "And do not turn your cheek [in contempt] toward people and do not walk through the earth exultantly. Indeed, Allah does not like everyone self-deluded and boastful. And be moderate in your pace and lower your voice; indeed, the most disagreeable of sounds is the voice of donkeys." (**Sūrat Luqmān 31:18-19**)[1](/messenger/sources#ref-1){: .footnote}[11](/messenger/sources#ref-11){: .footnote}[12](/messenger/sources#ref-12){: .footnote}[36](/messenger/sources#ref-36){: .footnote}
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَلَا تُصَعِّرْ خَدَّكَ لِلنَّاسِ وَلَا تَمْشِ فِى ٱلْأَرْضِ مَرَحًا ۖ إِنَّ ٱللَّهَ لَا يُحِبُّ كُلَّ مُخْتَالٍ فَخُورٍ ۝١٨ وَٱقْصِدْ فِى مَشْيِكَ وَٱغْضُضْ مِن صَوْتِكَ ۚ إِنَّ أَنكَرَ ٱلْأَصْوَٰتِ لَصَوْتُ ٱلْحَمِيرِ ۝١٩﴾ <span class="ayah-ref">سُورَةُ لُقۡمَانَ</span></div>
     {: .quote }
 
 - <span id="src-1246"></span>The Qur’an describes mature servants of God as responding calmly when ignorant people address them harshly.
 
-    > "And the servants of the Most Merciful are those who walk upon the earth easily, and when the ignorant address them [harshly], they say [words of] peace." (**Sūrat al-Furqān 25:63**), Saheeh International[1](/messenger/sources#ref-1){: .footnote}[11](/messenger/sources#ref-11){: .footnote}[12](/messenger/sources#ref-12){: .footnote}[36](/messenger/sources#ref-36){: .footnote}
+    > "And the servants of the Most Merciful are those who walk upon the earth easily, and when the ignorant address them [harshly], they say [words of] peace." (**Sūrat al-Furqān 25:63**)[1](/messenger/sources#ref-1){: .footnote}[11](/messenger/sources#ref-11){: .footnote}[12](/messenger/sources#ref-12){: .footnote}[36](/messenger/sources#ref-36){: .footnote}
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَعِبَادُ ٱلرَّحْمَـٰنِ ٱلَّذِينَ يَمْشُونَ عَلَى ٱلْأَرْضِ هَوْنًا وَإِذَا خَاطَبَهُمُ ٱلْجَـٰهِلُونَ قَالُوا۟ سَلَـٰمًا ۝٦٣﴾ <span class="ayah-ref">سُورَةُ الفُرۡقَانِ</span></div>
     {: .quote }
@@ -233,21 +233,21 @@ Truthfulness, restraint, forgiveness, privacy, and reconciliation give religious
 
 - <span id="src-1313"></span>The Qur’an forbids entering another person’s home without first seeking permission and greeting its occupants.
 
-    > "O believers! Do not enter any house other than your own until you have asked for permission and greeted its occupants. This is best for you, so perhaps you will be mindful." (**Sūrat al-Nūr 24:27**), Dr. Mustafa Khattab, *The Clear Quran*[1](/messenger/sources#ref-1){: .footnote}[11](/messenger/sources#ref-11){: .footnote}[12](/messenger/sources#ref-12){: .footnote}[36](/messenger/sources#ref-36){: .footnote}
+    > "O believers! Do not enter any house other than your own until you have asked for permission and greeted its occupants. This is best for you, so perhaps you will be mindful." (**Sūrat al-Nūr 24:27**)[1](/messenger/sources#ref-1){: .footnote}[11](/messenger/sources#ref-11){: .footnote}[12](/messenger/sources#ref-12){: .footnote}[36](/messenger/sources#ref-36){: .footnote}
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تَدْخُلُوا۟ بُيُوتًا غَيْرَ بُيُوتِكُمْ حَتَّىٰ تَسْتَأْنِسُوا۟ وَتُسَلِّمُوا۟ عَلَىٰٓ أَهْلِهَا ۚ ذَٰلِكُمْ خَيْرٌ لَّكُمْ لَعَلَّكُمْ تَذَكَّرُونَ ۝٢٧﴾ <span class="ayah-ref">سُورَةُ النُّورِ</span></div>
     {: .quote }
 
 - <span id="src-1320"></span>The Qur’an requires consequential information to be verified before acting on or spreading it, so that people are not harmed on the basis of unreliable reports.
 
-    > "O believers, if an evildoer brings you any news, verify ˹it˺ so you do not harm people unknowingly, becoming regretful for what you have done." (**Sūrat al-Ḥujurāt 49:6**), Dr. Mustafa Khattab, *The Clear Quran*[1](/messenger/sources#ref-1){: .footnote}[11](/messenger/sources#ref-11){: .footnote}[12](/messenger/sources#ref-12){: .footnote}[36](/messenger/sources#ref-36){: .footnote}
+    > "O believers, if an evildoer brings you any news, verify ˹it˺ so you do not harm people unknowingly, becoming regretful for what you have done." (**Sūrat al-Ḥujurāt 49:6**)[1](/messenger/sources#ref-1){: .footnote}[11](/messenger/sources#ref-11){: .footnote}[12](/messenger/sources#ref-12){: .footnote}[36](/messenger/sources#ref-36){: .footnote}
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ إِن جَآءَكُمْ فَاسِقٌۢ بِنَبَإٍ فَتَبَيَّنُوٓا۟ أَن تُصِيبُوا۟ قَوْمًۢا بِجَهَـٰلَةٍ فَتُصْبِحُوا۟ عَلَىٰ مَا فَعَلْتُمْ نَـٰدِمِينَ ۝٦﴾ <span class="ayah-ref">سُورَةُ الحُجُرَاتِ</span></div>
     {: .quote }
 
 - <span id="src-1327"></span>The Qur’an forbids confidently pursuing or asserting what a person does not actually know.
 
-    > "And do not pursue that of which you have no knowledge. Indeed, the hearing, the sight and the heart - about all those [one] will be questioned." (**Sūrat al-Isrāʾ 17:36**), Saheeh International[1](/messenger/sources#ref-1){: .footnote}[11](/messenger/sources#ref-11){: .footnote}[12](/messenger/sources#ref-12){: .footnote}[36](/messenger/sources#ref-36){: .footnote}
+    > "And do not pursue that of which you have no knowledge. Indeed, the hearing, the sight and the heart - about all those [one] will be questioned." (**Sūrat al-Isrāʾ 17:36**)[1](/messenger/sources#ref-1){: .footnote}[11](/messenger/sources#ref-11){: .footnote}[12](/messenger/sources#ref-12){: .footnote}[36](/messenger/sources#ref-36){: .footnote}
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَلَا تَقْفُ مَا لَيْسَ لَكَ بِهِۦ عِلْمٌ ۚ إِنَّ ٱلسَّمْعَ وَٱلْبَصَرَ وَٱلْفُؤَادَ كُلُّ أُو۟لَـٰٓئِكَ كَانَ عَنْهُ مَسْـُٔولًا ۝٣٦﴾ <span class="ayah-ref">سُورَةُ الإِسۡرَاءِ</span></div>
     {: .quote }
@@ -272,21 +272,21 @@ Truthfulness, restraint, forgiveness, privacy, and reconciliation give religious
 
 - <span id="src-1351"></span>The Qur’an requires sexual modesty from men as well as women, first telling believing men to lower their gaze and guard their chastity before addressing women.
 
-    > "˹O Prophet!˺ Tell the believing men to lower their gaze and guard their chastity. That is purer for them. Surely Allah is All-Aware of what they do. And tell the believing women to lower their gaze and guard their chastity, and not to reveal their adornments except what normally appears. Let them draw their veils over their chests, and not reveal their ˹hidden˺ adornments except to their husbands, their fathers, their fathers-in-law, their sons, their stepsons, their brothers, their brothers’ sons or sisters’ sons, their fellow women, those ˹bondwomen˺ in their possession, male attendants with no desire, or children who are still unaware of women’s nakedness. Let them not stomp their feet, drawing attention to their hidden adornments. Turn to Allah in repentance all together, O believers, so that you may be successful." (**Sūrat al-Nūr 24:30-31**), Dr. Mustafa Khattab, *The Clear Quran*[1](/messenger/sources#ref-1){: .footnote}[11](/messenger/sources#ref-11){: .footnote}[12](/messenger/sources#ref-12){: .footnote}[36](/messenger/sources#ref-36){: .footnote}
+    > "˹O Prophet!˺ Tell the believing men to lower their gaze and guard their chastity. That is purer for them. Surely Allah is All-Aware of what they do. And tell the believing women to lower their gaze and guard their chastity, and not to reveal their adornments except what normally appears. Let them draw their veils over their chests, and not reveal their ˹hidden˺ adornments except to their husbands, their fathers, their fathers-in-law, their sons, their stepsons, their brothers, their brothers’ sons or sisters’ sons, their fellow women, those ˹bondwomen˺ in their possession, male attendants with no desire, or children who are still unaware of women’s nakedness. Let them not stomp their feet, drawing attention to their hidden adornments. Turn to Allah in repentance all together, O believers, so that you may be successful." (**Sūrat al-Nūr 24:30-31**)[1](/messenger/sources#ref-1){: .footnote}[11](/messenger/sources#ref-11){: .footnote}[12](/messenger/sources#ref-12){: .footnote}[36](/messenger/sources#ref-36){: .footnote}
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿قُل لِّلْمُؤْمِنِينَ يَغُضُّوا۟ مِنْ أَبْصَـٰرِهِمْ وَيَحْفَظُوا۟ فُرُوجَهُمْ ۚ ذَٰلِكَ أَزْكَىٰ لَهُمْ ۗ إِنَّ ٱللَّهَ خَبِيرٌۢ بِمَا يَصْنَعُونَ ۝٣٠ وَقُل لِّلْمُؤْمِنَـٰتِ يَغْضُضْنَ مِنْ أَبْصَـٰرِهِنَّ وَيَحْفَظْنَ فُرُوجَهُنَّ وَلَا يُبْدِينَ زِينَتَهُنَّ إِلَّا مَا ظَهَرَ مِنْهَا ۖ وَلْيَضْرِبْنَ بِخُمُرِهِنَّ عَلَىٰ جُيُوبِهِنَّ ۖ وَلَا يُبْدِينَ زِينَتَهُنَّ إِلَّا لِبُعُولَتِهِنَّ أَوْ ءَابَآئِهِنَّ أَوْ ءَابَآءِ بُعُولَتِهِنَّ أَوْ أَبْنَآئِهِنَّ أَوْ أَبْنَآءِ بُعُولَتِهِنَّ أَوْ إِخْوَٰنِهِنَّ أَوْ بَنِىٓ إِخْوَٰنِهِنَّ أَوْ بَنِىٓ أَخَوَٰتِهِنَّ أَوْ نِسَآئِهِنَّ أَوْ مَا مَلَكَتْ أَيْمَـٰنُهُنَّ أَوِ ٱلتَّـٰبِعِينَ غَيْرِ أُو۟لِى ٱلْإِرْبَةِ مِنَ ٱلرِّجَالِ أَوِ ٱلطِّفْلِ ٱلَّذِينَ لَمْ يَظْهَرُوا۟ عَلَىٰ عَوْرَٰتِ ٱلنِّسَآءِ ۖ وَلَا يَضْرِبْنَ بِأَرْجُلِهِنَّ لِيُعْلَمَ مَا يُخْفِينَ مِن زِينَتِهِنَّ ۚ وَتُوبُوٓا۟ إِلَى ٱللَّهِ جَمِيعًا أَيُّهَ ٱلْمُؤْمِنُونَ لَعَلَّكُمْ تُفْلِحُونَ ۝٣١﴾ <span class="ayah-ref">سُورَةُ النُّورِ</span></div>
     {: .quote }
 
 - <span id="src-1358"></span>The Qur’an requires evidence for serious sexual accusations and protects people from having their reputations destroyed by unsupported charges.
 
-    > "And those who accuse chaste women and then do not produce four witnesses - lash them with eighty lashes and do not accept from them testimony ever after. And those are the defiantly disobedient." (**Sūrat al-Nūr 24:4**), Saheeh International[1](/messenger/sources#ref-1){: .footnote}[11](/messenger/sources#ref-11){: .footnote}[12](/messenger/sources#ref-12){: .footnote}[36](/messenger/sources#ref-36){: .footnote}
+    > "And those who accuse chaste women and then do not produce four witnesses - lash them with eighty lashes and do not accept from them testimony ever after. And those are the defiantly disobedient." (**Sūrat al-Nūr 24:4**)[1](/messenger/sources#ref-1){: .footnote}[11](/messenger/sources#ref-11){: .footnote}[12](/messenger/sources#ref-12){: .footnote}[36](/messenger/sources#ref-36){: .footnote}
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَٱلَّذِينَ يَرْمُونَ ٱلْمُحْصَنَـٰتِ ثُمَّ لَمْ يَأْتُوا۟ بِأَرْبَعَةِ شُهَدَآءَ فَٱجْلِدُوهُمْ ثَمَـٰنِينَ جَلْدَةً وَلَا تَقْبَلُوا۟ لَهُمْ شَهَـٰدَةً أَبَدًا ۚ وَأُو۟لَـٰٓئِكَ هُمُ ٱلْفَـٰسِقُونَ ۝٤﴾ <span class="ayah-ref">سُورَةُ النُّورِ</span></div>
     {: .quote }
 
 - <span id="src-1365"></span>The Qur’an describes intoxicants and gambling as sources of hostility that also distract people from remembrance of God and prayer.
 
-    > "O believers! Intoxicants, gambling, idols, and drawing lots for decisions are all evil of Satan’s handiwork. So shun them so you may be successful. Satan’s plan is to stir up hostility and hatred between you with intoxicants and gambling and to prevent you from remembering Allah and praying. Will you not then abstain?" (**Sūrat al-Māʾidah 5:90-91**), Dr. Mustafa Khattab, *The Clear Quran*[1](/messenger/sources#ref-1){: .footnote}[11](/messenger/sources#ref-11){: .footnote}[12](/messenger/sources#ref-12){: .footnote}[36](/messenger/sources#ref-36){: .footnote}
+    > "O believers! Intoxicants, gambling, idols, and drawing lots for decisions are all evil of Satan’s handiwork. So shun them so you may be successful. Satan’s plan is to stir up hostility and hatred between you with intoxicants and gambling and to prevent you from remembering Allah and praying. Will you not then abstain?" (**Sūrat al-Māʾidah 5:90-91**)[1](/messenger/sources#ref-1){: .footnote}[11](/messenger/sources#ref-11){: .footnote}[12](/messenger/sources#ref-12){: .footnote}[36](/messenger/sources#ref-36){: .footnote}
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ إِنَّمَا ٱلْخَمْرُ وَٱلْمَيْسِرُ وَٱلْأَنصَابُ وَٱلْأَزْلَـٰمُ رِجْسٌ مِّنْ عَمَلِ ٱلشَّيْطَـٰنِ فَٱجْتَنِبُوهُ لَعَلَّكُمْ تُفْلِحُونَ ۝٩٠ إِنَّمَا يُرِيدُ ٱلشَّيْطَـٰنُ أَن يُوقِعَ بَيْنَكُمُ ٱلْعَدَٰوَةَ وَٱلْبَغْضَآءَ فِى ٱلْخَمْرِ وَٱلْمَيْسِرِ وَيَصُدَّكُمْ عَن ذِكْرِ ٱللَّهِ وَعَنِ ٱلصَّلَوٰةِ ۖ فَهَلْ أَنتُم مُّنتَهُونَ ۝٩١﴾ <span class="ayah-ref">سُورَةُ المَائـِدَةِ</span></div>
     {: .quote }
@@ -339,14 +339,14 @@ Truthfulness, restraint, forgiveness, privacy, and reconciliation give religious
 
 - <span id="src-1417"></span>The Qur’an describes other people’s hardship as weighing heavily on Prophet Muhammad ﷺ and portrays him as deeply concerned for them.
 
-    > "There has certainly come to you a Messenger from among yourselves. Grievous to him is what you suffer; [he is] concerned over you and to the believers is kind and merciful." (**Sūrat al-Tawbah 9:128**), Saheeh International[1](/messenger/sources#ref-1){: .footnote}[11](/messenger/sources#ref-11){: .footnote}[12](/messenger/sources#ref-12){: .footnote}[36](/messenger/sources#ref-36){: .footnote}
+    > "There has certainly come to you a Messenger from among yourselves. Grievous to him is what you suffer; [he is] concerned over you and to the believers is kind and merciful." (**Sūrat al-Tawbah 9:128**)[1](/messenger/sources#ref-1){: .footnote}[11](/messenger/sources#ref-11){: .footnote}[12](/messenger/sources#ref-12){: .footnote}[36](/messenger/sources#ref-36){: .footnote}
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿لَقَدْ جَآءَكُمْ رَسُولٌ مِّنْ أَنفُسِكُمْ عَزِيزٌ عَلَيْهِ مَا عَنِتُّمْ حَرِيصٌ عَلَيْكُم بِٱلْمُؤْمِنِينَ رَءُوفٌ رَّحِيمٌ ۝١٢٨﴾ <span class="ayah-ref">سُورَةُ التَّوۡبَةِ</span></div>
     {: .quote }
 
 - <span id="src-1424"></span>The Qur’an repeatedly restrains Prophet Muhammad’s ﷺ grief over people who reject the message, while also making clear that he cannot force belief into another person’s heart.
 
-    > "Now, perhaps you ˹O Prophet˺ will grieve yourself to death over their denial, if they ˹continue to˺ disbelieve in this message." (**Sūrat al-Kahf 18:6**), Dr. Mustafa Khattab, *The Clear Quran*[1](/messenger/sources#ref-1){: .footnote}[11](/messenger/sources#ref-11){: .footnote}[12](/messenger/sources#ref-12){: .footnote}[36](/messenger/sources#ref-36){: .footnote}
+    > "Now, perhaps you ˹O Prophet˺ will grieve yourself to death over their denial, if they ˹continue to˺ disbelieve in this message." (**Sūrat al-Kahf 18:6**)[1](/messenger/sources#ref-1){: .footnote}[11](/messenger/sources#ref-11){: .footnote}[12](/messenger/sources#ref-12){: .footnote}[36](/messenger/sources#ref-36){: .footnote}
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿فَلَعَلَّكَ بَـٰخِعٌ نَّفْسَكَ عَلَىٰٓ ءَاثَـٰرِهِمْ إِن لَّمْ يُؤْمِنُوا۟ بِهَـٰذَا ٱلْحَدِيثِ أَسَفًا ۝٦﴾ <span class="ayah-ref">سُورَةُ الكَهۡفِ</span></div>
     {: .quote }

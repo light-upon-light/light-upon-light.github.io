@@ -43,7 +43,7 @@ The evidence draws on scripture, transmitted reports, early biography, commentar
 - <span id="src-0041"></span>**Early biography**, often called *sira* [prophetic biography], preserves important narrative material that is not always found in the major hadith collections. Its reports vary in the strength of their transmission, so biographical material is identified as such rather than treated as equivalent to a rigorously authenticated hadith.[8](#ref-8){: .footnote}[19](#ref-19){: .footnote}[28](#ref-28){: .footnote}[29](#ref-29){: .footnote}[37](#ref-37){: .footnote}[38](#ref-38){: .footnote}[39](#ref-39){: .footnote}
 
 
-- <span id="src-0042"></span>**Qur’anic quotations** are attributed to Dr. Mustafa Khattab’s *The Clear Quran* or Saheeh International, with the translation selected for clarity in English. The quotation entries retain their attributed English wording and accompanying Arabic. Hadith quotations identify the collection and report number.
+- <span id="src-0042"></span>**Qur’anic quotations** are taken from Dr. Mustafa Khattab’s *The Clear Quran* or Saheeh International, with the translation selected for clarity in English. The quotation entries retain that English wording and accompanying Arabic. Hadith quotations identify the collection and report number.
 
 
 - <span id="src-0043"></span>The symbol ﷺ means “may God’s peace and blessings be upon him.”

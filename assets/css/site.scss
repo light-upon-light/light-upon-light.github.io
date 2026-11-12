@@ -2832,11 +2832,11 @@
   #gloss-tip {
     position: fixed;
     z-index: 200;
-    max-width: min(32rem, 90vw);
+    max-width: min(26rem, 90vw);
     margin: 0;
-    padding: 0.5em 0.7em;
-    font-size: 0.86rem;
-    line-height: 1.45;
+    padding: 0.4em 0.6em;
+    font-size: 0.74rem;
+    line-height: 1.4;
     color: var(--site-glosstip-text);
     background-color: var(--site-glosstip-bg);
     border: 1px solid var(--site-glosstip-border);

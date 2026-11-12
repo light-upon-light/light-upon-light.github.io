@@ -40,7 +40,7 @@ The record includes household observations, encounters with opponents, and accou
 
 - <span id="src-3037"></span>No one witness is decisive, but together they observe Prophet Muhammad ﷺ from unusually different positions. An enemy speaks to his prior honesty. Family members describe private conduct. A servant describes everyday temperament. A negotiator comments on leadership and loyalty. Former enemies describe the effect of direct encounter. This convergence says more than the bare fact that many people followed him.
 
-    > "And you are truly ˹a man˺ of outstanding character." (**Sūrat al-Qalam 68:4**), Dr. Mustafa Khattab, *The Clear Quran*[1](/messenger/sources#ref-1){: .footnote}[11](/messenger/sources#ref-11){: .footnote}[12](/messenger/sources#ref-12){: .footnote}[36](/messenger/sources#ref-36){: .footnote}
+    > "And you are truly ˹a man˺ of outstanding character." (**Sūrat al-Qalam 68:4**)[1](/messenger/sources#ref-1){: .footnote}[11](/messenger/sources#ref-11){: .footnote}[12](/messenger/sources#ref-12){: .footnote}[36](/messenger/sources#ref-36){: .footnote}
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَإِنَّكَ لَعَلَىٰ خُلُقٍ عَظِيمٍ ۝٤﴾ <span class="ayah-ref">سُورَةُ القَلَمِ</span></div>
     {: .quote }

@@ -65,7 +65,7 @@ The asymmetry is factual, as is the Prophet's exemption from the ordinary four-w
 The verse does not begin with "two, three, or four." It begins with the rights of orphans:
 
 > "If you fear you might fail to give orphan women their ˹due˺ rights ... then marry other women of your choice — two, three, or four. But if you are afraid you will fail to maintain justice, then ˹content yourselves with˺ one..."
-> (**Sūrat al-Nisāʾ 4:3**), Dr. Mustafa Khattab, *The Clear Quran*
+> (**Sūrat al-Nisāʾ 4:3**)
 >
 > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَإِنْ خِفْتُمْ أَلَّا تُقْسِطُوا۟ فِى ٱلْيَتَـٰمَىٰ فَٱنكِحُوا۟ مَا طَابَ لَكُم مِّنَ ٱلنِّسَآءِ مَثْنَىٰ وَثُلَـٰثَ وَرُبَـٰعَ ۖ فَإِنْ خِفْتُمْ أَلَّا تَعْدِلُوا۟ فَوَٰحِدَةً﴾ <span class="ayah-ref">[سُورَةُ النِّسَاءِ: ٣]</span></div>
 {: .quote }
@@ -89,7 +89,7 @@ The verse also refers to women held in slavery, an institution the Qur'an addres
 Later in the same surah, the Qur'an warns:
 
 > "You will never be able to maintain ˹emotional˺ justice between your wives — no matter how keen you are. So do not totally incline towards one leaving the other in suspense."
-> (**Sūrat al-Nisāʾ 4:129**), Dr. Mustafa Khattab, *The Clear Quran*
+> (**Sūrat al-Nisāʾ 4:129**)
 >
 > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَلَن تَسْتَطِيعُوٓا۟ أَن تَعْدِلُوا۟ بَيْنَ ٱلنِّسَآءِ وَلَوْ حَرَصْتُمْ﴾ <span class="ayah-ref">[سُورَةُ النِّسَاءِ: ١٢٩]</span></div>
 {: .quote }
