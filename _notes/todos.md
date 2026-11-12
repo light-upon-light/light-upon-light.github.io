@@ -14,7 +14,6 @@ general:
 - add the complete transformation of his society within only 23 years to miraculous stuff. add: what they were before, what they were after, and only in 23 years through the influence of one man. add the quote from this video: https://youtu.be/H0aiDYcgQaQ "Let them gather a hundered philosophers, send them to that time and place, and let them work for a hundred years--could they achieve even 1% of what that great man achieved in just a single year?"-Bediuzzaman Said Nursi. or similar quotations / argument.
 - add the risale i nur arguments to the page somehow. (drafts in drafts sep22)
 - reword all those extra show more sections and consolidate their content with other sections
-- after the point-by-point rewrite of the quran page, do a repetition pass over each section to catch overlap between points (e.g. "summit of arabic eloquence" in both the point on its reception and the point on the prophet's lack of literary background).
 - put direct engagement with listener as one or two points in the same section, maybe under a show one more thing
 
 ---
