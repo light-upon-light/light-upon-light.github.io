@@ -38,7 +38,7 @@ glossary:
   - under-these-conditions
 ---
 
-> This page presents evidence for the divine origin of the Qur'an and the prophethood of Prophet Muhammad ﷺ. The argument is cumulative; no individual point is presented as a standalone proof. Considered together, however, they form a case for the Qur'an's miraculous nature and the authenticity of the Prophet's mission. — note: this page is a work in progress.
+> This page presents evidence for the divine origin of the Qur'an and the prophethood of Prophet Muhammad ﷺ — note: this page is a work in progress.
 
 ## Why Read This?
 {: #why-read-this }
@@ -150,6 +150,8 @@ Any human-authorship explanation must account for all of these features together
 ## The Book
 
 This chapter argues that the Qur'an could not have been authored by anyone but God, given all of its miraculous qualities. Those qualities are presented below, in sections grouped by theme.
+
+The argument on this page is cumulative; no individual point is presented as a standalone proof. Considered together, however, they form a case for the Qur'an's miraculous nature and the authenticity of the Prophet's mission.
 <!-- The Qur'an presents a remarkable convergence of signs pointing to its divine origin. Its mode of revelation, a literary character that its first and most capable audience could not answer, and intricate composition stand alongside the historical and natural knowledge preserved in its text, the numerical patterns running through it, its fulfilled predictions, extraordinary preservation, depth of guidance, and its relationship with the Messenger ﷺ. Taken together, they form a powerful and comprehensive case that the Qur'an is what it declares itself to be: revelation from God. -->
 
 ### <span class="num-roman">I.</span> How the Qur'an Emerged
@@ -886,7 +888,7 @@ It also describes features of that world with remarkable precision, including ob
 ### <span class="num-roman">VII.</span> Numerical Patterns
 {: #numerical-patterns }
 
-The Qur'an contains a number of striking numerical relationships across its **114 chapters**, each composed of verses in Arabic. They appear in the recurrence of particular words, grammatical forms, letters, verses, and chapter structures. Some involve concepts that the Qur'an itself explicitly connects or contrasts; others lie within the structure of individual chapters.
+The Qur'an contains a number of striking numerical patterns and relationships across its 114 chapters, each composed of verses in Arabic. They appear in the recurrence of particular words, grammatical forms, letters, verses, and chapter structures. Some involve concepts that the Qur'an itself explicitly connects or contrasts; others lie within the structure of individual chapters.
 
 The strongest examples are those whose counting rules are clear and reproducible. The examples below therefore assign no arbitrary numerical values to letters and draw no comparisons from loosely related words.
 
@@ -900,14 +902,12 @@ These patterns are especially remarkable in light of how the Qur'an was revealed
     > **“Indeed, the example of Jesus before God is like that of Adam.”** (3:59)
     >
     > Across the entire Qur'an, the proper name **Adam occurs 25 times and Jesus occurs 25 times**. Even more strikingly, the **seventh occurrence of each name** from the beginning of the Qur'an falls in 3:59—the very verse that directly compares them.
-    >
-    > This count requires no grouping of synonyms or related words: it takes only the two proper names whose relationship the Qur'an itself states.
     {: .gloss }
 
 1. **This world and the Hereafter:** the Qur'an sets *dunyā* [this worldly life] against *ākhirah* [the Hereafter] as one of its central contrasts, repeatedly asking people not to sacrifice the lasting life to come for the temporary attractions of the present one.
     > *Dunyā* occurs **115 times**, and *ākhirah* also occurs **115 times**.
     >
-    > The equality is especially notable because these two concepts were not selected merely because their totals happen to match; the Qur'an itself repeatedly sets them against one another.
+    > The equality is especially notable because the Qur'an repeatedly sets them against one another.
     {: .gloss }
 
 1. **Angels and devils:** the Qur'an presents angels and devils as opposing spiritual influences throughout, and names them equally often. Counting the grammatical forms of the Arabic noun *malak* [angel] gives **88 occurrences**, and the same rule applied to *shayṭān* [Satan or devil] also gives **88 occurrences**.
@@ -951,9 +951,7 @@ These patterns are especially remarkable in light of how the Qur'an was revealed
     {: .gloss }
 
 1. **The middle of Sūrat al-Baqarah:** Sūrat al-Baqarah, the Qur'an's longest chapter, contains **286 verses**, which divide exactly into two groups of **143 verses**.
-    > At the dividing point, verse **143** describes the believers as an **“ummatan wasaṭan”**—a *middle*, balanced, or justly balanced community.
-    >
-    > Verses 1–143 form the first group of 143, and verses 144–286 the second. The Qur'an's longest chapter therefore describes the Muslim community as “middle” precisely at its own numerical middle division.
+    > At the dividing point, verse **143** describes the believers as an **“ummatan wasaṭan”**—a *middle*, balanced, or justly balanced community. The Qur'an's longest chapter therefore describes the Muslim community as "middle" precisely at its own numerical middle division.
     {: .gloss }
 
 <div class="read-more read-more--tail" markdown="1">
