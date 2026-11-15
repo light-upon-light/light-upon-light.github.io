@@ -1438,19 +1438,19 @@ These teachings join patience and hope to the duty to relieve suffering and resi
     > Note: "Allah" is the Arabic word for God, not the name of a different deity. Arabic-speaking Christians and Jews use "Allah" in their own speech, scriptures and worship. The word also shares a root with the Hebrew *Elohim* and Aramaic *Alaha*, which Jesus himself would have used.
     {: .gloss }
 
-1. The Qur'an repeatedly presents mercy as a defining attribute of God. All but one of its chapters open with the invocation, "In the name of God, the Most Compassionate, the Most Merciful." Muslims are taught to say these words before beginning their actions, so mercy frames not only the Qur'an but the rhythm of everyday life.
+1. The Qur'an repeatedly presents mercy as a defining attribute of God. All but one of its chapters open with the invocation, "In the name of God, the Most Compassionate, the Most Merciful." Muslims are taught to say these words before beginning any action, so they open ordinary tasks as well as the chapters of the Qur'an.
     > "My mercy encompasses all things." (**Sūrat al-Aʿrāf 7:156**)
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَرَحْمَتِى وَسِعَتْ كُلَّ شَىْءٍ﴾ <span class="ayah-ref">[سُورَةُ الأَعۡرَافِ: ١٥٦]</span></div>
     {: .quote }
 
-1. The Qur'an keeps forgiveness open for every sin, however far a person has gone, and tells people never to despair of God's mercy.
+1. It keeps forgiveness open for every sin, however far a person has gone, and tells people never to despair of God's mercy.
     > "Say, 'O My servants who have transgressed against themselves [by sinning], do not despair of the mercy of Allāh. Indeed, Allāh forgives all sins. Indeed, it is He who is the Forgiving, the Merciful.'" (**Sūrat al-Zumar 39:53**)
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿۞ قُلْ يَـٰعِبَادِىَ ٱلَّذِينَ أَسْرَفُوا۟ عَلَىٰٓ أَنفُسِهِمْ لَا تَقْنَطُوا۟ مِن رَّحْمَةِ ٱللَّهِ ۚ إِنَّ ٱللَّهَ يَغْفِرُ ٱلذُّنُوبَ جَمِيعًا ۚ إِنَّهُۥ هُوَ ٱلْغَفُورُ ٱلرَّحِيمُ ۝٥٣﴾ <span class="ayah-ref">سُورَةُ الزُّمَرِ</span></div>
     {: .quote }
 
-1. The Qur'an places genuine character above hollow ritual: worship that leaves a person cruel is rejected.
+1. It places character above shallow outward ritual, and it condemns religiousity that leaves a person cruel.
     > "Righteousness is not in turning your faces towards the east or the west. Rather, the righteous are those who believe in Allah, the Last Day, the angels, the Books, and the prophets; who give charity out of their cherished wealth to relatives, orphans, the poor, ˹needy˺ travellers, beggars, and for freeing captives; who establish prayer, pay alms-tax, and keep the pledges they make; and who are patient in times of suffering, adversity, and in ˹the heat of˺ battle. It is they who are true ˹in faith˺, and it is they who are mindful ˹of Allah˺." (**Sūrat al-Baqarah 2:177**)
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿۞ لَّيْسَ ٱلْبِرَّ أَن تُوَلُّوا۟ وُجُوهَكُمْ قِبَلَ ٱلْمَشْرِقِ وَٱلْمَغْرِبِ وَلَـٰكِنَّ ٱلْبِرَّ مَنْ ءَامَنَ بِٱللَّهِ وَٱلْيَوْمِ ٱلْـَٔاخِرِ وَٱلْمَلَـٰٓئِكَةِ وَٱلْكِتَـٰبِ وَٱلنَّبِيِّـۧنَ وَءَاتَى ٱلْمَالَ عَلَىٰ حُبِّهِۦ ذَوِى ٱلْقُرْبَىٰ وَٱلْيَتَـٰمَىٰ وَٱلْمَسَـٰكِينَ وَٱبْنَ ٱلسَّبِيلِ وَٱلسَّآئِلِينَ وَفِى ٱلرِّقَابِ وَأَقَامَ ٱلصَّلَوٰةَ وَءَاتَى ٱلزَّكَوٰةَ وَٱلْمُوفُونَ بِعَهْدِهِمْ إِذَا عَـٰهَدُوا۟ ۖ وَٱلصَّـٰبِرِينَ فِى ٱلْبَأْسَآءِ وَٱلضَّرَّآءِ وَحِينَ ٱلْبَأْسِ ۗ أُو۟لَـٰٓئِكَ ٱلَّذِينَ صَدَقُوا۟ ۖ وَأُو۟لَـٰٓئِكَ هُمُ ٱلْمُتَّقُونَ ۝١٧٧﴾ <span class="ayah-ref">سُورَةُ البَقَرَةِ</span></div>
@@ -1458,7 +1458,7 @@ These teachings join patience and hope to the duty to relieve suffering and resi
 
 1. It commands honesty, humility, patience, restraint in anger, and keeping one's word, while forbidding backbiting, mockery, contempt, and suspicion of others.
 
-1. It treats care for others—especially the weak and dependent—as a duty across relationships: spouses, children, parents in old age, relatives, orphans, the poor, travelers, debtors, captives, servants, and those in one's charge.
+1. It makes care for others a duty: spouses, children, parents in old age, relatives, orphans, the poor, travelers, debtors, captives, servants, and those in one's charge. And it puts extra focus on the weak and dependent.
 
 <div class="read-more read-more--tail" markdown="1">
 
@@ -1468,19 +1468,19 @@ These teachings join patience and hope to the duty to relieve suffering and resi
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَفِىٓ أَمْوَٰلِهِمْ حَقٌّ لِّلسَّآئِلِ وَٱلْمَحْرُومِ ۝١٩﴾ <span class="ayah-ref">سُورَةُ الذَّارِيَاتِ</span></div>
     {: .quote }
 
-1. It equates neglect of the orphan and poor with rejection of the religion itself.
+1. It treats neglect of the orphan and the poor as a denial of the religion.
     > "Have you seen the one who denies the ˹final˺ Judgment? That is the one who repulses the orphan and does not encourage the feeding of the poor." (**Sūrat al-Māʿūn 107:1–3**)
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿أَرَءَيْتَ ٱلَّذِى يُكَذِّبُ بِٱلدِّينِ ۝١ فَذَٰلِكَ ٱلَّذِى يَدُعُّ ٱلْيَتِيمَ ۝٢ وَلَا يَحُضُّ عَلَىٰ طَعَامِ ٱلْمِسْكِينِ ۝٣﴾ <span class="ayah-ref">سُورَةُ المَاعُونِ</span></div>
     {: .quote }
 
-1. It treats a single life as standing for all of humanity: to kill one person unjustly is as though one had killed everyone, and to save one is as though one had saved everyone.
+1. It gives a single life the weight of all humanity. To kill one person unjustly is as though one had killed all, and to save one is as though one had saved all.
     > "That is why We ordained for the Children of Israel that whoever takes a life—unless as a punishment for murder or mischief in the land—it will be as if they killed all of humanity; and whoever saves a life, it will be as if they saved all of humanity." (**Sūrat al-Māʾidah 5:32**)
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿مِنْ أَجْلِ ذَٰلِكَ كَتَبْنَا عَلَىٰ بَنِىٓ إِسْرَٰٓءِيلَ أَنَّهُۥ مَن قَتَلَ نَفْسًۢا بِغَيْرِ نَفْسٍ أَوْ فَسَادٍ فِى ٱلْأَرْضِ فَكَأَنَّمَا قَتَلَ ٱلنَّاسَ جَمِيعًا وَمَنْ أَحْيَاهَا فَكَأَنَّمَآ أَحْيَا ٱلنَّاسَ جَمِيعًا﴾ <span class="ayah-ref">[سُورَةُ المَائـِدَةِ: ٣٢]</span></div>
     {: .quote }
 
-1. It requires justice even when justice runs against one's own feelings or interests: hatred of another people cannot justify wrongdoing, and testimony must be given even against one's own people, close relatives, parents, or oneself.
+1. It requires justice even against one's own feelings and interests.Hatred of a people does not excuse wronging them, and testimony must be honest even against oneself, one's parents, close relatives, or one's own people.
     > "O believers! Stand firm for Allah and bear true testimony. Do not let the hatred of a people lead you to injustice. Be just! That is closer to righteousness. And be mindful of Allah. Surely Allah is All-Aware of what you do." (**Sūrat al-Māʾidah 5:8**)
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ كُونُوا۟ قَوَّٰمِينَ لِلَّهِ شُهَدَآءَ بِٱلْقِسْطِ ۖ وَلَا يَجْرِمَنَّكُمْ شَنَـَٔانُ قَوْمٍ عَلَىٰٓ أَلَّا تَعْدِلُوا۟ ۚ ٱعْدِلُوا۟ هُوَ أَقْرَبُ لِلتَّقْوَىٰ ۖ وَٱتَّقُوا۟ ٱللَّهَ ۚ إِنَّ ٱللَّهَ خَبِيرٌۢ بِمَا تَعْمَلُونَ ۝٨﴾ <span class="ayah-ref">سُورَةُ المَائـِدَةِ</span></div>
@@ -1493,13 +1493,13 @@ These teachings join patience and hope to the duty to relieve suffering and resi
     {: .quote }
     </div>
 
-1. It rejects status based on ancestry, tribe, wealth, gender, or color as a measure of a person's worth before God. The measure is character and conduct alone; the most honorable people are those most conscious of God.
+1. It rejects ancestry, tribe, wealth, gender, and color as measures of a person's worth before God. What counts is character and conduct, and the most honorable are those most God conscious.
     > "O humanity! Indeed, We created you from a male and a female, and made you into peoples and tribes so that you may ˹get to˺ know one another. Surely the most noble of you in the sight of Allah is the most righteous among you. Allah is truly All-Knowing, All-Aware." (**Sūrat al-Ḥujurāt 49:13**)
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿يَـٰٓأَيُّهَا ٱلنَّاسُ إِنَّا خَلَقْنَـٰكُم مِّن ذَكَرٍ وَأُنثَىٰ وَجَعَلْنَـٰكُمْ شُعُوبًا وَقَبَآئِلَ لِتَعَارَفُوٓا۟ ۚ إِنَّ أَكْرَمَكُمْ عِندَ ٱللَّهِ أَتْقَىٰكُمْ ۚ إِنَّ ٱللَّهَ عَلِيمٌ خَبِيرٌ ۝١٣﴾ <span class="ayah-ref">سُورَةُ الحُجُرَاتِ</span></div>
     {: .quote }
 
-1. It places forgiveness and reconciliation above retaliation. A person may answer a wrong in equal measure but no further, yet forgiveness is presented as the better path, and its higher aim is to turn hostility into friendship.
+1. It places forgiveness and reconciliation above retaliation. A person may answer a wrong in equal measure but no further, however forgiveness is clearly stated to be the better path, with the aim of turning animosity into friendship.
     > "The reward of an evil deed is its equivalent. But whoever pardons and seeks reconciliation, then their reward is with Allah. He certainly does not like the wrongdoers." (**Sūrat al-Shūrā 42:40**)
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَجَزَٰٓؤُا۟ سَيِّئَةٍ سَيِّئَةٌ مِّثْلُهَا ۖ فَمَنْ عَفَا وَأَصْلَحَ فَأَجْرُهُۥ عَلَى ٱللَّهِ ۚ إِنَّهُۥ لَا يُحِبُّ ٱلظَّـٰلِمِينَ ۝٤٠﴾ <span class="ayah-ref">سُورَةُ الشُّورَىٰ</span></div>
@@ -1512,7 +1512,7 @@ These teachings join patience and hope to the duty to relieve suffering and resi
     {: .quote }
     </div>
 
-1. It rejects compulsion in religion. Rather than demanding belief by force, the Qur'an repeatedly calls people to look, question, reason, and reflect, contemplating God's signs with both mind and heart.
+1. It rejects compulsion in religion. Instead of forcing belief, the Qur'an repeatedly asks people to question, reason, and reflect on God's signs, with the heart as well as the mind.
     > "Let there be no compulsion in religion, for the truth stands out clearly from falsehood. So whoever renounces false gods and believes in Allah has certainly grasped the firmest, unfailing hand-hold. And Allah is All-Hearing, All-Knowing." (**Sūrat al-Baqarah 2:256**)
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿لَآ إِكْرَاهَ فِى ٱلدِّينِ ۖ قَد تَّبَيَّنَ ٱلرُّشْدُ مِنَ ٱلْغَىِّ ۚ فَمَن يَكْفُرْ بِٱلطَّـٰغُوتِ وَيُؤْمِنۢ بِٱللَّهِ فَقَدِ ٱسْتَمْسَكَ بِٱلْعُرْوَةِ ٱلْوُثْقَىٰ لَا ٱنفِصَامَ لَهَا ۗ وَٱللَّهُ سَمِيعٌ عَلِيمٌ ۝٢٥٦﴾ <span class="ayah-ref">سُورَةُ البَقَرَةِ</span></div>
@@ -1529,7 +1529,7 @@ These teachings join patience and hope to the duty to relieve suffering and resi
     {: .quote }
     </div>
 
-1. It does not demand more than a person can bear. Religious obligations are not intended to impose undue hardship: there is no monasticism or celibacy, and duties are eased or lifted in cases of hardship, illness, travel, and coercion.
+1. It does not ask more of a person than they can bear. Its duties are meant to be livable: there is no monasticism or required celibacy, and duties are eased or lifted in hardship, illness, travel, and coercion.
     > "Allah does not require of any soul more than what it can afford." (**Sūrat al-Baqarah 2:286**)
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿لَا يُكَلِّفُ ٱللَّهُ نَفْسًا إِلَّا وُسْعَهَا﴾ <span class="ayah-ref">[سُورَةُ البَقَرَةِ: ٢٨٦]</span></div>
@@ -1542,7 +1542,7 @@ These teachings join patience and hope to the duty to relieve suffering and resi
     {: .quote }
     </div>
 
-1. It anchors morality in accountability before God, both seen and unseen. A person may think they have escaped the consequences of wrongdoing because no immediate outward punishment follows, but the Qur'an presents actions as having real consequences in the hidden spiritual order of this life as well as in the next. What a person does ultimately returns to them in one form or another, unless they turn back to God and set things right. Repentance, however, wipes sins away completely, and even turns evil deeds into good ones.
+1. It grounds morality in accountability before God. A person may think they have escaped a wrong because no outward consequences follows, but in the Qur'an every deed has consequences, in the hidden spiritual order of this life as well as the next. What a person does comes back to them unless they turn to God and make amends. Repentance erases sins entirely, and even turns evil deeds into good ones.
     > "So whoever does an atom's weight of good will see it. And whoever does an atom's weight of evil will see it." (**Sūrat al-Zalzalah 99:7–8**)
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿فَمَن يَعْمَلْ مِثْقَالَ ذَرَّةٍ خَيْرًا يَرَهُۥ ۝٧ وَمَن يَعْمَلْ مِثْقَالَ ذَرَّةٍ شَرًّا يَرَهُۥ ۝٨﴾ <span class="ayah-ref">سُورَةُ الزَّلۡزَلَةِ</span></div>
@@ -1567,7 +1567,7 @@ These teachings join patience and hope to the duty to relieve suffering and resi
     {: .quote }
     </div>
 
-1. The Qur'an rejects inherited guilt: no one is born owing another's moral debt, and no soul bears another's burden.
+1. It rejects inherited guilt. No one is born carrying another's moral debt, and no soul bears another's burden.
     > "That no bearer of burdens will bear the burden of another. And that there is not for man except that [good] for which he strives." (**Sūrat al-Najm 53:38–39**)
     >
     > <div dir="rtl" lang="ar" class="quran-arabic">﴿أَلَّا تَزِرُ وَازِرَةٌ وِزْرَ أُخْرَىٰ ۝٣٨ وَأَن لَّيْسَ لِلْإِنسَـٰنِ إِلَّا مَا سَعَىٰ ۝٣٩﴾ <span class="ayah-ref">سُورَةُ النَّجۡمِ</span></div>
