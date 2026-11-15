@@ -97,6 +97,8 @@ $wheat: #d9b483;
 $wheat-pale: #e8cea3;
 $verdigris: #2e6b63;
 $verdigris-bright: #4fa89c;
+$madder: #a8402e;
+$madder-bright: #cf6650;
 
 $white: #fff;
 $black: #000;
@@ -196,7 +198,8 @@ $black: #000;
   --site-evidence-rule: #{$gold-tint}; // .ev-id upright rule (bar evidence style); decorative, no contrast floor
   --site-evidence-fill: #{rgba($gold, 0.12)}; // .ev-id chip (fill evidence style), under --site-quote-gold text
   --site-src-text: #{$umber-50}; // blockquote.src text, .yt-embed summary, breadcrumb current crumb, quran-return text
-  --site-src-border: #{$umber-67}; // blockquote.src / .yt-embed / .quran-return border
+  --site-src-border: #{$umber-67}; // blockquote.src / .quran-return border
+  --site-video-border: #{$madder}; // .yt-embed border: video red, so a link reads as a video at a glance
   --site-gloss-border: #{$verdigris}; // blockquote.gloss border
   --site-gloss-bg: #{rgba($verdigris, 0.05)}; // blockquote.gloss background wash
   --site-glosskey-bg: #{$sand-92}; // .glossary-key parchment fill -- no rule, so it can't be mistaken for a .gloss panel
@@ -325,6 +328,7 @@ $black: #000;
   --site-evidence-fill: #{rgba($gold-bright, 0.14)};
   --site-src-text: #{$umber-74};
   --site-src-border: #{$umber-60};
+  --site-video-border: #{$madder-bright};
   --site-gloss-border: #{$verdigris-bright};
   --site-gloss-bg: #{rgba($verdigris-bright, 0.08)};
   --site-glosskey-bg: #{$night-25};

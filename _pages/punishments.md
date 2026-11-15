@@ -73,9 +73,7 @@ A *hadd* is not the worldly price a sinner must pay for committing the sin, nor 
 > <div dir="rtl" lang="ar" class="quran-arabic">﴿إِلَّا مَن تَابَ وَءَامَنَ وَعَمِلَ عَمَلًۭا صَـٰلِحًۭا فَأُو۟لَـٰٓئِكَ يُبَدِّلُ ٱللَّهُ سَيِّـَٔاتِهِمْ حَسَنَـٰتٍۢ ۗ وَكَانَ ٱللَّهُ غَفُورًۭا رَّحِيمًۭا ۝٧٠﴾ <span class="ayah-ref">سُورَةُ الفُرْقَانِ</span></div>
 {: .quote }
 
-<details class="quran-more" markdown="1">
-
-<summary>More Qur'anic verses on God's mercy and forgiveness</summary>
+<div class="read-more" data-label="More Qur'anic verses on God's mercy and forgiveness" markdown="1">
 
 > “Whoever commits evil or wrongs themselves then seeks God's forgiveness will certainly find God All-Forgiving, Most Merciful.” (**Sūrat al-Nisāʾ 4:110**)
 >
@@ -87,7 +85,7 @@ A *hadd* is not the worldly price a sinner must pay for committing the sin, nor 
 > <div dir="rtl" lang="ar" class="quran-arabic">﴿وَهُوَ ٱلَّذِى يَقْبَلُ ٱلتَّوْبَةَ عَنْ عِبَادِهِۦ وَيَعْفُوا۟ عَنِ ٱلسَّيِّـَٔاتِ وَيَعْلَمُ مَا تَفْعَلُونَ ۝٢٥﴾ <span class="ayah-ref">سُورَةُ الشُّورَىٰ</span></div>
 {: .quote }
 
-</details>
+</div>
 
 The *hudud* belong to a different sphere: the public legal order. A concealed wrong may remain between the individual and God. A fixed punishment becomes a matter for the courts only when conduct enters the legal sphere and is established through the forms of proof the law recognizes.
 

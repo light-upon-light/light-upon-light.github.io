@@ -105,9 +105,7 @@ These teachings are not peripheral to Qur'an 4:34. They establish the framework 
 
 Whatever *waḍribūhunna* ultimately means, it cannot legitimately mean that a husband is free to injure, cruelly mistreat, or abuse his wife. Nor does Islamic law teach that a wife who is harmed must simply endure it; as discussed below, serious marital harm can give rise to legal remedies and separation.
 
-<details class="quran-more" markdown="1">
-
-<summary>Show further Qur'anic and Prophetic teachings on marriage and harm</summary>
+<div class="read-more" data-label="Show further Qur'anic and Prophetic teachings on marriage and harm" markdown="1">
 
 The Qur'an commands decency even when a marriage ends:
 
@@ -175,7 +173,7 @@ The Prophet also served his family and participated in household work. In marita
 
 The Qur'an also describes believing men and women as allies of one another (Qur'an 9:71) and repeatedly assigns men and women the same moral responsibility before God (Qur'an 16:97; 33:35).
 
-</details>
+</div>
 
 For a fuller discussion of Islam's teachings concerning women, see [Islam and Women](/women).
 

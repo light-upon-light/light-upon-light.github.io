@@ -80,8 +80,7 @@ Read by itself, the verse can sound like a general command to fight non-Muslims 
 
 Elsewhere, the Qur'an restricts fighting, rejects compelled belief, and requires fairness toward non-Muslims who are not fighting Muslims. These passages distinguish enemies at war from non-Muslims at peace, reject forced belief, and allow the fighting in verse 9:29 to end without conversion.
 
-<details class="quran-more" markdown="1">
-<summary>Show the Qur'anic passages that frame this reading</summary>
+<div class="read-more" data-label="Show the Qur'anic passages that frame this reading" markdown="1">
 
 > "Fight in the cause of Allah ˹only˺ against those who wage war against you, but do not exceed the limits. Allah does not like transgressors" (**Sūrat al-Baqarah 2:190**)
 >
@@ -98,7 +97,7 @@ Elsewhere, the Qur'an restricts fighting, rejects compelled belief, and requires
 > <div dir="rtl" lang="ar" class="quran-arabic">﴿لَّا يَنْهَىٰكُمُ ٱللَّهُ عَنِ ٱلَّذِينَ لَمْ يُقَـٰتِلُوكُمْ فِى ٱلدِّينِ وَلَمْ يُخْرِجُوكُم مِّن دِيَـٰرِكُمْ أَن تَبَرُّوهُمْ وَتُقْسِطُوٓا۟ إِلَيْهِمْ ۚ إِنَّ ٱللَّهَ لَا يُحِبُّ ٱلْمُقْسِطِينَ ۝٨﴾ <span class="ayah-ref">سُورَةُ المُمۡتَحنَةِ</span></div>
 {: .quote }
 
-</details>
+</div>
 
 The closing phrase, *ʿan yadin wa-hum ṣāghirūn*, has been interpreted in different ways. *ʿAn yadin* literally means "from a hand"; exegetes understood it as direct or willing payment, payment made under the authority of the state, or payment according to one's means. The tiered rates in the legal literature fit the last of these readings.[6](#ref-6){: .footnote}
 

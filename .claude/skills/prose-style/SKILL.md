@@ -151,7 +151,8 @@ do not make the contrast themselves.
 
 ## Mechanics
 
-- Em dashes are unspaced and used rarely.
+- Em dashes are unspaced and used rarely. (The spaced dash after a point's
+  title is a line marker, not prose; see `formatting_guide.md`.)
 - Bold is for labels and titles. In running prose, use it rarely and
   deliberately, only where the reader would otherwise miss what matters most.
   If removing it loses nothing, remove it.

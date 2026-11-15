@@ -381,7 +381,7 @@ top corners — plus all four corners when closed, since nothing then sits
 below it to carry the bottom pair. It has no theme rule of its own to
 inherit, which is why this is the one title rule `site.scss` still carries.
 Two restyles were tried and both are reverted: a muted uppercase eyebrow over
-a hairline (the `.quran-more` / `.yt-embed` idiom, applied to the desktop
+a hairline (the `.yt-embed` idiom, applied to the desktop
 title as well), then that eyebrow filled with `--mm-border-color` over a
 faint wash on the box — in the light palette the cream fill read as a yellow
 smear, and dropping the theme's padding and radii left the label and the

@@ -1625,7 +1625,9 @@
    site.scss. Independent of everything above.
    Progressive enhancement: with no JS nothing is clamped and there is no
    button, so the full body shows. A body short enough to fit the clamp is
-   left alone rather than given a button that reveals nothing.
+   left alone rather than given a button that reveals nothing. A box that
+   can't be measured yet (a point's extra verses inside a folded tail item)
+   gets its button now and that check once it is first shown.
    -------------------------------------------------------------------------- */
 
   (function () {
@@ -1639,10 +1641,16 @@
       var items = tail && only && only.tagName === "OL" &&
                   only.children.length > 1 ? only.children : null;
       var shown = 0;
+      var unmeasured = false;
+
+      function fits() {
+        return box.scrollHeight <= box.clientHeight + 1;
+      }
 
       if (!items) {
         box.classList.add("is-clamped");
-        if (box.scrollHeight <= box.clientHeight + 1) {
+        unmeasured = !box.getClientRects().length;
+        if (!unmeasured && fits()) {
           box.classList.remove("is-clamped");
           return;
         }
@@ -1659,6 +1667,18 @@
       actions.appendChild(btn);
       box.parentNode.insertBefore(actions, box.nextSibling);
 
+      if (unmeasured && window.ResizeObserver) {
+        var watch = new ResizeObserver(function () {
+          if (!box.getClientRects().length) return;
+          watch.disconnect();
+          if (box.classList.contains("is-clamped") && fits()) {
+            box.classList.remove("is-clamped");
+            actions.remove();
+          }
+        });
+        watch.observe(box);
+      }
+
       var allBtn = null;
       if (items) {
         allBtn = document.createElement("button");
@@ -1671,8 +1691,11 @@
 
       function render(open) {
         btn.setAttribute("aria-expanded", open ? "true" : "false");
+        // A box may name what it holds (data-label="Show more verses on
+        // this theme"); "Show less" needs no such help.
         btn.textContent = open ? "Show less"
-                               : items ? "Show one more" : "Show more";
+                               : items ? "Show one more"
+                               : box.getAttribute("data-label") || "Show more";
       }
 
       function showItems() {

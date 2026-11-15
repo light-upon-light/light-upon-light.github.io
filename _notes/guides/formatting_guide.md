@@ -47,7 +47,7 @@ Every article page opens with one, above the intro paragraphs:
 
 It is **collapsed by default** on every page: the summaries run to several
 paragraphs and pushed the article's own opening below the fold. `markdown="1"`
-on the tag is required, as it is for `.quran-more` — without it kramdown
+on the tag is required, as it is for `.read-more` — without it kramdown
 treats the block as opaque raw HTML and never parses the prose inside.
 
 An always-open variant is still supported end to end, in case a page ever
@@ -110,16 +110,14 @@ empty input.
 
 ## Collapsible boxes
 
-Secondary material folds into a closed `<details class="quran-more"
-markdown="1">` whose `<summary>` uses theme wording: "Show more verses on this
-theme", "Show another verse on this theme".
-`markdown="1"` is required, or kramdown passes the block through as raw HTML
-and never parses the quotes inside. Leave a blank line after `</summary>`, so
-the body never starts on the line right under the summary.
-
-- **Verse box**, inside a list item: the point's first verse stays visible and
-  the rest go in the box, its tags indented four spaces like the item's other
-  blocks.
+Secondary material (a point's extra verses, more videos, further reading)
+goes in a `<div class="read-more" data-label="…" markdown="1">`: the
+read-more clamp below, a faded teaser whose button reads the label ("Show
+more verses on this theme", "Show another verse on this theme") and turns to
+"Show less". `markdown="1"` is required, or kramdown passes the block through
+as raw HTML and never parses what is inside. Inside a list item the point's
+first verse stays visible and the tags are indented four spaces like the
+item's other blocks.
 
 **Read-more clamp**: a whole section hidden by default — everything under a
 heading, lead paragraph included — goes in `<div class="read-more"
@@ -132,8 +130,7 @@ markdown="1">`: each click of "Show one more" reveals one example, and "Show
 all" beside it reveals the rest (keep the
 tail's body a single numbered list for that to work). The teaser is a couple
 of lines; `read-more--long` keeps more in view, only for quran.md's "Why
-Read This?", whose opening is the point. A closed `<details>` of the article's own prose, if one is ever
-wanted again, is `quran-more quran-more--plain`.
+Read This?", whose opening is the point.
 
 Never put a heading inside a box, or the TOC and scrollspy point at hidden
 content; `quran.md`'s preservation box is the one standing exception. A box
@@ -150,9 +147,13 @@ sub-heading or closed box splits it into, and drops the list marker and
 indent. So `{: start="N"}` no longer sets what readers see there. Keep it
 anyway: it is what a reader without JavaScript gets. Author the points as
 ordinary `1.` items. A point may run to several paragraphs: indent the later
-ones under the item like its quotes. A point with a short title puts it alone
-on the item's first line with no colon, optionally in bold, and starts its text as the
-next paragraph. Each label links to its point at
+ones under the item like its quotes. A point with a short title, optionally
+in bold, never follows it with a colon: its first paragraph follows the
+title on the same line after a spaced em dash, `1. **Seven heavens** — The
+Qur'an…`, however many paragraphs the point has. The dash is a line marker
+here, not punctuation, so it takes spaces (unlike the prose-style rule) and
+the text starts with a capital. Put the title alone on the item's first line,
+with the text as the next paragraph, only when the author asks for it. Each label links to its point at
 `#<heading-id>-<n>` (`/quran#literary-miracle-14`), so inserting a point
 renumbers the rest of its section and moves those links.
 

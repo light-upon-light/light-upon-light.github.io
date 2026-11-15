@@ -671,39 +671,6 @@
     font-size: 0.85em;
   }
 
-  /* Same call for .quran-more (collapsible boxes, see formatting_guide.md) --
-     its own "Show ..." summary is apparatus like .yt-embed's "Watch: ...",
-     so it gets the same undo-and-hold-at-0.85em treatment. The quotes inside
-     do NOT come out right on their own: the 0.765em pin above is relative to
-     .page__content, and inside this 0.85em hold it compounds to 0.65em of
-     root (measured 10.4px against 12.24px outside a box). 0.9em of the hold
-     restores the 0.765em every other quotation lands on. */
-  [data-font-size="large"] .page__content .quran-more {
-    font-size: 0.85em;
-  }
-
-  [data-font-size="large"] .page__content .quran-more blockquote {
-    font-size: 0.9em;
-  }
-
-  /* ...except the plain form (.quran-more--plain, below), whose content is
-     the article's own prose and must grow with the toggle like everything
-     around it. (0,4,0) beats the hold above; the summary alone is pinned
-     back to the 0.765em of root the other "Show ..." labels land on (their
-     0.9em of the held 0.85em). */
-  [data-font-size="large"] .page__content .quran-more.quran-more--plain {
-    font-size: 1em;
-  }
-
-  [data-font-size="large"] .page__content .quran-more--plain > summary {
-    font-size: 0.765em;
-  }
-
-  /* Not held, so its quotes go back to the plain 0.765em pin. */
-  [data-font-size="large"] .page__content .quran-more--plain blockquote {
-    font-size: 0.765em;
-  }
-
   /* The TOC widget (nav.toc, both the desktop sticky sidebar and the
      mobile inline version) renders inside .page__content, so without this
      it inherits the reduction above and reads smaller than the rest of
@@ -1084,16 +1051,23 @@
      start value to that reset (verified in the browser -- margin-inline
      and padding-inline aren't first-child properties, so they don't hit
      it, and font-size has no competing rule at all). */
+  /* Shared with .yt-embed, which draws the same rule on a <details> and so
+     isn't reached by this selector: it converts the indent to its own size
+     from these, so the two rules always line up. */
+  $quote-size: 0.9;
+  $quote-indent: 0.5em;
+  $quote-indent-wide: 1.5em;
+
   .page__content blockquote {
     margin-block: 1.3em !important;
-    margin-inline: 0.5em 0;
+    margin-inline: $quote-indent 0;
     padding-inline: 0.85em;
-    font-size: 0.9em;
+    font-size: $quote-size * 1em;
   }
 
   @media (min-width: 48em) {
     .page__content blockquote {
-      margin-inline: 1.5em 1em;
+      margin-inline: $quote-indent-wide 1em;
       padding-inline: 1em;
     }
   }
@@ -1304,7 +1278,7 @@
      authored as a <details> with its label inside the <summary>. The
      summaries run to several paragraphs and pushed the article's own opening
      below the fold. No JS -- the element gives closed-by-default state and keyboard
-     toggling for free, the same reason .yt-embed and .quran-more use it.
+     toggling for free, the same reason .yt-embed uses it.
      `markdown="1"` on the tag is required, as it is there -- without it
      kramdown treats the whole block as opaque raw HTML and never parses the
      prose inside.
@@ -1547,8 +1521,8 @@
   /* ---- Read-more clamp (.read-more) ---------------------------------------
 
      A section body shown as its first few lines, fading out, with a "Show
-     more" toggle (quran.md's hidden sections and section tails). Unlike .quran-more,
-     the start of the content is the teaser, so a <details> -- which shows
+     more" toggle (quran.md's hidden sections, section tails and extra verses).
+     The start of the content is the teaser, so a <details> -- which shows
      nothing but its summary when closed -- cannot do it. site.js adds
      `.is-clamped` and the button, so a reader without JS, and print, get
      the whole body. The fade is a mask rather than a gradient overlay:
@@ -1601,12 +1575,14 @@
     max-height: 13em;
   }
 
-  /* A flush-left row under the fade, where the reader is when they want
-     more; left so it never stacks on the centred .intro-toggles pill. It
-     holds one toggle, or "Show one more" and "Show all" side by side. */
+  /* A row under the fade, where the reader is when they want more; the
+     toggle is flush left so it never stacks on the centred .intro-toggles
+     pill. It holds one toggle, or "Show one more" with "Show all" pushed
+     to the far right. */
   .page__content .read-more__actions {
     display: flex;
     flex-wrap: wrap;
+    justify-content: space-between;
     gap: 0.4em 2em;
     margin: 0.4em 0 1.6em;
   }
@@ -1768,10 +1744,19 @@
      apparatus as a source citation -- it recedes rather than asserting.
      <details>/<summary> gives closed-by-default and keyboard toggling for
      free, so there is no open/close JS to write. */
+  /* Indented like the quotes it sits among, so its rule lines up with
+     theirs. Not a blockquote, so it doesn't get their indent; the $quote-*
+     values above set both, scaled from the quote's font size to this one. */
   .yt-embed {
-    margin: 0.6em 0;
-    border-inline-start: 0.1875em solid var(--site-src-border);
+    margin: 0.6em 0 0.6em $quote-indent * $quote-size;
+    border-inline-start: 0.1875em solid var(--site-video-border);
     padding-inline-start: 0.75em;
+  }
+
+  @media (min-width: 48em) {
+    .yt-embed {
+      margin-inline-start: $quote-indent-wide * $quote-size;
+    }
   }
 
   /* The gap above a video link after body text is the <p>'s own ~1.3em
@@ -1792,78 +1777,33 @@
     display: none;
   }
 
+  /* The drawn chevron of .read-more__toggle, but before the label and
+     pointing right while closed, down once open, as a disclosure does. */
   .yt-embed > summary::before {
-    content: "\25b8";
+    content: "";
     display: inline-block;
-    width: 1em;
+    width: 0.42em;
+    height: 0.42em;
+    margin-inline: 0.1em 0.75em;
+    border-right: 1.5px solid currentColor;
+    border-bottom: 1.5px solid currentColor;
+    vertical-align: middle;
+    transform: translateY(-0.1em) rotate(-45deg);
     transition: transform 0.2s ease;
   }
 
   .yt-embed[open] > summary::before {
-    transform: rotate(90deg);
+    transform: translateY(-0.25em) rotate(45deg);
   }
 
   .yt-embed__note {
     opacity: 0.75;
   }
 
-  /* Collapsible "further verses" wrapper for multi-quote points in the
-     article pages -- closed by default so a point's second, third, etc.
-     supporting verse doesn't force the whole list open. Same
-     taupe/sepia treatment as .yt-embed above (both are apparatus, not
-     primary content), but with no video mechanics: content is markdown
-     quotes rendered normally, so `markdown="1"` on the <details> tag is
-     required -- without it kramdown treats the whole multi-line block as
-     opaque raw HTML and never re-parses the blockquotes inside (verified
-     against this site's own kramdown config; see the yt-embed.html
-     comment on the same class of bug for the single-line workaround this
-     tag doesn't need, since markdown="1" fixes it at the source). */
-  .quran-more {
-    margin: 0.6em 0;
-    border-inline-start: 0.1875em solid var(--site-src-border);
-    padding-inline-start: 0.75em;
-  }
-
   /* Closing a list point, the 0.6em bottom margin is what separates it from
      the next point -- match a <p>'s ~1.3em so the rhythm stays even. */
-  li > .yt-embed:last-child,
-  li > .quran-more:last-child {
+  li > .yt-embed:last-child {
     margin-bottom: 1.3em;
-  }
-
-  .quran-more > summary {
-    cursor: pointer;
-    color: var(--site-src-text);
-    font-size: 0.9em;
-    padding-block: 0.3em;
-    list-style: none;
-  }
-
-  .quran-more > summary::-webkit-details-marker {
-    display: none;
-  }
-
-  .quran-more > summary::before {
-    content: "\25b8";
-    display: inline-block;
-    width: 1em;
-    transition: transform 0.2s ease;
-  }
-
-  .quran-more[open] > summary::before {
-    transform: rotate(90deg);
-  }
-
-  /* Plain form: a closed box whose content is the article's own prose rather
-     than apparatus. Nothing uses it today (whole sections and section tails
-     are .read-more clamps); kept for a box of prose that wants a summary
-     label rather than a faded teaser. The toggle keeps the apparatus look
-     above, but opened it drops the taupe rule and indent and reads full
-     width. Large-text handling is with the font-size toggle rules near the
-     top of this file. */
-  .quran-more--plain {
-    border-inline-start: 0;
-    padding-inline-start: 0;
   }
 
   /* Holds the no-JS fallback link until the script in footer/custom.html
@@ -2599,7 +2539,7 @@
        sections and all -- never reaches the printed page regardless of
        what's expanded on screen. Nothing to unhide there. What DOES print
        and DOES silently omit content when collapsed is any <details> box
-       (.yt-embed below, .quran-more in quran.md): a closed one has nothing
+       (.yt-embed below): a closed one has nothing
        under its <summary> once the UA's own `details:not([open]) >
        *:not(summary) { display: none }` default is in effect, same
        mechanism as the TOC's collapsed groups but with no equivalent print
@@ -2868,11 +2808,26 @@
   }
 
   /* Collapsed by default: the <dl> only shows once the reader opens the
-     <details>. The list-style rule keeps the default disclosure triangle;
-     the summary carries a small marker gap and, when open, spacing above
-     the list. */
+     <details>. The triangle is drawn here rather than left to the UA marker,
+     which can't take a margin, so it gets a gap before the label. */
+  .glossary-key__label {
+    list-style: none;
+  }
+
   .glossary-key__label::-webkit-details-marker {
-    color: var(--mm-muted-text-color);
+    display: none;
+  }
+
+  .glossary-key__label::before {
+    content: "\25B6";
+    display: inline-block;
+    margin-inline-end: 0.7em;
+    font-size: 0.8em;
+    vertical-align: 0.05em;
+  }
+
+  .glossary-key__box[open] .glossary-key__label::before {
+    content: "\25BC";
   }
 
   .glossary-key__box[open] .glossary-key__label {
