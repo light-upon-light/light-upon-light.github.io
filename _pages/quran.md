@@ -1209,7 +1209,7 @@ The Qur'an's preservation is one of the most remarkable features of its history:
 
 <div class="read-more" data-label="More details about the Qur'an's preservation" markdown="1">
 
-#### The text, its script, and its readings
+#### <span class="sub-id">8a</span> The text, its script, and its readings
 {: #text-and-writing-system }
 
 The Qur'an's preservation involves three connected elements: the wording of the text, the script that records it, and the traditions through which it is recited. Once these are distinguished, the manuscript evidence becomes clear.
@@ -1225,7 +1225,7 @@ The Qur'an's preservation involves three connected elements: the wording of the 
 
 Zuhayr's inscription, dated 24 AH / 644–645 CE, includes consonantal dots, which is direct evidence that they were in use early, before later systems made notation more consistent. [ʿAli ibn Ibrahim Ghabban and Robert Hoyland, study of the Zuhayr inscription](https://doi.org/10.1111/j.1600-0471.2008.00297.x).
 
-#### The canonical readings
+#### <span class="sub-id">8b</span> The canonical readings
 {: #canonical-readings }
 
 The Qur'an's canonical readings preserve a defined body of transmitted variation, and both its wording and its transmission can be studied. These *qirāʾāt* [recognized Qur'anic reading traditions] are transmitted ways of reciting the Qur'an, among them the familiar Ḥafṣ transmission from ʿĀṣim and Warsh transmission from Nāfiʿ. Classical Sunni scholarship recognized ten canonical readings, each with named transmitters and specified transmission routes. This classification organized a recitation tradition that already existed.
@@ -1238,7 +1238,7 @@ Written and oral transmission supported one another. In his study of Hišām's *
 
 Muslims receive the accepted readings as authorized revelation; manuscript research traces their relationship to the early written text.
 
-#### Early variants and standardization
+#### <span class="sub-id">8c</span> Early variants and standardization
 {: #difficult-textual-evidence }
 
 1. **The Ṣanʿāʾ palimpsest preserves an early textual variant.** A palimpsest is parchment whose earlier writing was erased and written over. Its upper text follows the standard Qur'anic text, while the lower text differs in wording, additions, omissions, and arrangement. Behnam Sadeghi and Mohsen Goudarzi interpret it as an early nonstandard textual tradition. Asma Hilali offers a different account of its production and use, and some readings of the damaged undertext remain disputed. [Sadeghi and Goudarzi, “Ṣanʿāʾ 1 and the Origins of the Qur'ān”](https://doi.org/10.1515/islam-2011-0025); [Hilali, *The Sanaa Palimpsest*](https://www.iis.ac.uk/publications-listing/the-sanaa-palimpsest/).
@@ -1253,14 +1253,14 @@ Muslims receive the accepted readings as authorized revelation; manuscript resea
 
 The Qur'an's early variants and the history of its standardization belong within the account of its preservation. The evidence supports a standard text established exceptionally early and transmitted, alongside defined reading traditions, with remarkable stability.
 
-#### Early establishment of the standard text
+#### <span class="sub-id">8d</span> Early establishment of the standard text
 {: #early-textual-closure }
 
 The Qur'an's manuscripts share spelling details and relationships that point to a common written ancestor. Nicolai Sinai argues that the best starting point for historical analysis is a standard consonantal text in place by about 650 CE or earlier, a date within a generation of the Prophet's ﷺ death and close to the traditional date of ʿUthmān's standardization. [“When did the consonantal skeleton of the Quran reach closure? Part II”](https://doi.org/10.1017/S0041977X14000111).
 
 This early evidence directly challenges theories that date the Qur'an's basic composition two or three centuries later. Research into the earliest collection, regional copies, spelling, and readings refines the history of a text already established near Islam's beginnings.
 
-#### Evidence beyond Qur'an manuscripts
+#### <span class="sub-id">8e</span> Evidence beyond Qur'an manuscripts
 {: #early-documentary-evidence }
 
 Inscriptions, coins, graffiti, and papyri place Qur'anic language and early Muslim belief in dated public and everyday settings.
@@ -1274,7 +1274,7 @@ Inscriptions, coins, graffiti, and papyri place Qur'anic language and early Musl
 
 Sources: [Blair and Bloom, “Inscriptions in art and architecture”](https://www.cambridge.org/core/books/abs/cambridge-companion-to-the-quran/inscriptions-in-art-and-architecture/8B94B2FEC63E14A8447547668BCE0FED); [British Museum dinar, catalogued by Museum With No Frontiers](https://islamicart.museumwnf.org/database_item.php?id=object%3BISL%3Buk%3BMus01%3B1%3Ben); [Ghabban and Hoyland on Zuhayr](https://doi.org/10.1111/j.1600-0471.2008.00297.x); and [Robert Hoyland, “New documentary texts and the early Islamic state”](https://almuslih.org/wp-content/uploads/Library/Hoyland%2C%20R%20-%20New%20documentary%20texts%20and%20the%20early%20Islamic%20state.pdf).
 
-#### A shared language across generations and peoples
+#### <span class="sub-id">8f</span> A shared language across generations and peoples
 {: #global-arabic-transmission }
 
 The Qur'an is recited in Arabic by Muslims whose first languages are as varied as Indonesian, Turkish, Hausa, Persian, Urdu, and English. Translations make its meaning accessible, while across recognized reading traditions the shared language of worship remains its original Arabic.
@@ -1362,7 +1362,7 @@ The Qur'an also contains fulfilled predictions about identifiable people and eve
 
 The Qur'an gives a coherent account of God and humanity's relationship with Him: its teaching about worship, ethics, human dignity, and judgment is connected by divine oneness. Colin Turner examines this unifying role in his study of Said Nursi's interpretation. [“On Divine Unity,” *The Qur'an Revealed*](https://doi.org/10.1017/9783940924292.003).
 
-#### God's oneness and attributes
+#### <span class="sub-id">10a</span> God's oneness and attributes
 {: #oneness-and-divine-attributes }
 
 <div class="read-more" markdown="1">
@@ -1373,7 +1373,7 @@ The Qur'an gives a coherent account of God and humanity's relationship with Him:
 
 </div>
 
-#### God's transcendence and nearness
+#### <span class="sub-id">10b</span> God's transcendence and nearness
 {: #transcendence-and-nearness }
 
 <div class="read-more" markdown="1">
@@ -1392,7 +1392,7 @@ God is beyond comparison with creation and directly accessible in prayer, knowin
 
 </div>
 
-#### Repentance and direct access to God
+#### <span class="sub-id">10c</span> Repentance and direct access to God
 {: #direct-access-to-god }
 
 <div class="read-more" markdown="1">
@@ -1405,7 +1405,7 @@ Repentance includes faith, changed conduct, and making amends for harm done to o
 
 </div>
 
-#### Human purpose and responsibility
+#### <span class="sub-id">10d</span> Human purpose and responsibility
 {: #human-purpose }
 
 <div class="read-more" markdown="1">
@@ -1416,7 +1416,7 @@ This purpose gives lasting importance to ordinary choices: how we treat parents,
 
 </div>
 
-#### Suffering and justice
+#### <span class="sub-id">10e</span> Suffering and justice
 {: #suffering-and-justice }
 
 <div class="read-more" markdown="1">
@@ -1577,7 +1577,7 @@ These teachings join patience and hope to the duty to relieve suffering and resi
 
 The Qur'an is remarkable in breadth of subject and universal scope: it weaves theology, worship, ethics, law, family life, economics, social justice, war and peace, history, human character, nature, and the afterlife into a single worldview. It addresses the individual, family, society, and all humanity, rather than one tribe, class, place, or era.
 
-#### Gradual revelation and moral education
+#### <span class="sub-id">11a</span> Gradual revelation and moral education
 {: #progressive-pedagogy }
 
 <div class="read-more" markdown="1">
@@ -1592,7 +1592,7 @@ The Qur'an explains that gradual delivery strengthens the messenger's heart (25:
 
 These points give only a glimpse of the Qur'an's guidance. More comprehensive examples from the Qur'an and the teachings of Prophet Muhammad ﷺ appear in the [evidence on his teachings](/messenger#teachings).
 
-#### Moral Psychology and Character
+#### <span class="sub-id">11b</span> Moral Psychology and Character
 {: #moral-psychology }
 
 The Qur'an closely examines human motives, habits, and self-deception, explaining how pride, desire, fear, and social pressure lead people to resist what they know or excuse what they do. Its descriptions call readers to examine themselves.

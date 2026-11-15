@@ -1661,7 +1661,8 @@
     margin-top: 1.1em;
   }
 
-  .page__content .ev-id {
+  .page__content .ev-id,
+  .page__content .sub-id {
     display: inline-block;
     margin-inline-end: 0.5em;
     font-family: "Amiri", "Karla", -apple-system, BlinkMacSystemFont, "Roboto",
@@ -1684,7 +1685,8 @@
     text-underline-offset: 0.2em;
   }
 
-  .page__content.ev--bar .ev-id {
+  .page__content.ev--bar .ev-id,
+  .page__content.ev--bar .sub-id {
     margin-inline-end: 0.6em;
     padding-inline-end: 0.6em;
     border-inline-end: 1px solid var(--site-evidence-rule);
@@ -1693,13 +1695,15 @@
     vertical-align: 0.06em;
   }
 
-  .page__content.ev--fill .ev-id {
+  .page__content.ev--fill .ev-id,
+  .page__content.ev--fill .sub-id {
     padding: 0.05em 0.45em;
     border-radius: 3px;
     background: var(--site-evidence-fill);
   }
 
-  .page__content.ev--serif .ev-id {
+  .page__content.ev--serif .ev-id,
+  .page__content.ev--serif .sub-id {
     margin-inline-end: 0.55em;
     font-family: inherit;
     font-size: 1em;
@@ -1707,6 +1711,28 @@
     letter-spacing: 0;
     line-height: inherit;
     vertical-align: baseline;
+  }
+
+  /* A sub-heading's label ("10a", written in quran.md as
+     `#### <span class="sub-id">10a</span> Title`) wears the same style as
+     the points' labels, so section, sub-heading and point read as one
+     numbering, but sized up toward the heading it sits in: at the points'
+     own size it read as just another point. A plain span, not a link, so
+     no hover rule. The serif style's 1em already matches the heading.
+     Each margin is the points' less a word space, since the markdown
+     keeps a space between the label and the title. */
+  .page__content .sub-id {
+    margin-inline-end: 0.25em;
+    font-size: 0.85em;
+  }
+
+  .page__content.ev--bar .sub-id {
+    margin-inline-end: 0.25em;
+    font-size: 0.91em;
+  }
+
+  .page__content.ev--serif .sub-id {
+    margin-inline-end: 0.3em;
   }
 
   /* A read-more tail's one-line teaser: the label is real content now, so

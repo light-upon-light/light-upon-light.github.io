@@ -53,6 +53,7 @@ and indent from. The style (`.ev--bar`, `.ev--fill`, `.ev--serif` on
 `.page__content`) is one constant in `site.js`; `?ev=<name>` previews
 another. Gold is `--site-quote-gold`, like the section numerals; the bar's
 rule and the chip are `--site-evidence-rule` and `--site-evidence-fill`.
+`.sub-id`, a sub-heading's `10a`, takes the same style, sized up.
 Markup and numbering rules are in `formatting_guide.md`.
 
 `.toc` keeps the theme's box and per-entry dividers at both widths; the title
