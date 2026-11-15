@@ -438,7 +438,7 @@ The Qur'an's literary miracle extends far beyond beauty of expression. Its inimi
     > The Qur'an's standard of "like it" is not arbitrary: the challenge concerns its language, structure, semantic density, rhetorical force, guidance, and sustained effect on the hearts of people, all taken together. Its first audience was both the most qualified to judge the challenge and strongly motivated to reject the Qur'an. Attempts were made, most famously those attributed to Musaylima, but classical Arabic sources treated them as parody, and later critics have not presented them as serious equals.
     {: .gloss }
 
-#### The Qur'an's Account of Itself
+#### <span class="sub-id">3a</span> The Qur'an's Account of Itself
 {: #self-referential-character }
 
 <div class="read-more" markdown="1">
@@ -547,7 +547,7 @@ Anne-Sylvie Boisliveau studies how the Qur'an describes itself and argues for it
 
 A fabricator seeking safety could have preferred vague and unfalsifiable claims, and would not have repeatedly appealed to reason and invited scrutiny. The Qur'an instead repeatedly creates points at which its claims can be challenged: its literary challenge, its claims of coherence, predictions about future events, and its expectation of preservation.
 
-#### Direct engagement with the listener
+#### <span class="sub-id">4a</span> Direct engagement with the listener
 {: #reader-participation }
 
 <div class="read-more" markdown="1">
@@ -800,7 +800,7 @@ Some of the Qur'an's historical details are especially striking because they con
 
     {% include yt-embed.html url="https://youtu.be/pH5JzIAPivY" title="This Connection Proves The Prophet Muhammad ﷺ MUST Be A True Messenger Of Allah" %}
 
-#### The universality of prophecy
+#### <span class="sub-id">5a</span> The universality of prophecy
 {: #universality-of-prophecy }
 
 <div class="read-more" markdown="1">

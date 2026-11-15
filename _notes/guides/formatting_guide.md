@@ -163,7 +163,8 @@ gold chip) and `serif` (old-style figures in the reading face). Add
 `?ev=fill` or `?ev=serif` to a page's URL to preview one without changing
 the setting.
 
-A `####` sub-heading inside a numbered section carries a label of its own:
+Every `####` sub-heading inside a numbered section carries a label of its
+own, even a section's only one:
 the section's number and a letter, `#### <span class="sub-id">10a</span>
 Title`, keeping its `{: #slug }`. It is written by hand, like the section
 number, so renumbering a section means relabelling its sub-headings. The
