@@ -194,7 +194,7 @@ $black: #000;
 
   /* This repo's own palette: gold for revealed text, taupe/sepia for the
      apparatus, verdigris for the author's own commentary. */
-  --site-quote-gold: #{$gold}; // blockquote.quote border, .num-roman/.num-alpha, .ev-id labels, #font-size-toggle[aria-pressed]
+  --site-quote-gold: #{$gold}; // blockquote.quote border, .num-section, .ev-id/.sub-id labels, #font-size-toggle[aria-pressed]
   --site-evidence-rule: #{$gold-tint}; // .ev-id upright rule (bar evidence style); decorative, no contrast floor
   --site-evidence-fill: #{rgba($gold, 0.12)}; // .ev-id chip (fill evidence style), under --site-quote-gold text
   --site-src-text: #{$umber-50}; // blockquote.src text, .yt-embed summary, breadcrumb current crumb, quran-return text

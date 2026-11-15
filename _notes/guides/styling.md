@@ -51,7 +51,7 @@ that already fits is left unclamped.
 point in `quran.md`'s sections, and `.ev-list` the list it drops the marker
 and indent from. The style (`.ev--bar`, `.ev--fill`, `.ev--serif` on
 `.page__content`) is one constant in `site.js`; `?ev=<name>` previews
-another. Gold is `--site-quote-gold`, like the section numerals; the bar's
+another. Gold is `--site-quote-gold`, like the section numbers; the bar's
 rule and the chip are `--site-evidence-rule` and `--site-evidence-fill`.
 `.sub-id`, a sub-heading's `10a`, takes the same style, sized up.
 Markup and numbering rules are in `formatting_guide.md`.

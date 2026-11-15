@@ -140,8 +140,8 @@ that splits a numbered list restarts its count at 1 — continue it with
 ## Evidence numbering
 
 The numbered points in `quran.md`'s numbered sections (an `###` heading
-with a `num-roman` span) are labelled `2.14`, not `14.`. `site.js`
-(*Evidence labels*) writes the heading's numeral as a number, counts
+with a `num-section` span, `### <span class="num-section">2.</span> Title`)
+are labelled `2.14`, not `14.`. `site.js` (*Evidence labels*) counts
 straight through the section, across every list a read-more tail, `####`
 sub-heading or closed box splits it into, and drops the list marker and
 indent. So `{: start="N"}` no longer sets what readers see there. Keep it
@@ -165,10 +165,9 @@ the setting.
 
 A `####` sub-heading inside a numbered section carries a label of its own:
 the section's number and a letter, `#### <span class="sub-id">10a</span>
-Title`, keeping its `{: #slug }`. It is written by hand, like the roman
-numeral, so renumbering a section means relabelling its sub-headings. The
-points still count straight through it (`10a` can sit above `10.4`). Leave
-a section's lone closing `####` and any `#####` unlabelled.
+Title`, keeping its `{: #slug }`. It is written by hand, like the section
+number, so renumbering a section means relabelling its sub-headings. The
+points still count straight through it (`10a` can sit above `10.4`).
 
 ## Source citations
 

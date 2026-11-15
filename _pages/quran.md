@@ -154,7 +154,7 @@ This chapter argues that the Qur'an could not have been authored by anyone but G
 The argument on this page is cumulative; no individual point is presented as a standalone proof. Considered together, however, they form a case for the Qur'an's miraculous nature and the authenticity of the Prophet's mission.
 <!-- The Qur'an presents a remarkable convergence of signs pointing to its divine origin. Its mode of revelation, a literary character that its first and most capable audience could not answer, and intricate composition stand alongside the historical and natural knowledge preserved in its text, the numerical patterns running through it, its fulfilled predictions, extraordinary preservation, depth of guidance, and its relationship with the Messenger ﷺ. Taken together, they form a powerful and comprehensive case that the Qur'an is what it declares itself to be: revelation from God. -->
 
-### <span class="num-roman">I.</span> How the Qur'an Emerged
+### <span class="num-section">1.</span> How the Qur'an Emerged
 {: #mode-of-revelation }
 
 1. The Qur'an was delivered entirely by oral recitation through Prophet Muhammad ﷺ, a man from seventh-century Arabia who could neither read nor write.
@@ -175,7 +175,7 @@ The argument on this page is cumulative; no individual point is presented as a s
     > This is crucial context for everything that follows. Qualities of the Qur'an that may seem impressive on their own become dramatically more so when considered alongside the way it emerged: piecemeal and out of its final order, across 23 years of unpredictable circumstances, without revision or retraction, through public oral recitation from a man who could not read or write.
     {: .gloss }
 
-### <span class="num-roman">II.</span> Literary Miracle
+### <span class="num-section">2.</span> Literary Miracle
 {: #literary-miracle }
 
 The Qur'an's literary miracle extends far beyond beauty of expression. Its inimitability lies in an extraordinary union of composition, syntax, sound, meaning, rhetoric, and guidance.
@@ -408,7 +408,7 @@ The Qur'an's literary miracle extends far beyond beauty of expression. Its inimi
 
 </div>
 
-### <span class="num-roman">III.</span> Challenges & Bold Claims
+### <span class="num-section">3.</span> Challenges & Bold Claims
 {: #challenges-and-bold-claims }
 
 1. The Qur'an claims to be the verbatim word of God, not a report about Him or a human account inspired by Him. No other book of comparable reach makes this claim about itself.
@@ -465,7 +465,7 @@ Anne-Sylvie Boisliveau studies how the Qur'an describes itself and argues for it
 
 </div>
 
-### <span class="num-roman">IV.</span> Appeal to Reason & Invitation of Scrutiny
+### <span class="num-section">4.</span> Appeal to Reason & Invitation of Scrutiny
 {: #reason-and-scrutiny }
 
 1. The Qur'an rests its claim to authenticity on its own coherence and invites the reader to examine it closely.
@@ -558,7 +558,7 @@ It repeatedly asks its listeners to examine their own lives and answer its quest
 
 </div>
 
-### <span class="num-roman">V.</span> Earlier Scriptures & Historical Knowledge
+### <span class="num-section">5.</span> Earlier Scriptures & Historical Knowledge
 {: #knowledge-historical-scientific-and-linguistic }
 
 The Qur'an presents itself as the final revelation in the same prophetic line as Abraham, Moses, and Jesus. It recounts earlier sacred history in a voice that is authoritative and independent: it corrects theological distortions, restores pure monotheism, and reshapes familiar narratives with remarkable precision.
@@ -811,7 +811,7 @@ Divine guidance therefore extends across human history and beyond the figures th
 
 </div>
 
-### <span class="num-roman">VI.</span> Knowledge of Nature
+### <span class="num-section">6.</span> Knowledge of Nature
 {: #nature-knowledge }
 
 The Qur'an repeatedly directs human beings to the natural world as evidence of God's wisdom and power: the heavens and earth, rain, animals, human development, day and night, winds, seas, mountains, and the origins and fragility of life.
@@ -1008,7 +1008,7 @@ It also describes features of that world with remarkable precision, including ob
 
 </div>
 
-### <span class="num-roman">VII.</span> Numerical Patterns
+### <span class="num-section">7.</span> Numerical Patterns
 {: #numerical-patterns }
 
 The Qur'an contains a number of striking numerical patterns and relationships across its 114 chapters, each composed of verses in Arabic. They appear in the recurrence of particular words, grammatical forms, letters, verses, and chapter structures. Some involve concepts that the Qur'an itself explicitly connects or contrasts; others lie within the structure of individual chapters.
@@ -1149,7 +1149,7 @@ The Qur'an's numerical patterns are of three kinds. Some are exact correspondenc
 
 Their significance, therefore, is not that any matching count by itself proves divine authorship. Rather, they reveal a further level of order in a text already remarkable for its language, composition, and structure—especially when considered alongside the unusual conditions under which the Qur'an was revealed, piecemeal over twenty-three years.
 
-### <span class="num-roman">VIII.</span> Preservation & Memorization
+### <span class="num-section">8.</span> Preservation & Memorization
 {: #preservation-and-memorization }
 
 The Qur'an's preservation is one of the most remarkable features of its history: it was transmitted simultaneously through writing, memorization, public recitation, and teacher-to-student instruction from the earliest Muslim community onward.
@@ -1283,7 +1283,7 @@ The Arabic in which the Qur'an first appeared has also remained accessible, sust
 
 </div>
 
-### <span class="num-roman">IX.</span> Prophecies & Fulfilled Predictions
+### <span class="num-section">9.</span> Prophecies & Fulfilled Predictions
 {: #prophecies }
 
 The Qur'an makes bold predictions, delivered in circumstances where their fulfillment was far from guaranteed.
@@ -1357,7 +1357,7 @@ The Qur'an also contains fulfilled predictions about identifiable people and eve
 
 {% include yt-embed.html url="https://youtu.be/ezvPEwizqRc" title="Shocking Predictions in the Sunnah || Mohammed Hijab" %}
 
-### <span class="num-roman">X.</span> God, Purpose, and the Meaning of Life
+### <span class="num-section">10.</span> God, Purpose, and the Meaning of Life
 {: #theology-of-god }
 
 The Qur'an gives a coherent account of God and humanity's relationship with Him: its teaching about worship, ethics, human dignity, and judgment is connected by divine oneness. Colin Turner examines this unifying role in his study of Said Nursi's interpretation. [“On Divine Unity,” *The Qur'an Revealed*](https://doi.org/10.1017/9783940924292.003).
@@ -1431,7 +1431,7 @@ These teachings join patience and hope to the duty to relieve suffering and resi
 
 </div>
 
-### <span class="num-roman">XI.</span> Guidance, Law, and Morality
+### <span class="num-section">11.</span> Guidance, Law, and Morality
 {: #guidance-law-and-morality }
 
 1. The Qur'an presents itself as coming from the same Divine Author as the earlier scriptures. It confirms their original teaching, expands their guidance, and restores what was altered over time.
@@ -1642,7 +1642,7 @@ The Qur'an also judges worship by its effect on conduct. Chapter 107 condemns th
 
 </div>
 
-### <span class="num-roman">XII.</span> Historical Impact and Transformation
+### <span class="num-section">12.</span> Historical Impact and Transformation
 {: #historical-impact-and-transformation }
 
 1. The Prophet and the first hearers of the Qur'an remained committed through thirteen years of persecution in Mecca—mockery, beatings, starvation, boycott, and exile. Renouncing it would have ended their suffering, yet they did not.
@@ -1663,7 +1663,7 @@ The Qur'an also judges worship by its effect on conduct. Chapter 107 condemns th
 
 1. The Qur'an's teachings, taken together, form a complete moral and legal framework that holds justice and mercy in balance and historically guided a flourishing civilization. Its guidance remains directly applicable: what it addressed to seventh-century Arabs still addresses readers today.
 
-### <span class="num-roman">XIII.</span> The Qur'an and the Man Who Proclaimed It
+### <span class="num-section">13.</span> The Qur'an and the Man Who Proclaimed It
 {: #quran-and-messenger }
 
 The Qur'an's relationship to the Messenger ﷺ is itself one of the clearest signs that he was transmitting a revelation rather than composing a book of his own.
@@ -1708,7 +1708,7 @@ The Qur'an's relationship to the Messenger ﷺ is itself one of the clearest sig
     > The Qur'an consoles the Prophet ﷺ, addresses his household, responds to accusations, and comments on political and military crises. What is remarkable, therefore, is not that his circumstances leave no trace, but that personal and contingent events are repeatedly reframed into principles meant to outlive the event that triggered them.
     {: .gloss }
 
-### <span class="num-roman">XIV.</span> What Non-Muslim Scholars Have Said
+### <span class="num-section">14.</span> What Non-Muslim Scholars Have Said
 {: #outside-appraisals }
 
 The Qur'an's extraordinary character has been recognized not only by Muslims. Arabists, translators, historians, Christian scholars, and major European literary figures, approaching it from outside the Muslim tradition, have repeatedly remarked on its unique literary form, rhetorical power, beauty, influence, and resistance to translation. Their judgments are especially striking because many of these writers did not accept the Qur'an's claim to divine revelation, and some were openly critical of Islam in other respects.
@@ -1791,7 +1791,7 @@ The Qur'an's qualities that are central to the Muslim claim have repeatedly forc
 
 That agreement is particularly striking because these writers were not simply repeating Muslim devotional language. Sale, Palmer, Gibb, Guillaume, Robinson, Carlyle, Goethe, and others disagreed sharply with Islam on various questions, yet even their criticism repeatedly gave way to acknowledgment that the Qur'an was no ordinary literary phenomenon.
 
-### <span class="num-roman">XV.</span> The Cumulative Case
+### <span class="num-section">15.</span> The Cumulative Case
 {: #quran-cumulative-case }
 
 The case for the Qur'an's divine origin rests on the extraordinary convergence of its features under the conditions in which it emerged. Over twenty-three years it was recited publicly, piecemeal, and often outside its final order, through a man who could neither read nor write and had no prior literary career, in response to events he could not control. Yet the completed text:
@@ -1841,7 +1841,7 @@ His life presents a remarkable case of its own. He was known for his integrity, 
 
 Broadly speaking, Prophet Muhammad ﷺ's life can be explained in only five ways. He was a conscious fraud, sincerely mistaken, inspired by an evil source, turned into a prophet by later legend, or he was what he claimed to be: a messenger of God. His life, his message, and the historical record make the first four explanations increasingly difficult to sustain.
 
-### <span class="num-roman">I.</span> The Fraud Hypothesis
+### <span class="num-section">1.</span> The Fraud Hypothesis
 {: #the-fraud-hypothesis }
 
 Fraud usually serves some gain: wealth, status, comfort, power, or admiration. Prophet Muhammad ﷺ does not resemble a man who invented revelation to enrich or glorify himself. His mission brought him years of ridicule, isolation, persecution, and danger, and he continued preaching when compromise would have been easier.
@@ -1852,7 +1852,7 @@ The Qur'an also preserves public corrections of him. It rebukes him for turning 
 
 The evidence is collected in three places: his motives under [the competing explanations](/messenger/claim), his household under [what those closest to him saw](/messenger/character), and the Qur'an's corrections of him under [the Qur'an he delivered](/messenger/quran).
 
-### <span class="num-roman">II.</span> Sincere, but Mistaken
+### <span class="num-section">2.</span> Sincere, but Mistaken
 {: #sincere-but-mistaken }
 
 A sincere delusion can produce conviction, but Prophet Muhammad's ﷺ case involved more than conviction.
@@ -1865,7 +1865,7 @@ A supposed delusion might in principle remain coherent across decades, accompany
 
 For the range and consistency of the teaching, and for his conduct as a leader, see [worship and the inner life](/messenger/worship), [work and public responsibility](/messenger/work-and-authority), and [his life through hardship and power](/messenger/life).
 
-### <span class="num-roman">III.</span> Devil-Inspired
+### <span class="num-section">3.</span> Devil-Inspired
 {: #devil-inspired }
 
 The Qur'an relentlessly condemns Satan, idolatry, arrogance, dishonesty, exploitation, sexual immorality, and injustice. It commands prayer, charity, humility, repentance, forgiveness, care for parents and orphans, moral accountability, and worship of the Creator alone.
@@ -1874,7 +1874,7 @@ An evil source would therefore have produced a movement centered on rejecting ev
 
 The message's actual commands are set out at length under [worship and the inner life](/messenger/worship), [justice and restraint in conflict](/messenger/justice), and [care for the vulnerable and human dignity](/messenger/human-dignity).
 
-### <span class="num-roman">IV.</span> A Later Fabricated Legend
+### <span class="num-section">4.</span> A Later Fabricated Legend
 {: #a-later-fabricated-legend }
 
 Prophet Muhammad ﷺ's life and message are anchored in first-century scripture, manuscripts, inscriptions, outside testimony, and traceable streams of transmission, rather than first appearing as a polished legend centuries later.
@@ -1889,7 +1889,7 @@ Hadith transmission developed its own critical machinery. Reports circulated wit
 
 [Sources, transmission, and bibliography](/messenger/sources) sets out how the hadith record was preserved and tested; [Muhammad ﷺ and the Qur'an he delivered](/messenger/quran) covers the Qur'an's own preservation.
 
-### <span class="num-roman">V.</span> The Prophetic Explanation
+### <span class="num-section">5.</span> The Prophetic Explanation
 {: #the-prophetic-explanation }
 
 The fraud theory conflicts with Prophet Muhammad ﷺ's sacrifices, his austerity, and the Qur'an's corrections of him. The delusion theory fits poorly with decades of coherent teaching, disciplined conduct, and effective leadership. The demonic theory runs against the message's sustained orientation toward God, repentance, justice, and moral reform. The legend theory is incompatible with the early documentary and transmission evidence.

@@ -1307,9 +1307,8 @@
    Evidence labels
 
    Numbers the points of every numbered section (an h3 carrying a
-   .num-roman/.num-alpha span) as "<section>.<point>", with the heading's
-   roman numeral written as a number -- "2.14" under "II." -- and makes the
-   label a link to that point (#<section-id>-<point>, e.g.
+   .num-section span) as "<section>.<point>" -- "2.14" under "2." -- and makes
+   the label a link to that point (#<section-id>-<point>, e.g.
    #literary-miracle-14, keyed to the heading's pinned id so a section can
    move without breaking links into it). The count runs straight through a
    section, across the lists a read-more tail, a sub-heading or a closed box
@@ -1338,24 +1337,14 @@
     var asked = /[?&]ev=([a-z]+)(?=&|$)/.exec(location.search);
     var style = asked && STYLES.indexOf(asked[1]) !== -1 ? asked[1] : EVIDENCE_STYLE;
 
-    function fromRoman(s) {
-      var v = { I: 1, V: 5, X: 10, L: 50, C: 100 }, n = 0;
-      for (var i = 0; i < s.length; i++) {
-        var a = v[s[i]], b = v[s[i + 1]];
-        if (!a) return s; // not a roman numeral (a .num-alpha letter): keep it
-        n += b > a ? -a : a;
-      }
-      return String(n);
-    }
-
     var walker = document.createTreeWalker(root, NodeFilter.SHOW_ELEMENT);
-    var section = null, numeral = "", count = 0, any = false, el;
+    var section = null, number = "", count = 0, any = false, el;
 
     while ((el = walker.nextNode())) {
       if (el.tagName === "H2" || el.tagName === "H3") {
-        var num = el.tagName === "H3" && el.querySelector(".num-roman, .num-alpha");
+        var num = el.tagName === "H3" && el.querySelector(".num-section");
         section = num && el.id ? el : null;
-        numeral = num ? fromRoman(num.textContent.replace(/\.\s*$/, "").trim()) : "";
+        number = num ? num.textContent.replace(/\.\s*$/, "").trim() : "";
         count = 0;
       } else if (el.tagName === "OL" && section &&
                  !el.parentElement.closest("li, blockquote, .footnotes, .tldr")) {
@@ -1367,7 +1356,7 @@
           var label = document.createElement("a");
           label.className = "ev-id";
           label.href = "#" + li.id;
-          label.textContent = numeral + "." + count;
+          label.textContent = number + "." + count;
           label.title = "Link to this point";
           // Into the first paragraph when the item opens with one, so the
           // label shares its line rather than sitting on one of its own.
