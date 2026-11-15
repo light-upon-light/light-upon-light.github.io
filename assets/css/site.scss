@@ -1008,6 +1008,14 @@
     margin-top: 1.3em !important;
   }
 
+  /* `##` up from the theme's 1.25em: quran.md's numbered `###` sections
+     are 1.3em (see Section numbering below), and the parts that hold them
+     must not read smaller than they do. Sitewide so a level is one size on
+     every page. Below the page title (.page__title). */
+  .page__content h2 {
+    font-size: 1.5em;
+  }
+
   /* Section numbering (quran.md): the number is written directly in the
      markdown, wrapped in a <span class="num-section"> right in the heading
      text, with its full stop in a .num-dot of its own -- e.g.
