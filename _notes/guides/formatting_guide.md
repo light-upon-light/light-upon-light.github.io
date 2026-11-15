@@ -140,11 +140,12 @@ that splits a numbered list restarts its count at 1 — continue it with
 ## Evidence numbering
 
 The numbered points in `quran.md`'s numbered sections (an `###` heading
-with a `num-section` span, `### <span class="num-section">2.</span> Title`)
-are labelled `2.14`, not `14.`. `site.js` (*Evidence labels*) counts
-straight through the section, across every list a read-more tail, `####`
-sub-heading or closed box splits it into, and drops the list marker and
-indent. So `{: start="N"}` no longer sets what readers see there. Keep it
+with a `num-section` span, `### <span class="num-section">2<span
+class="num-dot">.</span></span> Title`, which the page shows as a "SECTION 2"
+line above the title) are labelled `2.14`, not `14.`. `site.js`
+(*Evidence labels*) counts straight through the section, across every list
+a read-more tail, `####` sub-heading or closed box splits it into, and drops
+the list marker and indent. So `{: start="N"}` no longer sets what readers see there. Keep it
 anyway: it is what a reader without JavaScript gets. Author the points as
 ordinary `1.` items. A point may run to several paragraphs: indent the later
 ones under the item like its quotes. A point with a short title, optionally
