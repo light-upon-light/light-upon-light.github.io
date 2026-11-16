@@ -1832,12 +1832,12 @@ The Qur'an's own explanation accounts for that convergence directly: it is revel
 
 ## The Messenger of God ﷺ
 
-The Qur'an, with everything described above, was recited over twenty-three years in seventh-century Arabia by one man who could neither read nor write. But it cannot be separated from the man who delivered it. Its extraordinary qualities came through a man whose character, life, and message were themselves extraordinary, so the two lines of evidence reinforce one another. Taken together, they point overwhelmingly toward the same conclusion: that Prophet Muhammad ﷺ was what he claimed to be—a true prophet of God.
-
-His life presents a remarkable case of its own. He was known for his integrity, endured years of persecution and sacrifice for his message, and lived according to what he preached. The teachings and example he left behind transformed Arabia and shaped the lives of generations after him. His life was also preserved in extraordinary detail and rigor through reports from his family, companions, servants, followers, and even opponents.
+The Qur'an cannot be separated from the man who delivered it. Its extraordinary qualities came through a man whose character, life, and message were themselves extraordinary, and the two lines of evidence reinforce one another. Taken together, they point overwhelmingly toward the same conclusion: that Prophet Muhammad ﷺ was what he claimed to be—a true prophet of God.
 
 ### Was Muhammad ﷺ Truly a Prophet?
 {: #was-muhammad-truly-a-prophet }
+
+His life presents a remarkable case of its own. He was known for his integrity, endured years of persecution and sacrifice for his message, and lived according to what he preached. The teachings and example he left behind transformed Arabia and shaped the lives of generations after him. His life was also preserved in extraordinary detail and rigor through reports from his family, companions, servants, followers, and even opponents.
 
 Broadly speaking, Prophet Muhammad ﷺ's life can be explained in only five ways. He was a conscious fraud, sincerely mistaken, inspired by an evil source, turned into a prophet by later legend, or he was what he claimed to be: a messenger of God. His life, his message, and the historical record make the first four explanations increasingly difficult to sustain.
 
